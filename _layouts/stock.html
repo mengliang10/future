@@ -1,0 +1,128 @@
+---
+layout: default
+---
+
+<div class="stock-header">
+  <div class="stock-title-group">
+    <h1 class="stock-name">{{ page.name }} ({{ page.symbol }})</h1>
+    <span class="stock-exchange">{{ page.exchange }}</span>
+  </div>
+  <div class="stock-badges">
+    {% for category in page.categories %}
+    <span class="tag">{{ category }}</span>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="stock-grid">
+  <!-- Left Column: Chart -->
+  <div class="stock-main-col">
+    <!-- TradingView Widget BEGIN -->
+    <div class="tradingview-widget-container" style="height: 500px; margin-bottom: 2rem; border: 1px solid var(--border); border-radius: var(--radius-lg); overflow: hidden;">
+      <div id="tradingview_chart"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+      <script type="text/javascript">
+      new TradingView.widget(
+      {
+        "autosize": true,
+        "symbol": "{{ page.exchange }}:{{ page.symbol }}",
+        "interval": "D",
+        "timezone": "Etc/UTC",
+        "theme": "dark",
+        "style": "1",
+        "locale": "en",
+        "toolbar_bg": "#f1f3f6",
+        "enable_publishing": false,
+        "hide_side_toolbar": false,
+        "allow_symbol_change": true,
+        "container_id": "tradingview_chart"
+      }
+      );
+      </script>
+    </div>
+    <!-- TradingView Widget END -->
+
+    <div class="stock-content">
+      {{ content }}
+    </div>
+  </div>
+
+  <!-- Right Column: Sidebar Info -->
+  <div class="stock-side-col">
+    
+    <!-- Technical Analysis Widget -->
+    <div class="stock-card">
+      <h3>Technical Summary</h3>
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+        {
+          "interval": "1D",
+          "width": "100%",
+          "isTransparent": true,
+          "height": 450,
+          "symbol": "{{ page.exchange }}:{{ page.symbol }}",
+          "showIntervalTabs": true,
+          "locale": "en",
+          "colorTheme": "dark"
+        }
+        </script>
+      </div>
+    </div>
+
+    <!-- Company Profile Widget -->
+    <div class="stock-card" style="margin-top: 2rem;">
+      <h3>Company Profile</h3>
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-profile.js" async>
+        {
+          "width": "100%",
+          "height": 300,
+          "colorTheme": "dark",
+          "isTransparent": true,
+          "symbol": "{{ page.exchange }}:{{ page.symbol }}",
+          "locale": "en"
+        }
+        </script>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<style>
+.stock-header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.stock-name { font-size: 2.4rem; margin-bottom: 0.5rem; }
+.stock-exchange { color: var(--text-3); font-size: 0.9rem; font-family: var(--font-mono); }
+.stock-badges { margin-top: 1rem; display: flex; gap: 0.5rem; }
+
+.stock-grid {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 2.5rem;
+}
+
+@media (max-width: 1024px) {
+  .stock-grid { grid-template-columns: 1fr; }
+  .stock-side-col { order: -1; }
+}
+
+.stock-card {
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+}
+.stock-card h3 {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-3);
+}
+</style>

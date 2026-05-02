@@ -21,6 +21,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+collections:
+  stocks:
+    output: true
+    permalink: /stocks/:path/
+
 # Exclude from build output
 exclude:
   - scripts/
