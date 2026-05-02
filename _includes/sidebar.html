@@ -21,31 +21,22 @@
       </a>
     </li>
 
-    <!-- Sector Themes -->
+    <!-- Combined Market Intelligence -->
     <li class="nav-item nav-has-children {% if page.url contains '/sectors' %}active open{% endif %}">
-      <button class="nav-link nav-toggle" aria-expanded="false">
-        <i data-feather="grid"></i>
-        <span>Sector Themes</span>
-        <i data-feather="chevron-down" class="chevron"></i>
-      </button>
-      <ul class="nav-sub">
-        <li><a href="{{ '/sectors/ai/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/ai' %}active{% endif %}">Artificial Intelligence</a></li>
-        <li><a href="{{ '/sectors/semiconductors/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/semi' %}active{% endif %}">Semiconductors</a></li>
-        <li><a href="{{ '/sectors/quantum/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/quantum' %}active{% endif %}">Quantum Computing</a></li>
-        <li><a href="{{ '/sectors/energy/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/energy' %}active{% endif %}">Energy Tech</a></li>
-        <li><a href="{{ '/sectors/hardware/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/hardware' %}active{% endif %}">Hardware</a></li>
-        <li><a href="{{ '/sectors/software/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/software' %}active{% endif %}">Software</a></li>
-      </ul>
-    </li>
-
-    <!-- Market Intelligence (Deep Research) -->
-    <li class="nav-item nav-has-children {% if page.url contains '/sectors/intelligence' %}active open{% endif %}">
       <button class="nav-link nav-toggle" aria-expanded="false">
         <i data-feather="cpu"></i>
         <span>Market Intelligence</span>
         <i data-feather="chevron-down" class="chevron"></i>
       </button>
       <ul class="nav-sub">
+        <li class="nav-sub-header">Core Sectors</li>
+        <li><a href="{{ '/sectors/ai/' | relative_url }}" class="nav-sub-link {% if page.url == '/future/sectors/ai/' %}active{% endif %}">Artificial Intelligence</a></li>
+        <li><a href="{{ '/sectors/semiconductors/' | relative_url }}" class="nav-sub-link {% if page.url == '/future/sectors/semiconductors/' %}active{% endif %}">Semiconductors</a></li>
+        <li><a href="{{ '/sectors/energy/' | relative_url }}" class="nav-sub-link {% if page.url == '/future/sectors/energy/' %}active{% endif %}">Energy Tech</a></li>
+        <li><a href="{{ '/sectors/hardware/' | relative_url }}" class="nav-sub-link {% if page.url == '/future/sectors/hardware/' %}active{% endif %}">Hardware</a></li>
+        <li><a href="{{ '/sectors/software/' | relative_url }}" class="nav-sub-link {% if page.url == '/future/sectors/software/' %}active{% endif %}">Software</a></li>
+        
+        <li class="nav-sub-header">Deep Research</li>
         <li><a href="{{ '/sectors/intelligence/chips/accelerator-hbm/' | relative_url }}" class="nav-sub-link {% if page.url contains 'accelerator-hbm' %}active{% endif %}">Accelerator & HBM</a></li>
         <li><a href="{{ '/sectors/intelligence/chips/chipbook/' | relative_url }}" class="nav-sub-link {% if page.url contains 'chipbook' %}active{% endif %}">ChipBook & Research</a></li>
         <li><a href="{{ '/sectors/intelligence/chips/foundry-wfe/' | relative_url }}" class="nav-sub-link {% if page.url contains 'foundry-wfe' %}active{% endif %}">Foundry & WFE</a></li>

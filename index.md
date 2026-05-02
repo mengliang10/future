@@ -103,42 +103,32 @@ title: Home
 
 </div>
 
-<!-- Sector Themes -->
+<!-- Market Intelligence -->
 <div class="section-heading">
-  <h2>Sector Themes</h2>
-  <span class="section-sub">Pick a sector to explore stocks, analysis, and roadmaps</span>
+  <h2>Market Intelligence</h2>
+  <span class="section-sub">High-conviction research across core sectors and deep-dive technical themes.</span>
 </div>
 
 <div class="sector-grid">
   <a href="{{ '/sectors/ai/' | relative_url }}" class="sector-card">
     <div class="sector-card-icon">&#129302;</div>
-    <div class="sector-card-name">Artificial Intelligence</div>
-    <div class="sector-card-desc">LLMs, AI chips, inference infrastructure, enterprise AI deployment and the race to AGI.</div>
+    <div class="sector-card-name">AI & Machine Learning</div>
+    <div class="sector-card-desc">LLM unit economics, inference infrastructure, and the competitive landscape of model frameworks.</div>
   </a>
   <a href="{{ '/sectors/semiconductors/' | relative_url }}" class="sector-card">
     <div class="sector-card-icon">&#128421;</div>
-    <div class="sector-card-name">Semiconductors</div>
-    <div class="sector-card-desc">Foundries, fabless design, EUV lithography, packaging, and the global chip supply chain.</div>
+    <div class="sector-card-name">Advanced Semiconductors</div>
+    <div class="sector-card-desc">Foundry yields, High-NA EUV, Advanced Packaging (CoWoS), and the global WFE supply chain.</div>
   </a>
-  <a href="{{ '/sectors/quantum/' | relative_url }}" class="sector-card">
+  <a href="{{ '/sectors/intelligence/chips/accelerator-hbm/' | relative_url }}" class="sector-card">
     <div class="sector-card-icon">&#128307;</div>
-    <div class="sector-card-name">Quantum Computing</div>
-    <div class="sector-card-desc">Hardware platforms, error correction progress, and which stocks are positioned for the quantum era.</div>
+    <div class="sector-card-name">Accelerator & HBM</div>
+    <div class="sector-card-desc">The high-bandwidth memory wall and technical audits of the NVIDIA/AMD accelerator roadmap.</div>
   </a>
   <a href="{{ '/sectors/energy/' | relative_url }}" class="sector-card">
     <div class="sector-card-icon">&#9889;</div>
-    <div class="sector-card-name">Energy Tech</div>
-    <div class="sector-card-desc">Clean energy, grid infrastructure, nuclear fusion timelines, and power demand from AI data centres.</div>
-  </a>
-  <a href="{{ '/sectors/hardware/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#128421;</div>
-    <div class="sector-card-name">Hardware</div>
-    <div class="sector-card-desc">Servers, networking, storage, and the physical infrastructure powering the AI supercycle.</div>
-  </a>
-  <a href="{{ '/sectors/software/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#128187;</div>
-    <div class="sector-card-name">Software</div>
-    <div class="sector-card-desc">Cloud platforms, cybersecurity, AI-native SaaS, and the software layer monetising the AI build-out.</div>
+    <div class="sector-card-name">Energy & Power Models</div>
+    <div class="sector-card-desc">AI Data Center power demand, modular reactors, and the physics of the grid bottleneck.</div>
   </a>
 </div>
 

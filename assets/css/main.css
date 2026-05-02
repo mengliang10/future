@@ -40,7 +40,11 @@
 
 /* --- Reset --- */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { font-size: 15px; scroll-behavior: smooth; }
+html { 
+  font-size: 15px; 
+  scroll-behavior: smooth; 
+  background-color: #050d1a; /* Fix: prevents white flash on page load */
+}
 body {
   background: var(--bg-1);
   color: var(--text-1);
@@ -206,6 +210,18 @@ blockquote {
   margin-left: 1.25rem;
 }
 .nav-item.open > .nav-sub { display: block; }
+
+.nav-sub-header {
+  font-family: var(--font-head);
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--text-3);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 0.8rem 1rem 0.3rem 1.25rem;
+  opacity: 0.8;
+}
+
 .nav-sub-link {
   display: block;
   padding: 0.45rem 1rem 0.45rem 1.25rem;
