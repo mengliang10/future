@@ -38,6 +38,25 @@
       </ul>
     </li>
 
+    <!-- Market Intelligence (Deep Research) -->
+    <li class="nav-item nav-has-children {% if page.url contains '/sectors/intelligence' %}active open{% endif %}">
+      <button class="nav-link nav-toggle" aria-expanded="false">
+        <i data-feather="cpu"></i>
+        <span>Market Intelligence</span>
+        <i data-feather="chevron-down" class="chevron"></i>
+      </button>
+      <ul class="nav-sub">
+        <li><a href="{{ '/sectors/intelligence/chips/accelerator-hbm/' | relative_url }}" class="nav-sub-link {% if page.url contains 'accelerator-hbm' %}active{% endif %}">Accelerator & HBM</a></li>
+        <li><a href="{{ '/sectors/intelligence/chips/chipbook/' | relative_url }}" class="nav-sub-link {% if page.url contains 'chipbook' %}active{% endif %}">ChipBook & Research</a></li>
+        <li><a href="{{ '/sectors/intelligence/chips/foundry-wfe/' | relative_url }}" class="nav-sub-link {% if page.url contains 'foundry-wfe' %}active{% endif %}">Foundry & WFE</a></li>
+        <li><a href="{{ '/sectors/intelligence/chips/memory-storage/' | relative_url }}" class="nav-sub-link {% if page.url contains 'memory-storage' %}active{% endif %}">Memory & Storage</a></li>
+        <li><a href="{{ '/sectors/intelligence/infrastructure/networking-optics/' | relative_url }}" class="nav-sub-link {% if page.url contains 'networking-optics' %}active{% endif %}">Networking & Optics</a></li>
+        <li><a href="{{ '/sectors/intelligence/infrastructure/fab-maps-clusters/' | relative_url }}" class="nav-sub-link {% if page.url contains 'fab-maps-clusters' %}active{% endif %}">Fab Maps & Clusters</a></li>
+        <li><a href="{{ '/sectors/intelligence/economics/ai-cloud-tco/' | relative_url }}" class="nav-sub-link {% if page.url contains 'ai-cloud-tco' %}active{% endif %}">AI Cloud TCO</a></li>
+        <li><a href="{{ '/sectors/intelligence/economics/gpu-pricing/' | relative_url }}" class="nav-sub-link {% if page.url contains 'gpu-pricing' %}active{% endif %}">GPU Pricing Index</a></li>
+      </ul>
+    </li>
+
     <!-- Stocks -->
     <li class="nav-item {% if page.url contains '/stocks' %}active{% endif %}">
       <a href="{{ '/stocks/' | relative_url }}" class="nav-link">
