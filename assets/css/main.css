@@ -763,8 +763,16 @@ blockquote {
 .td-ticker {
   font-family: var(--font-mono);
   font-weight: 600;
-  color: var(--accent);
   font-size: 0.82rem;
+}
+.ticker-link {
+  color: var(--accent);
+  text-decoration: none;
+  transition: all var(--transition);
+}
+.ticker-link:hover {
+  color: #fff;
+  text-decoration: underline;
 }
 .td-name { color: var(--text-2); max-width: 200px; }
 .td-price {

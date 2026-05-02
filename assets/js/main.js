@@ -182,9 +182,11 @@ function initStocksTable() {
       const pct = s.change_pct !== null ? (up ? '+' : '') + s.change_pct.toFixed(2) + '%' : '—';
       const chg = s.change !== null ? (up ? '+' : '') + '$' + Math.abs(s.change).toFixed(2) : '—';
       const mkt = s.market_cap ? formatMarketCap(s.market_cap) : '—';
+      const url = `${base}/stocks/${s.ticker.toLowerCase()}/`;
+      
       return `
         <tr>
-          <td class="td-ticker">${s.ticker}</td>
+          <td class="td-ticker"><a href="${url}" class="ticker-link">${s.ticker}</a></td>
           <td class="td-name">${s.name}</td>
           <td class="td-sector"><span class="tag">${s.sector || '—'}</span></td>
           <td class="td-price">$${s.price ? s.price.toFixed(2) : '—'}</td>
