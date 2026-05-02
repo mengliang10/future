@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+
+  <!-- Mobile top bar -->
+  <div class="topbar">
+    <button class="hamburger" id="hamburgerBtn" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </button>
+    <span class="topbar-title">FUTURE TRENDS</span>
+  </div>
+
+  <!-- Sidebar overlay (mobile) -->
+  <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+  <!-- Fixed left sidebar -->
+  {% include sidebar.html %}
+
+  <!-- Main content -->
+  <main class="main-content" id="mainContent">
+    <div class="content-inner">
+      {{ content }}
+    </div>
+    {% include footer.html %}
+  </main>
+
+  <!-- Marketing tags placeholder — add GTM, GA4, Meta Pixel etc. here after finalising look & feel -->
+  {% include marketing-tags.html %}
+
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+<nav class="sidebar" id="sidebar" role="navigation" aria-label="Main navigation">
+
+  <!-- Brand -->
+  <div class="sidebar-brand">
+    <a href="{{ '/' | relative_url }}" class="brand-link">
+      <span class="brand-name">FUTURE<br>TRENDS</span>
+    </a>
+    <p class="brand-tagline">The future of tech &amp; AI — today.</p>
+  </div>
+
+  <div class="sidebar-divider"></div>
+
+  <!-- Navigation -->
+  <ul class="nav-list">
+
+    <!-- Home -->
+    <li class="nav-item {% if page.url == '/' or page.url == '/future/' %}active{% endif %}">
+      <a href="{{ '/' | relative_url }}" class="nav-link">
+        <i data-feather="home"></i>
+        <span>Home</span>
+      </a>
+    </li>
+
+    <!-- Sector Themes -->
+    <li class="nav-item nav-has-children {% if page.url contains '/sectors' %}active open{% endif %}">
+      <button class="nav-link nav-toggle" aria-expanded="false">
+        <i data-feather="grid"></i>
+        <span>Sector Themes</span>
+        <i data-feather="chevron-down" class="chevron"></i>
+      </button>
+      <ul class="nav-sub">
+        <li><a href="{{ '/sectors/ai/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/ai' %}active{% endif %}">Artificial Intelligence</a></li>
+        <li><a href="{{ '/sectors/semiconductors/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/semi' %}active{% endif %}">Semiconductors</a></li>
+        <li><a href="{{ '/sectors/quantum/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/quantum' %}active{% endif %}">Quantum Computing</a></li>
+        <li><a href="{{ '/sectors/energy/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/energy' %}active{% endif %}">Energy Tech</a></li>
+        <li><a href="{{ '/sectors/hardware/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/hardware' %}active{% endif %}">Hardware</a></li>
+        <li><a href="{{ '/sectors/software/' | relative_url }}" class="nav-sub-link {% if page.url contains '/sectors/software' %}active{% endif %}">Software</a></li>
+      </ul>
+    </li>
+
+    <!-- Stocks -->
+    <li class="nav-item {% if page.url contains '/stocks' %}active{% endif %}">
+      <a href="{{ '/stocks/' | relative_url }}" class="nav-link">
+        <i data-feather="trending-up"></i>
+        <span>Stocks</span>
+      </a>
+    </li>
+
+    <!-- Technology Roadmap -->
+    <li class="nav-item nav-has-children {% if page.url contains '/roadmap' %}active open{% endif %}">
+      <button class="nav-link nav-toggle" aria-expanded="false">
+        <i data-feather="map"></i>
+        <span>Tech Roadmap</span>
+        <i data-feather="chevron-down" class="chevron"></i>
+      </button>
+      <ul class="nav-sub">
+        <li><a href="{{ '/roadmap/now-2028/' | relative_url }}" class="nav-sub-link {% if page.url contains 'now-2028' %}active{% endif %}">Now — 2028</a></li>
+        <li><a href="{{ '/roadmap/2028-2030/' | relative_url }}" class="nav-sub-link {% if page.url contains '2028-2030' %}active{% endif %}">2028 — 2030</a></li>
+        <li><a href="{{ '/roadmap/2030-2040/' | relative_url }}" class="nav-sub-link {% if page.url contains '2030-2040' %}active{% endif %}">2030 — 2040</a></li>
+        <li><a href="{{ '/roadmap/2040-2050/' | relative_url }}" class="nav-sub-link {% if page.url contains '2040-2050' %}active{% endif %}">2040 — 2050</a></li>
+        <li><a href="{{ '/roadmap/2050-plus/' | relative_url }}" class="nav-sub-link {% if page.url contains '2050-plus' %}active{% endif %}">2050 and Beyond</a></li>
+        <li><a href="{{ '/roadmap/far-future/' | relative_url }}" class="nav-sub-link {% if page.url contains 'far-future' %}active{% endif %}">The Very Far Future</a></li>
+      </ul>
+    </li>
+
+    <!-- Blog -->
+    <li class="nav-item {% if page.url contains '/blog' %}active{% endif %}">
+      <a href="{{ '/blog/' | relative_url }}" class="nav-link">
+        <i data-feather="edit-3"></i>
+        <span>Blog</span>
+      </a>
+    </li>
+
+  </ul>
+
+  <div class="sidebar-divider"></div>
+
+  <!-- Secondary links -->
+  <ul class="nav-list nav-secondary">
+    <li class="nav-item {% if page.url contains '/about' %}active{% endif %}">
+      <a href="{{ '/about/' | relative_url }}" class="nav-link">
+        <i data-feather="user"></i>
+        <span>About</span>
+      </a>
+    </li>
+    <li class="nav-item {% if page.url contains '/contact' %}active{% endif %}">
+      <a href="{{ '/contact/' | relative_url }}" class="nav-link">
+        <i data-feather="mail"></i>
+        <span>Contact</span>
+      </a>
+    </li>
+  </ul>
+
+  <div class="sidebar-footer">
+    <p class="sidebar-disclaimer">Analysis only. Not financial advice.</p>
+  </div>
+
+</nav>

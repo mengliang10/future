@@ -1,0 +1,51 @@
+title: Future Trends
+tagline: "The future of technology and AI — today."
+description: "Precise, actionable intelligence on semiconductors, AI, quantum computing, and the technologies shaping tomorrow. Linked to stocks, roadmaps, and real money."
+baseurl: "/future"
+url: "https://mengliang10.github.io"
+
+author:
+  name: Tan Meng Liang
+  location: Singapore
+  email: mengliang.online@gmail.com
+  linkedin: in/mengliang
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+# Plugins (all GitHub Pages whitelisted)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from build output
+exclude:
+  - scripts/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - "*.sh"
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+
+# SEO tag settings
+twitter:
+  username: futuretrends
+logo: /assets/images/logo.png
+
+# Feed
+feed:
+  path: feed.xml

@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <div class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+      {% if page.category %}<span class="separator">·</span><span class="tag">{{ page.category }}</span>{% endif %}
+      {% if page.read_time %}<span class="separator">·</span><span>{{ page.read_time }} min read</span>{% endif %}
+    </div>
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="post-subtitle">{{ page.subtitle }}</p>{% endif %}
+    {% if page.tickers %}
+    <div class="post-tickers">
+      {% for ticker in page.tickers %}
+        <span class="ticker-badge" data-ticker="{{ ticker }}">{{ ticker }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </header>
+
+  {% if page.image %}
+  <div class="post-hero-image">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+
+  <div class="post-body">
+    {{ content }}
+  </div>
+
+  <footer class="post-footer">
+    <div class="post-tags">
+      {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    <div class="post-disclaimer">
+      <strong>Disclaimer:</strong> This is analysis and commentary, not financial advice. Always do your own research.
+    </div>
+  </footer>
+</article>
