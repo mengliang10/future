@@ -184,6 +184,13 @@ function initStocksTable() {
       const mkt = s.market_cap ? formatMarketCap(s.market_cap) : '—';
       const url = `${base}/stocks/${s.ticker.toLowerCase()}/`;
       
+      // Signal color coding
+      let signalClass = '';
+      if (s.signal) {
+        if (s.signal.includes('BUY')) signalClass = 'up';
+        if (s.signal.includes('SELL')) signalClass = 'down';
+      }
+
       return `
         <tr>
           <td class="td-ticker"><a href="${url}" class="ticker-link">${s.ticker}</a></td>
@@ -192,6 +199,8 @@ function initStocksTable() {
           <td class="td-price">$${s.price ? s.price.toFixed(2) : '—'}</td>
           <td class="td-change ${up ? 'up' : 'down'}">${chg}</td>
           <td class="td-change ${up ? 'up' : 'down'}">${pct}</td>
+          <td class="td-signal ${signalClass}" style="text-align:center; font-weight:600; font-size:0.75rem; text-transform:uppercase;">${s.signal || '—'}</td>
+          <td class="td-rsi" style="text-align:right; font-family:var(--font-mono);">${s.rsi ? s.rsi.toFixed(1) : '—'}</td>
           <td class="td-mktcap">${mkt}</td>
         </tr>`;
     }).join('');

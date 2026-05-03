@@ -34,11 +34,13 @@ permalink: /stocks/
         <th data-sort="price" style="text-align:right;">Price</th>
         <th data-sort="change" style="text-align:right;">Change</th>
         <th data-sort="change_pct" style="text-align:right;">% Change</th>
+        <th data-sort="signal" style="text-align:center;">Signal</th>
+        <th data-sort="rsi" style="text-align:right;">RSI</th>
         <th data-sort="market_cap" style="text-align:right;">Market Cap</th>
       </tr>
     </thead>
     <tbody id="stocks-tbody">
-      <tr><td colspan="7" style="text-align:center; color:var(--text-3); padding:2rem;">Loading stock data&hellip;</td></tr>
+      <tr><td colspan="9" style="text-align:center; color:var(--text-3); padding:2rem;">Loading stock data&hellip;</td></tr>
     </tbody>
   </table>
 </div>
