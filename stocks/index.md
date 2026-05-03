@@ -6,23 +6,6 @@ permalink: /stocks/
 ---
 
 <div class="section-heading">
-  <h2>Stock Deep Research</h2>
-  <span class="section-sub">Individual analysis pages with live charts and technical audits.</span>
-</div>
-
-<div class="post-list" style="margin-bottom: 3rem;">
-  {% for stock in site.stocks %}
-  <a href="{{ stock.url | relative_url }}" class="post-list-item" style="text-decoration:none; color:inherit; display:flex; align-items:center; gap: 1.5rem;">
-    <div class="ticker-badge" style="font-size: 1.2rem; min-width: 80px; text-align: center;">{{ stock.symbol }}</div>
-    <div>
-      <div class="post-list-title" style="margin:0;">{{ stock.name }}</div>
-      <div class="post-list-excerpt" style="margin:0; font-size: 0.85rem;">{{ stock.content | strip_html | truncate: 120 }}</div>
-    </div>
-  </a>
-  {% endfor %}
-</div>
-
-<div class="section-heading">
   <h2>All Tracked Symbols</h2>
   <span class="section-sub">100 tracked tech and future-tech stocks — sortable and filterable.</span>
 </div>
