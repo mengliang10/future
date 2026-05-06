@@ -199,8 +199,11 @@ function initStocksTable() {
           <td class="td-price">$${s.price ? s.price.toFixed(2) : '—'}</td>
           <td class="td-change ${up ? 'up' : 'down'}">${chg}</td>
           <td class="td-change ${up ? 'up' : 'down'}">${pct}</td>
-          <td class="td-signal ${signalClass}" style="text-align:center; font-weight:600; font-size:0.75rem; text-transform:uppercase;">${s.signal || '—'}</td>
-          <td class="td-rsi" style="text-align:right; font-family:var(--font-mono);">${s.rsi ? s.rsi.toFixed(1) : '—'}</td>
+          <td class="td-rsi" style="text-align:right">${s.rsi ? s.rsi.toFixed(1) : '—'}</td>
+          <td class="td-timing">${renderTimingBadge(s.timing_quality, s.timing_action)}</td>
+          <td class="td-regime">${renderRegimeBadge(s.regime)}</td>
+          <td class="td-alpha">${renderAlphaBadge(s.alpha_signal, s.alpha_bullish_pct)}</td>
+          <td class="td-factor">${renderFactorBar(s.factor_score)}</td>
           <td class="td-mktcap">${mkt}</td>
         </tr>`;
     }).join('');
@@ -215,4 +218,47 @@ function formatMarketCap(val) {
   if (val >= 1e9)  return '$' + (val / 1e9).toFixed(1) + 'B';
   if (val >= 1e6)  return '$' + (val / 1e6).toFixed(0) + 'M';
   return '$' + val;
+}
+
+/* ── Engine metric renderers ── */
+
+function renderTimingBadge(quality, action) {
+  if (quality === null || quality === undefined) return '<span class="badge badge-na">—</span>';
+  let cls = 'badge ';
+  if (quality >= 70) cls += 'badge-green';
+  else if (quality >= 40) cls += 'badge-yellow';
+  else cls += 'badge-red';
+  return `<span class="${cls}" title="${action}">${Math.round(quality)}</span>`;
+}
+
+function renderRegimeBadge(regime) {
+  if (!regime || regime === 'N/A') return '<span class="badge badge-na">—</span>';
+  const map = {
+    'TRENDING_UP':   ['badge-green',  '↑ TREND'],
+    'TRENDING_DOWN': ['badge-red',    '↓ TREND'],
+    'RANGE_BOUND':   ['badge-yellow', '↔ RANGE'],
+    'HIGH_VOL':      ['badge-red',    '⚡ VOL'],
+    'LOW_VOL':       ['badge-blue',   '~ LOW VOL'],
+  };
+  const [cls, label] = map[regime] || ['badge-na', regime];
+  return `<span class="badge ${cls}">${label}</span>`;
+}
+
+function renderAlphaBadge(signal, pct) {
+  if (!signal || signal === 'N/A') return '<span class="badge badge-na">—</span>';
+  let cls = 'badge ';
+  if (signal === 'BULLISH') cls += 'badge-green';
+  else if (signal === 'BEARISH') cls += 'badge-red';
+  else cls += 'badge-yellow';
+  const pctStr = pct !== undefined ? ` ${Math.round(pct)}%` : '';
+  return `<span class="${cls}">${signal[0]}${pctStr}</span>`;
+}
+
+function renderFactorBar(score) {
+  if (score === null || score === undefined) return '<span class="badge badge-na">—</span>';
+  const pct = Math.round(score);
+  let color = 'var(--red)';
+  if (pct >= 60) color = 'var(--green)';
+  else if (pct >= 40) color = 'var(--yellow)';
+  return `<div class="factor-bar"><div class="factor-fill" style="width:${pct}%;background:${color}"></div><span>${pct}</span></div>`;
 }

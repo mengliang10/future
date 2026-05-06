@@ -1006,3 +1006,46 @@ blockquote {
   .hero-title { font-size: 1.5rem; }
   .analysis-grid { grid-template-columns: 1fr; }
 }
+
+/* ── Engine Metric Badges ── */
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  font-family: var(--font-mono);
+  text-align: center;
+  min-width: 28px;
+}
+.badge-green  { background: rgba(0,200,100,0.15); color: #00c864; }
+.badge-yellow { background: rgba(255,180,0,0.15);  color: #ffb400; }
+.badge-red    { background: rgba(255,60,60,0.15);  color: #ff3c3c; }
+.badge-blue   { background: rgba(60,140,255,0.15); color: #3c8cff; }
+.badge-na     { background: rgba(100,100,120,0.1); color: var(--text-3); }
+
+/* ── Factor Bar ── */
+.factor-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 56px;
+}
+.factor-bar .factor-fill {
+  height: 6px;
+  border-radius: 3px;
+  min-width: 2px;
+  transition: width 0.3s;
+}
+.factor-bar span {
+  font-size: 0.7rem;
+  font-family: var(--font-mono);
+  color: var(--text-2);
+}
+
+/* ── Stock table engine columns ── */
+.td-timing, .td-regime, .td-alpha, .td-factor {
+  text-align: center;
+  white-space: nowrap;
+}
+.td-factor { min-width: 70px; }

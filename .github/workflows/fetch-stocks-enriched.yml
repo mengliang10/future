@@ -1,0 +1,55 @@
+name: Fetch Stock Data (Enriched)
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Every 2 hours (reduced from 30min — richer data, slower)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-stocks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install yfinance numpy
+
+      - name: Fetch enriched stock data
+        run: python scripts/fetch_stocks_enriched.py
+
+      - name: Validate data
+        run: |
+          python -c "
+          import json
+          with open('assets/data/stocks.json') as f:
+              data = json.load(f)
+          stocks = data['stocks']
+          null_prices = sum(1 for s in stocks if s['price'] is None)
+          null_timing = sum(1 for s in stocks if s['timing_quality'] is None)
+          assert null_prices < 5, f'{null_prices} stocks missing price data'
+          assert null_timing < 10, f'{null_timing} stocks missing engine data'
+          # Check update freshness
+          from datetime import datetime, timezone, timedelta
+          updated = datetime.fromisoformat(data['updated'].replace('Z','+00:00'))
+          age = (datetime.now(timezone.utc) - updated).total_seconds()
+          assert age < 7200, f'Data is {age/3600:.1f}h old — may be stale'
+          print(f'OK: {len(stocks)} stocks, {null_prices} null prices, {null_timing} null engine, age={age/60:.0f}min')
+          "
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/data/stocks.json
+          git diff --staged --quiet || git commit -m "chore: update enriched stock data $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
