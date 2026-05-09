@@ -120,15 +120,65 @@ title: Home
     <div class="sector-card-name">Advanced Semiconductors</div>
     <div class="sector-card-desc">Foundry yields, High-NA EUV, Advanced Packaging (CoWoS), and the global WFE supply chain.</div>
   </a>
-  <a href="{{ '/sectors/intelligence/chips/accelerator-hbm/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#128307;</div>
-    <div class="sector-card-name">Accelerator & HBM</div>
-    <div class="sector-card-desc">The high-bandwidth memory wall and technical audits of the NVIDIA/AMD accelerator roadmap.</div>
+  <a href="{{ '/sectors/robotics/' | relative_url }}" class="sector-card">
+    <div class="sector-card-icon">&#129307;</div>
+    <div class="sector-card-name">Robotics & Automation</div>
+    <div class="sector-card-desc">Humanoid robots, industrial automation, and the physical AI revolution reshaping manufacturing.</div>
+  </a>
+  <a href="{{ '/sectors/space/' | relative_url }}" class="sector-card">
+    <div class="sector-card-icon">&#128640;</div>
+    <div class="sector-card-name">Space Economy</div>
+    <div class="sector-card-desc">Launch economics, satellite constellations, lunar commerce, and the $1T space market by 2040.</div>
+  </a>
+  <a href="{{ '/sectors/biotech/' | relative_url }}" class="sector-card">
+    <div class="sector-card-icon">&#129516;</div>
+    <div class="sector-card-name">Biotech & Longevity</div>
+    <div class="sector-card-desc">CRISPR gene editing, mRNA platforms, AI drug discovery, and the science of extending human lifespan.</div>
   </a>
   <a href="{{ '/sectors/energy/' | relative_url }}" class="sector-card">
     <div class="sector-card-icon">&#9889;</div>
-    <div class="sector-card-name">Energy & Power Models</div>
-    <div class="sector-card-desc">AI Data Center power demand, modular reactors, and the physics of the grid bottleneck.</div>
+    <div class="sector-card-name">Future Energy & Nuclear</div>
+    <div class="sector-card-desc">SMRs, nuclear renaissance, uranium supply, and the power infrastructure the AI era demands.</div>
+  </a>
+  <a href="{{ '/sectors/blockchain/' | relative_url }}" class="sector-card">
+    <div class="sector-card-icon">&#128279;</div>
+    <div class="sector-card-name">Blockchain & Digital Assets</div>
+    <div class="sector-card-desc">Bitcoin treasury plays, crypto exchanges, mining operators, and the tokenised financial future.</div>
+  </a>
+  <a href="{{ '/sectors/cyber/' | relative_url }}" class="sector-card">
+    <div class="sector-card-icon">&#128274;</div>
+    <div class="sector-card-name">Cybersecurity</div>
+    <div class="sector-card-desc">The permanent arms race between attackers and defenders — platforms winning at scale.</div>
+  </a>
+  <a href="{{ '/sectors/autonomous/' | relative_url }}" class="sector-card">
+    <div class="sector-card-icon">&#128664;</div>
+    <div class="sector-card-name">Autonomous Vehicles</div>
+    <div class="sector-card-desc">Self-driving technology, lidar sensors, autonomous trucking, and the end of human-piloted transport.</div>
+  </a>
+  <a href="{{ '/sectors/xr/' | relative_url }}" class="sector-card">
+    <div class="sector-card-icon">&#128257;</div>
+    <div class="sector-card-name">XR & Spatial Computing</div>
+    <div class="sector-card-desc">VR, AR glasses, the metaverse, and the next generation of human-computer interaction.</div>
+  </a>
+  <a href="{{ '/sectors/marketing/' | relative_url }}" class="sector-card">
+    <div class="sector-card-icon">&#127919;</div>
+    <div class="sector-card-name">Marketing Technology</div>
+    <div class="sector-card-desc">Programmatic advertising, customer data platforms, and AI-driven growth in a $750B market.</div>
+  </a>
+  <a href="{{ '/sectors/bci/' | relative_url }}" class="sector-card">
+    <div class="sector-card-icon">&#129504;</div>
+    <div class="sector-card-name">Brain-Computer Interface</div>
+    <div class="sector-card-desc">Neural implants, Neuralink milestones, and the merger of human cognition with machine intelligence.</div>
+  </a>
+  <a href="{{ '/sectors/quantum/' | relative_url }}" class="sector-card">
+    <div class="sector-card-icon">&#9883;</div>
+    <div class="sector-card-name">Quantum Computing</div>
+    <div class="sector-card-desc">Hardware platforms, error correction milestones, and which stocks are positioned for the quantum era.</div>
+  </a>
+  <a href="{{ '/scifi/' | relative_url }}" class="sector-card">
+    <div class="sector-card-icon">&#127909;</div>
+    <div class="sector-card-name">Sci-Fi Cinema & Drama</div>
+    <div class="sector-card-desc">From Her to Interstellar — mapping the futures imagined on screen to the technologies being built today.</div>
   </a>
 </div>
 
