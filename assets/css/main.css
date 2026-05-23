@@ -561,72 +561,76 @@ blockquote {
   justify-content: space-between;
 }
 .analysis-card-header .period {
-  font-size: 0.7rem;
+  font-family: var(--font-head);
+  font-size: 0.875rem;
   font-weight: 700;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--accent);
+  letter-spacing: 0.01em;
+  color: var(--text-1);
 }
-.analysis-card-body { padding: 1rem 1.1rem; }
-.analysis-card-body .signal-table { margin: -0.25rem -0.1rem; }
+.analysis-card-body { padding: 0; }
+.analysis-card-body-padded { padding: 1rem 1.1rem; }
 .analysis-item {
   display: flex;
   align-items: flex-start;
   gap: 0.6rem;
-  margin-bottom: 0.85rem;
-  padding-bottom: 0.85rem;
+  padding: 0.75rem 1.1rem;
   border-bottom: 1px solid var(--border-dim);
 }
-.analysis-item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
+.analysis-item:last-child { border-bottom: none; }
 .analysis-dot {
   width: 6px;
   height: 6px;
   border-radius: 50%;
   background: var(--accent);
   flex-shrink: 0;
-  margin-top: 0.4rem;
+  margin-top: 0.45rem;
 }
 .analysis-dot.up   { background: var(--green); }
 .analysis-dot.down { background: var(--red);   }
 .analysis-item-text {
-  font-size: 0.82rem;
+  font-size: 0.875rem;
   color: var(--text-2);
-  line-height: 1.5;
+  line-height: 1.6;
 }
 .analysis-item-text strong { color: var(--text-1); }
 .analysis-item-text a { color: var(--accent); }
 
-/* --- Signal Table (Key Macro Signals card) --- */
-.signal-table {
+/* --- Shared table style (tech-table, signal-table) --- */
+.table-wrap { overflow-x: auto; }
+.tech-table, .signal-table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.78rem;
+  font-size: 0.875rem;
 }
-.signal-table th {
+.tech-table th, .signal-table th {
   text-align: left;
-  padding: 0.4rem 0.5rem;
+  padding: 0.5rem 0.75rem;
   background: var(--bg-3);
   color: var(--text-3);
-  font-size: 0.68rem;
+  font-size: 0.72rem;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.05em;
   border-bottom: 1px solid var(--border);
+  white-space: nowrap;
 }
-.signal-table td {
-  padding: 0.55rem 0.5rem;
+.tech-table td, .signal-table td {
+  padding: 0.55rem 0.75rem;
   border-bottom: 1px solid var(--border-dim);
   color: var(--text-2);
-  vertical-align: top;
-  line-height: 1.45;
+  vertical-align: middle;
+  line-height: 1.5;
 }
-.signal-table tr:last-child td { border-bottom: none; }
-.signal-table td strong { color: var(--text-1); display: block; margin-bottom: 0.1rem; }
+.tech-table tr:last-child td, .signal-table tr:last-child td { border-bottom: none; }
+.tech-table tr:hover td, .signal-table tr:hover td { background: var(--bg-2); }
+.tech-table a { color: var(--text-1); font-weight: 500; }
+.tech-table a:hover { color: var(--accent); }
+.signal-table td strong { color: var(--text-1); display: block; font-size: 0.875rem; }
 .signal-dir {
   display: inline-block;
-  padding: 0.15em 0.5em;
+  padding: 0.15em 0.6em;
   border-radius: 3px;
   font-size: 0.72rem;
-  font-weight: 600;
+  font-weight: 700;
   font-family: var(--font-mono);
   white-space: nowrap;
 }

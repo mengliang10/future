@@ -1752,32 +1752,6 @@ permalink: /tech/
 .tech-cat-header h2 { font-size: 1.2rem; margin: 0; }
 .tech-cat-stats { display: flex; gap: 0.4rem; flex-wrap: wrap; }
 
-.table-wrap { overflow-x: auto; }
-.tech-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 0.875rem;
-}
-.tech-table th {
-  text-align: left;
-  padding: 0.5rem 0.75rem;
-  background: var(--bg-3);
-  color: var(--text-3);
-  font-size: 0.72rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  border-bottom: 1px solid var(--border);
-  white-space: nowrap;
-}
-.tech-table td {
-  padding: 0.55rem 0.75rem;
-  border-bottom: 1px solid var(--border-dim);
-  vertical-align: middle;
-}
-.tech-table tr:hover td { background: var(--bg-2); }
-.tech-table a { color: var(--text-1); font-weight: 500; }
-.tech-table a:hover { color: var(--accent); }
-
 .tech-row-hidden { display: none !important; }
 .tech-cat-empty { display: none; }
 .tech-cat-empty-show { display: block !important; }
