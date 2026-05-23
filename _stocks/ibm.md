@@ -7,7 +7,7 @@ categories: [AI & Cloud]
 ---
 
 ## Investment Thesis
-Detailed fundamental analysis and growth catalysts for IBM Corporation (IBM) are currently under review.
+IBM's most undervalued asset is its quantum computing leadership. IBM has the most commercially mature quantum computing program — over 250,000 registered users through IBM Quantum Network, a roadmap that consistently hits milestones, and the first demonstrations of quantum error correction at meaningful scale. The collaboration with ARM Holdings on dual-architecture hardware is the enterprise AI angle. The core software (watsonx) and consulting business generate stable cash flow funding the quantum program. IBM is a long-duration bet on the 2030s quantum era with near-term cash flow support.
 
 ## Future Tech Roadmap
 

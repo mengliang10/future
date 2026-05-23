@@ -7,7 +7,7 @@ categories: [Semiconductors, AI, Hardware]
 ---
 
 ## Investment Thesis
-NVIDIA is the definitive infrastructure play of the AI era. The GPU has become the basic unit of AI compute, and NVIDIA's CUDA software ecosystem creates switching costs that make hardware displacement extremely difficult — developer retraining is measured in years. The Blackwell architecture (GB200 NVL72 racks at 120kW per rack, 30 petaflops FP8) cements NVIDIA's position through the 2026-2027 cycle. NVLink and InfiniBand integration allows for cluster-level performance that rivals cannot match at scale. The bear case is custom silicon from hyperscalers (Google TPU, AWS Trainium, Meta MTIA) eroding share — real risk, but slower-moving than bears expect. Long NVIDIA is long AI infrastructure regardless of which model or application wins.
+NVIDIA is the definitive infrastructure play of the AI era. The GPU has become the basic unit of AI compute, and NVIDIA's CUDA software ecosystem creates switching costs that make hardware displacement extremely difficult — developer retraining is measured in years. The Blackwell architecture (GB200 NVL72 racks at 120kW, 30 petaflops FP8) cements NVIDIA's position through the 2026-2027 cycle. Notable: NVIDIA has a strategic partnership with Lumentum to develop optics technologies for AI data centres — directly positioning NVIDIA in the co-packaged optics transition. NVLink and InfiniBand integration allows cluster-level performance rivals cannot match. Annual revenue has exceeded $215B with operating margins above 65%.
 
 ## Future Tech Roadmap
 
