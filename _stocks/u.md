@@ -17,3 +17,19 @@ Unity is the engine that builds most of the world's games, simulations, and XR e
 ### Risk Factors
 - **Runtime Fee Controversy:** 2023 runtime fee announcement caused developer backlash; trust is rebuilding.
 - **Unreal Competition:** Epic's Unreal Engine 5 is gaining market share in AAA and cinematic use cases.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">Real-Time AI 3D Rendering</span>
+<span class="conf-badge conf-researching">Researching</span>
+<span class="roadmap-stock-item-year">2027</span>
+</div>
+<div class="roadmap-stock-item-desc">Neural rendering replacing rasterization for photorealistic real-time graphics</div>
+<div class="roadmap-stock-item-impact">&#128200; Unity is developing AI-powered rendering tools that could reduce manual 3D content creation cost. The technology is prototype-stage — commercial impact is 2027+.</div>
+</div>
+
+</div>

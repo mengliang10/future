@@ -17,3 +17,19 @@ Roblox is the world's largest user-generated virtual world — 88M daily active 
 ### Risk Factors
 - **Safety Concerns:** Child safety issues and regulatory scrutiny are ongoing risks.
 - **Competition:** Fortnite (Epic), Minecraft (Microsoft), and new platforms compete for teenage time.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">Open Interoperable Metaverse</span>
+<span class="conf-badge conf-speculative">Speculative</span>
+<span class="roadmap-stock-item-year">2032</span>
+</div>
+<div class="roadmap-stock-item-desc">Single persistent 3D internet with identity and assets portable across platforms</div>
+<div class="roadmap-stock-item-impact">&#128200; This is a long-duration, speculative bet. An open interoperable metaverse requires industry standards that do not yet exist. Meta is investing heavily but commercial timeline is 2030+.</div>
+</div>
+
+</div>

@@ -17,3 +17,29 @@ Coinbase is the compliance-first crypto exchange — the only regulated venue wh
 ### Risk Factors
 - **Revenue Volatility:** Transaction revenue collapses in bear markets.
 - **Regulatory Overhang:** SEC enforcement, though reduced under pro-crypto administration, can resurface.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">DeFi Decentralized Finance Ecosystem</span>
+<span class="conf-badge conf-confirmed">Confirmed</span>
+<span class="roadmap-stock-item-year">Ongoing</span>
+</div>
+<div class="roadmap-stock-item-desc">On-chain lending, trading, derivatives without intermediaries — $100B+ TVL</div>
+<div class="roadmap-stock-item-impact">&#128200; Coinbase benefits from DeFi activity through Base (its L2 chain), exchange volume on ETH and DeFi tokens, and potential future integration of DeFi products into its institutional custody business.</div>
+</div>
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">Bitcoin Proof-of-Work Blockchain</span>
+<span class="conf-badge conf-confirmed">Confirmed</span>
+<span class="roadmap-stock-item-year">Ongoing</span>
+</div>
+<div class="roadmap-stock-item-desc">First decentralized permissionless monetary ledger; 15+ years continuous uptime</div>
+<div class="roadmap-stock-item-impact">&#128200; Marathon is a Bitcoin miner. Revenue is direct function of Bitcoin price and network hashrate. Margin depends on energy cost per hash. This is a leveraged Bitcoin position with operational execution risk.</div>
+</div>
+
+</div>

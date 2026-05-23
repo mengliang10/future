@@ -175,11 +175,6 @@ title: Home
     <div class="sector-card-name">Quantum Computing</div>
     <div class="sector-card-desc">Hardware platforms, error correction milestones, and which stocks are positioned for the quantum era.</div>
   </a>
-  <a href="{{ '/scifi/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#127909;</div>
-    <div class="sector-card-name">Sci-Fi Cinema & Drama</div>
-    <div class="sector-card-desc">From Her to Interstellar — mapping the futures imagined on screen to the technologies being built today.</div>
-  </a>
 </div>
 
 <!-- Latest Articles -->

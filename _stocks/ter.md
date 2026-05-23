@@ -15,3 +15,19 @@ As part of the **Semiconductors** sector, TER is positioned to benefit from the 
 ### Market Context
 - **Industry Position:** Key player in Semiconductors.
 - **Technical Horizon:** Monitoring for high-probability entry points based on sectoral momentum.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">Collaborative Robot (Cobot)</span>
+<span class="conf-badge conf-confirmed">Confirmed</span>
+<span class="roadmap-stock-item-year">Ongoing</span>
+</div>
+<div class="roadmap-stock-item-desc">Force-limited robots working alongside humans safely — Universal Robots, Fanuc CRX</div>
+<div class="roadmap-stock-item-impact">&#128200; Teradyne owns Universal Robots, the market leader in cobots. UR cobots are the dominant platform in flexible manufacturing automation globally.</div>
+</div>
+
+</div>

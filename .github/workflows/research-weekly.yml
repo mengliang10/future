@@ -1,0 +1,44 @@
+name: Research Pipeline (Weekly)
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # Every Monday 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ingest-and-refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install "yfinance>=0.2.50" "numpy>=1.26"
+
+      - name: Refresh stock data (for conviction inputs)
+        run: python scripts/fetch_stocks_enriched.py
+
+      - name: Run horizon check — flag overdue milestones
+        run: python /run/media/ml/data/Documents/Projects/Trading/Research/scripts/future/horizon_check.py --stage
+        continue-on-error: true   # informational only; don't break pipeline
+
+      - name: Generate site signals
+        run: python /run/media/ml/data/Documents/Projects/Trading/Research/scripts/future/generate_site.py --data
+        continue-on-error: true   # requires local DBs; skips gracefully in CI
+
+      - name: Commit updated data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add assets/data/stocks.json _data/research_signals.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: weekly research pipeline $(date -u +'%Y-%m-%d')"
+          git push

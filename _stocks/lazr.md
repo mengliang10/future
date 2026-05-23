@@ -15,3 +15,19 @@ As part of the **Robotics & Auto** sector, LAZR is positioned to benefit from th
 ### Market Context
 - **Industry Position:** Key player in Robotics & Auto.
 - **Technical Horizon:** Monitoring for high-probability entry points based on sectoral momentum.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">Solid-State LiDAR</span>
+<span class="conf-badge conf-confident">Confident</span>
+<span class="roadmap-stock-item-year">2025</span>
+</div>
+<div class="roadmap-stock-item-desc">Compact, low-cost LiDAR without spinning parts — Luminar Iris, Innoviz One</div>
+<div class="roadmap-stock-item-impact">&#128200; Luminar Iris is the solid-state LiDAR product targeting automotive OEM integration. Volvo, Mercedes, and Airbus are customers. Transition from spinning to solid-state is the structural catalyst.</div>
+</div>
+
+</div>

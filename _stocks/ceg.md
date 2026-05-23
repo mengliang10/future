@@ -17,3 +17,19 @@ Constellation is the largest nuclear power operator in the US — 21 reactors, 1
 ### Risk Factors
 - **Regulatory Licence Extensions:** Each plant requires NRC approval for life extension.
 - **Grid Reliability Costs:** Maintenance surprises at ageing plants create one-time cost hits.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">Nuclear Gen III+ Reactor (AP1000)</span>
+<span class="conf-badge conf-confirmed">Confirmed</span>
+<span class="roadmap-stock-item-year">Ongoing</span>
+</div>
+<div class="roadmap-stock-item-desc">Advanced light water reactors — AP1000, EPR; passive safety features</div>
+<div class="roadmap-stock-item-impact">&#128200; CEG operates the largest nuclear fleet in the US. Long-term power purchase agreements with hyperscalers provide revenue visibility. New plant PPAs are being signed at premium rates driven by AI data centre demand.</div>
+</div>
+
+</div>

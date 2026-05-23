@@ -15,3 +15,29 @@ As part of the **Energy Tech** sector, GEV is positioned to benefit from the ong
 ### Market Context
 - **Industry Position:** Key player in Energy Tech.
 - **Technical Horizon:** Monitoring for high-probability entry points based on sectoral momentum.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">Small Modular Reactor (<300MWe)</span>
+<span class="conf-badge conf-confident">Confident</span>
+<span class="roadmap-stock-item-year">2029</span>
+</div>
+<div class="roadmap-stock-item-desc">Factory-built modular reactors — NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR</div>
+<div class="roadmap-stock-item-impact">&#128200; GE Vernova's BWRX-300 is among the most commercially advanced SMR designs. Multiple purchase agreements are signed. First commercial operation targeted 2029-2031.</div>
+</div>
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">Floating Offshore Wind</span>
+<span class="conf-badge conf-confident">Confident</span>
+<span class="roadmap-stock-item-year">2029</span>
+</div>
+<div class="roadmap-stock-item-desc">Turbines on floating platforms for deep-water offshore deployment</div>
+<div class="roadmap-stock-item-impact">&#128200; GE Vernova Haliade-X offshore turbines are the largest in commercial production. Floating wind (deeper water deployment) expands the addressable market significantly post-2029.</div>
+</div>
+
+</div>

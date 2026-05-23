@@ -1,97 +1,109 @@
 ---
 layout: page
-title: Future Energy
-subtitle: Nuclear renaissance, clean power, grid infrastructure, and the fuel behind the AI supercycle.
+title: Future Energy & Nuclear
+subtitle: Nuclear renaissance, grid infrastructure, and the power behind the AI supercycle.
 category: Sector
 permalink: /sectors/energy/
 ---
 
 <div class="callout callout-info">
   <span class="callout-icon">&#9889;</span>
-  <span>AI data centres will consume 8% of US electricity by 2030 (up from 2% in 2023). Energy is the binding constraint on the AI era. This is not an energy story — it is an AI infrastructure story.</span>
+  <span>AI data centres will consume 8% of US electricity by 2030. Energy is the binding constraint on the AI era — not chips, not real estate. This is an AI infrastructure story, not a clean energy story.</span>
 </div>
 
 ## Why Energy Is a Tech Story
 
-A single H100 cluster draws as much power as a small city. Hyperscalers have committed $1T+ in capex, but power procurement and grid interconnection are the binding constraints — not chips, not real estate. Energy stocks are the picks and shovels of the AI investment thesis, and the most underappreciated part of the trade.
-
-## Key Sub-Themes
-
-**Nuclear Renaissance** — Microsoft restarted Three Mile Island. Google signed with Kairos Power. Amazon with X-energy and Dominion. The pattern is clear: hyperscalers need 24/7 carbon-free baseload, and nuclear is the only answer. Constellation (CEG), Vistra (VST), Cameco (CCJ), and NuScale (SMR) are the listed plays. Uranium supply is structurally short.
-
-**Small Modular Reactors (SMRs)** — Factory-built, 77–300 MW reactors deployable in 3 years vs 10+ for traditional nuclear. NuScale (SMR) is the only NRC-approved design. Kairos, TerraPower (Bill Gates), and X-energy are developing competing designs. SMRs purpose-built for data centre co-location are a 2030–2035 reality.
-
-**AI Data Centre Power** — Eaton (ETN), Quanta Services (PWR), and GE Vernova (GEV) are the grid infrastructure beneficiaries: transformers, switchgear, transmission — the boring parts that are the actual bottleneck.
-
-**Solar & Storage** — First Solar (FSLR) benefits from domestic content requirements; Enphase (ENPH) and SolarEdge (SEDG) face Chinese competition. Battery storage (VST, NEE) complements intermittent renewables.
-
-**Green Hydrogen** — Plug Power (PLUG), Bloom Energy (BE) — struggling economics in the near term, but industrial decarbonisation in green steel, shipping, and ammonia make the long-term case.
-
-**Fusion (Speculative)** — Commonwealth Fusion, TAE Technologies, Helion (OpenAI-backed) — all private. The first net-energy-gain fusion reactor is real (NIF, 2022). Commercial fusion by 2035–2040 is achievable. Currently unlisted; watch for IPOs.
-
-## Listed Stocks
-
-| Ticker | Company | Theme | Stage |
-|--------|---------|-------|-------|
-| CEG | Constellation Energy | Nuclear operator | Profitable |
-| VST | Vistra Corp | Nuclear + storage | Profitable |
-| CCJ | Cameco | Uranium mining | Profitable |
-| UUUU | Energy Fuels | US uranium + rare earths | Growing |
-| SMR | NuScale Power | SMR design | Pre-revenue |
-| GEV | GE Vernova | Grid infrastructure | Profitable |
-| ETN | Eaton | Power management | Profitable |
-| PWR | Quanta Services | Grid construction | Profitable |
-| FSLR | First Solar | Solar manufacturing | Profitable |
-| ENPH | Enphase Energy | Solar microinverters | Profitable |
-| NEE | NextEra Energy | Renewables + nuclear | Profitable |
-| PLUG | Plug Power | Green hydrogen | Pre-profit |
-| BE | Bloom Energy | Fuel cells | Revenue |
-
-<a href="{{ '/stocks/?sector=Energy+Tech' | relative_url }}" class="btn btn-outline">Filter Energy stocks &rarr;</a>
-
-## Civilization Dependency Chain
-
-```
-Coal → Oil & Gas → Hydro/Nuclear Gen I → Solar/Wind (Intermittent)
-→ Grid-Scale Batteries → Nuclear Gen III+ → Small Modular Reactors
-→ Fusion (Net Energy Gain) → Dyson Sphere (theoretical)
-→ Kardashev Type II Civilisation (planetary energy harvesting)
-```
-
-Each step requires solving the previous energy storage or generation challenge. Fusion is the civilisation-defining unlock: infinite clean energy changes every calculation in human economics.
-
-## Technology Roadmap Link
-
-- **Now–2028:** Nuclear PPAs proliferate, SMR permits, grid upgrade supercycle
-- **2028–2030:** First SMR deployments, fusion milestones, AI data centre power crisis response
-- **2030+:** SMR fleet operations, commercial fusion pilots, space-based solar prototypes
+A single H100 GPU cluster draws as much power as a small city. Hyperscalers have committed over $1 trillion in cumulative capex — but power procurement and grid interconnection queue wait times (2-4 years in key US markets) are the binding constraints. Energy infrastructure stocks are the picks-and-shovels of the AI trade, and the most underappreciated part of it.
 
 ---
 
 ## Technology Nodes
 
-Research pipeline data from our technology graph (212 tracked nodes). Source counts reflect independent academic, central bank, and industry research documents.
-
-| Technology | Stage | Confidence | Est. Year |
+| Technology | Stage | Year | Confidence |
 |---|---|---|---|
-| Commercial Fusion Power Plant | Basic Research | 0.221 | 2044 |
-| Small Modular Reactor (<300MWe) | Pilot | 0.212 | 2029 |
-| Nuclear Gen III+ Reactor (AP1000) | Mass Production | 0.180 | — |
-| Advanced Nuclear Gen IV (MSR/SFR) | Proof of Concept | 0.174 | 2036 |
-| Green Hydrogen (<$2/kg Electrolysis) | Pilot | 0.159 | 2030 |
-| Autonomous Nuclear Plant Operations | Basic Research | 0.161 | — |
-| Solar <$0.01/kWh LCOE | Pilot | 0.750 | 2027 |
+| Nuclear Gen III+ Reactor (AP1000) | Mass production | Ongoing | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Grid-Scale Battery Storage (GWh) | Early commercial | 2018 | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Solar PV Panel (Silicon) | Mass production | Ongoing | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Small Modular Reactor (<300MWe) | Pilot | 2029 | <span class="conf-badge conf-confident">Confident</span> |
+| Floating Offshore Wind | Pilot | 2029 | <span class="conf-badge conf-confident">Confident</span> |
+| Advanced Nuclear Gen IV (MSR/SFR) | Proof of concept | 2036 | <span class="conf-badge conf-researching">Researching</span> |
+| Commercial Fusion Power Plant | Basic research | 2044 | <span class="conf-badge conf-speculative">Speculative</span> |
 
-**Note on source counts:** Nuclear Gen III+ (AP1000) has 57 independent sources — the highest in the energy category. Autonomous Nuclear Plant Operations has 89 sources at basic research stage, reflecting intense AI/nuclear intersection research with limited actual deployment. Solar <$0.01/kWh LCOE has 0 current sources (frontier node) — tracking is based on cost trajectory extrapolation.
+---
 
-## Research Pipeline Signals
+## Sub-Themes
 
-Key causal macro rules relevant to energy sector positioning:
+<div class="accordion-item">
+  <button class="accordion-toggle open" onclick="toggleAcc(this)">
+    Nuclear Power Purchase Agreements <span class="acc-arrow" style="transform:rotate(180deg);">&#9660;</span>
+  </button>
+  <div class="accordion-body open">
+    <p>Microsoft, Google, Amazon, and Meta have all signed or are negotiating nuclear power purchase agreements for data centre load. The Microsoft/Constellation deal (Crane Clean Energy Center — reopened Three Mile Island Unit 1) is the flagship. These are not ESG decisions. They are infrastructure procurement decisions driven by the need for 24/7, 500MW+ loads that cannot be served by intermittent renewables.</p>
+    <p>PPA pricing for nuclear is running at $80-100/MWh — 30-50% above previous nuclear contract pricing — reflecting the supply-demand imbalance of clean baseload power availability versus hyperscaler demand.</p>
+    <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/ceg/" style="color:inherit">CEG</a></span> <span class="ticker-badge"><a href="/future/stocks/vst/" style="color:inherit">VST</a></span> <span class="ticker-badge"><a href="/future/stocks/nee/" style="color:inherit">NEE</a></span></div>
+  </div>
+</div>
 
-- **WTI Crude Oil** amplifies GDP Growth YoY with 30-90 day lag (confidence 0.991, 1 source, Sharpe 5.82). Oil price spikes are GDP headwinds; sustained low oil prices are growth tailwinds. Monitor crude as a leading macro indicator.
-- **Yield curve steepening** (10Y-2Y spread widening) signals GDP recovery, which increases industrial energy demand and is broadly positive for energy infrastructure capex.
-- **USD strength** is historically a headwind for commodity prices including uranium and natural gas. A weaker dollar environment supports energy commodity prices and producer margins.
+<div class="accordion-item">
+  <button class="accordion-toggle" onclick="toggleAcc(this)">
+    Small Modular Reactors (SMRs) <span class="acc-arrow">&#9660;</span>
+  </button>
+  <div class="accordion-body">
+    <p>Factory-built, 77–300 MW reactors deployable in 3-5 years versus 10+ for conventional nuclear. NuScale's VOYGR design is the first to receive NRC design approval. GE Vernova's BWRX-300 has signed orders with Ontario Power Generation and has active US procurement negotiations. Multiple hyperscaler power purchase agreements are signed, contingent on regulatory approval of specific sites.</p>
+    <p>Commercial operation is targeted 2029-2031 for first units. Timeline has historically been conservative — SMR projects globally have slipped. The investment case does not require perfect execution — it requires that at least some projects reach commercial operation.</p>
+    <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/smr/" style="color:inherit">SMR</a></span> <span class="ticker-badge"><a href="/future/stocks/gev/" style="color:inherit">GEV</a></span> <span class="ticker-badge"><a href="/future/stocks/ccj/" style="color:inherit">CCJ</a></span></div>
+  </div>
+</div>
 
-Nuclear operator stocks (CEG, VST) have low correlation with growth/value factor rotations — they trade on power market pricing and PPA contract announcements. This makes them portfolio diversifiers during AI-sector selloffs.
+<div class="accordion-item">
+  <button class="accordion-toggle" onclick="toggleAcc(this)">
+    Grid Infrastructure <span class="acc-arrow">&#9660;</span>
+  </button>
+  <div class="accordion-body">
+    <p>Transformers, switchgear, and transmission interconnection are the actual bottleneck for new data centre capacity in the US — ahead of chips and real estate. Transformer lead times are running 2-4 years. Eaton (ETN) has years of backlog in power distribution equipment. Quanta Services (PWR) is the leading electrical contractor for grid and data centre construction. GE Vernova's grid division (transformers, grid software) is growing faster than its gas turbine business.</p>
+    <p><strong>This is the most underloved AI derivative trade.</strong> These companies have no model risk, no chip competition risk — they just need data centres to keep being built. And the capex is contractually committed for years.</p>
+    <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/etn/" style="color:inherit">ETN</a></span> <span class="ticker-badge"><a href="/future/stocks/pwr/" style="color:inherit">PWR</a></span> <span class="ticker-badge"><a href="/future/stocks/gev/" style="color:inherit">GEV</a></span></div>
+  </div>
+</div>
 
-<a href="{{ '/blog/' | relative_url }}" class="btn btn-outline" style="margin-top:1rem; display:inline-flex;">Read Energy Deep Dives &rarr;</a>
+<div class="accordion-item">
+  <button class="accordion-toggle" onclick="toggleAcc(this)">
+    Uranium Supply Chain <span class="acc-arrow">&#9660;</span>
+  </button>
+  <div class="accordion-body">
+    <p>Nuclear expansion requires uranium fuel. Global uranium supply is structurally short relative to reactor requirements — the post-Fukushima production cuts were severe, and the supply response to current demand takes 5-7 years from mine development to production. Cameco (CCJ) is the largest publicly traded uranium miner. Energy Fuels (UUUU) is the US domestic play, with additional rare earth processing exposure.</p>
+    <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/ccj/" style="color:inherit">CCJ</a></span> <span class="ticker-badge"><a href="/future/stocks/uuuu/" style="color:inherit">UUUU</a></span></div>
+  </div>
+</div>
+
+---
+
+## Key Stocks
+
+| Ticker | Company | Role | Confidence |
+|--------|---------|------|------------|
+| [CEG](/stocks/CEG/) | Constellation Energy | Nuclear operator, PPAs | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [VST](/stocks/VST/) | Vistra Corp | Nuclear + battery storage | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [ETN](/stocks/ETN/) | Eaton | Power management equipment | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [PWR](/stocks/PWR/) | Quanta Services | Grid construction | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [GEV](/stocks/GEV/) | GE Vernova | Grid equipment + BWRX-300 SMR | <span class="conf-badge conf-confident">Confident</span> |
+| [CCJ](/stocks/CCJ/) | Cameco | Uranium mining | <span class="conf-badge conf-confident">Confident</span> |
+| [SMR](/stocks/SMR/) | NuScale Power | SMR design (VOYGR) | <span class="conf-badge conf-confident">Confident</span> |
+| [FSLR](/stocks/FSLR/) | First Solar | CdTe solar manufacturing | <span class="conf-badge conf-confirmed">Confirmed</span> |
+
+---
+
+## Causal Signals
+
+- **Yield curve steepening** signals GDP recovery → increased industrial energy demand → positive for grid infrastructure capex (ETN, GEV, PWR).
+- **Nuclear PPA announcements** are discrete catalysts for CEG and NuScale — each signed deal is confirmed future revenue. Track quarterly hyperscaler infrastructure announcements.
+- **Uranium spot price** leads utility contracting by 12-18 months. Spot price above $90/lb incentivises mine restarts. Below $70/lb stalls supply response. Current structural demand picture supports long-term uranium prices.
+
+<script>
+function toggleAcc(btn) {
+  const body = btn.nextElementSibling;
+  const isOpen = body.classList.contains('open');
+  btn.classList.toggle('open', !isOpen);
+  body.classList.toggle('open', !isOpen);
+}
+</script>

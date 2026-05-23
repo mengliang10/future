@@ -15,57 +15,97 @@ permalink: /sectors/ai/
 
 Artificial Intelligence is no longer a research project — it is the primary driver of capital allocation across the entire technology sector. Data centre buildout, chip design, power infrastructure, and software monetisation all trace back to AI demand. The stocks in this sector span the full stack: from the chips that run inference, to the cloud platforms selling access, to the application layer building on top.
 
-## Key Sub-Themes
-
-**Foundation Models & LLMs** — GPT, Gemini, Claude, Llama, Mistral. The race is moving from training to inference efficiency. Margin expansion depends on who can run models cheapest per token.
-
-**AI Chips & Accelerators** — NVIDIA dominates with H100/H200/Blackwell. AMD gaining ground with MI300X. Custom silicon from Google (TPU), Amazon (Trainium), Microsoft (Maia) eroding Nvidia's share at hyperscaler level.
-
-**AI Infrastructure** — Power, cooling, networking. Data centre capex is the most reliable derivative play on AI. ANET, PWR, ETN, GEV are infrastructure beneficiaries.
-
-**AI Applications** — Enterprise SaaS embedding AI (NOW, CRM, ADBE). AI-native startups going after vertical markets. Monetisation via seat pricing, usage pricing, and outcome-based models.
-
-## Stocks in This Sector
-
-Key tickers: **NVDA, MSFT, GOOGL, META, AMZN, AAPL, IBM, ORCL, PLTR, AI, PATH, SOUN, BBAI, SNOW**
-
-<a href="{{ '/stocks/?sector=AI+%26+Cloud' | relative_url }}" class="btn btn-outline">Filter AI stocks in full table &rarr;</a>
-
-## Technology Roadmap Link
-
-- **Now–2028:** Inference scaling, reasoning models, multimodal AI mainstream
-- **2028–2030:** Autonomous AI agents deployed at scale, AGI debate intensifies
-- **2030+:** Physical AI (robotics), brain-computer interfaces, AI-designed chips
-
-<a href="{{ '/roadmap/now-2028/' | relative_url }}" class="btn btn-outline" style="margin-top:1rem; display:inline-flex;">View AI Roadmap &rarr;</a>
-
 ---
 
 ## Technology Nodes
 
-Research pipeline data from our technology graph (212 tracked nodes). Confidence scores derived from independent source count and cross-validation.
-
-| Technology | Stage | Confidence | Est. Year |
+| Technology | Stage | Year | Confidence |
 |---|---|---|---|
-| AI Software Engineering Agent | Early Commercial | 0.282 | — |
-| Chain-of-Thought Reasoning Model | Mass Production | 0.232 | — |
-| Mixture-of-Experts Architecture | Mass Production | 0.215 | — |
-| Multimodal Foundation Model | Mass Production | 0.213 | — |
-| AI Inference at Edge | Early Commercial | 0.206 | 2025 |
-| AI Formal Mathematical Reasoning | Prototype | 0.197 | 2026 |
-| LLM 100T+ Parameter Model | Prototype | 0.185 | 2026 |
-| Artificial General Intelligence | Basic Research | 0.185 | 2028 |
-| RLHF / Constitutional AI Alignment | Mass Production | 0.171 | — |
-| Open-Source Frontier LLM | Mass Production | 0.161 | 2025 |
+| GPU Compute Cluster | Volume production | Ongoing | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Chain-of-Thought Reasoning | Volume production | Ongoing | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| LLM GPT-4 Class (~1T params) | Volume production | Ongoing | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| AI Hardware ASIC (TPU/NPU) | Volume production | Ongoing | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Cloud Hyperscaler Infrastructure | Volume production | Ongoing | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| AI Software Engineering Agent | Early commercial | 2026 | <span class="conf-badge conf-confident">Confident</span> |
+| Autonomous AI Agent | Early commercial | 2025 | <span class="conf-badge conf-confident">Confident</span> |
+| AI Inference at Edge | Early commercial | 2025 | <span class="conf-badge conf-confident">Confident</span> |
+| AI Formal Mathematical Reasoning | Prototype | 2026 | <span class="conf-badge conf-researching">Researching</span> |
+| Robotics Foundation Model | Prototype | 2026 | <span class="conf-badge conf-researching">Researching</span> |
+| Artificial General Intelligence | Basic research | 2028+ | <span class="conf-badge conf-speculative">Speculative</span> |
 
-**Bottleneck alert:** AI Formal Mathematical Reasoning (conf 0.197, prototype 2026) is a graph bottleneck node with 6 downstream dependencies. Advancement here accelerates theorem proving, code verification, autonomous scientific research, and molecular design simultaneously.
+---
 
-## Research Pipeline Signals
+## Sub-Themes
 
-Key causal rules from our macro database relevant to AI sector positioning:
+<div class="accordion-item">
+  <button class="accordion-toggle open" onclick="toggleAcc(this)">
+    Foundation Models &amp; Inference <span class="acc-arrow" style="transform:rotate(180deg);">&#9660;</span>
+  </button>
+  <div class="accordion-body open">
+    <p>GPT-4 class models are now infrastructure. The competition has shifted from model capability to inference cost — who can serve the same output token at lowest cost. Chain-of-thought reasoning (o-series, Claude extended thinking) is becoming the baseline expectation, increasing compute requirements per useful output by 5-15x.</p>
+    <p>The long-term question: does inference commoditise, compressing model provider margins? The evidence so far says no — efficiency gains are absorbed by expanded usage. Every time inference cost drops 10x, usage increases 50x. NVIDIA benefits from both scenarios.</p>
+    <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/nvda/" style="color:inherit">NVDA</a></span> <span class="ticker-badge"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a></span> <span class="ticker-badge"><a href="/future/stocks/googl/" style="color:inherit">GOOGL</a></span></div>
+  </div>
+</div>
 
-- **AI infrastructure capex** is sustained as long as hyperscaler revenue growth continues. Monitor AWS, Azure, and GCP growth rates as leading indicators for NVDA, AMAT, and ASML order flows.
-- **USD strength (DXY)** suppresses international AI revenue for US-listed companies. A weak dollar environment amplifies reported earnings for MSFT, GOOGL, and NVDA's international segments.
-- **HY credit spreads** widening signals a shift from growth to value factor — AI infrastructure stocks (high multiple, long duration) are most exposed to this rotation.
+<div class="accordion-item">
+  <button class="accordion-toggle" onclick="toggleAcc(this)">
+    AI Software Agents <span class="acc-arrow">&#9660;</span>
+  </button>
+  <div class="accordion-body">
+    <p>AI coding agents move from demo to production in 2026. GitHub Copilot Workspace, Cursor, and enterprise custom agents built on Claude and GPT-4o are live in production. Controlled enterprise studies show 20-40% productivity gains for specific task categories. The bottleneck to full autonomy is formal reasoning — AI that can verify its own work. DeepMind (AlphaProof) is the leading research effort here. When this advances to commercial deployment, it unlocks six downstream technology categories simultaneously.</p>
+    <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a></span> <span class="ticker-badge"><a href="/future/stocks/pltr/" style="color:inherit">PLTR</a></span> <span class="ticker-badge"><a href="/future/stocks/googl/" style="color:inherit">GOOGL</a></span></div>
+  </div>
+</div>
 
-<a href="{{ '/blog/' | relative_url }}" class="btn btn-outline" style="margin-top:1rem; display:inline-flex;">Read AI Deep Dives &rarr;</a>
+<div class="accordion-item">
+  <button class="accordion-toggle" onclick="toggleAcc(this)">
+    AI Chips &amp; Custom Silicon <span class="acc-arrow">&#9660;</span>
+  </button>
+  <div class="accordion-body">
+    <p>NVIDIA dominates with H100/H200/Blackwell (80%+ AI accelerator share). AMD MI300X is the only credible GPU alternative at scale. Custom silicon from Google (TPU), Amazon (Trainium), and Microsoft (Maia) is eroding NVIDIA's share at the hyperscaler level — but adoption has been slower than bears expected. CUDA ecosystem switching costs are measured in years of developer retraining, not months.</p>
+    <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/nvda/" style="color:inherit">NVDA</a></span> <span class="ticker-badge"><a href="/future/stocks/amd/" style="color:inherit">AMD</a></span> <span class="ticker-badge"><a href="/future/stocks/avgo/" style="color:inherit">AVGO</a></span> <span class="ticker-badge"><a href="/future/stocks/mrvl/" style="color:inherit">MRVL</a></span></div>
+  </div>
+</div>
+
+<div class="accordion-item">
+  <button class="accordion-toggle" onclick="toggleAcc(this)">
+    Enterprise AI Applications <span class="acc-arrow">&#9660;</span>
+  </button>
+  <div class="accordion-body">
+    <p>Enterprise SaaS is embedding AI across workflows (ServiceNow, Salesforce, Adobe). AI-native companies targeting vertical markets (Palantir for government/defence, Recursion for drug discovery). Monetisation models vary: seat pricing (GitHub Copilot), usage pricing (Azure AI), outcome-based (Palantir AIP). The companies with proprietary data and existing customer relationships have the most durable positions.</p>
+    <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/pltr/" style="color:inherit">PLTR</a></span> <span class="ticker-badge"><a href="/future/stocks/now/" style="color:inherit">NOW</a></span> <span class="ticker-badge"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a></span></div>
+  </div>
+</div>
+
+---
+
+## Key Stocks
+
+| Ticker | Company | Role | Confidence |
+|--------|---------|------|------------|
+| [NVDA](/stocks/NVDA/) | NVIDIA | GPU infrastructure | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [MSFT](/stocks/MSFT/) | Microsoft | AI platform + GitHub | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [GOOGL](/stocks/GOOGL/) | Alphabet | Gemini + DeepMind + GCP | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [META](/stocks/META/) | Meta | Llama + AI infra | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [PLTR](/stocks/PLTR/) | Palantir | Enterprise AI agents | <span class="conf-badge conf-confident">Confident</span> |
+| [IBM](/stocks/IBM/) | IBM | Quantum + enterprise AI | <span class="conf-badge conf-confident">Confident</span> |
+
+---
+
+## Causal Signals
+
+- **Hyperscaler capex → GPU demand**: Azure, AWS, and GCP revenue growth are the leading indicator for NVIDIA order flows. Monitor quarterly cloud earnings.
+- **USD strength (DXY) → US tech earnings**: Dollar strength suppresses reported international revenues for MSFT, GOOGL, NVDA. A weak dollar environment amplifies earnings without operational change.
+- **HY credit spreads → value/growth rotation**: Spread compression historically amplifies value factor returns. AI infrastructure stocks (high multiple) are most exposed to any reversal.
+
+<a href="{{ '/roadmap/now-2028/' | relative_url }}" class="btn btn-outline" style="margin-top:1.5rem; display:inline-flex;">View Full Roadmap &rarr;</a>
+
+<script>
+function toggleAcc(btn) {
+  const body = btn.nextElementSibling;
+  const isOpen = body.classList.contains('open');
+  btn.classList.toggle('open', !isOpen);
+  body.classList.toggle('open', !isOpen);
+}
+</script>

@@ -15,3 +15,29 @@ As part of the **Software** sector, CRWD is positioned to benefit from the ongoi
 ### Market Context
 - **Industry Position:** Key player in Software.
 - **Technical Horizon:** Monitoring for high-probability entry points based on sectoral momentum.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">EDR (Endpoint Detection & Response)</span>
+<span class="conf-badge conf-confirmed">Confirmed</span>
+<span class="roadmap-stock-item-year">Ongoing</span>
+</div>
+<div class="roadmap-stock-item-desc">Continuous endpoint monitoring and AI threat detection — CrowdStrike, SentinelOne</div>
+<div class="roadmap-stock-item-impact">&#128200; CrowdStrike Falcon is the market-leading EDR platform. Mass market adoption driven by enterprise security mandates. Expanding into XDR, SIEM, and identity security to become a platform.</div>
+</div>
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">AI-Driven Threat Detection</span>
+<span class="conf-badge conf-confident">Confident</span>
+<span class="roadmap-stock-item-year">2026</span>
+</div>
+<div class="roadmap-stock-item-desc">ML models detecting novel attacks, zero-days, and insider threats in real time</div>
+<div class="roadmap-stock-item-impact">&#128200; CrowdStrike Charlotte AI applies LLM-based reasoning to threat detection. AI capability is a competitive differentiator attracting security teams that cannot hire enough human analysts.</div>
+</div>
+
+</div>

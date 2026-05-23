@@ -17,3 +17,19 @@ MicroStrategy is a leveraged Bitcoin holding vehicle with a software business at
 ### Risk Factors
 - **Forced Liquidation Risk:** If BTC falls below debt covenants, selling pressure compounds.
 - **Premium Collapse:** In bear markets the NAV premium inverts — massive drawdowns.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">Bitcoin Proof-of-Work Blockchain</span>
+<span class="conf-badge conf-confirmed">Confirmed</span>
+<span class="roadmap-stock-item-year">Ongoing</span>
+</div>
+<div class="roadmap-stock-item-desc">First decentralized permissionless monetary ledger; 15+ years continuous uptime</div>
+<div class="roadmap-stock-item-impact">&#128200; Marathon is a Bitcoin miner. Revenue is direct function of Bitcoin price and network hashrate. Margin depends on energy cost per hash. This is a leveraged Bitcoin position with operational execution risk.</div>
+</div>
+
+</div>

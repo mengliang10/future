@@ -17,3 +17,19 @@ Beam Therapeutics uses base editing — a more precise version of CRISPR that ma
 ### Risk Factors
 - **Clinical Stage Risk:** No approved products; every IND filing is a binary event.
 - **Cash Runway:** Pre-revenue company managing burn across multiple clinical programs.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">CRISPR Base Editing</span>
+<span class="conf-badge conf-confident">Confident</span>
+<span class="roadmap-stock-item-year">Ongoing</span>
+</div>
+<div class="roadmap-stock-item-desc">Single base pair correction without double-strand breaks — David Liu, Beam Tx</div>
+<div class="roadmap-stock-item-impact">&#128200; Beam's base editing technology makes single-nucleotide corrections without cutting DNA — potentially safer than traditional CRISPR. Multiple pipeline programs in development.</div>
+</div>
+
+</div>

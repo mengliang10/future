@@ -17,3 +17,19 @@ Recursion is building the operating system for drug discovery. They image millio
 ### Risk Factors
 - **Clinical Translation:** AI-discovered drugs still face Phase 2/3 failure rates similar to traditional drugs.
 - **Long Commercialisation Horizon:** Revenue from pipeline programs is years away.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">AI Drug Discovery Platform</span>
+<span class="conf-badge conf-confident">Confident</span>
+<span class="roadmap-stock-item-year">2025</span>
+</div>
+<div class="roadmap-stock-item-desc">End-to-end AI for target ID, lead optimization, clinical prediction — Recursion, Insilico</div>
+<div class="roadmap-stock-item-impact">&#128200; Recursion's platform is active in partnerships with Bayer and Roche. Revenue comes from milestone payments on pipeline programs, not approved drugs. Platform credibility is the key metric to watch.</div>
+</div>
+
+</div>

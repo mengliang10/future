@@ -17,3 +17,19 @@ BioNTech is Moderna's peer and rival — same mRNA platform technology, differen
 ### Risk Factors
 - **Oncology Timeline:** Phase 3 failures can wipe years of pipeline value overnight.
 - **COVID Dependency:** Transition from COVID to oncology revenue is a multi-year journey.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">mRNA Vaccine / Therapeutic Platform</span>
+<span class="conf-badge conf-confirmed">Confirmed</span>
+<span class="roadmap-stock-item-year">Ongoing</span>
+</div>
+<div class="roadmap-stock-item-desc">Programmable mRNA delivery for vaccines and protein replacement — Moderna, BioNTech</div>
+<div class="roadmap-stock-item-impact">&#128200; The mRNA platform is proven at scale. Pipeline includes personalised cancer vaccines, RSV, flu, HIV, and rare diseases. Each approved indication is a new revenue stream on the same manufacturing infrastructure.</div>
+</div>
+
+</div>

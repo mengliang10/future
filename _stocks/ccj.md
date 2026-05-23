@@ -17,3 +17,29 @@ Cameco is the world's largest listed uranium miner — the picks-and-shovels bet
 ### Risk Factors
 - **Uranium Price Volatility:** Revenue and earnings are directly tied to uranium spot and contract prices.
 - **Mine Execution:** Cigar Lake is the world's highest-grade mine — production disruptions carry outsized impact.
+
+## Future Tech Roadmap
+
+<div class="roadmap-stock">
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">Small Modular Reactor (<300MWe)</span>
+<span class="conf-badge conf-confident">Confident</span>
+<span class="roadmap-stock-item-year">2029</span>
+</div>
+<div class="roadmap-stock-item-desc">Factory-built modular reactors — NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR</div>
+<div class="roadmap-stock-item-impact">&#128200; GE Vernova's BWRX-300 is among the most commercially advanced SMR designs. Multiple purchase agreements are signed. First commercial operation targeted 2029-2031.</div>
+</div>
+
+<div class="roadmap-stock-item">
+<div class="roadmap-stock-item-header">
+<span class="roadmap-stock-item-name">Nuclear Gen III+ Reactor (AP1000)</span>
+<span class="conf-badge conf-confirmed">Confirmed</span>
+<span class="roadmap-stock-item-year">Ongoing</span>
+</div>
+<div class="roadmap-stock-item-desc">Advanced light water reactors — AP1000, EPR; passive safety features</div>
+<div class="roadmap-stock-item-impact">&#128200; CEG operates the largest nuclear fleet in the US. Long-term power purchase agreements with hyperscalers provide revenue visibility. New plant PPAs are being signed at premium rates driven by AI data centre demand.</div>
+</div>
+
+</div>
