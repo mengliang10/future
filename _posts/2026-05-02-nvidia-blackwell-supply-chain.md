@@ -9,7 +9,7 @@ tickers: [NVDA, TSM, MU, AMAT, LRCX]
 tags: [NVIDIA, Blackwell, semiconductors, supply chain, AI chips]
 ---
 
-The NVIDIA GB200 NVL72 is not a chip. It is a compute rack containing 36 Grace CPUs and 72 Blackwell B200 GPUs, connected by NVLink Switch chips, drawing 120kW of power, and delivering 30 petaflops of FP8 inference performance. Understanding how this product is built — and where the supply chain bottlenecks lie — is essential for understanding the semiconductor investment thesis for 2026–2028.
+The NVIDIA GB200 NVL72 is not a chip. It is a compute rack containing 36 Grace CPUs and 72 Blackwell B200 GPUs, connected by NVLink Switch chips, drawing 120kW of power, and delivering 30 petaflops of FP8 inference performance. Understanding how this product is built - and where the supply chain bottlenecks lie - is essential for understanding the semiconductor investment thesis for 2026–2028.
 
 ## The CoWoS Bottleneck
 
