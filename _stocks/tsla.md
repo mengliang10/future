@@ -7,15 +7,7 @@ categories: [Robotics & Auto]
 ---
 
 ## Investment Thesis
-Detailed fundamental analysis and growth catalysts for Tesla Inc. (TSLA) are currently under review.
-
-### Sector Performance
-As part of the **Robotics & Auto** sector, TSLA is positioned to benefit from the ongoing expansion in digital infrastructure and AI deployment.
-
-### Market Context
-- **Industry Position:** Key player in Robotics & Auto.
-- **Technical Horizon:** Monitoring for high-probability entry points based on sectoral momentum.
-
+Tesla is a bet on three simultaneous transitions: EV mass market adoption, Optimus humanoid robot commercialisation, and FSD achieving full autonomy. Each would independently justify a significant valuation. The challenge is that all three have execution risk and require different timelines. The market prices Tesla on EV volumes, which means Optimus and FSD are available at low or zero incremental cost. If either delivers at scale, the re-rating is substantial.
 ## Future Tech Roadmap
 
 <div class="roadmap-stock">

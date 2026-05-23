@@ -7,15 +7,7 @@ categories: [Energy Tech]
 ---
 
 ## Investment Thesis
-Detailed fundamental analysis and growth catalysts for GE Vernova Inc. (GEV) are currently under review.
-
-### Sector Performance
-As part of the **Energy Tech** sector, GEV is positioned to benefit from the ongoing expansion in digital infrastructure and AI deployment.
-
-### Market Context
-- **Industry Position:** Key player in Energy Tech.
-- **Technical Horizon:** Monitoring for high-probability entry points based on sectoral momentum.
-
+GE Vernova is the most interesting combination in the energy sector: profitable grid equipment business (transformers, switchgear, grid software) that benefits directly from the AI data centre buildout, plus the BWRX-300 SMR program with the most commercially advanced Western SMR design. The grid equipment business provides a floor; the SMR program is the call option. Near-term grid equipment backlog and pricing power are the investment thesis — SMR is the duration bet.
 ## Future Tech Roadmap
 
 <div class="roadmap-stock">

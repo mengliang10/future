@@ -7,16 +7,7 @@ categories: [Marketing Tech, AdTech]
 ---
 
 ## Investment Thesis
-The Trade Desk is the dominant independent demand-side platform for programmatic advertising — the layer where agencies and brands buy ads across CTV, display, audio, and retail media. Independence from major media owners (unlike Google's DV360) is a structural advantage as advertisers demand unbiased measurement.
-
-### Key Drivers
-- **Connected TV:** CTV is the fastest-growing ad channel; TTD takes a percentage of every CTV dollar.
-- **UID2:** Their open-source identity solution is the post-cookie standard — winning adoption at scale.
-- **Retail Media:** Walmart, Target, Kroger retail media networks all plug into TTD's platform.
-
-### Risk Factors
-- **Valuation Premium:** Trades at 20–30× revenue; any growth slowdown creates significant multiple compression.
-- **Google Competition:** DV360 benefits from Google's data advantages and vertical integration.
+The Trade Desk is the dominant independent DSP for programmatic advertising, with particularly strong positioning in Connected TV. As streaming platforms add ad tiers (Netflix, Disney+, Amazon Prime), TTD's platform captures incremental budget shifting from linear TV — a secular decade-long reallocation. Unified ID 2.0 is the leading cookieless identity solution, strengthening TTD's position for the post-cookie world. The independence from walled garden conflicts (unlike Google's DV360 or Meta's tools) is a durable competitive advantage with agencies and large advertisers.
 
 ## Future Tech Roadmap
 

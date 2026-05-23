@@ -7,15 +7,7 @@ categories: [Semiconductors]
 ---
 
 ## Investment Thesis
-Detailed fundamental analysis and growth catalysts for Micron Technology (MU) are currently under review.
-
-### Sector Performance
-As part of the **Semiconductors** sector, MU is positioned to benefit from the ongoing expansion in digital infrastructure and AI deployment.
-
-### Market Context
-- **Industry Position:** Key player in Semiconductors.
-- **Technical Horizon:** Monitoring for high-probability entry points based on sectoral momentum.
-
+Micron is the US-listed play on HBM memory. HBM3E is required for every AI accelerator — each B200 GPU ships with 192GB across 8 stacks. SK Hynix currently dominates HBM supply but Micron is qualifying for significant share in 2025-2026. HBM margins are materially better than commodity DRAM, and the mix shift to HBM is a multi-year margin expansion catalyst. Micron is also a beneficiary of the memory upcycle in standard DRAM driven by AI server demand.
 ## Future Tech Roadmap
 
 <div class="roadmap-stock">

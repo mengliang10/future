@@ -7,15 +7,7 @@ categories: [AI & Cloud]
 ---
 
 ## Investment Thesis
-Detailed fundamental analysis and growth catalysts for Microsoft Corporation (MSFT) are currently under review.
-
-### Sector Performance
-As part of the **AI & Cloud** sector, MSFT is positioned to benefit from the ongoing expansion in digital infrastructure and AI deployment.
-
-### Market Context
-- **Industry Position:** Key player in AI & Cloud.
-- **Technical Horizon:** Monitoring for high-probability entry points based on sectoral momentum.
-
+Microsoft has the most comprehensive AI strategy of any large-cap. GitHub Copilot leads the enterprise AI coding market. Azure AI is growing faster than AWS in AI workloads. The OpenAI equity stake provides model layer optionality no other enterprise software company has. The risk: OpenAI is simultaneously Microsoft's biggest strategic asset and its most credible future competitor for the enterprise market. Long MSFT is long the AI software distribution layer.
 ## Future Tech Roadmap
 
 <div class="roadmap-stock">

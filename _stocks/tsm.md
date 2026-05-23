@@ -7,16 +7,7 @@ categories: [Semiconductors, Foundry]
 ---
 
 ## Investment Thesis
-TSMC is the absolute bottleneck of the global technology economy. As the only foundry capable of mass-producing 3nm and 2nm logic dies at scale, they possess unparalleled pricing power.
-
-### Key Drivers
-*   **AI Accelerator Demand:** Every H100, B200, and MI300X is manufactured by TSMC.
-*   **Advanced Packaging:** CoWoS capacity is the primary constraint on AI supply; TSMC's expansion here is a major margin driver.
-*   **2nm Transition:** Early engagement from Apple and NVIDIA for the 2025/2026 nodes ensures long-term revenue visibility.
-
-### Risk Factors
-*   **Geopolitical Risk:** Concentration of manufacturing in Taiwan remains a primary concern for institutional investors.
-*   **Energy Constraints:** Massive power requirements for EUV lithography in Taiwan.
+TSMC manufactures over 90% of the world's most advanced chips. There is no practical alternative at leading-edge nodes — Samsung and Intel Foundry trail by at least one generation on yield and density. TSMC's pricing power increases with each node: N2 wafers are 2-3x N3 pricing at comparable volumes. CoWoS advanced packaging is an effective monopoly product for AI accelerators. The geopolitical risk (Taiwan strait) is real but partially mitigated by Arizona Fab 21 (N2 process, CHIPS Act subsidies). TSMC is the one company whose absence would halt global technology progress within months.
 
 ## Future Tech Roadmap
 

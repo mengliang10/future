@@ -7,15 +7,7 @@ categories: [AI & Cloud]
 ---
 
 ## Investment Thesis
-Detailed fundamental analysis and growth catalysts for Alphabet Inc. (GOOGL) are currently under review.
-
-### Sector Performance
-As part of the **AI & Cloud** sector, GOOGL is positioned to benefit from the ongoing expansion in digital infrastructure and AI deployment.
-
-### Market Context
-- **Industry Position:** Key player in AI & Cloud.
-- **Technical Horizon:** Monitoring for high-probability entry points based on sectoral momentum.
-
+Alphabet's AI assets are uniquely concentrated: DeepMind (AlphaFold, AlphaProof, Gemini), Waymo (leading commercial robotaxi), Google Cloud (AI workloads growing fastest at hyperscale), and TPU infrastructure that rivals NVIDIA at Google's own scale. The search business is the free cash flow engine funding all of this. The risk is search disruption by AI query interfaces — but Google is simultaneously the incumbent and the disruptor.
 ## Future Tech Roadmap
 
 <div class="roadmap-stock">

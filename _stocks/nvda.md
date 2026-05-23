@@ -7,16 +7,7 @@ categories: [Semiconductors, AI, Hardware]
 ---
 
 ## Investment Thesis
-NVIDIA is the definitive infrastructure play of the AI era. Their Blackwell architecture provides a generational leap in inference efficiency, maintaining their 80%+ market share in AI accelerators.
-
-### Key Drivers
-*   **Blackwell Cycle:** Massive demand backlog through 2025.
-*   **Software Moat:** CUDA remains the industry standard, making hardware switching costs prohibitive.
-*   **Networking Integration:** NVLink and InfiniBand integration allows for cluster-level performance that rivals struggle to match.
-
-### Risk Factors
-*   **Gross Margin Compression:** Potential yields issues on new nodes.
-*   **Geopolitical Controls:** Restrictions on sales to China impacting 15-20% of revenue.
+NVIDIA is the definitive infrastructure play of the AI era. The GPU has become the basic unit of AI compute, and NVIDIA's CUDA software ecosystem creates switching costs that make hardware displacement extremely difficult — developer retraining is measured in years. The Blackwell architecture (GB200 NVL72 racks at 120kW per rack, 30 petaflops FP8) cements NVIDIA's position through the 2026-2027 cycle. NVLink and InfiniBand integration allows for cluster-level performance that rivals cannot match at scale. The bear case is custom silicon from hyperscalers (Google TPU, AWS Trainium, Meta MTIA) eroding share — real risk, but slower-moving than bears expect. Long NVIDIA is long AI infrastructure regardless of which model or application wins.
 
 ## Future Tech Roadmap
 

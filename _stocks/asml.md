@@ -7,15 +7,7 @@ categories: [Semiconductors]
 ---
 
 ## Investment Thesis
-Detailed fundamental analysis and growth catalysts for ASML Holding N.V. (ASML) are currently under review.
-
-### Sector Performance
-As part of the **Semiconductors** sector, ASML is positioned to benefit from the ongoing expansion in digital infrastructure and AI deployment.
-
-### Market Context
-- **Industry Position:** Key player in Semiconductors.
-- **Technical Horizon:** Monitoring for high-probability entry points based on sectoral momentum.
-
+ASML manufactures the EUV lithography machines that are required to make every chip below 7nm. It is the only company in the world that can do this — protected by a 30-year head start in optical engineering that cannot be replicated. The next generation High-NA EUV (EXE:5000) costs over €350 million per unit and is required for 1.4nm and below. ASML is a legal monopoly with a captive customer base spending hundreds of billions on advanced fabs.
 ## Future Tech Roadmap
 
 <div class="roadmap-stock">

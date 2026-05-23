@@ -7,15 +7,7 @@ categories: [AI & Cloud]
 ---
 
 ## Investment Thesis
-Detailed fundamental analysis and growth catalysts for Meta Platforms Inc. (META) are currently under review.
-
-### Sector Performance
-As part of the **AI & Cloud** sector, META is positioned to benefit from the ongoing expansion in digital infrastructure and AI deployment.
-
-### Market Context
-- **Industry Position:** Key player in AI & Cloud.
-- **Technical Horizon:** Monitoring for high-probability entry points based on sectoral momentum.
-
+Meta has the most valuable owned-and-operated social data for AI training, 3 billion+ daily active users across its apps, and the leading consumer VR platform (Quest 3). The AI infrastructure investment (Llama, custom silicon, data centre buildout) is funded by a digital advertising business generating $40B+ annual free cash flow. Ray-Ban Meta smart glasses are the leading consumer form factor in wearable AI. The metaverse bet is long-duration and speculative — but it is a venture position within a profitable operating business.
 ## Future Tech Roadmap
 
 <div class="roadmap-stock">
