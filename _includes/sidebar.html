@@ -60,6 +60,14 @@
       </ul>
     </li>
 
+    <!-- Technology Intelligence -->
+    <li class="nav-item {% if page.url contains '/tech' %}active{% endif %}">
+      <a href="{{ '/tech/' | relative_url }}" class="nav-link">
+        <i data-feather="layers"></i>
+        <span>Tech Intelligence</span>
+      </a>
+    </li>
+
     <!-- Stocks -->
     <li class="nav-item {% if page.url contains '/stocks' %}active{% endif %}">
       <a href="{{ '/stocks/' | relative_url }}" class="nav-link">
@@ -83,14 +91,6 @@
         <li><a href="{{ '/roadmap/2050-plus/' | relative_url }}" class="nav-sub-link {% if page.url contains '2050-plus' %}active{% endif %}">2050 and Beyond</a></li>
         <li><a href="{{ '/roadmap/far-future/' | relative_url }}" class="nav-sub-link {% if page.url contains 'far-future' %}active{% endif %}">The Very Far Future</a></li>
       </ul>
-    </li>
-
-    <!-- Sci-Fi -->
-    <li class="nav-item {% if page.url contains '/scifi' %}active{% endif %}">
-      <a href="{{ '/scifi/' | relative_url }}" class="nav-link">
-        <i data-feather="film"></i>
-        <span>Sci-Fi &amp; Drama</span>
-      </a>
     </li>
 
     <!-- Blog -->

@@ -25,6 +25,9 @@ collections:
   stocks:
     output: true
     permalink: /stocks/:path/
+  tech:
+    output: true
+    permalink: /tech/:path/
 
 # Exclude from build output
 exclude:

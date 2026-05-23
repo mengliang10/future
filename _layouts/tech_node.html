@@ -1,0 +1,169 @@
+---
+layout: default
+---
+
+<div class="tech-node-header">
+  <div class="tech-node-breadcrumb">
+    <a href="{{ '/tech/' | relative_url }}">Technology Intelligence</a>
+    &rsaquo;
+    <a href="{{ '/sectors/' | page.category | downcase | relative_url }}">{{ page.category }}</a>
+  </div>
+  <h1 class="tech-node-title">{{ page.title }}</h1>
+  {% if page.subtitle %}<p class="tech-node-subtitle">{{ page.subtitle }}</p>{% endif %}
+  <div class="tech-node-meta">
+    {% if page.confidence_label %}
+    <span class="conf-badge conf-{{ page.confidence_label | downcase }}">{{ page.confidence_label }}</span>
+    {% endif %}
+    {% if page.stage %}
+    <span class="tag">{{ page.stage | replace: '_', ' ' | capitalize }}</span>
+    {% endif %}
+    {% if page.est_year %}<span class="tech-meta-year">Est. {{ page.est_year }}</span>{% endif %}
+    {% if page.horizon %}<span class="tech-meta-horizon">{{ page.horizon }}</span>{% endif %}
+  </div>
+  {% if page.stocks %}
+  <div class="tech-node-tickers">
+    {% for t in page.stocks %}<a href="{{ '/stocks/' | append: t | downcase | append: '/' | relative_url }}" class="ticker-badge">{{ t }}</a> {% endfor %}
+  </div>
+  {% endif %}
+</div>
+
+<div class="tech-node-body">
+  {{ content }}
+</div>
+
+{% if page.related %}
+<div class="tech-related">
+  <h3>Related Technologies</h3>
+  <div class="tech-related-grid">
+    {% for r in page.related %}
+    <a href="{{ '/tech/' | append: r | relative_url }}" class="tech-related-item">{{ r | replace: '-', ' ' | capitalize }}</a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+<style>
+.tech-node-header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.tech-node-breadcrumb {
+  font-size: 0.8rem;
+  color: var(--text-3);
+  margin-bottom: 0.75rem;
+}
+.tech-node-breadcrumb a { color: var(--text-3); }
+.tech-node-breadcrumb a:hover { color: var(--accent); }
+.tech-node-title {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+.tech-node-subtitle {
+  font-size: 1.05rem;
+  color: var(--text-2);
+  margin-bottom: 1rem;
+}
+.tech-node-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+.tech-meta-year {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text-3);
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  padding: 0.2em 0.6em;
+  border-radius: 4px;
+}
+.tech-meta-horizon {
+  font-size: 0.78rem;
+  color: var(--text-3);
+}
+.tech-node-tickers {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
+.tech-node-body h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border-dim);
+  font-size: 1.25rem;
+}
+.tech-node-body h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-1);
+}
+.tech-node-body p {
+  color: var(--text-2);
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+.tech-node-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  font-size: 0.875rem;
+}
+.tech-node-body th {
+  text-align: left;
+  padding: 0.5rem 0.75rem;
+  background: var(--bg-3);
+  color: var(--text-3);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid var(--border);
+}
+.tech-node-body td {
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid var(--border-dim);
+  color: var(--text-2);
+  vertical-align: top;
+}
+.tech-node-body tr:hover td { background: var(--bg-2); }
+
+.invest-callout {
+  background: var(--accent-dim);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+.invest-callout p { color: var(--text-1); margin: 0; }
+
+.risk-item {
+  display: flex;
+  gap: 0.75rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border-dim);
+}
+.risk-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--amber); margin-top: 7px; flex-shrink: 0;
+}
+.risk-dot.high { background: var(--red); }
+.risk-dot.low { background: var(--green); }
+
+.tech-related { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+.tech-related h3 { font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-3); margin-bottom: 0.75rem; }
+.tech-related-grid { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.tech-related-item {
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.4rem 0.75rem;
+  font-size: 0.82rem;
+  color: var(--text-2);
+  text-transform: capitalize;
+}
+.tech-related-item:hover { border-color: var(--accent); color: var(--accent); }
+</style>

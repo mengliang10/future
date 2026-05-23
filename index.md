@@ -31,8 +31,8 @@ title: Home
 
 <!-- Market Analysis: Today / This Week / Next Week -->
 <div class="section-heading">
-  <h2>Market Analysis</h2>
-  <span class="section-sub">Sector &amp; stock intelligence at a glance</span>
+  <h2>Market Intelligence</h2>
+  <span class="section-sub">Macro signals, catalysts, and causal research — week of May 19–23, 2026</span>
   <a href="{{ '/stocks/' | relative_url }}" class="view-all">Full stock table &rarr;</a>
 </div>
 
@@ -46,57 +46,76 @@ title: Home
     <div class="analysis-card-body">
       <div class="analysis-item">
         <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>UK gilts</strong> staged their biggest weekly yield drop since 2023 as fiscal fears eased — causal model: yield spread normalisation precedes growth re-rating 90–270 days out.</div>
+        <div class="analysis-item-text"><strong>UK gilts</strong> staged their biggest weekly yield drop since 2023 as fiscal fears eased. Yield spread normalisation historically precedes GDP re-rating by 90–270 days — a green light for risk-on positioning in the UK and European tech names.</div>
       </div>
       <div class="analysis-item">
         <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>Bitcoin (BTC)</strong> holding near $77,000. Quantum-exposure supply narrative gaining traction in on-chain research; implied volatility at 7-month low.</div>
+        <div class="analysis-item-text"><strong>Bitcoin (BTC)</strong> holding near $77,000 with implied volatility at a 7-month low. On-chain researchers are attaching a quantum-exposure supply narrative — early days, but the conversation is moving from fringe to institutional desks.</div>
       </div>
       <div class="analysis-item">
         <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>Nuclear stocks (GEV, CEG, NNE)</strong> — EDF joins AI gigafactory alliance; US federal funds awarded for SMR deployment. Research confidence: 0.212, pilot by 2029.</div>
+        <div class="analysis-item-text"><strong>Nuclear power (GEV, CEG, NNE)</strong> — EDF has joined the AI gigafactory alliance and US federal funds were awarded for SMR site development. Small modular reactors remain in the pilot phase with first commercial operations expected 2029. The trade is structural, not near-term earnings.</div>
       </div>
     </div>
   </div>
 
   <div class="analysis-card">
     <div class="analysis-card-header">
-      <span class="period">Key Signals</span>
-      <span class="tag">Causal Research Pipeline</span>
+      <span class="period">Key Macro Signals</span>
+      <span class="tag">Causal Research</span>
     </div>
     <div class="analysis-card-body">
-      <div class="analysis-item">
-        <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>10Y-2Y Spread</strong> → GDP Growth: highest-confidence rule in the DB (conf 1.000, 952 sources, Sharpe 8.56). Spread direction is the single most reliable macro leading indicator.</div>
-      </div>
-      <div class="analysis-item">
-        <div class="analysis-dot down"></div>
-        <div class="analysis-item-text"><strong>DXY → Gold:</strong> Dollar strength suppresses gold (conf 0.677, Sharpe 1.99). Real yields (TIPS) are the deeper driver (conf 0.591, 136 sources).</div>
-      </div>
-      <div class="analysis-item">
-        <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>HY Credit Spread → Value Factor:</strong> conf 0.774, 31 sources, Sharpe 1.97. Spread compression historically amplifies value rotation within 1–3 months.</div>
-      </div>
+      <table class="signal-table">
+        <thead>
+          <tr>
+            <th>Signal</th>
+            <th>Direction</th>
+            <th>Implication</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>10Y–2Y Yield Spread</strong></td>
+            <td><span class="signal-dir up">Steepening</span></td>
+            <td>GDP acceleration in 3–9 months. Strongest macro leading indicator. Drives industrial capex, energy infra, and AI hardware cycles.</td>
+          </tr>
+          <tr>
+            <td><strong>DXY (Dollar Index)</strong></td>
+            <td><span class="signal-dir neutral">Softening</span></td>
+            <td>Dollar weakness is a tailwind for gold, commodities, and EM tech. Real yields (TIPS) are the deeper driver — watch the 10Y real yield for the true signal.</td>
+          </tr>
+          <tr>
+            <td><strong>HY Credit Spreads</strong></td>
+            <td><span class="signal-dir up">Compressing</span></td>
+            <td>Spread compression within 1–3 months historically amplifies value factor rotation. Risk appetite is opening — small/mid-cap tech names benefit first.</td>
+          </tr>
+          <tr>
+            <td><strong>Uranium Spot Price</strong></td>
+            <td><span class="signal-dir up">Elevated</span></td>
+            <td>Above $90/lb incentivises mine restarts. Supply response takes 5–7 years — structural tailwind for CCJ and uranium royalty names.</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
 
   <div class="analysis-card">
     <div class="analysis-card-header">
-      <span class="period">Next Week</span>
+      <span class="period">Watch Next Week</span>
       <span class="tag">May 26 &ndash; 30</span>
     </div>
     <div class="analysis-card-body">
       <div class="analysis-item">
         <div class="analysis-dot"></div>
-        <div class="analysis-item-text"><strong>NVIDIA earnings:</strong> CoWoS allocation, GB200 NVL72 rack demand, and Blackwell ramp commentary will set the AI infrastructure narrative for Q3.</div>
+        <div class="analysis-item-text"><strong>NVIDIA earnings (May 28):</strong> The key variables are CoWoS packaging allocation, GB200 NVL72 rack demand commentary, and Blackwell yield ramp. Whatever NVDA says about data centre capex commitment sets the AI infrastructure narrative for the rest of 2026.</div>
       </div>
       <div class="analysis-item">
         <div class="analysis-dot"></div>
-        <div class="analysis-item-text"><strong>FERC decision on Crane nuclear restart</strong> expected June/July. Positive ruling is a catalyst for CEG and the broader nuclear PPA trade.</div>
+        <div class="analysis-item-text"><strong>Crane Clean Energy Center (FERC):</strong> Federal ruling on the Three Mile Island Unit 1 restart is expected June–July. A positive decision is a direct catalyst for <a href="{{ '/stocks/ceg/' | relative_url }}" style="color:var(--accent);">CEG</a> and validates the entire nuclear PPA trade with hyperscalers.</div>
       </div>
       <div class="analysis-item">
         <div class="analysis-dot"></div>
-        <div class="analysis-item-text"><strong>Humanoid robot deployments:</strong> Watch for Tesla Optimus factory trial updates. Research pipeline confidence 0.171 from 17 independent sources — pilot stage confirmed.</div>
+        <div class="analysis-item-text"><strong>Tesla Optimus factory trial data:</strong> First-generation humanoid robots are in live pilot at Tesla's Giga facilities. Any operational update — task success rate, cycle time, unit economics — moves the humanoid thesis from pilot-stage confidence to early-commercial. Watch <a href="{{ '/stocks/tsla/' | relative_url }}" style="color:var(--accent);">TSLA</a> and <a href="{{ '/stocks/nvda/' | relative_url }}" style="color:var(--accent);">NVDA</a>.</div>
       </div>
     </div>
   </div>
@@ -105,11 +124,17 @@ title: Home
 
 <!-- Market Intelligence -->
 <div class="section-heading">
-  <h2>Market Intelligence</h2>
-  <span class="section-sub">High-conviction research across core sectors and deep-dive technical themes.</span>
+  <h2>Sectors &amp; Research</h2>
+  <span class="section-sub">High-conviction research across 13 sectors — with technology nodes, causal signals, and investable stocks.</span>
+  <a href="{{ '/tech/' | relative_url }}" class="view-all">Technology Intelligence (212 nodes) &rarr;</a>
 </div>
 
 <div class="sector-grid">
+  <a href="{{ '/tech/' | relative_url }}" class="sector-card" style="border-color:var(--accent-2); background:linear-gradient(135deg,var(--bg-3),var(--bg-2));">
+    <div class="sector-card-icon">&#127775;</div>
+    <div class="sector-card-name" style="color:var(--accent);">Technology Intelligence</div>
+    <div class="sector-card-desc">212 tracked future technologies — vetted, confidence-rated, linked to stocks. Confirmed → Confident → Researching → Speculative.</div>
+  </a>
   <a href="{{ '/sectors/ai/' | relative_url }}" class="sector-card">
     <div class="sector-card-icon">&#129302;</div>
     <div class="sector-card-name">AI & Machine Learning</div>

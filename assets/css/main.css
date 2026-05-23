@@ -568,6 +568,7 @@ blockquote {
   color: var(--accent);
 }
 .analysis-card-body { padding: 1rem 1.1rem; }
+.analysis-card-body .signal-table { margin: -0.25rem -0.1rem; }
 .analysis-item {
   display: flex;
   align-items: flex-start;
@@ -593,6 +594,45 @@ blockquote {
   line-height: 1.5;
 }
 .analysis-item-text strong { color: var(--text-1); }
+.analysis-item-text a { color: var(--accent); }
+
+/* --- Signal Table (Key Macro Signals card) --- */
+.signal-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.78rem;
+}
+.signal-table th {
+  text-align: left;
+  padding: 0.4rem 0.5rem;
+  background: var(--bg-3);
+  color: var(--text-3);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-bottom: 1px solid var(--border);
+}
+.signal-table td {
+  padding: 0.55rem 0.5rem;
+  border-bottom: 1px solid var(--border-dim);
+  color: var(--text-2);
+  vertical-align: top;
+  line-height: 1.45;
+}
+.signal-table tr:last-child td { border-bottom: none; }
+.signal-table td strong { color: var(--text-1); display: block; margin-bottom: 0.1rem; }
+.signal-dir {
+  display: inline-block;
+  padding: 0.15em 0.5em;
+  border-radius: 3px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  font-family: var(--font-mono);
+  white-space: nowrap;
+}
+.signal-dir.up { background: var(--green-dim); color: var(--green); }
+.signal-dir.down { background: var(--red-dim); color: var(--red); }
+.signal-dir.neutral { background: rgba(255,167,38,0.12); color: var(--amber); }
 
 /* --- Sector Cards Grid --- */
 .sector-grid {
