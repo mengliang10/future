@@ -873,6 +873,78 @@ blockquote {
 }
 .post-body li { margin-bottom: 0.4rem; }
 
+/* --- Page body (sector pages, general pages) --- */
+.page-body h2 {
+  font-size: 1.05rem;
+  font-family: var(--font-head);
+  font-weight: 700;
+  color: var(--text-1);
+  margin-top: 2rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
+}
+.page-body h3 {
+  font-size: 0.9rem;
+  color: var(--text-2);
+  margin-top: 1.25rem;
+  margin-bottom: 0.4rem;
+}
+.page-body p {
+  font-size: 0.875rem;
+  color: var(--text-2);
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+.page-body ul, .page-body ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--text-2);
+  font-size: 0.875rem;
+  line-height: 1.7;
+}
+.page-body li { margin-bottom: 0.35rem; }
+.page-body hr {
+  border: none;
+  border-top: 1px solid var(--border-dim);
+  margin: 3rem 0;
+}
+/* Technology Nodes table (markdown-rendered) */
+.page-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  margin: 1.25rem 0 1.5rem;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-2);
+}
+.page-body th {
+  text-align: left;
+  padding: 0.55rem 0.9rem;
+  background: var(--bg-3);
+  color: var(--text-3);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+.page-body td {
+  padding: 0.5rem 0.9rem;
+  border-bottom: 1px solid var(--border-dim);
+  color: var(--text-2);
+  vertical-align: middle;
+}
+.page-body tr:last-child td { border-bottom: none; }
+.page-body tbody tr:hover td { background: var(--bg-3); }
+.page-body td:first-child { color: var(--text-1); font-weight: 500; }
+.page-body td:nth-child(3) { font-family: var(--font-mono); font-size: 0.75rem; color: var(--text-3); }
+/* Mermaid: hide raw code if JS doesn't render */
+.page-body pre code.language-mermaid { display: none; }
+
 .post-footer {
   margin-top: 2.5rem;
   padding-top: 1.25rem;
