@@ -40,42 +40,42 @@ title: Home
 
   <div class="analysis-card">
     <div class="analysis-card-header">
-      <span class="period">Today</span>
-      <span class="tag semi">May 3, 2026</span>
+      <span class="period">This Week</span>
+      <span class="tag semi">May 19 &ndash; 23, 2026</span>
     </div>
     <div class="analysis-card-body">
       <div class="analysis-item">
         <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>NVIDIA (NVDA)</strong> up 1.4% on continued data centre demand signals ahead of next earnings.</div>
-      </div>
-      <div class="analysis-item">
-        <div class="analysis-dot down"></div>
-        <div class="analysis-item-text"><strong>ON Semiconductor (ON)</strong> down 2.8% after EV demand softness commentary from a major OEM.</div>
+        <div class="analysis-item-text"><strong>UK gilts</strong> staged their biggest weekly yield drop since 2023 as fiscal fears eased — causal model: yield spread normalisation precedes growth re-rating 90–270 days out.</div>
       </div>
       <div class="analysis-item">
         <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>IonQ (IONQ)</strong> up 6.9% following a new government contract announcement.</div>
+        <div class="analysis-item-text"><strong>Bitcoin (BTC)</strong> holding near $77,000. Quantum-exposure supply narrative gaining traction in on-chain research; implied volatility at 7-month low.</div>
+      </div>
+      <div class="analysis-item">
+        <div class="analysis-dot up"></div>
+        <div class="analysis-item-text"><strong>Nuclear stocks (GEV, CEG, NNE)</strong> — EDF joins AI gigafactory alliance; US federal funds awarded for SMR deployment. Research confidence: 0.212, pilot by 2029.</div>
       </div>
     </div>
   </div>
 
   <div class="analysis-card">
     <div class="analysis-card-header">
-      <span class="period">This Week</span>
-      <span class="tag">Apr 28 &ndash; May 3</span>
+      <span class="period">Key Signals</span>
+      <span class="tag">Causal Research Pipeline</span>
     </div>
     <div class="analysis-card-body">
       <div class="analysis-item">
         <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>Semiconductors</strong> outperformed the broader market +2.1% driven by CoWoS capacity upgrades at TSMC.</div>
+        <div class="analysis-item-text"><strong>10Y-2Y Spread</strong> → GDP Growth: highest-confidence rule in the DB (conf 1.000, 952 sources, Sharpe 8.56). Spread direction is the single most reliable macro leading indicator.</div>
       </div>
       <div class="analysis-item">
         <div class="analysis-dot down"></div>
-        <div class="analysis-item-text"><strong>Solar/Energy</strong> sector underperformed &minus;3.5% on rising interest rate expectations reducing project economics.</div>
+        <div class="analysis-item-text"><strong>DXY → Gold:</strong> Dollar strength suppresses gold (conf 0.677, Sharpe 1.99). Real yields (TIPS) are the deeper driver (conf 0.591, 136 sources).</div>
       </div>
       <div class="analysis-item">
         <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>AI Cloud (MSFT, GOOGL)</strong> both reported strong Azure/GCP AI revenue growth beats.</div>
+        <div class="analysis-item-text"><strong>HY Credit Spread → Value Factor:</strong> conf 0.774, 31 sources, Sharpe 1.97. Spread compression historically amplifies value rotation within 1–3 months.</div>
       </div>
     </div>
   </div>
@@ -83,20 +83,20 @@ title: Home
   <div class="analysis-card">
     <div class="analysis-card-header">
       <span class="period">Next Week</span>
-      <span class="tag">May 4 &ndash; 10</span>
+      <span class="tag">May 26 &ndash; 30</span>
     </div>
     <div class="analysis-card-body">
       <div class="analysis-item">
         <div class="analysis-dot"></div>
-        <div class="analysis-item-text"><strong>Earnings watch:</strong> AMD, ARM, and SMCI report. AMD guidance on MI300X demand will set the AI chip narrative.</div>
+        <div class="analysis-item-text"><strong>NVIDIA earnings:</strong> CoWoS allocation, GB200 NVL72 rack demand, and Blackwell ramp commentary will set the AI infrastructure narrative for Q3.</div>
       </div>
       <div class="analysis-item">
         <div class="analysis-dot"></div>
-        <div class="analysis-item-text"><strong>TSMC April sales data</strong> due May 8. Expect strong YoY growth confirming AI server demand.</div>
+        <div class="analysis-item-text"><strong>FERC decision on Crane nuclear restart</strong> expected June/July. Positive ruling is a catalyst for CEG and the broader nuclear PPA trade.</div>
       </div>
       <div class="analysis-item">
         <div class="analysis-dot"></div>
-        <div class="analysis-item-text"><strong>Federal Reserve speaker</strong> scheduled Tuesday. Watch for signals on rate path impacting growth tech valuations.</div>
+        <div class="analysis-item-text"><strong>Humanoid robot deployments:</strong> Watch for Tesla Optimus factory trial updates. Research pipeline confidence 0.171 from 17 independent sources — pilot stage confirmed.</div>
       </div>
     </div>
   </div>
