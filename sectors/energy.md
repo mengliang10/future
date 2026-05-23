@@ -68,7 +68,30 @@ Each step requires solving the previous energy storage or generation challenge. 
 
 ---
 
-<div class="placeholder-block">
-  <h3>Deep Dive Articles — Coming Soon</h3>
-  <p>Uranium supply-demand model, nuclear PPA economics, and SMR deployment timeline analysis.</p>
-</div>
+## Technology Nodes
+
+Research pipeline data from our technology graph (212 tracked nodes). Source counts reflect independent academic, central bank, and industry research documents.
+
+| Technology | Stage | Confidence | Est. Year |
+|---|---|---|---|
+| Commercial Fusion Power Plant | Basic Research | 0.221 | 2044 |
+| Small Modular Reactor (<300MWe) | Pilot | 0.212 | 2029 |
+| Nuclear Gen III+ Reactor (AP1000) | Mass Production | 0.180 | — |
+| Advanced Nuclear Gen IV (MSR/SFR) | Proof of Concept | 0.174 | 2036 |
+| Green Hydrogen (<$2/kg Electrolysis) | Pilot | 0.159 | 2030 |
+| Autonomous Nuclear Plant Operations | Basic Research | 0.161 | — |
+| Solar <$0.01/kWh LCOE | Pilot | 0.750 | 2027 |
+
+**Note on source counts:** Nuclear Gen III+ (AP1000) has 57 independent sources — the highest in the energy category. Autonomous Nuclear Plant Operations has 89 sources at basic research stage, reflecting intense AI/nuclear intersection research with limited actual deployment. Solar <$0.01/kWh LCOE has 0 current sources (frontier node) — tracking is based on cost trajectory extrapolation.
+
+## Research Pipeline Signals
+
+Key causal macro rules relevant to energy sector positioning:
+
+- **WTI Crude Oil** amplifies GDP Growth YoY with 30-90 day lag (confidence 0.991, 1 source, Sharpe 5.82). Oil price spikes are GDP headwinds; sustained low oil prices are growth tailwinds. Monitor crude as a leading macro indicator.
+- **Yield curve steepening** (10Y-2Y spread widening) signals GDP recovery, which increases industrial energy demand and is broadly positive for energy infrastructure capex.
+- **USD strength** is historically a headwind for commodity prices including uranium and natural gas. A weaker dollar environment supports energy commodity prices and producer margins.
+
+Nuclear operator stocks (CEG, VST) have low correlation with growth/value factor rotations — they trade on power market pricing and PPA contract announcements. This makes them portfolio diversifiers during AI-sector selloffs.
+
+<a href="{{ '/blog/' | relative_url }}" class="btn btn-outline" style="margin-top:1rem; display:inline-flex;">Read Energy Deep Dives &rarr;</a>

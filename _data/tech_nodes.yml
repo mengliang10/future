@@ -1,0 +1,151 @@
+nodes:
+  - name: "HBM3 / HBM3e Stacked Memory"
+    category: "Semiconductors"
+    stage: "mass_production"
+    confidence: 0.990
+    year: ~
+  - name: "In-Vivo CRISPR Gene Therapy"
+    category: "Biotech"
+    stage: "early_commercial"
+    confidence: 0.900
+    year: ~
+  - name: "High-Bandwidth Wireless BCI (1024ch)"
+    category: "BCI"
+    stage: "pilot"
+    confidence: 0.820
+    year: 2024
+  - name: "Solar <$0.01/kWh LCOE"
+    category: "Energy Tech"
+    stage: "pilot"
+    confidence: 0.750
+    year: 2027
+  - name: "Silicon Photonics Interconnect"
+    category: "Semiconductors"
+    stage: "pilot"
+    confidence: 0.720
+    year: 2028
+  - name: "Wafer-on-Wafer 3D Integration"
+    category: "Semiconductors"
+    stage: "pilot"
+    confidence: 0.720
+    year: 2027
+  - name: "6G X-MIMO 7GHz Network"
+    category: "Connectivity"
+    stage: "prototype"
+    confidence: 0.361
+    year: 2028
+  - name: "AI Software Engineering Agent"
+    category: "AI & Cloud"
+    stage: "early_commercial"
+    confidence: 0.282
+    year: ~
+  - name: "Commercial Lunar Lander"
+    category: "Space Tech"
+    stage: "early_commercial"
+    confidence: 0.265
+    year: ~
+  - name: "Chain-of-Thought Reasoning Model"
+    category: "AI & Cloud"
+    stage: "mass_production"
+    confidence: 0.232
+    year: ~
+  - name: "Commercial Fusion Power Plant"
+    category: "Energy Tech"
+    stage: "basic_research"
+    confidence: 0.221
+    year: 2044
+  - name: "Mixture-of-Experts Architecture"
+    category: "AI & Cloud"
+    stage: "mass_production"
+    confidence: 0.215
+    year: ~
+  - name: "Multimodal Foundation Model"
+    category: "AI & Cloud"
+    stage: "mass_production"
+    confidence: 0.213
+    year: ~
+  - name: "Small Modular Reactor (<300MWe)"
+    category: "Energy Tech"
+    stage: "pilot"
+    confidence: 0.212
+    year: 2029
+  - name: "AI Inference at Edge"
+    category: "AI & Cloud"
+    stage: "early_commercial"
+    confidence: 0.206
+    year: 2025
+  - name: "AI Formal Mathematical Reasoning"
+    category: "AI & Cloud"
+    stage: "prototype"
+    confidence: 0.197
+    year: 2026
+  - name: "2nm Process Node (TSMC N2)"
+    category: "Semiconductors"
+    stage: "early_commercial"
+    confidence: 0.190
+    year: 2025
+  - name: "Neuromorphic Computing Chip"
+    category: "Semiconductors"
+    stage: "prototype"
+    confidence: 0.186
+    year: 2029
+  - name: "LLM 100T+ Parameter Model"
+    category: "AI & Cloud"
+    stage: "prototype"
+    confidence: 0.185
+    year: 2026
+  - name: "Artificial General Intelligence"
+    category: "AI & Cloud"
+    stage: "basic_research"
+    confidence: 0.185
+    year: 2028
+  - name: "Nuclear Gen III+ Reactor (AP1000)"
+    category: "Energy Tech"
+    stage: "mass_production"
+    confidence: 0.180
+    year: ~
+  - name: "Advanced Nuclear Gen IV (MSR/SFR)"
+    category: "Energy Tech"
+    stage: "proof_of_concept"
+    confidence: 0.174
+    year: 2036
+  - name: "Quantum Key Distribution Network"
+    category: "Cybersecurity"
+    stage: "basic_research"
+    confidence: 0.174
+    year: ~
+  - name: "RLHF / Constitutional AI Alignment"
+    category: "AI & Cloud"
+    stage: "mass_production"
+    confidence: 0.171
+    year: ~
+  - name: "Humanoid Robot (Factory Deployment)"
+    category: "Robotics"
+    stage: "pilot"
+    confidence: 0.171
+    year: 2026
+  - name: "Superconducting Qubit"
+    category: "Quantum"
+    stage: "early_commercial"
+    confidence: 0.168
+    year: ~
+  - name: "Quantum-Enhanced Semiconductor Design"
+    category: "Semiconductors"
+    stage: "basic_research"
+    confidence: 0.167
+    year: ~
+  - name: "Quantum Network (Entanglement Dist.)"
+    category: "Quantum"
+    stage: "proof_of_concept"
+    confidence: 0.163
+    year: 2030
+  - name: "Robot Learning from Demonstration"
+    category: "Robotics"
+    stage: "early_commercial"
+    confidence: 0.163
+    year: 2027
+  - name: "Open-Source Frontier LLM"
+    category: "AI & Cloud"
+    stage: "mass_production"
+    confidence: 0.161
+    year: 2025

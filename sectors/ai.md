@@ -41,7 +41,31 @@ Key tickers: **NVDA, MSFT, GOOGL, META, AMZN, AAPL, IBM, ORCL, PLTR, AI, PATH, S
 
 ---
 
-<div class="placeholder-block">
-  <h3>Deep Dive Articles — Coming Soon</h3>
-  <p>Detailed analysis, infographics, and stock breakdowns for the AI sector will appear here.</p>
-</div>
+## Technology Nodes
+
+Research pipeline data from our technology graph (212 tracked nodes). Confidence scores derived from independent source count and cross-validation.
+
+| Technology | Stage | Confidence | Est. Year |
+|---|---|---|---|
+| AI Software Engineering Agent | Early Commercial | 0.282 | — |
+| Chain-of-Thought Reasoning Model | Mass Production | 0.232 | — |
+| Mixture-of-Experts Architecture | Mass Production | 0.215 | — |
+| Multimodal Foundation Model | Mass Production | 0.213 | — |
+| AI Inference at Edge | Early Commercial | 0.206 | 2025 |
+| AI Formal Mathematical Reasoning | Prototype | 0.197 | 2026 |
+| LLM 100T+ Parameter Model | Prototype | 0.185 | 2026 |
+| Artificial General Intelligence | Basic Research | 0.185 | 2028 |
+| RLHF / Constitutional AI Alignment | Mass Production | 0.171 | — |
+| Open-Source Frontier LLM | Mass Production | 0.161 | 2025 |
+
+**Bottleneck alert:** AI Formal Mathematical Reasoning (conf 0.197, prototype 2026) is a graph bottleneck node with 6 downstream dependencies. Advancement here accelerates theorem proving, code verification, autonomous scientific research, and molecular design simultaneously.
+
+## Research Pipeline Signals
+
+Key causal rules from our macro database relevant to AI sector positioning:
+
+- **AI infrastructure capex** is sustained as long as hyperscaler revenue growth continues. Monitor AWS, Azure, and GCP growth rates as leading indicators for NVDA, AMAT, and ASML order flows.
+- **USD strength (DXY)** suppresses international AI revenue for US-listed companies. A weak dollar environment amplifies reported earnings for MSFT, GOOGL, and NVDA's international segments.
+- **HY credit spreads** widening signals a shift from growth to value factor — AI infrastructure stocks (high multiple, long duration) are most exposed to this rotation.
+
+<a href="{{ '/blog/' | relative_url }}" class="btn btn-outline" style="margin-top:1rem; display:inline-flex;">Read AI Deep Dives &rarr;</a>

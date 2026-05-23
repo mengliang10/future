@@ -61,7 +61,27 @@ The dependency: you cannot build a general-purpose robot without solving manipul
 
 ---
 
-<div class="placeholder-block">
-  <h3>Deep Dive Articles — Coming Soon</h3>
-  <p>Humanoid robot economics, automation playbook by sector, and the Optimus investment case.</p>
-</div>
+## Technology Nodes
+
+Research pipeline data from our technology graph (212 tracked nodes). Confidence scores derived from independent source count and cross-validation.
+
+| Technology | Stage | Confidence | Est. Year |
+|---|---|---|---|
+| Humanoid Robot (Factory Deployment) | Pilot | 0.171 | 2026 |
+| Robot Learning from Demonstration | Early Commercial | 0.163 | 2027 |
+| Industrial Robot Arm | Mass Production | 0.167 | — |
+| Robotics Foundation Model | Basic Research | — | — |
+
+**Key insight:** Robot Learning from Demonstration has the highest source count in the robotics category (37 independent sources) at early-commercial stage. This is the enabling technology for rapid task acquisition without manual programming — the bottleneck that previously made factory robots economically marginal for variable-task environments. Sim-to-Real Transfer is the delivery mechanism: policies trained in simulation (millions of iterations) transfer to physical hardware with acceptable performance degradation.
+
+## Research Pipeline Signals
+
+Macro context for robotics sector positioning:
+
+- **Labour market tightness** (low unemployment, rising wages) accelerates robot adoption economics. Our pipeline's unemployment → GDP Growth rule (confidence 1.000, Sharpe 10.17) implies that sustained low unemployment eventually creates the wage pressure that makes robot ROI attractive to CFOs.
+- **Capital equipment investment** is GDP-cyclical — robots are capex. Yield curve steepening, which our research identifies as a 3-9 month leading indicator of GDP growth, is a positive signal for industrial capex cycles including robotics orders.
+- **Interest rate sensitivity:** High capex, long payback period investments (like humanoid robot deployments) are more sensitive to real interest rates than consumer spending. Rising real yields (10Y TIPS) increase the hurdle rate for robot ROI calculations.
+
+The robotics sector is in its most consequential development window. The 2026 pilot deployments will generate the operational data — task completion rates, uptime, reprogramming frequency — that determines whether the 2028-2030 mass deployment thesis is achievable.
+
+<a href="{{ '/blog/' | relative_url }}" class="btn btn-outline" style="margin-top:1rem; display:inline-flex;">Read Robotics Deep Dives &rarr;</a>
