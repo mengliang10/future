@@ -78,6 +78,31 @@ Artificial Intelligence is no longer a research project — it is the primary dr
   </div>
 </div>
 
+<div class="accordion-item">
+  <button class="accordion-toggle" onclick="toggleAcc(this)">
+    AI Cloud TCO &amp; Unit Economics <span class="acc-arrow">&#9660;</span>
+  </button>
+  <div class="accordion-body">
+    <p>For hyperscalers, the transition from general-purpose compute to AI factories is a CapEx arms race. TCO is the only metric that matters for long-term margin preservation. GPU silicon is ~60% of AI server TCO; power and cooling ~15%; networking (InfiniBand/Ethernet) ~15%; storage and DRAM ~10%.</p>
+    <p>As racks move from 15kW to 100kW+ (GB200 NVL72), cooling becomes a specialist industrial moat — Vertiv and Eaton are the key beneficiaries. Utilisation rates are shifting toward "inference-first" architectures to increase monetisation frequency versus long training runs. NVIDIA's GB200 provides a 25x reduction in TCO versus H100 for large-scale LLM inference — this is why Blackwell is in structural deficit despite its price premium.</p>
+    <p>CSPs are signalling uncapped AI spending (Meta, Microsoft Q4 2024 earnings calls). Any dip in hyperscaler share prices due to elevated CapEx is a buying opportunity for the hardware layer — the spending is structural, not cyclical.</p>
+    <p><strong>Rotation signal:</strong> Monitor the spread between NVIDIA supply and cloud demand. If GPU lead times drop below 12 weeks, rotate from hardware into the software layer deploying those models. <span class="ticker-badge"><a href="/future/stocks/nvda/" style="color:inherit">NVDA</a></span> <span class="ticker-badge"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a></span> <span class="ticker-badge"><a href="/future/stocks/amzn/" style="color:inherit">AMZN</a></span> <span class="ticker-badge"><a href="/future/stocks/googl/" style="color:inherit">GOOGL</a></span></p>
+  </div>
+</div>
+
+<div class="accordion-item">
+  <button class="accordion-toggle" onclick="toggleAcc(this)">
+    Software Monetisation Layer <span class="acc-arrow">&#9660;</span>
+  </button>
+  <div class="accordion-body">
+    <p>While hardware and chips get the headlines, long-term AI value will accrue to software companies that embed it into workflows, sell access at scale, and defend moats through data network effects. The core question for every software stock: does AI accelerate your growth, or does it commoditise your product?</p>
+    <p><strong>AI-Enhanced SaaS:</strong> ServiceNow, Salesforce, Adobe, Workday embedding AI copilots into workflows — now linked to ROI stories, not just feature releases. These companies have proprietary data and entrenched customer relationships that make AI a multiplier, not a threat.</p>
+    <p><strong>Data &amp; Analytics:</strong> Snowflake Cortex, Databricks Unity Catalog, MongoDB Atlas Vector Search, Datadog AI Monitoring. The infrastructure layer for AI-ready data pipelines. Vector databases are becoming a standard component of every AI application stack.</p>
+    <p><strong>Developer Tools:</strong> Atlassian, GitLab. GitHub Copilot and AI code generation are simultaneously a threat to incumbent tooling and an opportunity for platforms that can own the full dev lifecycle. AI coding agents (see above) will reshape how software is built — toolchain owners who adapt fastest win.</p>
+    <p><strong>Cloud Platforms:</strong> AWS Bedrock, Azure OpenAI Service, GCP Vertex AI capture the vast majority of AI workload spend. The three hyperscalers are simultaneously infrastructure providers and model distributors — a structural advantage that smaller cloud providers cannot replicate. <span class="ticker-badge"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a></span> <span class="ticker-badge"><a href="/future/stocks/googl/" style="color:inherit">GOOGL</a></span> <span class="ticker-badge"><a href="/future/stocks/amzn/" style="color:inherit">AMZN</a></span> <span class="ticker-badge"><a href="/future/stocks/pltr/" style="color:inherit">PLTR</a></span> <span class="ticker-badge"><a href="/future/stocks/net/" style="color:inherit">NET</a></span></p>
+  </div>
+</div>
+
 ---
 
 ## Key Stocks
@@ -85,11 +110,15 @@ Artificial Intelligence is no longer a research project — it is the primary dr
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
 | [NVDA](/stocks/NVDA/) | NVIDIA | GPU infrastructure | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [MSFT](/stocks/MSFT/) | Microsoft | AI platform + GitHub | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [GOOGL](/stocks/GOOGL/) | Alphabet | Gemini + DeepMind + GCP | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [MSFT](/stocks/MSFT/) | Microsoft | Azure AI + GitHub Copilot | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [GOOGL](/stocks/GOOGL/) | Alphabet | Gemini + DeepMind + GCP Vertex | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [AMZN](/stocks/AMZN/) | Amazon | AWS Bedrock + Trainium | <span class="conf-badge conf-confirmed">Confirmed</span> |
 | [META](/stocks/META/) | Meta | Llama + AI infra | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [PLTR](/stocks/PLTR/) | Palantir | Enterprise AI agents | <span class="conf-badge conf-confident">Confident</span> |
+| [PLTR](/stocks/PLTR/) | Palantir | Enterprise AI agents (AIP) | <span class="conf-badge conf-confident">Confident</span> |
+| [NOW](/stocks/NOW/) | ServiceNow | AI workflow automation | <span class="conf-badge conf-confident">Confident</span> |
+| [NET](/stocks/NET/) | Cloudflare | AI edge inference + security | <span class="conf-badge conf-confident">Confident</span> |
 | [IBM](/stocks/IBM/) | IBM | Quantum + enterprise AI | <span class="conf-badge conf-confident">Confident</span> |
+| [RXRX](/stocks/RXRX/) | Recursion | AI drug discovery | <span class="conf-badge conf-researching">Researching</span> |
 
 ---
 
