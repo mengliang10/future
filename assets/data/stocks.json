@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T13:18:11Z",
+  "updated": "2026-05-24T14:48:35Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -617,49 +617,49 @@
       "ticker": "PANW",
       "name": "Palo Alto Networks",
       "sector": "Software",
-      "price": null,
-      "change": null,
-      "change_pct": null,
-      "market_cap": null,
-      "volume": null,
-      "signal": "N/A",
-      "rsi": null
+      "price": 260.58,
+      "change": 7.66,
+      "change_pct": 3.0286,
+      "market_cap": 211330369110,
+      "volume": 8508079,
+      "signal": "STRONG BUY",
+      "rsi": 83.61
     },
     {
       "ticker": "ESTC",
       "name": "Elastic N.V.",
       "sector": "Software",
-      "price": null,
-      "change": null,
-      "change_pct": null,
-      "market_cap": null,
-      "volume": null,
-      "signal": "N/A",
-      "rsi": null
+      "price": 54.81,
+      "change": 0.97,
+      "change_pct": 1.8016,
+      "market_cap": 5672890390,
+      "volume": 2127325,
+      "signal": "BUY",
+      "rsi": 61.3
     },
     {
       "ticker": "BILL",
       "name": "Bill Holdings Inc.",
       "sector": "Software",
-      "price": null,
-      "change": null,
-      "change_pct": null,
-      "market_cap": null,
-      "volume": null,
-      "signal": "N/A",
-      "rsi": null
+      "price": 36.14,
+      "change": -0.31,
+      "change_pct": -0.8505,
+      "market_cap": 3599425652,
+      "volume": 2121867,
+      "signal": "STRONG SELL",
+      "rsi": 40.11
     },
     {
       "ticker": "VEEV",
       "name": "Veeva Systems Inc.",
       "sector": "Software",
-      "price": null,
-      "change": null,
-      "change_pct": null,
-      "market_cap": null,
-      "volume": null,
-      "signal": "N/A",
-      "rsi": null
+      "price": 160.17,
+      "change": 1.9,
+      "change_pct": 1.2005,
+      "market_cap": 26139535159,
+      "volume": 2861717,
+      "signal": "SELL",
+      "rsi": 45.55
     },
     {
       "ticker": "CRWD",
