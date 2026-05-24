@@ -1212,6 +1212,41 @@
       "volume": null,
       "signal": "N/A",
       "rsi": null
+    },
+    {
+      "ticker": "AUR",
+      "name": "Aurora Innovation Inc.",
+      "sector": "Autonomous"
+    },
+    {
+      "ticker": "CGNX",
+      "name": "Cognex Corporation",
+      "sector": "Robotics"
+    },
+    {
+      "ticker": "JOBY",
+      "name": "Joby Aviation Inc.",
+      "sector": "Autonomous"
+    },
+    {
+      "ticker": "MDT",
+      "name": "Medtronic plc",
+      "sector": "BCI"
+    },
+    {
+      "ticker": "S",
+      "name": "SentinelOne Inc.",
+      "sector": "Cybersecurity"
+    },
+    {
+      "ticker": "SYM",
+      "name": "Symbotic Inc.",
+      "sector": "Robotics"
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies Inc.",
+      "sector": "Autonomous"
     }
   ]
 }
