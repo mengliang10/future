@@ -4,11 +4,11 @@ title: "Customer Data Platform (CDP)"
 subtitle: "Unified customer profile across touchpoints — Braze, Segment, Salesforce CDP"
 category: Marketing Tech
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 4
+source_count: 2
 stocks: [BRZE, HUBS]
 permalink: /tech/customer-data-platform-cdp/
 ---
@@ -17,32 +17,30 @@ permalink: /tech/customer-data-platform-cdp/
 
 Unified customer profile across touchpoints — Braze, Segment, Salesforce CDP. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+
+> RSS:Chaos erupts as cyberattack disrupts learning platform Canvas amid fin | rel=0.44 | uid:e6293921d1be0fc6
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.10** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 2 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
 - [AI Personalization Engine](/future/tech/ai-personalization-engine/)
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [Cookieless Tracking / Privacy Sandbox](/future/tech/cookieless-tracking-privacy-sandbox/)
+- [Cookieless Tracking / Privacy Sandbox](/future/tech/cookieless-tracking/)
 
 ## Investment Exposure
 
-[BRZE](/future/stocks/brze/) [HUBS](/future/stocks/hubs/)
+[BRZE](/future/stocks/brze/)  [HUBS](/future/stocks/hubs/)
 
 See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

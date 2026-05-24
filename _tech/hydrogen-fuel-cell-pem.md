@@ -7,8 +7,8 @@ stage: early_commercial
 confidence_label: Confident
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 20
+horizon: "Deployed"
+source_count: 1
 stocks: []
 permalink: /tech/hydrogen-fuel-cell-pem/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/hydrogen-fuel-cell-pem/
 
 Converting H2 to electricity electrochemically — vehicles, stationary power. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **20 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+
+> Toyota Mirai (Gen 2), Hyundai Nexo, and Honda CR-V e:FCEV commercially available in California, Japan, Korea, and Europe; fuel cell stacks from Ballard and Plug Power deployed in 50K+ forklifts and 2K+ buses globally. PEM durability improved to 25K+ hours for stationary applications.
 
 ## Status
 
@@ -25,15 +27,16 @@ Crossed from research to commercial deployment — identifiable revenue, limited
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Score | **+0.84** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 20 |
+| Horizon | Deployed |
+| Independent Sources Tracked | 1 |
 
-## What This Enables
+## Prerequisites
 
-Advancement here directly benefits or unblocks:
+This technology depends on or is closely linked to:
 
-- [Green Hydrogen (<$2/kg via Electrolysis)](/future/tech/green-hydrogen-2kg-via-electrolysis/)
+- [Green Hydrogen (<$2/kg via Electrolysis)](/future/tech/green-hydrogen/)
 
 ## Investment Exposure
 

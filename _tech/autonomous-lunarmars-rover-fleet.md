@@ -1,14 +1,14 @@
 ---
 layout: tech_node
 title: "Autonomous Lunar/Mars Rover Fleet"
-subtitle: "Self-directing robot fleets operating in extraterrestrial environments without Earth-based real-time control."
+subtitle: "Self-directing robot fleets operating in extraterrestrial environments without Earth-based real-t..."
 category: Space Tech
 stage: basic_research
 confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 76
+source_count: 48
 stocks: []
 permalink: /tech/autonomous-lunarmars-rover-fleet/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/autonomous-lunarmars-rover-fleet/
 
 Self-directing robot fleets operating in extraterrestrial environments without Earth-based real-time control..
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **76 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **48 independent sources** on this technology.
+
+> RSS:Learning Bilevel Policies over Symbolic World Models for Long-Horizon  | rel=0.69 | uid:d89a161e8096bbd6
 
 ## Status
 
@@ -25,22 +27,16 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.14** |
+| Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 76 |
-
-## Prerequisites
-
-This technology depends on or is closely linked to:
-
-- [Permanent Lunar Surface Base](/future/tech/permanent-lunar-surface-base/)
+| Independent Sources Tracked | 48 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Autonomous Trucking (Highway ODD)](/future/tech/autonomous-trucking-highway-odd/)
-- [Global Satellite Internet Coverage](/future/tech/global-satellite-internet-coverage/)
+- [Permanent Lunar Surface Base](/future/tech/lunar-surface-base/)
 
 ## Investment Exposure
 

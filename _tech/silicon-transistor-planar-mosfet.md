@@ -4,11 +4,11 @@ title: "Silicon Transistor (Planar MOSFET)"
 subtitle: "Foundational switching element of all digital electronics since 1947"
 category: Semiconductors
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 5
+source_count: 3
 stocks: []
 permalink: /tech/silicon-transistor-planar-mosfet/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/silicon-transistor-planar-mosfet/
 
 Foundational switching element of all digital electronics since 1947. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **5 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
+
+> RSS:Radio-frequency reflectometry in silicon carbide large-area transistor | rel=0.53 | uid:10971b2b805fea80
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.12** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 5 |
+| Independent Sources Tracked | 3 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [FinFET Transistor (3D Gate)](/future/tech/finfet-transistor-3d-gate/)
+- [FinFET Transistor (3D Gate)](/future/tech/finfet-transistor/)
 
 ## Investment Exposure
 

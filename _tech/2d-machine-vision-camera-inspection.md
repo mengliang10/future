@@ -4,11 +4,11 @@ title: "2D Machine Vision (Camera Inspection)"
 subtitle: "Camera-based part detection and inspection in factory settings"
 category: Robotics
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 10
+source_count: 4
 stocks: [CGNX]
 permalink: /tech/2d-machine-vision-camera-inspection/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/2d-machine-vision-camera-inspection/
 
 Camera-based part detection and inspection in factory settings. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **10 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
+
+> RSS:The Download: China’s AI drama factory and the WHO’s missing health ta | rel=0.44 | uid:034c5dfe93abf656
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 10 |
+| Independent Sources Tracked | 4 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [3D Machine Vision / Point Cloud](/future/tech/3d-machine-vision-point-cloud/)
+- [3D Machine Vision / Point Cloud](/future/tech/machine-vision-3d/)
 
 ## Investment Exposure
 

@@ -8,7 +8,7 @@ confidence_label: Confirmed
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 0
+source_count: 1
 stocks: [META]
 permalink: /tech/consumer-vr-headset-6dof-standalone/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/consumer-vr-headset-6dof-standalone/
 
 6DOF standalone VR headsets — Meta Quest 3, PlayStation VR2, ByteDance Pico. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **0 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+
+> Meta Quest 3S launched October 2024 at $299 with pancake lenses and Snapdragon XR2 Gen 2; Apple Vision Pro shipped ~500K units at $3,499 (2024). Meta sold 20M+ cumulative Quest headsets by 2025. Standalone 6DOF VR is a mature consumer product category with inside-out tracking now standard.
 
 ## Status
 
@@ -25,22 +27,23 @@ Deployed at commercial scale. Revenue-generating across the industry. Our resear
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.91** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 0 |
+| Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-smart-glasses-consumer-daily/)
+- [Eye Tracking in Headset](/future/tech/eye-tracking-headset/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Eye Tracking in Headset](/future/tech/eye-tracking-in-headset/)
-- [OLED Display Panel](/future/tech/oled-display-panel/)
+- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-glasses-consumer/)
+- [OLED Display Panel](/future/tech/oled-display/)
 
 ## Investment Exposure
 

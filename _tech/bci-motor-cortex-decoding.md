@@ -4,11 +4,11 @@ title: "BCI Motor Cortex Decoding"
 subtitle: "Decoding intended movement from neural signals to control prosthetics/cursors"
 category: BCI
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 7
+horizon: "Deployed"
+source_count: 3
 stocks: []
 permalink: /tech/bci-motor-cortex-decoding/
 ---
@@ -17,29 +17,27 @@ permalink: /tech/bci-motor-cortex-decoding/
 
 Decoding intended movement from neural signals to control prosthetics/cursors. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **7 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **3 independent sources** on this technology.
+
+> RSS:Active Defense Against False Data Injection Attacks in Robotic Manipul | rel=0.44 | uid:ef2c36fe7e0dcb49
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.10** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 7 |
-
-## Prerequisites
-
-This technology depends on or is closely linked to:
-
-- [High-Bandwidth Wireless BCI (1024ch)](/future/tech/high-bandwidth-wireless-bci-1024ch/)
+| Horizon | Deployed |
+| Independent Sources Tracked | 3 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Utah Array Invasive BCI](/future/tech/utah-array-invasive-bci/)
+- [High-Bandwidth Wireless BCI (1024ch)](/future/tech/high-bandwidth-wireless-bci/)
+- [Utah Array Invasive BCI](/future/tech/utah-array-bci/)
 
 ## Investment Exposure
 

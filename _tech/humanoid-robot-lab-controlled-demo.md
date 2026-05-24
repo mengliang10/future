@@ -4,11 +4,11 @@ title: "Humanoid Robot (Lab / Controlled Demo)"
 subtitle: "Bipedal humanoids in controlled settings — Tesla Optimus Gen2, Figure 02, 1X NEO"
 category: Robotics
 stage: pilot
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 9
+horizon: "Deployed"
+source_count: 1
 stocks: []
 permalink: /tech/humanoid-robot-lab-controlled-demo/
 ---
@@ -17,29 +17,32 @@ permalink: /tech/humanoid-robot-lab-controlled-demo/
 
 Bipedal humanoids in controlled settings — Tesla Optimus Gen2, Figure 02, 1X NEO. **Achieved.**
 
-Real-world pilot deployments with commercial customers. Pre-mass production. Our research database tracks **9 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
+
+> RSS:Propagating Unsafe Actions in LLM Controlled Multi-Robot Collaboration | rel=0.72 | uid:a49334879a976fc4
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Pilot** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Development Stage | **Pilot / Limited Deployment** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.11** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 9 |
+| Horizon | Deployed |
+| Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory-deployment/)
+- [Quadruped Robot Locomotion](/future/tech/quadruped-robot-locomotion/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Quadruped Robot Locomotion](/future/tech/quadruped-robot-locomotion/)
+- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory/)
 - [Sim-to-Real Transfer](/future/tech/sim-to-real-transfer/)
 
 ## Investment Exposure

@@ -7,8 +7,8 @@ stage: basic_research
 confidence_label: Speculative
 est_year: 2044
 est_year_range: "2035–2065"
-horizon: "Far Future (2040+)"
-source_count: 25
+horizon: "Long-Term (2044)"
+source_count: 1
 stocks: []
 permalink: /tech/commercial-fusion-power-plant/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/commercial-fusion-power-plant/
 
 Sustained net electricity from fusion at utility scale — Commonwealth, TAE.
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **25 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
+
+> NIF achieved scientific breakeven (more energy out than laser input) December 2022; repeated 4 times through 2024. ITER first plasma delayed to 2034. Commonwealth Fusion Systems, Helion, and TAE Technologies targeting 2030s for net-energy demonstration. No commercial plant exists; engineering breakeven (Q_eng >5) not yet demonstrated.
 
 ## Status
 
@@ -25,16 +27,17 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.14** |
 | Estimated Deployment | **2035–2065** |
-| Horizon | Far Future (2040+) |
-| Independent Sources Tracked | 25 |
+| Horizon | Long-Term (2044) |
+| Independent Sources Tracked | 1 |
 
-## What This Enables
+## Prerequisites
 
-Advancement here directly benefits or unblocks:
+This technology depends on or is closely linked to:
 
-- [Advanced Nuclear Gen IV (MSR/SFR)](/future/tech/advanced-nuclear-gen-iv-msrsfr/)
-- [Nuclear Fusion Net Energy Gain](/future/tech/nuclear-fusion-net-energy-gain/)
+- [Advanced Nuclear Gen IV (MSR/SFR)](/future/tech/advanced-nuclear-gen4/)
+- [Nuclear Fusion Net Energy Gain](/future/tech/fusion-net-energy-gain/)
 
 ## Investment Exposure
 

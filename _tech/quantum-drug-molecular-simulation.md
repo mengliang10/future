@@ -7,8 +7,8 @@ stage: basic_research
 confidence_label: Speculative
 est_year: 2037
 est_year_range: "2032–2045"
-horizon: "Long-Term (2033–2040)"
-source_count: 31
+horizon: "Long-Term (2037)"
+source_count: 20
 stocks: []
 permalink: /tech/quantum-drug-molecular-simulation/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/quantum-drug-molecular-simulation/
 
 Quantum simulation of protein folding and binding beyond AlphaFold scope.
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **31 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **20 independent sources** on this technology.
+
+> RSS:Beyond Unitary Quantum Simulation: Open-System Approaches to Quantum C | rel=0.72 | uid:50b9642f17be1d83
 
 ## Status
 
@@ -25,21 +27,22 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2032–2045** |
-| Horizon | Long-Term (2033–2040) |
-| Independent Sources Tracked | 31 |
+| Horizon | Long-Term (2037) |
+| Independent Sources Tracked | 20 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/)
+- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-quantum-1000q/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-qc-1000-logical-qubits/)
+- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/)
 
 ## Investment Exposure
 

@@ -4,6 +4,9 @@ name: Illumina Inc.
 symbol: ILMN
 exchange: NASDAQ
 categories: [Biotech, Genomics]
+node_count: 2
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

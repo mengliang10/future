@@ -4,11 +4,11 @@ title: "CV via Deep Learning (YOLO/ViT)"
 subtitle: "Real-time object detection and segmentation via neural networks"
 category: Robotics
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 14
+source_count: 10
 stocks: []
 permalink: /tech/cv-via-deep-learning-yolovit/
 ---
@@ -17,24 +17,27 @@ permalink: /tech/cv-via-deep-learning-yolovit/
 
 Real-time object detection and segmentation via neural networks. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **14 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **10 independent sources** on this technology.
+
+> RSS:Towards Trustworthy and Explainable AI for Perception Models: From Con | rel=0.56 | uid:e146bce39c9fd0f2
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 14 |
+| Independent Sources Tracked | 10 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [3D Machine Vision / Point Cloud](/future/tech/3d-machine-vision-point-cloud/)
-- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/)
+- [3D Machine Vision / Point Cloud](/future/tech/machine-vision-3d/)
+- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/sensor-fusion-av/)
 
 ## Investment Exposure
 

@@ -8,7 +8,7 @@ confidence_label: Confirmed
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 1
 stocks: []
 permalink: /tech/liquid-rocket-propulsion-rp-1lox/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/liquid-rocket-propulsion-rp-1lox/
 
 RP-1/LOX and LH2/LOX engines powering orbital launch vehicles. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+
+> RP-1/LOX rocket engines (Merlin 1D, RD-180, F-1) are the most flown liquid propulsion system in history; 3,000+ Merlin engines flown with 99.9%+ reliability on Falcon 9. Technology dates to 1950s Atlas and Titan programs — fully mature with deep operational heritage.
 
 ## Status
 
@@ -25,15 +27,16 @@ Deployed at commercial scale. Revenue-generating across the industry. Our resear
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.98** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Rocket First-Stage Reusability](/future/tech/rocket-first-stage-reusability/)
+- [Rocket First-Stage Reusability](/future/tech/rocket-first-stage-reuse/)
 
 ## Investment Exposure
 

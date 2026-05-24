@@ -4,12 +4,12 @@ title: "AI Software Engineering Agent"
 subtitle: "AI that autonomously writes, tests, and deploys production software"
 category: AI & Cloud
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Confirmed
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 9
-stocks: [MSFT, PLTR, AMZN]
+horizon: "Deployed"
+source_count: 3
+stocks: [MSFT]
 permalink: /tech/ai-software-engineering-agent/
 ---
 
@@ -17,36 +17,38 @@ permalink: /tech/ai-software-engineering-agent/
 
 AI that autonomously writes, tests, and deploys production software. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **9 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **3 independent sources** on this technology.
+
+> Code I/O prediction as universal reasoning training signal. Converts diverse reasoning tasks into code prediction. +10% on diverse reasoning benchmarks. Distills reasoning patterns from program execution into LLMs.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.85** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 9 |
+| Horizon | Deployed |
+| Independent Sources Tracked | 3 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/)
-- [AI-Assisted Chip Design (EDA AI)](/future/tech/ai-assisted-chip-design-eda-ai/)
+- [Long Context Window (1M+ tokens)](/future/tech/long-context-window/)
+- [Open-Source Frontier LLM (GPT-4/o1 Class)](/future/tech/open-source-frontier-llm/)
+- [Retrieval-Augmented Generation (RAG)](/future/tech/retrieval-augmented-generation/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt-4-class-1t-params/)
-- [Long Context Window (1M+ tokens)](/future/tech/long-context-window-1m-tokens/)
-- [Open-Source Frontier LLM (GPT-4/o1 Class)](/future/tech/open-source-frontier-llm-gpt-4o1-class/)
-- [Retrieval-Augmented Generation (RAG)](/future/tech/retrieval-augmented-generation-rag/)
+- [Autonomous AI Agent](/future/tech/ai-agent-autonomous/)
+- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt4-class/)
 
 ## Investment Exposure
 
-[MSFT](/future/stocks/msft/) [PLTR](/future/stocks/pltr/) [AMZN](/future/stocks/amzn/)
+[MSFT](/future/stocks/msft/)
 
 See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

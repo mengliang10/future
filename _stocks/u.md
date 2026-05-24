@@ -4,6 +4,9 @@ name: Unity Software Inc.
 symbol: U
 exchange: NYSE
 categories: [XR, Gaming, 3D]
+node_count: 1
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

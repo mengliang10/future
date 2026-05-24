@@ -4,11 +4,11 @@ title: "Onshore Wind Turbine"
 subtitle: "Modern 5-6MW onshore turbines; lowest LCOE energy source in many markets"
 category: Energy Tech
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 15
+source_count: 2
 stocks: []
 permalink: /tech/onshore-wind-turbine/
 ---
@@ -17,29 +17,27 @@ permalink: /tech/onshore-wind-turbine/
 
 Modern 5-6MW onshore turbines; lowest LCOE energy source in many markets. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **15 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+
+> RSS:Near-Field Vibrational Energy Transfer for Mid-Infrared Upconversion i | rel=0.38 | uid:dd89ae72a1a006bb
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.09** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 15 |
+| Independent Sources Tracked | 2 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Grid-Scale Battery Storage (GWh)](/future/tech/grid-scale-battery-storage-gwh/)
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [Floating Offshore Wind](/future/tech/floating-offshore-wind/)
+- [Grid-Scale Battery Storage (GWh)](/future/tech/grid-scale-storage-gwh/)
+- [Floating Offshore Wind](/future/tech/wind-offshore-floating/)
 
 ## Investment Exposure
 

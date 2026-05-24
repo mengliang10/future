@@ -4,11 +4,11 @@ title: "Homomorphic Encryption (Practical)"
 subtitle: "Computing on encrypted data without decryption — FHE reaching usable speeds"
 category: Cybersecurity
 stage: prototype
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2030
 est_year_range: "2027–2036"
-horizon: "Medium-Term (2029–2032)"
-source_count: 5
+horizon: "Medium-Term (2029–2030)"
+source_count: 3
 stocks: []
 permalink: /tech/homomorphic-encryption-practical/
 ---
@@ -17,23 +17,20 @@ permalink: /tech/homomorphic-encryption-practical/
 
 Computing on encrypted data without decryption — FHE reaching usable speeds.
 
-Functional prototypes demonstrated in controlled environments. Our research database tracks **5 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **3 independent sources** on this technology.
+
+> RSS:Optimal Knock-Pick Planning for Tightly Packed Tabletop Blocks With Pa | rel=0.50 | uid:7d483b13de5b9813
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Prototype** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.09** |
 | Estimated Deployment | **2027–2036** |
-| Horizon | Medium-Term (2029–2032) |
-| Independent Sources Tracked | 5 |
-
-## Prerequisites
-
-This technology depends on or is closely linked to:
-
-- [Secure Multi-Party Computation](/future/tech/secure-multi-party-computation/)
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 3 |
 
 ## Investment Exposure
 

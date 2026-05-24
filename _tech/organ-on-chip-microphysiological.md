@@ -4,11 +4,11 @@ title: "Organ-on-Chip (Microphysiological)"
 subtitle: "Microfluidic devices mimicking organ function for drug testing without animals"
 category: Biotech
 stage: pilot
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2027
 est_year_range: "2025–2031"
-horizon: "Short-Term (2027–2028)"
-source_count: 12
+horizon: "Near-Term (2027–2028)"
+source_count: 4
 stocks: []
 permalink: /tech/organ-on-chip-microphysiological/
 ---
@@ -17,24 +17,27 @@ permalink: /tech/organ-on-chip-microphysiological/
 
 Microfluidic devices mimicking organ function for drug testing without animals.
 
-Real-world pilot deployments with commercial customers. Pre-mass production. Our research database tracks **12 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **4 independent sources** on this technology.
+
+> RSS:Scenario Generation in Roundabouts with Adjustable Interaction Intensi | rel=0.47 | uid:ccd5ca7b29f472c6
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Pilot** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Development Stage | **Pilot / Limited Deployment** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.12** |
 | Estimated Deployment | **2025–2031** |
-| Horizon | Short-Term (2027–2028) |
-| Independent Sources Tracked | 12 |
+| Horizon | Near-Term (2027–2028) |
+| Independent Sources Tracked | 4 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
 - [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/)
-- [Cultivated Meat at Scale](/future/tech/cultivated-meat-at-scale/)
+- [Cultivated Meat at Scale](/future/tech/lab-grown-meat/)
 
 ## Investment Exposure
 

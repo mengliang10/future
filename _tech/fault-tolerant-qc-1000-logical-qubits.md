@@ -4,11 +4,11 @@ title: "Fault-Tolerant QC (1000 Logical Qubits)"
 subtitle: "Threshold for running Shor's algorithm and drug simulation at useful scale"
 category: Quantum
 stage: proof_of_concept
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2030
 est_year_range: "2030–2040"
-horizon: "Medium-Term (2029–2032)"
-source_count: 29
+horizon: "Medium-Term (2029–2030)"
+source_count: 13
 stocks: []
 permalink: /tech/fault-tolerant-qc-1000-logical-qubits/
 ---
@@ -17,31 +17,34 @@ permalink: /tech/fault-tolerant-qc-1000-logical-qubits/
 
 Threshold for running Shor's algorithm and drug simulation at useful scale.
 
-Core concept proven in laboratory conditions. Our research database tracks **29 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **13 independent sources** on this technology.
+
+> RSS:Synthesis and Optimization of Encoding Circuits for Fault-Tolerant Qua | rel=0.62 | uid:d19725afe11a70b2
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Proof Of Concept** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Development Stage | **Proof of Concept** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.16** |
 | Estimated Deployment | **2030–2040** |
-| Horizon | Medium-Term (2029–2032) |
-| Independent Sources Tracked | 29 |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 13 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Quantum Computer: 1M Logical Qubits](/future/tech/quantum-computer-1m-logical-qubits/)
-- [Quantum Drug Molecular Simulation](/future/tech/quantum-drug-molecular-simulation/)
+- [Quantum Supremacy (Narrow Task)](/future/tech/quantum-supremacy-narrow/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/)
-- [Quantum Supremacy (Narrow Task)](/future/tech/quantum-supremacy-narrow-task/)
+- [Quantum Computer: 1M Logical Qubits](/future/tech/quantum-1m-logical-qubits/)
+- [Quantum Drug Molecular Simulation](/future/tech/quantum-computing-drug-sim/)
+- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction/)
 
 ## Investment Exposure
 

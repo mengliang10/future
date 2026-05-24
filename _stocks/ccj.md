@@ -4,6 +4,9 @@ name: Cameco Corporation
 symbol: CCJ
 exchange: NYSE
 categories: [Nuclear Energy, Uranium]
+node_count: 2
+timing_action: "HALF"
+regime: "RANGE_BOUND"
 ---
 
 ## Investment Thesis

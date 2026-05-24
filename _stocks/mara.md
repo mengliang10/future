@@ -4,6 +4,9 @@ name: MARA Holdings Inc.
 symbol: MARA
 exchange: NASDAQ
 categories: [Blockchain, Mining]
+node_count: 1
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

@@ -4,6 +4,8 @@ name: CyberArk Software Ltd.
 symbol: CYBR
 exchange: NASDAQ
 categories: [Cybersecurity, Identity]
+timing_action: "N/A"
+regime: "N/A"
 ---
 
 ## Investment Thesis

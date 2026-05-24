@@ -4,11 +4,11 @@ title: "Solid-State LiDAR"
 subtitle: "Compact, low-cost LiDAR without spinning parts — Luminar Iris, Innoviz One"
 category: Autonomous
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2025
-est_year_range: "2025"
-horizon: "Near-Term (Now–2026)"
-source_count: 8
+est_year_range: ""
+horizon: "Deployed"
+source_count: 5
 stocks: [LAZR]
 permalink: /tech/solid-state-lidar/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/solid-state-lidar/
 
 Compact, low-cost LiDAR without spinning parts — Luminar Iris, Innoviz One. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **8 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **5 independent sources** on this technology.
+
+> RSS:LAPS: Improving Incremental LiDAR Mapping using Active Pooling and Sam | rel=0.38 | uid:3fecbdcecd3a4d03
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Estimated Deployment | **2025** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 8 |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.11** |
+| Estimated Deployment | **Ongoing / Deployed** |
+| Horizon | Deployed |
+| Independent Sources Tracked | 5 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/)
+- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/sensor-fusion-av/)
 
 ## Investment Exposure
 

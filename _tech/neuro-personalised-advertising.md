@@ -7,8 +7,8 @@ stage: basic_research
 confidence_label: Speculative
 est_year: 2045
 est_year_range: "2038–2065"
-horizon: "Far Future (2040+)"
-source_count: 4
+horizon: "Long-Term (2045)"
+source_count: 2
 stocks: []
 permalink: /tech/neuro-personalised-advertising/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/neuro-personalised-advertising/
 
 Ads optimized for individual neural response patterns via BCI biofeedback.
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **4 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **2 independent sources** on this technology.
+
+> RSS:Topology-Optimized Pneumatic Soft Actuator: Design and Experimental Va | rel=0.53 | uid:c584e2fdabb7effe
 
 ## Status
 
@@ -25,16 +27,17 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2038–2065** |
-| Horizon | Far Future (2040+) |
-| Independent Sources Tracked | 4 |
+| Horizon | Long-Term (2045) |
+| Independent Sources Tracked | 2 |
 
-## What This Enables
+## Prerequisites
 
-Advancement here directly benefits or unblocks:
+This technology depends on or is closely linked to:
 
 - [AI Personalization Engine](/future/tech/ai-personalization-engine/)
-- [Consumer Non-Invasive BCI Headset](/future/tech/consumer-non-invasive-bci-headset/)
+- [Consumer Non-Invasive BCI Headset](/future/tech/bci-consumer-non-invasive/)
 
 ## Investment Exposure
 

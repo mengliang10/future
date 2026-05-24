@@ -4,11 +4,11 @@ title: "Retail CBDC (Central Bank Digital)"
 subtitle: "Government-issued digital currency on DLT — China e-CNY, ECB digital euro"
 category: Blockchain
 stage: pilot
-confidence_label: Confident
+confidence_label: Researching
 est_year: 2028
 est_year_range: "2026–2033"
-horizon: "Short-Term (2027–2028)"
-source_count: 2
+horizon: "Near-Term (2027–2028)"
+source_count: 1
 stocks: []
 permalink: /tech/retail-cbdc-central-bank-digital/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/retail-cbdc-central-bank-digital/
 
 Government-issued digital currency on DLT — China e-CNY, ECB digital euro.
 
-Real-world pilot deployments with commercial customers. Pre-mass production. Our research database tracks **2 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
+
+> China e-CNY pilot in 26 cities with 260M+ wallets and $250B cumulative transaction volume by late 2025; Nigeria eNaira, Bahamas Sand Dollar operational but low adoption (<1% of M0). ECB digital euro preparation phase, Fed still in research. No major G7 economy has launched.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Pilot** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Development Stage | **Pilot / Limited Deployment** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.63** |
 | Estimated Deployment | **2026–2033** |
-| Horizon | Short-Term (2027–2028) |
-| Independent Sources Tracked | 2 |
+| Horizon | Near-Term (2027–2028) |
+| Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Web3 Mass Consumer Adoption](/future/tech/web3-mass-consumer-adoption/)
+- [Web3 Mass Consumer Adoption](/future/tech/web3-mass-adoption/)
 
 ## Investment Exposure
 

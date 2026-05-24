@@ -1,10 +1,10 @@
 ---
 layout: tech_node
 title: "AI Agent Persistent Memory"
-subtitle: ""
+subtitle: "AI Agent Persistent Memory"
 category: AI & Cloud
 stage: basic_research
-confidence_label: Speculative
+confidence_label: Confident
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
@@ -17,15 +17,18 @@ permalink: /tech/ai-agent-persistent-memory/
 
 AI Agent Persistent Memory.
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **1 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
+
+> Anthropic Claude computer-use agent and OpenAI Operator both demonstrated persistent context across sessions in production; LangChain and MemGPT frameworks ship long-term memory backends to thousands of developers. Still maturing in reliability — hallucinations in retrieved memory reduce enterprise trust.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Basic Research** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Score | **+0.75** |
+| Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
 | Independent Sources Tracked | 1 |
 
@@ -33,14 +36,14 @@ Fundamental research phase — concept established, practical implementation uns
 
 This technology depends on or is closely linked to:
 
-- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/)
-- [AI Agent Swarms](/future/tech/ai-agent-swarms/)
+- [Long Context Window (1M+ tokens)](/future/tech/long-context-window/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Long Context Window (1M+ tokens)](/future/tech/long-context-window-1m-tokens/)
+- [Autonomous AI Agent](/future/tech/ai-agent-autonomous/)
+- [AI Agent Swarms](/future/tech/ai-agent-swarms/)
 
 ## Investment Exposure
 

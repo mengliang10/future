@@ -4,6 +4,9 @@ name: "First Solar Inc."
 symbol: FSLR
 exchange: NASDAQ
 categories: [Energy Tech]
+node_count: 1
+timing_action: "WAIT"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

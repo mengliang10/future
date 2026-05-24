@@ -4,11 +4,11 @@ title: "Crewed Mars Mission"
 subtitle: "Human landing on Mars surface — SpaceX Starship Mars program target 2029-2031"
 category: Space Tech
 stage: proof_of_concept
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2030
 est_year_range: "2030–2042"
-horizon: "Medium-Term (2029–2032)"
-source_count: 15
+horizon: "Medium-Term (2029–2030)"
+source_count: 4
 stocks: []
 permalink: /tech/crewed-mars-mission/
 ---
@@ -17,24 +17,27 @@ permalink: /tech/crewed-mars-mission/
 
 Human landing on Mars surface — SpaceX Starship Mars program target 2029-2031.
 
-Core concept proven in laboratory conditions. Our research database tracks **15 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **4 independent sources** on this technology.
+
+> RSS:SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo  | rel=0.41 | uid:bba9eeccf7651469
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Proof Of Concept** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Development Stage | **Proof of Concept** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.17** |
 | Estimated Deployment | **2030–2042** |
-| Horizon | Medium-Term (2029–2032) |
-| Independent Sources Tracked | 15 |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 4 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/)
-- [Full Rocket Reusability (Starship)](/future/tech/full-rocket-reusability-starship/)
+- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-100t-leo/)
+- [Full Rocket Reusability (Starship)](/future/tech/rocket-full-reusability/)
 
 ## Investment Exposure
 

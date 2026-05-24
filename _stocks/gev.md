@@ -4,6 +4,9 @@ name: "GE Vernova Inc."
 symbol: GEV
 exchange: NYSE
 categories: [Energy Tech]
+node_count: 2
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

@@ -4,6 +4,8 @@ name: Vistra Corp
 symbol: VST
 exchange: NYSE
 categories: [Nuclear Energy, Power Generation]
+timing_action: "FULL"
+regime: "TRENDING_DOWN"
 ---
 
 ## Investment Thesis

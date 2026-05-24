@@ -4,6 +4,8 @@ name: ZoomInfo Technologies Inc.
 symbol: ZI
 exchange: NASDAQ
 categories: [Marketing Tech, Data Intelligence]
+timing_action: "N/A"
+regime: "N/A"
 ---
 
 ## Investment Thesis

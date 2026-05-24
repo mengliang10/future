@@ -4,11 +4,11 @@ title: "Solid-State Battery"
 subtitle: "Solid electrolyte replacing liquid; higher density, safer — Toyota, QuantumScape"
 category: Energy Tech
 stage: pilot
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2029
 est_year_range: "2027–2034"
-horizon: "Medium-Term (2029–2032)"
-source_count: 7
+horizon: "Medium-Term (2029–2030)"
+source_count: 3
 stocks: []
 permalink: /tech/solid-state-battery/
 ---
@@ -17,32 +17,33 @@ permalink: /tech/solid-state-battery/
 
 Solid electrolyte replacing liquid; higher density, safer — Toyota, QuantumScape.
 
-Real-world pilot deployments with commercial customers. Pre-mass production. Our research database tracks **7 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **3 independent sources** on this technology.
+
+> RSS:Quantum Expectation Identities for the Three-State Model of a Molecula | rel=0.38 | uid:0bafd6fb1797e508
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Pilot** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Development Stage | **Pilot / Limited Deployment** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.09** |
 | Estimated Deployment | **2027–2034** |
-| Horizon | Medium-Term (2029–2032) |
-| Independent Sources Tracked | 7 |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 3 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [eVTOL Air Taxi](/future/tech/evtol-air-taxi/)
-- [Grid-Scale Battery Storage (GWh)](/future/tech/grid-scale-battery-storage-gwh/)
+- [AI Materials Discovery](/future/tech/ai-materials-discovery/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Materials Discovery](/future/tech/ai-materials-discovery/)
-- [GaN Power Semiconductors](/future/tech/gan-power-semiconductors/)
-- [SiC Power Semiconductors](/future/tech/sic-power-semiconductors/)
+- [eVTOL Air Taxi](/future/tech/evtol-air-taxi/)
+- [Grid-Scale Battery Storage (GWh)](/future/tech/grid-scale-storage-gwh/)
 
 ## Investment Exposure
 

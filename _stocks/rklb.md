@@ -4,6 +4,9 @@ name: "Rocket Lab USA Inc."
 symbol: RKLB
 exchange: NASDAQ
 categories: [Space Tech]
+node_count: 2
+timing_action: "WAIT"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

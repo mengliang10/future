@@ -8,7 +8,7 @@ confidence_label: Confirmed
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 5
+source_count: 1
 stocks: [TSM]
 permalink: /tech/cowos-advanced-packaging/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/cowos-advanced-packaging/
 
 Chip-on-Wafer-on-Substrate integrating GPU+HBM on interposer; TSMC monopoly for AI. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **5 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+
+> TSMC CoWoS capacity expanded to 40K+ wafers/month (2025) with new AP7 fab; packaging NVIDIA H100/H200/B200, AMD MI300X, Intel Gaudi 3, and Google TPU v5. CoWoS-L and CoWoS-R variants in production for reticle-size interposers. Critical bottleneck for AI chip supply — TSMC investing $9B in advanced packaging expansion.
 
 ## Status
 
@@ -25,9 +27,10 @@ Deployed at commercial scale. Revenue-generating across the industry. Our resear
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.93** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 5 |
+| Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
@@ -39,8 +42,7 @@ This technology depends on or is closely linked to:
 
 Advancement here directly benefits or unblocks:
 
-- [Wafer-on-Wafer 3D Integration](/future/tech/wafer-on-wafer-3d-integration/)
-- [Chiplet / Disaggregated Architecture](/future/tech/chiplet-disaggregated-architecture/)
+- [Chiplet / Disaggregated Architecture](/future/tech/chiplet-architecture/)
 
 ## Investment Exposure
 

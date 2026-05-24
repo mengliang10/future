@@ -4,6 +4,9 @@ name: Constellation Energy Corporation
 symbol: CEG
 exchange: NASDAQ
 categories: [Nuclear Energy, Clean Energy]
+node_count: 1
+timing_action: "FULL"
+regime: "LOW_VOL"
 ---
 
 ## Investment Thesis

@@ -4,11 +4,11 @@ title: "AR Smart Glasses (Industrial)"
 subtitle: "Industrial AR for maintenance, warehouse — Microsoft HoloLens, Google Glass EE"
 category: XR
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 6
+horizon: "Deployed"
+source_count: 2
 stocks: []
 permalink: /tech/ar-smart-glasses-industrial/
 ---
@@ -17,29 +17,27 @@ permalink: /tech/ar-smart-glasses-industrial/
 
 Industrial AR for maintenance, warehouse — Microsoft HoloLens, Google Glass EE. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **6 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
+
+> RSS:The Download: Musk v. Altman, smart glasses for warfare, and Google I/ | rel=0.72 | uid:17cca9af0713795e
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.16** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 6 |
-
-## Prerequisites
-
-This technology depends on or is closely linked to:
-
-- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-smart-glasses-consumer-daily/)
+| Horizon | Deployed |
+| Independent Sources Tracked | 2 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [XR Enterprise Workflow Tools](/future/tech/xr-enterprise-workflow-tools/)
+- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-glasses-consumer/)
+- [XR Enterprise Workflow Tools](/future/tech/xr-enterprise-workflow/)
 
 ## Investment Exposure
 

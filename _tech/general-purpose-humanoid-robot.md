@@ -4,11 +4,11 @@ title: "General-Purpose Humanoid Robot"
 subtitle: "Humanoid operating across diverse real-world environments without reprogramming"
 category: Robotics
 stage: proof_of_concept
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2035
 est_year_range: "2030–2042"
-horizon: "Long-Term (2033–2040)"
-source_count: 62
+horizon: "Medium-Term (2031–2035)"
+source_count: 40
 stocks: []
 permalink: /tech/general-purpose-humanoid-robot/
 ---
@@ -17,30 +17,33 @@ permalink: /tech/general-purpose-humanoid-robot/
 
 Humanoid operating across diverse real-world environments without reprogramming.
 
-Core concept proven in laboratory conditions. Our research database tracks **62 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **40 independent sources** on this technology.
+
+> RSS:Deterministic Event-Graph Substrates as World Models for Counterfactua | rel=0.56 | uid:02c930b024a68a23
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Proof Of Concept** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Development Stage | **Proof of Concept** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.16** |
 | Estimated Deployment | **2030–2042** |
-| Horizon | Long-Term (2033–2040) |
-| Independent Sources Tracked | 62 |
+| Horizon | Medium-Term (2031–2035) |
+| Independent Sources Tracked | 40 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Post-Scarcity Robotic Manufacturing](/future/tech/post-scarcity-robotic-manufacturing/)
+- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory/)
+- [Robotics Foundation Model](/future/tech/robotics-foundation-model/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory-deployment/)
-- [Robotics Foundation Model](/future/tech/robotics-foundation-model/)
+- [Post-Scarcity Robotic Manufacturing](/future/tech/robot-post-scarcity/)
 
 ## Investment Exposure
 

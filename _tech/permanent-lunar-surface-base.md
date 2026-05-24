@@ -4,11 +4,11 @@ title: "Permanent Lunar Surface Base"
 subtitle: "Sustained human presence on Moon with ISRU — NASA Artemis, Gateway station"
 category: Space Tech
 stage: proof_of_concept
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2030
 est_year_range: "2030–2042"
-horizon: "Medium-Term (2029–2032)"
-source_count: 5
+horizon: "Medium-Term (2029–2030)"
+source_count: 1
 stocks: []
 permalink: /tech/permanent-lunar-surface-base/
 ---
@@ -17,32 +17,35 @@ permalink: /tech/permanent-lunar-surface-base/
 
 Sustained human presence on Moon with ISRU — NASA Artemis, Gateway station.
 
-Core concept proven in laboratory conditions. Our research database tracks **5 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **1 independent source** on this technology.
+
+> RSS:Current switching behavior mediated via hinge modes in higher-order to | rel=0.47 | uid:04a56f6897ebf5c7
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Proof Of Concept** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Development Stage | **Proof of Concept** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.25** |
 | Estimated Deployment | **2030–2042** |
-| Horizon | Medium-Term (2029–2032) |
-| Independent Sources Tracked | 5 |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [In-Space Manufacturing](/future/tech/in-space-manufacturing/)
+- [Autonomous Lunar/Mars Rover Fleet](/future/tech/autonomous-lunarmars-rover-fleet/)
+- [Commercial Lunar Lander](/future/tech/lunar-lander-commercial/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Autonomous Lunar/Mars Rover Fleet](/future/tech/autonomous-lunarmars-rover-fleet/)
-- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/)
-- [Commercial Lunar Lander](/future/tech/commercial-lunar-lander/)
-- [Full Rocket Reusability (Starship)](/future/tech/full-rocket-reusability-starship/)
+- [In-Space Manufacturing](/future/tech/in-space-manufacturing/)
+- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-100t-leo/)
+- [Full Rocket Reusability (Starship)](/future/tech/rocket-full-reusability/)
 
 ## Investment Exposure
 

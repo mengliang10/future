@@ -4,11 +4,11 @@ title: "Quantum Network (Entanglement Dist.)"
 subtitle: "Distributed entangled qubits over fiber/satellite for QKD and compute networks"
 category: Quantum
 stage: proof_of_concept
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2030
 est_year_range: "2027–2037"
-horizon: "Medium-Term (2029–2032)"
-source_count: 98
+horizon: "Medium-Term (2029–2030)"
+source_count: 64
 stocks: []
 permalink: /tech/quantum-network-entanglement-dist/
 ---
@@ -17,17 +17,20 @@ permalink: /tech/quantum-network-entanglement-dist/
 
 Distributed entangled qubits over fiber/satellite for QKD and compute networks.
 
-Core concept proven in laboratory conditions. Our research database tracks **98 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **64 independent sources** on this technology.
+
+> RSS:Fault tolerance estimation in digital circuits with visualised generat | rel=0.47 | uid:4d847b3e60b9218d
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Proof Of Concept** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Development Stage | **Proof of Concept** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **2027–2037** |
-| Horizon | Medium-Term (2029–2032) |
-| Independent Sources Tracked | 98 |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 64 |
 
 ## Prerequisites
 

@@ -4,6 +4,9 @@ name: "Intuitive Machines Inc."
 symbol: LUNR
 exchange: NASDAQ
 categories: [Space Tech]
+node_count: 1
+timing_action: "WAIT"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

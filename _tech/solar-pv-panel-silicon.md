@@ -8,7 +8,7 @@ confidence_label: Confirmed
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 5
+source_count: 1
 stocks: [FSLR]
 permalink: /tech/solar-pv-panel-silicon/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/solar-pv-panel-silicon/
 
 Photovoltaic conversion of sunlight; ~25% commercial efficiency, <$0.20/W. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **5 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+
+> Global installed solar capacity surpassed 2 TW (2025); annual installations 500+ GW/year led by China. Monocrystalline PERC and TOPCon panels at 22-25% module efficiency manufactured at $0.10-0.15/W in China. Fully mature technology deployed in 190+ countries.
 
 ## Status
 
@@ -25,16 +27,17 @@ Deployed at commercial scale. Revenue-generating across the industry. Our resear
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.98** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 5 |
+| Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Direct Air Carbon Capture (DAC)](/future/tech/direct-air-carbon-capture-dac/)
-- [Solar <$0.01/kWh LCOE](/future/tech/solar-001kwh-lcoe/)
+- [Direct Air Carbon Capture (DAC)](/future/tech/direct-air-capture/)
+- [Solar <$0.01/kWh LCOE](/future/tech/solar-below-1cent-kwh/)
 
 ## Investment Exposure
 

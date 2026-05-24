@@ -4,11 +4,11 @@ title: "Topological Qubit (Majorana Fermion)"
 subtitle: "Error-protected qubit via non-abelian anyons; Microsoft primary approach"
 category: Quantum
 stage: proof_of_concept
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2030
 est_year_range: "2027–2037"
-horizon: "Medium-Term (2029–2032)"
-source_count: 5
+horizon: "Medium-Term (2029–2030)"
+source_count: 4
 stocks: []
 permalink: /tech/topological-qubit-majorana-fermion/
 ---
@@ -17,29 +17,26 @@ permalink: /tech/topological-qubit-majorana-fermion/
 
 Error-protected qubit via non-abelian anyons; Microsoft primary approach.
 
-Core concept proven in laboratory conditions. Our research database tracks **5 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **4 independent sources** on this technology.
+
+> RSS:Probing Tensor Singularities and Their Euler-Class Descendants via Non | rel=0.50 | uid:80d5dfe00438881d
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Proof Of Concept** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Development Stage | **Proof of Concept** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2027–2037** |
-| Horizon | Medium-Term (2029–2032) |
-| Independent Sources Tracked | 5 |
-
-## Prerequisites
-
-This technology depends on or is closely linked to:
-
-- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/)
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 4 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Trapped Ion Qubit](/future/tech/trapped-ion-qubit/)
+- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction/)
 
 ## Investment Exposure
 

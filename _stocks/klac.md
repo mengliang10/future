@@ -4,6 +4,9 @@ name: "KLA Corporation"
 symbol: KLAC
 exchange: NASDAQ
 categories: [Semiconductors]
+node_count: 2
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

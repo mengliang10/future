@@ -1,13 +1,13 @@
 ---
 layout: tech_node
 title: "Long Context Window (1M+ tokens)"
-subtitle: ""
+subtitle: "Long Context Window (1M+ tokens)"
 category: AI & Cloud
 stage: basic_research
 confidence_label: Speculative
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
+horizon: "Deployed"
 source_count: 2
 stocks: []
 permalink: /tech/long-context-window-1m-tokens/
@@ -15,9 +15,11 @@ permalink: /tech/long-context-window-1m-tokens/
 
 ## What This Is
 
-Long Context Window (1M+ tokens). **Achieved 2024-09-01.**
+Long Context Window (1M+ tokens). **Achieved.**
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **2 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **2 independent sources** on this technology.
+
+> RSS:MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimizatio | rel=0.41 | uid:e894067728384f26
 
 ## Status
 
@@ -25,23 +27,24 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.10** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
+| Horizon | Deployed |
 | Independent Sources Tracked | 2 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/)
-- [AI Agent Persistent Memory](/future/tech/ai-agent-persistent-memory/)
-- [AI Software Engineering Agent](/future/tech/ai-software-engineering-agent/)
+- [AI Hardware ASIC (TPU/NPU/Trainium)](/future/tech/ai-hardware-asic/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Hardware ASIC (TPU/NPU/Trainium)](/future/tech/ai-hardware-asic-tpunputrainium/)
+- [Autonomous AI Agent](/future/tech/ai-agent-autonomous/)
+- [AI Agent Persistent Memory](/future/tech/ai-agent-memory/)
+- [AI Software Engineering Agent](/future/tech/ai-coding-agent/)
 - [Transformer Architecture](/future/tech/transformer-architecture/)
 
 ## Investment Exposure

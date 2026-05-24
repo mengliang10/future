@@ -4,11 +4,11 @@ title: "Next-Generation Sequencing (NGS)"
 subtitle: "High-throughput parallel DNA sequencing — Illumina NovaSeq, PacBio, Nanopore"
 category: Biotech
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 7
+source_count: 4
 stocks: [ILMN]
 permalink: /tech/next-generation-sequencing-ngs/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/next-generation-sequencing-ngs/
 
 High-throughput parallel DNA sequencing — Illumina NovaSeq, PacBio, Nanopore. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **7 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
+
+> RSS:Quantum Meets Statistical-Physical Secrecy: A Novel Hybrid Key Distrib | rel=0.56 | uid:32671edd5e33f022
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 7 |
+| Independent Sources Tracked | 4 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Whole Genome Sequencing <$1000](/future/tech/whole-genome-sequencing-1000/)
+- [Whole Genome Sequencing <$1000](/future/tech/whole-genome-seq-1000/)
 
 ## Investment Exposure
 

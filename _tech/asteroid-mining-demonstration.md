@@ -7,8 +7,8 @@ stage: basic_research
 confidence_label: Speculative
 est_year: 2040
 est_year_range: "2032–2055"
-horizon: "Long-Term (2033–2040)"
-source_count: 20
+horizon: "Long-Term (2040)"
+source_count: 4
 stocks: []
 permalink: /tech/asteroid-mining-demonstration/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/asteroid-mining-demonstration/
 
 First retrieval of material from near-Earth asteroid for in-space use.
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **20 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **4 independent sources** on this technology.
+
+> RSS:FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Ma | rel=0.41 | uid:8fc147bc95731525
 
 ## Status
 
@@ -25,13 +27,14 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2032–2055** |
-| Horizon | Long-Term (2033–2040) |
-| Independent Sources Tracked | 20 |
+| Horizon | Long-Term (2040) |
+| Independent Sources Tracked | 4 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
 - [In-Space Manufacturing](/future/tech/in-space-manufacturing/)
 

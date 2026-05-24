@@ -4,11 +4,11 @@ title: "Adaptive Cruise Control (ACC)"
 subtitle: "Radar-based following distance control; standard on new vehicles globally"
 category: Autonomous
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 19
+source_count: 11
 stocks: []
 permalink: /tech/adaptive-cruise-control-acc/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/adaptive-cruise-control-acc/
 
 Radar-based following distance control; standard on new vehicles globally. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **19 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.
+
+> RSS:NIMO Controller: a self-driving laboratory orchestrator based on the M | rel=0.47 | uid:2818fcf482969eb3
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.09** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 19 |
+| Independent Sources Tracked | 11 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [ADAS Level 2 (Partial Automation)](/future/tech/adas-level-2-partial-automation/)
+- [ADAS Level 2 (Partial Automation)](/future/tech/adas-level-2/)
 
 ## Investment Exposure
 

@@ -4,11 +4,11 @@ title: "Web3 Mass Consumer Adoption"
 subtitle: ">1B monthly active users interacting with blockchain-based applications"
 category: Blockchain
 stage: proof_of_concept
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2028
 est_year_range: "2028–2042"
-horizon: "Short-Term (2027–2028)"
-source_count: 19
+horizon: "Near-Term (2027–2028)"
+source_count: 8
 stocks: []
 permalink: /tech/web3-mass-consumer-adoption/
 ---
@@ -17,25 +17,33 @@ permalink: /tech/web3-mass-consumer-adoption/
 
 >1B monthly active users interacting with blockchain-based applications.
 
-Core concept proven in laboratory conditions. Our research database tracks **19 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **8 independent sources** on this technology.
+
+> RSS:Quantum Futures Interactive: A Live Demonstration of Post-Quantum Bloc | rel=0.88 | uid:9b3775991004b1ee
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Proof Of Concept** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Development Stage | **Proof of Concept** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2028–2042** |
-| Horizon | Short-Term (2027–2028) |
-| Independent Sources Tracked | 19 |
+| Horizon | Near-Term (2027–2028) |
+| Independent Sources Tracked | 8 |
+
+## Prerequisites
+
+This technology depends on or is closely linked to:
+
+- [Retail CBDC (Central Bank Digital)](/future/tech/cbdc-retail/)
+- [Tokenized Real-World Assets (RWA)](/future/tech/tokenized-real-world-assets/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Retail CBDC (Central Bank Digital)](/future/tech/retail-cbdc-central-bank-digital/)
-- [Cross-Chain Interoperability Protocol](/future/tech/cross-chain-interoperability-protocol/)
-- [Tokenized Real-World Assets (RWA)](/future/tech/tokenized-real-world-assets-rwa/)
+- [Cross-Chain Interoperability Protocol](/future/tech/cross-chain-interoperability/)
 
 ## Investment Exposure
 

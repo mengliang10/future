@@ -4,11 +4,11 @@ title: "Nuclear Fusion Net Energy Gain"
 subtitle: "Fusion output exceeding laser driver input — NIF achieved Q>1 in Dec 2022"
 category: Energy Tech
 stage: proof_of_concept
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 40
+horizon: "Deployed"
+source_count: 1
 stocks: []
 permalink: /tech/nuclear-fusion-net-energy-gain/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/nuclear-fusion-net-energy-gain/
 
 Fusion output exceeding laser driver input — NIF achieved Q>1 in Dec 2022. **Achieved.**
 
-Core concept proven in laboratory conditions. Our research database tracks **40 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **1 independent source** on this technology.
+
+> RSS:Enhancing ultracold atomic batteries using tunable interactions | rel=0.44 | uid:3884e9144ad727d6
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Proof Of Concept** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Development Stage | **Proof of Concept** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.14** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 40 |
+| Horizon | Deployed |
+| Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Commercial Fusion Power Plant](/future/tech/commercial-fusion-power-plant/)
+- [Commercial Fusion Power Plant](/future/tech/commercial-fusion-reactor/)
 
 ## Investment Exposure
 

@@ -4,11 +4,11 @@ title: "Grid-Scale Battery Storage (GWh)"
 subtitle: "Multi-GWh battery installations balancing grids — CATL, Tesla Megapack"
 category: Energy Tech
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2018
-est_year_range: "2018"
+est_year_range: ""
 horizon: "Near-Term (Now–2026)"
-source_count: 4
+source_count: 3
 stocks: [TSLA]
 permalink: /tech/grid-scale-battery-storage-gwh/
 ---
@@ -17,32 +17,35 @@ permalink: /tech/grid-scale-battery-storage-gwh/
 
 Multi-GWh battery installations balancing grids — CATL, Tesla Megapack.
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **4 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **3 independent sources** on this technology.
+
+> RSS:From Gridworlds to Warehouses: Adapting Lightweight One-shot Multi-Age | rel=0.44 | uid:8fc5b55a38f6eba6
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Estimated Deployment | **2018** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.17** |
+| Estimated Deployment | **2018–2027** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 3 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [AI-Managed Smart Grid](/future/tech/ai-managed-smart-grid/)
+- [AI-Managed Smart Grid](/future/tech/smart-grid-ai/)
+- [Lithium-Ion Battery](/future/tech/lithium-ion-battery/)
+- [Solid-State Battery](/future/tech/solid-state-battery/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Lithium-Ion Battery](/future/tech/lithium-ion-battery/)
-- [Solid-State Battery](/future/tech/solid-state-battery/)
-- [Floating Offshore Wind](/future/tech/floating-offshore-wind/)
-- [Onshore Wind Turbine](/future/tech/onshore-wind-turbine/)
+- [Floating Offshore Wind](/future/tech/wind-offshore-floating/)
+- [Onshore Wind Turbine](/future/tech/wind-onshore/)
 
 ## Investment Exposure
 

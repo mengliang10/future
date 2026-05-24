@@ -4,12 +4,12 @@ title: "1nm / A14 Process Node"
 subtitle: "Sub-2nm node requiring High-NA EUV; TSMC A14 targeting 2028"
 category: Semiconductors
 stage: proof_of_concept
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2027
 est_year_range: "2027–2030"
-horizon: "Short-Term (2027–2028)"
+horizon: "Near-Term (2027–2028)"
 source_count: 1
-stocks: [ASML, TSM, KLAC, INTC]
+stocks: [ASML, TSM, KLAC]
 permalink: /tech/1nm-a14-process-node/
 ---
 
@@ -17,35 +17,38 @@ permalink: /tech/1nm-a14-process-node/
 
 Sub-2nm node requiring High-NA EUV; TSMC A14 targeting 2028.
 
-Core concept proven in laboratory conditions. Our research database tracks **1 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **1 independent source** on this technology.
+
+> RSS:EUPHORIA: Efficient Universal Planning via Hybrid Optimization for Rob | rel=0.50 | uid:e8df8a67413d92ba
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Proof Of Concept** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Development Stage | **Proof of Concept** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.16** |
 | Estimated Deployment | **2027–2030** |
-| Horizon | Short-Term (2027–2028) |
+| Horizon | Near-Term (2027–2028) |
 | Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Angstrom-Era Chips (<10Å gate length)](/future/tech/angstrom-era-chips-10-gate-length/)
+- [2nm Process Node (TSMC N2)](/future/tech/2nm-process-node/)
+- [AI-Assisted Chip Design (EDA AI)](/future/tech/ai-chip-design-automation/)
+- [Quantum-Enhanced Semiconductor Design](/future/tech/quantum-enhanced-semiconductor-design/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [2nm Process Node (TSMC N2)](/future/tech/2nm-process-node-tsmc-n2/)
-- [AI-Assisted Chip Design (EDA AI)](/future/tech/ai-assisted-chip-design-eda-ai/)
-- [High-NA EUV Lithography (ASML EXE)](/future/tech/high-na-euv-lithography-asml-exe/)
-- [Quantum-Enhanced Semiconductor Design](/future/tech/quantum-enhanced-semiconductor-design/)
+- [Angstrom-Era Chips (<10Å gate length)](/future/tech/angstrom-era-chips/)
+- [High-NA EUV Lithography (ASML EXE)](/future/tech/high-na-euv/)
 
 ## Investment Exposure
 
-[ASML](/future/stocks/asml/) [TSM](/future/stocks/tsm/) [KLAC](/future/stocks/klac/) [INTC](/future/stocks/intc/)
+[ASML](/future/stocks/asml/)  [TSM](/future/stocks/tsm/)  [KLAC](/future/stocks/klac/)
 
 See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

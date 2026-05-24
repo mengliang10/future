@@ -4,11 +4,11 @@ title: "Commercial Space Station (post-ISS)"
 subtitle: "Private orbital stations — Axiom Space modules, Starlab, Orbital Reef"
 category: Space Tech
 stage: proof_of_concept
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2030
 est_year_range: "2028–2035"
-horizon: "Medium-Term (2029–2032)"
-source_count: 13
+horizon: "Medium-Term (2029–2030)"
+source_count: 1
 stocks: []
 permalink: /tech/commercial-space-station-post-iss/
 ---
@@ -17,29 +17,27 @@ permalink: /tech/commercial-space-station-post-iss/
 
 Private orbital stations — Axiom Space modules, Starlab, Orbital Reef.
 
-Core concept proven in laboratory conditions. Our research database tracks **13 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **1 independent source** on this technology.
+
+> RSS:Deep Tech to Space: Space Data Centers and AI Revolution at the Edge | rel=0.59 | uid:4296a1cc72ae2d7f
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Proof Of Concept** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Development Stage | **Proof of Concept** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **2028–2035** |
-| Horizon | Medium-Term (2029–2032) |
-| Independent Sources Tracked | 13 |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
 - [In-Space Manufacturing](/future/tech/in-space-manufacturing/)
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [Commercial Suborbital Space Tourism](/future/tech/commercial-suborbital-space-tourism/)
+- [Commercial Suborbital Space Tourism](/future/tech/space-tourism-suborbital/)
 
 ## Investment Exposure
 

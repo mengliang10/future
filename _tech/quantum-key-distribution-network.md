@@ -1,14 +1,14 @@
 ---
 layout: tech_node
 title: "Quantum Key Distribution Network"
-subtitle: "Nationwide quantum-secured communication networks immune to classical and quantum eavesdropping attacks."
+subtitle: "Nationwide quantum-secured communication networks immune to classical and quantum eavesdropping a..."
 category: Cybersecurity
 stage: basic_research
 confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 89
+source_count: 62
 stocks: []
 permalink: /tech/quantum-key-distribution-network/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/quantum-key-distribution-network/
 
 Nationwide quantum-secured communication networks immune to classical and quantum eavesdropping attacks..
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **89 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **62 independent sources** on this technology.
+
+> RSS:Fault tolerance estimation in digital circuits with visualised generat | rel=0.75 | uid:4d847b3e60b9218d
 
 ## Status
 
@@ -25,17 +27,16 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.18** |
+| Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 89 |
+| Independent Sources Tracked | 62 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/)
-- [Quantum Network (Entanglement Dist.)](/future/tech/quantum-network-entanglement-dist/)
-- [Zero Trust Security Architecture](/future/tech/zero-trust-security-architecture/)
+- [Quantum Network (Entanglement Dist.)](/future/tech/quantum-network-entanglement/)
 
 ## Investment Exposure
 

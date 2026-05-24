@@ -4,11 +4,11 @@ title: "eVTOL Air Taxi"
 subtitle: "Electric vertical takeoff aircraft for urban air mobility — Joby, Archer"
 category: Autonomous
 stage: pilot
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2028
 est_year_range: "2026–2032"
-horizon: "Short-Term (2027–2028)"
-source_count: 9
+horizon: "Near-Term (2027–2028)"
+source_count: 1
 stocks: [JOBY]
 permalink: /tech/evtol-air-taxi/
 ---
@@ -17,30 +17,33 @@ permalink: /tech/evtol-air-taxi/
 
 Electric vertical takeoff aircraft for urban air mobility — Joby, Archer.
 
-Real-world pilot deployments with commercial customers. Pre-mass production. Our research database tracks **9 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
+
+> RSS:What Makes eVTOL Motors Different Than EV Motors? | rel=0.91 | uid:216496c5ddea9718
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Pilot** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Development Stage | **Pilot / Limited Deployment** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.23** |
 | Estimated Deployment | **2026–2032** |
-| Horizon | Short-Term (2027–2028) |
-| Independent Sources Tracked | 9 |
+| Horizon | Near-Term (2027–2028) |
+| Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Zero-Accident Transport Network](/future/tech/zero-accident-transport-network/)
+- [GaN Power Semiconductors](/future/tech/gallium-nitride-power/)
+- [Solid-State Battery](/future/tech/solid-state-battery/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [GaN Power Semiconductors](/future/tech/gan-power-semiconductors/)
-- [Solid-State Battery](/future/tech/solid-state-battery/)
+- [Zero-Accident Transport Network](/future/tech/zero-accident-transport/)
 
 ## Investment Exposure
 

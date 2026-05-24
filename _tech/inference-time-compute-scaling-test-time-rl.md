@@ -1,48 +1,50 @@
 ---
 layout: tech_node
 title: "Inference-Time Compute Scaling (Test-Time RL)"
-subtitle: "Scaling compute at inference time rather than (only) at training time. Models think longer on hard problems via chain-of"
+subtitle: "Scaling compute at inference time rather than (only) at training time. Models think longer on har..."
 category: AI & Cloud
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2025
 est_year_range: "2024–2026"
-horizon: "Near-Term (Now–2026)"
-source_count: 134
+horizon: "Deployed"
+source_count: 76
 stocks: []
 permalink: /tech/inference-time-compute-scaling-test-time-rl/
 ---
 
 ## What This Is
 
-Scaling compute at inference time rather than (only) at training time. Models think longer on hard problems via chain-of-thought, tree search (MCTS), or reward model guided search. Exemplified by OpenAI o1, DeepSeek-R1, Prover series. Fundamental shift: accuracy improves with more inference budget, not just more parameters.. **Achieved 2024-09-01.**
+Scaling compute at inference time rather than (only) at training time. Models think longer on hard problems via chain-of-thought, tree search (MCTS), or reward model guided search. Exemplified by OpenAI o1, DeepSeek-R1, Prover series. Fundamental shift: accuracy improves with more inference budget, not just more parameters.. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **134 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **76 independent sources** on this technology.
+
+> First open-source model matching OpenAI o1 on reasoning benchmarks. Pure RL (GRPO) without supervised fine-tuning for cold-start. Chain-of-thought reasoning emerges from RL. Demonstrates reasoning capability can be incentivized purely through RL. Major milestone for open-source AI.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Estimated Deployment | **2024–2026** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 134 |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.15** |
+| Estimated Deployment | **Ongoing / Deployed** |
+| Horizon | Deployed |
+| Independent Sources Tracked | 76 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/)
-- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/)
+- [RLHF / Constitutional AI Alignment](/future/tech/rlhf-alignment/)
+- [Synthetic Training Data Generation](/future/tech/synthetic-data-generation/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Chain-of-Thought Reasoning Model](/future/tech/chain-of-thought-reasoning-model/)
-- [RLHF / Constitutional AI Alignment](/future/tech/rlhf-constitutional-ai-alignment/)
-- [Synthetic Training Data Generation](/future/tech/synthetic-training-data-generation/)
+- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-reasoning/)
+- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/)
 
 ## Investment Exposure
 

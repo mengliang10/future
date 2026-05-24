@@ -4,9 +4,9 @@ title: "Pig-to-Human Xenotransplantation"
 subtitle: "Genetically modified pig organs in humans — kidney cases 2024, heart 2022"
 category: Biotech
 stage: pilot
-confidence_label: Confident
+confidence_label: Researching
 est_year: 2026
-est_year_range: "2026"
+est_year_range: ""
 horizon: "Near-Term (Now–2026)"
 source_count: 1
 stocks: []
@@ -17,23 +17,26 @@ permalink: /tech/pig-to-human-xenotransplantation/
 
 Genetically modified pig organs in humans — kidney cases 2024, heart 2022.
 
-Real-world pilot deployments with commercial customers. Pre-mass production. Our research database tracks **1 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
+
+> Multiple pig-to-human transplants (kidney at MGH March 2024, two hearts at U Maryland 2022-2023) with 10-gene edited donor pigs from eGenesis and Revivicor. Longest survival ~2 months; immune rejection and porcine endogenous retrovirus risk unresolved. FDA compassionate-use only.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Pilot** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Estimated Deployment | **2026** |
+| Development Stage | **Pilot / Limited Deployment** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.42** |
+| Estimated Deployment | **2026–2028** |
 | Horizon | Near-Term (Now–2026) |
 | Independent Sources Tracked | 1 |
 
-## What This Enables
+## Prerequisites
 
-Advancement here directly benefits or unblocks:
+This technology depends on or is closely linked to:
 
-- [Biology Foundation Model](/future/tech/biology-foundation-model/)
+- [Biology Foundation Model](/future/tech/foundation-model-biology/)
 
 ## Investment Exposure
 

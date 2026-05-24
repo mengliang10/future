@@ -7,8 +7,8 @@ stage: basic_research
 confidence_label: Speculative
 est_year: 2028
 est_year_range: "2028–2045"
-horizon: "Short-Term (2027–2028)"
-source_count: 51
+horizon: "Near-Term (2027–2028)"
+source_count: 28
 stocks: []
 permalink: /tech/artificial-general-intelligence/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/artificial-general-intelligence/
 
 AI matching human performance across all cognitive domains.
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **51 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **28 independent sources** on this technology.
+
+> First open-source model matching OpenAI o1 on reasoning benchmarks. Pure RL (GRPO) without supervised fine-tuning for cold-start. Chain-of-thought reasoning emerges from RL. Demonstrates reasoning capability can be incentivized purely through RL. Major milestone for open-source AI.
 
 ## Status
 
@@ -25,26 +27,27 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.19** |
 | Estimated Deployment | **2028–2045** |
-| Horizon | Short-Term (2027–2028) |
-| Independent Sources Tracked | 51 |
+| Horizon | Near-Term (2027–2028) |
+| Independent Sources Tracked | 28 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Artificial Superintelligence (ASI)](/future/tech/artificial-superintelligence-asi/)
-- [Merged Human-AI Intelligence](/future/tech/merged-human-ai-intelligence/)
+- [Merged Human-AI Intelligence](/future/tech/human-ai-merged-intelligence/)
+- [AI Agent Swarms](/future/tech/ai-agent-swarms/)
+- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-reasoning/)
+- [Inference-Time Compute Scaling (Test-Time RL)](/future/tech/inference-time-compute-scaling/)
+- [Chain-of-Thought Reasoning Model](/future/tech/reasoning-model-o1-class/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Agent Swarms](/future/tech/ai-agent-swarms/)
-- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/)
-- [Inference-Time Compute Scaling (Test-Time RL)](/future/tech/inference-time-compute-scaling-test-time-rl/)
-- [Chain-of-Thought Reasoning Model](/future/tech/chain-of-thought-reasoning-model/)
-- [AI World Model](/future/tech/ai-world-model/)
+- [Artificial Superintelligence (ASI)](/future/tech/artificial-superintelligence/)
+- [AI World Model](/future/tech/world-model-ai/)
 
 ## Investment Exposure
 

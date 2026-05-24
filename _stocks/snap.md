@@ -4,6 +4,8 @@ name: Snap Inc.
 symbol: SNAP
 exchange: NYSE
 categories: [XR, Social Media, AR]
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

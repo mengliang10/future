@@ -4,6 +4,8 @@ name: Energy Fuels Inc.
 symbol: UUUU
 exchange: NYSE
 categories: [Nuclear Energy, Uranium, Rare Earth]
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

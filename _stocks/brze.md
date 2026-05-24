@@ -4,6 +4,9 @@ name: Braze Inc.
 symbol: BRZE
 exchange: NASDAQ
 categories: [Marketing Tech, SaaS]
+node_count: 2
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

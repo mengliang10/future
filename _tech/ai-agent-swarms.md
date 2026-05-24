@@ -4,11 +4,11 @@ title: "AI Agent Swarms"
 subtitle: "Coordinated networks of AI agents collaborating on complex tasks autonomously"
 category: AI & Cloud
 stage: proof_of_concept
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2029
 est_year_range: "2027–2032"
-horizon: "Medium-Term (2029–2032)"
-source_count: 20
+horizon: "Medium-Term (2029–2030)"
+source_count: 15
 stocks: []
 permalink: /tech/ai-agent-swarms/
 ---
@@ -17,30 +17,33 @@ permalink: /tech/ai-agent-swarms/
 
 Coordinated networks of AI agents collaborating on complex tasks autonomously.
 
-Core concept proven in laboratory conditions. Our research database tracks **20 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **15 independent sources** on this technology.
+
+> RSS:ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows f | rel=0.53 | uid:6ecec486a9839c7f
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Proof Of Concept** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Development Stage | **Proof of Concept** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.14** |
 | Estimated Deployment | **2027–2032** |
-| Horizon | Medium-Term (2029–2032) |
-| Independent Sources Tracked | 20 |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 15 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/)
+- [Autonomous AI Agent](/future/tech/ai-agent-autonomous/)
+- [AI Agent Persistent Memory](/future/tech/ai-agent-memory/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/)
-- [AI Agent Persistent Memory](/future/tech/ai-agent-persistent-memory/)
+- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/)
 
 ## Investment Exposure
 

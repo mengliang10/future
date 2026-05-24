@@ -4,11 +4,11 @@ title: "ZK-EVM (ZK-Rollup + EVM Compatible)"
 subtitle: "EVM-compatible ZK rollup enabling Ethereum compatibility at 100x lower cost"
 category: Blockchain
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2025
-est_year_range: "2025"
-horizon: "Near-Term (Now–2026)"
-source_count: 3
+est_year_range: ""
+horizon: "Deployed"
+source_count: 2
 stocks: []
 permalink: /tech/zk-evm-zk-rollup-evm-compatible/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/zk-evm-zk-rollup-evm-compatible/
 
 EVM-compatible ZK rollup enabling Ethereum compatibility at 100x lower cost. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **3 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
+
+> RSS:QUTest: A Native Testing Framework for Quantum Programs | rel=0.41 | uid:616389a760b09d1e
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Estimated Deployment | **2025** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 3 |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.11** |
+| Estimated Deployment | **Ongoing / Deployed** |
+| Horizon | Deployed |
+| Independent Sources Tracked | 2 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Zero-Knowledge Proof (ZKP)](/future/tech/zero-knowledge-proof-zkp/)
+- [Zero-Knowledge Proof (ZKP)](/future/tech/zero-knowledge-proof/)
 
 ## Investment Exposure
 

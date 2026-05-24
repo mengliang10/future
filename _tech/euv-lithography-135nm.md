@@ -17,7 +17,9 @@ permalink: /tech/euv-lithography-135nm/
 
 Extreme ultraviolet patterning enabling sub-7nm chip production; ASML monopoly. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **1 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+
+> ASML NXE:3600D (0.33 NA) and NXE:3800E systems deployed at TSMC (N3, N5), Samsung (3nm GAA), and Intel (Intel 4, Intel 3). High-NA EXE:5000 (0.55 NA) shipped to Intel (2023) and TSMC (2024) for 2nm/14A development. EUV is the standard lithography tool for all sub-7nm logic nodes.
 
 ## Status
 
@@ -25,6 +27,7 @@ Deployed at commercial scale. Revenue-generating across the industry. Our resear
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.96** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
 | Independent Sources Tracked | 1 |
@@ -33,7 +36,7 @@ Deployed at commercial scale. Revenue-generating across the industry. Our resear
 
 This technology depends on or is closely linked to:
 
-- [2nm Process Node (TSMC N2)](/future/tech/2nm-process-node-tsmc-n2/)
+- [2nm Process Node (TSMC N2)](/future/tech/2nm-process-node/)
 
 ## Investment Exposure
 

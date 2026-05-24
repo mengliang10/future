@@ -7,8 +7,8 @@ stage: basic_research
 confidence_label: Speculative
 est_year: 2033
 est_year_range: "2030–2038"
-horizon: "Long-Term (2033–2040)"
-source_count: 39
+horizon: "Medium-Term (2031–2035)"
+source_count: 19
 stocks: []
 permalink: /tech/angstrom-era-chips-10-gate-length/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/angstrom-era-chips-10-gate-length/
 
 Beyond 1nm: 2D semiconductors (MoS2, WSe2), quantum effects dominant.
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **39 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **19 independent sources** on this technology.
+
+> RSS:Beyond trace-class and Hilbert-Schmidt -- Interaction between operator | rel=0.53 | uid:39660e8f995d4944
 
 ## Status
 
@@ -25,21 +27,22 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.14** |
 | Estimated Deployment | **2030–2038** |
-| Horizon | Long-Term (2033–2040) |
-| Independent Sources Tracked | 39 |
+| Horizon | Medium-Term (2031–2035) |
+| Independent Sources Tracked | 19 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Artificial Superintelligence (ASI)](/future/tech/artificial-superintelligence-asi/)
+- [1nm / A14 Process Node](/future/tech/1nm-process-node/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [1nm / A14 Process Node](/future/tech/1nm-a14-process-node/)
+- [Artificial Superintelligence (ASI)](/future/tech/artificial-superintelligence/)
 
 ## Investment Exposure
 

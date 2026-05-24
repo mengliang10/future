@@ -4,11 +4,11 @@ title: "Full Rocket Reusability (Starship)"
 subtitle: "Booster and upper stage both propulsively landing and reflying — SpaceX Starship"
 category: Space Tech
 stage: pilot
-confidence_label: Confident
+confidence_label: Researching
 est_year: 2025
 est_year_range: "2025–2028"
 horizon: "Near-Term (Now–2026)"
-source_count: 6
+source_count: 1
 stocks: [RKLB]
 permalink: /tech/full-rocket-reusability-starship/
 ---
@@ -17,31 +17,34 @@ permalink: /tech/full-rocket-reusability-starship/
 
 Booster and upper stage both propulsively landing and reflying — SpaceX Starship.
 
-Real-world pilot deployments with commercial customers. Pre-mass production. Our research database tracks **6 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
+
+> SpaceX Super Heavy booster caught by Mechazilla tower on Flight 5 (October 2024) and Flight 7 (January 2025) — first-stage reuse demonstrated. Starship upper stage achieved controlled reentry and ocean splashdown on Flights 4-6 but has not been recovered or reused. Full stack reuse requires upper stage recovery — targeted for 2026.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Pilot** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Development Stage | **Pilot / Limited Deployment** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.47** |
 | Estimated Deployment | **2025–2028** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 6 |
+| Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/)
-- [Permanent Lunar Surface Base](/future/tech/permanent-lunar-surface-base/)
-- [Crewed Mars Mission](/future/tech/crewed-mars-mission/)
+- [Permanent Lunar Surface Base](/future/tech/lunar-surface-base/)
+- [Crewed Mars Mission](/future/tech/mars-crewed-mission/)
+- [Rocket First-Stage Reusability](/future/tech/rocket-first-stage-reuse/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Rocket First-Stage Reusability](/future/tech/rocket-first-stage-reusability/)
+- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-100t-leo/)
 
 ## Investment Exposure
 

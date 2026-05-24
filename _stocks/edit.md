@@ -4,6 +4,8 @@ name: Editas Medicine Inc.
 symbol: EDIT
 exchange: NASDAQ
 categories: [Biotech, Gene Editing]
+timing_action: "FULL"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

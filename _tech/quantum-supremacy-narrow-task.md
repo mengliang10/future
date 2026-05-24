@@ -4,11 +4,11 @@ title: "Quantum Supremacy (Narrow Task)"
 subtitle: "Quantum outperforming classical on specific benchmark — Google Sycamore 2019"
 category: Quantum
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 65
+horizon: "Deployed"
+source_count: 51
 stocks: [GOOGL]
 permalink: /tech/quantum-supremacy-narrow-task/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/quantum-supremacy-narrow-task/
 
 Quantum outperforming classical on specific benchmark — Google Sycamore 2019. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **65 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **51 independent sources** on this technology.
+
+> RSS:ShopGym: An Integrated Framework for Realistic Simulation and Scalable | rel=0.59 | uid:f099586961bf8beb
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.12** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 65 |
+| Horizon | Deployed |
+| Independent Sources Tracked | 51 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-qc-1000-logical-qubits/)
+- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-quantum-1000q/)
 
 ## Investment Exposure
 

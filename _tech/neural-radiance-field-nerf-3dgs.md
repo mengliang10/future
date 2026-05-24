@@ -4,7 +4,7 @@ title: "Neural Radiance Field (NeRF / 3DGS)"
 subtitle: "AI reconstructing photorealistic 3D scenes from 2D images"
 category: XR
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
@@ -17,21 +17,24 @@ permalink: /tech/neural-radiance-field-nerf-3dgs/
 
 AI reconstructing photorealistic 3D scenes from 2D images. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+
+> RSS:IVGT: Implicit Visual Geometry Transformer for Neural Scene Representa | rel=0.81 | uid:3ddebb7093bce1dd
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.16** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
 | Independent Sources Tracked | 2 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
 - [Real-Time AI 3D Rendering](/future/tech/real-time-ai-3d-rendering/)
 

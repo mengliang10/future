@@ -7,8 +7,8 @@ stage: early_commercial
 confidence_label: Confident
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 4
+horizon: "Deployed"
+source_count: 1
 stocks: []
 permalink: /tech/consumer-non-invasive-bci-headset/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/consumer-non-invasive-bci-headset/
 
 Mass-market EEG/fNIRS headsets for gaming, focus, meditation — Emotiv, Muse. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **4 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+
+> Emotiv EPOC X and Muse S (Gen 2) commercially available with dry EEG electrodes for meditation/focus tracking; limited to ~7 signal classes with 60-75% accuracy. Niche consumer adoption (~250K units shipped).
 
 ## Status
 
@@ -25,22 +27,23 @@ Crossed from research to commercial deployment — identifiable revenue, limited
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Score | **+0.82** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 4 |
+| Horizon | Deployed |
+| Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Neuro-Personalised Advertising](/future/tech/neuro-personalised-advertising/)
+- [Cochlear Implant](/future/tech/cochlear-implant/)
+- [EEG (Non-Invasive Brain Recording)](/future/tech/eeg-non-invasive/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Cochlear Implant](/future/tech/cochlear-implant/)
-- [EEG (Non-Invasive Brain Recording)](/future/tech/eeg-non-invasive-brain-recording/)
+- [Neuro-Personalised Advertising](/future/tech/neuro-personalized-advertising/)
 
 ## Investment Exposure
 

@@ -4,11 +4,11 @@ title: "EDR (Endpoint Detection & Response)"
 subtitle: "Continuous endpoint monitoring and AI threat detection — CrowdStrike, SentinelOne"
 category: Cybersecurity
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 11
+source_count: 8
 stocks: [CRWD, S]
 permalink: /tech/edr-endpoint-detection-response/
 ---
@@ -17,26 +17,29 @@ permalink: /tech/edr-endpoint-detection-response/
 
 Continuous endpoint monitoring and AI threat detection — CrowdStrike, SentinelOne. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **8 independent sources** on this technology.
+
+> RSS:Ensemble Monitoring for AI Control: Diverse Signals Outweigh More Comp | rel=0.59 | uid:61cb26aa57578ca8
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.16** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 11 |
+| Independent Sources Tracked | 8 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [XDR (Extended Detection & Response)](/future/tech/xdr-extended-detection-response/)
+- [XDR (Extended Detection & Response)](/future/tech/xdr-platform/)
 
 ## Investment Exposure
 
-[CRWD](/future/stocks/crwd/) [S](/future/stocks/s/)
+[CRWD](/future/stocks/crwd/)  [S](/future/stocks/s/)
 
 See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

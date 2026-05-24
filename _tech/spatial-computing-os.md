@@ -4,9 +4,9 @@ title: "Spatial Computing OS"
 subtitle: "OS for 3D spatial interfaces — Apple visionOS, Meta Horizon OS"
 category: XR
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2025
-est_year_range: "2025"
+est_year_range: ""
 horizon: "Near-Term (Now–2026)"
 source_count: 2
 stocks: [AAPL]
@@ -17,15 +17,18 @@ permalink: /tech/spatial-computing-os/
 
 OS for 3D spatial interfaces — Apple visionOS, Meta Horizon OS.
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **2 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
+
+> RSS:Control-Plane Openness in Near-Term Quantum Computing: A Survey of Ven | rel=0.59 | uid:aa4b5d1617bcf356
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Estimated Deployment | **2025** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.18** |
+| Estimated Deployment | **2025–2026** |
 | Horizon | Near-Term (Now–2026) |
 | Independent Sources Tracked | 2 |
 
@@ -33,8 +36,13 @@ Crossed from research to commercial deployment — identifiable revenue, limited
 
 This technology depends on or is closely linked to:
 
-- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-smart-glasses-consumer-daily/)
-- [XR Enterprise Workflow Tools](/future/tech/xr-enterprise-workflow-tools/)
+- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-glasses-consumer/)
+
+## What This Enables
+
+Advancement here directly benefits or unblocks:
+
+- [XR Enterprise Workflow Tools](/future/tech/xr-enterprise-workflow/)
 
 ## Investment Exposure
 

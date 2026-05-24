@@ -4,12 +4,12 @@ title: "Superconducting Qubit"
 subtitle: "Josephson junction qubit at millikelvin; IBM Eagle/Heron, Google Willow"
 category: Quantum
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 25
-stocks: [RGTI, IBM, INTC]
+horizon: "Deployed"
+source_count: 19
+stocks: [RGTI, IBM]
 permalink: /tech/superconducting-qubit/
 ---
 
@@ -17,27 +17,29 @@ permalink: /tech/superconducting-qubit/
 
 Josephson junction qubit at millikelvin; IBM Eagle/Heron, Google Willow. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **25 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **19 independent sources** on this technology.
+
+> RSS:Control-Plane Openness in Near-Term Quantum Computing: A Survey of Ven | rel=0.47 | uid:aa4b5d1617bcf356
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.17** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 25 |
+| Horizon | Deployed |
+| Independent Sources Tracked | 19 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Photonic Qubit](/future/tech/photonic-qubit/)
-- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/)
+- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction/)
 
 ## Investment Exposure
 
-[RGTI](/future/stocks/rgti/) [IBM](/future/stocks/ibm/) [INTC](/future/stocks/intc/)
+[RGTI](/future/stocks/rgti/)  [IBM](/future/stocks/ibm/)
 
 See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

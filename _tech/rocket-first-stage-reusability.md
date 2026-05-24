@@ -8,7 +8,7 @@ confidence_label: Confirmed
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 4
+source_count: 1
 stocks: []
 permalink: /tech/rocket-first-stage-reusability/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/rocket-first-stage-reusability/
 
 Propulsive landing and reflight of orbital boosters — SpaceX Falcon 9 (300+ flights). **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+
+> SpaceX Falcon 9 achieved 350+ first-stage landings and 300+ reflights (as of May 2026); individual boosters flown up to 25+ times with turnaround times as low as 21 days. Reuse reduced launch costs by ~40% and is now routine. Rocket Lab Electron first-stage reuse also operational via helicopter/marine recovery.
 
 ## Status
 
@@ -25,21 +27,22 @@ Deployed at commercial scale. Revenue-generating across the industry. Our resear
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.98** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Full Rocket Reusability (Starship)](/future/tech/full-rocket-reusability-starship/)
+- [Liquid Rocket Propulsion (RP-1/LOX)](/future/tech/liquid-rocket-propulsion/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Liquid Rocket Propulsion (RP-1/LOX)](/future/tech/liquid-rocket-propulsion-rp-1lox/)
+- [Full Rocket Reusability (Starship)](/future/tech/rocket-full-reusability/)
 
 ## Investment Exposure
 

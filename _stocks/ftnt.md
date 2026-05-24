@@ -4,6 +4,8 @@ name: Fortinet Inc.
 symbol: FTNT
 exchange: NASDAQ
 categories: [Cybersecurity]
+timing_action: "WAIT"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

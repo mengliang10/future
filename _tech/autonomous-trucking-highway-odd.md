@@ -8,7 +8,7 @@ confidence_label: Confident
 est_year: 2025
 est_year_range: "2025–2030"
 horizon: "Near-Term (Now–2026)"
-source_count: 3
+source_count: 1
 stocks: [AUR, NVDA]
 permalink: /tech/autonomous-trucking-highway-odd/
 ---
@@ -17,33 +17,35 @@ permalink: /tech/autonomous-trucking-highway-odd/
 
 Driverless freight on interstate highways — Aurora, Waymo Via, Plus.ai.
 
-Real-world pilot deployments with commercial customers. Pre-mass production. Our research database tracks **3 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
+
+> Aurora Innovation, Kodiak Robotics, and Torc (Daimler) completed driver-out highway pilots in Texas and Arizona in 2025; Aurora targeting full commercial launch late 2026. Limited to highway ODD with terminal-to-terminal handoff still requiring human yard drivers.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Pilot** |
+| Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Score | **+0.70** |
 | Estimated Deployment | **2025–2030** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Autonomous Lunar/Mars Rover Fleet](/future/tech/autonomous-lunarmars-rover-fleet/)
+- [LEO Satellite Internet Constellation](/future/tech/leo-satellite-internet/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [LEO Satellite Internet Constellation](/future/tech/leo-satellite-internet-constellation/)
-- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/)
+- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/sensor-fusion-av/)
 
 ## Investment Exposure
 
-[AUR](/future/stocks/aur/) [NVDA](/future/stocks/nvda/)
+[AUR](/future/stocks/aur/)  [NVDA](/future/stocks/nvda/)
 
 See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

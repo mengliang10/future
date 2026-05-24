@@ -7,8 +7,8 @@ stage: basic_research
 confidence_label: Speculative
 est_year: 2042
 est_year_range: "2033–2060"
-horizon: "Far Future (2040+)"
-source_count: 12
+horizon: "Long-Term (2042)"
+source_count: 6
 stocks: []
 permalink: /tech/artificial-superintelligence-asi/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/artificial-superintelligence-asi/
 
 AI far exceeding human cognitive ability in every domain.
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **12 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **6 independent sources** on this technology.
+
+> RSS:Position: Artificial Intelligence Needs Meta Intelligence -- the Case  | rel=0.50 | uid:148b4285c358d443
 
 ## Status
 
@@ -25,15 +27,16 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2033–2060** |
-| Horizon | Far Future (2040+) |
-| Independent Sources Tracked | 12 |
+| Horizon | Long-Term (2042) |
+| Independent Sources Tracked | 6 |
 
-## What This Enables
+## Prerequisites
 
-Advancement here directly benefits or unblocks:
+This technology depends on or is closely linked to:
 
-- [Angstrom-Era Chips (<10Å gate length)](/future/tech/angstrom-era-chips-10-gate-length/)
+- [Angstrom-Era Chips (<10Å gate length)](/future/tech/angstrom-era-chips/)
 - [Artificial General Intelligence](/future/tech/artificial-general-intelligence/)
 
 ## Investment Exposure

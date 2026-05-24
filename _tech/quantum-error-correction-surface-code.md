@@ -4,11 +4,11 @@ title: "Quantum Error Correction (Surface Code)"
 subtitle: "Logical qubit from many physical; ~1000 physical per logical qubit needed"
 category: Quantum
 stage: prototype
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2026
 est_year_range: "2026–2032"
 horizon: "Near-Term (Now–2026)"
-source_count: 48
+source_count: 30
 stocks: [IBM, MSFT, NVDA]
 permalink: /tech/quantum-error-correction-surface-code/
 ---
@@ -17,38 +17,38 @@ permalink: /tech/quantum-error-correction-surface-code/
 
 Logical qubit from many physical; ~1000 physical per logical qubit needed.
 
-Functional prototypes demonstrated in controlled environments. Our research database tracks **48 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **30 independent sources** on this technology.
+
+> RSS:Synthesis and Optimization of Encoding Circuits for Fault-Tolerant Qua | rel=0.72 | uid:d19725afe11a70b2
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Prototype** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **2026–2032** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 48 |
+| Independent Sources Tracked | 30 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-qc-1000-logical-qubits/)
-- [PQC Enterprise Deployment](/future/tech/pqc-enterprise-deployment/)
-- [Quantum-Enhanced Semiconductor Design](/future/tech/quantum-enhanced-semiconductor-design/)
-- [Quantum Key Distribution Network](/future/tech/quantum-key-distribution-network/)
-- [Quantum Protein Folding Solver](/future/tech/quantum-protein-folding-solver/)
+- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-quantum-1000q/)
+- [Superconducting Qubit](/future/tech/superconducting-qubit/)
+- [Topological Qubit (Majorana Fermion)](/future/tech/topological-qubit/)
+- [Trapped Ion Qubit](/future/tech/trapped-ion-qubit/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Superconducting Qubit](/future/tech/superconducting-qubit/)
-- [Topological Qubit (Majorana Fermion)](/future/tech/topological-qubit-majorana-fermion/)
-- [Trapped Ion Qubit](/future/tech/trapped-ion-qubit/)
+- [PQC Enterprise Deployment](/future/tech/post-quantum-crypto-deployed/)
 
 ## Investment Exposure
 
-[IBM](/future/stocks/ibm/) [MSFT](/future/stocks/msft/) [NVDA](/future/stocks/nvda/)
+[IBM](/future/stocks/ibm/)  [MSFT](/future/stocks/msft/)  [NVDA](/future/stocks/nvda/)
 
 See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

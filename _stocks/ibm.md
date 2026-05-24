@@ -4,6 +4,7 @@ name: "IBM Corporation"
 symbol: IBM
 exchange: NYSE
 categories: [AI & Cloud]
+node_count: 2
 ---
 
 ## Investment Thesis

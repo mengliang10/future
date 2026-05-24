@@ -4,6 +4,9 @@ name: CRISPR Therapeutics AG
 symbol: CRSP
 exchange: NASDAQ
 categories: [Biotech, Gene Editing]
+node_count: 2
+timing_action: "FULL"
+regime: "LOW_VOL"
 ---
 
 ## Investment Thesis

@@ -1,14 +1,14 @@
 ---
 layout: tech_node
 title: "Autonomous Nuclear Plant Operations"
-subtitle: "Humanoid and specialised robots performing maintenance, inspection, and operation of nuclear facilities reducing human r"
+subtitle: "Humanoid and specialised robots performing maintenance, inspection, and operation of nuclear faci..."
 category: Energy Tech
 stage: basic_research
 confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 89
+source_count: 20
 stocks: []
 permalink: /tech/autonomous-nuclear-plant-operations/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/autonomous-nuclear-plant-operations/
 
 Humanoid and specialised robots performing maintenance, inspection, and operation of nuclear facilities reducing human radiation exposure..
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **89 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **20 independent sources** on this technology.
+
+> RSS:X-SYNTH: Beyond Retrieval -- Enterprise Context Synthesis from Observe | rel=0.75 | uid:941eb99a1e9cb5d6
 
 ## Status
 
@@ -25,22 +27,16 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.15** |
+| Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 89 |
-
-## Prerequisites
-
-This technology depends on or is closely linked to:
-
-- [Small Modular Reactor (<300MWe)](/future/tech/small-modular-reactor-300mwe/)
+| Independent Sources Tracked | 20 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory-deployment/)
-- [AI-Managed Smart Grid](/future/tech/ai-managed-smart-grid/)
+- [Small Modular Reactor (<300MWe)](/future/tech/small-modular-reactor/)
 
 ## Investment Exposure
 

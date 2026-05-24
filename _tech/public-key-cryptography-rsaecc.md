@@ -4,11 +4,11 @@ title: "Public Key Cryptography (RSA/ECC)"
 subtitle: "Asymmetric encryption enabling secure communication without shared secret"
 category: Cybersecurity
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 14
+source_count: 6
 stocks: []
 permalink: /tech/public-key-cryptography-rsaecc/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/public-key-cryptography-rsaecc/
 
 Asymmetric encryption enabling secure communication without shared secret. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **14 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
+
+> RSS:Accelerating Hybrid XOR$-$CNF Boolean Satisfiability Problems Natively | rel=0.41 | uid:1e2cefa4b335a8af
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.12** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 14 |
+| Independent Sources Tracked | 6 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [TLS/SSL Encrypted Transport](/future/tech/tlsssl-encrypted-transport/)
+- [TLS/SSL Encrypted Transport](/future/tech/tls-ssl/)
 
 ## Investment Exposure
 

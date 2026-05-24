@@ -4,6 +4,9 @@ name: "Marvell Technology"
 symbol: MRVL
 exchange: NASDAQ
 categories: [Semiconductors]
+node_count: 2
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

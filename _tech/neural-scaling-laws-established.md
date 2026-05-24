@@ -4,11 +4,11 @@ title: "Neural Scaling Laws (Established)"
 subtitle: "Empirical law: performance scales predictably with compute, data, and params"
 category: AI & Cloud
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 13
+source_count: 6
 stocks: []
 permalink: /tech/neural-scaling-laws-established/
 ---
@@ -17,24 +17,27 @@ permalink: /tech/neural-scaling-laws-established/
 
 Empirical law: performance scales predictably with compute, data, and params. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **13 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
+
+> 671B MoE (37B active), 14.8T training tokens. Outperforms GPT-4o and Claude-3.5-Sonnet on multiple benchmarks. $5.6M training cost vs ~$100M+ for comparable closed models. Multi-token prediction objective. Proves cost-efficient frontier LLM at scale.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.27** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 13 |
+| Independent Sources Tracked | 6 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt-4-class-1t-params/)
-- [Open-Source Frontier LLM (GPT-4/o1 Class)](/future/tech/open-source-frontier-llm-gpt-4o1-class/)
+- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt4-class/)
+- [Open-Source Frontier LLM (GPT-4/o1 Class)](/future/tech/open-source-frontier-llm/)
 
 ## Investment Exposure
 

@@ -8,7 +8,7 @@ confidence_label: Confirmed
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 0
+source_count: 1
 stocks: []
 permalink: /tech/eye-tracking-in-headset/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/eye-tracking-in-headset/
 
 Foveated rendering and gaze-input via built-in eye tracking. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **0 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+
+> Apple Vision Pro (2024) features infrared eye tracking for foveated rendering and UI navigation; Meta Quest Pro (2022) and PSVR2 (2023) include eye tracking. Tobii and眼动追踪 integrated into enterprise Varjo and Pimax headsets. Eye tracking is now standard in premium XR headsets.
 
 ## Status
 
@@ -25,15 +27,16 @@ Deployed at commercial scale. Revenue-generating across the industry. Our resear
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.89** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 0 |
+| Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Consumer VR Headset (6DOF Standalone)](/future/tech/consumer-vr-headset-6dof-standalone/)
+- [Consumer VR Headset (6DOF Standalone)](/future/tech/vr-headset-consumer/)
 
 ## Investment Exposure
 

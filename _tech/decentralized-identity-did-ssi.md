@@ -4,11 +4,11 @@ title: "Decentralized Identity (DID / SSI)"
 subtitle: "User-controlled identity wallets — W3C DID standard, ENS, Polygon ID"
 category: Blockchain
 stage: prototype
-confidence_label: Researching
+confidence_label: Speculative
 est_year: 2028
 est_year_range: "2026–2034"
-horizon: "Short-Term (2027–2028)"
-source_count: 2
+horizon: "Near-Term (2027–2028)"
+source_count: 1
 stocks: []
 permalink: /tech/decentralized-identity-did-ssi/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/decentralized-identity-did-ssi/
 
 User-controlled identity wallets — W3C DID standard, ENS, Polygon ID.
 
-Functional prototypes demonstrated in controlled environments. Our research database tracks **2 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **1 independent source** on this technology.
+
+> RSS:BIDO: A Biometric Identity Online Authentication Framework | rel=0.50 | uid:0de7dea41e959d35
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Prototype** |
-| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.12** |
 | Estimated Deployment | **2026–2034** |
-| Horizon | Short-Term (2027–2028) |
-| Independent Sources Tracked | 2 |
+| Horizon | Near-Term (2027–2028) |
+| Independent Sources Tracked | 1 |
 
-## What This Enables
+## Prerequisites
 
-Advancement here directly benefits or unblocks:
+This technology depends on or is closely linked to:
 
-- [Zero-Knowledge Proof (ZKP)](/future/tech/zero-knowledge-proof-zkp/)
+- [Zero-Knowledge Proof (ZKP)](/future/tech/zero-knowledge-proof/)
 
 ## Investment Exposure
 

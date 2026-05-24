@@ -4,11 +4,11 @@ title: "Search Engine Advertising (SEM/PPC)"
 subtitle: "Intent-based advertising via keyword auctions — Google AdWords since 2000"
 category: Marketing Tech
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 22
+source_count: 1
 stocks: []
 permalink: /tech/search-engine-advertising-semppc/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/search-engine-advertising-semppc/
 
 Intent-based advertising via keyword auctions — Google AdWords since 2000. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **22 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+
+> RSS:Engineering Collisions: How NYU Is Remaking Health Research | rel=0.38 | uid:0001b14fff81b783
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.09** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 22 |
+| Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Programmatic Display Advertising](/future/tech/programmatic-display-advertising/)
+- [Programmatic Display Advertising](/future/tech/programmatic-display/)
 
 ## Investment Exposure
 

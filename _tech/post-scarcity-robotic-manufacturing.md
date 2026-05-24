@@ -7,8 +7,8 @@ stage: basic_research
 confidence_label: Speculative
 est_year: 2050
 est_year_range: "2040–2065"
-horizon: "Far Future (2040+)"
-source_count: 37
+horizon: "Long-Term (2050)"
+source_count: 7
 stocks: []
 permalink: /tech/post-scarcity-robotic-manufacturing/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/post-scarcity-robotic-manufacturing/
 
 Robots produce goods at near-zero marginal cost; fundamental economics shift.
 
-Fundamental research phase — concept established, practical implementation unsolved. Our research database tracks **37 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **7 independent sources** on this technology.
+
+> RSS:A Mechanistic Model for Collective Motion from Sensorimotor Regulariti | rel=0.56 | uid:cee89f9b2e15aa6a
 
 ## Status
 
@@ -25,16 +27,17 @@ Fundamental research phase — concept established, practical implementation uns
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2040–2065** |
-| Horizon | Far Future (2040+) |
-| Independent Sources Tracked | 37 |
+| Horizon | Long-Term (2050) |
+| Independent Sources Tracked | 7 |
 
-## What This Enables
+## Prerequisites
 
-Advancement here directly benefits or unblocks:
+This technology depends on or is closely linked to:
 
-- [General-Purpose Humanoid Robot](/future/tech/general-purpose-humanoid-robot/)
-- [Full Warehouse Automation](/future/tech/full-warehouse-automation/)
+- [General-Purpose Humanoid Robot](/future/tech/humanoid-robot-general/)
+- [Full Warehouse Automation](/future/tech/warehouse-automation-full/)
 
 ## Investment Exposure
 

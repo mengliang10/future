@@ -4,6 +4,8 @@ name: "Palantir Technologies"
 symbol: PLTR
 exchange: NASDAQ
 categories: [AI & Cloud]
+timing_action: "FULL"
+regime: "TRENDING_DOWN"
 ---
 
 ## Investment Thesis

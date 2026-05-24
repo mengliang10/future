@@ -4,11 +4,11 @@ title: "Robotaxi (Geofenced Operation)"
 subtitle: "Driverless taxi in limited mapped area — Waymo One SF, Baidu Apollo Go"
 category: Autonomous
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Confirmed
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 3
+horizon: "Deployed"
+source_count: 1
 stocks: [GOOGL]
 permalink: /tech/robotaxi-geofenced-operation/
 ---
@@ -17,30 +17,28 @@ permalink: /tech/robotaxi-geofenced-operation/
 
 Driverless taxi in limited mapped area — Waymo One SF, Baidu Apollo Go. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **3 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+
+> Waymo serving 175K+ paid rides/week across Phoenix, SF, LA, and Austin with no safety driver; Baidu Apollo Go operating in 10+ Chinese cities with 8M+ cumulative rides. Both profitable per-ride in mature geofences.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.93** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 3 |
-
-## Prerequisites
-
-This technology depends on or is closely linked to:
-
-- [Robotaxi (Full City, No Safety Driver)](/future/tech/robotaxi-full-city-no-safety-driver/)
+| Horizon | Deployed |
+| Independent Sources Tracked | 1 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [High-Definition Mapping (HD Map)](/future/tech/high-definition-mapping-hd-map/)
-- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/)
+- [Robotaxi (Full City, No Safety Driver)](/future/tech/robotaxi-city-wide/)
+- [High-Definition Mapping (HD Map)](/future/tech/hd-mapping/)
+- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/sensor-fusion-av/)
 
 ## Investment Exposure
 

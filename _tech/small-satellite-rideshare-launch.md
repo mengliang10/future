@@ -8,7 +8,7 @@ confidence_label: Confirmed
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 11
+source_count: 1
 stocks: [RKLB]
 permalink: /tech/small-satellite-rideshare-launch/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/small-satellite-rideshare-launch/
 
 Dedicated and rideshare launches for smallsats — SpaceX Transporter, RocketLab. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+
+> SpaceX Transporter program completed 12+ dedicated rideshare missions ($5,500/kg to SSO); Rocket Lab Electron and Relativity Terran 1 offer dedicated smallsat launch. Over 3,000 smallsats deployed annually via rideshare. Market is mature with three competing providers offering routine, reliable access.
 
 ## Status
 
@@ -25,15 +27,16 @@ Deployed at commercial scale. Revenue-generating across the industry. Our resear
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.93** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 11 |
+| Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [LEO Satellite Internet Constellation](/future/tech/leo-satellite-internet-constellation/)
+- [LEO Satellite Internet Constellation](/future/tech/leo-satellite-internet/)
 
 ## Investment Exposure
 

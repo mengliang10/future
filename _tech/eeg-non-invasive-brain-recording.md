@@ -17,7 +17,9 @@ permalink: /tech/eeg-non-invasive-brain-recording/
 
 Scalp electrodes recording brain rhythms; consumer headsets available. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **1 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+
+> Standard clinical tool for epilepsy diagnosis, sleep studies, and brain-death determination since the 1960s; modern 256-channel research-grade systems from Brain Products and EGI achieve sub-millimeter source localization. Ubiquitous in hospitals globally.
 
 ## Status
 
@@ -25,15 +27,16 @@ Deployed at commercial scale. Revenue-generating across the industry. Our resear
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.98** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
 | Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Consumer Non-Invasive BCI Headset](/future/tech/consumer-non-invasive-bci-headset/)
+- [Consumer Non-Invasive BCI Headset](/future/tech/bci-consumer-non-invasive/)
 
 ## Investment Exposure
 

@@ -4,6 +4,8 @@ name: Northrop Grumman Corporation
 symbol: NOC
 exchange: NYSE
 categories: [Space Tech, Defence]
+timing_action: "FULL"
+regime: "TRENDING_DOWN"
 ---
 
 ## Investment Thesis

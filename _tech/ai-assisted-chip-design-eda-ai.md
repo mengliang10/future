@@ -4,11 +4,11 @@ title: "AI-Assisted Chip Design (EDA AI)"
 subtitle: "AI automating RTL, floorplan, and verification steps in semiconductor design"
 category: AI & Cloud
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2026
 est_year_range: "2025–2028"
 horizon: "Near-Term (Now–2026)"
-source_count: 69
+source_count: 4
 stocks: []
 permalink: /tech/ai-assisted-chip-design-eda-ai/
 ---
@@ -17,31 +17,33 @@ permalink: /tech/ai-assisted-chip-design-eda-ai/
 
 AI automating RTL, floorplan, and verification steps in semiconductor design.
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **69 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
+
+> RSS:In-situ correlative SEM/KPFM for semiconductor devices and 2D heterost | rel=0.41 | uid:b5fb6784e41f1410
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.12** |
 | Estimated Deployment | **2025–2028** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 69 |
+| Independent Sources Tracked | 4 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [1nm / A14 Process Node](/future/tech/1nm-a14-process-node/)
+- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-reasoning/)
+- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt4-class/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Software Engineering Agent](/future/tech/ai-software-engineering-agent/)
-- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/)
-- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt-4-class-1t-params/)
+- [1nm / A14 Process Node](/future/tech/1nm-process-node/)
 
 ## Investment Exposure
 

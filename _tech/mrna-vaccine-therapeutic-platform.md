@@ -8,7 +8,7 @@ confidence_label: Confirmed
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 4
+source_count: 1
 stocks: [MRNA, BNTX]
 permalink: /tech/mrna-vaccine-therapeutic-platform/
 ---
@@ -17,7 +17,9 @@ permalink: /tech/mrna-vaccine-therapeutic-platform/
 
 Programmable mRNA delivery for vaccines and protein replacement — Moderna, BioNTech. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+
+> Pfizer/BioNTech and Moderna COVID vaccines deployed to billions of doses proving platform safety; Moderna's RSV vaccine (mRESVIA) FDA approved May 2024; mRNA-4157 cancer vaccine combined with Keytruda in Phase 3 melanoma trial. Expansion to flu, CMV, and personalized cancer vaccines underway.
 
 ## Status
 
@@ -25,18 +27,19 @@ Deployed at commercial scale. Revenue-generating across the industry. Our resear
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.96** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-gene-therapy/)
+- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-therapy/)
 
 ## Investment Exposure
 
-[MRNA](/future/stocks/mrna/) [BNTX](/future/stocks/bntx/)
+[MRNA](/future/stocks/mrna/)  [BNTX](/future/stocks/bntx/)
 
 See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

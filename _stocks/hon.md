@@ -4,6 +4,7 @@ name: "Honeywell International"
 symbol: HON
 exchange: NASDAQ
 categories: [Robotics & Auto]
+node_count: 1
 ---
 
 ## Investment Thesis

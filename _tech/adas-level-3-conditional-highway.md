@@ -4,11 +4,11 @@ title: "ADAS Level 3 (Conditional Highway)"
 subtitle: "Driver can disengage in defined conditions — Mercedes DRIVE PILOT (legal in DE/NV)"
 category: Autonomous
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 10
+horizon: "Deployed"
+source_count: 7
 stocks: []
 permalink: /tech/adas-level-3-conditional-highway/
 ---
@@ -17,29 +17,32 @@ permalink: /tech/adas-level-3-conditional-highway/
 
 Driver can disengage in defined conditions — Mercedes DRIVE PILOT (legal in DE/NV). **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **10 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **7 independent sources** on this technology.
+
+> RSS:Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Acros | rel=0.47 | uid:b6a9e2252800baff
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.11** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 10 |
+| Horizon | Deployed |
+| Independent Sources Tracked | 7 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [Full Self-Driving Level 4 (Urban)](/future/tech/full-self-driving-level-4-urban/)
+- [ADAS Level 2 (Partial Automation)](/future/tech/adas-level-2/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [ADAS Level 2 (Partial Automation)](/future/tech/adas-level-2-partial-automation/)
+- [Full Self-Driving Level 4 (Urban)](/future/tech/full-self-driving-level-4/)
 
 ## Investment Exposure
 

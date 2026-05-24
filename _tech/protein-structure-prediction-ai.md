@@ -4,11 +4,11 @@ title: "Protein Structure Prediction (AI)"
 subtitle: "AlphaFold2/3 predicts folding from sequence; entire UniProt solved 2022"
 category: Biotech
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 12
+source_count: 10
 stocks: [GOOGL]
 permalink: /tech/protein-structure-prediction-ai/
 ---
@@ -17,24 +17,32 @@ permalink: /tech/protein-structure-prediction-ai/
 
 AlphaFold2/3 predicts folding from sequence; entire UniProt solved 2022. **Achieved.**
 
-Deployed at commercial scale. Revenue-generating across the industry. Our research database tracks **12 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **10 independent sources** on this technology.
+
+> RSS:WorldVLN: Autoregressive World Action Model for Aerial Vision-Language | rel=0.56 | uid:44c8d690144b81a0
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 12 |
+| Independent Sources Tracked | 10 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
 - [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/)
-- [Biology Foundation Model](/future/tech/biology-foundation-model/)
+
+## What This Enables
+
+Advancement here directly benefits or unblocks:
+
+- [Biology Foundation Model](/future/tech/foundation-model-biology/)
 
 ## Investment Exposure
 

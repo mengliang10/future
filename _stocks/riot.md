@@ -4,6 +4,8 @@ name: Riot Platforms Inc.
 symbol: RIOT
 exchange: NASDAQ
 categories: [Blockchain, Mining]
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

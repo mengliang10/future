@@ -4,11 +4,11 @@ title: "Full Warehouse Automation"
 subtitle: "Fully automated pick-pack-ship with mobile robots — Symbotic, AutoStore, Ocado"
 category: Robotics
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2027
 est_year_range: "2025–2030"
-horizon: "Short-Term (2027–2028)"
-source_count: 6
+horizon: "Near-Term (2027–2028)"
+source_count: 5
 stocks: [SYM]
 permalink: /tech/full-warehouse-automation/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/full-warehouse-automation/
 
 Fully automated pick-pack-ship with mobile robots — Symbotic, AutoStore, Ocado.
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **6 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **5 independent sources** on this technology.
+
+> RSS:Beyond Collision Avoidance: Multi-Robot Yielding and Spatial Affordanc | rel=0.38 | uid:2b1320c3c2e30ab9
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2025–2030** |
-| Horizon | Short-Term (2027–2028) |
-| Independent Sources Tracked | 6 |
+| Horizon | Near-Term (2027–2028) |
+| Independent Sources Tracked | 5 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Post-Scarcity Robotic Manufacturing](/future/tech/post-scarcity-robotic-manufacturing/)
+- [Post-Scarcity Robotic Manufacturing](/future/tech/robot-post-scarcity/)
 
 ## Investment Exposure
 

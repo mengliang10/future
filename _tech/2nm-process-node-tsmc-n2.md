@@ -4,12 +4,12 @@ title: "2nm Process Node (TSMC N2)"
 subtitle: "Leading-edge silicon node; volume production 2025 — TSMC N2, Samsung SF2"
 category: Semiconductors
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2025
-est_year_range: "2025"
-horizon: "Near-Term (Now–2026)"
-source_count: 11
-stocks: [TSM, ASML, AMAT, KLAC, LRCX, ARM, INTC]
+est_year_range: ""
+horizon: "Deployed"
+source_count: 1
+stocks: [TSM, ASML, AMAT, KLAC, LRCX]
 permalink: /tech/2nm-process-node-tsmc-n2/
 ---
 
@@ -17,35 +17,38 @@ permalink: /tech/2nm-process-node-tsmc-n2/
 
 Leading-edge silicon node; volume production 2025 — TSMC N2, Samsung SF2. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **11 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+
+> RSS:Off-line quantum-advantage feature extraction for industrial productio | rel=0.53 | uid:e8b7adee87634609
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Estimated Deployment | **2025** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 11 |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.28** |
+| Estimated Deployment | **Ongoing / Deployed** |
+| Horizon | Deployed |
+| Independent Sources Tracked | 1 |
 
 ## Prerequisites
 
 This technology depends on or is closely linked to:
 
-- [1nm / A14 Process Node](/future/tech/1nm-a14-process-node/)
-- [6G Extreme-MIMO (X-MIMO) 7 GHz Network](/future/tech/6g-extreme-mimo-x-mimo-7-ghz-network/)
-- [AI Hardware ASIC (TPU/NPU/Trainium)](/future/tech/ai-hardware-asic-tpunputrainium/)
+- [6G Extreme-MIMO (X-MIMO) 7 GHz Network](/future/tech/6g-xmimo-7ghz/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [EUV Lithography (13.5nm)](/future/tech/euv-lithography-135nm/)
-- [Gate-All-Around FET (MBCFET/NSFET)](/future/tech/gate-all-around-fet-mbcfetnsfet/)
+- [1nm / A14 Process Node](/future/tech/1nm-process-node/)
+- [AI Hardware ASIC (TPU/NPU/Trainium)](/future/tech/ai-hardware-asic/)
+- [EUV Lithography (13.5nm)](/future/tech/euv-lithography/)
+- [Gate-All-Around FET (MBCFET/NSFET)](/future/tech/gaafet-transistor/)
 
 ## Investment Exposure
 
-[TSM](/future/stocks/tsm/) [ASML](/future/stocks/asml/) [AMAT](/future/stocks/amat/) [KLAC](/future/stocks/klac/) [LRCX](/future/stocks/lrcx/) [ARM](/future/stocks/arm/) [INTC](/future/stocks/intc/)
+[TSM](/future/stocks/tsm/)  [ASML](/future/stocks/asml/)  [AMAT](/future/stocks/amat/)  [KLAC](/future/stocks/klac/)  [LRCX](/future/stocks/lrcx/)
 
 See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

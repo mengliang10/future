@@ -4,6 +4,9 @@ name: MicroStrategy Inc. (Strategy)
 symbol: MSTR
 exchange: NASDAQ
 categories: [Blockchain, Bitcoin]
+node_count: 1
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

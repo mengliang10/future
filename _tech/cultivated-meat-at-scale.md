@@ -4,11 +4,11 @@ title: "Cultivated Meat at Scale"
 subtitle: "Animal muscle grown in bioreactors without slaughter; FDA approved 2023 (limited)"
 category: Biotech
 stage: pilot
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 2030
 est_year_range: "2027–2036"
-horizon: "Medium-Term (2029–2032)"
-source_count: 3
+horizon: "Medium-Term (2029–2030)"
+source_count: 2
 stocks: []
 permalink: /tech/cultivated-meat-at-scale/
 ---
@@ -17,24 +17,27 @@ permalink: /tech/cultivated-meat-at-scale/
 
 Animal muscle grown in bioreactors without slaughter; FDA approved 2023 (limited).
 
-Real-world pilot deployments with commercial customers. Pre-mass production. Our research database tracks **3 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **2 independent sources** on this technology.
+
+> RSS:Hierarchical and Holistic Open-Vocabulary Functional 3D Scene Graphs f | rel=0.38 | uid:89c49f1a16eff5e8
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Pilot** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Development Stage | **Pilot / Limited Deployment** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.09** |
 | Estimated Deployment | **2027–2036** |
-| Horizon | Medium-Term (2029–2032) |
-| Independent Sources Tracked | 3 |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 2 |
 
-## What This Enables
+## Prerequisites
 
-Advancement here directly benefits or unblocks:
+This technology depends on or is closely linked to:
 
 - [CRISPR Base Editing](/future/tech/crispr-base-editing/)
-- [Organ-on-Chip (Microphysiological)](/future/tech/organ-on-chip-microphysiological/)
+- [Organ-on-Chip (Microphysiological)](/future/tech/organ-on-chip/)
 
 ## Investment Exposure
 

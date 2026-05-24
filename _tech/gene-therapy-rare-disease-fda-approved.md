@@ -4,10 +4,10 @@ title: "Gene Therapy (Rare Disease, FDA Approved)"
 subtitle: "AAV-delivered gene replacement for monogenic disorders — SMA (Zolgensma), hemophilia"
 category: Biotech
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Confirmed
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
+horizon: "Deployed"
 source_count: 1
 stocks: []
 permalink: /tech/gene-therapy-rare-disease-fda-approved/
@@ -17,23 +17,26 @@ permalink: /tech/gene-therapy-rare-disease-fda-approved/
 
 AAV-delivered gene replacement for monogenic disorders — SMA (Zolgensma), hemophilia. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **1 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+
+> Luxturna (RPE65 blindness, 2017), Zolgensma (SMA, 2019), Hemgenix (hemophilia B, 2022), and Elevidys (DMD, 2023) all FDA-approved and commercially available. Pipeline of 50+ AAV-based gene therapies in Phase 3 trials.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.93** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
+| Horizon | Deployed |
 | Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-gene-therapy/)
+- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-therapy/)
 
 ## Investment Exposure
 

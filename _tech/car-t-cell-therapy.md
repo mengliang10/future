@@ -4,11 +4,11 @@ title: "CAR-T Cell Therapy"
 subtitle: "Engineered T-cells targeting cancer antigens; curative in some blood cancers"
 category: Biotech
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Confirmed
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 7
+horizon: "Deployed"
+source_count: 1
 stocks: []
 permalink: /tech/car-t-cell-therapy/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/car-t-cell-therapy/
 
 Engineered T-cells targeting cancer antigens; curative in some blood cancers. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **7 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+
+> Six FDA-approved CAR-T products (Kymriah, Yescarta, Tecartus, Breyanzi, Abecma, Carvykti) treating leukemia, lymphoma, and multiple myeloma; 30K+ patients treated globally. Complete remission rates 40-90% depending on indication.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.96** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 7 |
+| Horizon | Deployed |
+| Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Cancer Elimination (Most Types)](/future/tech/cancer-elimination-most-types/)
+- [Cancer Elimination (Most Types)](/future/tech/disease-elimination-cancer/)
 
 ## Investment Exposure
 

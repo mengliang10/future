@@ -4,11 +4,11 @@ title: "Commercial Lunar Lander"
 subtitle: "Commercially developed lunar landers — Intuitive Machines IM-1 landed Feb 2024"
 category: Space Tech
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
-horizon: "Timeline TBD"
-source_count: 5
+horizon: "Deployed"
+source_count: 1
 stocks: [LUNR]
 permalink: /tech/commercial-lunar-lander/
 ---
@@ -17,23 +17,26 @@ permalink: /tech/commercial-lunar-lander/
 
 Commercially developed lunar landers — Intuitive Machines IM-1 landed Feb 2024. **Achieved.**
 
-Crossed from research to commercial deployment — identifiable revenue, limited scale. Our research database tracks **5 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+
+> RSS:Off-line quantum-advantage feature extraction for industrial productio | rel=0.69 | uid:e8b7adee87634609
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.36** |
 | Estimated Deployment | **Ongoing / Deployed** |
-| Horizon | Timeline TBD |
-| Independent Sources Tracked | 5 |
+| Horizon | Deployed |
+| Independent Sources Tracked | 1 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Permanent Lunar Surface Base](/future/tech/permanent-lunar-surface-base/)
+- [Permanent Lunar Surface Base](/future/tech/lunar-surface-base/)
 
 ## Investment Exposure
 

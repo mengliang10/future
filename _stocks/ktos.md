@@ -4,6 +4,8 @@ name: Kratos Defence & Security Solutions
 symbol: KTOS
 exchange: NASDAQ
 categories: [Space Tech, Defence, Drones]
+timing_action: "FULL"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis
