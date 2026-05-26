@@ -5,10 +5,14 @@ subtitle: "Attention-based neural network (Vaswani 2017) underlying all modern L
 category: AI & Cloud
 stage: mass_production
 confidence_label: Speculative
+confidence_score: 0.140
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 8
+timeline_confidence: 99
+monetizable_year: "Now (deployed)"
+monetizable_confidence: 94
+source_count: 12
 stocks: []
 permalink: /tech/transformer-architecture/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/transformer-architecture/
 
 Attention-based neural network (Vaswani 2017) underlying all modern LLMs. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **8 independent sources** on this technology.
-
-> RSS:Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Desig | rel=0.91 | uid:46528ba218b2e4ec
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **12 independent sources** on this technology.
 
 ## Status
 
@@ -27,18 +29,21 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.15** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.140** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **99%** |
+| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
 | Horizon | Deployed |
-| Independent Sources Tracked | 8 |
+| Independent Sources Tracked | 12 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 99% |
+| Commercially Monetizable | **Now (deployed)** | 94% |
 
-- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt4-class/)
-- [Long Context Window (1M+ tokens)](/future/tech/long-context-window/)
-- [GPU Compute Cluster](/future/tech/gpu-compute-cluster/)
+High timing confidence (99%) — multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

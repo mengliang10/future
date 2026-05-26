@@ -5,11 +5,17 @@ subtitle: "OS for 3D spatial interfaces — Apple visionOS, Meta Horizon OS"
 category: XR
 stage: early_commercial
 confidence_label: Speculative
+confidence_score: 0.185
 est_year: 2025
-est_year_range: ""
-horizon: "Near-Term (Now–2026)"
+est_year_range: "2025"
+horizon: "Near-Term (Now)"
+timeline_confidence: 85
+monetizable_year: "2026"
+monetizable_confidence: 81
 source_count: 2
 stocks: [AAPL]
+lead_stock: AAPL
+lead_stock_confidence: 90
 permalink: /tech/spatial-computing-os/
 ---
 
@@ -19,33 +25,43 @@ OS for 3D spatial interfaces — Apple visionOS, Meta Horizon OS.
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
 
-> RSS:Control-Plane Openness in Near-Term Quantum Computing: A Survey of Ven | rel=0.59 | uid:aa4b5d1617bcf356
-
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.18** |
-| Estimated Deployment | **2025–2026** |
-| Horizon | Near-Term (Now–2026) |
+| Confidence Score | **+0.185** |
+| Estimated Reality | **2025–2026** |
+| Timeline Confidence | **85%** |
+| Monetizable By | **2026** *(est. confidence: 81%)* |
+| Horizon | Near-Term (Now) |
 | Independent Sources Tracked | 2 |
 
-## Prerequisites
+## Market Race
 
-This technology depends on or is closely linked to:
+**Clear Leader: [AAPL](/future/stocks/aapl/)** — 90% exposure confidence  
+**Position:** Direct pure-play  
 
-- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-glasses-consumer/)
+*visionOS — spatial computing OS for Vision Pro*
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2025–2026** | 85% |
+| Commercially Monetizable | **2026** | 81% |
+
+High timing confidence (85%) — multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [XR Enterprise Workflow Tools](/future/tech/xr-enterprise-workflow/)
+- [XR Enterprise Workflow Tools](/future/tech/xr-enterprise-workflow-tools/) — *enables*
 
 ## Investment Exposure
 
 [AAPL](/future/stocks/aapl/)
 
-See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.
+See each stock page for revenue drivers, milestones, and risk factors.

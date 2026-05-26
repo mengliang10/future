@@ -5,11 +5,17 @@ subtitle: "Logical qubit from many physical; ~1000 physical per logical qubit ne
 category: Quantum
 stage: prototype
 confidence_label: Speculative
+confidence_score: 0.155
 est_year: 2026
 est_year_range: "2026–2032"
-horizon: "Near-Term (Now–2026)"
-source_count: 30
+horizon: "Near-Term (Now)"
+timeline_confidence: 65
+monetizable_year: "2029"
+monetizable_confidence: 56
+source_count: 48
 stocks: [IBM, MSFT, NVDA]
+lead_stock: IBM
+lead_stock_confidence: 75
 permalink: /tech/quantum-error-correction-surface-code/
 ---
 
@@ -17,9 +23,7 @@ permalink: /tech/quantum-error-correction-surface-code/
 
 Logical qubit from many physical; ~1000 physical per logical qubit needed.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **30 independent sources** on this technology.
-
-> RSS:Synthesis and Optimization of Encoding Circuits for Fault-Tolerant Qua | rel=0.72 | uid:d19725afe11a70b2
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **48 independent sources** on this technology.
 
 ## Status
 
@@ -27,28 +31,44 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.15** |
-| Estimated Deployment | **2026–2032** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 30 |
+| Confidence Score | **+0.155** |
+| Estimated Reality | **2026–2032** |
+| Timeline Confidence | **65%** |
+| Monetizable By | **2029** *(est. confidence: 56%)* |
+| Horizon | Near-Term (Now) |
+| Independent Sources Tracked | 48 |
 
-## Prerequisites
+## Market Race
 
-This technology depends on or is closely linked to:
+**Head-to-Head Race** — 2 companies with meaningful exposure
 
-- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-quantum-1000q/)
-- [Superconducting Qubit](/future/tech/superconducting-qubit/)
-- [Topological Qubit (Majorana Fermion)](/future/tech/topological-qubit/)
-- [Trapped Ion Qubit](/future/tech/trapped-ion-qubit/)
+| Ticker | Company | Confidence | Position | Thesis |
+|--------|---------|-----------|----------|--------|
+| [IBM](/future/stocks/ibm/) | IBM Corporation | 75% | DIRECT | Demonstrated logical qubit improvement 2024 **← Leader** |
+| [MSFT](/future/stocks/msft/) | Microsoft Corporation | 55% | DIRECT | Topological qubit program; Azure Quantum |
+
+**Current leader:** [IBM](/future/stocks/ibm/) with **75%** exposure confidence based on our research.
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2026–2032** | 65% |
+| Commercially Monetizable | **2029** | 56% |
+
+Moderate timing confidence (65%) — roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [PQC Enterprise Deployment](/future/tech/post-quantum-crypto-deployed/)
+- [PQC Enterprise Deployment](/future/tech/pqc-enterprise-deployment/) — *accelerates*
+- [Quantum-Enhanced Semiconductor Design](/future/tech/quantum-enhanced-semiconductor-design/) — *synergises with*
+- [Quantum Protein Folding Solver](/future/tech/quantum-protein-folding-solver/) — *synergises with*
+- [Quantum Key Distribution Network](/future/tech/quantum-key-distribution-network/) — *synergises with*
 
 ## Investment Exposure
 
 [IBM](/future/stocks/ibm/)  [MSFT](/future/stocks/msft/)  [NVDA](/future/stocks/nvda/)
 
-See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.
+See each stock page for revenue drivers, milestones, and risk factors.

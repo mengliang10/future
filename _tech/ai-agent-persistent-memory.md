@@ -5,9 +5,13 @@ subtitle: "AI Agent Persistent Memory"
 category: AI & Cloud
 stage: basic_research
 confidence_label: Confident
+confidence_score: 0.125
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
+timeline_confidence: 0
+monetizable_year: "2035+"
+monetizable_confidence: 9
 source_count: 1
 stocks: []
 permalink: /tech/ai-agent-persistent-memory/
@@ -19,7 +23,7 @@ AI Agent Persistent Memory.
 
 Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
 
-> Anthropic Claude computer-use agent and OpenAI Operator both demonstrated persistent context across sessions in production; LangChain and MemGPT frameworks ship long-term memory backends to thousands of developers. Still maturing in reliability — hallucinations in retrieved memory reduce enterprise trust.
+*Primary unsolved bottleneck for autonomous agents; episodic vs semantic memory, cross-session retention*
 
 ## Status
 
@@ -27,23 +31,27 @@ Fundamental research phase — concept established, practical implementation rem
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.75** |
-| Estimated Deployment | **TBD** |
+| Confidence Score | **+0.125** |
+| Estimated Reality | **TBD** |
+| Monetizable By | **2035+** *(est. confidence: 9%)* |
 | Horizon | Timeline TBD |
 | Independent Sources Tracked | 1 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **TBD** | 0% |
+| Commercially Monetizable | **2035+** | 9% |
 
-- [Long Context Window (1M+ tokens)](/future/tech/long-context-window/)
+Timeline not yet established — depends on research breakthroughs that are not yet predictable.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Autonomous AI Agent](/future/tech/ai-agent-autonomous/)
-- [AI Agent Swarms](/future/tech/ai-agent-swarms/)
+- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/) — *enables*
+- [AI Agent Swarms](/future/tech/ai-agent-swarms/) — *accelerates*
 
 ## Investment Exposure
 

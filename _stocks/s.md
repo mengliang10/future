@@ -4,6 +4,7 @@ name: "SentinelOne Inc."
 symbol: S
 exchange: NYSE
 categories: [Cybersecurity, AI]
+node_count: 1
 ---
 
 ## Investment Thesis

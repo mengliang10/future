@@ -5,10 +5,14 @@ subtitle: "Yamanaka factor-based reset of epigenetic age — Altos Labs, Calico 
 category: Biotech
 stage: proof_of_concept
 confidence_label: Speculative
+confidence_score: 0.098
 est_year: 2033
 est_year_range: "2028–2040"
-horizon: "Medium-Term (2031–2035)"
-source_count: 1
+horizon: "Long-Term (2033)"
+timeline_confidence: 35
+monetizable_year: "2038"
+monetizable_confidence: 33
+source_count: 3
 stocks: []
 permalink: /tech/partial-epigenetic-reprogramming/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/partial-epigenetic-reprogramming/
 
 Yamanaka factor-based reset of epigenetic age — Altos Labs, Calico research.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **1 independent source** on this technology.
-
-> David Sinclair lab and Altos Labs demonstrated OSK-factor partial reprogramming reverses epigenetic age in mice and restores vision in glaucoma/aging models; no human trials yet. Turn Biotechnologies in preclinical stage. Basic research — mechanism of action poorly understood.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **3 independent sources** on this technology.
 
 ## Status
 
@@ -27,16 +29,21 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.28** |
-| Estimated Deployment | **2028–2040** |
-| Horizon | Medium-Term (2031–2035) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.098** |
+| Estimated Reality | **2028–2040** |
+| Timeline Confidence | **35%** |
+| Monetizable By | **2038** *(est. confidence: 33%)* |
+| Horizon | Long-Term (2033) |
+| Independent Sources Tracked | 3 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2028–2040** | 35% |
+| Commercially Monetizable | **2038** | 33% |
 
-- [Partial Biological Aging Reversal](/future/tech/aging-reversal-partial/)
+Low timing confidence (35%) — timeline is speculative; watch for milestone announcements.
 
 ## Investment Exposure
 

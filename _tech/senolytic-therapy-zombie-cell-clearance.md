@@ -5,10 +5,14 @@ subtitle: "Drugs selectively clearing senescent cells to slow aging hallmarks"
 category: Biotech
 stage: pilot
 confidence_label: Speculative
+confidence_score: 0.201
 est_year: 2029
 est_year_range: "2026–2034"
-horizon: "Medium-Term (2029–2030)"
-source_count: 1
+horizon: "Mid-Term (2029)"
+timeline_confidence: 55
+monetizable_year: "2031"
+monetizable_confidence: 58
+source_count: 4
 stocks: []
 permalink: /tech/senolytic-therapy-zombie-cell-clearance/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/senolytic-therapy-zombie-cell-clearance/
 
 Drugs selectively clearing senescent cells to slow aging hallmarks.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
-
-> Unity Biotechnology UBX0101 failed Phase 2 for osteoarthritis (2020), pivoted to ophthalmology; dasatinib+quercetin combination showed reduced senescent cell burden in small human trials (Mayo Clinic, 2023-2025). No FDA-approved senolytic. Mixed efficacy signals — field still in translational stage.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **4 independent sources** on this technology.
 
 ## Status
 
@@ -27,22 +29,27 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.38** |
-| Estimated Deployment | **2026–2034** |
-| Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.201** |
+| Estimated Reality | **2026–2034** |
+| Timeline Confidence | **55%** |
+| Monetizable By | **2031** *(est. confidence: 58%)* |
+| Horizon | Mid-Term (2029) |
+| Independent Sources Tracked | 4 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2026–2034** | 55% |
+| Commercially Monetizable | **2031** | 58% |
 
-- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/)
+Moderate timing confidence (55%) — roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Partial Biological Aging Reversal](/future/tech/aging-reversal-partial/)
+- [Partial Biological Aging Reversal](/future/tech/partial-biological-aging-reversal/) — *enables*
 
 ## Investment Exposure
 

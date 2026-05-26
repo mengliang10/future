@@ -5,10 +5,14 @@ subtitle: "Private orbital stations — Axiom Space modules, Starlab, Orbital Re
 category: Space Tech
 stage: proof_of_concept
 confidence_label: Speculative
+confidence_score: 0.158
 est_year: 2030
 est_year_range: "2028–2035"
-horizon: "Medium-Term (2029–2030)"
-source_count: 1
+horizon: "Mid-Term (2030)"
+timeline_confidence: 55
+monetizable_year: "2035"
+monetizable_confidence: 43
+source_count: 13
 stocks: []
 permalink: /tech/commercial-space-station-post-iss/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/commercial-space-station-post-iss/
 
 Private orbital stations — Axiom Space modules, Starlab, Orbital Reef.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **1 independent source** on this technology.
-
-> RSS:Deep Tech to Space: Space Data Centers and AI Revolution at the Edge | rel=0.59 | uid:4296a1cc72ae2d7f
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **13 independent sources** on this technology.
 
 ## Status
 
@@ -27,17 +29,21 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.15** |
-| Estimated Deployment | **2028–2035** |
-| Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.158** |
+| Estimated Reality | **2028–2035** |
+| Timeline Confidence | **55%** |
+| Monetizable By | **2035** *(est. confidence: 43%)* |
+| Horizon | Mid-Term (2030) |
+| Independent Sources Tracked | 13 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2028–2035** | 55% |
+| Commercially Monetizable | **2035** | 43% |
 
-- [In-Space Manufacturing](/future/tech/in-space-manufacturing/)
-- [Commercial Suborbital Space Tourism](/future/tech/space-tourism-suborbital/)
+Moderate timing confidence (55%) — roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

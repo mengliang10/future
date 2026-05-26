@@ -5,10 +5,14 @@ subtitle: "RP-1/LOX and LH2/LOX engines powering orbital launch vehicles"
 category: Space Tech
 stage: mass_production
 confidence_label: Confirmed
+confidence_score: 0.120
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 1
+timeline_confidence: 99
+monetizable_year: "Now (deployed)"
+monetizable_confidence: 94
+source_count: 2
 stocks: []
 permalink: /tech/liquid-rocket-propulsion-rp-1lox/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/liquid-rocket-propulsion-rp-1lox/
 
 RP-1/LOX and LH2/LOX engines powering orbital launch vehicles. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
-
-> RP-1/LOX rocket engines (Merlin 1D, RD-180, F-1) are the most flown liquid propulsion system in history; 3,000+ Merlin engines flown with 99.9%+ reliability on Falcon 9. Technology dates to 1950s Atlas and Titan programs — fully mature with deep operational heritage.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
 
 ## Status
 
@@ -27,16 +29,27 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.98** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.120** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **99%** |
+| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 2 |
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 99% |
+| Commercially Monetizable | **Now (deployed)** | 94% |
+
+High timing confidence (99%) — multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Rocket First-Stage Reusability](/future/tech/rocket-first-stage-reuse/)
+- [Rocket First-Stage Reusability](/future/tech/rocket-first-stage-reusability/) ✓ — *enables*
 
 ## Investment Exposure
 

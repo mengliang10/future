@@ -5,10 +5,14 @@ subtitle: "Renewable-powered hydrogen reaching cost parity with grey hydrogen"
 category: Energy Tech
 stage: pilot
 confidence_label: Speculative
+confidence_score: 0.159
 est_year: 2030
 est_year_range: "2028–2037"
-horizon: "Medium-Term (2029–2030)"
-source_count: 1
+horizon: "Mid-Term (2030)"
+timeline_confidence: 45
+monetizable_year: "2032"
+monetizable_confidence: 53
+source_count: 5
 stocks: []
 permalink: /tech/green-hydrogen-2kg-via-electrolysis/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/green-hydrogen-2kg-via-electrolysis/
 
 Renewable-powered hydrogen reaching cost parity with grey hydrogen.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
-
-> Green hydrogen production cost via PEM electrolysis remains $3.50-7.00/kg depending on electricity price and capacity factor. DOE Hydrogen Shot targets $1/kg by 2031 (not yet met). Chinese alkaline electrolyzer capex dropping ($250/kW by 2025) but operating cost dominated by renewable electricity price — $0.02/kWh needed to hit $2/kg.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **5 independent sources** on this technology.
 
 ## Status
 
@@ -27,23 +29,27 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.22** |
-| Estimated Deployment | **2028–2037** |
-| Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.159** |
+| Estimated Reality | **2028–2037** |
+| Timeline Confidence | **45%** |
+| Monetizable By | **2032** *(est. confidence: 53%)* |
+| Horizon | Mid-Term (2030) |
+| Independent Sources Tracked | 5 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2028–2037** | 45% |
+| Commercially Monetizable | **2032** | 53% |
 
-- [Enhanced Geothermal Systems (EGS)](/future/tech/enhanced-geothermal/)
-- [Lithium-Ion Battery](/future/tech/lithium-ion-battery/)
+Low timing confidence (45%) — timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Hydrogen Fuel Cell (PEM)](/future/tech/hydrogen-fuel-cell/)
+- [Hydrogen Fuel Cell (PEM)](/future/tech/hydrogen-fuel-cell-pem/) ✓ — *enables*
 
 ## Investment Exposure
 

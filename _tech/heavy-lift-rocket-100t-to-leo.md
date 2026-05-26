@@ -5,10 +5,14 @@ subtitle: "Rockets lifting 100+ metric tons to LEO — Starship (150t), SLS (95t
 category: Space Tech
 stage: pilot
 confidence_label: Researching
+confidence_score: 0.154
 est_year: 2026
-est_year_range: ""
-horizon: "Near-Term (Now–2026)"
-source_count: 1
+est_year_range: "2026"
+horizon: "Near-Term (Now)"
+timeline_confidence: 82
+monetizable_year: "2028"
+monetizable_confidence: 72
+source_count: 4
 stocks: []
 permalink: /tech/heavy-lift-rocket-100t-to-leo/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/heavy-lift-rocket-100t-to-leo/
 
 Rockets lifting 100+ metric tons to LEO — Starship (150t), SLS (95t).
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
-
-> Starship designed for 100-150t to LEO in reusable mode; first payload deployment demonstrated on Flight 7 (January 2026) with 10 Starlink v3 simulators deployed. No paying customer payload flown yet. SLS Block 1 demonstrated 95t to TLI (Artemis I, 2022). Falcon Heavy can lift 64t to LEO. 100t milestone not yet reached in operational service.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **4 independent sources** on this technology.
 
 ## Status
 
@@ -27,19 +29,21 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
-| Confidence Score | **+0.52** |
-| Estimated Deployment | **2026–2028** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.154** |
+| Estimated Reality | **2026–2028** |
+| Timeline Confidence | **82%** |
+| Monetizable By | **2028** *(est. confidence: 72%)* |
+| Horizon | Near-Term (Now) |
+| Independent Sources Tracked | 4 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2026–2028** | 82% |
+| Commercially Monetizable | **2028** | 72% |
 
-- [Permanent Lunar Surface Base](/future/tech/lunar-surface-base/)
-- [Crewed Mars Mission](/future/tech/mars-crewed-mission/)
-- [Space-Based Solar Power (SBSP)](/future/tech/space-based-solar-power/)
-- [Full Rocket Reusability (Starship)](/future/tech/rocket-full-reusability/)
+High timing confidence (82%) — multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

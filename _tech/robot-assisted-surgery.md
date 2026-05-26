@@ -5,11 +5,17 @@ subtitle: "Telemanipulation surgical systems — Intuitive da Vinci, Medtronic H
 category: Robotics
 stage: mass_production
 confidence_label: Speculative
+confidence_score: 0.136
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+timeline_confidence: 99
+monetizable_year: "Now (deployed)"
+monetizable_confidence: 94
+source_count: 4
 stocks: [ISRG]
+lead_stock: ISRG
+lead_stock_confidence: 95
 permalink: /tech/robot-assisted-surgery/
 ---
 
@@ -17,9 +23,7 @@ permalink: /tech/robot-assisted-surgery/
 
 Telemanipulation surgical systems — Intuitive da Vinci, Medtronic Hugo, CMR Versius. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
-
-> RSS:Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 System | rel=0.62 | uid:e51978402fbf443c
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
 
 ## Status
 
@@ -27,19 +31,31 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.16** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.136** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **99%** |
+| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 4 |
 
-## Prerequisites
+## Market Race
 
-This technology depends on or is closely linked to:
+**Clear Leader: [ISRG](/future/stocks/isrg/)** — 95% exposure confidence  
+**Position:** Direct pure-play  
 
-- [Dexterous Robot Hand](/future/tech/dexterous-robot-hand/)
+*da Vinci — 80%+ soft tissue surgical robot market*
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 99% |
+| Commercially Monetizable | **Now (deployed)** | 94% |
+
+High timing confidence (99%) — multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 
 [ISRG](/future/stocks/isrg/)
 
-See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.
+See each stock page for revenue drivers, milestones, and risk factors.

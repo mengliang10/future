@@ -5,8 +5,7 @@ symbol: MRVL
 exchange: NASDAQ
 categories: [Semiconductors]
 node_count: 2
-timing_action: "HALF"
-regime: "HIGH_VOL"
+bottleneck_count: 1
 ---
 
 ## Investment Thesis

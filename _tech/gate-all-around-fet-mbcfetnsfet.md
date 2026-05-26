@@ -5,11 +5,17 @@ subtitle: "Gate surrounding channel on all sides; successor to FinFET at 2–3nm
 category: Semiconductors
 stage: early_commercial
 confidence_label: Confirmed
+confidence_score: 0.133
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
+timeline_confidence: 98
+monetizable_year: "Now–2027"
+monetizable_confidence: 88
 source_count: 1
-stocks: [TSM]
+stocks: [TSM, INTC]
+lead_stock: TSM
+lead_stock_confidence: 95
 permalink: /tech/gate-all-around-fet-mbcfetnsfet/
 ---
 
@@ -19,34 +25,47 @@ Gate surrounding channel on all sides; successor to FinFET at 2–3nm. **Achieve
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
 
-> Samsung 3nm GAA (MBCFET) in production since June 2022 with second-gen node (SF3) yielding 70%+; TSMC N2 nanosheet GAA risk production started H2 2024, volume production ramping 2025. Intel 20A/18A RibbonFET (GAA) on track for 2025-2026. GAA replaces FinFET across all three leading-edge foundries.
-
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.89** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.133** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **98%** |
+| Monetizable By | **Now–2027** *(est. confidence: 88%)* |
 | Horizon | Deployed |
 | Independent Sources Tracked | 1 |
 
-## Prerequisites
+## Market Race
 
-This technology depends on or is closely linked to:
+**Head-to-Head Race** — 2 companies with meaningful exposure
 
-- [2nm Process Node (TSMC N2)](/future/tech/2nm-process-node/)
-- [FinFET Transistor (3D Gate)](/future/tech/finfet-transistor/)
+| Ticker | Company | Confidence | Position | Thesis |
+|--------|---------|-----------|----------|--------|
+| [TSM](/future/stocks/tsm/) | Taiwan Semiconductor Mfg. | 95% | DIRECT | N2 uses MBCFET GAA transistors **← Leader** |
+| [INTC](/future/stocks/intc/) | Intel Corporation | 80% | primary | Intel 20A/18A process uses RibbonFET (GAA transistors) — first deployment b |
+
+**Current leader:** [TSM](/future/stocks/tsm/) with **95%** exposure confidence based on our research.
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 98% |
+| Commercially Monetizable | **Now–2027** | 88% |
+
+High timing confidence (98%) — multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Neuromorphic Computing Chip](/future/tech/neuromorphic-chip/)
+- [Neuromorphic Computing Chip](/future/tech/neuromorphic-computing-chip/) — *enables*
 
 ## Investment Exposure
 
-[TSM](/future/stocks/tsm/)
+[TSM](/future/stocks/tsm/)  [INTC](/future/stocks/intc/)
 
-See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.
+See each stock page for revenue drivers, milestones, and risk factors.

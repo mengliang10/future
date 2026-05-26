@@ -5,10 +5,14 @@ subtitle: "Next-gen solar absorber; tandem with silicon approaching 33% lab effi
 category: Energy Tech
 stage: prototype
 confidence_label: Speculative
+confidence_score: 0.228
 est_year: 2029
 est_year_range: "2026–2034"
-horizon: "Medium-Term (2029–2030)"
-source_count: 1
+horizon: "Mid-Term (2029)"
+timeline_confidence: 60
+monetizable_year: "2032"
+monetizable_confidence: 54
+source_count: 7
 stocks: []
 permalink: /tech/perovskite-solar-cell-30-eff/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/perovskite-solar-cell-30-eff/
 
 Next-gen solar absorber; tandem with silicon approaching 33% lab efficiency.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **1 independent source** on this technology.
-
-> RSS:Chemo-mechanical coupling stabilizes mixed $\mathrm{Ag}_{x}\mathrm{Cu} | rel=0.53 | uid:7a23481914631f46
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **7 independent sources** on this technology.
 
 ## Status
 
@@ -27,22 +29,27 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.17** |
-| Estimated Deployment | **2026–2034** |
-| Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.228** |
+| Estimated Reality | **2026–2034** |
+| Timeline Confidence | **60%** |
+| Monetizable By | **2032** *(est. confidence: 54%)* |
+| Horizon | Mid-Term (2029) |
+| Independent Sources Tracked | 7 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2026–2034** | 60% |
+| Commercially Monetizable | **2032** | 54% |
 
-- [AI Materials Discovery](/future/tech/ai-materials-discovery/)
+Moderate timing confidence (60%) — roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Solar <$0.01/kWh LCOE](/future/tech/solar-below-1cent-kwh/)
+- [Solar <$0.01/kWh LCOE](/future/tech/solar-001kwh-lcoe/) — *accelerates*
 
 ## Investment Exposure
 

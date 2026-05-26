@@ -4,6 +4,7 @@ name: "Joby Aviation Inc."
 symbol: JOBY
 exchange: NYSE
 categories: [Autonomous, Space Tech]
+node_count: 1
 ---
 
 ## Investment Thesis

@@ -5,8 +5,6 @@ symbol: SMR
 exchange: NYSE
 categories: [Nuclear Energy, Future Energy]
 node_count: 1
-timing_action: "FULL"
-regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

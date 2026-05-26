@@ -5,11 +5,17 @@ subtitle: "Addressable streaming TV ads via DSP/SSP — The Trade Desk, Magnite"
 category: Marketing Tech
 stage: early_commercial
 confidence_label: Confirmed
+confidence_score: 0.920
 est_year: 2025
-est_year_range: ""
-horizon: "Near-Term (Now–2026)"
-source_count: 1
+est_year_range: "2025"
+horizon: "Near-Term (Now)"
+timeline_confidence: 90
+monetizable_year: "2026"
+monetizable_confidence: 84
+source_count: 0
 stocks: [TTD]
+lead_stock: TTD
+lead_stock_confidence: 92
 permalink: /tech/connected-tv-programmatic-advertising/
 ---
 
@@ -17,9 +23,7 @@ permalink: /tech/connected-tv-programmatic-advertising/
 
 Addressable streaming TV ads via DSP/SSP — The Trade Desk, Magnite.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
-
-> CTV programmatic ad spend exceeded $30B globally (2025); Roku, Amazon Fire TV, Samsung Tizen, and LG webOS all support OpenRTB-based programmatic with household-level targeting. Netflix ad tier (40M+ subscribers by late 2025) and Amazon Prime Video ads expanded inventory dramatically.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **0 independent sources** on this technology.
 
 ## Status
 
@@ -27,19 +31,31 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.86** |
-| Estimated Deployment | **2025–2026** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.920** |
+| Estimated Reality | **2025–2026** |
+| Timeline Confidence | **90%** |
+| Monetizable By | **2026** *(est. confidence: 84%)* |
+| Horizon | Near-Term (Now) |
+| Independent Sources Tracked | 0 |
 
-## Prerequisites
+## Market Race
 
-This technology depends on or is closely linked to:
+**Clear Leader: [TTD](/future/stocks/ttd/)** — 92% exposure confidence  
+**Position:** Direct pure-play  
 
-- [Real-Time Bidding (RTB) / OpenRTB](/future/tech/real-time-bidding/)
+*Kokai — CTV programmatic leader*
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2025–2026** | 90% |
+| Commercially Monetizable | **2026** | 84% |
+
+High timing confidence (90%) — multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 
 [TTD](/future/stocks/ttd/)
 
-See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.
+See each stock page for revenue drivers, milestones, and risk factors.

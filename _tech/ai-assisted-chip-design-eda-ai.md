@@ -5,10 +5,14 @@ subtitle: "AI automating RTL, floorplan, and verification steps in semiconductor
 category: AI & Cloud
 stage: early_commercial
 confidence_label: Speculative
+confidence_score: 0.150
 est_year: 2026
 est_year_range: "2025–2028"
-horizon: "Near-Term (Now–2026)"
-source_count: 4
+horizon: "Near-Term (Now)"
+timeline_confidence: 75
+monetizable_year: "2027"
+monetizable_confidence: 76
+source_count: 69
 stocks: []
 permalink: /tech/ai-assisted-chip-design-eda-ai/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/ai-assisted-chip-design-eda-ai/
 
 AI automating RTL, floorplan, and verification steps in semiconductor design.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
-
-> RSS:In-situ correlative SEM/KPFM for semiconductor devices and 2D heterost | rel=0.41 | uid:b5fb6784e41f1410
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **69 independent sources** on this technology.
 
 ## Status
 
@@ -27,23 +29,27 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.12** |
-| Estimated Deployment | **2025–2028** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 4 |
+| Confidence Score | **+0.150** |
+| Estimated Reality | **2025–2028** |
+| Timeline Confidence | **75%** |
+| Monetizable By | **2027** *(est. confidence: 76%)* |
+| Horizon | Near-Term (Now) |
+| Independent Sources Tracked | 69 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2025–2028** | 75% |
+| Commercially Monetizable | **2027** | 76% |
 
-- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-reasoning/)
-- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt4-class/)
+Moderate timing confidence (75%) — roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [1nm / A14 Process Node](/future/tech/1nm-process-node/)
+- [1nm / A14 Process Node](/future/tech/1nm-a14-process-node/) — *accelerates*
 
 ## Investment Exposure
 

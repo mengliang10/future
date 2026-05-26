@@ -4,6 +4,7 @@ name: "Medtronic plc"
 symbol: MDT
 exchange: NYSE
 categories: [BCI, Biotech]
+node_count: 1
 ---
 
 ## Investment Thesis

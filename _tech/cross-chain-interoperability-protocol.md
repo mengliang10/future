@@ -5,10 +5,14 @@ subtitle: "Trustless asset and message bridging across different blockchains —
 category: Blockchain
 stage: pilot
 confidence_label: Speculative
+confidence_score: 0.135
 est_year: 2027
 est_year_range: "2025–2031"
-horizon: "Near-Term (2027–2028)"
-source_count: 8
+horizon: "Near-Term (2027)"
+timeline_confidence: 60
+monetizable_year: "2029"
+monetizable_confidence: 61
+source_count: 15
 stocks: []
 permalink: /tech/cross-chain-interoperability-protocol/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/cross-chain-interoperability-protocol/
 
 Trustless asset and message bridging across different blockchains — CCIP, LayerZero.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **8 independent sources** on this technology.
-
-> RSS:PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric  | rel=0.59 | uid:55906d2143da8ed6
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **15 independent sources** on this technology.
 
 ## Status
 
@@ -27,17 +29,21 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.14** |
-| Estimated Deployment | **2025–2031** |
-| Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 8 |
+| Confidence Score | **+0.135** |
+| Estimated Reality | **2025–2031** |
+| Timeline Confidence | **60%** |
+| Monetizable By | **2029** *(est. confidence: 61%)* |
+| Horizon | Near-Term (2027) |
+| Independent Sources Tracked | 15 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2025–2031** | 60% |
+| Commercially Monetizable | **2029** | 61% |
 
-- [Open Interoperable Metaverse](/future/tech/metaverse-open-platform/)
-- [Web3 Mass Consumer Adoption](/future/tech/web3-mass-adoption/)
+Moderate timing confidence (60%) — roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

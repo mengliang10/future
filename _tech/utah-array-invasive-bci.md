@@ -5,10 +5,14 @@ subtitle: "96-electrode cortical implant for motor neuron decoding — BrainGate
 category: BCI
 stage: prototype
 confidence_label: Confirmed
+confidence_score: 0.100
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 1
+timeline_confidence: 99
+monetizable_year: "2033"
+monetizable_confidence: 73
+source_count: 8
 stocks: []
 permalink: /tech/utah-array-invasive-bci/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/utah-array-invasive-bci/
 
 96-electrode cortical implant for motor neuron decoding — BrainGate research. **Achieved.**
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **1 independent source** on this technology.
-
-> BrainGate consortium demonstrated 10-year cumulative safety data across 30+ human participants; 96-channel Utah array enables cursor control and robotic arm operation for tetraplegic patients. Remains research-only — connector pedestal infection risk prevents at-home use.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **8 independent sources** on this technology.
 
 ## Status
 
@@ -27,16 +29,21 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.87** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.100** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **99%** |
+| Monetizable By | **2033** *(est. confidence: 73%)* |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 8 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 99% |
+| Commercially Monetizable | **2033** | 73% |
 
-- [BCI Motor Cortex Decoding](/future/tech/bci-motor-cortex-decoding/)
+High timing confidence (99%) — multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

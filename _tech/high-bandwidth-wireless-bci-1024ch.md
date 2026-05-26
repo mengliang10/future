@@ -5,10 +5,14 @@ subtitle: "Fully wireless implant with 1000+ electrode channels — Neuralink N1
 category: BCI
 stage: pilot
 confidence_label: Researching
+confidence_score: 0.820
 est_year: 2024
-est_year_range: ""
-horizon: "Near-Term (Now–2026)"
-source_count: 1
+est_year_range: "2024"
+horizon: "Near-Term (Now)"
+timeline_confidence: 80
+monetizable_year: "2026"
+monetizable_confidence: 71
+source_count: 0
 stocks: []
 permalink: /tech/high-bandwidth-wireless-bci-1024ch/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/high-bandwidth-wireless-bci-1024ch/
 
 Fully wireless implant with 1000+ electrode channels — Neuralink N1 chip.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
-
-> Neuralink N1 implant demonstrated 1,024 electrodes with wireless telemetry in 3 human patients (2024-2025); Paradromics Connexus 1,600-channel array received FDA Breakthrough Device designation. Still experimental — no commercial approval, long-term biocompatibility data pending.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **0 independent sources** on this technology.
 
 ## Status
 
@@ -27,18 +29,21 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
-| Confidence Score | **+0.62** |
-| Estimated Deployment | **2024–2027** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.820** |
+| Estimated Reality | **2024–2027** |
+| Timeline Confidence | **80%** |
+| Monetizable By | **2026** *(est. confidence: 71%)* |
+| Horizon | Near-Term (Now) |
+| Independent Sources Tracked | 0 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2024–2027** | 80% |
+| Commercially Monetizable | **2026** | 71% |
 
-- [BCI Speech Decoding](/future/tech/bci-speech-decoding/)
-- [6G Extreme-MIMO (X-MIMO) 7 GHz Network](/future/tech/6g-xmimo-7ghz/)
-- [BCI Motor Cortex Decoding](/future/tech/bci-motor-cortex-decoding/)
+High timing confidence (80%) — multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

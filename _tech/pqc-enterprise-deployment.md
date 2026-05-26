@@ -5,10 +5,14 @@ subtitle: "Enterprises migrated from RSA/ECC to PQC — TLS, VPNs, PKI infrastru
 category: Quantum
 stage: pilot
 confidence_label: Speculative
+confidence_score: 0.157
 est_year: 2027
 est_year_range: "2026–2033"
-horizon: "Near-Term (2027–2028)"
-source_count: 5
+horizon: "Near-Term (2027)"
+timeline_confidence: 65
+monetizable_year: "2029"
+monetizable_confidence: 63
+source_count: 7
 stocks: []
 permalink: /tech/pqc-enterprise-deployment/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/pqc-enterprise-deployment/
 
 Enterprises migrated from RSA/ECC to PQC — TLS, VPNs, PKI infrastructure.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **5 independent sources** on this technology.
-
-> RSS:Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sov | rel=0.51 | uid:533843e86279aa89
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **7 independent sources** on this technology.
 
 ## Status
 
@@ -27,17 +29,21 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.17** |
-| Estimated Deployment | **2026–2033** |
-| Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 5 |
+| Confidence Score | **+0.157** |
+| Estimated Reality | **2026–2033** |
+| Timeline Confidence | **65%** |
+| Monetizable By | **2029** *(est. confidence: 63%)* |
+| Horizon | Near-Term (2027) |
+| Independent Sources Tracked | 7 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2026–2033** | 65% |
+| Commercially Monetizable | **2029** | 63% |
 
-- [NIST Post-Quantum Crypto Standard](/future/tech/post-quantum-crypto-nist/)
-- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction/)
+Moderate timing confidence (65%) — roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

@@ -5,11 +5,17 @@ subtitle: "Photovoltaic conversion of sunlight; ~25% commercial efficiency, <$0.
 category: Energy Tech
 stage: mass_production
 confidence_label: Confirmed
+confidence_score: 0.153
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 1
+timeline_confidence: 99
+monetizable_year: "Now (deployed)"
+monetizable_confidence: 94
+source_count: 5
 stocks: [FSLR]
+lead_stock: FSLR
+lead_stock_confidence: 90
 permalink: /tech/solar-pv-panel-silicon/
 ---
 
@@ -17,9 +23,7 @@ permalink: /tech/solar-pv-panel-silicon/
 
 Photovoltaic conversion of sunlight; ~25% commercial efficiency, <$0.20/W. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
-
-> Global installed solar capacity surpassed 2 TW (2025); annual installations 500+ GW/year led by China. Monocrystalline PERC and TOPCon panels at 22-25% module efficiency manufactured at $0.10-0.15/W in China. Fully mature technology deployed in 190+ countries.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **5 independent sources** on this technology.
 
 ## Status
 
@@ -27,20 +31,38 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.98** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.153** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **99%** |
+| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 5 |
+
+## Market Race
+
+**Clear Leader: [FSLR](/future/stocks/fslr/)** — 90% exposure confidence  
+**Position:** Direct pure-play  
+
+*CdTe thin-film; Series 7; 16GW capacity*
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 99% |
+| Commercially Monetizable | **Now (deployed)** | 94% |
+
+High timing confidence (99%) — multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Direct Air Carbon Capture (DAC)](/future/tech/direct-air-capture/)
-- [Solar <$0.01/kWh LCOE](/future/tech/solar-below-1cent-kwh/)
+- [Solar <$0.01/kWh LCOE](/future/tech/solar-001kwh-lcoe/) — *enables*
+- [Direct Air Carbon Capture (DAC)](/future/tech/direct-air-carbon-capture-dac/) — *accelerates*
 
 ## Investment Exposure
 
 [FSLR](/future/stocks/fslr/)
 
-See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.
+See each stock page for revenue drivers, milestones, and risk factors.

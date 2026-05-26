@@ -5,10 +5,14 @@ subtitle: "EVM-compatible ZK rollup enabling Ethereum compatibility at 100x lowe
 category: Blockchain
 stage: early_commercial
 confidence_label: Speculative
+confidence_score: 0.094
 est_year: 2025
-est_year_range: ""
+est_year_range: "2025"
 horizon: "Deployed"
-source_count: 2
+timeline_confidence: 88
+monetizable_year: "Now–2027"
+monetizable_confidence: 83
+source_count: 3
 stocks: []
 permalink: /tech/zk-evm-zk-rollup-evm-compatible/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/zk-evm-zk-rollup-evm-compatible/
 
 EVM-compatible ZK rollup enabling Ethereum compatibility at 100x lower cost. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
-
-> RSS:QUTest: A Native Testing Framework for Quantum Programs | rel=0.41 | uid:616389a760b09d1e
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **3 independent sources** on this technology.
 
 ## Status
 
@@ -27,16 +29,27 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.11** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.094** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **88%** |
+| Monetizable By | **Now–2027** *(est. confidence: 83%)* |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 3 |
 
-## What This Enables
+## Timeline Intelligence
 
-Advancement here directly benefits or unblocks:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 88% |
+| Commercially Monetizable | **Now–2027** | 83% |
 
-- [Zero-Knowledge Proof (ZKP)](/future/tech/zero-knowledge-proof/)
+High timing confidence (88%) — multiple corroborating sources confirm this timeline.
+
+## Prerequisites
+
+This technology depends on or requires advances in:
+
+- [Zero-Knowledge Proof (ZKP)](/future/tech/zero-knowledge-proof-zkp/) ✓ — *requires*
 
 ## Investment Exposure
 

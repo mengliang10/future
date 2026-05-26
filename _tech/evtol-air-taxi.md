@@ -5,11 +5,17 @@ subtitle: "Electric vertical takeoff aircraft for urban air mobility — Joby, A
 category: Autonomous
 stage: pilot
 confidence_label: Speculative
+confidence_score: 0.148
 est_year: 2028
 est_year_range: "2026–2032"
-horizon: "Near-Term (2027–2028)"
-source_count: 1
+horizon: "Near-Term (2028)"
+timeline_confidence: 55
+monetizable_year: "2030"
+monetizable_confidence: 58
+source_count: 9
 stocks: [JOBY]
+lead_stock: JOBY
+lead_stock_confidence: 92
 permalink: /tech/evtol-air-taxi/
 ---
 
@@ -17,9 +23,7 @@ permalink: /tech/evtol-air-taxi/
 
 Electric vertical takeoff aircraft for urban air mobility — Joby, Archer.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
-
-> RSS:What Makes eVTOL Motors Different Than EV Motors? | rel=0.91 | uid:216496c5ddea9718
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **9 independent sources** on this technology.
 
 ## Status
 
@@ -27,26 +31,37 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.23** |
-| Estimated Deployment | **2026–2032** |
-| Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.148** |
+| Estimated Reality | **2026–2032** |
+| Timeline Confidence | **55%** |
+| Monetizable By | **2030** *(est. confidence: 58%)* |
+| Horizon | Near-Term (2028) |
+| Independent Sources Tracked | 9 |
 
-## Prerequisites
+## Market Race
 
-This technology depends on or is closely linked to:
+**Clear Leader: [JOBY](/future/stocks/joby/)** — 92% exposure confidence  
+**Position:** Direct pure-play  
 
-- [GaN Power Semiconductors](/future/tech/gallium-nitride-power/)
-- [Solid-State Battery](/future/tech/solid-state-battery/)
+*Best-funded eVTOL; delta-wing design; FAA cert*
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2026–2032** | 55% |
+| Commercially Monetizable | **2030** | 58% |
+
+Moderate timing confidence (55%) — roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Zero-Accident Transport Network](/future/tech/zero-accident-transport/)
+- [Zero-Accident Transport Network](/future/tech/zero-accident-transport-network/) — *enables*
 
 ## Investment Exposure
 
 [JOBY](/future/stocks/joby/)
 
-See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.
+See each stock page for revenue drivers, milestones, and risk factors.

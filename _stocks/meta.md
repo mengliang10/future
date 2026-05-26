@@ -5,8 +5,6 @@ symbol: META
 exchange: NASDAQ
 categories: [AI & Cloud]
 node_count: 3
-timing_action: "FULL"
-regime: "RANGE_BOUND"
 ---
 
 ## Investment Thesis

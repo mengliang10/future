@@ -5,10 +5,14 @@ subtitle: "Modern 5-6MW onshore turbines; lowest LCOE energy source in many mark
 category: Energy Tech
 stage: mass_production
 confidence_label: Speculative
+confidence_score: 0.113
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+timeline_confidence: 99
+monetizable_year: "Now (deployed)"
+monetizable_confidence: 94
+source_count: 15
 stocks: []
 permalink: /tech/onshore-wind-turbine/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/onshore-wind-turbine/
 
 Modern 5-6MW onshore turbines; lowest LCOE energy source in many markets. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
-
-> RSS:Near-Field Vibrational Energy Transfer for Mid-Infrared Upconversion i | rel=0.38 | uid:dd89ae72a1a006bb
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **15 independent sources** on this technology.
 
 ## Status
 
@@ -27,17 +29,21 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.09** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.113** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **99%** |
+| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 15 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 99% |
+| Commercially Monetizable | **Now (deployed)** | 94% |
 
-- [Grid-Scale Battery Storage (GWh)](/future/tech/grid-scale-storage-gwh/)
-- [Floating Offshore Wind](/future/tech/wind-offshore-floating/)
+High timing confidence (99%) — multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

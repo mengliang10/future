@@ -4,8 +4,7 @@ name: "Amazon.com Inc."
 symbol: AMZN
 exchange: NASDAQ
 categories: [AI & Cloud]
-timing_action: "FULL"
-regime: "TRENDING_UP"
+node_count: 6
 ---
 
 ## Investment Thesis

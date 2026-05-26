@@ -5,10 +5,14 @@ subtitle: "Mechanical CO2 removal from atmosphere — Climeworks Orca/Mammoth, 1
 category: Energy Tech
 stage: pilot
 confidence_label: Speculative
+confidence_score: 0.138
 est_year: 2028
 est_year_range: "2025–2033"
-horizon: "Near-Term (2027–2028)"
-source_count: 2
+horizon: "Near-Term (2028)"
+timeline_confidence: 65
+monetizable_year: "2030"
+monetizable_confidence: 63
+source_count: 7
 stocks: []
 permalink: /tech/direct-air-carbon-capture-dac/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/direct-air-carbon-capture-dac/
 
 Mechanical CO2 removal from atmosphere — Climeworks Orca/Mammoth, 1PointFive.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **2 independent sources** on this technology.
-
-> RSS:Finite-frequency anomaly-induced electromechanical response of Dirac f | rel=0.50 | uid:4961d4ee5b68c4b4
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **7 independent sources** on this technology.
 
 ## Status
 
@@ -27,16 +29,27 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.10** |
-| Estimated Deployment | **2025–2033** |
-| Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 2 |
+| Confidence Score | **+0.138** |
+| Estimated Reality | **2025–2033** |
+| Timeline Confidence | **65%** |
+| Monetizable By | **2030** *(est. confidence: 63%)* |
+| Horizon | Near-Term (2028) |
+| Independent Sources Tracked | 7 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2025–2033** | 65% |
+| Commercially Monetizable | **2030** | 63% |
 
-- [Solar PV Panel (Silicon)](/future/tech/solar-pv-panel/)
+Moderate timing confidence (65%) — roadmap exists but execution risk remains.
+
+## What This Enables
+
+Advancement here directly benefits or unblocks:
+
+- [Enhanced Geothermal Systems (EGS)](/future/tech/enhanced-geothermal-systems-egs/) — *synergises with*
 
 ## Investment Exposure
 

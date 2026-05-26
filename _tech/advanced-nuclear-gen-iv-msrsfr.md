@@ -5,10 +5,14 @@ subtitle: "Molten salt, sodium fast reactors; use thorium or spent fuel; inheren
 category: Energy Tech
 stage: proof_of_concept
 confidence_label: Researching
+confidence_score: 0.174
 est_year: 2036
 est_year_range: "2030–2045"
 horizon: "Long-Term (2036)"
-source_count: 1
+timeline_confidence: 40
+monetizable_year: "2041"
+monetizable_confidence: 36
+source_count: 20
 stocks: []
 permalink: /tech/advanced-nuclear-gen-iv-msrsfr/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/advanced-nuclear-gen-iv-msrsfr/
 
 Molten salt, sodium fast reactors; use thorium or spent fuel; inherently safe.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **1 independent source** on this technology.
-
-> China's HTR-PM (pebble-bed high-temperature gas reactor) connected to grid December 2023 — first Gen IV demo reactor operational. Russia BN-800 fast reactor running since 2016. US Natrium (TerraPower) and X-energy Xe-100 in licensing with NRC but no Gen IV commercial plant in the West yet.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **20 independent sources** on this technology.
 
 ## Status
 
@@ -27,22 +29,27 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
-| Confidence Score | **+0.48** |
-| Estimated Deployment | **2030–2045** |
+| Confidence Score | **+0.174** |
+| Estimated Reality | **2030–2045** |
+| Timeline Confidence | **40%** |
+| Monetizable By | **2041** *(est. confidence: 36%)* |
 | Horizon | Long-Term (2036) |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 20 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2030–2045** | 40% |
+| Commercially Monetizable | **2041** | 36% |
 
-- [Small Modular Reactor (<300MWe)](/future/tech/small-modular-reactor/)
+Low timing confidence (40%) — timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Commercial Fusion Power Plant](/future/tech/commercial-fusion-reactor/)
+- [Commercial Fusion Power Plant](/future/tech/commercial-fusion-power-plant/) — *enables*
 
 ## Investment Exposure
 

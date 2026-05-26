@@ -5,10 +5,14 @@ subtitle: "Running LLM/CV models on-device without cloud round-trip — phones, 
 category: AI & Cloud
 stage: early_commercial
 confidence_label: Speculative
+confidence_score: 0.206
 est_year: 2025
 est_year_range: "2025–2028"
-horizon: "Near-Term (Now–2026)"
-source_count: 6
+horizon: "Near-Term (Now)"
+timeline_confidence: 75
+monetizable_year: "2026"
+monetizable_confidence: 76
+source_count: 14
 stocks: []
 permalink: /tech/ai-inference-at-edge/
 ---
@@ -17,9 +21,9 @@ permalink: /tech/ai-inference-at-edge/
 
 Running LLM/CV models on-device without cloud round-trip — phones, cars, robots.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **6 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **14 independent sources** on this technology.
 
-> Hardware-aligned sparse attention for efficient long-context LLMs. 11× faster attention with <1% quality loss. Natively trainable (end-to-end). Key for making 100T+ parameter models practical. Enables efficient long-context inference.
+> Hardware-aligned sparse attention for efficient long-context LLMs. 11× faster attention with <1% quality loss. Natively trainable (end-to-end). Key for making 100T+ parameter models practical. Enables
 
 ## Status
 
@@ -27,25 +31,33 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.29** |
-| Estimated Deployment | **2025–2028** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 6 |
+| Confidence Score | **+0.206** |
+| Estimated Reality | **2025–2028** |
+| Timeline Confidence | **75%** |
+| Monetizable By | **2026** *(est. confidence: 76%)* |
+| Horizon | Near-Term (Now) |
+| Independent Sources Tracked | 14 |
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2025–2028** | 75% |
+| Commercially Monetizable | **2026** | 76% |
+
+Moderate timing confidence (75%) — roadmap exists but execution risk remains.
 
 ## Prerequisites
 
-This technology depends on or is closely linked to:
+This technology depends on or requires advances in:
 
-- [Robotics Foundation Model](/future/tech/robotics-foundation-model/)
-- [6G Extreme-MIMO (X-MIMO) 7 GHz Network](/future/tech/6g-xmimo-7ghz/)
-- [Compute-in-Memory (CIM)](/future/tech/in-memory-computing/)
-- [Neuromorphic Computing Chip](/future/tech/neuromorphic-chip/)
+- [AI Hardware ASIC (TPU/NPU/Trainium)](/future/tech/ai-hardware-asic-tpunputrainium/) ✓ — *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Hardware ASIC (TPU/NPU/Trainium)](/future/tech/ai-hardware-asic/)
+- [6G Extreme-MIMO (X-MIMO) 7 GHz Network](/future/tech/6g-extreme-mimo-x-mimo-7-ghz-network/) — *synergises with*
 
 ## Investment Exposure
 

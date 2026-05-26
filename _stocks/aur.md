@@ -4,6 +4,7 @@ name: "Aurora Innovation Inc."
 symbol: AUR
 exchange: NASDAQ
 categories: [Autonomous]
+node_count: 1
 ---
 
 ## Investment Thesis

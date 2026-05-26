@@ -5,10 +5,14 @@ subtitle: "Converting H2 to electricity electrochemically — vehicles, stationa
 category: Energy Tech
 stage: early_commercial
 confidence_label: Confident
+confidence_score: 0.142
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 1
+timeline_confidence: 95
+monetizable_year: "Now–2027"
+monetizable_confidence: 86
+source_count: 20
 stocks: []
 permalink: /tech/hydrogen-fuel-cell-pem/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/hydrogen-fuel-cell-pem/
 
 Converting H2 to electricity electrochemically — vehicles, stationary power. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
-
-> Toyota Mirai (Gen 2), Hyundai Nexo, and Honda CR-V e:FCEV commercially available in California, Japan, Korea, and Europe; fuel cell stacks from Ballard and Plug Power deployed in 50K+ forklifts and 2K+ buses globally. PEM durability improved to 25K+ hours for stationary applications.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **20 independent sources** on this technology.
 
 ## Status
 
@@ -27,16 +29,21 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.84** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.142** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **95%** |
+| Monetizable By | **Now–2027** *(est. confidence: 86%)* |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 20 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 95% |
+| Commercially Monetizable | **Now–2027** | 86% |
 
-- [Green Hydrogen (<$2/kg via Electrolysis)](/future/tech/green-hydrogen/)
+High timing confidence (95%) — multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

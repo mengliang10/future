@@ -5,10 +5,14 @@ subtitle: "AI matching human performance across all cognitive domains"
 category: AI & Cloud
 stage: basic_research
 confidence_label: Speculative
+confidence_score: 0.185
 est_year: 2028
 est_year_range: "2028–2045"
-horizon: "Near-Term (2027–2028)"
-source_count: 28
+horizon: "Near-Term (2028)"
+timeline_confidence: 25
+monetizable_year: "2036"
+monetizable_confidence: 21
+source_count: 51
 stocks: []
 permalink: /tech/artificial-general-intelligence/
 ---
@@ -17,9 +21,9 @@ permalink: /tech/artificial-general-intelligence/
 
 AI matching human performance across all cognitive domains.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **28 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **51 independent sources** on this technology.
 
-> First open-source model matching OpenAI o1 on reasoning benchmarks. Pure RL (GRPO) without supervised fine-tuning for cold-start. Chain-of-thought reasoning emerges from RL. Demonstrates reasoning capability can be incentivized purely through RL. Major milestone for open-source AI.
+> First open-source model matching OpenAI o1 on reasoning benchmarks. Pure RL (GRPO) without supervised fine-tuning for cold-start. Chain-of-thought reasoning emerges from RL. Demonstrates reasoning cap
 
 ## Status
 
@@ -27,27 +31,33 @@ Fundamental research phase — concept established, practical implementation rem
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.19** |
-| Estimated Deployment | **2028–2045** |
-| Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 28 |
+| Confidence Score | **+0.185** |
+| Estimated Reality | **2028–2045** |
+| Timeline Confidence | **25%** |
+| Monetizable By | **2036** *(est. confidence: 21%)* |
+| Horizon | Near-Term (2028) |
+| Independent Sources Tracked | 51 |
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2028–2045** | 25% |
+| Commercially Monetizable | **2036** | 21% |
+
+Low timing confidence (25%) — timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
-This technology depends on or is closely linked to:
+This technology depends on or requires advances in:
 
-- [Merged Human-AI Intelligence](/future/tech/human-ai-merged-intelligence/)
-- [AI Agent Swarms](/future/tech/ai-agent-swarms/)
-- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-reasoning/)
-- [Inference-Time Compute Scaling (Test-Time RL)](/future/tech/inference-time-compute-scaling/)
-- [Chain-of-Thought Reasoning Model](/future/tech/reasoning-model-o1-class/)
+- [AI World Model](/future/tech/ai-world-model/) — *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Artificial Superintelligence (ASI)](/future/tech/artificial-superintelligence/)
-- [AI World Model](/future/tech/world-model-ai/)
+- [Artificial Superintelligence (ASI)](/future/tech/artificial-superintelligence-asi/) — *enables*
 
 ## Investment Exposure
 

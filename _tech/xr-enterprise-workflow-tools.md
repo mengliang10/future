@@ -5,10 +5,14 @@ subtitle: "CAD review, training simulation, remote assistance in industrial XR"
 category: XR
 stage: early_commercial
 confidence_label: Speculative
+confidence_score: 0.147
 est_year: 2025
-est_year_range: ""
-horizon: "Near-Term (Now–2026)"
-source_count: 6
+est_year_range: "2025"
+horizon: "Near-Term (Now)"
+timeline_confidence: 85
+monetizable_year: "2026"
+monetizable_confidence: 81
+source_count: 13
 stocks: []
 permalink: /tech/xr-enterprise-workflow-tools/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/xr-enterprise-workflow-tools/
 
 CAD review, training simulation, remote assistance in industrial XR.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **6 independent sources** on this technology.
-
-> RSS:ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows f | rel=0.56 | uid:6ecec486a9839c7f
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **13 independent sources** on this technology.
 
 ## Status
 
@@ -27,17 +29,21 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.14** |
-| Estimated Deployment | **2025–2027** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 6 |
+| Confidence Score | **+0.147** |
+| Estimated Reality | **2025–2027** |
+| Timeline Confidence | **85%** |
+| Monetizable By | **2026** *(est. confidence: 81%)* |
+| Horizon | Near-Term (Now) |
+| Independent Sources Tracked | 13 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2025–2027** | 85% |
+| Commercially Monetizable | **2026** | 81% |
 
-- [AR Smart Glasses (Industrial)](/future/tech/ar-glasses-industrial/)
-- [Spatial Computing OS](/future/tech/spatial-computing-os/)
+High timing confidence (85%) — multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

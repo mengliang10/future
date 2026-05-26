@@ -5,10 +5,14 @@ subtitle: "Training in simulation and deploying to physical robots with minimal 
 category: Robotics
 stage: early_commercial
 confidence_label: Speculative
+confidence_score: 0.152
 est_year: 2026
 est_year_range: "2025–2029"
-horizon: "Near-Term (Now–2026)"
-source_count: 17
+horizon: "Near-Term (Now)"
+timeline_confidence: 75
+monetizable_year: "2027"
+monetizable_confidence: 76
+source_count: 23
 stocks: []
 permalink: /tech/sim-to-real-transfer/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/sim-to-real-transfer/
 
 Training in simulation and deploying to physical robots with minimal domain gap.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **17 independent sources** on this technology.
-
-> RSS:NavRL++: A System-Level Framework for Improving Sim-to-Real Transfer i | rel=1.00 | uid:1022ea1b5dbb1217
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **23 independent sources** on this technology.
 
 ## Status
 
@@ -27,16 +29,21 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.17** |
-| Estimated Deployment | **2025–2029** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 17 |
+| Confidence Score | **+0.152** |
+| Estimated Reality | **2025–2029** |
+| Timeline Confidence | **75%** |
+| Monetizable By | **2027** *(est. confidence: 76%)* |
+| Horizon | Near-Term (Now) |
+| Independent Sources Tracked | 23 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2025–2029** | 75% |
+| Commercially Monetizable | **2027** | 76% |
 
-- [Humanoid Robot (Lab / Controlled Demo)](/future/tech/humanoid-robot-demo/)
+Moderate timing confidence (75%) — roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

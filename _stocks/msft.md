@@ -5,8 +5,7 @@ symbol: MSFT
 exchange: NASDAQ
 categories: [AI & Cloud]
 node_count: 5
-timing_action: "FULL"
-regime: "TRENDING_UP"
+bottleneck_count: 2
 ---
 
 ## Investment Thesis

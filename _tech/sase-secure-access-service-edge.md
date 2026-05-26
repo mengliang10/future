@@ -5,11 +5,17 @@ subtitle: "Converged network+security from cloud edge — Zscaler, Cloudflare On
 category: Cybersecurity
 stage: early_commercial
 confidence_label: Speculative
+confidence_score: 0.140
 est_year: 2025
-est_year_range: ""
-horizon: "Near-Term (Now–2026)"
-source_count: 2
+est_year_range: "2025"
+horizon: "Near-Term (Now)"
+timeline_confidence: 88
+monetizable_year: "2026"
+monetizable_confidence: 83
+source_count: 4
 stocks: [ZS]
+lead_stock: ZS
+lead_stock_confidence: 92
 permalink: /tech/sase-secure-access-service-edge/
 ---
 
@@ -17,9 +23,7 @@ permalink: /tech/sase-secure-access-service-edge/
 
 Converged network+security from cloud edge — Zscaler, Cloudflare One, Netskope.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
-
-> RSS:Ultra-Large-Capacity Passive Quantum Access Network Powered By Single  | rel=0.48 | uid:15d80a9521177fe3
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
 
 ## Status
 
@@ -27,19 +31,31 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.13** |
-| Estimated Deployment | **2025–2027** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 2 |
+| Confidence Score | **+0.140** |
+| Estimated Reality | **2025–2027** |
+| Timeline Confidence | **88%** |
+| Monetizable By | **2026** *(est. confidence: 83%)* |
+| Horizon | Near-Term (Now) |
+| Independent Sources Tracked | 4 |
 
-## Prerequisites
+## Market Race
 
-This technology depends on or is closely linked to:
+**Clear Leader: [ZS](/future/stocks/zs/)** — 92% exposure confidence  
+**Position:** Direct pure-play  
 
-- [Zero Trust Security Architecture](/future/tech/zero-trust-architecture/)
+*Zero Trust Exchange — SASE pure play*
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2025–2027** | 88% |
+| Commercially Monetizable | **2026** | 83% |
+
+High timing confidence (88%) — multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 
 [ZS](/future/stocks/zs/)
 
-See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.
+See each stock page for revenue drivers, milestones, and risk factors.

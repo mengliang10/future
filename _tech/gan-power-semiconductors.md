@@ -5,10 +5,14 @@ subtitle: "Wide-bandgap GaN for efficient high-frequency power conversion in EVs
 category: Semiconductors
 stage: mass_production
 confidence_label: Speculative
+confidence_score: 0.170
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 4
+timeline_confidence: 99
+monetizable_year: "Now (deployed)"
+monetizable_confidence: 94
+source_count: 15
 stocks: []
 permalink: /tech/gan-power-semiconductors/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/gan-power-semiconductors/
 
 Wide-bandgap GaN for efficient high-frequency power conversion in EVs and PSUs. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
-
-> RSS:Sampling-Based Global Optimal Control and Estimation via Semidefinite  | rel=0.44 | uid:ae37cbbb54505ca3
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **15 independent sources** on this technology.
 
 ## Status
 
@@ -27,16 +29,28 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.16** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.170** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **99%** |
+| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
 | Horizon | Deployed |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 15 |
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 99% |
+| Commercially Monetizable | **Now (deployed)** | 94% |
+
+High timing confidence (99%) — multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [eVTOL Air Taxi](/future/tech/evtol-air-taxi/)
+- [eVTOL Air Taxi](/future/tech/evtol-air-taxi/) — *accelerates*
+- [Solid-State Battery](/future/tech/solid-state-battery/) — *synergises with*
 
 ## Investment Exposure
 

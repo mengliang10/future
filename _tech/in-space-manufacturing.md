@@ -5,10 +5,14 @@ subtitle: "Producing superior materials in microgravity — fiber optics, pharma
 category: Space Tech
 stage: basic_research
 confidence_label: Speculative
+confidence_score: 0.136
 est_year: 2030
 est_year_range: "2030–2045"
-horizon: "Medium-Term (2029–2030)"
-source_count: 1
+horizon: "Mid-Term (2030)"
+timeline_confidence: 30
+monetizable_year: "2038"
+monetizable_confidence: 24
+source_count: 19
 stocks: []
 permalink: /tech/in-space-manufacturing/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/in-space-manufacturing/
 
 Producing superior materials in microgravity — fiber optics, pharmaceuticals.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
-
-> RSS:A Dexterous and Compliant Gripper With Soft Hydraulic Actuation for Mi | rel=0.53 | uid:1b1e1d7f66a2c09a
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **19 independent sources** on this technology.
 
 ## Status
 
@@ -27,23 +29,27 @@ Fundamental research phase — concept established, practical implementation rem
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.13** |
-| Estimated Deployment | **2030–2045** |
-| Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.136** |
+| Estimated Reality | **2030–2045** |
+| Timeline Confidence | **30%** |
+| Monetizable By | **2038** *(est. confidence: 24%)* |
+| Horizon | Mid-Term (2030) |
+| Independent Sources Tracked | 19 |
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2030–2045** | 30% |
+| Commercially Monetizable | **2038** | 24% |
+
+Low timing confidence (30%) — timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
-This technology depends on or is closely linked to:
+This technology depends on or requires advances in:
 
-- [Asteroid Mining Demonstration](/future/tech/asteroid-mining-demo/)
-- [Permanent Lunar Surface Base](/future/tech/lunar-surface-base/)
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [Commercial Space Station (post-ISS)](/future/tech/commercial-space-station/)
+- [Commercial Space Station (post-ISS)](/future/tech/commercial-space-station-post-iss/) — *requires*
 
 ## Investment Exposure
 

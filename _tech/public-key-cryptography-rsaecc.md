@@ -5,10 +5,14 @@ subtitle: "Asymmetric encryption enabling secure communication without shared se
 category: Cybersecurity
 stage: mass_production
 confidence_label: Speculative
+confidence_score: 0.120
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 6
+timeline_confidence: 99
+monetizable_year: "Now (deployed)"
+monetizable_confidence: 94
+source_count: 14
 stocks: []
 permalink: /tech/public-key-cryptography-rsaecc/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/public-key-cryptography-rsaecc/
 
 Asymmetric encryption enabling secure communication without shared secret. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
-
-> RSS:Accelerating Hybrid XOR$-$CNF Boolean Satisfiability Problems Natively | rel=0.41 | uid:1e2cefa4b335a8af
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **14 independent sources** on this technology.
 
 ## Status
 
@@ -27,16 +29,21 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.12** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.120** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **99%** |
+| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
 | Horizon | Deployed |
-| Independent Sources Tracked | 6 |
+| Independent Sources Tracked | 14 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 99% |
+| Commercially Monetizable | **Now (deployed)** | 94% |
 
-- [TLS/SSL Encrypted Transport](/future/tech/tls-ssl/)
+High timing confidence (99%) — multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

@@ -5,10 +5,14 @@ subtitle: "Ads optimized for individual neural response patterns via BCI biofeed
 category: Marketing Tech
 stage: basic_research
 confidence_label: Speculative
+confidence_score: 0.110
 est_year: 2045
 est_year_range: "2038–2065"
-horizon: "Long-Term (2045)"
-source_count: 2
+horizon: "Far Future (2045)"
+timeline_confidence: 10
+monetizable_year: "2053"
+monetizable_confidence: 14
+source_count: 4
 stocks: []
 permalink: /tech/neuro-personalised-advertising/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/neuro-personalised-advertising/
 
 Ads optimized for individual neural response patterns via BCI biofeedback.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **2 independent sources** on this technology.
-
-> RSS:Topology-Optimized Pneumatic Soft Actuator: Design and Experimental Va | rel=0.53 | uid:c584e2fdabb7effe
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **4 independent sources** on this technology.
 
 ## Status
 
@@ -27,17 +29,21 @@ Fundamental research phase — concept established, practical implementation rem
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.13** |
-| Estimated Deployment | **2038–2065** |
-| Horizon | Long-Term (2045) |
-| Independent Sources Tracked | 2 |
+| Confidence Score | **+0.110** |
+| Estimated Reality | **2038–2065** |
+| Timeline Confidence | **10%** |
+| Monetizable By | **2053** *(est. confidence: 14%)* |
+| Horizon | Far Future (2045) |
+| Independent Sources Tracked | 4 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2038–2065** | 10% |
+| Commercially Monetizable | **2053** | 14% |
 
-- [AI Personalization Engine](/future/tech/ai-personalization-engine/)
-- [Consumer Non-Invasive BCI Headset](/future/tech/bci-consumer-non-invasive/)
+Low timing confidence (10%) — timeline is speculative; watch for milestone announcements.
 
 ## Investment Exposure
 

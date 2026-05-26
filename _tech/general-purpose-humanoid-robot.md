@@ -5,10 +5,14 @@ subtitle: "Humanoid operating across diverse real-world environments without rep
 category: Robotics
 stage: proof_of_concept
 confidence_label: Speculative
+confidence_score: 0.147
 est_year: 2035
 est_year_range: "2030–2042"
-horizon: "Medium-Term (2031–2035)"
-source_count: 40
+horizon: "Long-Term (2035)"
+timeline_confidence: 35
+monetizable_year: "2040"
+monetizable_confidence: 33
+source_count: 62
 stocks: []
 permalink: /tech/general-purpose-humanoid-robot/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/general-purpose-humanoid-robot/
 
 Humanoid operating across diverse real-world environments without reprogramming.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **40 independent sources** on this technology.
-
-> RSS:Deterministic Event-Graph Substrates as World Models for Counterfactua | rel=0.56 | uid:02c930b024a68a23
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **62 independent sources** on this technology.
 
 ## Status
 
@@ -27,23 +29,27 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.16** |
-| Estimated Deployment | **2030–2042** |
-| Horizon | Medium-Term (2031–2035) |
-| Independent Sources Tracked | 40 |
+| Confidence Score | **+0.147** |
+| Estimated Reality | **2030–2042** |
+| Timeline Confidence | **35%** |
+| Monetizable By | **2040** *(est. confidence: 33%)* |
+| Horizon | Long-Term (2035) |
+| Independent Sources Tracked | 62 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2030–2042** | 35% |
+| Commercially Monetizable | **2040** | 33% |
 
-- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory/)
-- [Robotics Foundation Model](/future/tech/robotics-foundation-model/)
+Low timing confidence (35%) — timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Post-Scarcity Robotic Manufacturing](/future/tech/robot-post-scarcity/)
+- [Post-Scarcity Robotic Manufacturing](/future/tech/post-scarcity-robotic-manufacturing/) — *enables*
 
 ## Investment Exposure
 

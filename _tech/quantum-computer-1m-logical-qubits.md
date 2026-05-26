@@ -5,10 +5,14 @@ subtitle: "Scale needed for breaking RSA-2048 and full chemistry simulation"
 category: Quantum
 stage: basic_research
 confidence_label: Speculative
+confidence_score: 0.141
 est_year: 2045
 est_year_range: "2038–2060"
-horizon: "Long-Term (2045)"
-source_count: 24
+horizon: "Far Future (2045)"
+timeline_confidence: 20
+monetizable_year: "2053"
+monetizable_confidence: 19
+source_count: 50
 stocks: []
 permalink: /tech/quantum-computer-1m-logical-qubits/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/quantum-computer-1m-logical-qubits/
 
 Scale needed for breaking RSA-2048 and full chemistry simulation.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **24 independent sources** on this technology.
-
-> RSS:Beyond Unitary Quantum Simulation: Open-System Approaches to Quantum C | rel=0.81 | uid:50b9642f17be1d83
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **50 independent sources** on this technology.
 
 ## Status
 
@@ -27,16 +29,27 @@ Fundamental research phase — concept established, practical implementation rem
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.14** |
-| Estimated Deployment | **2038–2060** |
-| Horizon | Long-Term (2045) |
-| Independent Sources Tracked | 24 |
+| Confidence Score | **+0.141** |
+| Estimated Reality | **2038–2060** |
+| Timeline Confidence | **20%** |
+| Monetizable By | **2053** *(est. confidence: 19%)* |
+| Horizon | Far Future (2045) |
+| Independent Sources Tracked | 50 |
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2038–2060** | 20% |
+| Commercially Monetizable | **2053** | 19% |
+
+Low timing confidence (20%) — timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
-This technology depends on or is closely linked to:
+This technology depends on or requires advances in:
 
-- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-quantum-1000q/)
+- [PQC Enterprise Deployment](/future/tech/pqc-enterprise-deployment/) — *blocked by*
 
 ## Investment Exposure
 

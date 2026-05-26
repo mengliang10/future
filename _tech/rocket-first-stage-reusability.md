@@ -5,10 +5,14 @@ subtitle: "Propulsive landing and reflight of orbital boosters — SpaceX Falcon
 category: Space Tech
 stage: mass_production
 confidence_label: Confirmed
+confidence_score: 0.152
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 1
+timeline_confidence: 99
+monetizable_year: "Now (deployed)"
+monetizable_confidence: 94
+source_count: 4
 stocks: []
 permalink: /tech/rocket-first-stage-reusability/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/rocket-first-stage-reusability/
 
 Propulsive landing and reflight of orbital boosters — SpaceX Falcon 9 (300+ flights). **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
-
-> SpaceX Falcon 9 achieved 350+ first-stage landings and 300+ reflights (as of May 2026); individual boosters flown up to 25+ times with turnaround times as low as 21 days. Reuse reduced launch costs by ~40% and is now routine. Rocket Lab Electron first-stage reuse also operational via helicopter/marine recovery.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
 
 ## Status
 
@@ -27,22 +29,27 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.98** |
-| Estimated Deployment | **Ongoing / Deployed** |
+| Confidence Score | **+0.152** |
+| Estimated Reality | **Ongoing / Deployed** |
+| Timeline Confidence | **99%** |
+| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 4 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **Ongoing / Deployed** | 99% |
+| Commercially Monetizable | **Now (deployed)** | 94% |
 
-- [Liquid Rocket Propulsion (RP-1/LOX)](/future/tech/liquid-rocket-propulsion/)
+High timing confidence (99%) — multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Full Rocket Reusability (Starship)](/future/tech/rocket-full-reusability/)
+- [Full Rocket Reusability (Starship)](/future/tech/full-rocket-reusability-starship/) — *enables*
 
 ## Investment Exposure
 

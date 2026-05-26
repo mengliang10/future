@@ -5,10 +5,14 @@ subtitle: "Quantum info in photon states; room temp, network-friendly — PsiQua
 category: Quantum
 stage: prototype
 confidence_label: Speculative
+confidence_score: 0.123
 est_year: 2028
 est_year_range: "2026–2032"
-horizon: "Near-Term (2027–2028)"
-source_count: 42
+horizon: "Near-Term (2028)"
+timeline_confidence: 60
+monetizable_year: "2031"
+monetizable_confidence: 54
+source_count: 67
 stocks: []
 permalink: /tech/photonic-qubit/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/photonic-qubit/
 
 Quantum info in photon states; room temp, network-friendly — PsiQuantum.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **42 independent sources** on this technology.
-
-> RSS:US-sanctioned currency exchange says $15 million heist done by "unfrie | rel=0.44 | uid:a3394d6c1dfb49d3
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **67 independent sources** on this technology.
 
 ## Status
 
@@ -27,10 +29,21 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.11** |
-| Estimated Deployment | **2026–2032** |
-| Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 42 |
+| Confidence Score | **+0.123** |
+| Estimated Reality | **2026–2032** |
+| Timeline Confidence | **60%** |
+| Monetizable By | **2031** *(est. confidence: 54%)* |
+| Horizon | Near-Term (2028) |
+| Independent Sources Tracked | 67 |
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2026–2032** | 60% |
+| Commercially Monetizable | **2031** | 54% |
+
+Moderate timing confidence (60%) — roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

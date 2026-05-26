@@ -5,10 +5,14 @@ subtitle: "On-chain bonds, real estate, equities — BlackRock BUIDL, Franklin O
 category: Blockchain
 stage: early_commercial
 confidence_label: Researching
+confidence_score: 0.820
 est_year: 2027
 est_year_range: "2025–2030"
-horizon: "Near-Term (2027–2028)"
-source_count: 1
+horizon: "Near-Term (2027)"
+timeline_confidence: 75
+monetizable_year: "2028"
+monetizable_confidence: 76
+source_count: 0
 stocks: []
 permalink: /tech/tokenized-real-world-assets-rwa/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/tokenized-real-world-assets-rwa/
 
 On-chain bonds, real estate, equities — BlackRock BUIDL, Franklin OnChain.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
-
-> BlackRock BUIDL tokenized Treasury fund reached $1B AUM (2025); tokenized private credit and real estate on-chain growing but total still <$15B globally. JPMorgan Onyx and Goldman Sachs GS DAP processing billions in repo settlements. Early institutional adoption; retail access limited.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **0 independent sources** on this technology.
 
 ## Status
 
@@ -27,23 +29,27 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
-| Confidence Score | **+0.52** |
-| Estimated Deployment | **2025–2030** |
-| Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.820** |
+| Estimated Reality | **2025–2030** |
+| Timeline Confidence | **75%** |
+| Monetizable By | **2028** *(est. confidence: 76%)* |
+| Horizon | Near-Term (2027) |
+| Independent Sources Tracked | 0 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2025–2030** | 75% |
+| Commercially Monetizable | **2028** | 76% |
 
-- [Bitcoin Spot ETF (US Regulated)](/future/tech/bitcoin-etf/)
-- [Layer-2 Rollup Scaling](/future/tech/layer2-rollup/)
+Moderate timing confidence (75%) — roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Web3 Mass Consumer Adoption](/future/tech/web3-mass-adoption/)
+- [Web3 Mass Consumer Adoption](/future/tech/web3-mass-consumer-adoption/) — *enables*
 
 ## Investment Exposure
 

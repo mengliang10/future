@@ -5,10 +5,14 @@ subtitle: "Full wafer stacking with micron-pitch vertical interconnects; TSMC So
 category: Semiconductors
 stage: pilot
 confidence_label: Confident
+confidence_score: 0.720
 est_year: 2027
 est_year_range: "2026–2031"
-horizon: "Near-Term (2027–2028)"
-source_count: 1
+horizon: "Near-Term (2027)"
+timeline_confidence: 65
+monetizable_year: "2029"
+monetizable_confidence: 63
+source_count: 0
 stocks: []
 permalink: /tech/wafer-on-wafer-3d-integration/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/wafer-on-wafer-3d-integration/
 
 Full wafer stacking with micron-pitch vertical interconnects; TSMC SoIC-X.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
-
-> AMD 3D V-Cache (Milan-X, Genoa-X, Ryzen X3D) uses TSMC SoIC wafer-on-wafer bonding for cache stacking — shipping millions of units since 2021. Sony stacked CMOS image sensors using WoW bonding in all smartphone cameras. TSMC SoIC now expanding to logic-on-logic stacking for AI accelerators.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **0 independent sources** on this technology.
 
 ## Status
 
@@ -27,22 +29,28 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.81** |
-| Estimated Deployment | **2026–2031** |
-| Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 1 |
+| Confidence Score | **+0.720** |
+| Estimated Reality | **2026–2031** |
+| Timeline Confidence | **65%** |
+| Monetizable By | **2029** *(est. confidence: 63%)* |
+| Horizon | Near-Term (2027) |
+| Independent Sources Tracked | 0 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2026–2031** | 65% |
+| Commercially Monetizable | **2029** | 63% |
 
-- [Chiplet / Disaggregated Architecture](/future/tech/chiplet-architecture/)
+Moderate timing confidence (65%) — roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [HBM4 Memory](/future/tech/hbm4-memory/)
+- [HBM4 Memory](/future/tech/hbm4-memory/) — *enables*
+- [CoWoS Advanced Packaging](/future/tech/cowos-advanced-packaging/) ✓ — *synergises with*
 
 ## Investment Exposure
 

@@ -5,11 +5,17 @@ subtitle: "Never trust, always verify — identity-based access replacing perime
 category: Cybersecurity
 stage: early_commercial
 confidence_label: Speculative
+confidence_score: 0.121
 est_year: 2019
-est_year_range: ""
-horizon: "Near-Term (Now–2026)"
-source_count: 7
+est_year_range: "2019"
+horizon: "Near-Term (Now)"
+timeline_confidence: 85
+monetizable_year: "2020"
+monetizable_confidence: 81
+source_count: 15
 stocks: [NET, PANW]
+lead_stock: NET
+lead_stock_confidence: 85
 permalink: /tech/zero-trust-security-architecture/
 ---
 
@@ -17,9 +23,9 @@ permalink: /tech/zero-trust-security-architecture/
 
 Never trust, always verify — identity-based access replacing perimeter models.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **7 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **15 independent sources** on this technology.
 
-> RSS:Module Lattice Security (Part IV): Probabilistic Polynomial Quantum At | rel=0.44 | uid:38bb87a31664c1e7
+*Policy framework, not a hardware fact; 1.0 is reserved for physics*
 
 ## Status
 
@@ -27,28 +33,50 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.11** |
-| Estimated Deployment | **2019–2027** |
-| Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 7 |
+| Confidence Score | **+0.121** |
+| Estimated Reality | **2019–2027** |
+| Timeline Confidence | **85%** |
+| Monetizable By | **2020** *(est. confidence: 81%)* |
+| Horizon | Near-Term (Now) |
+| Independent Sources Tracked | 15 |
+
+## Market Race
+
+**Head-to-Head Race** — 2 companies with meaningful exposure
+
+| Ticker | Company | Confidence | Position | Thesis |
+|--------|---------|-----------|----------|--------|
+| [NET](/future/stocks/net/) | Cloudflare Inc. | 85% | DIRECT | Cloudflare One SASE and Access **← Leader** |
+| [PANW](/future/stocks/panw/) | Palo Alto Networks | 82% | ENABLING | Prisma Access SASE with zero trust controls |
+
+**Current leader:** [NET](/future/stocks/net/) with **85%** exposure confidence based on our research.
+
+## Timeline Intelligence
+
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2019–2027** | 85% |
+| Commercially Monetizable | **2020** | 81% |
+
+High timing confidence (85%) — multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
-This technology depends on or is closely linked to:
+This technology depends on or requires advances in:
 
-- [AI-Autonomous Security Operations Centre](/future/tech/ai-autonomous-security-operations-centre/)
-- [Confidential Computing (TEE)](/future/tech/confidential-computing/)
+- [TLS/SSL Encrypted Transport](/future/tech/tlsssl-encrypted-transport/) ✓ — *requires*
+- [Hardware Security Module (HSM)](/future/tech/hardware-security-module-hsm/) ✓ — *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [SASE (Secure Access Service Edge)](/future/tech/sase-platform/)
-- [Hardware Security Module (HSM)](/future/tech/hardware-security-module/)
-- [TLS/SSL Encrypted Transport](/future/tech/tls-ssl/)
+- [SASE (Secure Access Service Edge)](/future/tech/sase-secure-access-service-edge/) — *enables*
+- [Quantum Key Distribution Network](/future/tech/quantum-key-distribution-network/) — *synergises with*
+- [AI-Autonomous Security Operations Centre](/future/tech/ai-autonomous-security-operations-centre/) — *synergises with*
 
 ## Investment Exposure
 
 [NET](/future/stocks/net/)  [PANW](/future/stocks/panw/)
 
-See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.
+See each stock page for revenue drivers, milestones, and risk factors.

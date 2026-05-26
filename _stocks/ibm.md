@@ -5,6 +5,7 @@ symbol: IBM
 exchange: NYSE
 categories: [AI & Cloud]
 node_count: 2
+bottleneck_count: 1
 ---
 
 ## Investment Thesis

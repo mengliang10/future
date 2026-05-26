@@ -5,8 +5,6 @@ symbol: MRNA
 exchange: NASDAQ
 categories: [Biotech, mRNA]
 node_count: 1
-timing_action: "FULL"
-regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

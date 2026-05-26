@@ -5,8 +5,6 @@ symbol: COIN
 exchange: NASDAQ
 categories: [Blockchain, Fintech]
 node_count: 2
-timing_action: "FULL"
-regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

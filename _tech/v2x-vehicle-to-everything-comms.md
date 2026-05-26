@@ -5,10 +5,14 @@ subtitle: "Direct vehicle-infrastructure communication for cooperative driving s
 category: Autonomous
 stage: prototype
 confidence_label: Speculative
+confidence_score: 0.119
 est_year: 2030
 est_year_range: "2027–2035"
-horizon: "Medium-Term (2029–2030)"
-source_count: 19
+horizon: "Mid-Term (2030)"
+timeline_confidence: 45
+monetizable_year: "2033"
+monetizable_confidence: 46
+source_count: 35
 stocks: []
 permalink: /tech/v2x-vehicle-to-everything-comms/
 ---
@@ -17,9 +21,7 @@ permalink: /tech/v2x-vehicle-to-everything-comms/
 
 Direct vehicle-infrastructure communication for cooperative driving safety.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **19 independent sources** on this technology.
-
-> RSS:Accelerating Hybrid XOR$-$CNF Boolean Satisfiability Problems Natively | rel=0.41 | uid:1e2cefa4b335a8af
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **35 independent sources** on this technology.
 
 ## Status
 
@@ -27,17 +29,21 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.12** |
-| Estimated Deployment | **2027–2035** |
-| Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 19 |
+| Confidence Score | **+0.119** |
+| Estimated Reality | **2027–2035** |
+| Timeline Confidence | **45%** |
+| Monetizable By | **2033** *(est. confidence: 46%)* |
+| Horizon | Mid-Term (2030) |
+| Independent Sources Tracked | 35 |
 
-## Prerequisites
+## Timeline Intelligence
 
-This technology depends on or is closely linked to:
+| Milestone | Estimate | Confidence |
+|-----------|----------|-----------|
+| Technology Reality | **2027–2035** | 45% |
+| Commercially Monetizable | **2033** | 46% |
 
-- [Zero-Accident Transport Network](/future/tech/zero-accident-transport/)
-- [6G Extreme-MIMO (X-MIMO) 7 GHz Network](/future/tech/6g-xmimo-7ghz/)
+Low timing confidence (45%) — timeline is speculative; watch for milestone announcements.
 
 ## Investment Exposure
 

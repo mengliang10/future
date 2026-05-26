@@ -5,8 +5,7 @@ symbol: ASML
 exchange: NASDAQ
 categories: [Semiconductors]
 node_count: 4
-timing_action: "HALF"
-regime: "TRENDING_UP"
+bottleneck_count: 1
 ---
 
 ## Investment Thesis

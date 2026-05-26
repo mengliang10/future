@@ -5,8 +5,6 @@ symbol: CRWD
 exchange: NASDAQ
 categories: [Software]
 node_count: 2
-timing_action: "WAIT"
-regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

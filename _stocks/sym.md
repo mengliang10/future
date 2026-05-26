@@ -4,6 +4,7 @@ name: "Symbotic Inc."
 symbol: SYM
 exchange: NASDAQ
 categories: [Robotics, AI]
+node_count: 1
 ---
 
 ## Investment Thesis
