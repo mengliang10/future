@@ -48,6 +48,7 @@ Blockchain infrastructure is separating into two distinct investment theses. The
     <p>The US Bitcoin spot ETF approval in January 2024 was the structural inflection. BlackRock's IBIT and Fidelity's FBTC are now among the fastest-growing ETFs in history. Institutional allocators who previously had no access to Bitcoin in their mandated structures can now buy through familiar brokerage infrastructure. MicroStrategy (now Strategy) holds over 500,000 BTC — their equity is effectively a leveraged perpetual Bitcoin call with a software business attached. This playbook is being replicated across public companies in tech, mining, and even retail.</p>
     <p>The Bitcoin treasury thesis is not symmetric: when BTC falls 40%, MSTR equity can fall 60–70%. When BTC rises, the leverage amplifies. Size these accordingly — they are not bond replacements, they are convex bets on BTC adoption with equity liquidity.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/mstr/" style="color:inherit">MSTR</a></span> <span class="ticker-badge"><a href="/future/stocks/mara/" style="color:inherit">MARA</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/mstr/" style="color:inherit">MSTR</a> &middot; 95%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/mara/">MARA</a> 85% &middot; +1 more</span></div>
   </div>
 </div>
 
@@ -59,6 +60,7 @@ Blockchain infrastructure is separating into two distinct investment theses. The
     <p>Coinbase (COIN) is the compliance and custody layer that institutional crypto requires. Without Coinbase's SEC-regulated prime brokerage and custody, BlackRock's Bitcoin ETF does not exist — COIN is the ETF custodian. This is the Amazon Web Services business model in crypto: the platform everyone builds on, earning fees regardless of which asset wins. The risks are fee compression as competition intensifies, and regulatory overhang from the SEC — but the moat from being the only SEC-regulated institutional-grade custodian at scale is substantial.</p>
     <p>Coinbase's Base L2 (Ethereum-compatible) is emerging as the institutional DeFi layer — the on-ramp for institutional tokenised asset settlement. If tokenisation scales, Base scales with it.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/coin/" style="color:inherit">COIN</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/coin/" style="color:inherit">COIN</a> &middot; 88%</span></div>
   </div>
 </div>
 
@@ -69,6 +71,7 @@ Blockchain infrastructure is separating into two distinct investment theses. The
   <div class="accordion-body">
     <p>Post the April 2024 halving, Bitcoin miner revenue per unit of hash rate halved overnight. The survivors are those with the cheapest power contracts, the newest ASIC-generation machines, and the balance sheet to weather the transition. MARA and RIOT are the two largest publicly listed miners — both are pivoting to capture the HPC/AI compute wave: their data centre real estate and power procurement infrastructure (cheap power, cooling, land) maps directly onto AI inference demand. CleanSpark differentiates on renewable energy contracts, reducing ESG risk and securing long-term power cost predictability.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/mara/" style="color:inherit">MARA</a></span> <span class="ticker-badge"><a href="/future/stocks/riot/" style="color:inherit">RIOT</a></span> <span class="ticker-badge"><a href="/future/stocks/clsk/" style="color:inherit">CLSK</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/mara/" style="color:inherit">MARA</a> &middot; 85%</span></div>
   </div>
 </div>
 
@@ -79,6 +82,7 @@ Blockchain infrastructure is separating into two distinct investment theses. The
   <div class="accordion-body">
     <p>Tokenised RWAs are the institutional blockchain application that matters at scale: US Treasuries ($1.5B on-chain via BlackRock BUIDL, Franklin Templeton BENJI), private credit, real estate, and eventually equities settling on-chain in T+0 rather than T+2. The benefit is clear — 24/7 settlement, programmable dividends, fractional ownership, and reduced counterparty risk. The barrier is regulatory: securities law does not yet recognise on-chain settlement as definitively as custodial book-entry settlement. When it does — and the trajectory from DTCC and SWIFT pilot programmes suggests this is a matter of years — the infrastructure layer (Coinbase, custody providers, L2 networks) captures enormous fee flows.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/coin/" style="color:inherit">COIN</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/coin/" style="color:inherit">COIN</a> &middot; 88%</span></div>
   </div>
 </div>
 

@@ -45,6 +45,7 @@ Artificial Intelligence is no longer a research project — it is the primary dr
     <p>GPT-4 class models are now infrastructure. The competition has shifted from model capability to inference cost — who can serve the same output token at lowest cost. Chain-of-thought reasoning (o-series, Claude extended thinking) is becoming the baseline expectation, increasing compute requirements per useful output by 5-15x.</p>
     <p>The long-term question: does inference commoditise, compressing model provider margins? The evidence so far says no — efficiency gains are absorbed by expanded usage. Every time inference cost drops 10x, usage increases 50x. NVIDIA benefits from both scenarios.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/nvda/" style="color:inherit">NVDA</a></span> <span class="ticker-badge"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a></span> <span class="ticker-badge"><a href="/future/stocks/googl/" style="color:inherit">GOOGL</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a> &middot; 85%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/googl/">GOOGL</a> 85% &middot; <a href="/future/stocks/nvda/">NVDA</a> 75% &middot; +1 more</span></div>
   </div>
 </div>
 
@@ -55,6 +56,7 @@ Artificial Intelligence is no longer a research project — it is the primary dr
   <div class="accordion-body">
     <p>AI coding agents move from demo to production in 2026. GitHub Copilot Workspace, Cursor, and enterprise custom agents built on Claude and GPT-4o are live in production. Controlled enterprise studies show 20-40% productivity gains for specific task categories. The bottleneck to full autonomy is formal reasoning — AI that can verify its own work. DeepMind (AlphaProof) is the leading research effort here. When this advances to commercial deployment, it unlocks six downstream technology categories simultaneously.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a></span> <span class="ticker-badge"><a href="/future/stocks/pltr/" style="color:inherit">PLTR</a></span> <span class="ticker-badge"><a href="/future/stocks/googl/" style="color:inherit">GOOGL</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a> &middot; 85%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/googl/">GOOGL</a> 85% &middot; +2 more</span></div>
   </div>
 </div>
 
@@ -65,6 +67,7 @@ Artificial Intelligence is no longer a research project — it is the primary dr
   <div class="accordion-body">
     <p>NVIDIA dominates with H100/H200/Blackwell (80%+ AI accelerator share). AMD MI300X is the only credible GPU alternative at scale. Custom silicon from Google (TPU), Amazon (Trainium), and Microsoft (Maia) is eroding NVIDIA's share at the hyperscaler level — but adoption has been slower than bears expected. CUDA ecosystem switching costs are measured in years of developer retraining, not months.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/nvda/" style="color:inherit">NVDA</a></span> <span class="ticker-badge"><a href="/future/stocks/amd/" style="color:inherit">AMD</a></span> <span class="ticker-badge"><a href="/future/stocks/avgo/" style="color:inherit">AVGO</a></span> <span class="ticker-badge"><a href="/future/stocks/mrvl/" style="color:inherit">MRVL</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/avgo/" style="color:inherit">AVGO</a> &middot; 88%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/mrvl/">MRVL</a> 78% &middot; <a href="/future/stocks/nvda/">NVDA</a> 70% &middot; <a href="/future/stocks/amd/">AMD</a> 55% &middot; +4 more</span></div>
   </div>
 </div>
 
@@ -75,6 +78,7 @@ Artificial Intelligence is no longer a research project — it is the primary dr
   <div class="accordion-body">
     <p>Enterprise SaaS is embedding AI across workflows (ServiceNow, Salesforce, Adobe). AI-native companies targeting vertical markets (Palantir for government/defence, Recursion for drug discovery). Monetisation models vary: seat pricing (GitHub Copilot), usage pricing (Azure AI), outcome-based (Palantir AIP). The companies with proprietary data and existing customer relationships have the most durable positions.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/pltr/" style="color:inherit">PLTR</a></span> <span class="ticker-badge"><a href="/future/stocks/now/" style="color:inherit">NOW</a></span> <span class="ticker-badge"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a> &middot; 90%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/pltr/">PLTR</a> 70% &middot; +1 more</span></div>
   </div>
 </div>
 
@@ -87,6 +91,7 @@ Artificial Intelligence is no longer a research project — it is the primary dr
     <p>As racks move from 15kW to 100kW+ (GB200 NVL72), cooling becomes a specialist industrial moat — Vertiv and Eaton are the key beneficiaries. Utilisation rates are shifting toward "inference-first" architectures to increase monetisation frequency versus long training runs. NVIDIA's GB200 provides a 25x reduction in TCO versus H100 for large-scale LLM inference — this is why Blackwell is in structural deficit despite its price premium.</p>
     <p>CSPs are signalling uncapped AI spending (Meta, Microsoft Q4 2024 earnings calls). Any dip in hyperscaler share prices due to elevated CapEx is a buying opportunity for the hardware layer — the spending is structural, not cyclical.</p>
     <p><strong>Rotation signal:</strong> Monitor the spread between NVIDIA supply and cloud demand. If GPU lead times drop below 12 weeks, rotate from hardware into the software layer deploying those models. <span class="ticker-badge"><a href="/future/stocks/nvda/" style="color:inherit">NVDA</a></span> <span class="ticker-badge"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a></span> <span class="ticker-badge"><a href="/future/stocks/amzn/" style="color:inherit">AMZN</a></span> <span class="ticker-badge"><a href="/future/stocks/googl/" style="color:inherit">GOOGL</a></span></p>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a> &middot; 85%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/googl/">GOOGL</a> 85% &middot; <a href="/future/stocks/nvda/">NVDA</a> 75% &middot; <a href="/future/stocks/amzn/">AMZN</a> 60%</span></div>
   </div>
 </div>
 
@@ -100,6 +105,7 @@ Artificial Intelligence is no longer a research project — it is the primary dr
     <p><strong>Data &amp; Analytics:</strong> Snowflake Cortex, Databricks Unity Catalog, MongoDB Atlas Vector Search, Datadog AI Monitoring. The infrastructure layer for AI-ready data pipelines. Vector databases are becoming a standard component of every AI application stack.</p>
     <p><strong>Developer Tools:</strong> Atlassian, GitLab. GitHub Copilot and AI code generation are simultaneously a threat to incumbent tooling and an opportunity for platforms that can own the full dev lifecycle. AI coding agents (see above) will reshape how software is built — toolchain owners who adapt fastest win.</p>
     <p><strong>Cloud Platforms:</strong> AWS Bedrock, Azure OpenAI Service, GCP Vertex AI capture the vast majority of AI workload spend. The three hyperscalers are simultaneously infrastructure providers and model distributors — a structural advantage that smaller cloud providers cannot replicate. <span class="ticker-badge"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a></span> <span class="ticker-badge"><a href="/future/stocks/googl/" style="color:inherit">GOOGL</a></span> <span class="ticker-badge"><a href="/future/stocks/amzn/" style="color:inherit">AMZN</a></span> <span class="ticker-badge"><a href="/future/stocks/pltr/" style="color:inherit">PLTR</a></span> <span class="ticker-badge"><a href="/future/stocks/net/" style="color:inherit">NET</a></span></p>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/amzn/" style="color:inherit">AMZN</a> &middot; 90%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/msft/">MSFT</a> 80% &middot; <a href="/future/stocks/googl/">GOOGL</a> 80%</span></div>
   </div>
 </div>
 

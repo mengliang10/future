@@ -20,6 +20,30 @@ layout: default
     {% if page.est_year %}<span class="tech-meta-year">Est. {{ page.est_year }}</span>{% endif %}
     {% if page.horizon %}<span class="tech-meta-horizon">{{ page.horizon }}</span>{% endif %}
   </div>
+  {% if page.lead_stock or page.monetizable_year or page.est_year_range %}
+  <div class="tech-intel-bar">
+    {% if page.lead_stock %}
+    <div class="tech-intel-item">
+      <span class="tech-intel-label">Market Leader</span>
+      <span class="tech-intel-value">
+        <a href="{{ '/stocks/' | append: page.lead_stock | downcase | append: '/' | relative_url }}" class="race-badge race-lead" style="text-decoration:none;color:inherit;">{{ page.lead_stock }}{% if page.lead_stock_confidence %} &middot; {{ page.lead_stock_confidence }}%{% endif %}</a>
+      </span>
+    </div>
+    {% endif %}
+    {% if page.est_year_range %}
+    <div class="tech-intel-item">
+      <span class="tech-intel-label">Reality Window</span>
+      <span class="tech-intel-value">{{ page.est_year_range }}{% if page.timeline_confidence %} <span class="tech-intel-conf">{{ page.timeline_confidence }}% conf.</span>{% endif %}</span>
+    </div>
+    {% endif %}
+    {% if page.monetizable_year %}
+    <div class="tech-intel-item">
+      <span class="tech-intel-label">Monetizable By</span>
+      <span class="tech-intel-value">{{ page.monetizable_year }}{% if page.monetizable_confidence %} <span class="tech-intel-conf">{{ page.monetizable_confidence }}% conf.</span>{% endif %}</span>
+    </div>
+    {% endif %}
+  </div>
+  {% endif %}
   {% if page.stocks %}
   <div class="tech-node-tickers">
     {% for t in page.stocks %}<a href="{{ '/stocks/' | append: t | downcase | append: '/' | relative_url }}" class="ticker-badge">{{ t }}</a> {% endfor %}
@@ -166,4 +190,43 @@ layout: default
   text-transform: capitalize;
 }
 .tech-related-item:hover { border-color: var(--accent); color: var(--accent); }
+
+.tech-intel-bar {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--bg-2);
+  margin: 0.75rem 0 0.6rem;
+}
+.tech-intel-item {
+  flex: 1;
+  min-width: 140px;
+  padding: 0.6rem 1rem;
+  border-right: 1px solid var(--border);
+}
+.tech-intel-item:last-child { border-right: none; }
+.tech-intel-label {
+  display: block;
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-3);
+  margin-bottom: 0.3rem;
+}
+.tech-intel-value {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  color: var(--text-1);
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  flex-wrap: wrap;
+}
+.tech-intel-conf {
+  font-size: 0.68rem;
+  color: var(--text-3);
+  font-family: var(--font-mono);
+}
 </style>

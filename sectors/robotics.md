@@ -44,6 +44,7 @@ Physical AI is the next chapter after language AI. Once models can reason about 
     <p>The transition from demo to commercial pilot is the critical inflection — because it is when actual cost data starts flowing. Tesla's Giga facilities and automotive supplier lines are running first deployments. The enabling technology is multi-modal AI (vision + language + action). NVIDIA Isaac Sim is the dominant training environment. Robot Learning from Demonstration allows task acquisition in hours rather than weeks of manual programming.</p>
     <p>First-generation units are priced at $30,000-$50,000. The payback arithmetic closes against US manufacturing wages. The 2026-2027 pilot data will determine whether this becomes a mass production event by 2028-2030.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/tsla/" style="color:inherit">TSLA</a></span> <span class="ticker-badge"><a href="/future/stocks/nvda/" style="color:inherit">NVDA</a></span> <span class="ticker-badge"><a href="/future/stocks/hon/" style="color:inherit">HON</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/tsla/" style="color:inherit">TSLA</a> &middot; 82%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/nvda/">NVDA</a> 55% &middot; +1 more</span></div>
   </div>
 </div>
 
@@ -54,6 +55,7 @@ Physical AI is the next chapter after language AI. Once models can reason about 
   <div class="accordion-body">
     <p>Traditional industrial robots, cobots, and automation controllers are a mature, profitable market. Rockwell Automation (ROK) and Honeywell (HON) serve the process control and industrial controller market. Teradyne's Universal Robots division is the dominant cobot platform globally. Cognex (CGNX) supplies machine vision for every major manufacturer. These companies benefit from humanoid adoption if humanoids become the flexible automation layer on top of existing industrial infrastructure.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/rok/" style="color:inherit">ROK</a></span> <span class="ticker-badge"><a href="/future/stocks/ter/" style="color:inherit">TER</a></span> <span class="ticker-badge"><a href="/future/stocks/cgnx/" style="color:inherit">CGNX</a></span> <span class="ticker-badge"><a href="/future/stocks/hon/" style="color:inherit">HON</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-mono"><a href="/future/stocks/cgnx/" style="color:inherit">CGNX</a> &middot; 90%</span> <span class="roadmap-rivals-sep">no rivals identified</span></div>
   </div>
 </div>
 
@@ -64,6 +66,7 @@ Physical AI is the next chapter after language AI. Once models can reason about 
   <div class="accordion-body">
     <p>Waymo is commercially operating robotaxis in San Francisco, Los Angeles, and Phoenix. Aurora Innovation launched commercial driverless trucking in Texas (April 2024). Mobileye's EyeQ chips power ADAS in 800+ vehicle models. Tesla FSD is Level 2+ (supervised) targeting Level 4. The sensor fusion and foundation model capabilities developed for AV directly transfer to humanoid robot programs — Waymo and Tesla are simultaneous AV and humanoid companies.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/tsla/" style="color:inherit">TSLA</a></span> <span class="ticker-badge"><a href="/future/stocks/mbly/" style="color:inherit">MBLY</a></span> <span class="ticker-badge"><a href="/future/stocks/googl/" style="color:inherit">GOOGL</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/tsla/" style="color:inherit">TSLA</a> &middot; 88%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/mbly/">MBLY</a> 85%</span></div>
   </div>
 </div>
 
@@ -74,6 +77,7 @@ Physical AI is the next chapter after language AI. Once models can reason about 
   <div class="accordion-body">
     <p>Intuitive Surgical da Vinci is the dominant surgical robot with over 8,000 systems installed globally. Recurring revenue from instruments and service exceeds hardware sales. The next generation (da Vinci 5) adds AI-assisted tissue recognition. Medical robotics has the most durable recurring revenue model in the robotics sector — once a hospital is trained on da Vinci, switching costs are enormous.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/isrg/" style="color:inherit">ISRG</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-mono"><a href="/future/stocks/isrg/" style="color:inherit">ISRG</a> &middot; 95%</span> <span class="roadmap-rivals-sep">no rivals identified</span></div>
   </div>
 </div>
 

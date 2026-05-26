@@ -47,6 +47,7 @@ Spatial computing replaces the flat screen with an immersive overlay on physical
     <p>Meta Quest 3 (at $499) has made Meta the overwhelmingly dominant VR platform — over 60% market share in standalone VR. The hardware investment ($15B+ per year in Reality Labs) is a bet that the platform that wins VR wins the next computing paradigm. Meta's strategy is to sell hardware at near cost, profit from the social and app platform on top. This is identical to how Amazon subsidised Kindle hardware to sell books. The flywheel: cheap headsets → developer ecosystem → more content → more users → more data for AI → better experiences → more users.</p>
     <p>The loss is real ($4–5B per year in Reality Labs), but Meta's core advertising business generates $50B+ per year. The R&D bill is affordable. When the glasses hit consumer form factor and price point, Meta will have the most trained AI, the largest developer ecosystem, and the most user data in the spatial layer.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/meta/" style="color:inherit">META</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-mono"><a href="/future/stocks/meta/" style="color:inherit">META</a> &middot; 92%</span> <span class="roadmap-rivals-sep">no rivals identified</span></div>
   </div>
 </div>
 
@@ -57,6 +58,7 @@ Spatial computing replaces the flat screen with an immersive overlay on physical
   <div class="accordion-body">
     <p>At $3,499, Apple Vision Pro is not a consumer product — it is a developer and enterprise preview. Apple is building the ecosystem and proving the design language before scaling the supply chain for a mass-market version (rumoured 2026–2027 at $1,500). The Vision Pro's optics (micro-OLED, 4K per eye), eye tracking, and spatial audio are the best in the industry. VisionOS is the first new Apple operating system in a decade. Apple's historical pattern — iPod → iPhone → iPad — suggests the mass market version follows 3–4 years after the pioneer product. The iPod of VisionOS is coming.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/aapl/" style="color:inherit">AAPL</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-mono"><a href="/future/stocks/aapl/" style="color:inherit">AAPL</a> &middot; 90%</span> <span class="roadmap-rivals-sep">no rivals identified</span></div>
   </div>
 </div>
 
@@ -67,6 +69,7 @@ Spatial computing replaces the flat screen with an immersive overlay on physical
   <div class="accordion-body">
     <p>Roblox has 88M+ daily active users building and monetising within its platform — predominantly Gen Z and younger. It is already a user-generated metaverse without the headset requirement. When glasses arrive, Roblox does not need to build the content: it already has millions of creators and billions of hours of engagement. The equity case is: user-generated platform (zero content cost) + virtual economy ($4B+ in developer payouts) + AI tools that accelerate creator productivity. Roblox is the latent XR content platform most investors haven't repositioned into yet.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/rblx/" style="color:inherit">RBLX</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/rblx/" style="color:inherit">RBLX</a> &middot; 70%</span></div>
   </div>
 </div>
 

@@ -47,6 +47,7 @@ Fault-tolerant quantum computers will break RSA encryption, accelerate drug mole
     <p>Three hardware approaches are racing to fault tolerance. Superconducting qubits (IBM, Google, Rigetti) deliver the most qubits today but require near-absolute-zero cooling — an engineering moat that limits deployment scale. Trapped-ion qubits (IonQ, Quantinuum) have lower error rates and room-temperature potential but slower gate speeds. Photonic qubits (PsiQuantum, Xanadu) operate at room temperature and integrate with fibre networks, but entanglement generation at scale remains unsolved.</p>
     <p>Google's 2024 Willow chip demonstrated below-threshold error correction for the first time — where adding more qubits reduces rather than amplifies error. This is the critical scientific milestone. IBM's roadmap targets 10,000+ logical qubits by 2033. The race is for who hits 1,000 error-corrected logical qubits first — that is the commercial threshold.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/ionq/" style="color:inherit">IONQ</a></span> <span class="ticker-badge"><a href="/future/stocks/ibm/" style="color:inherit">IBM</a></span> <span class="ticker-badge"><a href="/future/stocks/rgti/" style="color:inherit">RGTI</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/rgti/" style="color:inherit">RGTI</a> &middot; 90%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/ibm/">IBM</a> 80% &middot; +1 more</span></div>
   </div>
 </div>
 
@@ -58,6 +59,7 @@ Fault-tolerant quantum computers will break RSA encryption, accelerate drug mole
     <p>NIST finalised four post-quantum cryptographic standards in 2024. US federal agencies face a 2030 migration deadline for classified systems. Enterprise migration follows the same timeline as Y2K — driven by regulatory mandate, not voluntary adoption. Every encrypted connection on the internet must be re-keyed. The migration is a $50–100B infrastructure upgrade cycle that touches every cloud provider, every bank, and every government network.</p>
     <p>The investable exposure is through enterprise security vendors who are embedding PQC into their product stacks — not through quantum hardware companies. CrowdStrike, Palo Alto, and IBM Security are updating their encryption layers now. This is a multi-year forced upgrade cycle with no optionality: you cannot skip it.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/ibm/" style="color:inherit">IBM</a></span> <span class="ticker-badge"><a href="/future/stocks/hon/" style="color:inherit">HON</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/ibm/" style="color:inherit">IBM</a> &middot; 80%</span></div>
   </div>
 </div>
 
@@ -68,6 +70,7 @@ Fault-tolerant quantum computers will break RSA encryption, accelerate drug mole
   <div class="accordion-body">
     <p>Quantum gravity sensors and atomic clocks are deployable today, without error correction. Applications include navigation without GPS (submarine, underground), gravitational anomaly detection for oil/gas exploration, and medical imaging at resolutions classical sensors cannot achieve. This is the most commercially viable near-term quantum application — operating in existing military and scientific procurement budgets rather than waiting for fault tolerance. Honeywell Quantum Solutions serves this market through its precision navigation and quantum sensing divisions.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/hon/" style="color:inherit">HON</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/hon/" style="color:inherit">HON</a> &middot; 75%</span></div>
   </div>
 </div>
 
@@ -78,6 +81,7 @@ Fault-tolerant quantum computers will break RSA encryption, accelerate drug mole
   <div class="accordion-body">
     <p>Before fault tolerance, current noisy quantum hardware can run variational algorithms on specific problems: molecular simulation for chemistry, portfolio optimisation, and constrained logistics. IBM Quantum Network and IonQ's cloud access programs are signing research agreements with pharmaceutical companies and financial institutions. The question is whether NISQ-era results are commercially superior to classical HPC — the evidence so far is mixed, and the classical simulation benchmark keeps improving.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/ionq/" style="color:inherit">IONQ</a></span> <span class="ticker-badge"><a href="/future/stocks/qbts/" style="color:inherit">QBTS</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/ionq/" style="color:inherit">IONQ</a> &middot; 95%</span></div>
   </div>
 </div>
 

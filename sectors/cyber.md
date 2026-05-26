@@ -46,6 +46,7 @@ AI has restructured the economics of both offence and defence. Attackers now gen
   <div class="accordion-body open">
     <p>Enterprise security is consolidating from 30+ point products to 3–5 integrated platforms. The economics drive this: a single-vendor XDR + SASE + identity platform is 30–40% cheaper in total cost of ownership than the equivalent point-solution stack, with faster detection and response. CrowdStrike (CRWD) won endpoint; its Falcon platform now extends to cloud workloads, identity, and data. Palo Alto (PANW) is the broadest consolidator — NGFW hardware + Prisma SASE + Cortex AI — and has explicitly guided to 15–20% incremental revenue from platformisation. The metric to watch: net retention rate (NRR). CRWD at 120%+ NRR means every customer expands by 20% per year without new logos.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/crwd/" style="color:inherit">CRWD</a></span> <span class="ticker-badge"><a href="/future/stocks/panw/" style="color:inherit">PANW</a></span> <span class="ticker-badge"><a href="/future/stocks/zs/" style="color:inherit">ZS</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/crwd/" style="color:inherit">CRWD</a> &middot; 92%</span></div>
   </div>
 </div>
 
@@ -66,6 +67,7 @@ AI has restructured the economics of both offence and defence. Attackers now gen
   <div class="accordion-body">
     <p>SentinelOne (S) built its platform AI-first rather than retrofitting AI onto a rules-based system. Its Purple AI automates threat investigation and response — what previously took a security analyst 30 minutes is summarised in 30 seconds. The autonomous SOC (where AI handles Tier-1 and Tier-2 alert triage with zero human intervention) is 2–3 years away, but the direction is clear. The risk for S is that CrowdStrike and Palo Alto have larger customer bases to cross-sell AI into, and will close the AI quality gap faster than S can close the customer base gap.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/s/" style="color:inherit">S</a></span> <span class="ticker-badge"><a href="/future/stocks/net/" style="color:inherit">NET</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/s/" style="color:inherit">S</a> &middot; 88%</span></div>
   </div>
 </div>
 
@@ -76,6 +78,7 @@ AI has restructured the economics of both offence and defence. Attackers now gen
   <div class="accordion-body">
     <p>NIST's four finalised PQC algorithms create a federal mandate with a 2030 deadline for classified systems. Every enterprise with government contracts or regulated data follows the same clock. This is a $50–100B forced infrastructure upgrade: every TLS certificate, VPN connection, encrypted storage system, and HSM must be re-keyed with quantum-resistant algorithms. The benefit flows to the platforms already embedded in enterprise security stacks — CrowdStrike, Palo Alto, Okta, and Cloudflare are all updating their encryption layers. There is no "do nothing" option: attackers are collecting encrypted data today to decrypt when quantum computers arrive ("harvest now, decrypt later").</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/panw/" style="color:inherit">PANW</a></span> <span class="ticker-badge"><a href="/future/stocks/net/" style="color:inherit">NET</a></span> <span class="ticker-badge"><a href="/future/stocks/ibm/" style="color:inherit">IBM</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/net/" style="color:inherit">NET</a> &middot; 85%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/panw/">PANW</a> 82%</span></div>
   </div>
 </div>
 

@@ -32,6 +32,16 @@ If an enhancement only passes the site lens, it is a local fix, not an investmen
 | 6 | [06-domain-migration.md](06-domain-migration.md) | Migrate from GitHub Pages to owned domain | Draft |
 | 7 | [07-monetize-adsense.md](07-monetize-adsense.md) | Google AdSense integration | Draft |
 | 8 | [08-monetize-adserver.md](08-monetize-adserver.md) | Build and operate a first-party ad server | Draft |
+| 9 | [09-analytics-tracking.md](09-analytics-tracking.md) | GA4 + Matomo dual-layer analytics — no paid tools | Draft |
+| 10 | [10-data-strategy.md](10-data-strategy.md) | Data lake, data mesh, ETL pipeline, context engineering | Draft |
+| 11 | [11-ad-network-management.md](11-ad-network-management.md) | Google/Meta/LinkedIn Ads management + unified attribution | Draft |
+| 12 | [12-personalization.md](12-personalization.md) | Behavioural personalisation — no paid tools | Draft |
+| 13 | [13-experimentation-testing.md](13-experimentation-testing.md) | A/B, MVT, holdouts, experiment journal — GrowthBook OSS | Draft |
+| 14 | [14-social-listening.md](14-social-listening.md) | Social listening via Reddit/HN/RSS — no paid tools | Draft |
+| 15 | [15-tag-management-free-tools.md](15-tag-management-free-tools.md) | GTM, Microsoft Clarity, Lighthouse CI, free tool stack | Draft |
+| 16 | [16-agentic-martech-stack.md](16-agentic-martech-stack.md) | AI agents for marketers + customers + buyer-side readiness | Draft |
+| 17 | [17-context-engineering-cdp.md](17-context-engineering-cdp.md) | Self-hosted CDP + context engineering for AI agents | Draft |
+| 18 | [18-synthetic-customers-simulation.md](18-synthetic-customers-simulation.md) | Synthetic customer digital twins for pre-testing | Draft |
 
 ---
 

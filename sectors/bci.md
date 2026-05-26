@@ -46,6 +46,7 @@ When a paralysed patient types 40 words per minute using only thought — as Bra
     <p>Medtronic (MDT) and Abbott (ABT) generate billions in annual revenue from approved deep brain stimulation devices for Parkinson's disease, essential tremor, epilepsy, and treatment-resistant depression. LivaNova (LIVN) specialises in vagus nerve stimulation for epilepsy. These are not speculative — they are proven medical devices with recurring revenue from implant + programmer + leads business models. The AI integration layer is the next unlock: closed-loop DBS systems that sense neural activity in real time and adjust stimulation parameters autonomously (rather than requiring clinical programming visits) are in clinical trials now.</p>
     <p>The therapeutic BCI market is the safest listed exposure in the sector: established companies, insurance reimbursement, durable recurring revenue, and AI-enhanced products in the pipeline.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/mdt/" style="color:inherit">MDT</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-mono"><a href="/future/stocks/mdt/" style="color:inherit">MDT</a> &middot; 90%</span> <span class="roadmap-rivals-sep">no rivals identified</span></div>
   </div>
 </div>
 
@@ -56,6 +57,7 @@ When a paralysed patient types 40 words per minute using only thought — as Bra
   <div class="accordion-body">
     <p>Neuralink's N1 implant (1,024 electrodes, wireless, rechargeable) achieved its first human implant in January 2024. Patient Noland Arbaugh — paralysed from the shoulders down — controlled a computer cursor and played chess using only neural signals within weeks of implant. The electrode count (1,024 vs. Utah Array's 96) and wireless design are step-changes in capability. Precision Neuroscience is pursuing a minimally invasive "layer 7" cortical surface array (no penetrating electrodes) as a lower-risk alternative. Both companies are private; listed equity access requires waiting for IPO or investing through NVDA (whose H100 GPUs process the neural decoding models).</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/nvda/" style="color:inherit">NVDA</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/nvda/" style="color:inherit">NVDA</a> &middot; 90%</span></div>
   </div>
 </div>
 
@@ -66,6 +68,7 @@ When a paralysed patient types 40 words per minute using only thought — as Bra
   <div class="accordion-body">
     <p>Meta AI published research in 2023 demonstrating decoding of full perceived speech from non-invasive brain recordings using magnetoencephalography (MEG). While MEG is not portable, the same techniques are being applied to EEG. Consumer non-invasive BCI headsets (Emotiv, Neurosity, InteraXon Muse) exist today for biofeedback, meditation tracking, and gaming — but bandwidth is severely limited compared to invasive approaches. The AI decoding layer (transformers trained on neural signals) is advancing rapidly; each year the decode accuracy improves substantially as more labelled neural data becomes available. This is the consumer path: low-risk, lower bandwidth, but potentially mass-market when miniaturised into hearing-aid form factor.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/googl/" style="color:inherit">GOOGL</a></span> <span class="ticker-badge"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/msft/" style="color:inherit">MSFT</a> &middot; 85%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/googl/">GOOGL</a> 85% &middot; +2 more</span></div>
   </div>
 </div>
 

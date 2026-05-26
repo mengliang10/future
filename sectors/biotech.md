@@ -51,6 +51,7 @@ CRISPR-Cas9 gene editing received its first FDA approval in 2023 (Casgevy for si
     <p>CRISPR Therapeutics (CRSP) and Vertex's Casgevy received FDA and EMA approval for sickle cell disease and beta-thalassemia — the first CRISPR therapy in history. At $2.2M per patient, the pricing model signals that these are cure-equivalents, not maintenance drugs. The addressable market is narrow for the first generation, but the precedent and manufacturing infrastructure being built will serve much larger markets in the second generation (cancer, cardiovascular disease).</p>
     <p>Beam Therapeutics (BEAM) and Prime Medicine are developing base editing and prime editing — more precise variants that can make single-letter DNA changes without double-strand breaks, expanding the addressable target space. Editas (EDIT) is focused on in-vivo editing of the eye — a contained, immune-privileged organ that is the ideal proving ground for in-vivo delivery.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/crsp/" style="color:inherit">CRSP</a></span> <span class="ticker-badge"><a href="/future/stocks/beam/" style="color:inherit">BEAM</a></span> <span class="ticker-badge"><a href="/future/stocks/edit/" style="color:inherit">EDIT</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-mono"><a href="/future/stocks/beam/" style="color:inherit">BEAM</a> &middot; 95%</span> <span class="roadmap-rivals-sep">no rivals identified</span></div>
   </div>
 </div>
 
@@ -62,6 +63,7 @@ CRISPR-Cas9 gene editing received its first FDA approval in 2023 (Casgevy for si
     <p>Moderna and BioNTech built the world's most proven mRNA manufacturing and delivery infrastructure during COVID. They are now deploying it against cancer, rare disease, and cardiovascular targets. Moderna's personalised cancer vaccine (mRNA-4157) with Merck showed 44% reduction in recurrence of high-risk melanoma in Phase 2. BioNTech's pipeline includes BNT211 (cancer-specific CAR-T + mRNA amplifier) and BNT323 (ADC). The mRNA delivery mechanism — lipid nanoparticles — is the platform; the sequence is the drug. Iteration speed is 10× faster than traditional biologics.</p>
     <p>The risk is that COVID vaccine revenues have collapsed and the market has re-rated both names as pandemic plays rather than platform companies. That creates a structural discount to intrinsic value for investors willing to hold through the pipeline inflection (2026–2027 late-stage readouts).</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/mrna/" style="color:inherit">MRNA</a></span> <span class="ticker-badge"><a href="/future/stocks/bntx/" style="color:inherit">BNTX</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/mrna/" style="color:inherit">MRNA</a> &middot; 95%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/bntx/">BNTX</a> 90%</span></div>
   </div>
 </div>
 
@@ -73,6 +75,7 @@ CRISPR-Cas9 gene editing received its first FDA approval in 2023 (Casgevy for si
     <p>AlphaFold (DeepMind) solved protein structure prediction — a problem that took crystallographers 50 years, now solved in milliseconds. The downstream impact is that AI can now design novel proteins with specific functions, propose binding sites for drug molecules, and screen billions of compound-disease interactions computationally. Recursion Pharmaceuticals (RXRX) uses imaging-based phenotypic screening — photographing millions of cellular responses to compounds and using vision models to identify promising candidates. Their partnership with Nvidia (NVDA) integrates BioNeMo GPU-accelerated models into their platform.</p>
     <p>The drug discovery pipeline has 10-12 year timelines and 90% failure rates. AI is compressing early-stage discovery from years to months, but clinical trials still take 7–10 years and are not accelerated by AI. The investment thesis is platform value, not near-term drug approvals.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/rxrx/" style="color:inherit">RXRX</a></span> <span class="ticker-badge"><a href="/future/stocks/nvda/" style="color:inherit">NVDA</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-lead"><a href="/future/stocks/nvda/" style="color:inherit">NVDA</a> &middot; 90%</span></div>
   </div>
 </div>
 
@@ -83,6 +86,7 @@ CRISPR-Cas9 gene editing received its first FDA approval in 2023 (Casgevy for si
   <div class="accordion-body">
     <p>Senescent cells — "zombie cells" that stop dividing but don't die — accumulate with age and drive chronic inflammation that underlies most age-related disease. Senolytic drugs (dasatinib + quercetin; Unity Biotechnology's UBX1325 for eye disease) that selectively clear these cells have shown healthspan extension in animal models. The human trials are in Phase 2. Epigenetic reprogramming (Altos Labs, Calico, Retro Biosciences — all private) is targeting the methylation clock — essentially resetting the cell's age programme. This is 10–15 year science, not near-term equity. GLP-1 drugs (Ozempic, Wegovy) are the most commercially proven longevity-adjacent drugs now — reducing cardiovascular events, kidney disease, and potentially Alzheimer's beyond their weight-loss profile.</p>
     <div style="margin-top:0.75rem;"><span class="ticker-badge"><a href="/future/stocks/ilmn/" style="color:inherit">ILMN</a></span></div>
+  <div class="roadmap-leader-box"><span class="roadmap-leader-label">Leader:</span> <span class="race-badge race-mono"><a href="/future/stocks/ilmn/" style="color:inherit">ILMN</a> &middot; 95%</span> <span class="roadmap-rivals-sep">no rivals identified</span></div>
   </div>
 </div>
 
