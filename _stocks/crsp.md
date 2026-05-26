@@ -31,6 +31,9 @@ CRISPR Therapeutics has the first approved CRISPR gene editing therapy (Casgevy,
 </div>
 <div class="roadmap-stock-item-desc">Delivering CRISPR to living patients via LNP/AAV; FDA-approved TTR amyloidosis 2023</div>
 <div class="roadmap-stock-item-impact">&#128200; CRSP's Casgevy (with Vertex) is the first approved CRISPR therapy for sickle cell and beta-thal. Commercial launch is ongoing. Pipeline of additional in-vivo programs represents the long-term option value.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 85%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -41,6 +44,11 @@ CRISPR Therapeutics has the first approved CRISPR gene editing therapy (Casgevy,
 </div>
 <div class="roadmap-stock-item-desc">Programmable DNA cut-and-paste at specific loci; Nobel Prize 2020</div>
 <div class="roadmap-stock-item-impact">&#128200; Foundation technology now in widespread commercial use in research. IP landscape is complex (Broad vs Berkeley patent dispute resolved in Broad's favour). Not a direct revenue driver for CRSP but the basis for all pipeline programs.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 92%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

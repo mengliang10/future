@@ -31,6 +31,9 @@ Mobileye is the dominant ADAS chip and software provider to traditional OEMs —
 </div>
 <div class="roadmap-stock-item-desc">Urban driving with no human available, approved for general public roads</div>
 <div class="roadmap-stock-item-impact">&#128200; Tesla FSD is commercially deployed but still Level 2+ (supervised). Level 4 (no human required) is targeted but not committed. Timeline has slipped multiple times. If achieved, transforms the revenue model via autonomous ride-hailing.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">&#9650; LEADING · 65%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/tsla/">TSLA</a> 65%</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -41,6 +44,9 @@ Mobileye is the dominant ADAS chip and software provider to traditional OEMs —
 </div>
 <div class="roadmap-stock-item-desc">Combined steering + acceleration automation with driver supervision — Tesla AP</div>
 <div class="roadmap-stock-item-impact">&#128200; Tesla Autopilot/FSD is deployed across the entire Tesla fleet (7M+ vehicles). This is a paid subscription and a data collection mechanism for training the FSD neural networks.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-2nd">&#9889; 2ND · 85%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/tsla/">TSLA</a> 88% (&#8722;3pp)</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -51,6 +57,11 @@ Mobileye is the dominant ADAS chip and software provider to traditional OEMs —
 </div>
 <div class="roadmap-stock-item-desc">Fusing multiple sensor modalities for robust environmental perception</div>
 <div class="roadmap-stock-item-impact">&#128200; Mobileye's EyeQ chips process sensor fusion data for ADAS and AV programs in 800+ vehicle models. The sensor fusion platform is the hardware moat for higher autonomy levels.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 88%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 65%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/tsla/">TSLA</a> 65%</span></div>
 </div>

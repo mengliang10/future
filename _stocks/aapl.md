@@ -23,6 +23,9 @@ Detailed fundamental analysis and growth catalysts for Apple Inc. (AAPL) are cur
 </div>
 <div class="roadmap-stock-item-desc">OS for 3D spatial interfaces — Apple visionOS, Meta Horizon OS</div>
 <div class="roadmap-stock-item-impact">&#128200; Apple visionOS is the spatial computing platform for Vision Pro. Early commercial stage with a small installed base. The long-term play is visionOS becoming as dominant as iOS — but the timeline is 2030+.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 90%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -33,6 +36,11 @@ Detailed fundamental analysis and growth catalysts for Apple Inc. (AAPL) are cur
 </div>
 <div class="roadmap-stock-item-desc">Fashionable AR eyewear for everyday use — Meta Orion, Apple Vision Pro</div>
 <div class="roadmap-stock-item-impact">&#128200; Meta Ray-Ban smart glasses are the leading form factor in consumer AR. Full AR (Orion-class) glasses are targeted for 2025-2026 at a price point below Vision Pro.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-2nd">&#9889; 2ND · 72%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/meta/">META</a> 82% (&#8722;9pp)</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

@@ -31,6 +31,11 @@ Unity is the engine that builds most of the world's games, simulations, and XR e
 </div>
 <div class="roadmap-stock-item-desc">Neural rendering replacing rasterization for photorealistic real-time graphics</div>
 <div class="roadmap-stock-item-impact">&#128200; Unity is developing AI-powered rendering tools that could reduce manual 3D content creation cost. The technology is prototype-stage — commercial impact is 2027+.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 82%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

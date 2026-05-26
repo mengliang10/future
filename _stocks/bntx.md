@@ -31,6 +31,11 @@ BioNTech is Moderna's peer and rival — same mRNA platform technology, differen
 </div>
 <div class="roadmap-stock-item-desc">Programmable mRNA delivery for vaccines and protein replacement — Moderna, BioNTech</div>
 <div class="roadmap-stock-item-impact">&#128200; The mRNA platform is proven at scale. Pipeline includes personalised cancer vaccines, RSV, flu, HIV, and rare diseases. Each approved indication is a new revenue stream on the same manufacturing infrastructure.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-2nd">&#9889; 2ND · 90%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/mrna/">MRNA</a> 95% (&#8722;4pp)</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-2nd">⚡ 2ND · 90%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/mrna/">MRNA</a> 95% (−4pp)</span></div>
 </div>

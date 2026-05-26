@@ -23,6 +23,9 @@ Palantir is the enterprise AI agent deployment platform for organisations that c
 </div>
 <div class="roadmap-stock-item-desc">AI that autonomously writes, tests, and deploys production software</div>
 <div class="roadmap-stock-item-impact">&#128200; Palantir AIP (AI Platform) enables enterprise organisations to deploy AI agents that operate on their proprietary data within security boundaries. AIP revenue is growing faster than Palantir's traditional Foundry/Gotham products. This is the commercial AI agent product with the deepest defence and intelligence customer base.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-2nd">&#9889; 2ND · 70%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/msft/">MSFT</a> 90% (&#8722;20pp)</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -33,6 +36,9 @@ Palantir is the enterprise AI agent deployment platform for organisations that c
 </div>
 <div class="roadmap-stock-item-desc">AI that plans, uses tools, and executes multi-step tasks with minimal human input</div>
 <div class="roadmap-stock-item-impact">&#128200; Palantir AIP is the leading enterprise platform for autonomous AI decision-making in defence, intelligence, and commercial operations. The combination of proprietary operational data and AI agent execution is the Palantir moat — it is very difficult to replicate the customer relationships and data integrations.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-2nd">&#9889; 2ND · 70%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/msft/">MSFT</a> 75% (&#8722;5pp)</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -43,6 +49,11 @@ Palantir is the enterprise AI agent deployment platform for organisations that c
 </div>
 <div class="roadmap-stock-item-desc">ML models detecting novel attacks, zero-days, and insider threats in real time</div>
 <div class="roadmap-stock-item-impact">&#128200; Palantir Gotham and Metropolis apply AI to intelligence analysis, threat detection, and operational decision support at government scale. This is the original Palantir business — now augmented by LLM-based analysis through AIP. Long-term government contracts provide revenue stability.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-2nd">&#9889; 2ND · 60%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/crwd/">CRWD</a> 85% (&#8722;25pp)</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-2nd">⚡ 2ND · 70%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/msft/">MSFT</a> 90% (−20pp)</span></div>
 </div>

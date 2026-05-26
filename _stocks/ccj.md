@@ -41,6 +41,11 @@ Cameco is the world's largest listed uranium miner — the picks-and-shovels bet
 </div>
 <div class="roadmap-stock-item-desc">Advanced light water reactors — AP1000, EPR; passive safety features</div>
 <div class="roadmap-stock-item-impact">&#128200; CEG operates the largest nuclear fleet in the US. Long-term power purchase agreements with hyperscalers provide revenue visibility. New plant PPAs are being signed at premium rates driven by AI data centre demand.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-supply">KEY SUPPLIER · 85%</span> <span class="roadmap-rivals-sep">enables: <a href="/future/stocks/ceg/">CEG</a> 95%</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-supply">KEY SUPPLIER · 85%</span> <span class="roadmap-rivals-sep">enables: <a href="/future/stocks/ceg/">CEG</a> 95%</span></div>
 </div>

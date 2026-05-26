@@ -31,6 +31,11 @@ Moderna built the world's most advanced mRNA drug factory. Post-COVID, they are 
 </div>
 <div class="roadmap-stock-item-desc">Programmable mRNA delivery for vaccines and protein replacement — Moderna, BioNTech</div>
 <div class="roadmap-stock-item-impact">&#128200; The mRNA platform is proven at scale. Pipeline includes personalised cancer vaccines, RSV, flu, HIV, and rare diseases. Each approved indication is a new revenue stream on the same manufacturing infrastructure.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">&#9650; LEADING · 95%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/bntx/">BNTX</a> 90%</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 95%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/bntx/">BNTX</a> 90%</span></div>
 </div>

@@ -21,6 +21,9 @@ Symbotic builds AI-powered robotic warehouse automation systems — dense-storag
 <span class="roadmap-stock-item-year">2027</span>
 </div>
 <div class="roadmap-stock-item-impact">&#128200; Symbotic systems are operating in Walmart DCs across the US. This is early commercial deployment at scale — not a pilot, not mass market yet.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 88%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -41,4 +44,6 @@ Symbotic builds AI-powered robotic warehouse automation systems — dense-storag
 <div class="roadmap-stock-item-impact">&#128200; Symbotic's AI stack learns optimal picking strategies from operational data. Continuous learning in production warehouses is a competitive moat.</div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

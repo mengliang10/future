@@ -32,6 +32,11 @@ GE Vernova is the most interesting combination in the energy sector: profitable 
 </div>
 <div class="roadmap-stock-item-desc">Turbines on floating platforms for deep-water offshore deployment</div>
 <div class="roadmap-stock-item-impact">&#128200; GE Vernova Haliade-X offshore turbines are the largest in commercial production. Floating wind (deeper water deployment) expands the addressable market significantly post-2029.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 80%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

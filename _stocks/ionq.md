@@ -22,6 +22,11 @@ Detailed fundamental analysis and growth catalysts for IonQ Inc. (IONQ) are curr
 </div>
 <div class="roadmap-stock-item-desc">Individual ions in EM field as high-fidelity qubits; IonQ, Quantinuum</div>
 <div class="roadmap-stock-item-impact">&#128200; IonQ sells quantum computing access through AWS Braket, Azure Quantum, and Google Cloud. Revenue is government-contract-heavy. Trapped-ion architecture trades gate speed for higher native fidelity.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">&#9650; LEADING · 95%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/hon/">HON</a> 75%</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 95%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/hon/">HON</a> 75%</span></div>
 </div>

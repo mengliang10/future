@@ -31,6 +31,11 @@ MicroStrategy is a leveraged Bitcoin holding vehicle with a software business at
 </div>
 <div class="roadmap-stock-item-desc">First decentralized permissionless monetary ledger; 15+ years continuous uptime</div>
 <div class="roadmap-stock-item-impact">&#128200; Marathon is a Bitcoin miner. Revenue is direct function of Bitcoin price and network hashrate. Margin depends on energy cost per hash. This is a leveraged Bitcoin position with operational execution risk.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">&#9650; LEADING · 95%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/coin/">COIN</a> 88% · <a href="/future/stocks/mara/">MARA</a> 85%</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 95%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/coin/">COIN</a> 88% · <a href="/future/stocks/mara/">MARA</a> 85%</span></div>
 </div>

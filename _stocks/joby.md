@@ -21,6 +21,11 @@ Joby is the leading eVTOL (electric vertical takeoff and landing) air taxi devel
 <span class="roadmap-stock-item-year">2026</span>
 </div>
 <div class="roadmap-stock-item-impact">&#128200; Joby is the closest to FAA certification among all eVTOL developers. Commercial launch targeting 2026 in select US markets via Delta partnership. Certification milestone is the stock's binary catalyst.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 92%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

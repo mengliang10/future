@@ -22,6 +22,9 @@ Microsoft has the most comprehensive AI strategy of any large-cap. GitHub Copilo
 </div>
 <div class="roadmap-stock-item-desc">AI that autonomously writes, tests, and deploys production software</div>
 <div class="roadmap-stock-item-impact">&#128200; Microsoft GitHub Copilot is the market-leading AI coding tool. GitHub revenue (now $2B+ run rate) and Azure AI inference both benefit directly from agent adoption growth.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">&#9650; LEADING · 90%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/pltr/">PLTR</a> 70% · <a href="/future/stocks/amzn/">AMZN</a> 50%</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -32,6 +35,9 @@ Microsoft has the most comprehensive AI strategy of any large-cap. GitHub Copilo
 </div>
 <div class="roadmap-stock-item-desc">Logical qubit from many physical; ~1000 physical per logical qubit needed</div>
 <div class="roadmap-stock-item-impact">&#128200; NVIDIA GPUs are used to simulate quantum circuits and accelerate error-correction research. Position is indirect — GPU demand from quantum researchers — not a direct quantum hardware play.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-2nd">&#9889; 2ND · 55%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/ibm/">IBM</a> 75% (&#8722;19pp)</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -42,6 +48,9 @@ Microsoft has the most comprehensive AI strategy of any large-cap. GitHub Copilo
 </div>
 <div class="roadmap-stock-item-desc">Dense LLMs at ~1T parameter scale with strong reasoning and code ability</div>
 <div class="roadmap-stock-item-impact">&#128200; Training and running frontier LLMs requires NVIDIA A100/H100/B200 hardware. Software moat (CUDA) makes switching prohibitively expensive. This is infrastructure pricing power.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-2nd">&#9889; 2ND · 85%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/googl/">GOOGL</a> 85% (&#8722;0pp)</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -52,6 +61,9 @@ Microsoft has the most comprehensive AI strategy of any large-cap. GitHub Copilo
 </div>
 <div class="roadmap-stock-item-desc">Massive data center networks: AWS, Azure, GCP serving global AI workloads</div>
 <div class="roadmap-stock-item-impact">&#128200; Azure is the #2 cloud provider globally. AI workloads are the fastest-growing Azure segment, with AI contributing meaningful points to Azure revenue growth.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-trail">&#9660; #3 · 80%</span> <span class="roadmap-rivals-sep">leader: <a href="/future/stocks/amzn/">AMZN</a> 90%</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -62,6 +74,11 @@ Microsoft has the most comprehensive AI strategy of any large-cap. GitHub Copilo
 </div>
 <div class="roadmap-stock-item-desc">AI that plans, uses tools, and executes multi-step tasks with minimal human input</div>
 <div class="roadmap-stock-item-impact">&#128200; Microsoft Copilot (across Office 365, Teams, Azure) is the enterprise AI agent suite. Each enterprise seat adds incremental Azure AI spend. This is subscription revenue with AI-driven ARPU expansion.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">&#9650; LEADING · 75%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/pltr/">PLTR</a> 70% · <a href="/future/stocks/arm/">ARM</a> 50%</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 90%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/pltr/">PLTR</a> 70% · <a href="/future/stocks/amzn/">AMZN</a> 50%</span></div>
 </div>

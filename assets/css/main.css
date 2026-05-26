@@ -1326,3 +1326,67 @@ blockquote {
   line-height: 1.55;
 }
 .td-factor { min-width: 70px; }
+
+/* ── Race / Competitive Position ── */
+.race-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  font-size: 0.68rem;
+  font-weight: 700;
+  font-family: var(--font-mono);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.2em 0.65em;
+  border-radius: 4px;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+.race-lead    { background: rgba(0,220,120,0.15);  color: #00dc78; border: 1px solid rgba(0,220,120,0.35); }
+.race-2nd     { background: rgba(0,180,255,0.12);  color: #00b4ff; border: 1px solid rgba(0,180,255,0.3); }
+.race-trail   { background: rgba(160,160,160,0.1); color: #909090; border: 1px solid rgba(160,160,160,0.25); }
+.race-mono    { background: rgba(255,200,0,0.12);  color: #ffc800; border: 1px solid rgba(255,200,0,0.3); }
+.race-supply  { background: rgba(255,120,50,0.12); color: #ff9055; border: 1px solid rgba(255,120,50,0.28); }
+
+.roadmap-stock-item-race {
+  grid-column: 1/-1;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--text-3);
+  padding-top: 0.4rem;
+  margin-top: 0.3rem;
+  border-top: 1px dashed var(--border-dim);
+}
+.roadmap-stock-item-race a {
+  color: var(--accent-2);
+  text-decoration: none;
+}
+.roadmap-stock-item-race a:hover { text-decoration: underline; }
+
+/* ── Roadmap milestone leader box ── */
+.roadmap-leader-box {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  padding: 0.55rem 0.75rem;
+  background: rgba(0,0,0,0.18);
+  border: 1px solid var(--border-dim);
+  border-radius: var(--radius);
+  font-size: 0.8rem;
+  color: var(--text-3);
+}
+.roadmap-leader-box a { color: var(--text-2); text-decoration: none; }
+.roadmap-leader-box a:hover { color: var(--accent); }
+.roadmap-leader-label { font-weight: 600; color: var(--text-2); margin-right: 0.1rem; }
+.roadmap-rivals-sep { color: var(--text-3); }
+
+/* Roadmap item leader box (simpler timeline style) */
+.roadmap-item .roadmap-leader-box {
+  margin-top: 0.5rem;
+  font-size: 0.78rem;
+}

@@ -22,6 +22,11 @@ Detailed fundamental analysis and growth catalysts for First Solar Inc. (FSLR) a
 </div>
 <div class="roadmap-stock-item-desc">Photovoltaic conversion of sunlight; ~25% commercial efficiency, <$0.20/W</div>
 <div class="roadmap-stock-item-impact">&#128200; First Solar manufactures CdTe thin-film panels (not silicon), giving it a cost advantage over Chinese silicon competitors and trade protection benefits.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 90%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

@@ -22,6 +22,11 @@ Detailed fundamental analysis and growth catalysts for Teradyne Inc. (TER) are c
 </div>
 <div class="roadmap-stock-item-desc">Force-limited robots working alongside humans safely — Universal Robots, Fanuc CRX</div>
 <div class="roadmap-stock-item-impact">&#128200; Teradyne owns Universal Robots, the market leader in cobots. UR cobots are the dominant platform in flexible manufacturing automation globally.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 80%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

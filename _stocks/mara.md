@@ -31,6 +31,11 @@ MARA is the largest publicly traded Bitcoin miner by hash rate. Post-halving eco
 </div>
 <div class="roadmap-stock-item-desc">First decentralized permissionless monetary ledger; 15+ years continuous uptime</div>
 <div class="roadmap-stock-item-impact">&#128200; Marathon is a Bitcoin miner. Revenue is direct function of Bitcoin price and network hashrate. Margin depends on energy cost per hash. This is a leveraged Bitcoin position with operational execution risk.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-trail">&#9660; #3 · 85%</span> <span class="roadmap-rivals-sep">leader: <a href="/future/stocks/mstr/">MSTR</a> 95%</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-trail">#3 · 85%</span> <span class="roadmap-rivals-sep">leader: <a href="/future/stocks/mstr/">MSTR</a> 95%</span></div>
 </div>

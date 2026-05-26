@@ -21,6 +21,9 @@ Medtronic is the world's largest medical device company and the market share lea
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
 <div class="roadmap-stock-item-impact">&#128200; Medtronic is the global DBS market leader with Percept PC (closed-loop sensing). DBS is FDA-approved for Parkinson's, essential tremor, dystonia, and OCD. Sensing-enabled DBS represents the next generation of the product cycle.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 90%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -32,4 +35,6 @@ Medtronic is the world's largest medical device company and the market share lea
 <div class="roadmap-stock-item-impact">&#128200; Medtronic's research pipeline includes next-gen neural interfaces. Partnered with academic BCI research groups — not a primary revenue driver yet.</div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

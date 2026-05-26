@@ -30,6 +30,9 @@ Cognex is the global leader in machine vision — the 'eyes' of industrial autom
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
 <div class="roadmap-stock-item-impact">&#128200; Cognex is the market share leader in 2D machine vision inspection globally. Core recurring revenue business with high switching costs due to calibration and integration.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 90%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
 <div class="roadmap-stock-item">

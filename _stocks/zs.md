@@ -22,6 +22,11 @@ Detailed fundamental analysis and growth catalysts for Zscaler Inc. (ZS) are cur
 </div>
 <div class="roadmap-stock-item-desc">Converged network+security from cloud edge — Zscaler, Cloudflare One, Netskope</div>
 <div class="roadmap-stock-item-impact">&#128200; Zscaler is the leading SASE platform. As enterprises move workloads to cloud, Zscaler replaces traditional network security. Revenue is ARR-based with strong expansion.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 92%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

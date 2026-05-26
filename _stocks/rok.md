@@ -22,6 +22,11 @@ Detailed fundamental analysis and growth catalysts for Rockwell Automation (ROK)
 </div>
 <div class="roadmap-stock-item-desc">Programmable multi-axis manipulators for manufacturing — Fanuc, ABB, KUKA</div>
 <div class="roadmap-stock-item-impact">&#128200; Rockwell Automation is a system integrator and controller for industrial robots. The humanoid and cobot expansion broadens Rockwell's addressable market within factory automation.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 70%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

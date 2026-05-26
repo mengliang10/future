@@ -23,6 +23,9 @@ The Trade Desk is the dominant independent DSP for programmatic advertising, wit
 </div>
 <div class="roadmap-stock-item-desc">Addressable streaming TV ads via DSP/SSP — The Trade Desk, Magnite</div>
 <div class="roadmap-stock-item-impact">&#128200; The Trade Desk is the leading independent DSP for CTV advertising. As streaming ad inventory grows, TTD's platform captures incremental budget shifting from linear TV. This is the core growth driver.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 92%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -33,6 +36,9 @@ The Trade Desk is the dominant independent DSP for programmatic advertising, wit
 </div>
 <div class="roadmap-stock-item-desc">Automated real-time bidding for banner/display/video ad inventory</div>
 <div class="roadmap-stock-item-impact">&#128200; TTD's core business. Automated real-time bidding for digital ad inventory at scale. Mature but still growing as global digital ad spend increases.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 88%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -43,6 +49,11 @@ The Trade Desk is the dominant independent DSP for programmatic advertising, wit
 </div>
 <div class="roadmap-stock-item-desc">Post-cookie measurement via cohorts, on-device ML, server-side tagging</div>
 <div class="roadmap-stock-item-impact">&#128200; TTD's Unified ID 2.0 is the leading alternative identity solution for the post-cookie world. A clean resolution here strengthens TTD's value proposition to advertisers needing reach measurement without cookies.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 80%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

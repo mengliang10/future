@@ -31,6 +31,9 @@ Coinbase is the compliance-first crypto exchange — the only regulated venue wh
 </div>
 <div class="roadmap-stock-item-desc">On-chain lending, trading, derivatives without intermediaries — $100B+ TVL</div>
 <div class="roadmap-stock-item-impact">&#128200; Coinbase benefits from DeFi activity through Base (its L2 chain), exchange volume on ETH and DeFi tokens, and potential future integration of DeFi products into its institutional custody business.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 80%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -41,6 +44,11 @@ Coinbase is the compliance-first crypto exchange — the only regulated venue wh
 </div>
 <div class="roadmap-stock-item-desc">First decentralized permissionless monetary ledger; 15+ years continuous uptime</div>
 <div class="roadmap-stock-item-impact">&#128200; Marathon is a Bitcoin miner. Revenue is direct function of Bitcoin price and network hashrate. Margin depends on energy cost per hash. This is a leveraged Bitcoin position with operational execution risk.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-2nd">&#9889; 2ND · 88%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/mstr/">MSTR</a> 95% (&#8722;6pp)</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

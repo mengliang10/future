@@ -32,6 +32,11 @@ Recursion is building the operating system for drug discovery. They image millio
 </div>
 <div class="roadmap-stock-item-desc">End-to-end AI for target ID, lead optimization, clinical prediction — Recursion, Insilico</div>
 <div class="roadmap-stock-item-impact">&#128200; Recursion's platform is active in partnerships with Bayer and Roche. Revenue comes from milestone payments on pipeline programs, not approved drugs. Platform credibility is the key metric to watch.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 88%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

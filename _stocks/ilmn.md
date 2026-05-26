@@ -31,6 +31,9 @@ Illumina is the Intel of genomics — the dominant sequencing infrastructure pro
 </div>
 <div class="roadmap-stock-item-desc">High-throughput parallel DNA sequencing — Illumina NovaSeq, PacBio, Nanopore</div>
 <div class="roadmap-stock-item-impact">&#128200; Illumina holds ~80% global NGS market share. Every genomics-enabled drug discovery program is a potential long-term Illumina consumables customer.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 95%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -43,4 +46,6 @@ Illumina is the Intel of genomics — the dominant sequencing infrastructure pro
 <div class="roadmap-stock-item-impact">&#128200; The sub-$1000 whole genome has enabled population genomics, cancer screening, and pharmacogenomics at scale. Illumina's NovaSeq X is the key instrument. Consumables are the recurring revenue.</div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

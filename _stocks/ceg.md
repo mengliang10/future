@@ -22,6 +22,11 @@ Constellation Energy is the largest nuclear operator in the United States. Long-
 </div>
 <div class="roadmap-stock-item-desc">Advanced light water reactors — AP1000, EPR; passive safety features</div>
 <div class="roadmap-stock-item-impact">&#128200; CEG operates the largest nuclear fleet in the US. Long-term power purchase agreements with hyperscalers provide revenue visibility. New plant PPAs are being signed at premium rates driven by AI data centre demand.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">&#9650; LEADING · 95%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/ccj/">CCJ</a> 85%</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 95%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/ccj/">CCJ</a> 85%</span></div>
 </div>

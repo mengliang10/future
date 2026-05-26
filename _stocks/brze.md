@@ -31,6 +31,9 @@ Braze orchestrates personalised customer messaging across push, email, SMS, in-a
 </div>
 <div class="roadmap-stock-item-desc">Unified customer profile across touchpoints — Braze, Segment, Salesforce CDP</div>
 <div class="roadmap-stock-item-impact">&#128200; Both Braze and HubSpot operate CDP-adjacent products that unify customer data for marketing activation. This is a competitive, crowded market — differentiation comes from workflow integration.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">&#9650; LEADING · 88%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/hubs/">HUBS</a> 80%</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -41,6 +44,11 @@ Braze orchestrates personalised customer messaging across push, email, SMS, in-a
 </div>
 <div class="roadmap-stock-item-desc">Real-time ML serving individualized content, offers, and timing at scale</div>
 <div class="roadmap-stock-item-impact">&#128200; Braze's AI personalization layer drives higher message relevance and campaign performance. Positioned as a competitive differentiator vs generic email/push platforms.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 75%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 88%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/hubs/">HUBS</a> 80%</span></div>
 </div>

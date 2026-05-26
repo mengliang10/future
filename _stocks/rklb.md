@@ -23,6 +23,9 @@ Detailed fundamental analysis and growth catalysts for Rocket Lab USA Inc. (RKLB
 </div>
 <div class="roadmap-stock-item-desc">Booster and upper stage both propulsively landing and reflying — SpaceX Starship</div>
 <div class="roadmap-stock-item-impact">&#128200; Rocket Lab is not Starship — but full reusability is the competitive standard being set by SpaceX. Rocket Lab's Neutron medium-lift rocket targets partial reusability. This is a capabilities benchmark, not direct Rocket Lab revenue.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 60%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -33,6 +36,11 @@ Detailed fundamental analysis and growth catalysts for Rocket Lab USA Inc. (RKLB
 </div>
 <div class="roadmap-stock-item-desc">Dedicated and rideshare launches for smallsats — SpaceX Transporter, RocketLab</div>
 <div class="roadmap-stock-item-impact">&#128200; Rocket Lab Electron is the market leader in dedicated small satellite launch. HAPS and commercial satellite constellations are the primary customers.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 88%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
 </div>

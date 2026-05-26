@@ -31,6 +31,11 @@ Roblox is the world's largest user-generated virtual world — 88M daily active 
 </div>
 <div class="roadmap-stock-item-desc">Single persistent 3D internet with identity and assets portable across platforms</div>
 <div class="roadmap-stock-item-impact">&#128200; This is a long-duration, speculative bet. An open interoperable metaverse requires industry standards that do not yet exist. Meta is investing heavily but commercial timeline is 2030+.</div>
+
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">&#9650; LEADING · 70%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/meta/">META</a> 65%</span></div>
 </div>
 
+
+<div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 70%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/meta/">META</a> 65%</span></div>
 </div>
