@@ -6,7 +6,7 @@ layout: default
   <div class="tech-node-breadcrumb">
     <a href="{{ '/tech/' | relative_url }}">Technology Intelligence</a>
     &rsaquo;
-    <a href="{{ '/sectors/' | page.category | downcase | relative_url }}">{{ page.category }}</a>
+    <a href="{{ '/sectors/' | append: page.category | downcase | append: '/' | relative_url }}">{{ page.category }}</a>
   </div>
   <h1 class="tech-node-title">{{ page.title }}</h1>
   {% if page.subtitle %}<p class="tech-node-subtitle">{{ page.subtitle }}</p>{% endif %}
@@ -60,7 +60,7 @@ layout: default
   <h3>Related Technologies</h3>
   <div class="tech-related-grid">
     {% for r in page.related %}
-    <a href="{{ '/tech/' | append: r | relative_url }}" class="tech-related-item">{{ r | replace: '-', ' ' | capitalize }}</a>
+    <a href="{{ '/tech/' | append: r | append: '/' | relative_url }}" class="tech-related-item">{{ r | replace: '-', ' ' | capitalize }}</a>
     {% endfor %}
   </div>
 </div>

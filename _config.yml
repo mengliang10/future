@@ -32,6 +32,7 @@ collections:
 # Exclude from build output
 exclude:
   - scripts/
+  - enhancements/
   - Gemfile
   - Gemfile.lock
   - README.md
