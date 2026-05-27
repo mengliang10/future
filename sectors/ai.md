@@ -115,16 +115,16 @@ Artificial Intelligence is no longer a research project — it is the primary dr
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
-| [NVDA](/stocks/NVDA/) | NVIDIA | GPU infrastructure | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [MSFT](/stocks/MSFT/) | Microsoft | Azure AI + GitHub Copilot | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [GOOGL](/stocks/GOOGL/) | Alphabet | Gemini + DeepMind + GCP Vertex | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [AMZN](/stocks/AMZN/) | Amazon | AWS Bedrock + Trainium | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [META](/stocks/META/) | Meta | Llama + AI infra | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [PLTR](/stocks/PLTR/) | Palantir | Enterprise AI agents (AIP) | <span class="conf-badge conf-confident">Confident</span> |
-| [NOW](/stocks/NOW/) | ServiceNow | AI workflow automation | <span class="conf-badge conf-confident">Confident</span> |
-| [NET](/stocks/NET/) | Cloudflare | AI edge inference + security | <span class="conf-badge conf-confident">Confident</span> |
-| [IBM](/stocks/IBM/) | IBM | Quantum + enterprise AI | <span class="conf-badge conf-confident">Confident</span> |
-| [RXRX](/stocks/RXRX/) | Recursion | AI drug discovery | <span class="conf-badge conf-researching">Researching</span> |
+| [NVDA](/future/stocks/nvda/) | NVIDIA | GPU infrastructure | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [MSFT](/future/stocks/msft/) | Microsoft | Azure AI + GitHub Copilot | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [GOOGL](/future/stocks/googl/) | Alphabet | Gemini + DeepMind + GCP Vertex | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [AMZN](/future/stocks/amzn/) | Amazon | AWS Bedrock + Trainium | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [META](/future/stocks/meta/) | Meta | Llama + AI infra | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [PLTR](/future/stocks/pltr/) | Palantir | Enterprise AI agents (AIP) | <span class="conf-badge conf-confident">Confident</span> |
+| [NOW](/future/stocks/now/) | ServiceNow | AI workflow automation | <span class="conf-badge conf-confident">Confident</span> |
+| [NET](/future/stocks/net/) | Cloudflare | AI edge inference + security | <span class="conf-badge conf-confident">Confident</span> |
+| [IBM](/future/stocks/ibm/) | IBM | Quantum + enterprise AI | <span class="conf-badge conf-confident">Confident</span> |
+| [RXRX](/future/stocks/rxrx/) | Recursion | AI drug discovery | <span class="conf-badge conf-researching">Researching</span> |
 
 ---
 

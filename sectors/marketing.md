@@ -88,11 +88,11 @@ Every company in the world is a marketing company — acquisition economics dete
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
-| [TTD](/stocks/TTD/) | The Trade Desk | Independent DSP + CTV advertising | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [AMZN](/stocks/AMZN/) | Amazon | Largest retail media network | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [META](/stocks/META/) | Meta Platforms | Social + AI-native ad targeting | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [GOOGL](/stocks/GOOGL/) | Alphabet | Search + YouTube + DV360 | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [ROKU](/stocks/ROKU/) | Roku | CTV OS + OneView DSP | <span class="conf-badge conf-confident">Confident</span> |
+| [TTD](/future/stocks/ttd/) | The Trade Desk | Independent DSP + CTV advertising | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [AMZN](/future/stocks/amzn/) | Amazon | Largest retail media network | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [META](/future/stocks/meta/) | Meta Platforms | Social + AI-native ad targeting | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [GOOGL](/future/stocks/googl/) | Alphabet | Search + YouTube + DV360 | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [ROKU](/future/stocks/roku/) | Roku | CTV OS + OneView DSP | <span class="conf-badge conf-confident">Confident</span> |
 
 ---
 

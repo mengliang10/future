@@ -92,11 +92,11 @@ Blockchain infrastructure is separating into two distinct investment theses. The
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
-| [COIN](/stocks/COIN/) | Coinbase Global | Exchange + ETF custody | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [MSTR](/stocks/MSTR/) | Strategy (MicroStrategy) | Bitcoin treasury vehicle | <span class="conf-badge conf-confident">Confident</span> |
-| [MARA](/stocks/MARA/) | MARA Holdings | Mining + HPC pivot | <span class="conf-badge conf-confident">Confident</span> |
-| [RIOT](/stocks/RIOT/) | Riot Platforms | Mining + data centre | <span class="conf-badge conf-confident">Confident</span> |
-| [CLSK](/stocks/CLSK/) | CleanSpark | Clean-energy mining | <span class="conf-badge conf-confident">Confident</span> |
+| [COIN](/future/stocks/coin/) | Coinbase Global | Exchange + ETF custody | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [MSTR](/future/stocks/mstr/) | Strategy (MicroStrategy) | Bitcoin treasury vehicle | <span class="conf-badge conf-confident">Confident</span> |
+| [MARA](/future/stocks/mara/) | MARA Holdings | Mining + HPC pivot | <span class="conf-badge conf-confident">Confident</span> |
+| [RIOT](/future/stocks/riot/) | Riot Platforms | Mining + data centre | <span class="conf-badge conf-confident">Confident</span> |
+| [CLSK](/future/stocks/clsk/) | CleanSpark | Clean-energy mining | <span class="conf-badge conf-confident">Confident</span> |
 
 ---
 

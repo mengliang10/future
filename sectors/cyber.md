@@ -88,13 +88,13 @@ AI has restructured the economics of both offence and defence. Attackers now gen
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
-| [CRWD](/stocks/CRWD/) | CrowdStrike | Endpoint XDR platform leader | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [PANW](/stocks/PANW/) | Palo Alto Networks | Broadest platform consolidator | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [ZS](/stocks/ZS/) | Zscaler | Cloud-native SASE | <span class="conf-badge conf-confident">Confident</span> |
-| [OKTA](/stocks/OKTA/) | Okta | Identity platform | <span class="conf-badge conf-confident">Confident</span> |
-| [NET](/stocks/NET/) | Cloudflare | Edge network + Zero Trust mesh | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [CYBR](/stocks/CYBR/) | CyberArk | Privileged access management | <span class="conf-badge conf-confident">Confident</span> |
-| [S](/stocks/S/) | SentinelOne | AI-native XDR | <span class="conf-badge conf-confident">Confident</span> |
+| [CRWD](/future/stocks/crwd/) | CrowdStrike | Endpoint XDR platform leader | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [PANW](/future/stocks/panw/) | Palo Alto Networks | Broadest platform consolidator | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [ZS](/future/stocks/zs/) | Zscaler | Cloud-native SASE | <span class="conf-badge conf-confident">Confident</span> |
+| [OKTA](/future/stocks/okta/) | Okta | Identity platform | <span class="conf-badge conf-confident">Confident</span> |
+| [NET](/future/stocks/net/) | Cloudflare | Edge network + Zero Trust mesh | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [CYBR](/future/stocks/cybr/) | CyberArk | Privileged access management | <span class="conf-badge conf-confident">Confident</span> |
+| [S](/future/stocks/s/) | SentinelOne | AI-native XDR | <span class="conf-badge conf-confident">Confident</span> |
 
 ---
 

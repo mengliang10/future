@@ -78,10 +78,10 @@ When a paralysed patient types 40 words per minute using only thought — as Bra
 
 | Ticker | Company | BCI Relevance | Confidence |
 |--------|---------|---------------|------------|
-| [MDT](/stocks/MDT/) | Medtronic | Approved DBS devices (Parkinson's, epilepsy) | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [NVDA](/stocks/NVDA/) | NVIDIA | BCI signal processing GPU + AI models | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [GOOGL](/stocks/GOOGL/) | Alphabet | Neural decoding research (DeepMind) | <span class="conf-badge conf-researching">Researching</span> |
-| [MSFT](/stocks/MSFT/) | Microsoft | Neural interface patents + gaming | <span class="conf-badge conf-researching">Researching</span> |
+| [MDT](/future/stocks/mdt/) | Medtronic | Approved DBS devices (Parkinson's, epilepsy) | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [NVDA](/future/stocks/nvda/) | NVIDIA | BCI signal processing GPU + AI models | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [GOOGL](/future/stocks/googl/) | Alphabet | Neural decoding research (DeepMind) | <span class="conf-badge conf-researching">Researching</span> |
+| [MSFT](/future/stocks/msft/) | Microsoft | Neural interface patents + gaming | <span class="conf-badge conf-researching">Researching</span> |
 
 ---
 

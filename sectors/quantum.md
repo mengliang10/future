@@ -91,11 +91,11 @@ Fault-tolerant quantum computers will break RSA encryption, accelerate drug mole
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
-| [IONQ](/stocks/IONQ/) | IonQ Inc. | Trapped-ion quantum computing | <span class="conf-badge conf-researching">Researching</span> |
-| [RGTI](/stocks/RGTI/) | Rigetti Computing | Superconducting quantum | <span class="conf-badge conf-researching">Researching</span> |
-| [QBTS](/stocks/QBTS/) | D-Wave Quantum | Quantum annealing | <span class="conf-badge conf-researching">Researching</span> |
-| [IBM](/stocks/IBM/) | IBM | Quantum hardware + PQC migration | <span class="conf-badge conf-confident">Confident</span> |
-| [HON](/stocks/HON/) | Honeywell | Quantum sensing + Quantinuum JV | <span class="conf-badge conf-confident">Confident</span> |
+| [IONQ](/future/stocks/ionq/) | IonQ Inc. | Trapped-ion quantum computing | <span class="conf-badge conf-researching">Researching</span> |
+| [RGTI](/future/stocks/rgti/) | Rigetti Computing | Superconducting quantum | <span class="conf-badge conf-researching">Researching</span> |
+| [QBTS](/future/stocks/qbts/) | D-Wave Quantum | Quantum annealing | <span class="conf-badge conf-researching">Researching</span> |
+| [IBM](/future/stocks/ibm/) | IBM | Quantum hardware + PQC migration | <span class="conf-badge conf-confident">Confident</span> |
+| [HON](/future/stocks/hon/) | Honeywell | Quantum sensing + Quantinuum JV | <span class="conf-badge conf-confident">Confident</span> |
 
 ---
 

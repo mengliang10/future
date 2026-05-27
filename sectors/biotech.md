@@ -96,14 +96,14 @@ CRISPR-Cas9 gene editing received its first FDA approval in 2023 (Casgevy for si
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
-| [CRSP](/stocks/CRSP/) | CRISPR Therapeutics | First CRISPR therapy (Casgevy) | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [ILMN](/stocks/ILMN/) | Illumina | Genomic sequencing infrastructure | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [MRNA](/stocks/MRNA/) | Moderna | mRNA platform + cancer vaccine | <span class="conf-badge conf-confident">Confident</span> |
-| [BNTX](/stocks/BNTX/) | BioNTech | mRNA platform + cancer vaccine | <span class="conf-badge conf-confident">Confident</span> |
-| [BEAM](/stocks/BEAM/) | Beam Therapeutics | Base editing precision | <span class="conf-badge conf-confident">Confident</span> |
-| [EDIT](/stocks/EDIT/) | Editas Medicine | In-vivo CRISPR (eye) | <span class="conf-badge conf-researching">Researching</span> |
-| [RXRX](/stocks/RXRX/) | Recursion Pharma | AI drug discovery platform | <span class="conf-badge conf-researching">Researching</span> |
-| [ISRG](/stocks/ISRG/) | Intuitive Surgical | AI-assisted surgical robotics | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [CRSP](/future/stocks/crsp/) | CRISPR Therapeutics | First CRISPR therapy (Casgevy) | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [ILMN](/future/stocks/ilmn/) | Illumina | Genomic sequencing infrastructure | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [MRNA](/future/stocks/mrna/) | Moderna | mRNA platform + cancer vaccine | <span class="conf-badge conf-confident">Confident</span> |
+| [BNTX](/future/stocks/bntx/) | BioNTech | mRNA platform + cancer vaccine | <span class="conf-badge conf-confident">Confident</span> |
+| [BEAM](/future/stocks/beam/) | Beam Therapeutics | Base editing precision | <span class="conf-badge conf-confident">Confident</span> |
+| [EDIT](/future/stocks/edit/) | Editas Medicine | In-vivo CRISPR (eye) | <span class="conf-badge conf-researching">Researching</span> |
+| [RXRX](/future/stocks/rxrx/) | Recursion Pharma | AI drug discovery platform | <span class="conf-badge conf-researching">Researching</span> |
+| [ISRG](/future/stocks/isrg/) | Intuitive Surgical | AI-assisted surgical robotics | <span class="conf-badge conf-confirmed">Confirmed</span> |
 
 ---
 

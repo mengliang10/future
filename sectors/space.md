@@ -92,11 +92,11 @@ Reusability was the unlock. When SpaceX proved Falcon 9 first-stage recovery in 
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
-| [RKLB](/stocks/RKLB/) | Rocket Lab | Small/medium launch + spacecraft | <span class="conf-badge conf-confident">Confident</span> |
-| [ASTS](/stocks/ASTS/) | AST SpaceMobile | Direct-to-phone satellite broadband | <span class="conf-badge conf-researching">Researching</span> |
-| [LUNR](/stocks/LUNR/) | Intuitive Machines | Lunar landing + surface services | <span class="conf-badge conf-researching">Researching</span> |
-| [NOC](/stocks/NOC/) | Northrop Grumman | Space defence + systems | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [KTOS](/stocks/KTOS/) | Kratos Defence | Space domain + drone systems | <span class="conf-badge conf-confident">Confident</span> |
+| [RKLB](/future/stocks/rklb/) | Rocket Lab | Small/medium launch + spacecraft | <span class="conf-badge conf-confident">Confident</span> |
+| [ASTS](/future/stocks/asts/) | AST SpaceMobile | Direct-to-phone satellite broadband | <span class="conf-badge conf-researching">Researching</span> |
+| [LUNR](/future/stocks/lunr/) | Intuitive Machines | Lunar landing + surface services | <span class="conf-badge conf-researching">Researching</span> |
+| [NOC](/future/stocks/noc/) | Northrop Grumman | Space defence + systems | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [KTOS](/future/stocks/ktos/) | Kratos Defence | Space domain + drone systems | <span class="conf-badge conf-confident">Confident</span> |
 
 ---
 

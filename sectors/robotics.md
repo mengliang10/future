@@ -87,15 +87,15 @@ Physical AI is the next chapter after language AI. Once models can reason about 
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
-| [TSLA](/stocks/TSLA/) | Tesla | Humanoid + FSD + EV | <span class="conf-badge conf-confident">Confident</span> |
-| [NVDA](/stocks/NVDA/) | NVIDIA | Robotics training infra | <span class="conf-badge conf-confident">Confident</span> |
-| [ISRG](/stocks/ISRG/) | Intuitive Surgical | Surgical robots | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [TER](/stocks/TER/) | Teradyne | Universal Robots (cobots) | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [ROK](/stocks/ROK/) | Rockwell Automation | Industrial control | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [CGNX](/stocks/CGNX/) | Cognex | Machine vision | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [MBLY](/stocks/MBLY/) | Mobileye | AV chips (ADAS to L4) | <span class="conf-badge conf-confident">Confident</span> |
-| [HON](/stocks/HON/) | Honeywell | Industrial automation + quantum | <span class="conf-badge conf-confident">Confident</span> |
-| [SYM](/stocks/SYM/) | Symbotic | Warehouse automation | <span class="conf-badge conf-confident">Confident</span> |
+| [TSLA](/future/stocks/tsla/) | Tesla | Humanoid + FSD + EV | <span class="conf-badge conf-confident">Confident</span> |
+| [NVDA](/future/stocks/nvda/) | NVIDIA | Robotics training infra | <span class="conf-badge conf-confident">Confident</span> |
+| [ISRG](/future/stocks/isrg/) | Intuitive Surgical | Surgical robots | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [TER](/future/stocks/ter/) | Teradyne | Universal Robots (cobots) | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [ROK](/future/stocks/rok/) | Rockwell Automation | Industrial control | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [CGNX](/future/stocks/cgnx/) | Cognex | Machine vision | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [MBLY](/future/stocks/mbly/) | Mobileye | AV chips (ADAS to L4) | <span class="conf-badge conf-confident">Confident</span> |
+| [HON](/future/stocks/hon/) | Honeywell | Industrial automation + quantum | <span class="conf-badge conf-confident">Confident</span> |
+| [SYM](/future/stocks/sym/) | Symbotic | Warehouse automation | <span class="conf-badge conf-confident">Confident</span> |
 
 ---
 

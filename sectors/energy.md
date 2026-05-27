@@ -86,14 +86,14 @@ A single H100 GPU cluster draws as much power as a small city. Hyperscalers have
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
-| [CEG](/stocks/CEG/) | Constellation Energy | Nuclear operator, PPAs | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [VST](/stocks/VST/) | Vistra Corp | Nuclear + battery storage | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [ETN](/stocks/ETN/) | Eaton | Power management equipment | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [PWR](/stocks/PWR/) | Quanta Services | Grid construction | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [GEV](/stocks/GEV/) | GE Vernova | Grid equipment + BWRX-300 SMR | <span class="conf-badge conf-confident">Confident</span> |
-| [CCJ](/stocks/CCJ/) | Cameco | Uranium mining | <span class="conf-badge conf-confident">Confident</span> |
-| [SMR](/stocks/SMR/) | NuScale Power | SMR design (VOYGR) | <span class="conf-badge conf-confident">Confident</span> |
-| [FSLR](/stocks/FSLR/) | First Solar | CdTe solar manufacturing | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [CEG](/future/stocks/ceg/) | Constellation Energy | Nuclear operator, PPAs | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [VST](/future/stocks/vst/) | Vistra Corp | Nuclear + battery storage | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [ETN](/future/stocks/etn/) | Eaton | Power management equipment | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [PWR](/future/stocks/pwr/) | Quanta Services | Grid construction | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [GEV](/future/stocks/gev/) | GE Vernova | Grid equipment + BWRX-300 SMR | <span class="conf-badge conf-confident">Confident</span> |
+| [CCJ](/future/stocks/ccj/) | Cameco | Uranium mining | <span class="conf-badge conf-confident">Confident</span> |
+| [SMR](/future/stocks/smr/) | NuScale Power | SMR design (VOYGR) | <span class="conf-badge conf-confident">Confident</span> |
+| [FSLR](/future/stocks/fslr/) | First Solar | CdTe solar manufacturing | <span class="conf-badge conf-confirmed">Confirmed</span> |
 
 ---
 

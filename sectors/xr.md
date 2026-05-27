@@ -89,11 +89,11 @@ Spatial computing replaces the flat screen with an immersive overlay on physical
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
-| [META](/stocks/META/) | Meta Platforms | Dominant VR platform + AR glasses | <span class="conf-badge conf-confident">Confident</span> |
-| [AAPL](/stocks/AAPL/) | Apple | Vision Pro + VisionOS | <span class="conf-badge conf-confident">Confident</span> |
-| [RBLX](/stocks/RBLX/) | Roblox | Virtual world platform | <span class="conf-badge conf-confident">Confident</span> |
-| [SNAP](/stocks/SNAP/) | Snap Inc. | AR lenses + Spectacles glasses | <span class="conf-badge conf-researching">Researching</span> |
-| [NVDA](/stocks/NVDA/) | NVIDIA | XR rendering + spatial AI compute | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [META](/future/stocks/meta/) | Meta Platforms | Dominant VR platform + AR glasses | <span class="conf-badge conf-confident">Confident</span> |
+| [AAPL](/future/stocks/aapl/) | Apple | Vision Pro + VisionOS | <span class="conf-badge conf-confident">Confident</span> |
+| [RBLX](/future/stocks/rblx/) | Roblox | Virtual world platform | <span class="conf-badge conf-confident">Confident</span> |
+| [SNAP](/future/stocks/snap/) | Snap Inc. | AR lenses + Spectacles glasses | <span class="conf-badge conf-researching">Researching</span> |
+| [NVDA](/future/stocks/nvda/) | NVIDIA | XR rendering + spatial AI compute | <span class="conf-badge conf-confirmed">Confirmed</span> |
 
 ---
 

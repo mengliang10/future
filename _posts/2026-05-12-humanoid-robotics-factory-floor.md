@@ -25,13 +25,13 @@ The other enabling factor is cost. First-generation commercial humanoids are run
 
 ## Who Is Actually Building This
 
-**[Tesla](/stocks/TSLA/)** is the most direct equity exposure. The Optimus program has moved from splashy keynote to documented factory use. Tesla's advantage is vertical integration: it makes its own actuators, its own neural network training infrastructure, and it has the in-house manufacturing expertise to iterate hardware faster than pure robotics startups. The risk is that Optimus success remains secondary to Tesla's core EV business in how the market prices the stock - which creates optionality if the robotics thesis plays out independently of EV volumes.
+**[Tesla](/future/stocks/tsla/)** is the most direct equity exposure. The Optimus program has moved from splashy keynote to documented factory use. Tesla's advantage is vertical integration: it makes its own actuators, its own neural network training infrastructure, and it has the in-house manufacturing expertise to iterate hardware faster than pure robotics startups. The risk is that Optimus success remains secondary to Tesla's core EV business in how the market prices the stock - which creates optionality if the robotics thesis plays out independently of EV volumes.
 
-**[NVIDIA](/stocks/NVDA/)** is the pick-and-shovel play, again. Every humanoid robot being trained on simulated environments is running on NVIDIA GPU clusters. Isaac Sim is the dominant platform for this work. The compute demand for training robotics foundation models is comparable to LLM training - and the customer base is entirely separate from the LLM customers. NVIDIA benefits from both.
+**[NVIDIA](/future/stocks/nvda/)** is the pick-and-shovel play, again. Every humanoid robot being trained on simulated environments is running on NVIDIA GPU clusters. Isaac Sim is the dominant platform for this work. The compute demand for training robotics foundation models is comparable to LLM training - and the customer base is entirely separate from the LLM customers. NVIDIA benefits from both.
 
-**[ABB](/stocks/ABB/)** has the industrial robot installed base, the distribution relationships, and the integrator network. If humanoids become the interface layer for flexible factory automation, ABB is the incumbent with the most credible path to deploying them at scale. Less dramatic upside than Tesla, but meaningful downside protection from the existing business.
+**[ABB](/future/stocks/abb/)** has the industrial robot installed base, the distribution relationships, and the integrator network. If humanoids become the interface layer for flexible factory automation, ABB is the incumbent with the most credible path to deploying them at scale. Less dramatic upside than Tesla, but meaningful downside protection from the existing business.
 
-**[Honeywell](/stocks/HON/)** has exposure through its industrial automation software and process control business. As humanoids enter regulated environments - pharmaceutical, food processing, aerospace - Honeywell's compliance and safety certification capabilities become relevant. Underappreciated optionality on the enterprise deployment side.
+**[Honeywell](/future/stocks/hon/)** has exposure through its industrial automation software and process control business. As humanoids enter regulated environments - pharmaceutical, food processing, aerospace - Honeywell's compliance and safety certification capabilities become relevant. Underappreciated optionality on the enterprise deployment side.
 
 ## What Still Needs to Be Proven
 

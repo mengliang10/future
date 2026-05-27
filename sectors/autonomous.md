@@ -89,12 +89,12 @@ Full self-driving is the most consequential automation event in transport histor
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
-| [TSLA](/stocks/TSLA/) | Tesla | Vision-only FSD + robotaxi | <span class="conf-badge conf-confident">Confident</span> |
-| [GOOGL](/stocks/GOOGL/) | Alphabet (Waymo) | Robotaxi at city scale | <span class="conf-badge conf-confident">Confident</span> |
-| [MBLY](/stocks/MBLY/) | Mobileye | ADAS chips + SuperVision | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [LAZR](/stocks/LAZR/) | Luminar Technologies | LiDAR for OEM ADAS | <span class="conf-badge conf-researching">Researching</span> |
-| [UBER](/stocks/UBER/) | Uber | AV fleet aggregator | <span class="conf-badge conf-confident">Confident</span> |
-| [JOBY](/stocks/JOBY/) | Joby Aviation | eVTOL air taxi | <span class="conf-badge conf-researching">Researching</span> |
+| [TSLA](/future/stocks/tsla/) | Tesla | Vision-only FSD + robotaxi | <span class="conf-badge conf-confident">Confident</span> |
+| [GOOGL](/future/stocks/googl/) | Alphabet (Waymo) | Robotaxi at city scale | <span class="conf-badge conf-confident">Confident</span> |
+| [MBLY](/future/stocks/mbly/) | Mobileye | ADAS chips + SuperVision | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [LAZR](/future/stocks/lazr/) | Luminar Technologies | LiDAR for OEM ADAS | <span class="conf-badge conf-researching">Researching</span> |
+| [UBER](/future/stocks/uber/) | Uber | AV fleet aggregator | <span class="conf-badge conf-confident">Confident</span> |
+| [JOBY](/future/stocks/joby/) | Joby Aviation | eVTOL air taxi | <span class="conf-badge conf-researching">Researching</span> |
 
 ---
 

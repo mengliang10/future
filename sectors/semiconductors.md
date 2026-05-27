@@ -156,21 +156,21 @@ The semiconductor industry underpins every technology on this site. It is the mo
 
 | Ticker | Company | Role | Stage |
 |--------|---------|------|-------|
-| [TSM](/stocks/TSM/) | TSMC | Leading-edge foundry | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [ASML](/stocks/ASML/) | ASML | EUV monopoly | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [NVDA](/stocks/NVDA/) | NVIDIA | Fabless GPU/AI | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [AMD](/stocks/AMD/) | AMD | Fabless GPU/CPU | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [AMAT](/stocks/AMAT/) | Applied Materials | WFE equipment | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [LRCX](/stocks/LRCX/) | Lam Research | Etch/CVD equipment | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [KLAC](/stocks/KLAC/) | KLA Corp | Process control | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [MU](/stocks/MU/) | Micron | HBM/DRAM/NAND | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [ARM](/stocks/ARM/) | ARM Holdings | ISA royalties | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [AVGO](/stocks/AVGO/) | Broadcom | Custom ASICs, networking | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [ANET](/stocks/ANET/) | Arista Networks | AI-Ethernet switching | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| [MRVL](/stocks/MRVL/) | Marvell | ASICs, photonics | <span class="conf-badge conf-confident">Confident</span> |
-| [VST](/stocks/VST/) | Vistra Energy | Data centre power | <span class="conf-badge conf-confident">Confident</span> |
-| [CEG](/stocks/CEG/) | Constellation Energy | Nuclear power for AI | <span class="conf-badge conf-confident">Confident</span> |
-| [INTC](/stocks/INTC/) | Intel | IDM, x86, foundry | <span class="conf-badge conf-researching">Researching</span> |
+| [TSM](/future/stocks/tsm/) | TSMC | Leading-edge foundry | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [ASML](/future/stocks/asml/) | ASML | EUV monopoly | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [NVDA](/future/stocks/nvda/) | NVIDIA | Fabless GPU/AI | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [AMD](/future/stocks/amd/) | AMD | Fabless GPU/CPU | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [AMAT](/future/stocks/amat/) | Applied Materials | WFE equipment | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [LRCX](/future/stocks/lrcx/) | Lam Research | Etch/CVD equipment | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [KLAC](/future/stocks/klac/) | KLA Corp | Process control | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [MU](/future/stocks/mu/) | Micron | HBM/DRAM/NAND | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [ARM](/future/stocks/arm/) | ARM Holdings | ISA royalties | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [AVGO](/future/stocks/avgo/) | Broadcom | Custom ASICs, networking | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [ANET](/future/stocks/anet/) | Arista Networks | AI-Ethernet switching | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| [MRVL](/future/stocks/mrvl/) | Marvell | ASICs, photonics | <span class="conf-badge conf-confident">Confident</span> |
+| [VST](/future/stocks/vst/) | Vistra Energy | Data centre power | <span class="conf-badge conf-confident">Confident</span> |
+| [CEG](/future/stocks/ceg/) | Constellation Energy | Nuclear power for AI | <span class="conf-badge conf-confident">Confident</span> |
+| [INTC](/future/stocks/intc/) | Intel | IDM, x86, foundry | <span class="conf-badge conf-researching">Researching</span> |
 
 ---
 

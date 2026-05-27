@@ -33,15 +33,15 @@ Broadcom is pursuing this for its switch ASICs. NVIDIA is working on optical int
 
 ## Who Wins
 
-**[Lumentum](/stocks/LITE/)** is the clearest pure-play. Vertically integrated from chip design to module assembly, Lumentum supplies the laser chips and photonic integrated circuits that sit at the heart of co-packaged optics. Their addressable market roughly doubles with the transition from pluggable to co-packaged - and they are currently trading at a discount to historical multiples on cyclical concerns. The co-packaged optics ramp is the re-rating catalyst.
+**[Lumentum](/future/stocks/lite/)** is the clearest pure-play. Vertically integrated from chip design to module assembly, Lumentum supplies the laser chips and photonic integrated circuits that sit at the heart of co-packaged optics. Their addressable market roughly doubles with the transition from pluggable to co-packaged - and they are currently trading at a discount to historical multiples on cyclical concerns. The co-packaged optics ramp is the re-rating catalyst.
 
-**[Coherent](/stocks/COHR/)** brings broader optical networking exposure including telecom, and critical vertical integration into compound semiconductors - the indium phosphide and gallium arsenide that high-speed optical engines require. More diversified than Lumentum, with near-term revenue supported by 800ZR coherent optics and data centre interconnect demand while co-packaged optics develops.
+**[Coherent](/future/stocks/cohr/)** brings broader optical networking exposure including telecom, and critical vertical integration into compound semiconductors - the indium phosphide and gallium arsenide that high-speed optical engines require. More diversified than Lumentum, with near-term revenue supported by 800ZR coherent optics and data centre interconnect demand while co-packaged optics develops.
 
-**[NVIDIA](/stocks/NVDA/)** benefits indirectly but substantially. Every additional bandwidth available in a cluster translates directly into higher GPU utilisation, which is the metric that drives accelerator demand. The Mellanox acquisition was specifically to own the full network stack. Optical interconnects extend the viability of ever-larger clusters - which extends the runway for GPU demand.
+**[NVIDIA](/future/stocks/nvda/)** benefits indirectly but substantially. Every additional bandwidth available in a cluster translates directly into higher GPU utilisation, which is the metric that drives accelerator demand. The Mellanox acquisition was specifically to own the full network stack. Optical interconnects extend the viability of ever-larger clusters - which extends the runway for GPU demand.
 
-**[TSMC](/stocks/TSM/)** captures a new category of wafer work. Silicon photonics wafers require advanced CMOS process integration, and TSMC's photonics process design kit and shuttle run program position it as the foundry of record for integrated photonic chips.
+**[TSMC](/future/stocks/tsm/)** captures a new category of wafer work. Silicon photonics wafers require advanced CMOS process integration, and TSMC's photonics process design kit and shuttle run program position it as the foundry of record for integrated photonic chips.
 
-**[Applied Materials](/stocks/AMAT/)** is the no-drama infrastructure play: every silicon photonics wafer goes through Applied's deposition and etch tools. Not a pure-play, but a clean way to benefit from volume ramp without picking a specific architecture winner.
+**[Applied Materials](/future/stocks/amat/)** is the no-drama infrastructure play: every silicon photonics wafer goes through Applied's deposition and etch tools. Not a pure-play, but a clean way to benefit from volume ramp without picking a specific architecture winner.
 
 ## The Thesis in One Sentence
 
