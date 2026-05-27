@@ -4,7 +4,7 @@ name: Hut 8 Corp
 symbol: HUT
 exchange: NASDAQ
 categories: [Blockchain, Mining, HPC]
-timing_action: "HALF"
+timing_action: "WAIT"
 regime: "HIGH_VOL"
 ---
 

@@ -5,6 +5,8 @@ symbol: BNTX
 exchange: NASDAQ
 categories: [Biotech, mRNA]
 node_count: 1
+timing_action: "FULL"
+regime: "RANGE_BOUND"
 ---
 
 ## Investment Thesis

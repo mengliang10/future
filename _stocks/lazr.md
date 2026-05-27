@@ -5,6 +5,8 @@ symbol: LAZR
 exchange: NASDAQ
 categories: [Robotics & Auto]
 node_count: 1
+timing_action: "N/A"
+regime: "N/A"
 ---
 
 ## Investment Thesis

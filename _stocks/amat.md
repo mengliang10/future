@@ -5,6 +5,8 @@ symbol: AMAT
 exchange: NASDAQ
 categories: [Semiconductors]
 node_count: 1
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

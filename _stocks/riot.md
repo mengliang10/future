@@ -4,7 +4,7 @@ name: Riot Platforms Inc.
 symbol: RIOT
 exchange: NASDAQ
 categories: [Blockchain, Mining]
-timing_action: "HALF"
+timing_action: "WAIT"
 regime: "HIGH_VOL"
 ---
 

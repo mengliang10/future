@@ -6,6 +6,8 @@ exchange: NASDAQ
 categories: [Semiconductors]
 node_count: 4
 bottleneck_count: 1
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

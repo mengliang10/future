@@ -6,6 +6,8 @@ exchange: NASDAQ
 categories: [Marketing Tech, AdTech]
 node_count: 3
 bottleneck_count: 1
+timing_action: "FULL"
+regime: "LOW_VOL"
 ---
 
 ## Investment Thesis

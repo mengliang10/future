@@ -5,6 +5,8 @@ symbol: TSM
 exchange: NYSE
 categories: [Semiconductors, Foundry]
 node_count: 4
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

@@ -4,6 +4,8 @@ name: "Eaton Corporation plc"
 symbol: ETN
 exchange: NYSE
 categories: [Energy Tech, Semiconductors]
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis
