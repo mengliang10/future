@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T07:43:18Z",
-  "stock_count": 139,
+  "generated_at": "2026-05-29T08:00:45Z",
+  "stock_count": 75,
   "stocks": {
     "AAPL": {
       "conviction_score": null,
@@ -32,51 +32,6 @@
         }
       ]
     },
-    "ACLS": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "ADBE": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "ADI": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "AEVA": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "AI": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "AMAT": {
       "conviction_score": null,
       "timing_action": null,
@@ -96,15 +51,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "AMBA": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "AMD": {
       "conviction_score": null,
@@ -206,15 +152,6 @@
         }
       ]
     },
-    "ANET": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "ANTH.PVT": {
       "conviction_score": null,
       "timing_action": null,
@@ -304,15 +241,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "ARQQ": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "ASML": {
       "conviction_score": null,
@@ -434,24 +362,6 @@
         }
       ]
     },
-    "BBAI": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "BE": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "BEAM": {
       "conviction_score": null,
       "timing_action": null,
@@ -471,24 +381,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "BILL": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "BKSY": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "BNTX": {
       "conviction_score": null,
@@ -680,15 +572,6 @@
         }
       ]
     },
-    "CRM": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "CRSP": {
       "conviction_score": null,
       "timing_action": null,
@@ -718,15 +601,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "CRUS": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "CRWD": {
       "conviction_score": null,
@@ -758,33 +632,6 @@
         }
       ]
     },
-    "CSCO": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "DDOG": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "DELL": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "DJI.PVT": {
       "conviction_score": null,
       "timing_action": null,
@@ -804,51 +651,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "ENPH": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "ESTC": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "ETN": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "FARO": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "FFIV": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "FSLR": {
       "conviction_score": null,
@@ -990,24 +792,6 @@
         }
       ]
     },
-    "GSAT": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "GTLB": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "HON": {
       "conviction_score": null,
       "timing_action": null,
@@ -1027,15 +811,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "HPE": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "HUAWEI.PVT": {
       "conviction_score": null,
@@ -1247,24 +1022,6 @@
         }
       ]
     },
-    "INTU": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "INVZ": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "IONQ": {
       "conviction_score": null,
       "timing_action": null,
@@ -1475,24 +1232,6 @@
         }
       ]
     },
-    "MCHP": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "MDB": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "MDT": {
       "conviction_score": null,
       "timing_action": null,
@@ -1552,24 +1291,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "MNTS": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "MPWR": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "MRNA": {
       "conviction_score": null,
@@ -1731,24 +1452,6 @@
         }
       ]
     },
-    "MVIS": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "NEE": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "NET": {
       "conviction_score": null,
       "timing_action": null,
@@ -1768,24 +1471,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "NOW": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "NTAP": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "NVDA": {
       "conviction_score": null,
@@ -1877,60 +1562,6 @@
         }
       ]
     },
-    "NXPI": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "OKTA": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "ON": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "ONTO": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "ORCL": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "OUST": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "PANW": {
       "conviction_score": null,
       "timing_action": null,
@@ -1960,15 +1591,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "PATH": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "PLTR": {
       "conviction_score": null,
@@ -2010,15 +1632,6 @@
         }
       ]
     },
-    "PLUG": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "PSIQ.PVT": {
       "conviction_score": null,
       "timing_action": null,
@@ -2049,51 +1662,6 @@
         }
       ]
     },
-    "PSTG": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "PWR": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "QBTS": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "QCOM": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "QUBT": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "RBLX": {
       "conviction_score": null,
       "timing_action": null,
@@ -2113,15 +1681,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "RDW": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "RGTI": {
       "conviction_score": null,
@@ -2263,42 +1822,6 @@
         }
       ]
     },
-    "SATL": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "SEDG": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "SHLS": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "SMCI": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "SMR": {
       "conviction_score": null,
       "timing_action": null,
@@ -2318,24 +1841,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "SNOW": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "SOUN": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "SPAX.PVT": {
       "conviction_score": null,
@@ -2377,33 +1882,6 @@
         }
       ]
     },
-    "SPIR": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "STX": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "SWKS": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "SYM": {
       "conviction_score": null,
       "timing_action": null,
@@ -2423,15 +1901,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "TEAM": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "TER": {
       "conviction_score": null,
@@ -2633,15 +2102,6 @@
         }
       ]
     },
-    "TXN": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "U": {
       "conviction_score": null,
       "timing_action": null,
@@ -2661,24 +2121,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "VEEV": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "VSAT": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "WAYMO.PVT": {
       "conviction_score": null,
@@ -2709,24 +2151,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "WDAY": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "WDC": {
-      "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "ZEISS.PVT": {
       "conviction_score": null,

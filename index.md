@@ -29,94 +29,80 @@ title: Home
   </div>
 </section>
 
-<!-- Market Analysis: Today / This Week / Next Week -->
+<!-- Automated Intelligence: Research Frontier & Chokepoints -->
 <div class="section-heading">
-  <h2>Market Intelligence</h2>
-  <span class="section-sub">Macro signals, catalysts, and causal research — week of May 19–23, 2026</span>
-  <a href="{{ '/stocks/' | relative_url }}" class="view-all">Full stock table &rarr;</a>
+  <h2>Intelligence Frontier</h2>
+  <span class="section-sub">Automated research feed — latest technology nodes and strategic chokepoints.</span>
+  <a href="{{ '/tech/' | relative_url }}" class="view-all">Technology Intelligence (220 nodes) &rarr;</a>
 </div>
 
 <div class="analysis-grid">
 
+  <!-- Research Frontier (Possibility A) -->
   <div class="analysis-card">
     <div class="analysis-card-header">
-      <span class="period">This Week</span>
-      <span class="tag semi">May 19 &ndash; 23, 2026</span>
+      <span class="period">Research Frontier</span>
+      <span class="tag semi">LATEST UPDATES</span>
     </div>
     <div class="analysis-card-body">
+      {% for node in site.data.intelligence_meta.frontier limit:3 %}
       <div class="analysis-item">
         <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>UK gilts</strong> staged their biggest weekly yield drop since 2023 as fiscal fears eased. Yield spread normalisation historically precedes GDP re-rating by 90–270 days — a green light for risk-on positioning in the UK and European tech names.</div>
+        <div class="analysis-item-text">
+          <a href="{{ '/tech/' | append: node.id | append: '/' | relative_url }}" style="font-weight:700; color:var(--accent);">{{ node.name }}</a><br>
+          <span style="font-size:0.8rem; color:var(--text-3);">{{ node.category }} &middot; Stage: {{ node.status | replace: '_', ' ' | capitalize }}</span><br>
+          Research confidence reached <strong>{{ node.confidence | times: 100 | round: 0 }}%</strong> as of {{ node.updated_at | date: "%b %d" }}.
+        </div>
       </div>
-      <div class="analysis-item">
-        <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>Bitcoin (BTC)</strong> holding near $77,000 with implied volatility at a 7-month low. On-chain researchers are attaching a quantum-exposure supply narrative — early days, but the conversation is moving from fringe to institutional desks.</div>
-      </div>
-      <div class="analysis-item">
-        <div class="analysis-dot up"></div>
-        <div class="analysis-item-text"><strong>Nuclear power (GEV, CEG, NNE)</strong> — EDF has joined the AI gigafactory alliance and US federal funds were awarded for SMR site development. Small modular reactors remain in the pilot phase with first commercial operations expected 2029. The trade is structural, not near-term earnings.</div>
-      </div>
+      {% endfor %}
     </div>
   </div>
 
+  <!-- Strategic Chokepoints -->
   <div class="analysis-card">
     <div class="analysis-card-header">
-      <span class="period">Key Macro Signals</span>
-      <span class="tag">Causal Research</span>
+      <span class="period">Strategic Chokepoints</span>
+      <span class="tag">BOTTLENECK MATRIX</span>
     </div>
     <div class="analysis-card-body">
       <table class="signal-table">
         <thead>
           <tr>
-            <th>Signal</th>
-            <th>Direction</th>
-            <th>Implication</th>
+            <th>Chokepoint</th>
+            <th>Impact</th>
+            <th>Score</th>
           </tr>
         </thead>
         <tbody>
+          {% for bn in site.data.intelligence_meta.bottlenecks limit:4 %}
           <tr>
-            <td><strong>10Y–2Y Yield Spread</strong></td>
-            <td><span class="signal-dir up">Steepening</span></td>
-            <td>GDP acceleration in 3–9 months. Strongest macro leading indicator. Drives industrial capex, energy infra, and AI hardware cycles.</td>
+            <td><strong>{{ bn.node_name }}</strong></td>
+            <td><span style="font-size:0.75rem;">Unlocks {{ bn.downstream_node_count }} nodes</span></td>
+            <td><span class="signal-dir up">{{ bn.bottleneck_score | round: 2 }}</span></td>
           </tr>
-          <tr>
-            <td><strong>DXY (Dollar Index)</strong></td>
-            <td><span class="signal-dir neutral">Softening</span></td>
-            <td>Dollar weakness is a tailwind for gold, commodities, and EM tech. Real yields (TIPS) are the deeper driver — watch the 10Y real yield for the true signal.</td>
-          </tr>
-          <tr>
-            <td><strong>HY Credit Spreads</strong></td>
-            <td><span class="signal-dir up">Compressing</span></td>
-            <td>Spread compression within 1–3 months historically amplifies value factor rotation. Risk appetite is opening — small/mid-cap tech names benefit first.</td>
-          </tr>
-          <tr>
-            <td><strong>Uranium Spot Price</strong></td>
-            <td><span class="signal-dir up">Elevated</span></td>
-            <td>Above $90/lb incentivises mine restarts. Supply response takes 5–7 years — structural tailwind for CCJ and uranium royalty names.</td>
-          </tr>
+          {% endfor %}
         </tbody>
       </table>
     </div>
   </div>
 
+  <!-- Recent Evidence Ingestion -->
   <div class="analysis-card">
     <div class="analysis-card-header">
-      <span class="period">Watch Next Week</span>
-      <span class="tag">May 26 &ndash; 30</span>
+      <span class="period">Recent Ingestion</span>
+      <span class="tag">LATEST EVIDENCE</span>
     </div>
     <div class="analysis-card-body">
+      {% for item in site.data.intelligence_meta.recent_ingestion limit:3 %}
       <div class="analysis-item">
         <div class="analysis-dot"></div>
-        <div class="analysis-item-text"><strong>NVIDIA earnings (May 28):</strong> The key variables are CoWoS packaging allocation, GB200 NVL72 rack demand commentary, and Blackwell yield ramp. Whatever NVDA says about data centre capex commitment sets the AI infrastructure narrative for the rest of 2026.</div>
+        <div class="analysis-item-text" style="font-size:0.85rem;">
+          <strong>{{ item.technology_name | capitalize }}</strong><br>
+          {{ item.source_title | truncate: 80 }}<br>
+          <span style="font-size:0.75rem; color:var(--text-3);">Ingested: {{ item.ingested_at | date: "%b %d, %Y" }}</span>
+        </div>
       </div>
-      <div class="analysis-item">
-        <div class="analysis-dot"></div>
-        <div class="analysis-item-text"><strong>Crane Clean Energy Center (FERC):</strong> Federal ruling on the Three Mile Island Unit 1 restart is expected June–July. A positive decision is a direct catalyst for <a href="{{ '/stocks/ceg/' | relative_url }}" style="color:var(--accent);">CEG</a> and validates the entire nuclear PPA trade with hyperscalers.</div>
-      </div>
-      <div class="analysis-item">
-        <div class="analysis-dot"></div>
-        <div class="analysis-item-text"><strong>Tesla Optimus factory trial data:</strong> First-generation humanoid robots are in live pilot at Tesla's Giga facilities. Any operational update — task success rate, cycle time, unit economics — moves the humanoid thesis from pilot-stage confidence to early-commercial. Watch <a href="{{ '/stocks/tsla/' | relative_url }}" style="color:var(--accent);">TSLA</a> and <a href="{{ '/stocks/nvda/' | relative_url }}" style="color:var(--accent);">NVDA</a>.</div>
-      </div>
+      {% endfor %}
     </div>
   </div>
 

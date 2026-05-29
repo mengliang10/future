@@ -1,0 +1,135 @@
+{
+  "generated_at": "2026-05-29T08:00:21Z",
+  "frontier": [
+    {
+      "id": "gpu-compute-cluster",
+      "name": "GPU Compute Cluster",
+      "category": "AI & Cloud",
+      "status": "achieved",
+      "confidence": 0.1466,
+      "est_year_mode": null,
+      "updated_at": "2026-05-29 07:06:06"
+    },
+    {
+      "id": "transformer-architecture",
+      "name": "Transformer Architecture",
+      "category": "AI & Cloud",
+      "status": "achieved",
+      "confidence": 0.1383,
+      "est_year_mode": null,
+      "updated_at": "2026-05-29 07:06:06"
+    },
+    {
+      "id": "llm-gpt4-class",
+      "name": "LLM GPT-4 Class (~1T params)",
+      "category": "AI & Cloud",
+      "status": "achieved",
+      "confidence": 0.1489,
+      "est_year_mode": null,
+      "updated_at": "2026-05-29 07:06:06"
+    },
+    {
+      "id": "llm-100t-params",
+      "name": "LLM 100T+ Parameter Model",
+      "category": "AI & Cloud",
+      "status": "developing",
+      "confidence": 0.1826,
+      "est_year_mode": 2026,
+      "updated_at": "2026-05-29 07:06:06"
+    },
+    {
+      "id": "reasoning-model-o1-class",
+      "name": "Chain-of-Thought Reasoning Model",
+      "category": "AI & Cloud",
+      "status": "achieved",
+      "confidence": 0.2103,
+      "est_year_mode": null,
+      "updated_at": "2026-05-29 07:06:06"
+    },
+    {
+      "id": "multimodal-foundation-model",
+      "name": "Multimodal Foundation Model",
+      "category": "AI & Cloud",
+      "status": "achieved",
+      "confidence": 0.2077,
+      "est_year_mode": null,
+      "updated_at": "2026-05-29 07:06:06"
+    }
+  ],
+  "bottlenecks": [
+    {
+      "node_id": "silicon-photonics",
+      "node_name": "Silicon Photonics Interconnect",
+      "category": "Semiconductors",
+      "bottleneck_score": 0.408,
+      "downstream_node_count": 35
+    },
+    {
+      "node_id": "6g-xmimo-7ghz",
+      "node_name": "6G Extreme-MIMO (X-MIMO) 7 GHz Network",
+      "category": "Connectivity",
+      "bottleneck_score": 0.1855,
+      "downstream_node_count": 14
+    },
+    {
+      "node_id": "ai-formal-reasoning",
+      "node_name": "AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)",
+      "category": "AI & Cloud",
+      "bottleneck_score": 0.114,
+      "downstream_node_count": 6
+    },
+    {
+      "node_id": "topological-qubit",
+      "node_name": "Topological Qubit (Majorana Fermion)",
+      "category": "Quantum",
+      "bottleneck_score": 0.1019,
+      "downstream_node_count": 9
+    },
+    {
+      "node_id": "quantum-error-correction",
+      "node_name": "Quantum Error Correction (Surface Code)",
+      "category": "Quantum",
+      "bottleneck_score": 0.0922,
+      "downstream_node_count": 8
+    },
+    {
+      "node_id": "ai-materials-discovery",
+      "node_name": "AI Materials Discovery",
+      "category": "AI & Cloud",
+      "bottleneck_score": 0.0814,
+      "downstream_node_count": 7
+    }
+  ],
+  "recent_ingestion": [
+    {
+      "id": 2708,
+      "technology_name": "prototype",
+      "source_title": null,
+      "ingested_at": "2026-05-26T10:58:38.825322+00:00"
+    },
+    {
+      "id": 2707,
+      "technology_name": "pkpadmin,+33_An+Interactive+Mobile+Lecturing+Tool+forEmpowering+Distance+Learners.pdf",
+      "source_title": null,
+      "ingested_at": "2026-05-26T04:51:54.346122+00:00"
+    },
+    {
+      "id": 2706,
+      "technology_name": "breakthrough",
+      "source_title": null,
+      "ingested_at": "2026-05-26T04:51:54.112985+00:00"
+    },
+    {
+      "id": 2705,
+      "technology_name": "prototype",
+      "source_title": null,
+      "ingested_at": "2026-05-26T04:49:55.375960+00:00"
+    },
+    {
+      "id": 2704,
+      "technology_name": "demonstrated",
+      "source_title": null,
+      "ingested_at": "2026-05-26T04:28:42.913783+00:00"
+    }
+  ]
+}

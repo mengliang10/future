@@ -1,97 +1,386 @@
 [
-  {"ticker":"NVDA","name":"NVIDIA Corporation","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"AMD","name":"Advanced Micro Devices","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"INTC","name":"Intel Corporation","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"QCOM","name":"Qualcomm Inc.","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"AVGO","name":"Broadcom Inc.","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"MRVL","name":"Marvell Technology","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"MU","name":"Micron Technology","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"ARM","name":"Arm Holdings","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"TSM","name":"Taiwan Semiconductor Mfg","sector":"Semiconductors","exchange":"NYSE"},
-  {"ticker":"ASML","name":"ASML Holding N.V.","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"AMAT","name":"Applied Materials Inc.","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"LRCX","name":"Lam Research Corp.","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"KLAC","name":"KLA Corporation","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"TXN","name":"Texas Instruments Inc.","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"ADI","name":"Analog Devices Inc.","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"MBLY","name":"Mobileye Global Inc.","sector":"Semiconductors","exchange":"NASDAQ"},
-  {"ticker":"MSFT","name":"Microsoft Corporation","sector":"AI & Cloud","exchange":"NASDAQ"},
-  {"ticker":"GOOGL","name":"Alphabet Inc.","sector":"AI & Cloud","exchange":"NASDAQ"},
-  {"ticker":"META","name":"Meta Platforms Inc.","sector":"AI & Cloud","exchange":"NASDAQ"},
-  {"ticker":"AMZN","name":"Amazon.com Inc.","sector":"AI & Cloud","exchange":"NASDAQ"},
-  {"ticker":"AAPL","name":"Apple Inc.","sector":"AI & Cloud","exchange":"NASDAQ"},
-  {"ticker":"PLTR","name":"Palantir Technologies","sector":"AI & Cloud","exchange":"NYSE"},
-  {"ticker":"SNOW","name":"Snowflake Inc.","sector":"AI & Cloud","exchange":"NYSE"},
-  {"ticker":"CRM","name":"Salesforce Inc.","sector":"Software","exchange":"NYSE"},
-  {"ticker":"NOW","name":"ServiceNow Inc.","sector":"Software","exchange":"NYSE"},
-  {"ticker":"DDOG","name":"Datadog Inc.","sector":"Software","exchange":"NASDAQ"},
-  {"ticker":"SMCI","name":"Super Micro Computer","sector":"Hardware","exchange":"NASDAQ"},
-  {"ticker":"ANET","name":"Arista Networks Inc.","sector":"Hardware","exchange":"NYSE"},
-  {"ticker":"DELL","name":"Dell Technologies","sector":"Hardware","exchange":"NYSE"},
-  {"ticker":"CRWD","name":"CrowdStrike Holdings","sector":"Cybersecurity","exchange":"NASDAQ"},
-  {"ticker":"PANW","name":"Palo Alto Networks","sector":"Cybersecurity","exchange":"NASDAQ"},
-  {"ticker":"ZS","name":"Zscaler Inc.","sector":"Cybersecurity","exchange":"NASDAQ"},
-  {"ticker":"OKTA","name":"Okta Inc.","sector":"Cybersecurity","exchange":"NASDAQ"},
-  {"ticker":"NET","name":"Cloudflare Inc.","sector":"Cybersecurity","exchange":"NYSE"},
-  {"ticker":"FTNT","name":"Fortinet Inc.","sector":"Cybersecurity","exchange":"NASDAQ"},
-  {"ticker":"CYBR","name":"CyberArk Software","sector":"Cybersecurity","exchange":"NASDAQ"},
-  {"ticker":"S","name":"SentinelOne Inc.","sector":"Cybersecurity","exchange":"NYSE"},
-  {"ticker":"TSLA","name":"Tesla Inc.","sector":"Robotics","exchange":"NASDAQ"},
-  {"ticker":"CGNX","name":"Cognex Corporation","sector":"Robotics","exchange":"NASDAQ"},
-  {"ticker":"ROK","name":"Rockwell Automation","sector":"Robotics","exchange":"NYSE"},
-  {"ticker":"PATH","name":"UiPath Inc.","sector":"Robotics","exchange":"NYSE"},
-  {"ticker":"TER","name":"Teradyne Inc.","sector":"Robotics","exchange":"NASDAQ"},
-  {"ticker":"ISRG","name":"Intuitive Surgical Inc.","sector":"Robotics","exchange":"NASDAQ"},
-  {"ticker":"LAZR","name":"Luminar Technologies","sector":"Autonomous","exchange":"NASDAQ"},
-  {"ticker":"INVZ","name":"Innoviz Technologies","sector":"Autonomous","exchange":"NASDAQ"},
-  {"ticker":"OUST","name":"Ouster Inc.","sector":"Autonomous","exchange":"NYSE"},
-  {"ticker":"MVIS","name":"MicroVision Inc.","sector":"Autonomous","exchange":"NASDAQ"},
-  {"ticker":"AEVA","name":"Aeva Technologies Inc.","sector":"Autonomous","exchange":"NYSE"},
-  {"ticker":"RKLB","name":"Rocket Lab USA Inc.","sector":"Space Tech","exchange":"NASDAQ"},
-  {"ticker":"ASTS","name":"AST SpaceMobile Inc.","sector":"Space Tech","exchange":"NASDAQ"},
-  {"ticker":"LUNR","name":"Intuitive Machines Inc.","sector":"Space Tech","exchange":"NASDAQ"},
-  {"ticker":"NOC","name":"Northrop Grumman Corp.","sector":"Space Tech","exchange":"NYSE"},
-  {"ticker":"KTOS","name":"Kratos Defense & Security","sector":"Space Tech","exchange":"NASDAQ"},
-  {"ticker":"BKSY","name":"BlackSky Technology","sector":"Space Tech","exchange":"NYSE"},
-  {"ticker":"RDW","name":"Redwire Corporation","sector":"Space Tech","exchange":"NYSE"},
-  {"ticker":"SATL","name":"Satellogic Inc.","sector":"Space Tech","exchange":"NASDAQ"},
-  {"ticker":"SPIR","name":"Spire Global Inc.","sector":"Space Tech","exchange":"NYSE"},
-  {"ticker":"IONQ","name":"IonQ Inc.","sector":"Quantum","exchange":"NYSE"},
-  {"ticker":"RGTI","name":"Rigetti Computing Inc.","sector":"Quantum","exchange":"NASDAQ"},
-  {"ticker":"QBTS","name":"D-Wave Quantum Inc.","sector":"Quantum","exchange":"NYSE"},
-  {"ticker":"ARQQ","name":"Arqit Quantum Inc.","sector":"Quantum","exchange":"NASDAQ"},
-  {"ticker":"QUBT","name":"Quantum Computing Inc.","sector":"Quantum","exchange":"NASDAQ"},
-  {"ticker":"CRSP","name":"CRISPR Therapeutics AG","sector":"Biotech","exchange":"NASDAQ"},
-  {"ticker":"EDIT","name":"Editas Medicine Inc.","sector":"Biotech","exchange":"NASDAQ"},
-  {"ticker":"MRNA","name":"Moderna Inc.","sector":"Biotech","exchange":"NASDAQ"},
-  {"ticker":"BNTX","name":"BioNTech SE","sector":"Biotech","exchange":"NASDAQ"},
-  {"ticker":"ILMN","name":"Illumina Inc.","sector":"Biotech","exchange":"NASDAQ"},
-  {"ticker":"BEAM","name":"Beam Therapeutics Inc.","sector":"Biotech","exchange":"NASDAQ"},
-  {"ticker":"RXRX","name":"Recursion Pharmaceuticals","sector":"Biotech","exchange":"NASDAQ"},
-  {"ticker":"COIN","name":"Coinbase Global Inc.","sector":"Blockchain","exchange":"NASDAQ"},
-  {"ticker":"MSTR","name":"MicroStrategy Inc.","sector":"Blockchain","exchange":"NASDAQ"},
-  {"ticker":"MARA","name":"MARA Holdings Inc.","sector":"Blockchain","exchange":"NASDAQ"},
-  {"ticker":"RIOT","name":"Riot Platforms Inc.","sector":"Blockchain","exchange":"NASDAQ"},
-  {"ticker":"HUT","name":"Hut 8 Corp.","sector":"Blockchain","exchange":"NASDAQ"},
-  {"ticker":"CLSK","name":"CleanSpark Inc.","sector":"Blockchain","exchange":"NASDAQ"},
-  {"ticker":"TTD","name":"The Trade Desk Inc.","sector":"Marketing Tech","exchange":"NASDAQ"},
-  {"ticker":"BRZE","name":"Braze Inc.","sector":"Marketing Tech","exchange":"NASDAQ"},
-  {"ticker":"ZI","name":"ZoomInfo Technologies","sector":"Marketing Tech","exchange":"NASDAQ"},
-  {"ticker":"HUBS","name":"HubSpot Inc.","sector":"Marketing Tech","exchange":"NYSE"},
-  {"ticker":"RBLX","name":"Roblox Corporation","sector":"XR & Metaverse","exchange":"NYSE"},
-  {"ticker":"SNAP","name":"Snap Inc.","sector":"XR & Metaverse","exchange":"NYSE"},
-  {"ticker":"U","name":"Unity Software Inc.","sector":"XR & Metaverse","exchange":"NYSE"},
-  {"ticker":"CEG","name":"Constellation Energy Corp.","sector":"Energy Tech","exchange":"NASDAQ"},
-  {"ticker":"VST","name":"Vistra Corp.","sector":"Energy Tech","exchange":"NYSE"},
-  {"ticker":"CCJ","name":"Cameco Corporation","sector":"Energy Tech","exchange":"NYSE"},
-  {"ticker":"UUUU","name":"Energy Fuels Inc.","sector":"Energy Tech","exchange":"NYSE"},
-  {"ticker":"SMR","name":"NuScale Power Corporation","sector":"Energy Tech","exchange":"NYSE"},
-  {"ticker":"GEV","name":"GE Vernova Inc.","sector":"Energy Tech","exchange":"NYSE"},
-  {"ticker":"ETN","name":"Eaton Corporation","sector":"Energy Tech","exchange":"NYSE"},
-  {"ticker":"PWR","name":"Quanta Services Inc.","sector":"Energy Tech","exchange":"NYSE"},
-  {"ticker":"NEE","name":"NextEra Energy Inc.","sector":"Energy Tech","exchange":"NYSE"},
-  {"ticker":"ENPH","name":"Enphase Energy Inc.","sector":"Energy Tech","exchange":"NASDAQ"},
-  {"ticker":"FSLR","name":"First Solar Inc.","sector":"Energy Tech","exchange":"NASDAQ"},
-  {"ticker":"PLUG","name":"Plug Power Inc.","sector":"Energy Tech","exchange":"NASDAQ"},
-  {"ticker":"BE","name":"Bloom Energy Corp.","sector":"Energy Tech","exchange":"NYSE"}
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "sector": "AI & Cloud",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices",
+    "sector": "AI & Cloud",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "sector": "AI & Cloud",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "sector": "AI & Cloud",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms",
+    "sector": "AI & Cloud",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc.",
+    "sector": "AI & Cloud",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies",
+    "sector": "AI & Cloud",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor Mfg.",
+    "sector": "Semiconductors",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML Holding NV",
+    "sector": "Semiconductors",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel Corporation",
+    "sector": "Semiconductors",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "sector": "Semiconductors",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology",
+    "sector": "Semiconductors",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "ARM",
+    "name": "Arm Holdings",
+    "sector": "Semiconductors",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "sector": "Semiconductors",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "sector": "Semiconductors",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "sector": "Semiconductors",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology",
+    "sector": "Semiconductors",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "IONQ",
+    "name": "IonQ Inc.",
+    "sector": "Quantum",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "RGTI",
+    "name": "Rigetti Computing",
+    "sector": "Quantum",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "IBM",
+    "name": "IBM Corporation",
+    "sector": "Quantum",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell International",
+    "sector": "Quantum",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical",
+    "sector": "Robotics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "CGNX",
+    "name": "Cognex Corporation",
+    "sector": "Robotics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "TER",
+    "name": "Teradyne Inc.",
+    "sector": "Robotics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "SYM",
+    "name": "Symbotic Inc.",
+    "sector": "Robotics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "ROK",
+    "name": "Rockwell Automation",
+    "sector": "Robotics",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla Inc.",
+    "sector": "Autonomous",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "MBLY",
+    "name": "Mobileye Global",
+    "sector": "Autonomous",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "AUR",
+    "name": "Aurora Innovation",
+    "sector": "Autonomous",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "LAZR",
+    "name": "Luminar Technologies",
+    "sector": "Autonomous",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "JOBY",
+    "name": "Joby Aviation",
+    "sector": "Autonomous",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "MDT",
+    "name": "Medtronic plc",
+    "sector": "BCI",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "CRSP",
+    "name": "CRISPR Therapeutics",
+    "sector": "Biotech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "BEAM",
+    "name": "Beam Therapeutics",
+    "sector": "Biotech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "MRNA",
+    "name": "Moderna Inc.",
+    "sector": "Biotech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "BNTX",
+    "name": "BioNTech SE",
+    "sector": "Biotech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "ILMN",
+    "name": "Illumina Inc.",
+    "sector": "Biotech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "RXRX",
+    "name": "Recursion Pharmaceuticals",
+    "sector": "Biotech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "RKLB",
+    "name": "Rocket Lab USA",
+    "sector": "Space Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "ASTS",
+    "name": "AST SpaceMobile",
+    "sector": "Space Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "LUNR",
+    "name": "Intuitive Machines",
+    "sector": "Space Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings",
+    "sector": "Cybersecurity",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "S",
+    "name": "SentinelOne",
+    "sector": "Cybersecurity",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks",
+    "sector": "Cybersecurity",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "ZS",
+    "name": "Zscaler Inc.",
+    "sector": "Cybersecurity",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "NET",
+    "name": "Cloudflare Inc.",
+    "sector": "Cybersecurity",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy",
+    "sector": "Energy Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "SMR",
+    "name": "NuScale Power",
+    "sector": "Energy Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova",
+    "sector": "Energy Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "FSLR",
+    "name": "First Solar Inc.",
+    "sector": "Energy Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "CCJ",
+    "name": "Cameco Corporation",
+    "sector": "Energy Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase Global",
+    "sector": "Blockchain",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "MSTR",
+    "name": "Strategy (MicroStrategy)",
+    "sector": "Blockchain",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "MARA",
+    "name": "Marathon Digital Holdings",
+    "sector": "Blockchain",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "TTD",
+    "name": "The Trade Desk",
+    "sector": "Marketing Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "BRZE",
+    "name": "Braze Inc.",
+    "sector": "Marketing Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "HUBS",
+    "name": "HubSpot Inc.",
+    "sector": "Marketing Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "sector": "XR",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "U",
+    "name": "Unity Technologies",
+    "sector": "XR",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "RBLX",
+    "name": "Roblox Corporation",
+    "sector": "XR",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "TM",
+    "name": "Toyota Motor",
+    "sector": "Robotics & Auto",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "WDC",
+    "name": "Western Digital Corp.",
+    "sector": "Hardware",
+    "exchange": "NASDAQ"
+  },
+  {
+    "ticker": "ETN",
+    "name": "Eaton Corporation",
+    "sector": "Energy Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "ticker": "PWR",
+    "name": "Quanta Services",
+    "sector": "Energy Tech",
+    "exchange": "NYSE"
+  }
 ]
