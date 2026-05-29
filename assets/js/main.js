@@ -184,11 +184,11 @@ function initStocksTable() {
       const mkt = s.market_cap ? formatMarketCap(s.market_cap) : '—';
       const url = `${base}/stocks/${s.ticker.toLowerCase()}/`;
       
-      // Signal color coding
-      let signalClass = '';
-      if (s.signal) {
-        if (s.signal.includes('BUY')) signalClass = 'up';
-        if (s.signal.includes('SELL')) signalClass = 'down';
+      // Special labels for Signal
+      let priceStr = s.price ? '$' + s.price.toFixed(2) : '—';
+      let sig = s.signal || '—';
+      if (sig === 'PRIVATE' || sig === 'KRX' || sig === 'HKEX' || sig === 'OTC') {
+        priceStr = `<span class="tag tag-pvt">${sig}</span>`;
       }
 
       return `
@@ -196,15 +196,11 @@ function initStocksTable() {
           <td class="td-ticker"><a href="${url}" class="ticker-link">${s.ticker}</a></td>
           <td class="td-name">${s.name}</td>
           <td class="td-sector"><span class="tag">${s.sector || '—'}</span></td>
-          <td class="td-price">$${s.price ? s.price.toFixed(2) : '—'}</td>
-          <td class="td-change ${up ? 'up' : 'down'}">${chg}</td>
-          <td class="td-change ${up ? 'up' : 'down'}">${pct}</td>
+          <td class="td-price" style="text-align:right">${priceStr}</td>
+          <td class="td-change ${up ? 'up' : 'down'}" style="text-align:right">${chg}</td>
+          <td class="td-change ${up ? 'up' : 'down'}" style="text-align:right">${pct}</td>
           <td class="td-rsi" style="text-align:right">${s.rsi ? s.rsi.toFixed(1) : '—'}</td>
-          <td class="td-timing">${renderTimingBadge(s.timing_quality, s.timing_action)}</td>
-          <td class="td-regime">${renderRegimeBadge(s.regime)}</td>
-          <td class="td-alpha">${renderAlphaBadge(s.alpha_signal, s.alpha_bullish_pct)}</td>
-          <td class="td-factor">${renderFactorBar(s.factor_score)}</td>
-          <td class="td-mktcap">${mkt}</td>
+          <td class="td-mktcap" style="text-align:right">${mkt}</td>
         </tr>`;
     }).join('');
 

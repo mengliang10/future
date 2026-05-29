@@ -35,15 +35,11 @@ permalink: /stocks/
         <th data-sort="change" style="text-align:right;">Chg</th>
         <th data-sort="change_pct" style="text-align:right;">%</th>
         <th data-sort="rsi" style="text-align:right;">RSI</th>
-        <th data-sort="timing_quality" style="text-align:center;">Timing</th>
-        <th data-sort="regime" style="text-align:center;">Regime</th>
-        <th data-sort="alpha_signal" style="text-align:center;">Alpha</th>
-        <th data-sort="factor_score" style="text-align:center;">Factor</th>
         <th data-sort="market_cap" style="text-align:right;">Mkt Cap</th>
       </tr>
     </thead>
     <tbody id="stocks-tbody">
-      <tr><td colspan="12" style="text-align:center; color:var(--text-3); padding:2rem;">Loading stock data&hellip;</td></tr>
+      <tr><td colspan="8" style="text-align:center; color:var(--text-3); padding:2rem;">Loading stock data&hellip;</td></tr>
     </tbody>
   </table>
 </div>

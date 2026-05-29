@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T07:36:32Z",
-  "stock_count": 131,
+  "generated_at": "2026-05-29T07:43:18Z",
+  "stock_count": 139,
   "stocks": {
     "AAPL": {
       "conviction_score": null,
@@ -540,6 +540,26 @@
         }
       ]
     },
+    "BYD.HK": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 1,
+      "bottleneck_count": 1,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "solid-state-battery",
+          "name": "Solid-State Battery",
+          "category": "Energy Tech",
+          "conf": 0.13,
+          "year": 2029,
+          "stage": "pilot",
+          "weight": 0.6,
+          "bottleneck": true
+        }
+      ]
+    },
     "CCJ": {
       "conviction_score": null,
       "timing_action": null,
@@ -586,6 +606,26 @@
           "year": null,
           "stage": "mass_production",
           "weight": 0.95,
+          "bottleneck": false
+        }
+      ]
+    },
+    "CERE.PVT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 1,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "ai-hardware-asic-tpunputrainium",
+          "name": "ai-hardware-asic-tpunputrainium",
+          "category": "",
+          "conf": 0.0,
+          "year": null,
+          "stage": "",
+          "weight": 0.9,
           "bottleneck": false
         }
       ]
@@ -744,6 +784,26 @@
       "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": []
+    },
+    "DJI.PVT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 1,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "autonomous-drone-delivery",
+          "name": "Autonomous Drone Delivery",
+          "category": "Robotics",
+          "conf": 0.147,
+          "year": 2025,
+          "stage": "pilot",
+          "weight": 0.8,
+          "bottleneck": false
+        }
+      ]
     },
     "ENPH": {
       "conviction_score": null,
@@ -906,6 +966,26 @@
           "year": null,
           "stage": "mass_production",
           "weight": 0.8,
+          "bottleneck": false
+        }
+      ]
+    },
+    "GROQ.PVT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 1,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "ai-inference-at-edge",
+          "name": "ai-inference-at-edge",
+          "category": "",
+          "conf": 0.0,
+          "year": null,
+          "stage": "",
+          "weight": 0.85,
           "bottleneck": false
         }
       ]
@@ -1073,6 +1153,26 @@
           "year": null,
           "stage": "mass_production",
           "weight": 0.9,
+          "bottleneck": false
+        }
+      ]
+    },
+    "INFL.PVT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 1,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "llm-gpt-4-class-1t-params",
+          "name": "llm-gpt-4-class-1t-params",
+          "category": "",
+          "conf": 0.0,
+          "year": null,
+          "stage": "",
+          "weight": 0.8,
           "bottleneck": false
         }
       ]
@@ -1757,6 +1857,26 @@
         }
       ]
     },
+    "NVOLT.PVT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 1,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "lithium-ion-battery",
+          "name": "Lithium-Ion Battery",
+          "category": "Energy Tech",
+          "conf": 0.175,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.95,
+          "bottleneck": false
+        }
+      ]
+    },
     "NXPI": {
       "conviction_score": null,
       "timing_action": null,
@@ -1898,6 +2018,36 @@
       "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": []
+    },
+    "PSIQ.PVT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 2,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "photonic-qubit",
+          "name": "Photonic Qubit",
+          "category": "Quantum",
+          "conf": 0.125,
+          "year": 2028,
+          "stage": "prototype",
+          "weight": 1.0,
+          "bottleneck": false
+        },
+        {
+          "id": "fault-tolerant-qc-1000-logical-qubits",
+          "name": "fault-tolerant-qc-1000-logical-qubits",
+          "category": "",
+          "conf": 0.0,
+          "year": null,
+          "stage": "",
+          "weight": 0.9,
+          "bottleneck": false
+        }
+      ]
     },
     "PSTG": {
       "conviction_score": null,
@@ -2529,6 +2679,36 @@
       "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": []
+    },
+    "WAYMO.PVT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 2,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "robotaxi-city-wide",
+          "name": "Robotaxi (Full City, No Safety Driver)",
+          "category": "Autonomous",
+          "conf": 0.096,
+          "year": 2027,
+          "stage": "pilot",
+          "weight": 1.0,
+          "bottleneck": false
+        },
+        {
+          "id": "av-sensor-fusion-camlidarradar",
+          "name": "av-sensor-fusion-camlidarradar",
+          "category": "",
+          "conf": 0.0,
+          "year": null,
+          "stage": "",
+          "weight": 0.9,
+          "bottleneck": false
+        }
+      ]
     },
     "WDAY": {
       "conviction_score": null,
