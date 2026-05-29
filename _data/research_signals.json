@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T16:04:58Z",
-  "stock_count": 101,
+  "generated_at": "2026-05-29T07:06:57Z",
+  "stock_count": 124,
   "stocks": {
     "AAPL": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -32,10 +32,28 @@
         }
       ]
     },
+    "ACLS": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "ADBE": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "ADI": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -43,8 +61,17 @@
     },
     "AEVA": {
       "conviction_score": null,
-      "timing_action": "AVOID",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "AI": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -52,8 +79,8 @@
     },
     "AMAT": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -62,7 +89,7 @@
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.182,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.78,
@@ -70,10 +97,19 @@
         }
       ]
     },
+    "AMBA": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "AMD": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -102,8 +138,8 @@
     },
     "AMZN": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 6,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -142,7 +178,7 @@
           "id": "leo-satellite-internet",
           "name": "LEO Satellite Internet Constellation",
           "category": "Space Tech",
-          "conf": 0.116,
+          "conf": 0.114,
           "year": null,
           "stage": "mass_production",
           "weight": 0.7,
@@ -172,8 +208,8 @@
     },
     "ANET": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -181,8 +217,8 @@
     },
     "ARM": {
       "conviction_score": null,
-      "timing_action": "AVOID",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 5,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -211,7 +247,7 @@
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.182,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.7,
@@ -241,8 +277,8 @@
     },
     "ARQQ": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -250,8 +286,8 @@
     },
     "ASML": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 4,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -290,7 +326,7 @@
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.182,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.9,
@@ -300,8 +336,8 @@
     },
     "ASTS": {
       "conviction_score": null,
-      "timing_action": "AVOID",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -310,7 +346,7 @@
           "id": "leo-satellite-internet",
           "name": "LEO Satellite Internet Constellation",
           "category": "Space Tech",
-          "conf": 0.116,
+          "conf": 0.114,
           "year": null,
           "stage": "mass_production",
           "weight": 0.85,
@@ -340,8 +376,8 @@
     },
     "AVGO": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -368,10 +404,19 @@
         }
       ]
     },
+    "BBAI": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "BE": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -379,8 +424,8 @@
     },
     "BEAM": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -397,10 +442,19 @@
         }
       ]
     },
+    "BILL": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "BKSY": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -408,8 +462,8 @@
     },
     "BNTX": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "RANGE_BOUND",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -428,8 +482,8 @@
     },
     "BRZE": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -458,8 +512,8 @@
     },
     "CCJ": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "RANGE_BOUND",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -468,7 +522,7 @@
           "id": "nuclear-gen3-plus",
           "name": "Nuclear Gen III+ Reactor (AP1000)",
           "category": "Energy Tech",
-          "conf": 0.186,
+          "conf": 0.185,
           "year": null,
           "stage": "mass_production",
           "weight": 0.85,
@@ -488,8 +542,8 @@
     },
     "CEG": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "LOW_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -498,7 +552,7 @@
           "id": "nuclear-gen3-plus",
           "name": "Nuclear Gen III+ Reactor (AP1000)",
           "category": "Energy Tech",
-          "conf": 0.186,
+          "conf": 0.185,
           "year": null,
           "stage": "mass_production",
           "weight": 0.95,
@@ -508,8 +562,8 @@
     },
     "CGNX": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -518,7 +572,7 @@
           "id": "machine-vision-2d",
           "name": "2D Machine Vision (Camera Inspection)",
           "category": "Robotics",
-          "conf": 0.142,
+          "conf": 0.14,
           "year": null,
           "stage": "mass_production",
           "weight": 0.9,
@@ -526,19 +580,10 @@
         }
       ]
     },
-    "CLSK": {
-      "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "COIN": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -567,8 +612,8 @@
     },
     "CRM": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_DOWN",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -576,8 +621,8 @@
     },
     "CRSP": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "RANGE_BOUND",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -604,10 +649,19 @@
         }
       ]
     },
+    "CRUS": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "CRWD": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -626,7 +680,7 @@
           "id": "ai-threat-detection",
           "name": "AI-Driven Threat Detection",
           "category": "Cybersecurity",
-          "conf": 0.119,
+          "conf": 0.118,
           "year": 2026,
           "stage": "early_commercial",
           "weight": 0.85,
@@ -634,10 +688,10 @@
         }
       ]
     },
-    "CYBR": {
+    "CSCO": {
       "conviction_score": null,
-      "timing_action": "N/A",
-      "regime": "N/A",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -645,8 +699,8 @@
     },
     "DDOG": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -654,17 +708,8 @@
     },
     "DELL": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
-    "EDIT": {
-      "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -672,8 +717,17 @@
     },
     "ENPH": {
       "conviction_score": null,
-      "timing_action": "AVOID",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "ESTC": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -681,8 +735,26 @@
     },
     "ETN": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "FARO": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "FFIV": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -690,8 +762,8 @@
     },
     "FSLR": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -708,19 +780,10 @@
         }
       ]
     },
-    "FTNT": {
-      "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "HIGH_VOL",
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "GEV": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -749,8 +812,8 @@
     },
     "GOOGL": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 6,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -817,6 +880,24 @@
         }
       ]
     },
+    "GSAT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "GTLB": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "HON": {
       "conviction_score": null,
       "timing_action": null,
@@ -837,10 +918,19 @@
         }
       ]
     },
+    "HPE": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "HUBS": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -856,15 +946,6 @@
           "bottleneck": false
         }
       ]
-    },
-    "HUT": {
-      "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
     },
     "IBM": {
       "conviction_score": null,
@@ -898,8 +979,8 @@
     },
     "ILMN": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -908,7 +989,7 @@
           "id": "next-gen-sequencing",
           "name": "Next-Generation Sequencing (NGS)",
           "category": "Biotech",
-          "conf": 0.132,
+          "conf": 0.13,
           "year": null,
           "stage": "mass_production",
           "weight": 0.95,
@@ -928,8 +1009,8 @@
     },
     "INTC": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 6,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -968,7 +1049,7 @@
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.182,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.6,
@@ -996,10 +1077,19 @@
         }
       ]
     },
+    "INTU": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "INVZ": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1007,8 +1097,8 @@
     },
     "IONQ": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1027,8 +1117,8 @@
     },
     "ISRG": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_DOWN",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1067,8 +1157,8 @@
     },
     "KLAC": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1087,7 +1177,7 @@
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.182,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.75,
@@ -1095,19 +1185,10 @@
         }
       ]
     },
-    "KTOS": {
-      "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "LAZR": {
       "conviction_score": null,
-      "timing_action": "N/A",
-      "regime": "N/A",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1126,8 +1207,8 @@
     },
     "LRCX": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1136,7 +1217,7 @@
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.182,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.75,
@@ -1146,8 +1227,8 @@
     },
     "LUNR": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1166,8 +1247,8 @@
     },
     "MARA": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1186,8 +1267,8 @@
     },
     "MBLY": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 3,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1224,6 +1305,24 @@
         }
       ]
     },
+    "MCHP": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "MDB": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "MDT": {
       "conviction_score": null,
       "timing_action": null,
@@ -1246,8 +1345,8 @@
     },
     "META": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "RANGE_BOUND",
+      "timing_action": null,
+      "regime": null,
       "node_count": 3,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1284,10 +1383,28 @@
         }
       ]
     },
+    "MNTS": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "MPWR": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "MRNA": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_DOWN",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1306,8 +1423,8 @@
     },
     "MRVL": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -1336,8 +1453,8 @@
     },
     "MSFT": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 5,
       "bottleneck_count": 2,
       "avg_node_confidence": null,
@@ -1396,8 +1513,8 @@
     },
     "MSTR": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1416,8 +1533,8 @@
     },
     "MU": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1446,8 +1563,8 @@
     },
     "MVIS": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1455,8 +1572,8 @@
     },
     "NEE": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "RANGE_BOUND",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1464,8 +1581,8 @@
     },
     "NET": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1474,7 +1591,7 @@
           "id": "zero-trust-architecture",
           "name": "Zero Trust Security Architecture",
           "category": "Cybersecurity",
-          "conf": 0.122,
+          "conf": 0.9,
           "year": 2019,
           "stage": "early_commercial",
           "weight": 0.85,
@@ -1482,19 +1599,19 @@
         }
       ]
     },
-    "NOC": {
+    "NOW": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_DOWN",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": []
     },
-    "NOW": {
+    "NTAP": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "TRENDING_DOWN",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1502,8 +1619,8 @@
     },
     "NVDA": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 7,
       "bottleneck_count": 2,
       "avg_node_confidence": null,
@@ -1570,10 +1687,46 @@
         }
       ]
     },
+    "NXPI": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "OKTA": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "ON": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "ONTO": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "ORCL": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1581,8 +1734,8 @@
     },
     "OUST": {
       "conviction_score": null,
-      "timing_action": "AVOID",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1590,8 +1743,8 @@
     },
     "PANW": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1610,7 +1763,7 @@
           "id": "zero-trust-architecture",
           "name": "Zero Trust Security Architecture",
           "category": "Cybersecurity",
-          "conf": 0.122,
+          "conf": 0.9,
           "year": 2019,
           "stage": "early_commercial",
           "weight": 0.82,
@@ -1620,8 +1773,8 @@
     },
     "PATH": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_DOWN",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1629,8 +1782,8 @@
     },
     "PLTR": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_DOWN",
+      "timing_action": null,
+      "regime": null,
       "node_count": 3,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -1659,7 +1812,7 @@
           "id": "ai-threat-detection",
           "name": "AI-Driven Threat Detection",
           "category": "Cybersecurity",
-          "conf": 0.119,
+          "conf": 0.118,
           "year": 2026,
           "stage": "early_commercial",
           "weight": 0.6,
@@ -1669,8 +1822,17 @@
     },
     "PLUG": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "PSTG": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1678,8 +1840,8 @@
     },
     "PWR": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1687,8 +1849,8 @@
     },
     "QBTS": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1696,8 +1858,8 @@
     },
     "QCOM": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1705,8 +1867,8 @@
     },
     "QUBT": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1714,8 +1876,8 @@
     },
     "RBLX": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1734,8 +1896,8 @@
     },
     "RDW": {
       "conviction_score": null,
-      "timing_action": "AVOID",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1743,8 +1905,8 @@
     },
     "RGTI": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1761,19 +1923,10 @@
         }
       ]
     },
-    "RIOT": {
-      "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
-      "node_count": 0,
-      "bottleneck_count": 0,
-      "avg_node_confidence": null,
-      "top_nodes": []
-    },
     "RKLB": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 2,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -1782,7 +1935,7 @@
           "id": "small-sat-rideshare",
           "name": "Small Satellite Rideshare Launch",
           "category": "Space Tech",
-          "conf": 0.137,
+          "conf": 0.139,
           "year": null,
           "stage": "mass_production",
           "weight": 0.88,
@@ -1792,7 +1945,7 @@
           "id": "rocket-full-reusability",
           "name": "Full Rocket Reusability (Starship)",
           "category": "Space Tech",
-          "conf": 0.175,
+          "conf": 0.169,
           "year": 2025,
           "stage": "pilot",
           "weight": 0.6,
@@ -1802,8 +1955,8 @@
     },
     "ROK": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1812,7 +1965,7 @@
           "id": "industrial-robot-arm",
           "name": "Industrial Robot Arm",
           "category": "Robotics",
-          "conf": 0.162,
+          "conf": 0.161,
           "year": null,
           "stage": "mass_production",
           "weight": 0.7,
@@ -1822,28 +1975,28 @@
     },
     "RXRX": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_DOWN",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
-      "bottleneck_count": 1,
+      "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "ai-drug-discovery-platform",
           "name": "AI Drug Discovery Platform",
           "category": "Biotech",
-          "conf": 0.106,
+          "conf": 0.109,
           "year": 2025,
           "stage": "pilot",
           "weight": 0.88,
-          "bottleneck": true
+          "bottleneck": false
         }
       ]
     },
     "S": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1862,8 +2015,26 @@
     },
     "SATL": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "SEDG": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "SHLS": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1871,8 +2042,8 @@
     },
     "SMCI": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1880,8 +2051,8 @@
     },
     "SMR": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1898,19 +2069,19 @@
         }
       ]
     },
-    "SNAP": {
+    "SNOW": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": []
     },
-    "SNOW": {
+    "SOUN": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "LOW_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1918,8 +2089,26 @@
     },
     "SPIR": {
       "conviction_score": null,
-      "timing_action": "AVOID",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "STX": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "SWKS": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1945,10 +2134,19 @@
         }
       ]
     },
+    "TEAM": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
     "TER": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1967,8 +2165,8 @@
     },
     "TSLA": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 6,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -2037,8 +2235,8 @@
     },
     "TSM": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 4,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -2047,7 +2245,7 @@
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.182,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.99,
@@ -2087,10 +2285,10 @@
     },
     "TTD": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "LOW_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 3,
-      "bottleneck_count": 1,
+      "bottleneck_count": 2,
       "avg_node_confidence": null,
       "top_nodes": [
         {
@@ -2101,7 +2299,7 @@
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.92,
-          "bottleneck": false
+          "bottleneck": true
         },
         {
           "id": "programmatic-display",
@@ -2127,8 +2325,8 @@
     },
     "TXN": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -2136,8 +2334,8 @@
     },
     "U": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_UP",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -2154,28 +2352,37 @@
         }
       ]
     },
-    "UUUU": {
+    "VEEV": {
       "conviction_score": null,
-      "timing_action": "HALF",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": []
     },
-    "VST": {
+    "VSAT": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_DOWN",
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": []
     },
-    "ZI": {
+    "WDAY": {
       "conviction_score": null,
-      "timing_action": "N/A",
-      "regime": "N/A",
+      "timing_action": null,
+      "regime": null,
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": []
+    },
+    "WDC": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -2183,8 +2390,8 @@
     },
     "ZS": {
       "conviction_score": null,
-      "timing_action": "WAIT",
-      "regime": "HIGH_VOL",
+      "timing_action": null,
+      "regime": null,
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -2207,46 +2414,19 @@
       "node_id": "silicon-photonics",
       "node_name": "Silicon Photonics Interconnect",
       "category": "Semiconductors",
-      "downstream_node_count": 34,
-      "confidence": 0.72,
+      "downstream_node_count": 35,
+      "confidence": 0.1657,
       "est_year_mode": 2028,
-      "bottleneck_score": 0.5848
+      "bottleneck_score": 0.408
     },
     {
       "node_id": "6g-xmimo-7ghz",
       "node_name": "6G Extreme-MIMO (X-MIMO) 7 GHz Network",
       "category": "Connectivity",
       "downstream_node_count": 14,
-      "confidence": 1.0,
-      "est_year_mode": 2026,
-      "bottleneck_score": 0.28
-    },
-    {
-      "node_id": "quantum-error-correction",
-      "node_name": "Quantum Error Correction (Surface Code)",
-      "category": "Quantum",
-      "downstream_node_count": 8,
-      "confidence": 0.8,
-      "est_year_mode": 2026,
-      "bottleneck_score": 0.144
-    },
-    {
-      "node_id": "topological-qubit",
-      "node_name": "Topological Qubit (Majorana Fermion)",
-      "category": "Quantum",
-      "downstream_node_count": 9,
-      "confidence": 0.55,
-      "est_year_mode": 2030,
-      "bottleneck_score": 0.1395
-    },
-    {
-      "node_id": "ai-materials-discovery",
-      "node_name": "AI Materials Discovery",
-      "category": "AI & Cloud",
-      "downstream_node_count": 7,
-      "confidence": 0.75,
+      "confidence": 0.325,
       "est_year_mode": 2028,
-      "bottleneck_score": 0.1225
+      "bottleneck_score": 0.1855
     },
     {
       "node_id": "ai-formal-reasoning",
@@ -2258,85 +2438,112 @@
       "bottleneck_score": 0.114
     },
     {
-      "node_id": "fault-tolerant-quantum-1000q",
-      "node_name": "Fault-Tolerant QC (1000 Logical Qubits)",
+      "node_id": "topological-qubit",
+      "node_name": "Topological Qubit (Majorana Fermion)",
       "category": "Quantum",
-      "downstream_node_count": 6,
-      "confidence": 0.85,
-      "est_year_mode": 2028,
-      "bottleneck_score": 0.111
+      "downstream_node_count": 9,
+      "confidence": 0.1322,
+      "est_year_mode": 2030,
+      "bottleneck_score": 0.1019
     },
     {
-      "node_id": "foundation-model-biology",
-      "node_name": "Biology Foundation Model",
+      "node_id": "quantum-error-correction",
+      "node_name": "Quantum Error Correction (Surface Code)",
+      "category": "Quantum",
+      "downstream_node_count": 8,
+      "confidence": 0.1527,
+      "est_year_mode": 2026,
+      "bottleneck_score": 0.0922
+    },
+    {
+      "node_id": "ai-materials-discovery",
+      "node_name": "AI Materials Discovery",
       "category": "AI & Cloud",
-      "downstream_node_count": 5,
-      "confidence": 1.0,
-      "est_year_mode": 2023,
-      "bottleneck_score": 0.1
+      "downstream_node_count": 7,
+      "confidence": 0.1625,
+      "est_year_mode": 2028,
+      "bottleneck_score": 0.0814
+    },
+    {
+      "node_id": "high-bandwidth-wireless-bci",
+      "node_name": "High-Bandwidth Wireless BCI (1024ch)",
+      "category": "BCI",
+      "downstream_node_count": 4,
+      "confidence": 0.82,
+      "est_year_mode": 2024,
+      "bottleneck_score": 0.0728
     },
     {
       "node_id": "ai-agent-memory",
       "node_name": "AI Agent Persistent Memory",
       "category": "AI & Cloud",
       "downstream_node_count": 6,
-      "confidence": 0.65,
+      "confidence": 0.1794,
       "est_year_mode": null,
-      "bottleneck_score": 0.099
+      "bottleneck_score": 0.0708
     },
     {
-      "node_id": "ai-agent-autonomous",
-      "node_name": "Autonomous AI Agent",
-      "category": "AI & Cloud",
+      "node_id": "fault-tolerant-quantum-1000q",
+      "node_name": "Fault-Tolerant QC (1000 Logical Qubits)",
+      "category": "Quantum",
+      "downstream_node_count": 6,
+      "confidence": 0.1545,
+      "est_year_mode": 2030,
+      "bottleneck_score": 0.0693
+    },
+    {
+      "node_id": "neuromorphic-chip",
+      "node_name": "Neuromorphic Computing Chip",
+      "category": "Semiconductors",
       "downstream_node_count": 5,
-      "confidence": 0.85,
-      "est_year_mode": 2025,
-      "bottleneck_score": 0.0925
+      "confidence": 0.1761,
+      "est_year_mode": 2029,
+      "bottleneck_score": 0.0588
     },
     {
       "node_id": "rocket-full-reusability",
       "node_name": "Full Rocket Reusability (Starship)",
       "category": "Space Tech",
       "downstream_node_count": 5,
-      "confidence": 0.82,
+      "confidence": 0.1686,
       "est_year_mode": 2025,
-      "bottleneck_score": 0.091
+      "bottleneck_score": 0.0584
     },
     {
-      "node_id": "organ-on-chip",
-      "node_name": "Organ-on-Chip (Microphysiological)",
-      "category": "Biotech",
+      "node_id": "foundation-model-biology",
+      "node_name": "Biology Foundation Model",
+      "category": "AI & Cloud",
       "downstream_node_count": 5,
-      "confidence": 0.78,
-      "est_year_mode": 2027,
-      "bottleneck_score": 0.089
+      "confidence": 0.1535,
+      "est_year_mode": 2025,
+      "bottleneck_score": 0.0577
     },
     {
-      "node_id": "3d-chip-stacking-wow",
-      "node_name": "Wafer-on-Wafer 3D Integration",
-      "category": "Semiconductors",
+      "node_id": "ai-agent-autonomous",
+      "node_name": "Autonomous AI Agent",
+      "category": "AI & Cloud",
       "downstream_node_count": 5,
-      "confidence": 0.72,
-      "est_year_mode": 2027,
-      "bottleneck_score": 0.086
+      "confidence": 0.1381,
+      "est_year_mode": 2025,
+      "bottleneck_score": 0.0569
     },
     {
       "node_id": "quantum-sensor-gravity",
       "node_name": "Quantum Gravity Sensor",
       "category": "Quantum",
       "downstream_node_count": 5,
-      "confidence": 0.7,
+      "confidence": 0.1324,
       "est_year_mode": 2029,
-      "bottleneck_score": 0.085
+      "bottleneck_score": 0.0566
     },
     {
       "node_id": "solid-state-battery",
       "node_name": "Solid-State Battery",
       "category": "Energy Tech",
       "downstream_node_count": 5,
-      "confidence": 0.65,
+      "confidence": 0.1304,
       "est_year_mode": 2029,
-      "bottleneck_score": 0.0825
+      "bottleneck_score": 0.0565
     }
   ]
 }

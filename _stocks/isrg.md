@@ -5,8 +5,6 @@ symbol: ISRG
 exchange: NASDAQ
 categories: [Robotics & Auto]
 node_count: 1
-timing_action: "FULL"
-regime: "TRENDING_DOWN"
 ---
 
 ## Investment Thesis

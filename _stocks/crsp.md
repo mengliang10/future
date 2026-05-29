@@ -5,8 +5,6 @@ symbol: CRSP
 exchange: NASDAQ
 categories: [Biotech, Gene Editing]
 node_count: 2
-timing_action: "FULL"
-regime: "RANGE_BOUND"
 ---
 
 ## Investment Thesis

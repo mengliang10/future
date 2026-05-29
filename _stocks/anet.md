@@ -4,8 +4,6 @@ name: "Arista Networks Inc."
 symbol: ANET
 exchange: NYSE
 categories: [Semiconductors, AI]
-timing_action: "FULL"
-regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

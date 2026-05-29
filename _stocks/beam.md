@@ -5,8 +5,6 @@ symbol: BEAM
 exchange: NASDAQ
 categories: [Biotech, Gene Editing]
 node_count: 1
-timing_action: "HALF"
-regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

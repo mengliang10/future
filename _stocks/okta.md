@@ -4,8 +4,6 @@ name: "Okta Inc."
 symbol: OKTA
 exchange: NASDAQ
 categories: [Cybersecurity]
-timing_action: "HALF"
-regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

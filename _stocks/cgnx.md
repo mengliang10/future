@@ -5,8 +5,6 @@ symbol: CGNX
 exchange: NASDAQ
 categories: [Robotics, AI]
 node_count: 1
-timing_action: "FULL"
-regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

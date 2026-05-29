@@ -5,8 +5,6 @@ symbol: GOOGL
 exchange: NASDAQ
 categories: [AI & Cloud]
 node_count: 6
-timing_action: "FULL"
-regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis
