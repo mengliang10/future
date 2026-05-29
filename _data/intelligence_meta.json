@@ -134,6 +134,14 @@
   ],
   "company_index": [
     {
+      "ticker": "1X.PVT",
+      "name": "1X Technologies"
+    },
+    {
+      "ticker": "ADVAN.JP",
+      "name": "Advantest"
+    },
+    {
       "ticker": "ASML",
       "name": "ASML Holding NV"
     },
@@ -178,6 +186,10 @@
       "name": "Aurora Innovation"
     },
     {
+      "ticker": "BLUE.PVT",
+      "name": "Blue Origin"
+    },
+    {
       "ticker": "BYD.HK",
       "name": "BYD Company"
     },
@@ -218,12 +230,20 @@
       "name": "Cloudflare Inc."
     },
     {
+      "ticker": "COHERE.PVT",
+      "name": "Cohere"
+    },
+    {
       "ticker": "CGNX",
       "name": "Cognex Corporation"
     },
     {
       "ticker": "COIN",
       "name": "Coinbase Global"
+    },
+    {
+      "ticker": "CFS.PVT",
+      "name": "Commonwealth Fusion Systems"
     },
     {
       "ticker": "CEG",
@@ -254,12 +274,20 @@
       "name": "Eaton Corporation"
     },
     {
+      "ticker": "FIGURE.PVT",
+      "name": "Figure AI"
+    },
+    {
       "ticker": "FSLR",
       "name": "First Solar Inc."
     },
     {
       "ticker": "GEV",
       "name": "GE Vernova"
+    },
+    {
+      "ticker": "DNA",
+      "name": "Ginkgo Bioworks"
     },
     {
       "ticker": "GROQ.PVT",
@@ -322,6 +350,10 @@
       "name": "Lam Research"
     },
     {
+      "ticker": "LASER.JP",
+      "name": "Lasertec"
+    },
+    {
       "ticker": "LAZR",
       "name": "Luminar Technologies"
     },
@@ -362,10 +394,6 @@
       "name": "Moderna Inc."
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation"
-    },
-    {
       "ticker": "NVOLT.PVT",
       "name": "Northvolt"
     },
@@ -374,12 +402,24 @@
       "name": "NuScale Power"
     },
     {
+      "ticker": "OPENAI.PVT",
+      "name": "OpenAI"
+    },
+    {
+      "ticker": "PACIFIC.PVT",
+      "name": "Pacific Fusion"
+    },
+    {
       "ticker": "PLTR",
       "name": "Palantir Technologies"
     },
     {
       "ticker": "PANW",
       "name": "Palo Alto Networks"
+    },
+    {
+      "ticker": "PRME",
+      "name": "Prime Medicine"
     },
     {
       "ticker": "PSIQ.PVT",
@@ -396,6 +436,10 @@
     {
       "ticker": "REL.PVT",
       "name": "Relativity Space"
+    },
+    {
+      "ticker": "REN.JP",
+      "name": "Renesas Electronics"
     },
     {
       "ticker": "RGTI",
@@ -426,6 +470,10 @@
       "name": "SentinelOne"
     },
     {
+      "ticker": "SHIELD.PVT",
+      "name": "Shield AI"
+    },
+    {
       "ticker": "SPAX.PVT",
       "name": "SpaceX"
     },
@@ -454,6 +502,10 @@
       "name": "The Trade Desk"
     },
     {
+      "ticker": "TEL.JP",
+      "name": "Tokyo Electron"
+    },
+    {
       "ticker": "TM",
       "name": "Toyota Motor"
     },
@@ -472,6 +524,10 @@
     {
       "ticker": "WDC",
       "name": "Western Digital Corp."
+    },
+    {
+      "ticker": "XAI.PVT",
+      "name": "xAI"
     },
     {
       "ticker": "ZS",
