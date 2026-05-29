@@ -1,8 +1,8 @@
 import json
 import os
 
-STOCKS_JSON = '/home/ml/Documents/Projects/Github/future/assets/data/stocks.json'
-STOCKS_DIR = '/home/ml/Documents/Projects/Github/future/_stocks'
+STOCKS_JSON = os.path.join(os.path.dirname(__file__), '..', 'assets', 'data', 'stocks.json')
+STOCKS_DIR = os.path.join(os.path.dirname(__file__), '..', '_stocks')
 
 def generate_stock_pages():
     with open(STOCKS_JSON, 'r') as f:

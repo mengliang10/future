@@ -108,85 +108,71 @@ title: Home
 
 </div>
 
-<!-- Market Intelligence -->
-<div class="section-heading">
-  <h2>Sectors &amp; Research</h2>
-  <span class="section-sub">High-conviction research across 13 sectors — with technology nodes, causal signals, and investable stocks.</span>
-  <a href="{{ '/tech/' | relative_url }}" class="view-all">Technology Intelligence (212 nodes) &rarr;</a>
+<!-- Alphabetical Company Index -->
+<div class="section-heading" style="margin-top: 4rem;">
+  <h2>Company Intelligence Index</h2>
+  <span class="section-sub">A &ndash; Z list of all tracked entities including private and international leaders.</span>
 </div>
 
-<div class="sector-grid">
-  <a href="{{ '/tech/' | relative_url }}" class="sector-card" style="border-color:var(--accent-2); background:linear-gradient(135deg,var(--bg-3),var(--bg-2));">
-    <div class="sector-card-icon">&#127775;</div>
-    <div class="sector-card-name" style="color:var(--accent);">Technology Intelligence</div>
-    <div class="sector-card-desc">212 tracked future technologies — vetted, confidence-rated, linked to stocks. Confirmed → Confident → Researching → Speculative.</div>
+<div class="company-index-grid">
+  {% for company in site.data.intelligence_meta.company_index %}
+  <a href="{{ '/stocks/' | append: company.ticker | downcase | relative_url }}" class="index-item">
+    <span class="index-ticker">{{ company.ticker }}</span>
+    <span class="index-name">{{ company.name }}</span>
   </a>
-  <a href="{{ '/sectors/ai/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#129302;</div>
-    <div class="sector-card-name">AI & Machine Learning</div>
-    <div class="sector-card-desc">LLM unit economics, inference infrastructure, and the competitive landscape of model frameworks.</div>
-  </a>
-  <a href="{{ '/sectors/semiconductors/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#128421;</div>
-    <div class="sector-card-name">Advanced Semiconductors</div>
-    <div class="sector-card-desc">Foundry yields, High-NA EUV, Advanced Packaging (CoWoS), and the global WFE supply chain.</div>
-  </a>
-  <a href="{{ '/sectors/robotics/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#129307;</div>
-    <div class="sector-card-name">Robotics & Automation</div>
-    <div class="sector-card-desc">Humanoid robots, industrial automation, and the physical AI revolution reshaping manufacturing.</div>
-  </a>
-  <a href="{{ '/sectors/space/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#128640;</div>
-    <div class="sector-card-name">Space Economy</div>
-    <div class="sector-card-desc">Launch economics, satellite constellations, lunar commerce, and the $1T space market by 2040.</div>
-  </a>
-  <a href="{{ '/sectors/biotech/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#129516;</div>
-    <div class="sector-card-name">Biotech & Longevity</div>
-    <div class="sector-card-desc">CRISPR gene editing, mRNA platforms, AI drug discovery, and the science of extending human lifespan.</div>
-  </a>
-  <a href="{{ '/sectors/energy/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#9889;</div>
-    <div class="sector-card-name">Future Energy & Nuclear</div>
-    <div class="sector-card-desc">SMRs, nuclear renaissance, uranium supply, and the power infrastructure the AI era demands.</div>
-  </a>
-  <a href="{{ '/sectors/blockchain/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#128279;</div>
-    <div class="sector-card-name">Blockchain & Digital Assets</div>
-    <div class="sector-card-desc">Bitcoin treasury plays, crypto exchanges, mining operators, and the tokenised financial future.</div>
-  </a>
-  <a href="{{ '/sectors/cyber/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#128274;</div>
-    <div class="sector-card-name">Cybersecurity</div>
-    <div class="sector-card-desc">The permanent arms race between attackers and defenders — platforms winning at scale.</div>
-  </a>
-  <a href="{{ '/sectors/autonomous/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#128664;</div>
-    <div class="sector-card-name">Autonomous Vehicles</div>
-    <div class="sector-card-desc">Self-driving technology, lidar sensors, autonomous trucking, and the end of human-piloted transport.</div>
-  </a>
-  <a href="{{ '/sectors/xr/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#128257;</div>
-    <div class="sector-card-name">XR & Spatial Computing</div>
-    <div class="sector-card-desc">VR, AR glasses, the metaverse, and the next generation of human-computer interaction.</div>
-  </a>
-  <a href="{{ '/sectors/marketing/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#127919;</div>
-    <div class="sector-card-name">Marketing Technology</div>
-    <div class="sector-card-desc">Programmatic advertising, customer data platforms, and AI-driven growth in a $750B market.</div>
-  </a>
-  <a href="{{ '/sectors/bci/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#129504;</div>
-    <div class="sector-card-name">Brain-Computer Interface</div>
-    <div class="sector-card-desc">Neural implants, Neuralink milestones, and the merger of human cognition with machine intelligence.</div>
-  </a>
-  <a href="{{ '/sectors/quantum/' | relative_url }}" class="sector-card">
-    <div class="sector-card-icon">&#9883;</div>
-    <div class="sector-card-name">Quantum Computing</div>
-    <div class="sector-card-desc">Hardware platforms, error correction milestones, and which stocks are positioned for the quantum era.</div>
-  </a>
+  {% endfor %}
 </div>
+
+<style>
+.company-index-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.index-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: all var(--transition);
+}
+
+.index-item:hover {
+  background: var(--bg-3);
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: var(--accent-glow);
+}
+
+.index-ticker {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  color: var(--accent);
+  font-size: 0.8rem;
+  min-width: 70px;
+}
+
+.index-name {
+  font-size: 0.9rem;
+  color: var(--text-2);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 1024px) {
+  .company-index-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 640px) {
+  .company-index-grid { grid-template-columns: 1fr; }
+}
+</style>
 
 <!-- Latest Articles -->
 <div class="section-heading">
