@@ -4,7 +4,6 @@ name: "Amazon.com Inc."
 symbol: AMZN
 exchange: NASDAQ
 categories: [AI & Cloud]
-node_count: 6
 ---
 
 ## Investment Thesis

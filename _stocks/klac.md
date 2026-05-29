@@ -5,6 +5,7 @@ symbol: KLAC
 exchange: NASDAQ
 categories: [Semiconductors]
 node_count: 2
+bottleneck_count: 1
 ---
 
 ## Investment Thesis

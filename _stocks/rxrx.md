@@ -5,6 +5,7 @@ symbol: RXRX
 exchange: NASDAQ
 categories: [Biotech, AI Drug Discovery]
 node_count: 1
+bottleneck_count: 1
 ---
 
 ## Investment Thesis

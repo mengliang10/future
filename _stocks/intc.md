@@ -4,8 +4,6 @@ name: "Intel Corporation"
 symbol: INTC
 exchange: NASDAQ
 categories: [Semiconductors]
-node_count: 6
-bottleneck_count: 1
 ---
 
 ## Investment Thesis

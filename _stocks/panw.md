@@ -5,6 +5,7 @@ symbol: PANW
 exchange: NASDAQ
 categories: [Software]
 node_count: 2
+bottleneck_count: 2
 ---
 
 ## Investment Thesis
