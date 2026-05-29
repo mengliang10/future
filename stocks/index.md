@@ -32,9 +32,10 @@ subtitle: 100 tracked tech and future-tech stocks: sortable, filterable, live-up
         <th data-sort="name">Company</th>
         <th data-sort="sector">Sector</th>
         <th data-sort="price" style="text-align:right;">Price</th>
-        <th data-sort="change" style="text-align:right;">Chg</th>
         <th data-sort="change_pct" style="text-align:right;">%</th>
-        <th data-sort="rsi" style="text-align:right;">RSI</th>
+        <th data-sort="timing_quality" style="text-align:center;">Timing</th>
+        <th data-sort="regime">Regime</th>
+        <th data-sort="alpha_signal">Alpha</th>
         <th data-sort="market_cap" style="text-align:right;">Mkt Cap</th>
       </tr>
     </thead>
