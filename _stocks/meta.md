@@ -5,7 +5,6 @@ symbol: META
 exchange: NASDAQ
 categories: [AI & Cloud]
 node_count: 3
-bottleneck_count: 1
 ---
 
 ## Investment Thesis

@@ -5,7 +5,7 @@ symbol: TTD
 exchange: NASDAQ
 categories: [Marketing Tech, AdTech]
 node_count: 3
-bottleneck_count: 1
+bottleneck_count: 2
 ---
 
 ## Investment Thesis

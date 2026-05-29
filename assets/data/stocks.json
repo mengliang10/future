@@ -1212,6 +1212,62 @@
       "volume": null,
       "signal": "N/A",
       "rsi": null
+    },
+    {
+      "ticker": "SPAX.PVT",
+      "name": "SpaceX",
+      "sector": "Space Tech",
+      "price": null,
+      "market_cap": 210000000000,
+      "signal": "PRIVATE"
+    },
+    {
+      "ticker": "ANTH.PVT",
+      "name": "Anthropic",
+      "sector": "AI & Cloud",
+      "price": null,
+      "market_cap": 18000000000,
+      "signal": "PRIVATE"
+    },
+    {
+      "ticker": "HUAWEI.PVT",
+      "name": "Huawei Technologies",
+      "sector": "Semiconductors",
+      "price": null,
+      "market_cap": null,
+      "signal": "PRIVATE"
+    },
+    {
+      "ticker": "ZEISS.PVT",
+      "name": "Carl Zeiss AG",
+      "sector": "Semiconductors",
+      "price": null,
+      "market_cap": null,
+      "signal": "PRIVATE"
+    },
+    {
+      "ticker": "SAMSUNG.KR",
+      "name": "Samsung Electronics",
+      "sector": "Semiconductors",
+      "price": null,
+      "market_cap": 350000000000,
+      "signal": "KRX"
+    },
+    {
+      "ticker": "TM",
+      "name": "Toyota Motor",
+      "sector": "Robotics & Auto",
+      "price": 200.0,
+      "market_cap": 300000000000,
+      "signal": "NYSE"
+    },
+    {
+      "ticker": "HXSCL",
+      "name": "SK Hynix",
+      "sector": "Semiconductors",
+      "price": null,
+      "market_cap": 120000000000,
+      "signal": "OTC"
     }
   ]
 }

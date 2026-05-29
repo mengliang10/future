@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-05-29T07:19:39Z",
-  "stock_count": 124,
+  "generated_at": "2026-05-29T07:36:32Z",
+  "stock_count": 131,
   "stocks": {
     "AAPL": {
       "conviction_score": null,
       "timing_action": null,
       "regime": null,
       "node_count": 2,
-      "bottleneck_count": 2,
+      "bottleneck_count": 1,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "spatial-computing-os",
           "name": "Spatial Computing OS",
           "category": "XR",
-          "conf": 0.85,
+          "conf": 0.151,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.9,
@@ -24,11 +24,11 @@
           "id": "ar-glasses-consumer",
           "name": "AR Smart Glasses (Consumer / Daily)",
           "category": "XR",
-          "conf": 0.88,
+          "conf": 0.113,
           "year": 2025,
           "stage": "pilot",
           "weight": 0.72,
-          "bottleneck": true
+          "bottleneck": false
         }
       ]
     },
@@ -89,7 +89,7 @@
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.95,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.78,
@@ -118,7 +118,7 @@
           "id": "gpu-compute-cluster",
           "name": "GPU Compute Cluster",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.147,
           "year": null,
           "stage": "mass_production",
           "weight": 0.65,
@@ -128,7 +128,7 @@
           "id": "ai-hardware-asic",
           "name": "AI Hardware ASIC (TPU/NPU/Trainium)",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.136,
           "year": null,
           "stage": "mass_production",
           "weight": 0.55,
@@ -140,10 +140,71 @@
       "conviction_score": null,
       "timing_action": null,
       "regime": null,
-      "node_count": 0,
+      "node_count": 6,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
-      "top_nodes": []
+      "top_nodes": [
+        {
+          "id": "cloud-hyperscaler-infra",
+          "name": "Cloud Hyperscaler Infrastructure",
+          "category": "AI & Cloud",
+          "conf": 0.149,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.9,
+          "bottleneck": false
+        },
+        {
+          "id": "ai-hardware-asic",
+          "name": "AI Hardware ASIC (TPU/NPU/Trainium)",
+          "category": "AI & Cloud",
+          "conf": 0.136,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.8,
+          "bottleneck": false
+        },
+        {
+          "id": "gpu-compute-cluster",
+          "name": "GPU Compute Cluster",
+          "category": "AI & Cloud",
+          "conf": 0.147,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.8,
+          "bottleneck": false
+        },
+        {
+          "id": "leo-satellite-internet",
+          "name": "LEO Satellite Internet Constellation",
+          "category": "Space Tech",
+          "conf": 0.114,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.7,
+          "bottleneck": false
+        },
+        {
+          "id": "llm-gpt4-class",
+          "name": "LLM GPT-4 Class (~1T params)",
+          "category": "AI & Cloud",
+          "conf": 0.149,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.6,
+          "bottleneck": false
+        },
+        {
+          "id": "ai-coding-agent",
+          "name": "AI Software Engineering Agent",
+          "category": "AI & Cloud",
+          "conf": 0.256,
+          "year": null,
+          "stage": "early_commercial",
+          "weight": 0.5,
+          "bottleneck": false
+        }
+      ]
     },
     "ANET": {
       "conviction_score": null,
@@ -154,14 +215,95 @@
       "avg_node_confidence": null,
       "top_nodes": []
     },
+    "ANTH.PVT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 2,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "llm-gpt4-class",
+          "name": "LLM GPT-4 Class (~1T params)",
+          "category": "AI & Cloud",
+          "conf": 0.149,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.8,
+          "bottleneck": false
+        },
+        {
+          "id": "llm-100t-params",
+          "name": "LLM 100T+ Parameter Model",
+          "category": "AI & Cloud",
+          "conf": 0.183,
+          "year": 2026,
+          "stage": "prototype",
+          "weight": 0.7,
+          "bottleneck": false
+        }
+      ]
+    },
     "ARM": {
       "conviction_score": null,
       "timing_action": null,
       "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
+      "node_count": 5,
+      "bottleneck_count": 1,
       "avg_node_confidence": null,
-      "top_nodes": []
+      "top_nodes": [
+        {
+          "id": "ai-hardware-asic",
+          "name": "AI Hardware ASIC (TPU/NPU/Trainium)",
+          "category": "AI & Cloud",
+          "conf": 0.136,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.9,
+          "bottleneck": false
+        },
+        {
+          "id": "gpu-compute-cluster",
+          "name": "GPU Compute Cluster",
+          "category": "AI & Cloud",
+          "conf": 0.147,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.8,
+          "bottleneck": false
+        },
+        {
+          "id": "2nm-process-node",
+          "name": "2nm Process Node (TSMC N2)",
+          "category": "Semiconductors",
+          "conf": 0.178,
+          "year": 2025,
+          "stage": "early_commercial",
+          "weight": 0.7,
+          "bottleneck": false
+        },
+        {
+          "id": "ai-agent-autonomous",
+          "name": "Autonomous AI Agent",
+          "category": "AI & Cloud",
+          "conf": 0.138,
+          "year": 2025,
+          "stage": "early_commercial",
+          "weight": 0.5,
+          "bottleneck": true
+        },
+        {
+          "id": "humanoid-robot-factory",
+          "name": "Humanoid Robot (Factory Deployment)",
+          "category": "Robotics",
+          "conf": 0.178,
+          "year": 2026,
+          "stage": "pilot",
+          "weight": 0.5,
+          "bottleneck": false
+        }
+      ]
     },
     "ARQQ": {
       "conviction_score": null,
@@ -177,14 +319,14 @@
       "timing_action": null,
       "regime": null,
       "node_count": 4,
-      "bottleneck_count": 2,
+      "bottleneck_count": 1,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "euv-lithography",
           "name": "EUV Lithography (13.5nm)",
           "category": "Semiconductors",
-          "conf": 0.99,
+          "conf": 0.302,
           "year": null,
           "stage": "mass_production",
           "weight": 1.0,
@@ -194,7 +336,7 @@
           "id": "high-na-euv",
           "name": "High-NA EUV Lithography (ASML EXE)",
           "category": "Semiconductors",
-          "conf": 0.88,
+          "conf": 0.186,
           "year": 2025,
           "stage": "pilot",
           "weight": 1.0,
@@ -204,17 +346,17 @@
           "id": "1nm-process-node",
           "name": "1nm / A14 Process Node",
           "category": "Semiconductors",
-          "conf": 0.85,
-          "year": 2026,
+          "conf": 0.16,
+          "year": 2027,
           "stage": "proof_of_concept",
           "weight": 0.95,
-          "bottleneck": true
+          "bottleneck": false
         },
         {
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.95,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.9,
@@ -234,7 +376,7 @@
           "id": "leo-satellite-internet",
           "name": "LEO Satellite Internet Constellation",
           "category": "Space Tech",
-          "conf": 0.99,
+          "conf": 0.114,
           "year": null,
           "stage": "mass_production",
           "weight": 0.85,
@@ -254,7 +396,7 @@
           "id": "autonomous-trucking-highway",
           "name": "Autonomous Trucking (Highway ODD)",
           "category": "Autonomous",
-          "conf": 0.88,
+          "conf": 0.07,
           "year": 2025,
           "stage": "pilot",
           "weight": 0.9,
@@ -274,7 +416,7 @@
           "id": "ai-hardware-asic",
           "name": "AI Hardware ASIC (TPU/NPU/Trainium)",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.136,
           "year": null,
           "stage": "mass_production",
           "weight": 0.88,
@@ -284,7 +426,7 @@
           "id": "gpu-compute-cluster",
           "name": "GPU Compute Cluster",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.147,
           "year": null,
           "stage": "mass_production",
           "weight": 0.7,
@@ -322,7 +464,7 @@
           "id": "crispr-base-editing",
           "name": "CRISPR Base Editing",
           "category": "Biotech",
-          "conf": 0.97,
+          "conf": 0.118,
           "year": null,
           "stage": "early_commercial",
           "weight": 0.95,
@@ -360,7 +502,7 @@
           "id": "mrna-vaccine-platform",
           "name": "mRNA Vaccine / Therapeutic Platform",
           "category": "Biotech",
-          "conf": 0.99,
+          "conf": 0.113,
           "year": null,
           "stage": "mass_production",
           "weight": 0.9,
@@ -373,14 +515,14 @@
       "timing_action": null,
       "regime": null,
       "node_count": 2,
-      "bottleneck_count": 1,
+      "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "customer-data-platform",
           "name": "Customer Data Platform (CDP)",
           "category": "Marketing Tech",
-          "conf": 0.97,
+          "conf": 0.136,
           "year": null,
           "stage": "mass_production",
           "weight": 0.88,
@@ -390,11 +532,11 @@
           "id": "ai-personalization-engine",
           "name": "AI Personalization Engine",
           "category": "Marketing Tech",
-          "conf": 0.98,
-          "year": 2023,
+          "conf": 0.117,
+          "year": 2018,
           "stage": "early_commercial",
           "weight": 0.75,
-          "bottleneck": true
+          "bottleneck": false
         }
       ]
     },
@@ -410,7 +552,7 @@
           "id": "nuclear-gen3-plus",
           "name": "Nuclear Gen III+ Reactor (AP1000)",
           "category": "Energy Tech",
-          "conf": 0.99,
+          "conf": 0.185,
           "year": null,
           "stage": "mass_production",
           "weight": 0.85,
@@ -420,8 +562,8 @@
           "id": "small-modular-reactor",
           "name": "Small Modular Reactor (<300MWe)",
           "category": "Energy Tech",
-          "conf": 0.72,
-          "year": 2030,
+          "conf": 0.197,
+          "year": 2029,
           "stage": "pilot",
           "weight": 0.7,
           "bottleneck": false
@@ -440,7 +582,7 @@
           "id": "nuclear-gen3-plus",
           "name": "Nuclear Gen III+ Reactor (AP1000)",
           "category": "Energy Tech",
-          "conf": 0.99,
+          "conf": 0.185,
           "year": null,
           "stage": "mass_production",
           "weight": 0.95,
@@ -460,7 +602,7 @@
           "id": "machine-vision-2d",
           "name": "2D Machine Vision (Camera Inspection)",
           "category": "Robotics",
-          "conf": 0.99,
+          "conf": 0.14,
           "year": null,
           "stage": "mass_production",
           "weight": 0.9,
@@ -480,7 +622,7 @@
           "id": "bitcoin-pow-blockchain",
           "name": "Bitcoin Proof-of-Work Blockchain",
           "category": "Blockchain",
-          "conf": 0.99,
+          "conf": 0.119,
           "year": null,
           "stage": "mass_production",
           "weight": 0.88,
@@ -490,7 +632,7 @@
           "id": "defi-ecosystem",
           "name": "DeFi Decentralized Finance Ecosystem",
           "category": "Blockchain",
-          "conf": 0.95,
+          "conf": 0.156,
           "year": null,
           "stage": "mass_production",
           "weight": 0.8,
@@ -519,7 +661,7 @@
           "id": "crispr-cas9",
           "name": "CRISPR-Cas9 Gene Editing",
           "category": "Biotech",
-          "conf": 0.99,
+          "conf": 0.087,
           "year": null,
           "stage": "mass_production",
           "weight": 0.92,
@@ -558,7 +700,7 @@
           "id": "edr-endpoint-detection",
           "name": "EDR (Endpoint Detection & Response)",
           "category": "Cybersecurity",
-          "conf": 0.99,
+          "conf": 0.153,
           "year": null,
           "stage": "mass_production",
           "weight": 0.92,
@@ -568,7 +710,7 @@
           "id": "ai-threat-detection",
           "name": "AI-Driven Threat Detection",
           "category": "Cybersecurity",
-          "conf": 0.82,
+          "conf": 0.118,
           "year": 2026,
           "stage": "early_commercial",
           "weight": 0.85,
@@ -660,7 +802,7 @@
           "id": "solar-pv-panel",
           "name": "Solar PV Panel (Silicon)",
           "category": "Energy Tech",
-          "conf": 0.99,
+          "conf": 0.155,
           "year": null,
           "stage": "mass_production",
           "weight": 0.9,
@@ -673,25 +815,25 @@
       "timing_action": null,
       "regime": null,
       "node_count": 2,
-      "bottleneck_count": 0,
+      "bottleneck_count": 1,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "wind-offshore-floating",
           "name": "Floating Offshore Wind",
           "category": "Energy Tech",
-          "conf": 0.72,
+          "conf": 0.143,
           "year": 2029,
           "stage": "pilot",
           "weight": 0.8,
-          "bottleneck": false
+          "bottleneck": true
         },
         {
           "id": "small-modular-reactor",
           "name": "Small Modular Reactor (<300MWe)",
           "category": "Energy Tech",
-          "conf": 0.72,
-          "year": 2030,
+          "conf": 0.197,
+          "year": 2029,
           "stage": "pilot",
           "weight": 0.78,
           "bottleneck": false
@@ -710,7 +852,7 @@
           "id": "protein-structure-alphafold",
           "name": "Protein Structure Prediction (AI)",
           "category": "Biotech",
-          "conf": 0.99,
+          "conf": 0.129,
           "year": null,
           "stage": "mass_production",
           "weight": 0.95,
@@ -720,7 +862,7 @@
           "id": "robotaxi-geofenced",
           "name": "Robotaxi (Geofenced Operation)",
           "category": "Autonomous",
-          "conf": 0.97,
+          "conf": 0.126,
           "year": null,
           "stage": "early_commercial",
           "weight": 0.9,
@@ -730,7 +872,7 @@
           "id": "quantum-supremacy-narrow",
           "name": "Quantum Supremacy (Narrow Task)",
           "category": "Quantum",
-          "conf": 0.99,
+          "conf": 0.121,
           "year": null,
           "stage": "early_commercial",
           "weight": 0.9,
@@ -740,7 +882,7 @@
           "id": "llm-gpt4-class",
           "name": "LLM GPT-4 Class (~1T params)",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.149,
           "year": null,
           "stage": "mass_production",
           "weight": 0.85,
@@ -750,7 +892,7 @@
           "id": "ai-hardware-asic",
           "name": "AI Hardware ASIC (TPU/NPU/Trainium)",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.136,
           "year": null,
           "stage": "mass_production",
           "weight": 0.82,
@@ -760,7 +902,7 @@
           "id": "cloud-hyperscaler-infra",
           "name": "Cloud Hyperscaler Infrastructure",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.149,
           "year": null,
           "stage": "mass_production",
           "weight": 0.8,
@@ -798,7 +940,7 @@
           "id": "trapped-ion-qubit",
           "name": "Trapped Ion Qubit",
           "category": "Quantum",
-          "conf": 0.99,
+          "conf": 0.152,
           "year": null,
           "stage": "early_commercial",
           "weight": 0.75,
@@ -815,6 +957,26 @@
       "avg_node_confidence": null,
       "top_nodes": []
     },
+    "HUAWEI.PVT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 1,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "ai-hardware-asic",
+          "name": "AI Hardware ASIC (TPU/NPU/Trainium)",
+          "category": "AI & Cloud",
+          "conf": 0.136,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.6,
+          "bottleneck": false
+        }
+      ]
+    },
     "HUBS": {
       "conviction_score": null,
       "timing_action": null,
@@ -827,11 +989,31 @@
           "id": "customer-data-platform",
           "name": "Customer Data Platform (CDP)",
           "category": "Marketing Tech",
-          "conf": 0.97,
+          "conf": 0.136,
           "year": null,
           "stage": "mass_production",
           "weight": 0.8,
           "bottleneck": false
+        }
+      ]
+    },
+    "HXSCL": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 1,
+      "bottleneck_count": 1,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "hbm4-memory",
+          "name": "HBM4 Memory",
+          "category": "Semiconductors",
+          "conf": 0.12,
+          "year": 2026,
+          "stage": "pilot",
+          "weight": 0.9,
+          "bottleneck": true
         }
       ]
     },
@@ -847,7 +1029,7 @@
           "id": "superconducting-qubit",
           "name": "Superconducting Qubit",
           "category": "Quantum",
-          "conf": 0.99,
+          "conf": 0.182,
           "year": null,
           "stage": "early_commercial",
           "weight": 0.8,
@@ -857,8 +1039,8 @@
           "id": "quantum-error-correction",
           "name": "Quantum Error Correction (Surface Code)",
           "category": "Quantum",
-          "conf": 0.8,
-          "year": 2028,
+          "conf": 0.153,
+          "year": 2026,
           "stage": "prototype",
           "weight": 0.75,
           "bottleneck": true
@@ -877,7 +1059,7 @@
           "id": "next-gen-sequencing",
           "name": "Next-Generation Sequencing (NGS)",
           "category": "Biotech",
-          "conf": 0.99,
+          "conf": 0.13,
           "year": null,
           "stage": "mass_production",
           "weight": 0.95,
@@ -887,7 +1069,7 @@
           "id": "whole-genome-seq-1000",
           "name": "Whole Genome Sequencing <$1000",
           "category": "Biotech",
-          "conf": 0.99,
+          "conf": 0.126,
           "year": null,
           "stage": "mass_production",
           "weight": 0.9,
@@ -899,10 +1081,71 @@
       "conviction_score": null,
       "timing_action": null,
       "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
+      "node_count": 6,
+      "bottleneck_count": 1,
       "avg_node_confidence": null,
-      "top_nodes": []
+      "top_nodes": [
+        {
+          "id": "silicon-photonics",
+          "name": "Silicon Photonics Interconnect",
+          "category": "Semiconductors",
+          "conf": 0.166,
+          "year": 2028,
+          "stage": "prototype",
+          "weight": 0.85,
+          "bottleneck": true
+        },
+        {
+          "id": "gaafet-transistor",
+          "name": "Gate-All-Around FET (MBCFET/NSFET)",
+          "category": "Semiconductors",
+          "conf": 0.133,
+          "year": null,
+          "stage": "early_commercial",
+          "weight": 0.8,
+          "bottleneck": false
+        },
+        {
+          "id": "1nm-process-node",
+          "name": "1nm / A14 Process Node",
+          "category": "Semiconductors",
+          "conf": 0.16,
+          "year": 2027,
+          "stage": "proof_of_concept",
+          "weight": 0.7,
+          "bottleneck": false
+        },
+        {
+          "id": "2nm-process-node",
+          "name": "2nm Process Node (TSMC N2)",
+          "category": "Semiconductors",
+          "conf": 0.178,
+          "year": 2025,
+          "stage": "early_commercial",
+          "weight": 0.6,
+          "bottleneck": false
+        },
+        {
+          "id": "ai-hardware-asic",
+          "name": "AI Hardware ASIC (TPU/NPU/Trainium)",
+          "category": "AI & Cloud",
+          "conf": 0.136,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.6,
+          "bottleneck": false
+        },
+        {
+          "id": "superconducting-qubit",
+          "name": "Superconducting Qubit",
+          "category": "Quantum",
+          "conf": 0.182,
+          "year": null,
+          "stage": "early_commercial",
+          "weight": 0.5,
+          "bottleneck": false
+        }
+      ]
     },
     "INTU": {
       "conviction_score": null,
@@ -934,7 +1177,7 @@
           "id": "trapped-ion-qubit",
           "name": "Trapped Ion Qubit",
           "category": "Quantum",
-          "conf": 0.99,
+          "conf": 0.152,
           "year": null,
           "stage": "early_commercial",
           "weight": 0.95,
@@ -954,7 +1197,7 @@
           "id": "surgical-robot-assisted",
           "name": "Robot-Assisted Surgery",
           "category": "Robotics",
-          "conf": 0.99,
+          "conf": 0.124,
           "year": null,
           "stage": "mass_production",
           "weight": 0.95,
@@ -974,7 +1217,7 @@
           "id": "evtol-air-taxi",
           "name": "eVTOL Air Taxi",
           "category": "Autonomous",
-          "conf": 0.65,
+          "conf": 0.146,
           "year": 2028,
           "stage": "pilot",
           "weight": 0.92,
@@ -987,24 +1230,24 @@
       "timing_action": null,
       "regime": null,
       "node_count": 2,
-      "bottleneck_count": 1,
+      "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "1nm-process-node",
           "name": "1nm / A14 Process Node",
           "category": "Semiconductors",
-          "conf": 0.85,
-          "year": 2026,
+          "conf": 0.16,
+          "year": 2027,
           "stage": "proof_of_concept",
           "weight": 0.78,
-          "bottleneck": true
+          "bottleneck": false
         },
         {
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.95,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.75,
@@ -1024,7 +1267,7 @@
           "id": "lidar-solid-state",
           "name": "Solid-State LiDAR",
           "category": "Autonomous",
-          "conf": 0.88,
+          "conf": 0.1,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.88,
@@ -1044,7 +1287,7 @@
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.95,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.75,
@@ -1064,7 +1307,7 @@
           "id": "lunar-lander-commercial",
           "name": "Commercial Lunar Lander",
           "category": "Space Tech",
-          "conf": 0.97,
+          "conf": 0.279,
           "year": null,
           "stage": "early_commercial",
           "weight": 0.9,
@@ -1084,7 +1327,7 @@
           "id": "bitcoin-pow-blockchain",
           "name": "Bitcoin Proof-of-Work Blockchain",
           "category": "Blockchain",
-          "conf": 0.99,
+          "conf": 0.119,
           "year": null,
           "stage": "mass_production",
           "weight": 0.85,
@@ -1104,7 +1347,7 @@
           "id": "sensor-fusion-av",
           "name": "AV Sensor Fusion (Cam+LiDAR+Radar)",
           "category": "Autonomous",
-          "conf": 0.95,
+          "conf": 0.11,
           "year": null,
           "stage": "mass_production",
           "weight": 0.88,
@@ -1114,7 +1357,7 @@
           "id": "adas-level-2",
           "name": "ADAS Level 2 (Partial Automation)",
           "category": "Autonomous",
-          "conf": 0.99,
+          "conf": 0.123,
           "year": null,
           "stage": "mass_production",
           "weight": 0.85,
@@ -1124,8 +1367,8 @@
           "id": "full-self-driving-level-4",
           "name": "Full Self-Driving Level 4 (Urban)",
           "category": "Autonomous",
-          "conf": 0.65,
-          "year": 2029,
+          "conf": 0.131,
+          "year": 2028,
           "stage": "pilot",
           "weight": 0.65,
           "bottleneck": false
@@ -1162,7 +1405,7 @@
           "id": "deep-brain-stimulation",
           "name": "Deep Brain Stimulation (DBS)",
           "category": "BCI",
-          "conf": 0.99,
+          "conf": 0.115,
           "year": null,
           "stage": "mass_production",
           "weight": 0.9,
@@ -1175,7 +1418,7 @@
       "timing_action": null,
       "regime": null,
       "node_count": 3,
-      "bottleneck_count": 1,
+      "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": [
         {
@@ -1192,18 +1435,18 @@
           "id": "ar-glasses-consumer",
           "name": "AR Smart Glasses (Consumer / Daily)",
           "category": "XR",
-          "conf": 0.88,
+          "conf": 0.113,
           "year": 2025,
           "stage": "pilot",
           "weight": 0.82,
-          "bottleneck": true
+          "bottleneck": false
         },
         {
           "id": "metaverse-open-platform",
           "name": "Open Interoperable Metaverse",
           "category": "XR",
-          "conf": 0.4,
-          "year": 2036,
+          "conf": 0.136,
+          "year": 2032,
           "stage": "basic_research",
           "weight": 0.65,
           "bottleneck": false
@@ -1240,7 +1483,7 @@
           "id": "mrna-vaccine-platform",
           "name": "mRNA Vaccine / Therapeutic Platform",
           "category": "Biotech",
-          "conf": 0.99,
+          "conf": 0.113,
           "year": null,
           "stage": "mass_production",
           "weight": 0.95,
@@ -1260,7 +1503,7 @@
           "id": "ai-hardware-asic",
           "name": "AI Hardware ASIC (TPU/NPU/Trainium)",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.136,
           "year": null,
           "stage": "mass_production",
           "weight": 0.78,
@@ -1270,7 +1513,7 @@
           "id": "silicon-photonics",
           "name": "Silicon Photonics Interconnect",
           "category": "Semiconductors",
-          "conf": 0.888,
+          "conf": 0.166,
           "year": 2028,
           "stage": "prototype",
           "weight": 0.7,
@@ -1290,7 +1533,7 @@
           "id": "ai-coding-agent",
           "name": "AI Software Engineering Agent",
           "category": "AI & Cloud",
-          "conf": 0.88,
+          "conf": 0.256,
           "year": null,
           "stage": "early_commercial",
           "weight": 0.9,
@@ -1300,7 +1543,7 @@
           "id": "llm-gpt4-class",
           "name": "LLM GPT-4 Class (~1T params)",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.149,
           "year": null,
           "stage": "mass_production",
           "weight": 0.85,
@@ -1310,7 +1553,7 @@
           "id": "cloud-hyperscaler-infra",
           "name": "Cloud Hyperscaler Infrastructure",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.149,
           "year": null,
           "stage": "mass_production",
           "weight": 0.8,
@@ -1320,8 +1563,8 @@
           "id": "ai-agent-autonomous",
           "name": "Autonomous AI Agent",
           "category": "AI & Cloud",
-          "conf": 0.85,
-          "year": 2026,
+          "conf": 0.138,
+          "year": 2025,
           "stage": "early_commercial",
           "weight": 0.75,
           "bottleneck": true
@@ -1330,8 +1573,8 @@
           "id": "quantum-error-correction",
           "name": "Quantum Error Correction (Surface Code)",
           "category": "Quantum",
-          "conf": 0.8,
-          "year": 2028,
+          "conf": 0.153,
+          "year": 2026,
           "stage": "prototype",
           "weight": 0.55,
           "bottleneck": true
@@ -1350,7 +1593,7 @@
           "id": "bitcoin-pow-blockchain",
           "name": "Bitcoin Proof-of-Work Blockchain",
           "category": "Blockchain",
-          "conf": 0.99,
+          "conf": 0.119,
           "year": null,
           "stage": "mass_production",
           "weight": 0.95,
@@ -1380,7 +1623,7 @@
           "id": "gpu-compute-cluster",
           "name": "GPU Compute Cluster",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.147,
           "year": null,
           "stage": "mass_production",
           "weight": 0.7,
@@ -1411,18 +1654,18 @@
       "timing_action": null,
       "regime": null,
       "node_count": 1,
-      "bottleneck_count": 1,
+      "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "zero-trust-architecture",
           "name": "Zero Trust Security Architecture",
           "category": "Cybersecurity",
-          "conf": 1.0,
-          "year": 2023,
+          "conf": 0.9,
+          "year": 2019,
           "stage": "early_commercial",
           "weight": 0.85,
-          "bottleneck": true
+          "bottleneck": false
         }
       ]
     },
@@ -1449,14 +1692,14 @@
       "timing_action": null,
       "regime": null,
       "node_count": 7,
-      "bottleneck_count": 3,
+      "bottleneck_count": 2,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "gpu-compute-cluster",
           "name": "GPU Compute Cluster",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.147,
           "year": null,
           "stage": "mass_production",
           "weight": 0.9,
@@ -1466,7 +1709,7 @@
           "id": "llm-gpt4-class",
           "name": "LLM GPT-4 Class (~1T params)",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.149,
           "year": null,
           "stage": "mass_production",
           "weight": 0.75,
@@ -1476,7 +1719,7 @@
           "id": "ai-hardware-asic",
           "name": "AI Hardware ASIC (TPU/NPU/Trainium)",
           "category": "AI & Cloud",
-          "conf": 0.99,
+          "conf": 0.136,
           "year": null,
           "stage": "mass_production",
           "weight": 0.7,
@@ -1486,7 +1729,7 @@
           "id": "robotics-foundation-model",
           "name": "Robotics Foundation Model",
           "category": "AI & Cloud",
-          "conf": 0.75,
+          "conf": 0.149,
           "year": 2026,
           "stage": "prototype",
           "weight": 0.6,
@@ -1496,17 +1739,17 @@
           "id": "humanoid-robot-factory",
           "name": "Humanoid Robot (Factory Deployment)",
           "category": "Robotics",
-          "conf": 0.82,
-          "year": 2025,
+          "conf": 0.178,
+          "year": 2026,
           "stage": "pilot",
           "weight": 0.55,
-          "bottleneck": true
+          "bottleneck": false
         },
         {
           "id": "autonomous-trucking-highway",
           "name": "Autonomous Trucking (Highway ODD)",
           "category": "Autonomous",
-          "conf": 0.88,
+          "conf": 0.07,
           "year": 2025,
           "stage": "pilot",
           "weight": 0.5,
@@ -1573,28 +1816,28 @@
       "timing_action": null,
       "regime": null,
       "node_count": 2,
-      "bottleneck_count": 2,
+      "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "xdr-platform",
           "name": "XDR (Extended Detection & Response)",
           "category": "Cybersecurity",
-          "conf": 0.88,
-          "year": 2025,
+          "conf": 0.11,
+          "year": 2024,
           "stage": "early_commercial",
           "weight": 0.88,
-          "bottleneck": true
+          "bottleneck": false
         },
         {
           "id": "zero-trust-architecture",
           "name": "Zero Trust Security Architecture",
           "category": "Cybersecurity",
-          "conf": 1.0,
-          "year": 2023,
+          "conf": 0.9,
+          "year": 2019,
           "stage": "early_commercial",
           "weight": 0.82,
-          "bottleneck": true
+          "bottleneck": false
         }
       ]
     },
@@ -1611,10 +1854,41 @@
       "conviction_score": null,
       "timing_action": null,
       "regime": null,
-      "node_count": 0,
-      "bottleneck_count": 0,
+      "node_count": 3,
+      "bottleneck_count": 1,
       "avg_node_confidence": null,
-      "top_nodes": []
+      "top_nodes": [
+        {
+          "id": "ai-coding-agent",
+          "name": "AI Software Engineering Agent",
+          "category": "AI & Cloud",
+          "conf": 0.256,
+          "year": null,
+          "stage": "early_commercial",
+          "weight": 0.7,
+          "bottleneck": false
+        },
+        {
+          "id": "ai-agent-autonomous",
+          "name": "Autonomous AI Agent",
+          "category": "AI & Cloud",
+          "conf": 0.138,
+          "year": 2025,
+          "stage": "early_commercial",
+          "weight": 0.7,
+          "bottleneck": true
+        },
+        {
+          "id": "ai-threat-detection",
+          "name": "AI-Driven Threat Detection",
+          "category": "Cybersecurity",
+          "conf": 0.118,
+          "year": 2026,
+          "stage": "early_commercial",
+          "weight": 0.6,
+          "bottleneck": false
+        }
+      ]
     },
     "PLUG": {
       "conviction_score": null,
@@ -1682,8 +1956,8 @@
           "id": "metaverse-open-platform",
           "name": "Open Interoperable Metaverse",
           "category": "XR",
-          "conf": 0.4,
-          "year": 2036,
+          "conf": 0.136,
+          "year": 2032,
           "stage": "basic_research",
           "weight": 0.7,
           "bottleneck": false
@@ -1711,7 +1985,7 @@
           "id": "superconducting-qubit",
           "name": "Superconducting Qubit",
           "category": "Quantum",
-          "conf": 0.99,
+          "conf": 0.182,
           "year": null,
           "stage": "early_commercial",
           "weight": 0.9,
@@ -1731,7 +2005,7 @@
           "id": "small-sat-rideshare",
           "name": "Small Satellite Rideshare Launch",
           "category": "Space Tech",
-          "conf": 0.99,
+          "conf": 0.139,
           "year": null,
           "stage": "mass_production",
           "weight": 0.88,
@@ -1741,8 +2015,8 @@
           "id": "rocket-full-reusability",
           "name": "Full Rocket Reusability (Starship)",
           "category": "Space Tech",
-          "conf": 0.82,
-          "year": 2026,
+          "conf": 0.169,
+          "year": 2025,
           "stage": "pilot",
           "weight": 0.6,
           "bottleneck": true
@@ -1761,7 +2035,7 @@
           "id": "industrial-robot-arm",
           "name": "Industrial Robot Arm",
           "category": "Robotics",
-          "conf": 0.99,
+          "conf": 0.161,
           "year": null,
           "stage": "mass_production",
           "weight": 0.7,
@@ -1774,18 +2048,18 @@
       "timing_action": null,
       "regime": null,
       "node_count": 1,
-      "bottleneck_count": 1,
+      "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "ai-drug-discovery-platform",
           "name": "AI Drug Discovery Platform",
           "category": "Biotech",
-          "conf": 0.92,
+          "conf": 0.109,
           "year": 2025,
           "stage": "pilot",
           "weight": 0.88,
-          "bottleneck": true
+          "bottleneck": false
         }
       ]
     },
@@ -1801,11 +2075,41 @@
           "id": "edr-endpoint-detection",
           "name": "EDR (Endpoint Detection & Response)",
           "category": "Cybersecurity",
-          "conf": 0.99,
+          "conf": 0.153,
           "year": null,
           "stage": "mass_production",
           "weight": 0.88,
           "bottleneck": false
+        }
+      ]
+    },
+    "SAMSUNG.KR": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 2,
+      "bottleneck_count": 1,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "gate-all-around-fet",
+          "name": "gate-all-around-fet",
+          "category": "",
+          "conf": 0.0,
+          "year": null,
+          "stage": "",
+          "weight": 0.9,
+          "bottleneck": false
+        },
+        {
+          "id": "hbm4-memory",
+          "name": "HBM4 Memory",
+          "category": "Semiconductors",
+          "conf": 0.12,
+          "year": 2026,
+          "stage": "pilot",
+          "weight": 0.8,
+          "bottleneck": true
         }
       ]
     },
@@ -1857,8 +2161,8 @@
           "id": "small-modular-reactor",
           "name": "Small Modular Reactor (<300MWe)",
           "category": "Energy Tech",
-          "conf": 0.72,
-          "year": 2030,
+          "conf": 0.197,
+          "year": 2029,
           "stage": "pilot",
           "weight": 0.92,
           "bottleneck": false
@@ -1882,6 +2186,46 @@
       "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": []
+    },
+    "SPAX.PVT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 3,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "mars-crewed-mission",
+          "name": "Crewed Mars Mission",
+          "category": "Space Tech",
+          "conf": 0.137,
+          "year": 2030,
+          "stage": "proof_of_concept",
+          "weight": 1.0,
+          "bottleneck": false
+        },
+        {
+          "id": "rocket-first-stage-reuse",
+          "name": "Rocket First-Stage Reusability",
+          "category": "Space Tech",
+          "conf": 0.131,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.95,
+          "bottleneck": false
+        },
+        {
+          "id": "leo-satellite-internet",
+          "name": "LEO Satellite Internet Constellation",
+          "category": "Space Tech",
+          "conf": 0.114,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 0.9,
+          "bottleneck": false
+        }
+      ]
     },
     "SPIR": {
       "conviction_score": null,
@@ -1922,7 +2266,7 @@
           "id": "warehouse-automation-full",
           "name": "Full Warehouse Automation",
           "category": "Robotics",
-          "conf": 0.78,
+          "conf": 0.12,
           "year": 2027,
           "stage": "early_commercial",
           "weight": 0.88,
@@ -1951,11 +2295,31 @@
           "id": "collaborative-robot-cobot",
           "name": "Collaborative Robot (Cobot)",
           "category": "Robotics",
-          "conf": 0.99,
+          "conf": 0.124,
           "year": null,
           "stage": "mass_production",
           "weight": 0.8,
           "bottleneck": false
+        }
+      ]
+    },
+    "TM": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 1,
+      "bottleneck_count": 1,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "solid-state-battery",
+          "name": "Solid-State Battery",
+          "category": "Energy Tech",
+          "conf": 0.13,
+          "year": 2029,
+          "stage": "pilot",
+          "weight": 0.7,
+          "bottleneck": true
         }
       ]
     },
@@ -1964,14 +2328,14 @@
       "timing_action": null,
       "regime": null,
       "node_count": 6,
-      "bottleneck_count": 2,
+      "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "adas-level-2",
           "name": "ADAS Level 2 (Partial Automation)",
           "category": "Autonomous",
-          "conf": 0.99,
+          "conf": 0.123,
           "year": null,
           "stage": "mass_production",
           "weight": 0.88,
@@ -1981,27 +2345,27 @@
           "id": "grid-scale-storage-gwh",
           "name": "Grid-Scale Battery Storage (GWh)",
           "category": "Energy Tech",
-          "conf": 0.85,
-          "year": 2025,
+          "conf": 0.173,
+          "year": 2018,
           "stage": "early_commercial",
           "weight": 0.85,
-          "bottleneck": true
+          "bottleneck": false
         },
         {
           "id": "humanoid-robot-factory",
           "name": "Humanoid Robot (Factory Deployment)",
           "category": "Robotics",
-          "conf": 0.82,
-          "year": 2025,
+          "conf": 0.178,
+          "year": 2026,
           "stage": "pilot",
           "weight": 0.82,
-          "bottleneck": true
+          "bottleneck": false
         },
         {
           "id": "lithium-ion-battery",
           "name": "Lithium-Ion Battery",
           "category": "Energy Tech",
-          "conf": 0.99,
+          "conf": 0.175,
           "year": null,
           "stage": "mass_production",
           "weight": 0.8,
@@ -2011,7 +2375,7 @@
           "id": "silicon-carbide-power",
           "name": "SiC Power Semiconductors",
           "category": "Semiconductors",
-          "conf": 0.97,
+          "conf": 0.158,
           "year": null,
           "stage": "mass_production",
           "weight": 0.7,
@@ -2021,8 +2385,8 @@
           "id": "full-self-driving-level-4",
           "name": "Full Self-Driving Level 4 (Urban)",
           "category": "Autonomous",
-          "conf": 0.65,
-          "year": 2029,
+          "conf": 0.131,
+          "year": 2028,
           "stage": "pilot",
           "weight": 0.65,
           "bottleneck": false
@@ -2034,14 +2398,14 @@
       "timing_action": null,
       "regime": null,
       "node_count": 4,
-      "bottleneck_count": 1,
+      "bottleneck_count": 0,
       "avg_node_confidence": null,
       "top_nodes": [
         {
           "id": "2nm-process-node",
           "name": "2nm Process Node (TSMC N2)",
           "category": "Semiconductors",
-          "conf": 0.95,
+          "conf": 0.178,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.99,
@@ -2051,7 +2415,7 @@
           "id": "cowos-advanced-packaging",
           "name": "CoWoS Advanced Packaging",
           "category": "Semiconductors",
-          "conf": 0.99,
+          "conf": 0.213,
           "year": null,
           "stage": "mass_production",
           "weight": 0.99,
@@ -2061,7 +2425,7 @@
           "id": "gaafet-transistor",
           "name": "Gate-All-Around FET (MBCFET/NSFET)",
           "category": "Semiconductors",
-          "conf": 0.95,
+          "conf": 0.133,
           "year": null,
           "stage": "early_commercial",
           "weight": 0.95,
@@ -2071,11 +2435,11 @@
           "id": "1nm-process-node",
           "name": "1nm / A14 Process Node",
           "category": "Semiconductors",
-          "conf": 0.85,
-          "year": 2026,
+          "conf": 0.16,
+          "year": 2027,
           "stage": "proof_of_concept",
           "weight": 0.85,
-          "bottleneck": true
+          "bottleneck": false
         }
       ]
     },
@@ -2084,7 +2448,7 @@
       "timing_action": null,
       "regime": null,
       "node_count": 3,
-      "bottleneck_count": 1,
+      "bottleneck_count": 2,
       "avg_node_confidence": null,
       "top_nodes": [
         {
@@ -2095,13 +2459,13 @@
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.92,
-          "bottleneck": false
+          "bottleneck": true
         },
         {
           "id": "programmatic-display",
           "name": "Programmatic Display Advertising",
           "category": "Marketing Tech",
-          "conf": 0.99,
+          "conf": 0.131,
           "year": null,
           "stage": "mass_production",
           "weight": 0.88,
@@ -2111,7 +2475,7 @@
           "id": "cookieless-tracking",
           "name": "Cookieless Tracking / Privacy Sandbox",
           "category": "Marketing Tech",
-          "conf": 0.82,
+          "conf": 0.131,
           "year": 2026,
           "stage": "pilot",
           "weight": 0.8,
@@ -2140,8 +2504,8 @@
           "id": "real-time-ai-3d-rendering",
           "name": "Real-Time AI 3D Rendering",
           "category": "XR",
-          "conf": 0.75,
-          "year": 2028,
+          "conf": 0.217,
+          "year": 2027,
           "stage": "prototype",
           "weight": 0.82,
           "bottleneck": false
@@ -2184,6 +2548,36 @@
       "avg_node_confidence": null,
       "top_nodes": []
     },
+    "ZEISS.PVT": {
+      "conviction_score": null,
+      "timing_action": null,
+      "regime": null,
+      "node_count": 2,
+      "bottleneck_count": 1,
+      "avg_node_confidence": null,
+      "top_nodes": [
+        {
+          "id": "euv-lithography",
+          "name": "EUV Lithography (13.5nm)",
+          "category": "Semiconductors",
+          "conf": 0.302,
+          "year": null,
+          "stage": "mass_production",
+          "weight": 1.0,
+          "bottleneck": false
+        },
+        {
+          "id": "high-na-euv",
+          "name": "High-NA EUV Lithography (ASML EXE)",
+          "category": "Semiconductors",
+          "conf": 0.186,
+          "year": 2025,
+          "stage": "pilot",
+          "weight": 1.0,
+          "bottleneck": true
+        }
+      ]
+    },
     "ZS": {
       "conviction_score": null,
       "timing_action": null,
@@ -2196,7 +2590,7 @@
           "id": "sase-platform",
           "name": "SASE (Secure Access Service Edge)",
           "category": "Cybersecurity",
-          "conf": 0.9,
+          "conf": 0.124,
           "year": 2025,
           "stage": "early_commercial",
           "weight": 0.92,
@@ -2210,109 +2604,55 @@
       "node_id": "silicon-photonics",
       "node_name": "Silicon Photonics Interconnect",
       "category": "Semiconductors",
-      "downstream_node_count": 24,
-      "confidence": 0.888,
+      "downstream_node_count": 35,
+      "confidence": 0.1657,
       "est_year_mode": 2028,
-      "bottleneck_score": 0.4531
+      "bottleneck_score": 0.408
     },
     {
-      "node_id": "ai-materials-discovery",
-      "node_name": "AI Materials Discovery",
+      "node_id": "6g-xmimo-7ghz",
+      "node_name": "6G Extreme-MIMO (X-MIMO) 7 GHz Network",
+      "category": "Connectivity",
+      "downstream_node_count": 14,
+      "confidence": 0.325,
+      "est_year_mode": 2028,
+      "bottleneck_score": 0.1855
+    },
+    {
+      "node_id": "ai-formal-reasoning",
+      "node_name": "AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)",
       "category": "AI & Cloud",
-      "downstream_node_count": 13,
-      "confidence": 0.75,
-      "est_year_mode": 2028,
-      "bottleneck_score": 0.2275
-    },
-    {
-      "node_id": "solid-state-battery",
-      "node_name": "Solid-State Battery",
-      "category": "Energy Tech",
-      "downstream_node_count": 11,
-      "confidence": 0.65,
-      "est_year_mode": 2029,
-      "bottleneck_score": 0.1815
-    },
-    {
-      "node_id": "grid-scale-storage-gwh",
-      "node_name": "Grid-Scale Battery Storage (GWh)",
-      "category": "Energy Tech",
-      "downstream_node_count": 8,
-      "confidence": 0.85,
-      "est_year_mode": 2025,
-      "bottleneck_score": 0.148
-    },
-    {
-      "node_id": "quantum-error-correction",
-      "node_name": "Quantum Error Correction (Surface Code)",
-      "category": "Quantum",
-      "downstream_node_count": 8,
-      "confidence": 0.8,
-      "est_year_mode": 2028,
-      "bottleneck_score": 0.144
+      "downstream_node_count": 6,
+      "confidence": 0.9,
+      "est_year_mode": 2026,
+      "bottleneck_score": 0.114
     },
     {
       "node_id": "topological-qubit",
       "node_name": "Topological Qubit (Majorana Fermion)",
       "category": "Quantum",
       "downstream_node_count": 9,
-      "confidence": 0.55,
+      "confidence": 0.1322,
       "est_year_mode": 2030,
-      "bottleneck_score": 0.1395
+      "bottleneck_score": 0.1019
     },
     {
-      "node_id": "fault-tolerant-quantum-1000q",
-      "node_name": "Fault-Tolerant QC (1000 Logical Qubits)",
+      "node_id": "quantum-error-correction",
+      "node_name": "Quantum Error Correction (Surface Code)",
       "category": "Quantum",
-      "downstream_node_count": 6,
-      "confidence": 0.65,
-      "est_year_mode": 2032,
-      "bottleneck_score": 0.099
-    },
-    {
-      "node_id": "foundation-model-biology",
-      "node_name": "Biology Foundation Model",
-      "category": "AI & Cloud",
-      "downstream_node_count": 5,
-      "confidence": 0.82,
-      "est_year_mode": 2025,
-      "bottleneck_score": 0.091
-    },
-    {
-      "node_id": "rocket-full-reusability",
-      "node_name": "Full Rocket Reusability (Starship)",
-      "category": "Space Tech",
-      "downstream_node_count": 5,
-      "confidence": 0.82,
+      "downstream_node_count": 8,
+      "confidence": 0.1527,
       "est_year_mode": 2026,
-      "bottleneck_score": 0.091
+      "bottleneck_score": 0.0922
     },
     {
-      "node_id": "in-memory-computing",
-      "node_name": "Compute-in-Memory (CIM)",
-      "category": "Semiconductors",
-      "downstream_node_count": 5,
-      "confidence": 0.6,
-      "est_year_mode": 2029,
-      "bottleneck_score": 0.08
-    },
-    {
-      "node_id": "ai-inference-edge",
-      "node_name": "AI Inference at Edge",
+      "node_id": "ai-materials-discovery",
+      "node_name": "AI Materials Discovery",
       "category": "AI & Cloud",
-      "downstream_node_count": 4,
-      "confidence": 0.9,
-      "est_year_mode": 2024,
-      "bottleneck_score": 0.076
-    },
-    {
-      "node_id": "heavy-lift-100t-leo",
-      "node_name": "Heavy Lift Rocket (100t to LEO)",
-      "category": "Space Tech",
-      "downstream_node_count": 4,
-      "confidence": 0.88,
-      "est_year_mode": 2026,
-      "bottleneck_score": 0.0752
+      "downstream_node_count": 7,
+      "confidence": 0.1625,
+      "est_year_mode": 2028,
+      "bottleneck_score": 0.0814
     },
     {
       "node_id": "high-bandwidth-wireless-bci",
@@ -2320,26 +2660,80 @@
       "category": "BCI",
       "downstream_node_count": 4,
       "confidence": 0.82,
-      "est_year_mode": 2025,
+      "est_year_mode": 2024,
       "bottleneck_score": 0.0728
     },
     {
-      "node_id": "sim-to-real-transfer",
-      "node_name": "Sim-to-Real Transfer",
-      "category": "Robotics",
-      "downstream_node_count": 4,
-      "confidence": 0.8,
-      "est_year_mode": 2026,
-      "bottleneck_score": 0.072
+      "node_id": "ai-agent-memory",
+      "node_name": "AI Agent Persistent Memory",
+      "category": "AI & Cloud",
+      "downstream_node_count": 6,
+      "confidence": 0.1794,
+      "est_year_mode": null,
+      "bottleneck_score": 0.0708
     },
     {
-      "node_id": "ai-neural-decoder",
-      "node_name": "AI Neural Signal Decoder",
-      "category": "BCI",
-      "downstream_node_count": 4,
-      "confidence": 0.8,
-      "est_year_mode": 2027,
-      "bottleneck_score": 0.072
+      "node_id": "fault-tolerant-quantum-1000q",
+      "node_name": "Fault-Tolerant QC (1000 Logical Qubits)",
+      "category": "Quantum",
+      "downstream_node_count": 6,
+      "confidence": 0.1545,
+      "est_year_mode": 2030,
+      "bottleneck_score": 0.0693
+    },
+    {
+      "node_id": "neuromorphic-chip",
+      "node_name": "Neuromorphic Computing Chip",
+      "category": "Semiconductors",
+      "downstream_node_count": 5,
+      "confidence": 0.1761,
+      "est_year_mode": 2029,
+      "bottleneck_score": 0.0588
+    },
+    {
+      "node_id": "rocket-full-reusability",
+      "node_name": "Full Rocket Reusability (Starship)",
+      "category": "Space Tech",
+      "downstream_node_count": 5,
+      "confidence": 0.1686,
+      "est_year_mode": 2025,
+      "bottleneck_score": 0.0584
+    },
+    {
+      "node_id": "foundation-model-biology",
+      "node_name": "Biology Foundation Model",
+      "category": "AI & Cloud",
+      "downstream_node_count": 5,
+      "confidence": 0.1535,
+      "est_year_mode": 2025,
+      "bottleneck_score": 0.0577
+    },
+    {
+      "node_id": "ai-agent-autonomous",
+      "node_name": "Autonomous AI Agent",
+      "category": "AI & Cloud",
+      "downstream_node_count": 5,
+      "confidence": 0.1381,
+      "est_year_mode": 2025,
+      "bottleneck_score": 0.0569
+    },
+    {
+      "node_id": "quantum-sensor-gravity",
+      "node_name": "Quantum Gravity Sensor",
+      "category": "Quantum",
+      "downstream_node_count": 5,
+      "confidence": 0.1324,
+      "est_year_mode": 2029,
+      "bottleneck_score": 0.0566
+    },
+    {
+      "node_id": "solid-state-battery",
+      "node_name": "Solid-State Battery",
+      "category": "Energy Tech",
+      "downstream_node_count": 5,
+      "confidence": 0.1304,
+      "est_year_mode": 2029,
+      "bottleneck_score": 0.0565
     }
   ]
 }

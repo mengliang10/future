@@ -5,7 +5,7 @@ symbol: NVDA
 exchange: NASDAQ
 categories: [Semiconductors, AI, Hardware]
 node_count: 7
-bottleneck_count: 3
+bottleneck_count: 2
 ---
 
 ## Investment Thesis

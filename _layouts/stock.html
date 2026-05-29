@@ -21,7 +21,35 @@ layout: default
       {{ content }}
     </div>
 
+    <!-- Automated Research Roadmap -->
+    {% assign stock_signals = site.data.research_signals.stocks[page.symbol] %}
+    {% if stock_signals and stock_signals.node_count > 0 %}
+    <div style="margin-top: 3rem;">
+      <h3 style="font-size:0.9rem;text-transform:uppercase;letter-spacing:0.05em;color:var(--text-3);margin-bottom:1.5rem;">Automated Tech Roadmap</h3>
+      <div class="roadmap-stock">
+        {% for node in stock_signals.top_nodes %}
+        <div class="roadmap-stock-item">
+          <div class="roadmap-stock-item-header">
+            <span class="roadmap-stock-item-name">{{ node.name }}</span>
+            <span class="conf-badge conf-{{ node.stage }}">{{ node.stage | replace: '_', ' ' | capitalize }}</span>
+            <span class="roadmap-stock-item-year">{% if node.year %}{{ node.year }}{% else %}Ongoing{% endif %}</span>
+          </div>
+          <div class="roadmap-stock-item-impact">
+            <span style="color:var(--accent);">Exposure: {{ node.weight | times: 100 | round: 0 }}%</span> &middot; Confidence: {{ node.conf | times: 100 | round: 0 }}%
+          </div>
+          {% if node.bottleneck %}
+          <div style="margin-top: 0.5rem; font-size: 0.75rem; color: #ffcc00; font-weight: bold;">
+            ⚠️ STRATEGIC CHOKEPOINT
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
     <!-- TradingView Widget BEGIN (chart at bottom — easier navigation) -->
+    {% unless page.exchange == "PRIVATE" %}
     <div style="margin-top: 2.5rem;">
       <h3 style="font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;color:var(--text-3);margin-bottom:0.75rem;">Price Chart</h3>
       <div class="tradingview-widget-container" style="height: 500px; border: 1px solid var(--border); border-radius: var(--radius-lg); overflow: hidden;">
@@ -47,12 +75,14 @@ layout: default
         </script>
       </div>
     </div>
+    {% endunless %}
     <!-- TradingView Widget END -->
   </div>
 
   <!-- Right Column: Sidebar Info -->
   <div class="stock-side-col">
     
+    {% unless page.exchange == "PRIVATE" %}
     <!-- Technical Analysis Widget -->
     <div class="stock-card">
       <h3>Technical Summary</h3>
@@ -90,6 +120,12 @@ layout: default
         </script>
       </div>
     </div>
+    {% else %}
+    <div class="stock-card">
+      <h3>Private Entity</h3>
+      <p style="font-size: 0.9rem; color: var(--text-2); line-height: 1.5;">This entity is privately held or not traded on major public exchanges. Market data and real-time charts are unavailable.</p>
+    </div>
+    {% endunless %}
 
   </div>
 </div>
