@@ -48,11 +48,28 @@
       </ul>
     </li>
 
+    <!-- Technology Roadmap -->
+    <li class="nav-item nav-has-children {% if page.url contains '/roadmap' %}active open{% endif %}">
+      <button class="nav-link nav-toggle" aria-expanded="false">
+        <i data-feather="map"></i>
+        <span>Roadmap by Year</span>
+        <i data-feather="chevron-down" class="chevron"></i>
+      </button>
+      <ul class="nav-sub">
+        <li><a href="{{ '/roadmap/now-2028/' | relative_url }}" class="nav-sub-link {% if page.url contains 'now-2028' %}active{% endif %}">Now — 2028</a></li>
+        <li><a href="{{ '/roadmap/2028-2030/' | relative_url }}" class="nav-sub-link {% if page.url contains '2028-2030' %}active{% endif %}">2028 — 2030</a></li>
+        <li><a href="{{ '/roadmap/2030-2040/' | relative_url }}" class="nav-sub-link {% if page.url contains '2030-2040' %}active{% endif %}">2030 — 2040</a></li>
+        <li><a href="{{ '/roadmap/2040-2050/' | relative_url }}" class="nav-sub-link {% if page.url contains '2040-2050' %}active{% endif %}">2040 — 2050</a></li>
+        <li><a href="{{ '/roadmap/2050-plus/' | relative_url }}" class="nav-sub-link {% if page.url contains '2050-plus' %}active{% endif %}">2050 and Beyond</a></li>
+        <li><a href="{{ '/roadmap/far-future/' | relative_url }}" class="nav-sub-link {% if page.url contains 'far-future' %}active{% endif %}">The Very Far Future</a></li>
+      </ul>
+    </li>
+
     <!-- Technology Intelligence -->
     <li class="nav-item {% if page.url contains '/tech' %}active{% endif %}">
       <a href="{{ '/tech/' | relative_url }}" class="nav-link">
         <i data-feather="layers"></i>
-        <span>Tech Intelligence</span>
+        <span>Roadmap by Tech</span>
       </a>
     </li>
 
@@ -64,21 +81,12 @@
       </a>
     </li>
 
-    <!-- Technology Roadmap -->
-    <li class="nav-item nav-has-children {% if page.url contains '/roadmap' %}active open{% endif %}">
-      <button class="nav-link nav-toggle" aria-expanded="false">
-        <i data-feather="map"></i>
-        <span>Tech Roadmap</span>
-        <i data-feather="chevron-down" class="chevron"></i>
-      </button>
-      <ul class="nav-sub">
-        <li><a href="{{ '/roadmap/now-2028/' | relative_url }}" class="nav-sub-link {% if page.url contains 'now-2028' %}active{% endif %}">Now — 2028</a></li>
-        <li><a href="{{ '/roadmap/2028-2030/' | relative_url }}" class="nav-sub-link {% if page.url contains '2028-2030' %}active{% endif %}">2028 — 2030</a></li>
-        <li><a href="{{ '/roadmap/2030-2040/' | relative_url }}" class="nav-sub-link {% if page.url contains '2030-2040' %}active{% endif %}">2030 — 2040</a></li>
-        <li><a href="{{ '/roadmap/2040-2050/' | relative_url }}" class="nav-sub-link {% if page.url contains '2040-2050' %}active{% endif %}">2040 — 2050</a></li>
-        <li><a href="{{ '/roadmap/2050-plus/' | relative_url }}" class="nav-sub-link {% if page.url contains '2050-plus' %}active{% endif %}">2050 and Beyond</a></li>
-        <li><a href="{{ '/roadmap/far-future/' | relative_url }}" class="nav-sub-link {% if page.url contains 'far-future' %}active{% endif %}">The Very Far Future</a></li>
-      </ul>
+    <!-- Company Intelligence Index -->
+    <li class="nav-item {% if page.url contains '/company-index' %}active{% endif %}">
+      <a href="{{ '/company-index/' | relative_url }}" class="nav-link">
+        <i data-feather="grid"></i>
+        <span>Company Index</span>
+      </a>
     </li>
 
     <!-- Blog -->
