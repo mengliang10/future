@@ -7,7 +7,7 @@ categories: [Energy Tech]
 ---
 
 ## Investment Thesis
-NextEra is the world's largest producer of wind and solar power, and the parent of Florida Power & Light (regulated utility). The combination of regulated utility cash flows and a massive renewable development pipeline (NextEra Energy Resources) creates a uniquely durable growth profile. AI data centre load growth is a structural multi-year tailwind: hyperscalers are signing 15-20 year PPAs directly with renewable developers, and NextEra is the counterparty on multiple large-scale deals. Key risk: interest rate sensitivity — long-duration utility with significant debt load. Rising rates compress the utility multiple even when the fundamental business is strong.
+NextEra is the world's largest producer of wind and solar power, and the parent of Florida Power & Light (regulated utility). The combination of regulated utility cash flows and a massive renewable development pipeline (NextEra Energy Resources) creates a uniquely durable growth profile. AI data centre load growth is a structural multi-year tailwind: hyperscalers are signing 15-20 year PPAs directly with renewable developers, and NextEra is the counterparty on multiple large-scale deals. Key risk: interest rate sensitivity: long-duration utility with significant debt load. Rising rates compress the utility multiple even when the fundamental business is strong.
 
 ## Future Tech Roadmap
 

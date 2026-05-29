@@ -1,4 +1,4 @@
-/* Future Trends — main.js */
+/* Future Trends - main.js */
 
 document.addEventListener('DOMContentLoaded', () => {
   feather.replace({ 'stroke-width': 2 });
@@ -179,14 +179,14 @@ function initStocksTable() {
 
     tableBody.innerHTML = stocks.map(s => {
       const up  = s.change_pct >= 0;
-      const pct = s.change_pct !== null ? (up ? '+' : '') + s.change_pct.toFixed(2) + '%' : '—';
-      const chg = s.change !== null ? (up ? '+' : '') + '$' + Math.abs(s.change).toFixed(2) : '—';
-      const mkt = s.market_cap ? formatMarketCap(s.market_cap) : '—';
+      const pct = s.change_pct !== null ? (up ? '+' : '') + s.change_pct.toFixed(2) + '%' : '-';
+      const chg = s.change !== null ? (up ? '+' : '') + '$' + Math.abs(s.change).toFixed(2) : '-';
+      const mkt = s.market_cap ? formatMarketCap(s.market_cap) : '-';
       const url = `${base}/stocks/${s.ticker.toLowerCase()}/`;
       
       // Special labels for Signal
-      let priceStr = s.price ? '$' + s.price.toFixed(2) : '—';
-      let sig = s.signal || '—';
+      let priceStr = s.price ? '$' + s.price.toFixed(2) : '-';
+      let sig = s.signal || '-';
       if (sig === 'PRIVATE' || sig === 'KRX' || sig === 'HKEX' || sig === 'OTC') {
         priceStr = `<span class="tag tag-pvt">${sig}</span>`;
       }
@@ -195,11 +195,11 @@ function initStocksTable() {
         <tr>
           <td class="td-ticker"><a href="${url}" class="ticker-link">${s.ticker}</a></td>
           <td class="td-name">${s.name}</td>
-          <td class="td-sector"><span class="tag">${s.sector || '—'}</span></td>
+          <td class="td-sector"><span class="tag">${s.sector || '-'}</span></td>
           <td class="td-price" style="text-align:right">${priceStr}</td>
           <td class="td-change ${up ? 'up' : 'down'}" style="text-align:right">${chg}</td>
           <td class="td-change ${up ? 'up' : 'down'}" style="text-align:right">${pct}</td>
-          <td class="td-rsi" style="text-align:right">${s.rsi ? s.rsi.toFixed(1) : '—'}</td>
+          <td class="td-rsi" style="text-align:right">${s.rsi ? s.rsi.toFixed(1) : '-'}</td>
           <td class="td-mktcap" style="text-align:right">${mkt}</td>
         </tr>`;
     }).join('');
@@ -219,7 +219,7 @@ function formatMarketCap(val) {
 /* ── Engine metric renderers ── */
 
 function renderTimingBadge(quality, action) {
-  if (quality === null || quality === undefined) return '<span class="badge badge-na">—</span>';
+  if (quality === null || quality === undefined) return '<span class="badge badge-na">-</span>';
   let cls = 'badge ';
   if (quality >= 70) cls += 'badge-green';
   else if (quality >= 40) cls += 'badge-yellow';
@@ -228,7 +228,7 @@ function renderTimingBadge(quality, action) {
 }
 
 function renderRegimeBadge(regime) {
-  if (!regime || regime === 'N/A') return '<span class="badge badge-na">—</span>';
+  if (!regime || regime === 'N/A') return '<span class="badge badge-na">-</span>';
   const map = {
     'TRENDING_UP':   ['badge-green',  '↑ TREND'],
     'TRENDING_DOWN': ['badge-red',    '↓ TREND'],
@@ -241,7 +241,7 @@ function renderRegimeBadge(regime) {
 }
 
 function renderAlphaBadge(signal, pct) {
-  if (!signal || signal === 'N/A') return '<span class="badge badge-na">—</span>';
+  if (!signal || signal === 'N/A') return '<span class="badge badge-na">-</span>';
   let cls = 'badge ';
   if (signal === 'BULLISH') cls += 'badge-green';
   else if (signal === 'BEARISH') cls += 'badge-red';
@@ -251,7 +251,7 @@ function renderAlphaBadge(signal, pct) {
 }
 
 function renderFactorBar(score) {
-  if (score === null || score === undefined) return '<span class="badge badge-na">—</span>';
+  if (score === null || score === undefined) return '<span class="badge badge-na">-</span>';
   const pct = Math.round(score);
   let color = 'var(--red)';
   if (pct >= 60) color = 'var(--green)';

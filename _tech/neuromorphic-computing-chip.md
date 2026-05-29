@@ -43,13 +43,13 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2027–2035** | 45% |
 | Commercially Monetizable | **2032** | 46% |
 
-Low timing confidence (45%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (45%): timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Inference at Edge](/future/tech/ai-inference-at-edge/) — *enables*
+- [AI Inference at Edge](/future/tech/ai-inference-at-edge/): *enables*
 
 ## Investment Exposure
 

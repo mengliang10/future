@@ -43,19 +43,19 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 95% |
 | Commercially Monetizable | **Now–2027** | 86% |
 
-High timing confidence (95%) — multiple corroborating sources confirm this timeline.
+High timing confidence (95%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Utah Array Invasive BCI](/future/tech/utah-array-invasive-bci/) ✓ — *requires*
+- [Utah Array Invasive BCI](/future/tech/utah-array-invasive-bci/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [High-Bandwidth Wireless BCI (1024ch)](/future/tech/high-bandwidth-wireless-bci-1024ch/) — *enables*
+- [High-Bandwidth Wireless BCI (1024ch)](/future/tech/high-bandwidth-wireless-bci-1024ch/): *enables*
 
 ## Investment Exposure
 

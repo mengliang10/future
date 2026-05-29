@@ -40,12 +40,12 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
-| [IONQ](/future/stocks/ionq/) | IonQ Inc. | 95% | DIRECT | IonQ Forte — cloud access via AWS/Azure/GCP **← Leader** |
-| [HON](/future/stocks/hon/) | Honeywell International | 75% | DIRECT | Quantinuum H2 — highest gate fidelity published |
+| [IONQ](/future/stocks/ionq/) | IonQ Inc. | 95% | DIRECT | IonQ Forte: cloud access via AWS/Azure/GCP **← Leader** |
+| [HON](/future/stocks/hon/) | Honeywell International | 75% | DIRECT | Quantinuum H2: highest gate fidelity published |
 
 **Current leader:** [IONQ](/future/stocks/ionq/) with **95%** exposure confidence based on our research.
 
@@ -56,13 +56,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now–2027** | 88% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/) — *enables*
+- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/): *enables*
 
 ## Investment Exposure
 

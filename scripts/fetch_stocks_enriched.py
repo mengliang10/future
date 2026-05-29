@@ -1,10 +1,10 @@
 """
-fetch_stocks_enriched.py — Enhanced stock data with engine metrics
+fetch_stocks_enriched.py - Enhanced stock data with engine metrics
 ==================================================================
 Drop-in replacement for fetch_stocks.py. Adds timing quality, regime,
 alpha signals, OB fingerprints, and factor scores to stocks.json.
 
-Self-contained — only needs yfinance + numpy (works in GitHub Actions).
+Self-contained - only needs yfinance + numpy (works in GitHub Actions).
 """
 
 import yfinance as yf

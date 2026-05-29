@@ -40,10 +40,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 
 ## Market Race
 
-**Clear Leader: [TTD](/future/stocks/ttd/)** — 80% exposure confidence  
+**Clear Leader: [TTD](/future/stocks/ttd/)**: 80% exposure confidence  
 **Position:** Direct pure-play  
 
-*Unified ID 2.0 — post-cookie solution*
+*Unified ID 2.0: post-cookie solution*
 
 ## Timeline Intelligence
 
@@ -52,13 +52,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2025–2028** | 78% |
 | Commercially Monetizable | **2028** | 70% |
 
-Moderate timing confidence (78%) — roadmap exists but execution risk remains.
+Moderate timing confidence (78%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Customer Data Platform (CDP)](/future/tech/customer-data-platform-cdp/) ✓ — *accelerates*
+- [Customer Data Platform (CDP)](/future/tech/customer-data-platform-cdp/) ✓: *accelerates*
 
 ## Investment Exposure
 

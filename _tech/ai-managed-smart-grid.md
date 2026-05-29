@@ -43,20 +43,20 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2025–2031** | 70% |
 | Commercially Monetizable | **2026** | 74% |
 
-Moderate timing confidence (70%) — roadmap exists but execution risk remains.
+Moderate timing confidence (70%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Grid-Scale Battery Storage (GWh)](/future/tech/grid-scale-battery-storage-gwh/) — *requires*
+- [Grid-Scale Battery Storage (GWh)](/future/tech/grid-scale-battery-storage-gwh/): *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Solar <$0.01/kWh LCOE](/future/tech/solar-001kwh-lcoe/) — *accelerates*
-- [Autonomous Nuclear Plant Operations](/future/tech/autonomous-nuclear-plant-operations/) — *synergises with*
+- [Solar <$0.01/kWh LCOE](/future/tech/solar-001kwh-lcoe/): *accelerates*
+- [Autonomous Nuclear Plant Operations](/future/tech/autonomous-nuclear-plant-operations/): *synergises with*
 
 ## Investment Exposure
 

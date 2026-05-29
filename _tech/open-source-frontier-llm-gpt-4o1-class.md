@@ -47,14 +47,14 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 95% |
 | Commercially Monetizable | **Now (deployed)** | 92% |
 
-High timing confidence (95%) — multiple corroborating sources confirm this timeline.
+High timing confidence (95%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/) — *enables*
-- [AI Software Engineering Agent](/future/tech/ai-software-engineering-agent/) ✓ — *accelerates*
+- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/): *enables*
+- [AI Software Engineering Agent](/future/tech/ai-software-engineering-agent/) ✓: *accelerates*
 
 ## Investment Exposure
 

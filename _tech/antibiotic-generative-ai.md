@@ -40,7 +40,7 @@ Generative models have successfully designed compounds to kill *Acinetobacter ba
 
 ## Market Race
 
-**Clear Leader: [RXRX](/future/stocks/rxrx/)** — 80% exposure confidence  
+**Clear Leader: [RXRX](/future/stocks/rxrx/)**: 80% exposure confidence  
 **Position:** Direct pure-play  
 
 *Recursion Pharmaceuticals is at the forefront of AI-driven drug discovery.*
@@ -49,7 +49,7 @@ Generative models have successfully designed compounds to kill *Acinetobacter ba
 
 This technology depends on or requires advances in:
 
-- [Biology Foundation Model](/future/tech/biology-foundation-model/) — *requires*
+- [Biology Foundation Model](/future/tech/biology-foundation-model/): *requires*
 
 ## Investment Exposure
 

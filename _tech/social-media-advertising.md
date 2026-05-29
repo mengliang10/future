@@ -43,13 +43,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Ad Creative Generation](/future/tech/ai-ad-creative-generation/) ✓ — *accelerates*
+- [AI Ad Creative Generation](/future/tech/ai-ad-creative-generation/) ✓: *accelerates*
 
 ## Investment Exposure
 

@@ -40,7 +40,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 
 ## Market Race
 
-**Clear Leader: [NVDA](/future/stocks/nvda/)** — 60% exposure confidence  
+**Clear Leader: [NVDA](/future/stocks/nvda/)**: 60% exposure confidence  
 **Position:** Critical enabler / key supplier  
 
 *Isaac Lab, Jetson for robot inference*
@@ -52,20 +52,20 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2031** | 55% |
 | Commercially Monetizable | **2029** | 51% |
 
-Moderate timing confidence (55%) — roadmap exists but execution risk remains.
+Moderate timing confidence (55%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [AI Inference at Edge](/future/tech/ai-inference-at-edge/) — *requires*
+- [AI Inference at Edge](/future/tech/ai-inference-at-edge/): *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [General-Purpose Humanoid Robot](/future/tech/general-purpose-humanoid-robot/) — *accelerates*
-- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory-deployment/) — *accelerates*
+- [General-Purpose Humanoid Robot](/future/tech/general-purpose-humanoid-robot/): *accelerates*
+- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory-deployment/): *accelerates*
 
 ## Investment Exposure
 

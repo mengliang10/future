@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Decentralized Identity (DID / SSI)"
-subtitle: "User-controlled identity wallets — W3C DID standard, ENS, Polygon ID"
+subtitle: "User-controlled identity wallets: W3C DID standard, ENS, Polygon ID"
 category: Blockchain
 stage: prototype
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/decentralized-identity-did-ssi/
 
 ## What This Is
 
-User-controlled identity wallets — W3C DID standard, ENS, Polygon ID.
+User-controlled identity wallets: W3C DID standard, ENS, Polygon ID.
 
 Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **2 independent sources** on this technology.
 
@@ -43,7 +43,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2034** | 50% |
 | Commercially Monetizable | **2031** | 49% |
 
-Moderate timing confidence (50%) — roadmap exists but execution risk remains.
+Moderate timing confidence (50%): roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

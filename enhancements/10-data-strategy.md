@@ -1,10 +1,10 @@
-# Enhancement 10 — Data Strategy (Data Lake, Mesh, ETL)
+# Enhancement 10: Data Strategy (Data Lake, Mesh, ETL)
 
 ## Problem
 
 The platform currently generates and consumes data in fragmented silos: `tech_graph.db` holds technology intelligence, `entity_stock.db` holds stock mappings, `seo_intelligence.db` (planned) holds SEO signals, `matomo_db` will hold analytics, and GA4 exports raw events to BigQuery. No unified data model connects them. No ETL pipeline moves data between layers. No governance policy defines ownership or freshness SLAs.
 
-This matters because — as the Martech for 2026 report states — **56.3% of companies cite poor data quality as their #1 AI implementation challenge**, and **"AI is a commodity; context is differentiation."** The quality of the platform's AI outputs (confidence scores, personalisation, ad targeting) is a direct function of data architecture quality.
+This matters because: as the Martech for 2026 report states: **56.3% of companies cite poor data quality as their #1 AI implementation challenge**, and **"AI is a commodity; context is differentiation."** The quality of the platform's AI outputs (confidence scores, personalisation, ad targeting) is a direct function of data architecture quality.
 
 ---
 
@@ -41,7 +41,7 @@ graph TD
         MART_CONTENT[mart_content_performance\nJoins tech + SEO + analytics]
     end
 
-    subgraph Mesh["Data Mesh — Domain Ownership"]
+    subgraph Mesh["Data Mesh: Domain Ownership"]
         DOMAIN_TECH[Tech Intelligence Domain\nowner: research pipeline]
         DOMAIN_STOCK[Stock Domain\nowner: trading pipeline]
         DOMAIN_ADS[Ads Domain\nowner: ad server]
@@ -176,7 +176,7 @@ flowchart TD
 
 ## Context Engineering for AI Agents
 
-The PDF identifies **context engineering** — getting the right data to the right AI agent at the right time — as the defining challenge of agentic martech. Our platform's AI agents (content production, SEO, personalisation) need structured context bundles, not raw DB queries.
+The PDF identifies **context engineering**: getting the right data to the right AI agent at the right time: as the defining challenge of agentic martech. Our platform's AI agents (content production, SEO, personalisation) need structured context bundles, not raw DB queries.
 
 ```mermaid
 sequenceDiagram
@@ -231,15 +231,15 @@ sequenceDiagram
 gantt
     title Data Strategy Phases
     dateFormat YYYY-MM
-    section Phase 1 — Foundation
+    section Phase 1: Foundation
     Standardise DB schemas + migration files  :d1, 2026-06, 2w
     Create /data/lake/ directory structure    :d2, after d1, 1w
     ETL: archive raw ingests to lake         :d3, after d2, 2w
-    section Phase 2 — Warehouse
+    section Phase 2: Warehouse
     DuckDB + dbt Core setup                  :d4, 2026-08, 2w
     mart_content_performance first model     :d5, after d4, 2w
     Weekly analytics report from warehouse   :d6, after d5, 1w
-    section Phase 3 — Context Layer
+    section Phase 3: Context Layer
     Context bundle generator per node        :d7, 2026-10, 3w
     AI agent context API endpoint            :d8, after d7, 2w
     Audience segment builder                 :d9, after d8, 2w

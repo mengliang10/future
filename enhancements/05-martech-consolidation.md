@@ -1,11 +1,11 @@
-# Enhancement 05 — Martech Platform Consolidation
+# Enhancement 05: Martech Platform Consolidation
 
 ## Problem
 
 Two projects currently exist in separate directories with separate repositories, Jekyll configurations, and development workflows:
 
-- `/Projects/future/` — Future Trends site (live, 212 tech pages, research pipeline, stocks)
-- `/Projects/Martech/` — Martech Directory platform (planning phase, Phase 1 not yet shipped)
+- `/Projects/future/`: Future Trends site (live, 212 tech pages, research pipeline, stocks)
+- `/Projects/Martech/`: Martech Directory platform (planning phase, Phase 1 not yet shipped)
 
 They share: the same Jekyll stack, the same SQLite/Python research pipeline approach, the same target audience (investors, technologists, marketers), and the same eventual monetisation model. Running them as independent silos means duplicated infrastructure, split attention, and missed cross-linking opportunities. The consolidation decision is: **one platform, two (or more) content verticals**.
 
@@ -13,11 +13,11 @@ They share: the same Jekyll stack, the same SQLite/Python research pipeline appr
 
 ## Full-Scale Vision
 
-A single Martech Platform that hosts multiple content verticals under one codebase, one CMS, one analytics stack, one ad server, and one domain. Each vertical (Future Trends, Martech Directory, and future additions) is a sub-site with its own URL path, design skin, and content pipeline — but shares all infrastructure.
+A single Martech Platform that hosts multiple content verticals under one codebase, one CMS, one analytics stack, one ad server, and one domain. Each vertical (Future Trends, Martech Directory, and future additions) is a sub-site with its own URL path, design skin, and content pipeline: but shares all infrastructure.
 
 ```mermaid
 graph TD
-    subgraph Platform["Martech Platform — Single Repo"]
+    subgraph Platform["Martech Platform: Single Repo"]
         INFRA[Shared Infrastructure\nJekyll / CMS / Pipeline / DB]
         ADS[Ad Server]
         ANA[Analytics]
@@ -50,7 +50,7 @@ graph TD
 
 ---
 
-## Current State — Two Separate Repos
+## Current State: Two Separate Repos
 
 ```mermaid
 graph LR
@@ -72,7 +72,7 @@ graph LR
 
 **Pain points:**
 - `_config.yml`, layouts, and CSS maintained in two places.
-- Martech has a separate `REQUIREMENTS.md`, `DEVELOPMENT.md` — no shared backlog.
+- Martech has a separate `REQUIREMENTS.md`, `DEVELOPMENT.md`: no shared backlog.
 - No cross-linking between Future Trends tech nodes and Martech tool pages.
 - Two separate CI/CD pipelines once Martech ships.
 
@@ -90,10 +90,10 @@ flowchart TD
 
     OPT2["Option B: Shared Gem / Theme\nCommon Jekyll theme as Ruby gem\nEach site installs it as dependency"] --> B_PROS["✓ Clean separation\n✓ Independent deploys\n✗ Gem release overhead\n✗ Complex for solo dev"]
 
-    OPT3["Option C: Platform Monorepo\n+ Separate deploy targets\nShared pipeline + DB\nTwo GitHub Pages or one VPS with nginx routing"] --> C_PROS["✓ Best of both — unified pipeline\n✓ Independent URLs and themes\n✓ Scales to N verticals\n★ Recommended"]
+    OPT3["Option C: Platform Monorepo\n+ Separate deploy targets\nShared pipeline + DB\nTwo GitHub Pages or one VPS with nginx routing"] --> C_PROS["✓ Best of both: unified pipeline\n✓ Independent URLs and themes\n✓ Scales to N verticals\n★ Recommended"]
 ```
 
-**Recommendation: Option C** — shared pipeline and DB infrastructure in one repo, separate Jekyll configs deployed to separate paths or domains, unified via Nginx on a VPS (links to Enhancement 06 — Domain Migration).
+**Recommendation: Option C**: shared pipeline and DB infrastructure in one repo, separate Jekyll configs deployed to separate paths or domains, unified via Nginx on a VPS (links to Enhancement 06: Domain Migration).
 
 ---
 
@@ -105,8 +105,8 @@ graph TD
         subgraph Shared["shared/"]
             PIPELINE[research_pipeline/\ntech_graph.db, entity_stock.db]
             LAYOUTS[_layouts/ + _includes/]
-            SCRIPTS[scripts/ — generate_site.py, regen_pages.py]
-            STYLES[assets/css/ — design tokens]
+            SCRIPTS[scripts/: generate_site.py, regen_pages.py]
+            STYLES[assets/css/: design tokens]
         end
 
         subgraph SiteFT["sites/future-trends/"]
@@ -166,12 +166,12 @@ From `DEVELOPMENT.md` review:
 
 | Phase | Status | Key Deliverables |
 |-------|--------|-----------------|
-| 1 — Content Foundation | Planning | 100+ tool pages, directory |
-| 2 — Stack Builder | Planning | Interactive builder, plan generator |
-| 3 — Research Pipeline | Planning | Automated scraping → DB → YAML |
-| 4 — Monetization | Future | Accounts, AI plans, payments |
+| 1: Content Foundation | Planning | 100+ tool pages, directory |
+| 2: Stack Builder | Planning | Interactive builder, plan generator |
+| 3: Research Pipeline | Planning | Automated scraping → DB → YAML |
+| 4: Monetization | Future | Accounts, AI plans, payments |
 
-**Recommendation:** Halt independent Martech development. Invest the Phase 1 effort into the consolidated platform repo. The Martech site ships under the unified platform infrastructure — no separate Jekyll config, no separate pipeline.
+**Recommendation:** Halt independent Martech development. Invest the Phase 1 effort into the consolidated platform repo. The Martech site ships under the unified platform infrastructure: no separate Jekyll config, no separate pipeline.
 
 ---
 
@@ -210,6 +210,6 @@ gantt
 
 ## Open Questions
 
-- GitHub Pages supports only one Pages site per repo at the free tier — does consolidation require a move to a custom domain + VPS? (Yes — see Enhancement 06.)
+- GitHub Pages supports only one Pages site per repo at the free tier: does consolidation require a move to a custom domain + VPS? (Yes: see Enhancement 06.)
 - Should the research pipeline DB live in the shared monorepo or remain in `/Trading/Research/`? The Trading pipeline has broader scope; keep it separate but add a sync/export step to the platform repo.
-- Martech tool data (tool names, pricing, integrations) is a different schema from tech node data — does a shared CMS accommodate both cleanly, or do they need separate collections?
+- Martech tool data (tool names, pricing, integrations) is a different schema from tech node data: does a shared CMS accommodate both cleanly, or do they need separate collections?

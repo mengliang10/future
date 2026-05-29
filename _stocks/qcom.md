@@ -7,7 +7,7 @@ categories: [Semiconductors, Mobile, AI Edge]
 ---
 
 ## Investment Thesis
-Qualcomm dominates smartphone application processors (Snapdragon) and modems, with a royalty business model on every CDMA/LTE/5G handset shipped globally. The edge AI opportunity is significant — Snapdragon X Elite brings PC-class AI inference to thin-and-light laptops, competing directly with Apple Silicon. Server-class ARM CPU for data centres (Cloud AI 100) positions QCOM in the emerging ARM server market. Royalty revenue provides durable recurring cash flow regardless of chip shipment mix.
+Qualcomm dominates smartphone application processors (Snapdragon) and modems, with a royalty business model on every CDMA/LTE/5G handset shipped globally. The edge AI opportunity is significant: Snapdragon X Elite brings PC-class AI inference to thin-and-light laptops, competing directly with Apple Silicon. Server-class ARM CPU for data centres (Cloud AI 100) positions QCOM in the emerging ARM server market. Royalty revenue provides durable recurring cash flow regardless of chip shipment mix.
 
 ## Future Tech Roadmap
 

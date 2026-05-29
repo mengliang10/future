@@ -20,7 +20,7 @@ Detailed fundamental analysis and growth catalysts for Luminar Technologies (LAZ
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">2025</span>
 </div>
-<div class="roadmap-stock-item-desc">Compact, low-cost LiDAR without spinning parts — Luminar Iris, Innoviz One</div>
+<div class="roadmap-stock-item-desc">Compact, low-cost LiDAR without spinning parts: Luminar Iris, Innoviz One</div>
 <div class="roadmap-stock-item-impact">&#128200; Luminar Iris is the solid-state LiDAR product targeting automotive OEM integration. Volvo, Mercedes, and Airbus are customers. Transition from spinning to solid-state is the structural catalyst.</div>
 
 

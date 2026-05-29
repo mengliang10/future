@@ -40,7 +40,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Clear Leader: [PANW](/future/stocks/panw/)** — 88% exposure confidence  
+**Clear Leader: [PANW](/future/stocks/panw/)**: 88% exposure confidence  
 **Position:** Direct pure-play  
 
 *Cortex XDR across endpoint, cloud, network*
@@ -52,13 +52,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2024–2027** | 85% |
 | Commercially Monetizable | **2025** | 81% |
 
-High timing confidence (85%) — multiple corroborating sources confirm this timeline.
+High timing confidence (85%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI-Driven Threat Detection](/future/tech/ai-driven-threat-detection/) — *accelerates*
+- [AI-Driven Threat Detection](/future/tech/ai-driven-threat-detection/): *accelerates*
 
 ## Investment Exposure
 

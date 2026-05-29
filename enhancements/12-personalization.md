@@ -1,4 +1,4 @@
-# Enhancement 12 — Personalisation
+# Enhancement 12: Personalisation
 
 ## Problem
 
@@ -10,7 +10,7 @@ Every visitor to the platform sees identical content regardless of their interes
 
 ## Full-Scale Vision
 
-A multi-layer personalisation system that adapts page content, recommendations, and ad targeting to individual visitor context — inferred from behaviour, session data, and content engagement history. At platform scale, personalisation feeds are available to all properties via a shared API, enabling consistent cross-site audience experiences.
+A multi-layer personalisation system that adapts page content, recommendations, and ad targeting to individual visitor context: inferred from behaviour, session data, and content engagement history. At platform scale, personalisation feeds are available to all properties via a shared API, enabling consistent cross-site audience experiences.
 
 ```mermaid
 graph TD
@@ -76,7 +76,7 @@ flowchart TD
 Matomo's cookie-free mode means personalisation must be session-scoped or use localStorage/IndexedDB for first-party persistence:
 
 ```javascript
-// personalisation.js — vanilla JS, no framework needed
+// personalisation.js: vanilla JS, no framework needed
 
 const PersonalisationEngine = {
   // Read session behaviour from sessionStorage
@@ -106,7 +106,7 @@ const PersonalisationEngine = {
       .then(r => r.json())
       .then(data => {
         reco.innerHTML = data.nodes.map(n =>
-          `<li><a href="${n.url}">${n.name}</a> — ${n.horizon}</li>`
+          `<li><a href="${n.url}">${n.name}</a>: ${n.horizon}</li>`
         ).join('');
       });
   }
@@ -138,7 +138,7 @@ flowchart LR
     FRESH --> SCORE
 ```
 
-Pre-computed nightly from `tech_graph.db` and written to `_data/recommendations.json`. No server-side computation on page load — the recommendation API reads the pre-built index.
+Pre-computed nightly from `tech_graph.db` and written to `_data/recommendations.json`. No server-side computation on page load: the recommendation API reads the pre-built index.
 
 ---
 
@@ -147,7 +147,7 @@ Pre-computed nightly from `tech_graph.db` and written to `_data/recommendations.
 The homepage hero rotates between segment-specific callouts. Jekyll `{% if %}` blocks check a JS-injected class on `<body>`:
 
 ```html
-<!-- _layouts/home.html — segment-aware hero -->
+<!-- _layouts/home.html: segment-aware hero -->
 <section class="hero" id="hero">
   <!-- Default: shown to all, overridden by JS for known segments -->
   <h1>Future Technology Intelligence</h1>
@@ -197,5 +197,5 @@ The homepage hero rotates between segment-specific callouts. Jekyll `{% if %}` b
 ## Open Questions
 
 - Is session-storage personalisation sufficient, or should the platform build user accounts for persistent preferences? Start with session-based; add accounts when the Martech platform SaaS tier launches.
-- GDPR: is behavioural segment inference from anonymous session data compliant without consent? Yes — no PII is stored or processed. Cookie-free Matomo collects only aggregate signals. Legal: document in privacy policy.
-- Synthetic customer simulation (from the Martech for 2026 PDF): should the platform use a simulated audience model (e.g., Brox, Panoplai equivalent built in Python) to test personalisation hypotheses before deploying to real users? Yes — add as a sub-feature of Enhancement 13 (experimentation).
+- GDPR: is behavioural segment inference from anonymous session data compliant without consent? Yes: no PII is stored or processed. Cookie-free Matomo collects only aggregate signals. Legal: document in privacy policy.
+- Synthetic customer simulation (from the Martech for 2026 PDF): should the platform use a simulated audience model (e.g., Brox, Panoplai equivalent built in Python) to test personalisation hypotheses before deploying to real users? Yes: add as a sub-feature of Enhancement 13 (experimentation).

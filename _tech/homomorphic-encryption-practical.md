@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Homomorphic Encryption (Practical)"
-subtitle: "Computing on encrypted data without decryption — FHE reaching usable speeds"
+subtitle: "Computing on encrypted data without decryption: FHE reaching usable speeds"
 category: Cybersecurity
 stage: prototype
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/homomorphic-encryption-practical/
 
 ## What This Is
 
-Computing on encrypted data without decryption — FHE reaching usable speeds.
+Computing on encrypted data without decryption: FHE reaching usable speeds.
 
 Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **5 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2027–2036** | 45% |
 | Commercially Monetizable | **2033** | 46% |
 
-Low timing confidence (45%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (45%): timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Secure Multi-Party Computation](/future/tech/secure-multi-party-computation/) — *synergises with*
+- [Secure Multi-Party Computation](/future/tech/secure-multi-party-computation/): *synergises with*
 
 ## Investment Exposure
 

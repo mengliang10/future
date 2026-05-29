@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Grid-Scale Battery Storage (GWh)"
-subtitle: "Multi-GWh battery installations balancing grids — CATL, Tesla Megapack"
+subtitle: "Multi-GWh battery installations balancing grids: CATL, Tesla Megapack"
 category: Energy Tech
 stage: early_commercial
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/grid-scale-battery-storage-gwh/
 
 ## What This Is
 
-Multi-GWh battery installations balancing grids — CATL, Tesla Megapack.
+Multi-GWh battery installations balancing grids: CATL, Tesla Megapack.
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
 
@@ -40,10 +40,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Clear Leader: [TSLA](/future/stocks/tsla/)** — 85% exposure confidence  
+**Clear Leader: [TSLA](/future/stocks/tsla/)**: 85% exposure confidence  
 **Position:** Direct pure-play  
 
-*Megapack — gigawatt grid storage deployments*
+*Megapack: gigawatt grid storage deployments*
 
 ## Timeline Intelligence
 
@@ -52,14 +52,14 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2018–2027** | 82% |
 | Commercially Monetizable | **2019** | 80% |
 
-High timing confidence (82%) — multiple corroborating sources confirm this timeline.
+High timing confidence (82%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Onshore Wind Turbine](/future/tech/onshore-wind-turbine/) ✓ — *requires*
-- [Floating Offshore Wind](/future/tech/floating-offshore-wind/) — *requires*
+- [Onshore Wind Turbine](/future/tech/onshore-wind-turbine/) ✓: *requires*
+- [Floating Offshore Wind](/future/tech/floating-offshore-wind/): *requires*
 
 ## Investment Exposure
 

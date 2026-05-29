@@ -1,10 +1,10 @@
-# Enhancement 18 — Synthetic Customer Simulation & Digital Twins
+# Enhancement 18: Synthetic Customer Simulation & Digital Twins
 
 ## Problem
 
-Testing personalisation (Enhancement 12) and experiments (Enhancement 13) on real visitors introduces risk — every poorly-conceived test erodes user trust and degrades metrics before data accumulates. The Martech for 2026 report identifies **synthetic customers** (also called digital twins or simulated audiences) as an emerging martech category, used to test campaigns and content hypotheses with zero risk to real users before deployment.
+Testing personalisation (Enhancement 12) and experiments (Enhancement 13) on real visitors introduces risk: every poorly-conceived test erodes user trust and degrades metrics before data accumulates. The Martech for 2026 report identifies **synthetic customers** (also called digital twins or simulated audiences) as an emerging martech category, used to test campaigns and content hypotheses with zero risk to real users before deployment.
 
-> *"You can test new campaigns and run market research studies with these simulants. You can talk to any arbitrary segment of them to ask questions about their interests and behaviours... with no risk of offending them."* — Martech for 2026
+> *"You can test new campaigns and run market research studies with these simulants. You can talk to any arbitrary segment of them to ask questions about their interests and behaviours... with no risk of offending them."*: Martech for 2026
 
 Real-world tools (Brox, Panoplai, Evidenza) cost thousands per month. The core technique is accessible with an LLM API and the platform's own first-party data.
 
@@ -131,7 +131,7 @@ sequenceDiagram
     COHORT-->>STATS: Scores: engagement, deep_read, click_through
     STATS->>STATS: Compute simulated lift per segment
     STATS->>DECISION: Variant B shows +18% deep_read for investor segment
-    DECISION-->>EXP: Proceed with real A/B test — signal is directional
+    DECISION-->>EXP: Proceed with real A/B test: signal is directional
 ```
 
 ---
@@ -186,7 +186,7 @@ flowchart LR
     SIGNAL -- Yes --> REAL_TEST[Queue for real A/B test\nin GrowthBook]
     REAL_TEST --> RESULT{Real result\nsignificant?}
     RESULT -- Validated --> JOURNAL[Journal entry:\nsimulation predicted this ✓]
-    RESULT -- Not validated --> JOURNAL2[Journal entry:\nsimulation was wrong — why?]
+    RESULT -- Not validated --> JOURNAL2[Journal entry:\nsimulation was wrong: why?]
     JOURNAL --> IMPROVE[Improve simulation accuracy\nfrom calibration data]
 ```
 
@@ -222,6 +222,6 @@ Over time, the simulation engine is calibrated against real A/B results, improvi
 
 ## Open Questions
 
-- LLM-based synthetic visitors are fundamentally non-deterministic. How do we get stable results? Run 100+ visitors and use the mean score — law of large numbers smooths variance.
-- Is this approach valid for real product decisions, or is it just directional signal? Directional only — never use simulation results as a substitute for real A/B data. Use them to prioritise the experiment queue.
-- At platform scale, should the synthetic customer library be shared across properties (Future Trends + Martech Directory)? Yes — a shared cohort library with property-specific behavioural overlays is the right model.
+- LLM-based synthetic visitors are fundamentally non-deterministic. How do we get stable results? Run 100+ visitors and use the mean score: law of large numbers smooths variance.
+- Is this approach valid for real product decisions, or is it just directional signal? Directional only: never use simulation results as a substitute for real A/B data. Use them to prioritise the experiment queue.
+- At platform scale, should the synthetic customer library be shared across properties (Future Trends + Martech Directory)? Yes: a shared cohort library with property-specific behavioural overlays is the right model.

@@ -1,12 +1,12 @@
-# Enhancement 01 — CMS Overhaul
+# Enhancement 01: CMS Overhaul
 
 ## Problem
 
-Manual publishing via Jenkins is a bottleneck that does not scale. The current flow requires SSH access, a working Ruby/Jekyll environment, and manual `git push` to trigger a build. Errors surface late (post-push), file format support is limited to Markdown, and there is no editorial interface for non-technical contributors. As content becomes more granular — per-technology pages, per-stock pages, sector briefings — the publishing loop is the ceiling.
+Manual publishing via Jenkins is a bottleneck that does not scale. The current flow requires SSH access, a working Ruby/Jekyll environment, and manual `git push` to trigger a build. Errors surface late (post-push), file format support is limited to Markdown, and there is no editorial interface for non-technical contributors. As content becomes more granular: per-technology pages, per-stock pages, sector briefings: the publishing loop is the ceiling.
 
 **Specific failure modes today:**
 - A bad front-matter YAML silently breaks a page; only visible after deploy.
-- No draft/preview mode — content is live or it does not exist.
+- No draft/preview mode: content is live or it does not exist.
 - No multi-format ingestion (PDF, DOCX, structured JSON → page).
 - No scheduled publishing.
 - No diff/review step between DB change and live page.
@@ -15,7 +15,7 @@ Manual publishing via Jenkins is a bottleneck that does not scale. The current f
 
 ## Full-Scale Vision
 
-A headless CMS that acts as the editorial and publishing layer for the entire Martech platform — not just Future Trends. It decouples content authoring from the delivery layer, supports multiple front-ends (Jekyll, Next.js, mobile), validates content before publish, and exposes a GraphQL/REST API so the research pipeline can push content programmatically.
+A headless CMS that acts as the editorial and publishing layer for the entire Martech platform: not just Future Trends. It decouples content authoring from the delivery layer, supports multiple front-ends (Jekyll, Next.js, mobile), validates content before publish, and exposes a GraphQL/REST API so the research pipeline can push content programmatically.
 
 ```mermaid
 graph LR
@@ -73,7 +73,7 @@ graph LR
 
 ```mermaid
 quadrantChart
-    title CMS Options — Complexity vs Capability
+    title CMS Options: Complexity vs Capability
     x-axis Low Complexity --> High Complexity
     y-axis Low Capability --> High Capability
     quadrant-1 Best Fit
@@ -90,8 +90,8 @@ quadrantChart
 ```
 
 **Recommended path:**
-1. **Phase 1 (now):** Decap CMS — Git-backend, zero infra, drops directly into the existing Jekyll/GitHub Pages setup. Adds a web UI over the same Markdown files. No migration required.
-2. **Phase 2 (platform scale):** Strapi or Payload CMS — self-hosted, full REST+GraphQL API, multi-site content types, role-based access. Migrates to a VPS alongside the domain migration.
+1. **Phase 1 (now):** Decap CMS: Git-backend, zero infra, drops directly into the existing Jekyll/GitHub Pages setup. Adds a web UI over the same Markdown files. No migration required.
+2. **Phase 2 (platform scale):** Strapi or Payload CMS: self-hosted, full REST+GraphQL API, multi-site content types, role-based access. Migrates to a VPS alongside the domain migration.
 
 ---
 
@@ -101,27 +101,27 @@ quadrantChart
 gantt
     title CMS Overhaul Phases
     dateFormat  YYYY-MM
-    section Phase 1 — Decap
+    section Phase 1: Decap
     Install Decap CMS config        :p1a, 2026-06, 2w
     Define content schemas (_tech, _stocks, sectors) :p1b, after p1a, 2w
     Add GitHub OAuth provider       :p1c, after p1b, 1w
     Validate editorial preview flow :p1d, after p1c, 1w
-    section Phase 2 — API Pipeline
+    section Phase 2: API Pipeline
     Research pipeline → CMS API     :p2a, 2026-08, 3w
     Multi-format ingest connector   :p2b, after p2a, 3w
     Scheduled publish queue         :p2c, after p2b, 2w
-    section Phase 3 — Platform CMS
+    section Phase 3: Platform CMS
     Strapi / Payload evaluation     :p3a, 2026-11, 2w
     Multi-site content model        :p3b, after p3a, 4w
     Migrate Future Trends + Martech :p3c, after p3b, 4w
 ```
 
-### Phase 1 — Decap CMS (Quick Win)
+### Phase 1: Decap CMS (Quick Win)
 
 Decap CMS (formerly Netlify CMS) is a React SPA that commits directly to GitHub. Install is a single HTML file + config YAML.
 
 ```yaml
-# /admin/config.yml — Decap CMS schema example
+# /admin/config.yml: Decap CMS schema example
 backend:
   name: github
   repo: mengliang10/future
@@ -145,7 +145,7 @@ collections:
       - { label: Body, name: body, widget: markdown }
 ```
 
-### Phase 2 — Research Pipeline → CMS API
+### Phase 2: Research Pipeline → CMS API
 
 The existing Python research pipeline writes directly to `_tech/*.md` files. In Phase 2 it instead `POST`s to the CMS API, which handles validation, versioning, and publish scheduling.
 
@@ -176,9 +176,9 @@ flowchart TD
     S1 -- Yes --> S2{Front-matter complete?}
     S2 -- No --> ERR2[Flag missing required fields\ne.g. permalink, category]
     S2 -- Yes --> S3{Broken internal links?}
-    S3 -- Yes --> WARN[Warn — link /tech/X/ has no target page]
+    S3 -- Yes --> WARN[Warn: link /tech/X/ has no target page]
     S3 -- No --> S4{Duplicate slug?}
-    S4 -- Yes --> ERR3[Reject — slug conflict with existing page]
+    S4 -- Yes --> ERR3[Reject: slug conflict with existing page]
     S4 -- No --> DRAFT[Save as Draft]
     DRAFT --> PREVIEW[Generate Preview URL]
     PREVIEW --> APPROVE{Approved?}
@@ -202,6 +202,6 @@ flowchart TD
 
 ## Open Questions
 
-- Decap CMS requires GitHub OAuth — does the org allow that app installation?
+- Decap CMS requires GitHub OAuth: does the org allow that app installation?
 - Strapi self-host: VPS cost vs Strapi Cloud pricing at platform scale?
 - Should the research pipeline remain a direct file writer in Phase 1, or go through CMS API from day one?

@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Crewed Mars Mission"
-subtitle: "Human landing on Mars surface — SpaceX Starship Mars program target 2029-2031"
+subtitle: "Human landing on Mars surface: SpaceX Starship Mars program target 2029-2031"
 category: Space Tech
 stage: proof_of_concept
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/crewed-mars-mission/
 
 ## What This Is
 
-Human landing on Mars surface — SpaceX Starship Mars program target 2029-2031.
+Human landing on Mars surface: SpaceX Starship Mars program target 2029-2031.
 
 Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **15 independent sources** on this technology.
 
@@ -43,14 +43,14 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **2030–2042** | 35% |
 | Commercially Monetizable | **2035** | 33% |
 
-Low timing confidence (35%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (35%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/) — *requires*
-- [Full Rocket Reusability (Starship)](/future/tech/full-rocket-reusability-starship/) — *requires*
+- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/): *requires*
+- [Full Rocket Reusability (Starship)](/future/tech/full-rocket-reusability-starship/): *requires*
 
 ## Investment Exposure
 

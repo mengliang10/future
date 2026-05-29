@@ -21,7 +21,7 @@ permalink: /tech/autonomous-lunarmars-rover-fleet/
 
 Self-directing robot fleets operating in extraterrestrial environments without Earth-based real-time control..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **76 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **76 independent sources** on this technology.
 
 ## Status
 
@@ -42,13 +42,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **TBD** | 0% |
 | Commercially Monetizable | **2035+** | 9% |
 
-Timeline not yet established — depends on research breakthroughs that are not yet predictable.
+Timeline not yet established: depends on research breakthroughs that are not yet predictable.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Permanent Lunar Surface Base](/future/tech/permanent-lunar-surface-base/) — *enables*
+- [Permanent Lunar Surface Base](/future/tech/permanent-lunar-surface-base/): *enables*
 
 ## Investment Exposure
 

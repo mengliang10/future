@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Global Satellite Internet Coverage"
-subtitle: "Full Earth coverage including polar, maritime, aviation — Starlink Gen3 2026"
+subtitle: "Full Earth coverage including polar, maritime, aviation: Starlink Gen3 2026"
 category: Space Tech
 stage: pilot
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/global-satellite-internet-coverage/
 
 ## What This Is
 
-Full Earth coverage including polar, maritime, aviation — Starlink Gen3 2026.
+Full Earth coverage including polar, maritime, aviation: Starlink Gen3 2026.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **7 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2025–2028** | 85% |
 | Commercially Monetizable | **2027** | 73% |
 
-High timing confidence (85%) — multiple corroborating sources confirm this timeline.
+High timing confidence (85%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Autonomous Lunar/Mars Rover Fleet](/future/tech/autonomous-lunarmars-rover-fleet/) — *synergises with*
+- [Autonomous Lunar/Mars Rover Fleet](/future/tech/autonomous-lunarmars-rover-fleet/): *synergises with*
 
 ## Investment Exposure
 

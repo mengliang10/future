@@ -40,10 +40,10 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [CRSP](/future/stocks/crsp/)** — 92% exposure confidence  
+**Clear Leader: [CRSP](/future/stocks/crsp/)**: 92% exposure confidence  
 **Position:** Direct pure-play  
 
-*Casgevy — first approved CRISPR medicine*
+*Casgevy: first approved CRISPR medicine*
 
 ## Timeline Intelligence
 
@@ -52,15 +52,15 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [CRISPR Base Editing](/future/tech/crispr-base-editing/) ✓ — *enables*
-- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-gene-therapy/) ✓ — *enables*
-- [Cancer Elimination (Most Types)](/future/tech/cancer-elimination-most-types/) — *accelerates*
+- [CRISPR Base Editing](/future/tech/crispr-base-editing/) ✓: *enables*
+- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-gene-therapy/) ✓: *enables*
+- [Cancer Elimination (Most Types)](/future/tech/cancer-elimination-most-types/): *accelerates*
 
 ## Investment Exposure
 

@@ -5,8 +5,8 @@ title: Home
 
 <section class="hero">
   <div class="hero-left">
-    <p class="hero-eyebrow">Future Trends &mdash; Powered by Data</p>
-    <h1 class="hero-title">The future of technology &amp; AI &mdash; today.</h1>
+    <p class="hero-eyebrow">Future Trends: Powered by Data</p>
+    <h1 class="hero-title">The future of technology &amp; AI today.</h1>
     <p class="hero-sub">Precise, actionable intelligence on semiconductors, AI, quantum computing, and the technologies shaping tomorrow. Linked to stocks, roadmaps, and real money.</p>
     <div class="hero-actions">
       <a href="{{ '/stocks/' | relative_url }}" class="btn btn-primary">View All Stocks</a>
@@ -28,68 +28,6 @@ title: Home
     </div>
   </div>
 </section>
-
-<!-- Automated Intelligence: Research Frontier & Chokepoints -->
-<div class="section-heading">
-  <h2>Intelligence Frontier</h2>
-  <span class="section-sub">Automated research feed — latest technology nodes and strategic chokepoints.</span>
-  <a href="{{ '/tech/' | relative_url }}" class="view-all">Technology Intelligence (220 nodes) &rarr;</a>
-</div>
-
-<div class="analysis-grid" style="grid-template-columns: repeat(2, 1fr);">
-
-  <!-- Research Frontier (Possibility A) -->
-  <div class="analysis-card">
-    <div class="analysis-card-header">
-      <span class="period">Research Frontier</span>
-      <span class="tag semi">LATEST UPDATES</span>
-    </div>
-    <div class="analysis-card-body">
-      {% for node in site.data.intelligence_meta.frontier limit:3 %}
-      <div class="analysis-item">
-        <div class="analysis-dot up"></div>
-        <div class="analysis-item-text">
-          <a href="{{ '/tech/' | append: node.id | append: '/' | relative_url }}" style="font-weight:700; color:var(--accent);">{{ node.name }}</a><br>
-          <span style="font-size:0.8rem; color:var(--text-3);">{{ node.category }} &middot; Stage: {{ node.status | replace: '_', ' ' | capitalize }}</span><br>
-          Research Maturity: <strong>{{ node.confidence | times: 100 | round: 0 }}%</strong> (Discovery phase: gathering evidence and validating technical claims) as of {{ node.updated_at | date: "%b %d" }}.
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-
-  <!-- Strategic Chokepoints -->
-  <div class="analysis-card">
-    <div class="analysis-card-header">
-      <span class="period">Strategic Chokepoints</span>
-      <span class="tag">BOTTLENECK MATRIX</span>
-    </div>
-    <div class="analysis-card-body">
-      <table class="signal-table">
-        <thead>
-          <tr>
-            <th>Chokepoint</th>
-            <th>Impact</th>
-            <th>Strategic Score</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for bn in site.data.intelligence_meta.bottlenecks limit:4 %}
-          <tr>
-            <td><strong>{{ bn.node_name }}</strong></td>
-            <td><span style="font-size:0.75rem;">Foundation for {{ bn.downstream_node_count }} tech pathways</span></td>
-            <td>
-              <span class="signal-dir up">{{ bn.bottleneck_score | round: 2 }}</span><br>
-              <span style="font-size:0.65rem; color:var(--text-3); font-weight:normal;">Critical Priority</span>
-            </td>
-          </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-    </div>
-  </div>
-
-</div>
 
 <!-- Latest Articles -->
 <div class="section-heading">

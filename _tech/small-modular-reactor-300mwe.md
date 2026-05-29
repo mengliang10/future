@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Small Modular Reactor (<300MWe)"
-subtitle: "Factory-built modular reactors — NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR"
+subtitle: "Factory-built modular reactors: NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR"
 category: Energy Tech
 stage: pilot
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/small-modular-reactor-300mwe/
 
 ## What This Is
 
-Factory-built modular reactors — NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR.
+Factory-built modular reactors: NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **26 independent sources** on this technology.
 
@@ -42,12 +42,12 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 
 ## Market Race
 
-**3-Way Race** — 3 companies with meaningful exposure
+**3-Way Race**: 3 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
-| [SMR](/future/stocks/smr/) | NuScale Power | 92% | DIRECT | VOYGR-12 SMR — first NRC certified design **← Leader** |
-| [GEV](/future/stocks/gev/) | GE Vernova | 78% | DIRECT | BWRX-300 — multiple utility agreements |
+| [SMR](/future/stocks/smr/) | NuScale Power | 92% | DIRECT | VOYGR-12 SMR: first NRC certified design **← Leader** |
+| [GEV](/future/stocks/gev/) | GE Vernova | 78% | DIRECT | BWRX-300: multiple utility agreements |
 | [CCJ](/future/stocks/ccj/) | Cameco Corporation | 70% | ENABLING | SMR buildout increases uranium demand |
 
 **Current leader:** [SMR](/future/stocks/smr/) with **92%** exposure confidence based on our research.
@@ -59,13 +59,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2028–2035** | 60% |
 | Commercially Monetizable | **2031** | 61% |
 
-Moderate timing confidence (60%) — roadmap exists but execution risk remains.
+Moderate timing confidence (60%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Advanced Nuclear Gen IV (MSR/SFR)](/future/tech/advanced-nuclear-gen-iv-msrsfr/) — *enables*
+- [Advanced Nuclear Gen IV (MSR/SFR)](/future/tech/advanced-nuclear-gen-iv-msrsfr/): *enables*
 
 ## Investment Exposure
 

@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Rocket First-Stage Reusability"
-subtitle: "Propulsive landing and reflight of orbital boosters — SpaceX Falcon 9 (300+ flights)"
+subtitle: "Propulsive landing and reflight of orbital boosters: SpaceX Falcon 9 (300+ flights)"
 category: Space Tech
 stage: mass_production
 confidence_label: Confirmed
@@ -19,7 +19,7 @@ permalink: /tech/rocket-first-stage-reusability/
 
 ## What This Is
 
-Propulsive landing and reflight of orbital boosters — SpaceX Falcon 9 (300+ flights). **Achieved.**
+Propulsive landing and reflight of orbital boosters: SpaceX Falcon 9 (300+ flights). **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Full Rocket Reusability (Starship)](/future/tech/full-rocket-reusability-starship/) — *enables*
+- [Full Rocket Reusability (Starship)](/future/tech/full-rocket-reusability-starship/): *enables*
 
 ## Investment Exposure
 

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Stocks
-subtitle: 100 tracked tech and future-tech stocks — sortable, filterable, live-updated daily.
-permalink: /stocks/
+subtitle: 100 tracked tech and future-tech stocks: sortable, filterable, live-updated daily.
 ---
 
 <div class="section-heading">
   <h2>All Tracked Symbols</h2>
-  <span class="section-sub">100 tracked tech and future-tech stocks — sortable and filterable.</span>
+  <span class="section-sub">100 tracked tech and future-tech stocks: sortable and filterable.</span>
+</div>
 </div>
 
 <div class="stocks-controls">

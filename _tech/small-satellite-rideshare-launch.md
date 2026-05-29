@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Small Satellite Rideshare Launch"
-subtitle: "Dedicated and rideshare launches for smallsats — SpaceX Transporter, RocketLab"
+subtitle: "Dedicated and rideshare launches for smallsats: SpaceX Transporter, RocketLab"
 category: Space Tech
 stage: mass_production
 confidence_label: Confirmed
@@ -21,7 +21,7 @@ permalink: /tech/small-satellite-rideshare-launch/
 
 ## What This Is
 
-Dedicated and rideshare launches for smallsats — SpaceX Transporter, RocketLab. **Achieved.**
+Dedicated and rideshare launches for smallsats: SpaceX Transporter, RocketLab. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [RKLB](/future/stocks/rklb/)** — 88% exposure confidence  
+**Clear Leader: [RKLB](/future/stocks/rklb/)**: 88% exposure confidence  
 **Position:** Direct pure-play  
 
 *Electron launch vehicle for small sats*
@@ -52,13 +52,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [LEO Satellite Internet Constellation](/future/tech/leo-satellite-internet-constellation/) ✓ — *enables*
+- [LEO Satellite Internet Constellation](/future/tech/leo-satellite-internet-constellation/) ✓: *enables*
 
 ## Investment Exposure
 

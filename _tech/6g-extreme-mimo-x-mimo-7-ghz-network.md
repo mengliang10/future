@@ -47,23 +47,23 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2028–2036** | 65% |
 | Commercially Monetizable | **2031** | 56% |
 
-Moderate timing confidence (65%) — roadmap exists but execution risk remains.
+Moderate timing confidence (65%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [2nm Process Node (TSMC N2)](/future/tech/2nm-process-node-tsmc-n2/) ✓ — *requires*
+- [2nm Process Node (TSMC N2)](/future/tech/2nm-process-node-tsmc-n2/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Inference at Edge](/future/tech/ai-inference-at-edge/) — *enables*
-- [V2X Vehicle-to-Everything Comms](/future/tech/v2x-vehicle-to-everything-comms/) — *enables*
-- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-smart-glasses-consumer-daily/) — *enables*
-- [High-Bandwidth Wireless BCI (1024ch)](/future/tech/high-bandwidth-wireless-bci-1024ch/) — *accelerates*
-- [AI-Autonomous Security Operations Centre](/future/tech/ai-autonomous-security-operations-centre/) — *synergises with*
+- [AI Inference at Edge](/future/tech/ai-inference-at-edge/): *enables*
+- [V2X Vehicle-to-Everything Comms](/future/tech/v2x-vehicle-to-everything-comms/): *enables*
+- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-smart-glasses-consumer-daily/): *enables*
+- [High-Bandwidth Wireless BCI (1024ch)](/future/tech/high-bandwidth-wireless-bci-1024ch/): *accelerates*
+- [AI-Autonomous Security Operations Centre](/future/tech/ai-autonomous-security-operations-centre/): *synergises with*
 
 ## Investment Exposure
 

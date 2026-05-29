@@ -1,8 +1,8 @@
-# Enhancement 11 — Ad Network Management (Google, Meta, LinkedIn)
+# Enhancement 11: Ad Network Management (Google, Meta, LinkedIn)
 
 ## Problem
 
-The platform currently earns zero from paid channels and has no infrastructure to run, manage, or measure paid advertising campaigns. As content reaches scale and the Martech platform develops, two paid-channel needs emerge simultaneously: (1) **paid acquisition** — using Google Ads, Meta Ads, and LinkedIn Ads to drive targeted traffic to high-value content and platform sign-ups; and (2) **ad network operations** — managing multiple demand sources for the first-party ad server (Enhancement 08). Both require a unified campaign management framework that avoids vendor lock-in and keeps management overhead low.
+The platform currently earns zero from paid channels and has no infrastructure to run, manage, or measure paid advertising campaigns. As content reaches scale and the Martech platform develops, two paid-channel needs emerge simultaneously: (1) **paid acquisition**: using Google Ads, Meta Ads, and LinkedIn Ads to drive targeted traffic to high-value content and platform sign-ups; and (2) **ad network operations**: managing multiple demand sources for the first-party ad server (Enhancement 08). Both require a unified campaign management framework that avoids vendor lock-in and keeps management overhead low.
 
 ---
 
@@ -29,7 +29,7 @@ graph TD
 
     subgraph Measurement["Unified Measurement"]
         WAREHOUSE[(ad_performance.db)]
-        MMM[Marketing Mix Model\nPython — lightweight]
+        MMM[Marketing Mix Model\nPython: lightweight]
         REPORT[Weekly Performance Report\nMarkdown → CMS]
     end
 
@@ -62,7 +62,7 @@ graph TD
 
 ---
 
-## Google Ads — Automated Bidding Strategy
+## Google Ads: Automated Bidding Strategy
 
 No manual bidding. Use Google's Smart Bidding with custom rules overlaid via the Ads API:
 
@@ -86,7 +86,7 @@ flowchart LR
 
 ---
 
-## Meta Ads — Content Amplification
+## Meta Ads: Content Amplification
 
 Meta is best for amplifying content to interest-based audiences, not capturing search intent. Strategy: promote the highest-confidence tech node pages as lead content.
 
@@ -102,7 +102,7 @@ flowchart TD
 
 ---
 
-## LinkedIn Ads — B2B Platform Acquisition
+## LinkedIn Ads: B2B Platform Acquisition
 
 LinkedIn is expensive ($20–$80 CPM) but the only channel with job-title and company-size targeting. Use only for the Martech platform (Enhancement 05), not for content traffic acquisition.
 
@@ -114,7 +114,7 @@ LinkedIn is expensive ($20–$80 CPM) but the only channel with job-title and co
 
 LinkedIn Insight Tag installation (1 line via GTM):
 ```javascript
-// GTM Custom HTML tag — LinkedIn Insight Tag
+// GTM Custom HTML tag: LinkedIn Insight Tag
 _linkedin_partner_id = "XXXXXXX";
 // ... standard tag
 ```
@@ -136,11 +136,11 @@ flowchart LR
 ```
 
 ```python
-# adapi_pull.py — unified pull
+# adapi_pull.py: unified pull
 # Google Ads: google-ads Python library (free)
 # Meta: facebook-business Python SDK (free)
 # LinkedIn: linkedin-api (unofficial, free) or Marketing API (official, free tier)
-# Output: ad_performance.db — campaigns, spend, clicks, conversions per day
+# Output: ad_performance.db: campaigns, spend, clicks, conversions per day
 ```
 
 ---
@@ -190,6 +190,6 @@ graph TD
 
 ## Open Questions
 
-- Reddit Ads API is limited — campaign management mostly via UI. Include only when content is generating strong organic Reddit engagement (use Social Listening, Enhancement 14, to detect this).
-- LinkedIn API has strict rate limits and requires OAuth — start with manual campaign management and add API automation in Phase 2.
+- Reddit Ads API is limited: campaign management mostly via UI. Include only when content is generating strong organic Reddit engagement (use Social Listening, Enhancement 14, to detect this).
+- LinkedIn API has strict rate limits and requires OAuth: start with manual campaign management and add API automation in Phase 2.
 - Google Ads Performance Max campaigns use AI to auto-place across Search, Display, YouTube, Gmail. This reduces manual control but improves reach. Use Performance Max for content amplification, manual Search campaigns for intent capture.

@@ -20,7 +20,7 @@ Detailed fundamental analysis and growth catalysts for AST SpaceMobile Inc. (AST
 <span class="conf-badge conf-confirmed">Confirmed</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-desc">Low-latency broadband from LEO — Starlink (6000+ sats), OneWeb, Amazon Kuiper</div>
+<div class="roadmap-stock-item-desc">Low-latency broadband from LEO: Starlink (6000+ sats), OneWeb, Amazon Kuiper</div>
 <div class="roadmap-stock-item-impact">&#128200; AST SpaceMobile is building direct-to-smartphone satellite connectivity. Commercial service launched in 2024 via telecoms partnerships. Revenue inflects with satellite count.</div>
 
 

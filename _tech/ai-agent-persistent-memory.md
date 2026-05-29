@@ -21,7 +21,7 @@ permalink: /tech/ai-agent-persistent-memory/
 
 AI Agent Persistent Memory.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
 
 *Primary unsolved bottleneck for autonomous agents; episodic vs semantic memory, cross-session retention*
 
@@ -44,14 +44,14 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **TBD** | 0% |
 | Commercially Monetizable | **2035+** | 9% |
 
-Timeline not yet established — depends on research breakthroughs that are not yet predictable.
+Timeline not yet established: depends on research breakthroughs that are not yet predictable.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/) — *enables*
-- [AI Agent Swarms](/future/tech/ai-agent-swarms/) — *accelerates*
+- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/): *enables*
+- [AI Agent Swarms](/future/tech/ai-agent-swarms/): *accelerates*
 
 ## Investment Exposure
 

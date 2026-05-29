@@ -21,7 +21,7 @@ permalink: /tech/post-scarcity-robotic-manufacturing/
 
 Robots produce goods at near-zero marginal cost; fundamental economics shift.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **37 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **37 independent sources** on this technology.
 
 ## Status
 
@@ -43,7 +43,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2040–2065** | 15% |
 | Commercially Monetizable | **2058** | 16% |
 
-Low timing confidence (15%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (15%): timeline is speculative; watch for milestone announcements.
 
 ## Investment Exposure
 

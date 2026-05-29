@@ -8,7 +8,7 @@ node_count: 1
 ---
 
 ## Investment Thesis
-Joby is the leading eVTOL (electric vertical takeoff and landing) air taxi developer, targeting FAA Part 135 air carrier certification and commercial operations. The aircraft has a 100-mile range, cruises at 200mph, and carries 4 passengers + pilot. Toyota ($894M invested) and Delta Air Lines (commercial partnership) provide industrial and distribution credibility. Joby has flown over 1,000 test flights and is the furthest along on FAA certification. Key risk: FAA certification timeline is the primary binary. eVTOL is pre-revenue — burns ~$150M/quarter. Infrastructure (vertiports, ATC integration) is a second-order bottleneck that could delay commercialisation even after aircraft certification.
+Joby is the leading eVTOL (electric vertical takeoff and landing) air taxi developer, targeting FAA Part 135 air carrier certification and commercial operations. The aircraft has a 100-mile range, cruises at 200mph, and carries 4 passengers + pilot. Toyota ($894M invested) and Delta Air Lines (commercial partnership) provide industrial and distribution credibility. Joby has flown over 1,000 test flights and is the furthest along on FAA certification. Key risk: FAA certification timeline is the primary binary. eVTOL is pre-revenue: burns ~$150M/quarter. Infrastructure (vertiports, ATC integration) is a second-order bottleneck that could delay commercialisation even after aircraft certification.
 
 ## Future Tech Roadmap
 

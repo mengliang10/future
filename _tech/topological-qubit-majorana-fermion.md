@@ -43,13 +43,13 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **2027–2037** | 40% |
 | Commercially Monetizable | **2035** | 36% |
 
-Low timing confidence (40%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (40%): timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/) — *accelerates*
+- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/): *accelerates*
 
 ## Investment Exposure
 

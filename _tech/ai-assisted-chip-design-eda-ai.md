@@ -43,13 +43,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2025–2028** | 75% |
 | Commercially Monetizable | **2027** | 76% |
 
-Moderate timing confidence (75%) — roadmap exists but execution risk remains.
+Moderate timing confidence (75%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [1nm / A14 Process Node](/future/tech/1nm-a14-process-node/) — *accelerates*
+- [1nm / A14 Process Node](/future/tech/1nm-a14-process-node/): *accelerates*
 
 ## Investment Exposure
 

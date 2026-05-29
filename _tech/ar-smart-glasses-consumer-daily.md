@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "AR Smart Glasses (Consumer / Daily)"
-subtitle: "Fashionable AR eyewear for everyday use — Meta Orion, Apple Vision Pro"
+subtitle: "Fashionable AR eyewear for everyday use: Meta Orion, Apple Vision Pro"
 category: XR
 stage: pilot
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/ar-smart-glasses-consumer-daily/
 
 ## What This Is
 
-Fashionable AR eyewear for everyday use — Meta Orion, Apple Vision Pro.
+Fashionable AR eyewear for everyday use: Meta Orion, Apple Vision Pro.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **4 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -56,14 +56,14 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2025–2030** | 70% |
 | Commercially Monetizable | **2027** | 66% |
 
-Moderate timing confidence (70%) — roadmap exists but execution risk remains.
+Moderate timing confidence (70%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Hand / Gesture Tracking](/future/tech/hand-gesture-tracking/) ✓ — *requires*
-- [Spatial Computing OS](/future/tech/spatial-computing-os/) — *requires*
+- [Hand / Gesture Tracking](/future/tech/hand-gesture-tracking/) ✓: *requires*
+- [Spatial Computing OS](/future/tech/spatial-computing-os/): *requires*
 
 ## Investment Exposure
 

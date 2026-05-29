@@ -9,7 +9,7 @@ bottleneck_count: 2
 ---
 
 ## Investment Thesis
-The Trade Desk is the dominant independent DSP for programmatic advertising, with particularly strong positioning in Connected TV. As streaming platforms add ad tiers (Netflix, Disney+, Amazon Prime), TTD's platform captures incremental budget shifting from linear TV — a secular decade-long reallocation. Unified ID 2.0 is the leading cookieless identity solution, strengthening TTD's position for the post-cookie world. The independence from walled garden conflicts (unlike Google's DV360 or Meta's tools) is a durable competitive advantage with agencies and large advertisers.
+The Trade Desk is the dominant independent DSP for programmatic advertising, with particularly strong positioning in Connected TV. As streaming platforms add ad tiers (Netflix, Disney+, Amazon Prime), TTD's platform captures incremental budget shifting from linear TV: a secular decade-long reallocation. Unified ID 2.0 is the leading cookieless identity solution, strengthening TTD's position for the post-cookie world. The independence from walled garden conflicts (unlike Google's DV360 or Meta's tools) is a durable competitive advantage with agencies and large advertisers.
 
 ## Future Tech Roadmap
 
@@ -21,7 +21,7 @@ The Trade Desk is the dominant independent DSP for programmatic advertising, wit
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">2025</span>
 </div>
-<div class="roadmap-stock-item-desc">Addressable streaming TV ads via DSP/SSP — The Trade Desk, Magnite</div>
+<div class="roadmap-stock-item-desc">Addressable streaming TV ads via DSP/SSP: The Trade Desk, Magnite</div>
 <div class="roadmap-stock-item-impact">&#128200; The Trade Desk is the leading independent DSP for CTV advertising. As streaming ad inventory grows, TTD's platform captures incremental budget shifting from linear TV. This is the core growth driver.</div>
 
 

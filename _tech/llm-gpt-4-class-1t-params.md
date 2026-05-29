@@ -42,12 +42,12 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**4-Way Race** — 4 companies with meaningful exposure
+**4-Way Race**: 4 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
-| [GOOGL](/future/stocks/googl/) | Alphabet Inc. | 85% | DIRECT | Gemini 2.0 — Google's flagship LLM **← Leader** |
-| [MSFT](/future/stocks/msft/) | Microsoft Corporation | 85% | DIRECT | Azure OpenAI — exclusive GPT-4 partner |
+| [GOOGL](/future/stocks/googl/) | Alphabet Inc. | 85% | DIRECT | Gemini 2.0: Google's flagship LLM **← Leader** |
+| [MSFT](/future/stocks/msft/) | Microsoft Corporation | 85% | DIRECT | Azure OpenAI: exclusive GPT-4 partner |
 | [NVDA](/future/stocks/nvda/) | NVIDIA Corporation | 75% | ENABLING | Every major LLM trained on NVIDIA GPUs |
 | [AMZN](/future/stocks/amzn/) | Amazon.com Inc. | 60% | secondary | Amazon Bedrock hosts multiple frontier LLMs; Amazon Nova model family |
 
@@ -60,26 +60,26 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Transformer Architecture](/future/tech/transformer-architecture/) ✓ — *requires*
-- [RLHF / Constitutional AI Alignment](/future/tech/rlhf-constitutional-ai-alignment/) ✓ — *requires*
+- [Transformer Architecture](/future/tech/transformer-architecture/) ✓: *requires*
+- [RLHF / Constitutional AI Alignment](/future/tech/rlhf-constitutional-ai-alignment/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Chain-of-Thought Reasoning Model](/future/tech/chain-of-thought-reasoning-model/) ✓ — *enables*
-- [Multimodal Foundation Model](/future/tech/multimodal-foundation-model/) ✓ — *enables*
-- [AI-Assisted Chip Design (EDA AI)](/future/tech/ai-assisted-chip-design-eda-ai/) — *accelerates*
-- [Robotics Foundation Model](/future/tech/robotics-foundation-model/) — *enables*
-- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/) — *accelerates*
-- [Open-Source Frontier LLM (GPT-4/o1 Class)](/future/tech/open-source-frontier-llm-gpt-4o1-class/) ✓ — *enables*
-- [Synthetic Training Data Generation](/future/tech/synthetic-training-data-generation/) ✓ — *enables*
+- [Chain-of-Thought Reasoning Model](/future/tech/chain-of-thought-reasoning-model/) ✓: *enables*
+- [Multimodal Foundation Model](/future/tech/multimodal-foundation-model/) ✓: *enables*
+- [AI-Assisted Chip Design (EDA AI)](/future/tech/ai-assisted-chip-design-eda-ai/): *accelerates*
+- [Robotics Foundation Model](/future/tech/robotics-foundation-model/): *enables*
+- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/): *accelerates*
+- [Open-Source Frontier LLM (GPT-4/o1 Class)](/future/tech/open-source-frontier-llm-gpt-4o1-class/) ✓: *enables*
+- [Synthetic Training Data Generation](/future/tech/synthetic-training-data-generation/) ✓: *enables*
 
 ## Investment Exposure
 

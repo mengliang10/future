@@ -40,7 +40,7 @@ circRNA resists degradation on its way to cells, yields copious copies of the pr
 
 ## Market Race
 
-**Clear Leader: [MRNA](/future/stocks/mrna/)** — 85% exposure confidence  
+**Clear Leader: [MRNA](/future/stocks/mrna/)**: 85% exposure confidence  
 **Position:** Direct pure-play  
 
 *Moderna and BioNTech are actively developing circular RNA platforms to improve vaccine durability.*
@@ -49,7 +49,7 @@ circRNA resists degradation on its way to cells, yields copious copies of the pr
 
 This technology depends on or requires advances in:
 
-- [mRNA Vaccine & Therapeutic Platform](/future/tech/mrna-vaccine-therapeutic-platform/) — *requires*
+- [mRNA Vaccine & Therapeutic Platform](/future/tech/mrna-vaccine-therapeutic-platform/): *requires*
 
 ## Investment Exposure
 

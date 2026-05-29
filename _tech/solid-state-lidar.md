@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Solid-State LiDAR"
-subtitle: "Compact, low-cost LiDAR without spinning parts — Luminar Iris, Innoviz One"
+subtitle: "Compact, low-cost LiDAR without spinning parts: Luminar Iris, Innoviz One"
 category: Autonomous
 stage: early_commercial
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/solid-state-lidar/
 
 ## What This Is
 
-Compact, low-cost LiDAR without spinning parts — Luminar Iris, Innoviz One. **Achieved.**
+Compact, low-cost LiDAR without spinning parts: Luminar Iris, Innoviz One. **Achieved.**
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **8 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Clear Leader: [LAZR](/future/stocks/lazr/)** — 88% exposure confidence  
+**Clear Leader: [LAZR](/future/stocks/lazr/)**: 88% exposure confidence  
 **Position:** Direct pure-play  
 
 *Iris LiDAR in Volvo EX90 production vehicles*
@@ -52,13 +52,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 88% |
 | Commercially Monetizable | **Now–2027** | 83% |
 
-High timing confidence (88%) — multiple corroborating sources confirm this timeline.
+High timing confidence (88%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/) ✓ — *enables*
+- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/) ✓: *enables*
 
 ## Investment Exposure
 

@@ -40,7 +40,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [FSLR](/future/stocks/fslr/)** — 90% exposure confidence  
+**Clear Leader: [FSLR](/future/stocks/fslr/)**: 90% exposure confidence  
 **Position:** Direct pure-play  
 
 *CdTe thin-film; Series 7; 16GW capacity*
@@ -52,14 +52,14 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Solar <$0.01/kWh LCOE](/future/tech/solar-001kwh-lcoe/) — *enables*
-- [Direct Air Carbon Capture (DAC)](/future/tech/direct-air-carbon-capture-dac/) — *accelerates*
+- [Solar <$0.01/kWh LCOE](/future/tech/solar-001kwh-lcoe/): *enables*
+- [Direct Air Carbon Capture (DAC)](/future/tech/direct-air-carbon-capture-dac/): *accelerates*
 
 ## Investment Exposure
 

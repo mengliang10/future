@@ -43,13 +43,13 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **2027–2032** | 50% |
 | Commercially Monetizable | **2034** | 41% |
 
-Moderate timing confidence (50%) — roadmap exists but execution risk remains.
+Moderate timing confidence (50%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/) — *enables*
+- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/): *enables*
 
 ## Investment Exposure
 

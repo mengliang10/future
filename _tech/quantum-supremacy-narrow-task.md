@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Quantum Supremacy (Narrow Task)"
-subtitle: "Quantum outperforming classical on specific benchmark — Google Sycamore 2019"
+subtitle: "Quantum outperforming classical on specific benchmark: Google Sycamore 2019"
 category: Quantum
 stage: early_commercial
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/quantum-supremacy-narrow-task/
 
 ## What This Is
 
-Quantum outperforming classical on specific benchmark — Google Sycamore 2019. **Achieved.**
+Quantum outperforming classical on specific benchmark: Google Sycamore 2019. **Achieved.**
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **65 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Clear Leader: [GOOGL](/future/stocks/googl/)** — 90% exposure confidence  
+**Clear Leader: [GOOGL](/future/stocks/googl/)**: 90% exposure confidence  
 **Position:** Direct pure-play  
 
 *Google Sycamore achieved supremacy 2019*
@@ -52,13 +52,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now–2027** | 88% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-qc-1000-logical-qubits/) — *accelerates*
+- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-qc-1000-logical-qubits/): *accelerates*
 
 ## Investment Exposure
 

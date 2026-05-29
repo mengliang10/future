@@ -40,7 +40,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -56,16 +56,16 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2032** | 65% |
 | Commercially Monetizable | **2029** | 56% |
 
-Moderate timing confidence (65%) — roadmap exists but execution risk remains.
+Moderate timing confidence (65%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [PQC Enterprise Deployment](/future/tech/pqc-enterprise-deployment/) — *accelerates*
-- [Quantum-Enhanced Semiconductor Design](/future/tech/quantum-enhanced-semiconductor-design/) — *synergises with*
-- [Quantum Protein Folding Solver](/future/tech/quantum-protein-folding-solver/) — *synergises with*
-- [Quantum Key Distribution Network](/future/tech/quantum-key-distribution-network/) — *synergises with*
+- [PQC Enterprise Deployment](/future/tech/pqc-enterprise-deployment/): *accelerates*
+- [Quantum-Enhanced Semiconductor Design](/future/tech/quantum-enhanced-semiconductor-design/): *synergises with*
+- [Quantum Protein Folding Solver](/future/tech/quantum-protein-folding-solver/): *synergises with*
+- [Quantum Key Distribution Network](/future/tech/quantum-key-distribution-network/): *synergises with*
 
 ## Investment Exposure
 

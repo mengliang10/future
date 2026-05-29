@@ -40,7 +40,7 @@ All new EV and industrial-use batteries with a capacity above 2 kilowatt-hours (
 
 ## Market Race
 
-**Clear Leader: [TSLA](/future/stocks/tsla/)** — 70% exposure confidence  
+**Clear Leader: [TSLA](/future/stocks/tsla/)**: 70% exposure confidence  
 **Position:** Indirect exposure  
 
 *EV manufacturers must comply with EU regulations to maintain market access.*

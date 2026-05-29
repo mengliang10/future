@@ -40,11 +40,11 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
-| [CRWD](/future/stocks/crwd/) | CrowdStrike Holdings | 85% | DIRECT | Charlotte AI — conversational threat detection **← Leader** |
+| [CRWD](/future/stocks/crwd/) | CrowdStrike Holdings | 85% | DIRECT | Charlotte AI: conversational threat detection **← Leader** |
 | [PLTR](/future/stocks/pltr/) | Palantir Technologies | 60% | primary | Palantir Gotham and Metropolis apply AI to intelligence analysis and threat |
 
 **Current leader:** [CRWD](/future/stocks/crwd/) with **85%** exposure confidence based on our research.
@@ -56,14 +56,14 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2025–2029** | 78% |
 | Commercially Monetizable | **2027** | 78% |
 
-Moderate timing confidence (78%) — roadmap exists but execution risk remains.
+Moderate timing confidence (78%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Zero Trust Security Architecture](/future/tech/zero-trust-security-architecture/) — *synergises with*
-- [SASE (Secure Access Service Edge)](/future/tech/sase-secure-access-service-edge/) — *synergises with*
+- [Zero Trust Security Architecture](/future/tech/zero-trust-security-architecture/): *synergises with*
+- [SASE (Secure Access Service Edge)](/future/tech/sase-secure-access-service-edge/): *synergises with*
 
 ## Investment Exposure
 

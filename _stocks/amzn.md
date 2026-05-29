@@ -8,7 +8,7 @@ node_count: 6
 ---
 
 ## Investment Thesis
-Amazon is the cloud layer on which AI runs. AWS is the largest cloud provider globally, and AI workloads are the fastest-growing AWS segment — adding meaningful percentage points to AWS revenue growth annually. The Trainium and Inferentia custom silicon programs reduce Amazon's per-inference cost and improve margins on AI workloads. Amazon Bedrock (hosting Anthropic Claude, Llama, Mistral) positions AWS as the model-agnostic deployment platform. Project Kuiper (3,200 satellite LEO constellation) is the long-duration bet on global connectivity. The core retail and advertising businesses fund all of this — Amazon generates enough free cash flow to run multiple $10B+ investment programs simultaneously.
+Amazon is the cloud layer on which AI runs. AWS is the largest cloud provider globally, and AI workloads are the fastest-growing AWS segment: adding meaningful percentage points to AWS revenue growth annually. The Trainium and Inferentia custom silicon programs reduce Amazon's per-inference cost and improve margins on AI workloads. Amazon Bedrock (hosting Anthropic Claude, Llama, Mistral) positions AWS as the model-agnostic deployment platform. Project Kuiper (3,200 satellite LEO constellation) is the long-duration bet on global connectivity. The core retail and advertising businesses fund all of this: Amazon generates enough free cash flow to run multiple $10B+ investment programs simultaneously.
 
 ## Future Tech Roadmap
 
@@ -34,7 +34,7 @@ Amazon is the cloud layer on which AI runs. AWS is the largest cloud provider gl
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
 <div class="roadmap-stock-item-desc">Large-scale GPU arrays enabling parallel matrix ops for deep learning training</div>
-<div class="roadmap-stock-item-impact">&#128200; AWS EC2 UltraClusters with NVIDIA H100/A100 are the infrastructure on which most AI training happens. Amazon is both a GPU customer (from NVIDIA) and a custom silicon competitor — a dual position that makes it uniquely exposed to the AI compute cycle.</div>
+<div class="roadmap-stock-item-impact">&#128200; AWS EC2 UltraClusters with NVIDIA H100/A100 are the infrastructure on which most AI training happens. Amazon is both a GPU customer (from NVIDIA) and a custom silicon competitor: a dual position that makes it uniquely exposed to the AI compute cycle.</div>
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-2nd">&#9889; 2ND · 80%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/nvda/">NVDA</a> 90% (&#8722;9pp)</span></div>
@@ -60,7 +60,7 @@ Amazon is the cloud layer on which AI runs. AWS is the largest cloud provider gl
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
 <div class="roadmap-stock-item-desc">Massive data center networks: AWS, Azure, GCP serving global AI workloads</div>
-<div class="roadmap-stock-item-impact">&#128200; AWS is the largest cloud provider globally. AI workloads are the fastest-growing AWS segment. Every AI company eventually runs on AWS, Azure, or GCP — Amazon captures the compute spend upstream from the application layer.</div>
+<div class="roadmap-stock-item-impact">&#128200; AWS is the largest cloud provider globally. AI workloads are the fastest-growing AWS segment. Every AI company eventually runs on AWS, Azure, or GCP: Amazon captures the compute spend upstream from the application layer.</div>
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-lead">&#9650; LEADING · 90%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/googl/">GOOGL</a> 80% · <a href="/future/stocks/msft/">MSFT</a> 80%</span></div>
@@ -85,7 +85,7 @@ Amazon is the cloud layer on which AI runs. AWS is the largest cloud provider gl
 <span class="conf-badge conf-confirmed">Confirmed</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-desc">Low-latency broadband from LEO — Starlink (6000+ sats), OneWeb, Amazon Kuiper</div>
+<div class="roadmap-stock-item-desc">Low-latency broadband from LEO: Starlink (6000+ sats), OneWeb, Amazon Kuiper</div>
 <div class="roadmap-stock-item-impact">&#128200; Project Kuiper is Amazon's planned 3,200-satellite LEO broadband constellation, targeting underserved markets. Launch partners include ULA and Blue Origin. First commercial service expected 2025-2026. This is a multi-billion dollar bet on satellite internet that competes directly with Starlink.</div>
 
 

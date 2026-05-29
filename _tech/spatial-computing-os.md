@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Spatial Computing OS"
-subtitle: "OS for 3D spatial interfaces — Apple visionOS, Meta Horizon OS"
+subtitle: "OS for 3D spatial interfaces: Apple visionOS, Meta Horizon OS"
 category: XR
 stage: early_commercial
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/spatial-computing-os/
 
 ## What This Is
 
-OS for 3D spatial interfaces — Apple visionOS, Meta Horizon OS.
+OS for 3D spatial interfaces: Apple visionOS, Meta Horizon OS.
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
 
@@ -40,10 +40,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Clear Leader: [AAPL](/future/stocks/aapl/)** — 90% exposure confidence  
+**Clear Leader: [AAPL](/future/stocks/aapl/)**: 90% exposure confidence  
 **Position:** Direct pure-play  
 
-*visionOS — spatial computing OS for Vision Pro*
+*visionOS: spatial computing OS for Vision Pro*
 
 ## Timeline Intelligence
 
@@ -52,13 +52,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2025–2026** | 85% |
 | Commercially Monetizable | **2026** | 81% |
 
-High timing confidence (85%) — multiple corroborating sources confirm this timeline.
+High timing confidence (85%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [XR Enterprise Workflow Tools](/future/tech/xr-enterprise-workflow-tools/) — *enables*
+- [XR Enterprise Workflow Tools](/future/tech/xr-enterprise-workflow-tools/): *enables*
 
 ## Investment Exposure
 

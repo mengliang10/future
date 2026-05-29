@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "AI Inference at Edge"
-subtitle: "Running LLM/CV models on-device without cloud round-trip — phones, cars, robots"
+subtitle: "Running LLM/CV models on-device without cloud round-trip: phones, cars, robots"
 category: AI & Cloud
 stage: early_commercial
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/ai-inference-at-edge/
 
 ## What This Is
 
-Running LLM/CV models on-device without cloud round-trip — phones, cars, robots.
+Running LLM/CV models on-device without cloud round-trip: phones, cars, robots.
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **14 independent sources** on this technology.
 
@@ -45,19 +45,19 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2025–2028** | 75% |
 | Commercially Monetizable | **2026** | 76% |
 
-Moderate timing confidence (75%) — roadmap exists but execution risk remains.
+Moderate timing confidence (75%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [AI Hardware ASIC (TPU/NPU/Trainium)](/future/tech/ai-hardware-asic-tpunputrainium/) ✓ — *requires*
+- [AI Hardware ASIC (TPU/NPU/Trainium)](/future/tech/ai-hardware-asic-tpunputrainium/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [6G Extreme-MIMO (X-MIMO) 7 GHz Network](/future/tech/6g-extreme-mimo-x-mimo-7-ghz-network/) — *synergises with*
+- [6G Extreme-MIMO (X-MIMO) 7 GHz Network](/future/tech/6g-extreme-mimo-x-mimo-7-ghz-network/): *synergises with*
 
 ## Investment Exposure
 

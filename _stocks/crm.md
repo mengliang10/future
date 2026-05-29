@@ -8,7 +8,7 @@ categories: [AI & Cloud, Software]
 
 ## Investment Thesis
 
-Salesforce is deploying AI agents (Agentforce) across its enterprise CRM platform — the largest enterprise rollout of agentic AI to date.
+Salesforce is deploying AI agents (Agentforce) across its enterprise CRM platform: the largest enterprise rollout of agentic AI to date.
 
 ## Future Tech Exposure
 

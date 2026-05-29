@@ -40,7 +40,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [MBLY](/future/stocks/mbly/)** — 88% exposure confidence  
+**Clear Leader: [MBLY](/future/stocks/mbly/)**: 88% exposure confidence  
 **Position:** Direct pure-play  
 
 *EyeQ in 100M+ vehicles; sensor fusion leader*
@@ -52,7 +52,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Utah Array Invasive BCI"
-subtitle: "96-electrode cortical implant for motor neuron decoding — BrainGate research"
+subtitle: "96-electrode cortical implant for motor neuron decoding: BrainGate research"
 category: BCI
 stage: prototype
 confidence_label: Confirmed
@@ -19,7 +19,7 @@ permalink: /tech/utah-array-invasive-bci/
 
 ## What This Is
 
-96-electrode cortical implant for motor neuron decoding — BrainGate research. **Achieved.**
+96-electrode cortical implant for motor neuron decoding: BrainGate research. **Achieved.**
 
 Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **8 independent sources** on this technology.
 
@@ -43,7 +43,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **2033** | 73% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

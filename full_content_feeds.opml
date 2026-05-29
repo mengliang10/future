@@ -24,7 +24,7 @@
     <outline type="rss" text="Sales" title="Sales" xmlUrl="https://blog.hubspot.com/sales/rss.xml" htmlUrl="https://blog.hubspot.com/sales"/>
     <outline type="rss" text="Artificial Intelligence" title="Artificial Intelligence" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed/" htmlUrl="https://aws.amazon.com/blogs/machine-learning/"/>
     <outline type="rss" text="HawkSEM" title="HawkSEM" xmlUrl="https://hawksem.com/feed/" htmlUrl="https://hawksem.com/"/>
-    <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/"/>
+    <outline type="rss" text="Articles on Smashing Magazine - For Web Designers And Developers" title="Articles on Smashing Magazine - For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/"/>
     <outline type="rss" text="AWS Database Blog" title="AWS Database Blog" xmlUrl="https://aws.amazon.com/blogs/database/feed/" htmlUrl="https://aws.amazon.com/blogs/database/"/>
     <outline type="rss" text="Piwik PRO" title="Piwik PRO" xmlUrl="https://piwik.pro/feed/" htmlUrl="https://piwik.pro/"/>
     <outline type="rss" text="Data Viz Excellence, Everywhere" title="Data Viz Excellence, Everywhere" xmlUrl="https://visualisingdata.com/feed/" htmlUrl="https://visualisingdata.com/"/>

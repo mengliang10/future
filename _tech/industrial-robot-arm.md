@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Industrial Robot Arm"
-subtitle: "Programmable multi-axis manipulators for manufacturing — Fanuc, ABB, KUKA"
+subtitle: "Programmable multi-axis manipulators for manufacturing: Fanuc, ABB, KUKA"
 category: Robotics
 stage: mass_production
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/industrial-robot-arm/
 
 ## What This Is
 
-Programmable multi-axis manipulators for manufacturing — Fanuc, ABB, KUKA. **Achieved.**
+Programmable multi-axis manipulators for manufacturing: Fanuc, ABB, KUKA. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **30 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [ROK](/future/stocks/rok/)** — 70% exposure confidence  
+**Clear Leader: [ROK](/future/stocks/rok/)**: 70% exposure confidence  
 **Position:** Critical enabler / key supplier  
 
 *Automation PLC and software for robot control*
@@ -52,13 +52,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Collaborative Robot (Cobot)](/future/tech/collaborative-robot-cobot/) ✓ — *enables*
+- [Collaborative Robot (Cobot)](/future/tech/collaborative-robot-cobot/) ✓: *enables*
 
 ## Investment Exposure
 

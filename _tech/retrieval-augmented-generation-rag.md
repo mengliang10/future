@@ -21,7 +21,7 @@ permalink: /tech/retrieval-augmented-generation-rag/
 
 Retrieval-Augmented Generation (RAG). **Achieved.**
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **2 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **2 independent sources** on this technology.
 
 *Dominant enterprise AI deployment pattern; LangChain, LlamaIndex, all major LLM APIs support it*
 
@@ -44,20 +44,20 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **Ongoing / Deployed** | 0% |
 | Commercially Monetizable | **2035+** | 9% |
 
-Timeline not yet established — depends on research breakthroughs that are not yet predictable.
+Timeline not yet established: depends on research breakthroughs that are not yet predictable.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt-4-class-1t-params/) ✓ — *requires*
+- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt-4-class-1t-params/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Software Engineering Agent](/future/tech/ai-software-engineering-agent/) ✓ — *enables*
-- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/) — *enables*
+- [AI Software Engineering Agent](/future/tech/ai-software-engineering-agent/) ✓: *enables*
+- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/): *enables*
 
 ## Investment Exposure
 

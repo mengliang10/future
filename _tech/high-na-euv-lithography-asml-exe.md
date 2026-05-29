@@ -42,10 +42,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 
 ## Market Race
 
-**Clear Leader: [ASML](/future/stocks/asml/)** — 100% exposure confidence  
+**Clear Leader: [ASML](/future/stocks/asml/)**: 100% exposure confidence  
 **Position:** Direct pure-play  
 
-*EXE:5000 — only High-NA EUV supplier*
+*EXE:5000: only High-NA EUV supplier*
 
 ## Timeline Intelligence
 
@@ -54,13 +54,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2025–2027** | 85% |
 | Commercially Monetizable | **2027** | 73% |
 
-High timing confidence (85%) — multiple corroborating sources confirm this timeline.
+High timing confidence (85%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Quantum-Enhanced Semiconductor Design](/future/tech/quantum-enhanced-semiconductor-design/) — *synergises with*
+- [Quantum-Enhanced Semiconductor Design](/future/tech/quantum-enhanced-semiconductor-design/): *synergises with*
 
 ## Investment Exposure
 

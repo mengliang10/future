@@ -8,7 +8,7 @@ node_count: 1
 ---
 
 ## Investment Thesis
-Unity is the engine that builds most of the world's games, simulations, and XR experiences. 70% of the top mobile games run on Unity. Every automotive visualisation, AEC digital twin, and VR training simulation uses Unity. The bet: as the metaverse, XR, and spatial computing expand, Unity's engine becomes the substrate layer — the Windows of virtual worlds.
+Unity is the engine that builds most of the world's games, simulations, and XR experiences. 70% of the top mobile games run on Unity. Every automotive visualisation, AEC digital twin, and VR training simulation uses Unity. The bet: as the metaverse, XR, and spatial computing expand, Unity's engine becomes the substrate layer: the Windows of virtual worlds.
 
 ### Key Drivers
 - **Engine Market Share:** Dominant in mobile gaming; expanding in console and PC alongside Unreal.
@@ -30,7 +30,7 @@ Unity is the engine that builds most of the world's games, simulations, and XR e
 <span class="roadmap-stock-item-year">2027</span>
 </div>
 <div class="roadmap-stock-item-desc">Neural rendering replacing rasterization for photorealistic real-time graphics</div>
-<div class="roadmap-stock-item-impact">&#128200; Unity is developing AI-powered rendering tools that could reduce manual 3D content creation cost. The technology is prototype-stage — commercial impact is 2027+.</div>
+<div class="roadmap-stock-item-impact">&#128200; Unity is developing AI-powered rendering tools that could reduce manual 3D content creation cost. The technology is prototype-stage: commercial impact is 2027+.</div>
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 82%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>

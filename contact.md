@@ -5,9 +5,9 @@ subtitle: Research inquiries, partnership opportunities, and feedback.
 permalink: /contact/
 ---
 
-Whether you have a question about the analysis, want to discuss a research partnership, or have feedback on the site — reach out.
+Whether you have a question about the analysis, want to discuss a research partnership, or have feedback on the site: reach out.
 
-<!-- Formspree form — replace ACTION_URL with your Formspree endpoint after signing up at formspree.io -->
+<!-- Formspree form: replace ACTION_URL with your Formspree endpoint after signing up at formspree.io -->
 <form class="contact-form" action="https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID" method="POST">
 
   <div class="form-group">
@@ -42,5 +42,5 @@ Whether you have a question about the analysis, want to discuss a research partn
 
 <div class="callout callout-info" style="margin-top:1.5rem;">
   <span class="callout-icon">&#9432;</span>
-  <span>Powered by <strong>Formspree</strong> — free for basic use, no server required. Sign up at <a href="https://formspree.io" target="_blank">formspree.io</a> and replace the form action URL above with your endpoint.</span>
+  <span>Powered by <strong>Formspree</strong>: free for basic use, no server required. Sign up at <a href="https://formspree.io" target="_blank">formspree.io</a> and replace the form action URL above with your endpoint.</span>
 </div>

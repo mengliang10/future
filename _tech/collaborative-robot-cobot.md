@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Collaborative Robot (Cobot)"
-subtitle: "Force-limited robots working alongside humans safely — Universal Robots, Fanuc CRX"
+subtitle: "Force-limited robots working alongside humans safely: Universal Robots, Fanuc CRX"
 category: Robotics
 stage: mass_production
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/collaborative-robot-cobot/
 
 ## What This Is
 
-Force-limited robots working alongside humans safely — Universal Robots, Fanuc CRX. **Achieved.**
+Force-limited robots working alongside humans safely: Universal Robots, Fanuc CRX. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **20 independent sources** on this technology.
 
@@ -40,10 +40,10 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [TER](/future/stocks/ter/)** — 80% exposure confidence  
+**Clear Leader: [TER](/future/stocks/ter/)**: 80% exposure confidence  
 **Position:** Direct pure-play  
 
-*Owns Universal Robots — cobot market leader*
+*Owns Universal Robots: cobot market leader*
 
 ## Timeline Intelligence
 
@@ -52,7 +52,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

@@ -1,15 +1,15 @@
-# Enhancement 06 — Domain Migration
+# Enhancement 06: Domain Migration
 
 ## Problem
 
 GitHub Pages at `mengliang10.github.io/future` imposes structural constraints that become blocking at platform scale:
 
-- **Path prefix required** — every URL carries `/future/` which conflicts with clean domain architecture.
-- **One Pages site per repo** — multi-vertical consolidation (Enhancement 05) requires either separate repos or a custom domain host.
-- **No server-side logic** — no redirects beyond basic 404, no A/B routing, no edge personalisation.
-- **GitHub controls uptime** — outages are outside our control and unannounced.
-- **SEO signal dilution** — `github.io` domain carries its own authority; a custom domain builds authority for the property.
-- **Ad server requirement** — building an ad server (Enhancement 08) requires a real server, not a static CDN.
+- **Path prefix required**: every URL carries `/future/` which conflicts with clean domain architecture.
+- **One Pages site per repo**: multi-vertical consolidation (Enhancement 05) requires either separate repos or a custom domain host.
+- **No server-side logic**: no redirects beyond basic 404, no A/B routing, no edge personalisation.
+- **GitHub controls uptime**: outages are outside our control and unannounced.
+- **SEO signal dilution**: `github.io` domain carries its own authority; a custom domain builds authority for the property.
+- **Ad server requirement**: building an ad server (Enhancement 08) requires a real server, not a static CDN.
 
 ---
 
@@ -19,16 +19,16 @@ Own the domain. Host on a VPS behind Cloudflare. Serve multiple verticals (futur
 
 ```mermaid
 graph TD
-    subgraph DNS["DNS — Cloudflare"]
+    subgraph DNS["DNS: Cloudflare"]
         CF[Cloudflare\nDNS + CDN + WAF + SSL]
     end
 
-    subgraph VPS["VPS — Hetzner/DigitalOcean"]
+    subgraph VPS["VPS: Hetzner/DigitalOcean"]
         NGINX[Nginx Reverse Proxy]
         FT_SITE[Future Trends\nJekyll static build]
         MT_SITE[Martech Directory\nJekyll static build]
         ADS[Ad Server\nRevive / custom]
-        API[Research API\nFastAPI — future]
+        API[Research API\nFastAPI: future]
     end
 
     subgraph GH["GitHub"]
@@ -51,14 +51,14 @@ graph TD
 
 | Domain | Purpose | Priority |
 |--------|---------|----------|
-| `futuretrends.io` | Primary brand — tech intelligence | High |
+| `futuretrends.io` | Primary brand: tech intelligence | High |
 | `futuretrendsintel.io` | Fallback if primary taken | Medium |
-| `martech.io` | Martech directory brand | High (likely taken — check) |
+| `martech.io` | Martech directory brand | High (likely taken: check) |
 | `martechplatform.io` | Fallback for Martech | Medium |
 | `ads.futuretrends.io` | Ad server subdomain | Low (subdomain, free) |
 | `api.futuretrends.io` | API subdomain | Low (subdomain, free) |
 
-**Check availability and register domains before investing in SEO — domain authority accumulates from day of registration.**
+**Check availability and register domains before investing in SEO: domain authority accumulates from day of registration.**
 
 ---
 
@@ -73,10 +73,10 @@ graph LR
     end
 
     subgraph Specs["VPS Spec Requirements"]
-        CPU[2 vCPU — Jekyll build + Nginx]
-        RAM[4GB RAM — Jekyll + ad server + SQLite]
-        DISK[40GB SSD — site builds + DB + logs]
-        BW[2TB bandwidth — more than enough]
+        CPU[2 vCPU: Jekyll build + Nginx]
+        RAM[4GB RAM: Jekyll + ad server + SQLite]
+        DISK[40GB SSD: site builds + DB + logs]
+        BW[2TB bandwidth: more than enough]
     end
 ```
 
@@ -97,7 +97,7 @@ server {
     root /var/www/future-trends/_site;
     index index.html;
 
-    # Clean URLs — Jekyll generates them
+    # Clean URLs: Jekyll generates them
     location / {
         try_files $uri $uri/ $uri.html =404;
     }
@@ -155,11 +155,11 @@ sequenceDiagram
 | `mengliang10.github.io/future/stocks/nvda/` | `futuretrends.io/stocks/nvda/` |
 | `mengliang10.github.io/future/sectors/ai/` | `futuretrends.io/sectors/ai/` |
 
-Path structure is preserved — only the domain and prefix change. Jekyll `permalink` values in front matter drop the `/future/` prefix. This is a one-line config change.
+Path structure is preserved: only the domain and prefix change. Jekyll `permalink` values in front matter drop the `/future/` prefix. This is a one-line config change.
 
 ---
 
-## CI/CD — GitHub Actions to VPS
+## CI/CD: GitHub Actions to VPS
 
 Replace the current GitHub Pages build with a GitHub Actions workflow that builds Jekyll and rsyncs the `_site/` output to the VPS:
 
@@ -245,7 +245,7 @@ flowchart TD
 
 ## Open Questions
 
-- `martech.io` is almost certainly registered — run a WHOIS check. If taken, consider `martechplatform.io` or subdomains off `futuretrends.io`.
+- `martech.io` is almost certainly registered: run a WHOIS check. If taken, consider `martechplatform.io` or subdomains off `futuretrends.io`.
 - Should both sites share one VPS or separate? Start with one VPS, add more as traffic requires.
 - Cloudflare free tier provides SSL and DDoS protection; does the Pro tier ($20/mo) add meaningful value at current traffic levels? Probably not yet.
 - Keep GitHub Pages as a free staging environment? Deploy main branch to VPS, preview branches to GitHub Pages.

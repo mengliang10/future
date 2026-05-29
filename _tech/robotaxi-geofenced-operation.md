@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Robotaxi (Geofenced Operation)"
-subtitle: "Driverless taxi in limited mapped area — Waymo One SF, Baidu Apollo Go"
+subtitle: "Driverless taxi in limited mapped area: Waymo One SF, Baidu Apollo Go"
 category: Autonomous
 stage: early_commercial
 confidence_label: Confirmed
@@ -21,7 +21,7 @@ permalink: /tech/robotaxi-geofenced-operation/
 
 ## What This Is
 
-Driverless taxi in limited mapped area — Waymo One SF, Baidu Apollo Go. **Achieved.**
+Driverless taxi in limited mapped area: Waymo One SF, Baidu Apollo Go. **Achieved.**
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **3 independent sources** on this technology.
 
@@ -40,10 +40,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Clear Leader: [GOOGL](/future/stocks/googl/)** — 90% exposure confidence  
+**Clear Leader: [GOOGL](/future/stocks/googl/)**: 90% exposure confidence  
 **Position:** Direct pure-play  
 
-*Waymo One — most mature robotaxi service*
+*Waymo One: most mature robotaxi service*
 
 ## Timeline Intelligence
 
@@ -52,20 +52,20 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now–2027** | 88% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/) ✓ — *requires*
-- [High-Definition Mapping (HD Map)](/future/tech/high-definition-mapping-hd-map/) ✓ — *requires*
+- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/) ✓: *requires*
+- [High-Definition Mapping (HD Map)](/future/tech/high-definition-mapping-hd-map/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Robotaxi (Full City, No Safety Driver)](/future/tech/robotaxi-full-city-no-safety-driver/) — *enables*
+- [Robotaxi (Full City, No Safety Driver)](/future/tech/robotaxi-full-city-no-safety-driver/): *enables*
 
 ## Investment Exposure
 

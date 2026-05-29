@@ -1,5 +1,5 @@
 """
-fetch_stocks.py — runs hourly via GitHub Actions
+fetch_stocks.py - runs hourly via GitHub Actions
 Fetches price data using yfinance and technical signals using tradingview-ta,
 writes to assets/data/stocks.json so the static site can read it.
 """

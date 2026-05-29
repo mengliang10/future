@@ -43,13 +43,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [ADAS Level 2 (Partial Automation)](/future/tech/adas-level-2-partial-automation/) ✓ — *enables*
+- [ADAS Level 2 (Partial Automation)](/future/tech/adas-level-2-partial-automation/) ✓: *enables*
 
 ## Investment Exposure
 

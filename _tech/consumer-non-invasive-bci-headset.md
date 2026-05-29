@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Consumer Non-Invasive BCI Headset"
-subtitle: "Mass-market EEG/fNIRS headsets for gaming, focus, meditation — Emotiv, Muse"
+subtitle: "Mass-market EEG/fNIRS headsets for gaming, focus, meditation: Emotiv, Muse"
 category: BCI
 stage: early_commercial
 confidence_label: Confident
@@ -19,7 +19,7 @@ permalink: /tech/consumer-non-invasive-bci-headset/
 
 ## What This Is
 
-Mass-market EEG/fNIRS headsets for gaming, focus, meditation — Emotiv, Muse. **Achieved.**
+Mass-market EEG/fNIRS headsets for gaming, focus, meditation: Emotiv, Muse. **Achieved.**
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 90% |
 | Commercially Monetizable | **Now–2027** | 84% |
 
-High timing confidence (90%) — multiple corroborating sources confirm this timeline.
+High timing confidence (90%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Neuro-Personalised Advertising](/future/tech/neuro-personalised-advertising/) — *enables*
+- [Neuro-Personalised Advertising](/future/tech/neuro-personalised-advertising/): *enables*
 
 ## Investment Exposure
 

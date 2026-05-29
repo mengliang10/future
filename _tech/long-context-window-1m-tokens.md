@@ -21,7 +21,7 @@ permalink: /tech/long-context-window-1m-tokens/
 
 Long Context Window (1M+ tokens). **Achieved.**
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **2 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **2 independent sources** on this technology.
 
 *Gemini 1.5 Pro (1M), Claude 3 (200k), GPT-4 Turbo (128k). Full codebase / document reasoning now viable*
 
@@ -44,21 +44,21 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **Ongoing / Deployed** | 0% |
 | Commercially Monetizable | **2035+** | 9% |
 
-Timeline not yet established — depends on research breakthroughs that are not yet predictable.
+Timeline not yet established: depends on research breakthroughs that are not yet predictable.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Transformer Architecture](/future/tech/transformer-architecture/) ✓ — *requires*
+- [Transformer Architecture](/future/tech/transformer-architecture/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Agent Persistent Memory](/future/tech/ai-agent-persistent-memory/) — *enables*
-- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/) — *accelerates*
-- [AI Software Engineering Agent](/future/tech/ai-software-engineering-agent/) ✓ — *accelerates*
+- [AI Agent Persistent Memory](/future/tech/ai-agent-persistent-memory/): *enables*
+- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/): *accelerates*
+- [AI Software Engineering Agent](/future/tech/ai-software-engineering-agent/) ✓: *accelerates*
 
 ## Investment Exposure
 

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Technology Intelligence
-subtitle: 212 tracked future technologies — vetted, confidence-rated, and linked to investable stocks.
+subtitle: 212 tracked future technologies: vetted, confidence-rated, and linked to investable stocks.
 permalink: /tech/
 ---
 
 <div class="callout callout-info">
   <span class="callout-icon">&#127775;</span>
-  <span>Every technology here is tracked with independent source evidence, a confidence label, and stock linkages. Click any technology for full analysis — stage, timeline, prerequisites, and what it unlocks.</span>
+  <span>Every technology here is tracked with independent source evidence, a confidence label, and stock linkages. Click any technology for full analysis: stage, timeline, prerequisites, and what it unlocks.</span>
 </div>
 
 <div class="tech-index-controls">
@@ -66,7 +66,7 @@ permalink: /tech/
       <tr>
 <td><a href="/future/tech/ai-software-engineering-agent/">AI Software Engineering Agent</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">9</td>
 <td style="white-space:nowrap;"><a href="/future/stocks/msft/" class="race-badge race-lead" style="font-size:0.65rem;text-decoration:none;color:inherit;">MSFT&middot;90%</a></td>
 <td><a href="/future/stocks/amzn/" class="ticker-badge" style="font-size:0.68rem;">AMZN</a> <a href="/future/stocks/msft/" class="ticker-badge" style="font-size:0.68rem;">MSFT</a> <a href="/future/stocks/pltr/" class="ticker-badge" style="font-size:0.68rem;">PLTR</a></td>
@@ -75,77 +75,77 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">37</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/retrieval-augmented-generation-rag/">Retrieval-Augmented Generation (RAG)</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">2</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/mixture-of-experts-architecture/">Mixture-of-Experts Architecture</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">32</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/multimodal-foundation-model/">Multimodal Foundation Model</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">22</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ai-inference-at-edge/">AI Inference at Edge</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2025</td>
 <td style="font-size:0.78rem;color:var(--text-3);">14</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/">AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2026</td>
 <td style="font-size:0.78rem;color:var(--text-3);">35</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/neural-scaling-laws-established/">Neural Scaling Laws (Established)</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">13</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/llm-100t-parameter-model/">LLM 100T+ Parameter Model</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2026</td>
 <td style="font-size:0.78rem;color:var(--text-3);">32</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/artificial-general-intelligence/">Artificial General Intelligence</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2028</td>
 <td style="font-size:0.78rem;color:var(--text-3);">51</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/rlhf-constitutional-ai-alignment/">RLHF / Constitutional AI Alignment</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">58</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/open-source-frontier-llm-gpt-4o1-class/">Open-Source Frontier LLM (GPT-4/o1 Class)</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2025</td>
 <td style="font-size:0.78rem;color:var(--text-3);">82</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/gpu-compute-cluster/">GPU Compute Cluster</a></td>
@@ -173,49 +173,49 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2025</td>
 <td style="font-size:0.78rem;color:var(--text-3);">15</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ai-assisted-chip-design-eda-ai/">AI-Assisted Chip Design (EDA AI)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2026</td>
 <td style="font-size:0.78rem;color:var(--text-3);">69</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ai-materials-discovery/">AI Materials Discovery</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2028</td>
 <td style="font-size:0.78rem;color:var(--text-3);">19</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/distributed-training-1000-gpus/">Distributed Training (1000+ GPUs)</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">19</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/inference-time-compute-scaling-test-time-rl/">Inference-Time Compute Scaling (Test-Time RL)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2025</td>
 <td style="font-size:0.78rem;color:var(--text-3);">134</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ai-agent-swarms/">AI Agent Swarms</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2029</td>
 <td style="font-size:0.78rem;color:var(--text-3);">20</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/1mw-per-rack-ai-cluster/">1MW+ Per Rack AI Cluster</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2026</td>
 <td style="font-size:0.78rem;color:var(--text-3);">13</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/cloud-hyperscaler-infrastructure/">Cloud Hyperscaler Infrastructure</a></td>
@@ -227,23 +227,23 @@ permalink: /tech/
 </tr><tr>
 <td><a href="/future/tech/synthetic-training-data-generation/">Synthetic Training Data Generation</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">12</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ai-world-model/">AI World Model</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2028</td>
 <td style="font-size:0.78rem;color:var(--text-3);">54</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/transformer-architecture/">Transformer Architecture</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">12</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/autonomous-ai-agent/">Autonomous AI Agent</a></td>
@@ -257,14 +257,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">13</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/artificial-superintelligence-asi/">Artificial Superintelligence (ASI)</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2042</td>
 <td style="font-size:0.78rem;color:var(--text-3);">12</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ai-hardware-asic-tpunputrainium/">AI Hardware ASIC (TPU/NPU/Trainium)</a></td>
@@ -276,16 +276,16 @@ permalink: /tech/
 </tr><tr>
 <td><a href="/future/tech/ai-agent-persistent-memory/">AI Agent Persistent Memory</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">1</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/long-context-window-1m-tokens/">Long Context Window (1M+ tokens)</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">2</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr>
     </tbody>
@@ -335,19 +335,19 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">10</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/zero-accident-transport-network/">Zero-Accident Transport Network</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2042</td>
 <td style="font-size:0.78rem;color:var(--text-3);">33</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/robotaxi-geofenced-operation/">Robotaxi (Geofenced Operation)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">3</td>
 <td style="white-space:nowrap;"><a href="/future/stocks/googl/" class="race-badge race-lead" style="font-size:0.65rem;text-decoration:none;color:inherit;">GOOGL&middot;90%</a></td>
 <td><a href="/future/stocks/googl/" class="ticker-badge" style="font-size:0.68rem;">GOOGL</a></td>
@@ -356,7 +356,7 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">35</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/adas-level-2-partial-automation/">ADAS Level 2 (Partial Automation)</a></td>
@@ -368,9 +368,9 @@ permalink: /tech/
 </tr><tr>
 <td><a href="/future/tech/adas-level-3-conditional-highway/">ADAS Level 3 (Conditional Highway)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">10</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/av-sensor-fusion-camlidarradar/">AV Sensor Fusion (Cam+LiDAR+Radar)</a></td>
@@ -391,14 +391,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2027</td>
 <td style="font-size:0.78rem;color:var(--text-3);">5</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/adaptive-cruise-control-acc/">Adaptive Cruise Control (ACC)</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">19</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/autonomous-trucking-highway-odd/">Autonomous Trucking (Highway ODD)</a></td>
@@ -440,28 +440,28 @@ permalink: /tech/
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2046</td>
 <td style="font-size:0.78rem;color:var(--text-3);">20</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ai-neural-signal-decoder/">AI Neural Signal Decoder</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2025</td>
 <td style="font-size:0.78rem;color:var(--text-3);">25</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/bidirectional-bci-read-write/">Bidirectional BCI (Read + Write)</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">10</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/memory-augmentation-via-bci/">Memory Augmentation via BCI</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2036</td>
 <td style="font-size:0.78rem;color:var(--text-3);">12</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/deep-brain-stimulation-dbs/">Deep Brain Stimulation (DBS)</a></td>
@@ -475,35 +475,35 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">1</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/consumer-non-invasive-bci-headset/">Consumer Non-Invasive BCI Headset</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">4</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/bci-speech-decoding/">BCI Speech Decoding</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2025</td>
 <td style="font-size:0.78rem;color:var(--text-3);">2</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/utah-array-invasive-bci/">Utah Array Invasive BCI</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">8</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/bci-motor-cortex-decoding/">BCI Motor Cortex Decoding</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">7</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr>
     </tbody>
@@ -539,42 +539,42 @@ permalink: /tech/
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2029</td>
 <td style="font-size:0.78rem;color:var(--text-3);">4</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/car-t-cell-therapy/">CAR-T Cell Therapy</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">7</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/partial-biological-aging-reversal/">Partial Biological Aging Reversal</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2040</td>
 <td style="font-size:0.78rem;color:var(--text-3);">15</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/gene-therapy-rare-disease-fda-approved/">Gene Therapy (Rare Disease, FDA Approved)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">1</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/quantum-protein-folding-solver/">Quantum Protein Folding Solver</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">83</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/organ-on-chip-microphysiological/">Organ-on-Chip (Microphysiological)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2027</td>
 <td style="font-size:0.78rem;color:var(--text-3);">12</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/next-generation-sequencing-ngs/">Next-Generation Sequencing (NGS)</a></td>
@@ -602,12 +602,12 @@ permalink: /tech/
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2026</td>
 <td style="font-size:0.78rem;color:var(--text-3);">1</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/crispr-base-editing/">CRISPR Base Editing</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">5</td>
 <td style="white-space:nowrap;"><a href="/future/stocks/beam/" class="race-badge race-lead" style="font-size:0.65rem;text-decoration:none;color:inherit;">BEAM&middot;95%</a></td>
 <td><a href="/future/stocks/beam/" class="ticker-badge" style="font-size:0.68rem;">BEAM</a></td>
@@ -616,14 +616,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2044</td>
 <td style="font-size:0.78rem;color:var(--text-3);">1</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/crispr-prime-editing/">CRISPR Prime Editing</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2026</td>
 <td style="font-size:0.78rem;color:var(--text-3);">16</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/mrna-vaccine-therapeutic-platform/">mRNA Vaccine / Therapeutic Platform</a></td>
@@ -644,14 +644,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">3</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/partial-epigenetic-reprogramming/">Partial Epigenetic Reprogramming</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2033</td>
 <td style="font-size:0.78rem;color:var(--text-3);">3</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/crispr-cas9-gene-editing/">CRISPR-Cas9 Gene Editing</a></td>
@@ -693,49 +693,49 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">12</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/retail-cbdc-central-bank-digital/">Retail CBDC (Central Bank Digital)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2028</td>
 <td style="font-size:0.78rem;color:var(--text-3);">2</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/proof-of-stake-consensus/">Proof-of-Stake Consensus</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">15</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/cross-chain-interoperability-protocol/">Cross-Chain Interoperability Protocol</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2027</td>
 <td style="font-size:0.78rem;color:var(--text-3);">15</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/decentralized-identity-did-ssi/">Decentralized Identity (DID / SSI)</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2028</td>
 <td style="font-size:0.78rem;color:var(--text-3);">2</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/web3-mass-consumer-adoption/">Web3 Mass Consumer Adoption</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2028</td>
 <td style="font-size:0.78rem;color:var(--text-3);">19</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/zero-knowledge-proof-zkp/">Zero-Knowledge Proof (ZKP)</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">2</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/bitcoin-proof-of-work-blockchain/">Bitcoin Proof-of-Work Blockchain</a></td>
@@ -749,14 +749,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2025</td>
 <td style="font-size:0.78rem;color:var(--text-3);">3</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/cryptographic-hash-sha-256/">Cryptographic Hash (SHA-256)</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">5</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr>
     </tbody>
@@ -792,7 +792,7 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2028</td>
 <td style="font-size:0.78rem;color:var(--text-3);">29</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr>
     </tbody>
@@ -828,14 +828,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">6</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/quantum-key-distribution-network/">Quantum Key Distribution Network</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">89</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/edr-endpoint-detection-response/">EDR (Endpoint Detection & Response)</a></td>
@@ -854,9 +854,9 @@ permalink: /tech/
 </tr><tr>
 <td><a href="/future/tech/ai-autonomous-security-operations-centre/">AI-Autonomous Security Operations Centre</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">38</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ai-driven-threat-detection/">AI-Driven Threat Detection</a></td>
@@ -877,21 +877,21 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">14</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/secure-multi-party-computation/">Secure Multi-Party Computation</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">12</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/confidential-computing-tee/">Confidential Computing (TEE)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2019</td>
 <td style="font-size:0.78rem;color:var(--text-3);">16</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/xdr-extended-detection-response/">XDR (Extended Detection & Response)</a></td>
@@ -905,14 +905,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">5</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/tlsssl-encrypted-transport/">TLS/SSL Encrypted Transport</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">7</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr>
     </tbody>
@@ -948,14 +948,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2029</td>
 <td style="font-size:0.78rem;color:var(--text-3);">7</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/commercial-fusion-power-plant/">Commercial Fusion Power Plant</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2044</td>
 <td style="font-size:0.78rem;color:var(--text-3);">25</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/small-modular-reactor-300mwe/">Small Modular Reactor (<300MWe)</a></td>
@@ -976,7 +976,7 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2036</td>
 <td style="font-size:0.78rem;color:var(--text-3);">20</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/grid-scale-battery-storage-gwh/">Grid-Scale Battery Storage (GWh)</a></td>
@@ -988,16 +988,16 @@ permalink: /tech/
 </tr><tr>
 <td><a href="/future/tech/autonomous-nuclear-plant-operations/">Autonomous Nuclear Plant Operations</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">89</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/green-hydrogen-2kg-via-electrolysis/">Green Hydrogen (<$2/kg via Electrolysis)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">5</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/floating-offshore-wind/">Floating Offshore Wind</a></td>
@@ -1023,51 +1023,51 @@ permalink: /tech/
 </tr><tr>
 <td><a href="/future/tech/hydrogen-fuel-cell-pem/">Hydrogen Fuel Cell (PEM)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">20</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ai-managed-smart-grid/">AI-Managed Smart Grid</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2025</td>
 <td style="font-size:0.78rem;color:var(--text-3);">8</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/direct-air-carbon-capture-dac/">Direct Air Carbon Capture (DAC)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2028</td>
 <td style="font-size:0.78rem;color:var(--text-3);">7</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/solid-state-battery/">Solid-State Battery</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2029</td>
 <td style="font-size:0.78rem;color:var(--text-3);">7</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/nuclear-fusion-net-energy-gain/">Nuclear Fusion Net Energy Gain</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">40</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/enhanced-geothermal-systems-egs/">Enhanced Geothermal Systems (EGS)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">9</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/onshore-wind-turbine/">Onshore Wind Turbine</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">15</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr>
     </tbody>
@@ -1103,14 +1103,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">1</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ai-ad-creative-generation/">AI Ad Creative Generation</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">10</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/customer-data-platform-cdp/">Customer Data Platform (CDP)</a></td>
@@ -1124,7 +1124,7 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">7</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/programmatic-display-advertising/">Programmatic Display Advertising</a></td>
@@ -1152,21 +1152,21 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">1</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/neuro-personalised-advertising/">Neuro-Personalised Advertising</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2045</td>
 <td style="font-size:0.78rem;color:var(--text-3);">4</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/search-engine-advertising-semppc/">Search Engine Advertising (SEM/PPC)</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">22</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr>
     </tbody>
@@ -1200,14 +1200,14 @@ permalink: /tech/
       <tr>
 <td><a href="/future/tech/trapped-ion-qubit/">Trapped Ion Qubit</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">3</td>
 <td style="white-space:nowrap;"><a href="/future/stocks/ionq/" class="race-badge race-lead" style="font-size:0.65rem;text-decoration:none;color:inherit;">IONQ&middot;95%</a></td>
 <td><a href="/future/stocks/hon/" class="ticker-badge" style="font-size:0.68rem;">HON</a> <a href="/future/stocks/ionq/" class="ticker-badge" style="font-size:0.68rem;">IONQ</a></td>
 </tr><tr>
 <td><a href="/future/tech/superconducting-qubit/">Superconducting Qubit</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">25</td>
 <td style="white-space:nowrap;"><a href="/future/stocks/rgti/" class="race-badge race-lead" style="font-size:0.65rem;text-decoration:none;color:inherit;">RGTI&middot;90%</a></td>
 <td><a href="/future/stocks/ibm/" class="ticker-badge" style="font-size:0.68rem;">IBM</a> <a href="/future/stocks/intc/" class="ticker-badge" style="font-size:0.68rem;">INTC</a> <a href="/future/stocks/rgti/" class="ticker-badge" style="font-size:0.68rem;">RGTI</a></td>
@@ -1216,14 +1216,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">98</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/pqc-enterprise-deployment/">PQC Enterprise Deployment</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2027</td>
 <td style="font-size:0.78rem;color:var(--text-3);">7</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/quantum-error-correction-surface-code/">Quantum Error Correction (Surface Code)</a></td>
@@ -1237,54 +1237,54 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">29</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/quantum-computer-1m-logical-qubits/">Quantum Computer: 1M Logical Qubits</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2045</td>
 <td style="font-size:0.78rem;color:var(--text-3);">50</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/quantum-gravity-sensor/">Quantum Gravity Sensor</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2029</td>
 <td style="font-size:0.78rem;color:var(--text-3);">28</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/topological-qubit-majorana-fermion/">Topological Qubit (Majorana Fermion)</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">5</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/quantum-drug-molecular-simulation/">Quantum Drug Molecular Simulation</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2037</td>
 <td style="font-size:0.78rem;color:var(--text-3);">31</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/nist-post-quantum-crypto-standard/">NIST Post-Quantum Crypto Standard</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">20</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/photonic-qubit/">Photonic Qubit</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2028</td>
 <td style="font-size:0.78rem;color:var(--text-3);">67</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/quantum-supremacy-narrow-task/">Quantum Supremacy (Narrow Task)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">65</td>
 <td style="white-space:nowrap;"><a href="/future/stocks/googl/" class="race-badge race-lead" style="font-size:0.65rem;text-decoration:none;color:inherit;">GOOGL&middot;90%</a></td>
 <td><a href="/future/stocks/googl/" class="ticker-badge" style="font-size:0.68rem;">GOOGL</a></td>
@@ -1336,56 +1336,56 @@ permalink: /tech/
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2027</td>
 <td style="font-size:0.78rem;color:var(--text-3);">37</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/post-scarcity-robotic-manufacturing/">Post-Scarcity Robotic Manufacturing</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2050</td>
 <td style="font-size:0.78rem;color:var(--text-3);">37</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/autonomous-drone-delivery/">Autonomous Drone Delivery</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2025</td>
 <td style="font-size:0.78rem;color:var(--text-3);">10</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/quadruped-robot-locomotion/">Quadruped Robot Locomotion</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">17</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/sim-to-real-transfer/">Sim-to-Real Transfer</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2026</td>
 <td style="font-size:0.78rem;color:var(--text-3);">23</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/dexterous-robot-hand/">Dexterous Robot Hand</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2026</td>
 <td style="font-size:0.78rem;color:var(--text-3);">41</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/general-purpose-humanoid-robot/">General-Purpose Humanoid Robot</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2035</td>
 <td style="font-size:0.78rem;color:var(--text-3);">62</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/cv-via-deep-learning-yolovit/">CV via Deep Learning (YOLO/ViT)</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">14</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/robot-assisted-surgery/">Robot-Assisted Surgery</a></td>
@@ -1420,14 +1420,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">7</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/humanoid-robot-lab-controlled-demo/">Humanoid Robot (Lab / Controlled Demo)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">9</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr>
     </tbody>
@@ -1490,28 +1490,28 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2029</td>
 <td style="font-size:0.78rem;color:var(--text-3);">26</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/chiplet-disaggregated-architecture/">Chiplet / Disaggregated Architecture</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">13</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/gan-power-semiconductors/">GaN Power Semiconductors</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">15</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/quantum-enhanced-semiconductor-design/">Quantum-Enhanced Semiconductor Design</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">182</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/1nm-a14-process-node/">1nm / A14 Process Node</a></td>
@@ -1532,7 +1532,7 @@ permalink: /tech/
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2033</td>
 <td style="font-size:0.78rem;color:var(--text-3);">39</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/silicon-photonics-interconnect/">Silicon Photonics Interconnect</a></td>
@@ -1546,12 +1546,12 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">3</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/gate-all-around-fet-mbcfetnsfet/">Gate-All-Around FET (MBCFET/NSFET)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">1</td>
 <td style="white-space:nowrap;"><a href="/future/stocks/tsm/" class="race-badge race-lead" style="font-size:0.65rem;text-decoration:none;color:inherit;">TSM&middot;95%</a></td>
 <td><a href="/future/stocks/intc/" class="ticker-badge" style="font-size:0.68rem;">INTC</a> <a href="/future/stocks/tsm/" class="ticker-badge" style="font-size:0.68rem;">TSM</a></td>
@@ -1560,21 +1560,21 @@ permalink: /tech/
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">5</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/hbm4-memory/">HBM4 Memory</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2026</td>
 <td style="font-size:0.78rem;color:var(--text-3);">1</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/compute-in-memory-cim/">Compute-in-Memory (CIM)</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2029</td>
 <td style="font-size:0.78rem;color:var(--text-3);">7</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr>
     </tbody>
@@ -1608,7 +1608,7 @@ permalink: /tech/
       <tr>
 <td><a href="/future/tech/commercial-lunar-lander/">Commercial Lunar Lander</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">5</td>
 <td style="white-space:nowrap;"><a href="/future/stocks/lunr/" class="race-badge race-lead" style="font-size:0.65rem;text-decoration:none;color:inherit;">LUNR&middot;90%</a></td>
 <td><a href="/future/stocks/lunr/" class="ticker-badge" style="font-size:0.68rem;">LUNR</a></td>
@@ -1624,49 +1624,49 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">13</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/heavy-lift-rocket-100t-to-leo/">Heavy Lift Rocket (100t to LEO)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2026</td>
 <td style="font-size:0.78rem;color:var(--text-3);">4</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/rocket-first-stage-reusability/">Rocket First-Stage Reusability</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">4</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/commercial-suborbital-space-tourism/">Commercial Suborbital Space Tourism</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">3</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/autonomous-lunarmars-rover-fleet/">Autonomous Lunar/Mars Rover Fleet</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">76</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/asteroid-mining-demonstration/">Asteroid Mining Demonstration</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2040</td>
 <td style="font-size:0.78rem;color:var(--text-3);">20</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/in-space-manufacturing/">In-Space Manufacturing</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">19</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/small-satellite-rideshare-launch/">Small Satellite Rideshare Launch</a></td>
@@ -1680,21 +1680,21 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">15</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/liquid-rocket-propulsion-rp-1lox/">Liquid Rocket Propulsion (RP-1/LOX)</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">2</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/space-based-solar-power-sbsp/">Space-Based Solar Power (SBSP)</a></td>
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2035</td>
 <td style="font-size:0.78rem;color:var(--text-3);">12</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/leo-satellite-internet-constellation/">LEO Satellite Internet Constellation</a></td>
@@ -1708,14 +1708,14 @@ permalink: /tech/
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2030</td>
 <td style="font-size:0.78rem;color:var(--text-3);">5</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/global-satellite-internet-coverage/">Global Satellite Internet Coverage</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2025</td>
 <td style="font-size:0.78rem;color:var(--text-3);">7</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr>
     </tbody>
@@ -1764,21 +1764,21 @@ permalink: /tech/
 <td><span class="conf-badge conf-speculative">Speculative</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2039</td>
 <td style="font-size:0.78rem;color:var(--text-3);">1</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/neural-radiance-field-nerf-3dgs/">Neural Radiance Field (NeRF / 3DGS)</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">2</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/xr-enterprise-workflow-tools/">XR Enterprise Workflow Tools</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2025</td>
 <td style="font-size:0.78rem;color:var(--text-3);">13</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/open-interoperable-metaverse/">Open Interoperable Metaverse</a></td>
@@ -1790,30 +1790,30 @@ permalink: /tech/
 </tr><tr>
 <td><a href="/future/tech/ar-smart-glasses-industrial/">AR Smart Glasses (Industrial)</a></td>
 <td><span class="conf-badge conf-confident">Confident</span></td>
-<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">—</td>
+<td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">-</td>
 <td style="font-size:0.78rem;color:var(--text-3);">6</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/haptic-feedback-glove/">Haptic Feedback Glove</a></td>
 <td><span class="conf-badge conf-researching">Researching</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">2029</td>
 <td style="font-size:0.78rem;color:var(--text-3);">2</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/oled-display-panel/">OLED Display Panel</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">3</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/hand-gesture-tracking/">Hand / Gesture Tracking</a></td>
 <td><span class="conf-badge conf-confirmed">Confirmed</span></td>
 <td style="font-family:var(--font-mono);font-size:0.8rem;color:var(--text-3);">Deployed</td>
 <td style="font-size:0.78rem;color:var(--text-3);">6</td>
-<td style="font-size:0.78rem;color:var(--text-3);">—</td>
+<td style="font-size:0.78rem;color:var(--text-3);">-</td>
 <td></td>
 </tr><tr>
 <td><a href="/future/tech/ar-smart-glasses-consumer-daily/">AR Smart Glasses (Consumer / Daily)</a></td>

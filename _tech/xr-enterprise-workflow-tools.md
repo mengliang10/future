@@ -43,7 +43,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2025–2027** | 85% |
 | Commercially Monetizable | **2026** | 81% |
 
-High timing confidence (85%) — multiple corroborating sources confirm this timeline.
+High timing confidence (85%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

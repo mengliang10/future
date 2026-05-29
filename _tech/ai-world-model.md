@@ -45,7 +45,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2031** | 55% |
 | Commercially Monetizable | **2031** | 51% |
 
-Moderate timing confidence (55%) — roadmap exists but execution risk remains.
+Moderate timing confidence (55%): roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

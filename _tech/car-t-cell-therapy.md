@@ -43,13 +43,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now–2027** | 88% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Cancer Elimination (Most Types)](/future/tech/cancer-elimination-most-types/) — *enables*
+- [Cancer Elimination (Most Types)](/future/tech/cancer-elimination-most-types/): *enables*
 
 ## Investment Exposure
 

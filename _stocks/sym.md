@@ -8,7 +8,7 @@ node_count: 1
 ---
 
 ## Investment Thesis
-Symbotic builds AI-powered robotic warehouse automation systems — dense-storage autonomous mobile robots (AMRs) plus AI-driven software to run fully automated case-picking warehouses. Walmart is its anchor customer and holds a 12% stake. The system replaces human case-picking workers with robots operating at 2-3x speed in temperature-controlled, high-density storage environments. Revenue is lumpy — large multi-year installation contracts recognised over time. Key risk: Symbotic runs a negative-margin hardware installation business today; the long-term value is in the recurring software/SaaS layer after installations complete. Timeline risk: installation complexity has caused delays and cost overruns with Walmart.
+Symbotic builds AI-powered robotic warehouse automation systems: dense-storage autonomous mobile robots (AMRs) plus AI-driven software to run fully automated case-picking warehouses. Walmart is its anchor customer and holds a 12% stake. The system replaces human case-picking workers with robots operating at 2-3x speed in temperature-controlled, high-density storage environments. Revenue is lumpy: large multi-year installation contracts recognised over time. Key risk: Symbotic runs a negative-margin hardware installation business today; the long-term value is in the recurring software/SaaS layer after installations complete. Timeline risk: installation complexity has caused delays and cost overruns with Walmart.
 
 ## Future Tech Roadmap
 
@@ -20,7 +20,7 @@ Symbotic builds AI-powered robotic warehouse automation systems — dense-storag
 <span class="conf-badge conf-researching">Researching</span>
 <span class="roadmap-stock-item-year">2027</span>
 </div>
-<div class="roadmap-stock-item-impact">&#128200; Symbotic systems are operating in Walmart DCs across the US. This is early commercial deployment at scale — not a pilot, not mass market yet.</div>
+<div class="roadmap-stock-item-impact">&#128200; Symbotic systems are operating in Walmart DCs across the US. This is early commercial deployment at scale: not a pilot, not mass market yet.</div>
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 88%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>

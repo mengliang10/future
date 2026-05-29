@@ -30,7 +30,7 @@ AMD is the only credible alternative to NVIDIA in the AI accelerator market. The
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
 <div class="roadmap-stock-item-desc">Large-scale GPU arrays enabling parallel matrix ops for deep learning training</div>
-<div class="roadmap-stock-item-impact">&#128200; NVIDIA is the GPU. Every AI workload — training, inference, simulation — runs on NVIDIA silicon. This is the core revenue driver, not a future bet.</div>
+<div class="roadmap-stock-item-impact">&#128200; NVIDIA is the GPU. Every AI workload: training, inference, simulation: runs on NVIDIA silicon. This is the core revenue driver, not a future bet.</div>
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-trail">&#9660; #6 · 65%</span> <span class="roadmap-rivals-sep">leader: <a href="/future/stocks/nvda/">NVDA</a> 90%</span></div>

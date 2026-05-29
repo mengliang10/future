@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "EDR (Endpoint Detection & Response)"
-subtitle: "Continuous endpoint monitoring and AI threat detection — CrowdStrike, SentinelOne"
+subtitle: "Continuous endpoint monitoring and AI threat detection: CrowdStrike, SentinelOne"
 category: Cybersecurity
 stage: mass_production
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/edr-endpoint-detection-response/
 
 ## What This Is
 
-Continuous endpoint monitoring and AI threat detection — CrowdStrike, SentinelOne. **Achieved.**
+Continuous endpoint monitoring and AI threat detection: CrowdStrike, SentinelOne. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.
 
@@ -40,11 +40,11 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
-| [CRWD](/future/stocks/crwd/) | CrowdStrike Holdings | 92% | DIRECT | Falcon platform — AI-native EDR/XDR/CNAPP **← Leader** |
+| [CRWD](/future/stocks/crwd/) | CrowdStrike Holdings | 92% | DIRECT | Falcon platform: AI-native EDR/XDR/CNAPP **← Leader** |
 | [S](/future/stocks/s/) | SentinelOne | 88% | DIRECT | Purple AI autonomous threat response |
 
 **Current leader:** [CRWD](/future/stocks/crwd/) with **92%** exposure confidence based on our research.
@@ -56,13 +56,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [XDR (Extended Detection & Response)](/future/tech/xdr-extended-detection-response/) — *enables*
+- [XDR (Extended Detection & Response)](/future/tech/xdr-extended-detection-response/): *enables*
 
 ## Investment Exposure
 

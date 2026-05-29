@@ -40,7 +40,7 @@ Replaces fixed circuit layouts with a reconfigurable architecture enabling engin
 
 ## Market Race
 
-**Clear Leader: [CDNS](/future/stocks/cdns/)** — 40% exposure confidence  
+**Clear Leader: [CDNS](/future/stocks/cdns/)**: 40% exposure confidence  
 **Position:** Direct pure-play  
 
 *Cadence and Synopsys would be the primary beneficiaries of rapid prototyping workflows.*

@@ -23,7 +23,7 @@ permalink: /tech/open-interoperable-metaverse/
 
 Single persistent 3D internet with identity and assets portable across platforms.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **9 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **9 independent sources** on this technology.
 
 ## Status
 
@@ -40,7 +40,7 @@ Fundamental research phase — concept established, practical implementation rem
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -56,14 +56,14 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2030–2050** | 20% |
 | Commercially Monetizable | **2040** | 19% |
 
-Low timing confidence (20%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (20%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-smart-glasses-consumer-daily/) — *requires*
-- [Cross-Chain Interoperability Protocol](/future/tech/cross-chain-interoperability-protocol/) — *requires*
+- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-smart-glasses-consumer-daily/): *requires*
+- [Cross-Chain Interoperability Protocol](/future/tech/cross-chain-interoperability-protocol/): *requires*
 
 ## Investment Exposure
 

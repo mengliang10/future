@@ -9,7 +9,7 @@ bottleneck_count: 2
 ---
 
 ## Investment Thesis
-NVIDIA is the definitive infrastructure play of the AI era. The GPU has become the basic unit of AI compute, and NVIDIA's CUDA software ecosystem creates switching costs that make hardware displacement extremely difficult — developer retraining is measured in years. The Blackwell architecture (GB200 NVL72 racks at 120kW, 30 petaflops FP8) cements NVIDIA's position through the 2026-2027 cycle. Notable: NVIDIA has a strategic partnership with Lumentum to develop optics technologies for AI data centres — directly positioning NVIDIA in the co-packaged optics transition. NVLink and InfiniBand integration allows cluster-level performance rivals cannot match. Annual revenue has exceeded $215B with operating margins above 65%.
+NVIDIA is the definitive infrastructure play of the AI era. The GPU has become the basic unit of AI compute, and NVIDIA's CUDA software ecosystem creates switching costs that make hardware displacement extremely difficult: developer retraining is measured in years. The Blackwell architecture (GB200 NVL72 racks at 120kW, 30 petaflops FP8) cements NVIDIA's position through the 2026-2027 cycle. Notable: NVIDIA has a strategic partnership with Lumentum to develop optics technologies for AI data centres: directly positioning NVIDIA in the co-packaged optics transition. NVLink and InfiniBand integration allows cluster-level performance rivals cannot match. Annual revenue has exceeded $215B with operating margins above 65%.
 
 ## Future Tech Roadmap
 
@@ -21,7 +21,7 @@ NVIDIA is the definitive infrastructure play of the AI era. The GPU has become t
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">2026</span>
 </div>
-<div class="roadmap-stock-item-desc">Humanoids performing real production tasks commercially — Tesla Giga 2026 target</div>
+<div class="roadmap-stock-item-desc">Humanoids performing real production tasks commercially: Tesla Giga 2026 target</div>
 <div class="roadmap-stock-item-impact">&#128200; NVIDIA provides the simulation platform (Isaac Sim) and training infrastructure for every major humanoid robot program. Robot training demand is additive to LLM training demand on the same GPU clusters.</div>
 
 
@@ -35,7 +35,7 @@ NVIDIA is the definitive infrastructure play of the AI era. The GPU has become t
 <span class="roadmap-stock-item-year">2026</span>
 </div>
 <div class="roadmap-stock-item-desc">Logical qubit from many physical; ~1000 physical per logical qubit needed</div>
-<div class="roadmap-stock-item-impact">&#128200; NVIDIA GPUs are used to simulate quantum circuits and accelerate error-correction research. Position is indirect — GPU demand from quantum researchers — not a direct quantum hardware play.</div>
+<div class="roadmap-stock-item-impact">&#128200; NVIDIA GPUs are used to simulate quantum circuits and accelerate error-correction research. Position is indirect: GPU demand from quantum researchers: not a direct quantum hardware play.</div>
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-trail">MINOR · 30%</span> <span class="roadmap-rivals-sep">leader: <a href="/future/stocks/ibm/">IBM</a> 75%</span></div>
@@ -48,7 +48,7 @@ NVIDIA is the definitive infrastructure play of the AI era. The GPU has become t
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
 <div class="roadmap-stock-item-desc">Large-scale GPU arrays enabling parallel matrix ops for deep learning training</div>
-<div class="roadmap-stock-item-impact">&#128200; NVIDIA is the GPU. Every AI workload — training, inference, simulation — runs on NVIDIA silicon. This is the core revenue driver, not a future bet.</div>
+<div class="roadmap-stock-item-impact">&#128200; NVIDIA is the GPU. Every AI workload: training, inference, simulation: runs on NVIDIA silicon. This is the core revenue driver, not a future bet.</div>
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-lead">&#9650; LEADING · 90%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/amzn/">AMZN</a> 80% · <a href="/future/stocks/arm/">ARM</a> 80% · <a href="/future/stocks/avgo/">AVGO</a> 70%</span></div>
@@ -99,7 +99,7 @@ NVIDIA is the definitive infrastructure play of the AI era. The GPU has become t
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">2025</span>
 </div>
-<div class="roadmap-stock-item-desc">Driverless freight on interstate highways — Aurora, Waymo Via, Plus.ai</div>
+<div class="roadmap-stock-item-desc">Driverless freight on interstate highways: Aurora, Waymo Via, Plus.ai</div>
 <div class="roadmap-stock-item-impact">&#128200; Aurora Innovation launched commercial driverless trucking in Texas (April 2024). NVIDIA DRIVE Orin powers the Aurora Driver.</div>
 
 

@@ -40,7 +40,7 @@ Going to linear transmission by shifting some functions into the host switch can
 
 ## Market Race
 
-**Clear Leader: [NVDA](/future/stocks/nvda/)** — 75% exposure confidence  
+**Clear Leader: [NVDA](/future/stocks/nvda/)**: 75% exposure confidence  
 **Position:** Direct pure-play  
 
 *NVIDIA CEO Jensen Huang has stated they will pursue both copper and optical scale-up strategies.*
@@ -52,13 +52,13 @@ Going to linear transmission by shifting some functions into the host switch can
 | Technology Reality | **2026** | 85% |
 | Commercially Monetizable | **2026** | 80% |
 
-High timing confidence (85%) — based on Hot Interconnects technical presentations and CEO commentary.
+High timing confidence (85%): based on Hot Interconnects technical presentations and CEO commentary.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Silicon Photonics Interconnect](/future/tech/silicon-photonics-interconnect/) — *enables*
+- [Silicon Photonics Interconnect](/future/tech/silicon-photonics-interconnect/): *enables*
 
 ## Investment Exposure
 

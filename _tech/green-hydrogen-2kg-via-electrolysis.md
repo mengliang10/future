@@ -43,13 +43,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2028–2037** | 45% |
 | Commercially Monetizable | **2032** | 53% |
 
-Low timing confidence (45%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (45%): timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Hydrogen Fuel Cell (PEM)](/future/tech/hydrogen-fuel-cell-pem/) ✓ — *enables*
+- [Hydrogen Fuel Cell (PEM)](/future/tech/hydrogen-fuel-cell-pem/) ✓: *enables*
 
 ## Investment Exposure
 

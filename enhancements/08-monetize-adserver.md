@@ -1,8 +1,8 @@
-# Enhancement 08 — Monetization: First-Party Ad Server
+# Enhancement 08: Monetization: First-Party Ad Server
 
 ## Problem
 
-AdSense (Enhancement 07) is the revenue floor — passive, automated, low CPM. A first-party ad server is the ceiling: direct deals with advertisers at $15–$50 CPM, full control over creatives and placement, zero revenue share to Google, and the infrastructure to sell sponsorships programmatically at scale. It is also the core product of the Martech platform — a working ad server, built and operated by us, is a demo, a case study, and a sellable product simultaneously.
+AdSense (Enhancement 07) is the revenue floor: passive, automated, low CPM. A first-party ad server is the ceiling: direct deals with advertisers at $15–$50 CPM, full control over creatives and placement, zero revenue share to Google, and the infrastructure to sell sponsorships programmatically at scale. It is also the core product of the Martech platform: a working ad server, built and operated by us, is a demo, a case study, and a sellable product simultaneously.
 
 **Why build vs buy?**
 - SaaS ad servers (Google Ad Manager, Xandr) take 15–30% of revenue and require minimum commitments.
@@ -58,7 +58,7 @@ graph TD
 
 ---
 
-## Build Options — Phased Approach
+## Build Options: Phased Approach
 
 ### Phase 1: Revive Adserver (Open Source, Quick Start)
 
@@ -70,7 +70,7 @@ flowchart LR
         PHP[PHP 8.x + Apache/Nginx]
         MYSQL[MySQL / MariaDB]
         REVIVE[Revive Adserver v5.x]
-        UI[Web UI — campaign management]
+        UI[Web UI: campaign management]
         TAGS[JavaScript + iframe ad tags]
     end
 
@@ -104,7 +104,7 @@ sequenceDiagram
     BROWSER->>PREBID: Page load triggers ad request
     PREBID->>SSPs: Simultaneous bid requests (parallel)
     SSPs-->>PREBID: Bid responses ($0.50–$8.00 CPM)
-    PREBID->>PREBID: Client-side auction — pick highest bid
+    PREBID->>PREBID: Client-side auction: pick highest bid
     PREBID->>REVIVE: Pass winning bid price as key-value
     REVIVE->>REVIVE: Compare vs direct deal floor price
     REVIVE-->>BROWSER: Serve winning creative
@@ -230,7 +230,7 @@ flowchart LR
 
 | Requirement | Standard | Implementation |
 |-------------|----------|----------------|
-| GDPR consent | TCF 2.2 | Consent Management Platform (CMP) — e.g. Didomi free tier |
+| GDPR consent | TCF 2.2 | Consent Management Platform (CMP): e.g. Didomi free tier |
 | CCPA opt-out | IAB CCPA | USPrivacy string via CMP |
 | Ads.txt | IAB | `/ads.txt` on root domain declaring SSP relationships |
 | Sellers.json | IAB | `/sellers.json` for supply chain transparency |
@@ -244,17 +244,17 @@ flowchart LR
 gantt
     title Ad Server Implementation Phases
     dateFormat YYYY-MM
-    section Phase 1 — Revive
+    section Phase 1: Revive
     VPS provisioning (overlap with E06)    :a1, 2026-07, 1w
     Install Revive Adserver                :a2, after a1, 3d
     Configure zones for Future Trends      :a3, after a2, 3d
     First direct deal sold and live        :a4, after a3, 2w
-    section Phase 2 — Prebid
+    section Phase 2: Prebid
     Prebid.js integration on site          :b1, 2026-09, 1w
     Google AdX account + GAM setup         :b2, after b1, 2w
     Amazon TAM integration                 :b3, after b2, 1w
     Yield analytics dashboard              :b4, after b3, 1w
-    section Phase 3 — Custom
+    section Phase 3: Custom
     FastAPI ad server skeleton             :c1, 2026-12, 4w
     OpenRTB bid endpoint                   :c2, after c1, 3w
     Campaign management UI                 :c3, after c2, 4w
@@ -278,7 +278,7 @@ gantt
 
 ## Open Questions
 
-- Revive Adserver is PHP/MySQL — does that align with the Python-centric platform stack, or should Phase 1 skip straight to a lightweight Python prototype?
-- Header bidding (Prebid) requires Google Ad Manager (GAM) as the primary ad server for Google ADX access — is GAM the right anchor, or build around Revive with Prebid as a wrapper?
+- Revive Adserver is PHP/MySQL: does that align with the Python-centric platform stack, or should Phase 1 skip straight to a lightweight Python prototype?
+- Header bidding (Prebid) requires Google Ad Manager (GAM) as the primary ad server for Google ADX access: is GAM the right anchor, or build around Revive with Prebid as a wrapper?
 - At what point does the custom ad server become a standalone SaaS product separate from the content properties? Plan for it from Phase 3 data model design.
 - Creative review automation: use Google Vision API to check uploaded banner creatives for prohibited content before they go live.

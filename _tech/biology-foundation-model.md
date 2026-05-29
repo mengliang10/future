@@ -43,21 +43,21 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2025–2030** | 65% |
 | Commercially Monetizable | **2028** | 56% |
 
-Moderate timing confidence (65%) — roadmap exists but execution risk remains.
+Moderate timing confidence (65%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Whole Genome Sequencing <$1000](/future/tech/whole-genome-sequencing-1000/) ✓ — *requires*
+- [Whole Genome Sequencing <$1000](/future/tech/whole-genome-sequencing-1000/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/) — *enables*
-- [Partial Biological Aging Reversal](/future/tech/partial-biological-aging-reversal/) — *accelerates*
-- [Pig-to-Human Xenotransplantation](/future/tech/pig-to-human-xenotransplantation/) — *accelerates*
+- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/): *enables*
+- [Partial Biological Aging Reversal](/future/tech/partial-biological-aging-reversal/): *accelerates*
+- [Pig-to-Human Xenotransplantation](/future/tech/pig-to-human-xenotransplantation/): *accelerates*
 
 ## Investment Exposure
 

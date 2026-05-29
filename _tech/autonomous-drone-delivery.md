@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Autonomous Drone Delivery"
-subtitle: "Unmanned aerial delivery at commercial scale — Wing (Alphabet), Amazon Prime Air"
+subtitle: "Unmanned aerial delivery at commercial scale: Wing (Alphabet), Amazon Prime Air"
 category: Robotics
 stage: pilot
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/autonomous-drone-delivery/
 
 ## What This Is
 
-Unmanned aerial delivery at commercial scale — Wing (Alphabet), Amazon Prime Air.
+Unmanned aerial delivery at commercial scale: Wing (Alphabet), Amazon Prime Air.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **10 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2025–2030** | 65% |
 | Commercially Monetizable | **2027** | 63% |
 
-Moderate timing confidence (65%) — roadmap exists but execution risk remains.
+Moderate timing confidence (65%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/) — *requires*
+- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/): *requires*
 
 ## Investment Exposure
 

@@ -8,7 +8,7 @@ node_count: 1
 ---
 
 ## Investment Thesis
-Medtronic is the world's largest medical device company and the market share leader in deep brain stimulation (DBS), spinal cord stimulation, and cardiac rhythm management. Its Percept PC DBS system with BrainSense technology enables closed-loop neural sensing — recording brain signals while delivering therapy. Over 200,000 DBS patients implanted globally, primarily for Parkinson's disease, essential tremor, and dystonia. The AI-driven shift in neuromodulation is expanding indications to treatment-resistant depression and OCD. Key risk: diversified medical device conglomerate — BCI is a minority of revenue. Execution risk on margin recovery after a difficult post-COVID period.
+Medtronic is the world's largest medical device company and the market share leader in deep brain stimulation (DBS), spinal cord stimulation, and cardiac rhythm management. Its Percept PC DBS system with BrainSense technology enables closed-loop neural sensing: recording brain signals while delivering therapy. Over 200,000 DBS patients implanted globally, primarily for Parkinson's disease, essential tremor, and dystonia. The AI-driven shift in neuromodulation is expanding indications to treatment-resistant depression and OCD. Key risk: diversified medical device conglomerate: BCI is a minority of revenue. Execution risk on margin recovery after a difficult post-COVID period.
 
 ## Future Tech Roadmap
 
@@ -32,7 +32,7 @@ Medtronic is the world's largest medical device company and the market share lea
 <span class="conf-badge conf-researching">Researching</span>
 <span class="roadmap-stock-item-year">2028</span>
 </div>
-<div class="roadmap-stock-item-impact">&#128200; Medtronic's research pipeline includes next-gen neural interfaces. Partnered with academic BCI research groups — not a primary revenue driver yet.</div>
+<div class="roadmap-stock-item-impact">&#128200; Medtronic's research pipeline includes next-gen neural interfaces. Partnered with academic BCI research groups: not a primary revenue driver yet.</div>
 </div>
 
 

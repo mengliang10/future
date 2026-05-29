@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Solid-State Battery"
-subtitle: "Solid electrolyte replacing liquid; higher density, safer — Toyota, QuantumScape"
+subtitle: "Solid electrolyte replacing liquid; higher density, safer: Toyota, QuantumScape"
 category: Energy Tech
 stage: pilot
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/solid-state-battery/
 
 ## What This Is
 
-Solid electrolyte replacing liquid; higher density, safer — Toyota, QuantumScape.
+Solid electrolyte replacing liquid; higher density, safer: Toyota, QuantumScape.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **7 independent sources** on this technology.
 
@@ -43,14 +43,14 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2027–2034** | 55% |
 | Commercially Monetizable | **2031** | 58% |
 
-Moderate timing confidence (55%) — roadmap exists but execution risk remains.
+Moderate timing confidence (55%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Grid-Scale Battery Storage (GWh)](/future/tech/grid-scale-battery-storage-gwh/) — *accelerates*
-- [eVTOL Air Taxi](/future/tech/evtol-air-taxi/) — *accelerates*
+- [Grid-Scale Battery Storage (GWh)](/future/tech/grid-scale-battery-storage-gwh/): *accelerates*
+- [eVTOL Air Taxi](/future/tech/evtol-air-taxi/): *accelerates*
 
 ## Investment Exposure
 

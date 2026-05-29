@@ -43,14 +43,14 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2032** | 60% |
 | Commercially Monetizable | **2031** | 54% |
 
-Moderate timing confidence (60%) — roadmap exists but execution risk remains.
+Moderate timing confidence (60%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Perovskite Solar Cell (>30% Eff.)](/future/tech/perovskite-solar-cell-30-eff/) — *accelerates*
-- [Solid-State Battery](/future/tech/solid-state-battery/) — *accelerates*
+- [Perovskite Solar Cell (>30% Eff.)](/future/tech/perovskite-solar-cell-30-eff/): *accelerates*
+- [Solid-State Battery](/future/tech/solid-state-battery/): *accelerates*
 
 ## Investment Exposure
 

@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Full Warehouse Automation"
-subtitle: "Fully automated pick-pack-ship with mobile robots — Symbotic, AutoStore, Ocado"
+subtitle: "Fully automated pick-pack-ship with mobile robots: Symbotic, AutoStore, Ocado"
 category: Robotics
 stage: early_commercial
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/full-warehouse-automation/
 
 ## What This Is
 
-Fully automated pick-pack-ship with mobile robots — Symbotic, AutoStore, Ocado.
+Fully automated pick-pack-ship with mobile robots: Symbotic, AutoStore, Ocado.
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **6 independent sources** on this technology.
 
@@ -40,10 +40,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Clear Leader: [SYM](/future/stocks/sym/)** — 88% exposure confidence  
+**Clear Leader: [SYM](/future/stocks/sym/)**: 88% exposure confidence  
 **Position:** Direct pure-play  
 
-*Symbotic AI warehouse system — Walmart exclusive*
+*Symbotic AI warehouse system: Walmart exclusive*
 
 ## Timeline Intelligence
 
@@ -52,13 +52,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2025–2030** | 70% |
 | Commercially Monetizable | **2028** | 74% |
 
-Moderate timing confidence (70%) — roadmap exists but execution risk remains.
+Moderate timing confidence (70%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Post-Scarcity Robotic Manufacturing](/future/tech/post-scarcity-robotic-manufacturing/) — *enables*
+- [Post-Scarcity Robotic Manufacturing](/future/tech/post-scarcity-robotic-manufacturing/): *enables*
 
 ## Investment Exposure
 

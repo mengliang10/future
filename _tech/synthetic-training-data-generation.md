@@ -21,7 +21,7 @@ permalink: /tech/synthetic-training-data-generation/
 
 Synthetic Training Data Generation. **Achieved.**
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **12 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **12 independent sources** on this technology.
 
 *Critical for reasoning model training; DeepSeek-R1, Gemini, Phi-4 all rely heavily on synthetic data*
 
@@ -44,14 +44,14 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **Ongoing / Deployed** | 0% |
 | Commercially Monetizable | **2035+** | 9% |
 
-Timeline not yet established — depends on research breakthroughs that are not yet predictable.
+Timeline not yet established: depends on research breakthroughs that are not yet predictable.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Inference-Time Compute Scaling (Test-Time RL)](/future/tech/inference-time-compute-scaling-test-time-rl/) ✓ — *enables*
-- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/) — *accelerates*
+- [Inference-Time Compute Scaling (Test-Time RL)](/future/tech/inference-time-compute-scaling-test-time-rl/) ✓: *enables*
+- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/): *accelerates*
 
 ## Investment Exposure
 

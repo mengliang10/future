@@ -1,8 +1,8 @@
-# Enhancement 13 — Experimentation: A/B, MVT, Holdouts & Advanced Testing
+# Enhancement 13: Experimentation: A/B, MVT, Holdouts & Advanced Testing
 
 ## Problem
 
-No experiments run on the platform today. Every design, copy, or layout change is deployed without a control condition — there is no way to know whether a change improved or harmed conversion, engagement, or revenue. At scale, untested changes compound into unattributable noise. The Martech for 2026 report notes that the leading marketing organisations are building **experiment journals** — structured logs of hypotheses, tests, and learnings — as a competitive knowledge asset.
+No experiments run on the platform today. Every design, copy, or layout change is deployed without a control condition: there is no way to know whether a change improved or harmed conversion, engagement, or revenue. At scale, untested changes compound into unattributable noise. The Martech for 2026 report notes that the leading marketing organisations are building **experiment journals**: structured logs of hypotheses, tests, and learnings: as a competitive knowledge asset.
 
 **Constraint:** No paid experimentation tools (no Optimizely, no VWO, no LaunchDarkly). Build on open-source and free tooling.
 
@@ -46,7 +46,7 @@ graph TD
 
 ---
 
-## GrowthBook — Free Open-Source Feature Flags + A/B
+## GrowthBook: Free Open-Source Feature Flags + A/B
 
 GrowthBook is the leading open-source experimentation platform. It provides feature flags, A/B test assignment, and a stats engine. Self-hosted, zero licensing cost.
 
@@ -74,7 +74,7 @@ graph LR
 **Setup:** GrowthBook runs as a Docker container on the same VPS as the website.
 
 ```yaml
-# docker-compose.yml — GrowthBook
+# docker-compose.yml: GrowthBook
 services:
   growthbook:
     image: growthbook/growthbook:latest
@@ -190,15 +190,15 @@ def bayesian_ab(control_conversions, control_visitors,
 
 ## Experiment Journal
 
-Every experiment — whether it wins or loses — produces a journal entry. These accumulate institutional knowledge:
+Every experiment: whether it wins or loses: produces a journal entry. These accumulate institutional knowledge:
 
 ```markdown
-# EXP-001 — Direct Answer Opening Paragraph
+# EXP-001: Direct Answer Opening Paragraph
 
 **Hypothesis:** A direct-answer first paragraph increases average session time
 by making content immediately useful to research-intent visitors.
 
-**Status:** Completed — WINNER ✓
+**Status:** Completed: WINNER ✓
 **Period:** 2026-07-01 to 2026-07-21 (3 weeks)
 **Traffic allocation:** 50/50 split
 
@@ -214,7 +214,7 @@ Ship variant to 100%. Update all 212 tech node pages via regen_tech_pages.py.
 
 ## Learning
 Research-intent visitors engage more deeply when the answer appears immediately.
-Matches AIO optimisation direction — same change serves both goals.
+Matches AIO optimisation direction: same change serves both goals.
 
 ## Follow-up
 Run EXP-002 (FAQ section) on top of this variant.
@@ -228,15 +228,15 @@ Run EXP-002 (FAQ section) on top of this variant.
 gantt
     title Experimentation Platform Phases
     dateFormat YYYY-MM
-    section Phase 1 — Infrastructure
+    section Phase 1: Infrastructure
     GrowthBook Docker setup on VPS            :e1, 2026-07, 1w
     GTM tag for GrowthBook SDK                :e2, after e1, 2d
     Matomo experiment_viewed goal             :e3, after e2, 2d
-    section Phase 2 — First Experiments
+    section Phase 2: First Experiments
     Run EXP-001 A/B (answer opening)         :e4, 2026-08, 3w
     Run EXP-004 A/B (confidence badge)       :e5, after e4, 3w
     Stats engine scripts                      :e6, 2026-08, 1w
-    section Phase 3 — Advanced
+    section Phase 3: Advanced
     Holdout group setup (10%)                :e7, 2026-10, 1w
     MVT framework (min 2000 sess/week)       :e8, 2026-11, 2w
     Bandit allocation for content reco       :e9, after e8, 2w
@@ -251,7 +251,7 @@ gantt
 | Experiments completed | 0 | 6+ |
 | Journal entries | 0 | 6+ (win and loss) |
 | Statistical significance threshold | N/A | p < 0.05 (frequentist) or P(win) > 95% (Bayesian) |
-| Sample size calculator used | No | Yes — all experiments pre-powered |
+| Sample size calculator used | No | Yes: all experiments pre-powered |
 | Holdout group established | No | Yes (10% of traffic) |
 | Cumulative feature lift measured | No | Yes (90-day holdout readout) |
 
@@ -259,6 +259,6 @@ gantt
 
 ## Open Questions
 
-- GrowthBook requires MongoDB — does that add unacceptable VPS memory overhead? GrowthBook also supports a `no-db` mode with YAML config. Start with YAML mode, upgrade to MongoDB when experiment count exceeds 20.
+- GrowthBook requires MongoDB: does that add unacceptable VPS memory overhead? GrowthBook also supports a `no-db` mode with YAML config. Start with YAML mode, upgrade to MongoDB when experiment count exceeds 20.
 - At what traffic level is MVT statistically feasible? Rule of thumb: 4× the sample size of the most complex variant combination. At 200 sessions/day, a 12-combination MVT requires ~60 days. Only run MVT at 500+ sessions/day.
-- Should the experiment journal live in the platform repo as `.md` files or in a separate Notion/Obsidian vault? Repo-based markdown is correct — it stays under version control and is auditable.
+- Should the experiment journal live in the platform repo as `.md` files or in a separate Notion/Obsidian vault? Repo-based markdown is correct: it stays under version control and is auditable.

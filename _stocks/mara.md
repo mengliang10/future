@@ -8,10 +8,10 @@ node_count: 1
 ---
 
 ## Investment Thesis
-MARA is the largest publicly traded Bitcoin miner by hash rate. Post-halving economics require scale and cheap energy — MARA is consolidating both. They are diversifying into HPC/AI hosting with their energy infrastructure, reducing pure BTC price dependency.
+MARA is the largest publicly traded Bitcoin miner by hash rate. Post-halving economics require scale and cheap energy: MARA is consolidating both. They are diversifying into HPC/AI hosting with their energy infrastructure, reducing pure BTC price dependency.
 
 ### Key Drivers
-- **Hash Rate Scale:** 50+ EH/s target — top 3 globally.
+- **Hash Rate Scale:** 50+ EH/s target: top 3 globally.
 - **Energy Arbitrage:** Stranded energy deals reduce mining cost per BTC.
 - **HPC Pivot:** Data centre colocation for AI workloads leverages existing power infrastructure.
 

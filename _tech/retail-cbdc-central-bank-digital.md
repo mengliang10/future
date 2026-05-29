@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Retail CBDC (Central Bank Digital)"
-subtitle: "Government-issued digital currency on DLT — China e-CNY, ECB digital euro"
+subtitle: "Government-issued digital currency on DLT: China e-CNY, ECB digital euro"
 category: Blockchain
 stage: pilot
 confidence_label: Researching
@@ -19,7 +19,7 @@ permalink: /tech/retail-cbdc-central-bank-digital/
 
 ## What This Is
 
-Government-issued digital currency on DLT — China e-CNY, ECB digital euro.
+Government-issued digital currency on DLT: China e-CNY, ECB digital euro.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **2 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2026–2033** | 60% |
 | Commercially Monetizable | **2030** | 61% |
 
-Moderate timing confidence (60%) — roadmap exists but execution risk remains.
+Moderate timing confidence (60%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Web3 Mass Consumer Adoption](/future/tech/web3-mass-consumer-adoption/) — *accelerates*
+- [Web3 Mass Consumer Adoption](/future/tech/web3-mass-consumer-adoption/): *accelerates*
 
 ## Investment Exposure
 

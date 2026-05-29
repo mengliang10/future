@@ -21,7 +21,7 @@ permalink: /tech/quantum-drug-molecular-simulation/
 
 Quantum simulation of protein folding and binding beyond AlphaFold scope.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **31 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **31 independent sources** on this technology.
 
 ## Status
 
@@ -43,13 +43,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2032–2045** | 30% |
 | Commercially Monetizable | **2045** | 24% |
 
-Low timing confidence (30%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (30%): timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/) — *enables*
+- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/): *enables*
 
 ## Investment Exposure
 

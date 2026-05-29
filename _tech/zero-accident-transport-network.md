@@ -21,7 +21,7 @@ permalink: /tech/zero-accident-transport-network/
 
 Road fatality rate approaches zero through AV + V2X + smart infrastructure.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **33 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **33 independent sources** on this technology.
 
 ## Status
 
@@ -43,14 +43,14 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2035–2055** | 25% |
 | Commercially Monetizable | **2050** | 21% |
 
-Low timing confidence (25%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (25%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [V2X Vehicle-to-Everything Comms](/future/tech/v2x-vehicle-to-everything-comms/) — *requires*
-- [Full Self-Driving Level 4 (Urban)](/future/tech/full-self-driving-level-4-urban/) — *requires*
+- [V2X Vehicle-to-Everything Comms](/future/tech/v2x-vehicle-to-everything-comms/): *requires*
+- [Full Self-Driving Level 4 (Urban)](/future/tech/full-self-driving-level-4-urban/): *requires*
 
 ## Investment Exposure
 

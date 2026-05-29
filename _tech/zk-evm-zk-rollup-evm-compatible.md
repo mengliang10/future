@@ -43,13 +43,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 88% |
 | Commercially Monetizable | **Now–2027** | 83% |
 
-High timing confidence (88%) — multiple corroborating sources confirm this timeline.
+High timing confidence (88%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Zero-Knowledge Proof (ZKP)](/future/tech/zero-knowledge-proof-zkp/) ✓ — *requires*
+- [Zero-Knowledge Proof (ZKP)](/future/tech/zero-knowledge-proof-zkp/) ✓: *requires*
 
 ## Investment Exposure
 

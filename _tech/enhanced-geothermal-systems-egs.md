@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Enhanced Geothermal Systems (EGS)"
-subtitle: "Deep boreholes accessing heat anywhere — Quaise Energy, Fervo Energy"
+subtitle: "Deep boreholes accessing heat anywhere: Quaise Energy, Fervo Energy"
 category: Energy Tech
 stage: pilot
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/enhanced-geothermal-systems-egs/
 
 ## What This Is
 
-Deep boreholes accessing heat anywhere — Quaise Energy, Fervo Energy.
+Deep boreholes accessing heat anywhere: Quaise Energy, Fervo Energy.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **9 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2027–2037** | 50% |
 | Commercially Monetizable | **2032** | 56% |
 
-Moderate timing confidence (50%) — roadmap exists but execution risk remains.
+Moderate timing confidence (50%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Green Hydrogen (<$2/kg via Electrolysis)](/future/tech/green-hydrogen-2kg-via-electrolysis/) — *accelerates*
+- [Green Hydrogen (<$2/kg via Electrolysis)](/future/tech/green-hydrogen-2kg-via-electrolysis/): *accelerates*
 
 ## Investment Exposure
 

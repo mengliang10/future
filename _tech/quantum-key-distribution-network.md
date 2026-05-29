@@ -21,7 +21,7 @@ permalink: /tech/quantum-key-distribution-network/
 
 Nationwide quantum-secured communication networks immune to classical and quantum eavesdropping attacks..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **89 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **89 independent sources** on this technology.
 
 ## Status
 
@@ -42,13 +42,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **TBD** | 0% |
 | Commercially Monetizable | **2035+** | 9% |
 
-Timeline not yet established — depends on research breakthroughs that are not yet predictable.
+Timeline not yet established: depends on research breakthroughs that are not yet predictable.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Quantum Network (Entanglement Dist.)](/future/tech/quantum-network-entanglement-dist/) — *requires*
+- [Quantum Network (Entanglement Dist.)](/future/tech/quantum-network-entanglement-dist/): *requires*
 
 ## Investment Exposure
 

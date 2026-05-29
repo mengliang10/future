@@ -34,7 +34,7 @@ Microsoft has the most comprehensive AI strategy of any large-cap. GitHub Copilo
 <span class="roadmap-stock-item-year">2026</span>
 </div>
 <div class="roadmap-stock-item-desc">Logical qubit from many physical; ~1000 physical per logical qubit needed</div>
-<div class="roadmap-stock-item-impact">&#128200; NVIDIA GPUs are used to simulate quantum circuits and accelerate error-correction research. Position is indirect — GPU demand from quantum researchers — not a direct quantum hardware play.</div>
+<div class="roadmap-stock-item-impact">&#128200; NVIDIA GPUs are used to simulate quantum circuits and accelerate error-correction research. Position is indirect: GPU demand from quantum researchers: not a direct quantum hardware play.</div>
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-2nd">&#9889; 2ND · 55%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/ibm/">IBM</a> 75% (&#8722;19pp)</span></div>

@@ -43,13 +43,13 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **2030–2045** | 40% |
 | Commercially Monetizable | **2041** | 36% |
 
-Low timing confidence (40%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (40%): timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Commercial Fusion Power Plant](/future/tech/commercial-fusion-power-plant/) — *enables*
+- [Commercial Fusion Power Plant](/future/tech/commercial-fusion-power-plant/): *enables*
 
 ## Investment Exposure
 

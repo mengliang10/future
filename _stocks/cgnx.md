@@ -8,7 +8,7 @@ node_count: 1
 ---
 
 ## Investment Thesis
-Cognex is the global leader in machine vision — the 'eyes' of industrial automation. Its ViDi deep-learning vision software and In-Sight cameras are embedded in factory QA lines across electronics, automotive, consumer goods, and logistics. AI-driven vision (ViDi) removes the need for rule-based programming and enables inspection of previously uninspectable features. Revenue is highly cyclical — exposed to factory capex cycles — but the long-term driver is factory automation density increasing. The humanoid robot wave is a net positive: every robot needs multiple vision systems for navigation, object detection, and quality control. Key risk: ISRA Vision, Keyence, and Chinese domestic vendors compete aggressively on price.
+Cognex is the global leader in machine vision: the 'eyes' of industrial automation. Its ViDi deep-learning vision software and In-Sight cameras are embedded in factory QA lines across electronics, automotive, consumer goods, and logistics. AI-driven vision (ViDi) removes the need for rule-based programming and enables inspection of previously uninspectable features. Revenue is highly cyclical: exposed to factory capex cycles: but the long-term driver is factory automation density increasing. The humanoid robot wave is a net positive: every robot needs multiple vision systems for navigation, object detection, and quality control. Key risk: ISRA Vision, Keyence, and Chinese domestic vendors compete aggressively on price.
 
 ## Future Tech Roadmap
 
@@ -20,7 +20,7 @@ Cognex is the global leader in machine vision — the 'eyes' of industrial autom
 <span class="conf-badge conf-confirmed">Confirmed</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-impact">&#128200; Cognex ViDi runs production deep-learning vision on factory floors globally. Their In-Sight 2800 cameras with embedded ViDi represent the commercialised form of industrial computer vision — a major revenue driver.</div>
+<div class="roadmap-stock-item-impact">&#128200; Cognex ViDi runs production deep-learning vision on factory floors globally. Their In-Sight 2800 cameras with embedded ViDi represent the commercialised form of industrial computer vision: a major revenue driver.</div>
 </div>
 
 <div class="roadmap-stock-item">

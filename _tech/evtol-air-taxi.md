@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "eVTOL Air Taxi"
-subtitle: "Electric vertical takeoff aircraft for urban air mobility — Joby, Archer"
+subtitle: "Electric vertical takeoff aircraft for urban air mobility: Joby, Archer"
 category: Autonomous
 stage: pilot
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/evtol-air-taxi/
 
 ## What This Is
 
-Electric vertical takeoff aircraft for urban air mobility — Joby, Archer.
+Electric vertical takeoff aircraft for urban air mobility: Joby, Archer.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **9 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 
 ## Market Race
 
-**Clear Leader: [JOBY](/future/stocks/joby/)** — 92% exposure confidence  
+**Clear Leader: [JOBY](/future/stocks/joby/)**: 92% exposure confidence  
 **Position:** Direct pure-play  
 
 *Best-funded eVTOL; delta-wing design; FAA cert*
@@ -52,13 +52,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2026–2032** | 55% |
 | Commercially Monetizable | **2030** | 58% |
 
-Moderate timing confidence (55%) — roadmap exists but execution risk remains.
+Moderate timing confidence (55%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Zero-Accident Transport Network](/future/tech/zero-accident-transport-network/) — *enables*
+- [Zero-Accident Transport Network](/future/tech/zero-accident-transport-network/): *enables*
 
 ## Investment Exposure
 

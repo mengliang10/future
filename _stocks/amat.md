@@ -20,7 +20,7 @@ Detailed fundamental analysis and growth catalysts for Applied Materials Inc. (A
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">2025</span>
 </div>
-<div class="roadmap-stock-item-desc">Leading-edge silicon node; volume production 2025 — TSMC N2, Samsung SF2</div>
+<div class="roadmap-stock-item-desc">Leading-edge silicon node; volume production 2025: TSMC N2, Samsung SF2</div>
 <div class="roadmap-stock-item-impact">&#128200; TSMC N2 is in volume production. Apple and NVIDIA are lead customers. Node leadership translates directly to pricing power and customer lock-in.</div>
 
 

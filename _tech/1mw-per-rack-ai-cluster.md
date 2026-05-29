@@ -45,13 +45,13 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2029** | 65% |
 | Commercially Monetizable | **2029** | 56% |
 
-Moderate timing confidence (65%) — roadmap exists but execution risk remains.
+Moderate timing confidence (65%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Data Center Liquid Cooling](/future/tech/data-center-liquid-cooling/) ✓ — *requires*
+- [Data Center Liquid Cooling](/future/tech/data-center-liquid-cooling/) ✓: *requires*
 
 ## Investment Exposure
 

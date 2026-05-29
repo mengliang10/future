@@ -1,8 +1,8 @@
-# Enhancement 14 — Social Listening (No Paid Tools)
+# Enhancement 14: Social Listening (No Paid Tools)
 
 ## Problem
 
-The platform publishes research content but operates in an information vacuum — it does not monitor what audiences are saying about the technologies it tracks, which topics are generating discussion spikes, or when a tracked technology appears in breaking news or viral threads. Social listening closes this gap: it surfaces emerging signals before they hit mainstream research, identifies content gaps where high-volume conversation exists but no platform page does, and detects when competitor sites or AI models are citing (or ignoring) our content.
+The platform publishes research content but operates in an information vacuum: it does not monitor what audiences are saying about the technologies it tracks, which topics are generating discussion spikes, or when a tracked technology appears in breaking news or viral threads. Social listening closes this gap: it surfaces emerging signals before they hit mainstream research, identifies content gaps where high-volume conversation exists but no platform page does, and detects when competitor sites or AI models are citing (or ignoring) our content.
 
 **Constraint:** No paid social listening tools (no Brandwatch, no Sprinklr, no Mention.com). Build entirely on free APIs, open-source scrapers, and RSS feeds.
 
@@ -10,12 +10,12 @@ The platform publishes research content but operates in an information vacuum �
 
 ## Full-Scale Vision
 
-A Python-based social listening engine that monitors Reddit, X/Twitter (via free API tier), LinkedIn public content, Hacker News, and RSS feeds from key industry sources. It runs on a daily cron, writes signals to `social_signals.db`, and surfaces actionable alerts — new content to create, nodes to update, and trending topics to amplify.
+A Python-based social listening engine that monitors Reddit, X/Twitter (via free API tier), LinkedIn public content, Hacker News, and RSS feeds from key industry sources. It runs on a daily cron, writes signals to `social_signals.db`, and surfaces actionable alerts: new content to create, nodes to update, and trending topics to amplify.
 
 ```mermaid
 graph TD
     subgraph Sources["Monitored Sources (Free)"]
-        REDDIT[Reddit API\nFree tier — 100 req/min]
+        REDDIT[Reddit API\nFree tier: 100 req/min]
         HN[Hacker News API\nFully free, no auth]
         RSS[RSS Feeds\narXiv, Reuters, FT, TechCrunch, MIT TR]
         X_API[X/Twitter Free API\n1,500 tweets/month read]
@@ -58,7 +58,7 @@ import praw
 from datetime import datetime, timezone
 
 reddit = praw.Reddit(
-    client_id="YOUR_APP_ID",      # free — create at reddit.com/prefs/apps
+    client_id="YOUR_APP_ID",      # free: create at reddit.com/prefs/apps
     client_secret="YOUR_SECRET",
     user_agent="FutureTrends Social Listener v1.0"
 )
@@ -151,7 +151,7 @@ flowchart LR
 
 ```mermaid
 xychart-beta
-    title "Social Signal Volume by Category (Target State — Weekly)"
+    title "Social Signal Volume by Category (Target State: Weekly)"
     x-axis ["AI & Cloud", "Semiconductors", "Energy", "Biotech", "Quantum", "Space", "Robotics"]
     y-axis "Weekly Mentions" 0 --> 500
     bar [450, 280, 180, 140, 95, 75, 120]
@@ -184,7 +184,7 @@ def detect_surges(db_path, threshold_multiplier=3.0):
         if avg > 0 and latest / avg >= threshold_multiplier:
             result.append({"node_id": node_id, "surge_ratio": latest/avg,
                           "latest_mentions": latest, "avg_mentions": avg})
-    return sorted(result, key=lambda x: -x["surge_ratio"])
+    return sorted(result, key=lambda x: x["surge_ratio"])
 ```
 
 ---
@@ -252,6 +252,6 @@ Monitor when our domain is cited (or not cited) in AI-generated responses:
 
 ## Open Questions
 
-- X/Twitter free API is 1,500 read tweets/month — barely enough for monitoring. Is it worth the complexity? Yes, but use Twitter-focused RSS via Nitter instances as a fallback when API quota is exhausted.
+- X/Twitter free API is 1,500 read tweets/month: barely enough for monitoring. Is it worth the complexity? Yes, but use Twitter-focused RSS via Nitter instances as a fallback when API quota is exhausted.
 - LinkedIn public content cannot be scraped reliably without paid API access. Workaround: monitor LinkedIn newsletters via RSS (some publishers expose feeds) and use Google Alerts to catch LinkedIn articles mentioning tracked terms.
-- Google Alerts (free) is not in the pipeline above — add as a zero-effort layer: set alerts for each of the top 20 tracked technology names, delivered to a dedicated email address, parsed daily.
+- Google Alerts (free) is not in the pipeline above: add as a zero-effort layer: set alerts for each of the top 20 tracked technology names, delivered to a dedicated email address, parsed daily.

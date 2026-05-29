@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Gene Therapy (Rare Disease, FDA Approved)"
-subtitle: "AAV-delivered gene replacement for monogenic disorders — SMA (Zolgensma), hemophilia"
+subtitle: "AAV-delivered gene replacement for monogenic disorders: SMA (Zolgensma), hemophilia"
 category: Biotech
 stage: early_commercial
 confidence_label: Confirmed
@@ -19,7 +19,7 @@ permalink: /tech/gene-therapy-rare-disease-fda-approved/
 
 ## What This Is
 
-AAV-delivered gene replacement for monogenic disorders — SMA (Zolgensma), hemophilia. **Achieved.**
+AAV-delivered gene replacement for monogenic disorders: SMA (Zolgensma), hemophilia. **Achieved.**
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
 
@@ -43,13 +43,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now–2027** | 88% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-gene-therapy/) ✓ — *enables*
+- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-gene-therapy/) ✓: *enables*
 
 ## Investment Exposure
 

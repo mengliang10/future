@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Compute-in-Memory (CIM)"
-subtitle: "Processing data where stored; eliminates memory wall — SRAM, DRAM, ReRAM CIM"
+subtitle: "Processing data where stored; eliminates memory wall: SRAM, DRAM, ReRAM CIM"
 category: Semiconductors
 stage: prototype
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/compute-in-memory-cim/
 
 ## What This Is
 
-Processing data where stored; eliminates memory wall — SRAM, DRAM, ReRAM CIM.
+Processing data where stored; eliminates memory wall: SRAM, DRAM, ReRAM CIM.
 
 Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **7 independent sources** on this technology.
 
@@ -43,14 +43,14 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2027–2034** | 50% |
 | Commercially Monetizable | **2032** | 49% |
 
-Moderate timing confidence (50%) — roadmap exists but execution risk remains.
+Moderate timing confidence (50%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Inference at Edge](/future/tech/ai-inference-at-edge/) — *accelerates*
-- [Neuromorphic Computing Chip](/future/tech/neuromorphic-computing-chip/) — *synergises with*
+- [AI Inference at Edge](/future/tech/ai-inference-at-edge/): *accelerates*
+- [Neuromorphic Computing Chip](/future/tech/neuromorphic-computing-chip/): *synergises with*
 
 ## Investment Exposure
 

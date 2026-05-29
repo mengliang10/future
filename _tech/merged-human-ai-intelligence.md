@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Merged Human-AI Intelligence"
-subtitle: "Seamless cognitive integration of human brain with AI — post-human cognition"
+subtitle: "Seamless cognitive integration of human brain with AI: post-human cognition"
 category: BCI
 stage: basic_research
 confidence_label: Speculative
@@ -19,9 +19,9 @@ permalink: /tech/merged-human-ai-intelligence/
 
 ## What This Is
 
-Seamless cognitive integration of human brain with AI — post-human cognition.
+Seamless cognitive integration of human brain with AI: post-human cognition.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **20 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **20 independent sources** on this technology.
 
 ## Status
 
@@ -43,13 +43,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2040–2070** | 8% |
 | Commercially Monetizable | **2054** | 13% |
 
-Low timing confidence (8%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (8%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/) — *requires*
+- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/): *requires*
 
 ## Investment Exposure
 

@@ -9,7 +9,7 @@ regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis
-CleanSpark is the ESG-friendly Bitcoin miner — nearly 100% renewable energy sourcing, vertically integrated operations, and an aggressive acquisition strategy targeting distressed mining assets post-halving. They grow by buying cheap and operating efficiently.
+CleanSpark is the ESG-friendly Bitcoin miner: nearly 100% renewable energy sourcing, vertically integrated operations, and an aggressive acquisition strategy targeting distressed mining assets post-halving. They grow by buying cheap and operating efficiently.
 
 ### Key Drivers
 - **Renewable Energy:** Near-100% clean energy sourcing attracts ESG mandates.

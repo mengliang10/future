@@ -45,15 +45,15 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2029** | 55% |
 | Commercially Monetizable | **2029** | 51% |
 
-Moderate timing confidence (55%) — roadmap exists but execution risk remains.
+Moderate timing confidence (55%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Mixture-of-Experts Architecture](/future/tech/mixture-of-experts-architecture/) ✓ — *requires*
-- [Distributed Training (1000+ GPUs)](/future/tech/distributed-training-1000-gpus/) ✓ — *requires*
-- [1MW+ Per Rack AI Cluster](/future/tech/1mw-per-rack-ai-cluster/) — *requires*
+- [Mixture-of-Experts Architecture](/future/tech/mixture-of-experts-architecture/) ✓: *requires*
+- [Distributed Training (1000+ GPUs)](/future/tech/distributed-training-1000-gpus/) ✓: *requires*
+- [1MW+ Per Rack AI Cluster](/future/tech/1mw-per-rack-ai-cluster/): *requires*
 
 ## Investment Exposure
 

@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Commercial Fusion Power Plant"
-subtitle: "Sustained net electricity from fusion at utility scale — Commonwealth, TAE"
+subtitle: "Sustained net electricity from fusion at utility scale: Commonwealth, TAE"
 category: Energy Tech
 stage: basic_research
 confidence_label: Speculative
@@ -19,9 +19,9 @@ permalink: /tech/commercial-fusion-power-plant/
 
 ## What This Is
 
-Sustained net electricity from fusion at utility scale — Commonwealth, TAE.
+Sustained net electricity from fusion at utility scale: Commonwealth, TAE.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **25 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **25 independent sources** on this technology.
 
 ## Status
 
@@ -43,7 +43,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2035–2065** | 25% |
 | Commercially Monetizable | **2052** | 21% |
 
-Low timing confidence (25%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (25%): timeline is speculative; watch for milestone announcements.
 
 ## Investment Exposure
 

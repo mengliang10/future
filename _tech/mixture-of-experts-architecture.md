@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Mixture-of-Experts Architecture"
-subtitle: "Sparse expert activation — enables massive param counts at lower compute cost"
+subtitle: "Sparse expert activation: enables massive param counts at lower compute cost"
 category: AI & Cloud
 stage: mass_production
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/mixture-of-experts-architecture/
 
 ## What This Is
 
-Sparse expert activation — enables massive param counts at lower compute cost. **Achieved.**
+Sparse expert activation: enables massive param counts at lower compute cost. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **32 independent sources** on this technology.
 
@@ -45,13 +45,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Open-Source Frontier LLM (GPT-4/o1 Class)](/future/tech/open-source-frontier-llm-gpt-4o1-class/) ✓ — *enables*
+- [Open-Source Frontier LLM (GPT-4/o1 Class)](/future/tech/open-source-frontier-llm-gpt-4o1-class/) ✓: *enables*
 
 ## Investment Exposure
 

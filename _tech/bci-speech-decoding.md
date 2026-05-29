@@ -43,20 +43,20 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2025–2030** | 65% |
 | Commercially Monetizable | **2028** | 56% |
 
-Moderate timing confidence (65%) — roadmap exists but execution risk remains.
+Moderate timing confidence (65%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [AI Neural Signal Decoder](/future/tech/ai-neural-signal-decoder/) — *requires*
-- [High-Bandwidth Wireless BCI (1024ch)](/future/tech/high-bandwidth-wireless-bci-1024ch/) — *requires*
+- [AI Neural Signal Decoder](/future/tech/ai-neural-signal-decoder/): *requires*
+- [High-Bandwidth Wireless BCI (1024ch)](/future/tech/high-bandwidth-wireless-bci-1024ch/): *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Bidirectional BCI (Read + Write)](/future/tech/bidirectional-bci-read-write/) — *enables*
+- [Bidirectional BCI (Read + Write)](/future/tech/bidirectional-bci-read-write/): *enables*
 
 ## Investment Exposure
 

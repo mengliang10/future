@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Commercial Space Station (post-ISS)"
-subtitle: "Private orbital stations — Axiom Space modules, Starlab, Orbital Reef"
+subtitle: "Private orbital stations: Axiom Space modules, Starlab, Orbital Reef"
 category: Space Tech
 stage: proof_of_concept
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/commercial-space-station-post-iss/
 
 ## What This Is
 
-Private orbital stations — Axiom Space modules, Starlab, Orbital Reef.
+Private orbital stations: Axiom Space modules, Starlab, Orbital Reef.
 
 Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **13 independent sources** on this technology.
 
@@ -43,7 +43,7 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **2028–2035** | 55% |
 | Commercially Monetizable | **2035** | 43% |
 
-Moderate timing confidence (55%) — roadmap exists but execution risk remains.
+Moderate timing confidence (55%): roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

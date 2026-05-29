@@ -40,7 +40,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [TSLA](/future/stocks/tsla/)** — 80% exposure confidence  
+**Clear Leader: [TSLA](/future/stocks/tsla/)**: 80% exposure confidence  
 **Position:** Direct pure-play  
 
 *4680 cell manufacturing; battery cost reduction*
@@ -52,14 +52,14 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Grid-Scale Battery Storage (GWh)](/future/tech/grid-scale-battery-storage-gwh/) — *enables*
-- [Green Hydrogen (<$2/kg via Electrolysis)](/future/tech/green-hydrogen-2kg-via-electrolysis/) — *enables*
+- [Grid-Scale Battery Storage (GWh)](/future/tech/grid-scale-battery-storage-gwh/): *enables*
+- [Green Hydrogen (<$2/kg via Electrolysis)](/future/tech/green-hydrogen-2kg-via-electrolysis/): *enables*
 
 ## Investment Exposure
 

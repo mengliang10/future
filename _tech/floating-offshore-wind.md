@@ -40,7 +40,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 
 ## Market Race
 
-**Clear Leader: [GEV](/future/stocks/gev/)** — 80% exposure confidence  
+**Clear Leader: [GEV](/future/stocks/gev/)**: 80% exposure confidence  
 **Position:** Direct pure-play  
 
 *Haliade-X offshore wind turbines*
@@ -52,13 +52,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2026–2034** | 60% |
 | Commercially Monetizable | **2031** | 61% |
 
-Moderate timing confidence (60%) — roadmap exists but execution risk remains.
+Moderate timing confidence (60%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Onshore Wind Turbine](/future/tech/onshore-wind-turbine/) ✓ — *enables*
+- [Onshore Wind Turbine](/future/tech/onshore-wind-turbine/) ✓: *enables*
 
 ## Investment Exposure
 

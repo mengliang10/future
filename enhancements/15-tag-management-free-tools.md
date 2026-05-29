@@ -1,16 +1,16 @@
-# Enhancement 15 — Tag Management & Free Measurement Tools
+# Enhancement 15: Tag Management & Free Measurement Tools
 
 ## Problem
 
-Currently no tag management, no heatmap data, no session replay, and no visitor behaviour insight exists on the platform. Adding analytics, ad pixels, A/B test SDKs, and personalisation scripts individually to Jekyll templates creates unmaintainable tag sprawl — every new tracking requirement requires a code change and a deployment. A tag management system (TMS) centralises all third-party scripts, enables non-developer activation of tracking, and provides a single governance point for privacy compliance.
+Currently no tag management, no heatmap data, no session replay, and no visitor behaviour insight exists on the platform. Adding analytics, ad pixels, A/B test SDKs, and personalisation scripts individually to Jekyll templates creates unmaintainable tag sprawl: every new tracking requirement requires a code change and a deployment. A tag management system (TMS) centralises all third-party scripts, enables non-developer activation of tracking, and provides a single governance point for privacy compliance.
 
-**All tools in this enhancement are genuinely free** — not freemium with critical features paywalled.
+**All tools in this enhancement are genuinely free**: not freemium with critical features paywalled.
 
 ---
 
 ## Full-Scale Vision
 
-Google Tag Manager as the universal tag container across all platform properties. A curated stack of free measurement and insight tools — Microsoft Clarity, Google Search Console, Bing Webmaster Tools, and others — layered under GTM. All firing rules governed by a data layer specification, not hard-coded conditionals.
+Google Tag Manager as the universal tag container across all platform properties. A curated stack of free measurement and insight tools: Microsoft Clarity, Google Search Console, Bing Webmaster Tools, and others: layered under GTM. All firing rules governed by a data layer specification, not hard-coded conditionals.
 
 ```mermaid
 graph TD
@@ -23,20 +23,20 @@ graph TD
 
     subgraph GTM["Google Tag Manager Container"]
         TRIGGER_PV[Trigger: Page View]
-        TRIGGER_CLICK[Trigger: Click — stock links]
+        TRIGGER_CLICK[Trigger: Click: stock links]
         TRIGGER_SCROLL[Trigger: Scroll 75%]
         TRIGGER_SEARCH[Trigger: Search submitted]
         TRIGGER_ACC[Trigger: Accordion opened]
     end
 
     subgraph Tags["Tags Fired by GTM"]
-        GA4_TAG[GA4 — all pages]
-        CLARITY[Microsoft Clarity — all pages]
-        MATOMO_TAG[Matomo — all pages]
-        GB_TAG[GrowthBook SDK — experiment assignment]
-        META_PIXEL[Meta Pixel — opted-in users only]
-        LI_INSIGHT[LinkedIn Insight Tag — opted-in only]
-        PERS_TAG[Personalisation JS — all pages]
+        GA4_TAG[GA4: all pages]
+        CLARITY[Microsoft Clarity: all pages]
+        MATOMO_TAG[Matomo: all pages]
+        GB_TAG[GrowthBook SDK: experiment assignment]
+        META_PIXEL[Meta Pixel: opted-in users only]
+        LI_INSIGHT[LinkedIn Insight Tag: opted-in only]
+        PERS_TAG[Personalisation JS: all pages]
     end
 
     DataLayer --> GTM
@@ -50,7 +50,7 @@ graph TD
 Every Jekyll page must push a standard data layer object before GTM fires. This decouples measurement logic from template logic:
 
 ```javascript
-// In _layouts/default.html — before </head>
+// In _layouts/default.html: before </head>
 window.dataLayer = window.dataLayer || [];
 window.dataLayer.push({
   'event': 'pageMetadata',
@@ -67,11 +67,11 @@ window.dataLayer.push({
 });
 ```
 
-GTM variables then reference `{{DL - page.type}}`, `{{DL - page.category}}` etc. — no hard-coded values in GTM.
+GTM variables then reference `{{DL - page.type}}`, `{{DL - page.category}}` etc.: no hard-coded values in GTM.
 
 ---
 
-## Tool Stack — Genuinely Free
+## Tool Stack: Genuinely Free
 
 | Tool | Purpose | Cost | Data Retained By |
 |------|---------|------|-----------------|
@@ -89,12 +89,12 @@ GTM variables then reference `{{DL - page.type}}`, `{{DL - page.category}}` etc.
 
 ---
 
-## Microsoft Clarity — Setup and Use
+## Microsoft Clarity: Setup and Use
 
 Clarity provides heatmaps, session recordings, and dead-click detection at zero cost, with no session or page view limits. Critical for understanding UX without paid tools:
 
 ```javascript
-// GTM Custom HTML tag — Microsoft Clarity
+// GTM Custom HTML tag: Microsoft Clarity
 (function(c,l,a,r,i,t,y){
     c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
     t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
@@ -130,15 +130,15 @@ mindmap
 
 ---
 
-## GTM Firing Rules — Complete Tag Plan
+## GTM Firing Rules: Complete Tag Plan
 
 ```mermaid
 flowchart TD
-    subgraph AllPages["All Pages — always fire"]
+    subgraph AllPages["All Pages: always fire"]
         GA4_BASE[GA4 pageview]
         CLARITY_LOAD[Clarity init]
         MATOMO_LOAD[Matomo pageview]
-        DL_PUSH[Data layer push — page metadata]
+        DL_PUSH[Data layer push: page metadata]
     end
 
     subgraph TechNodeOnly["Tech Node Pages only\npageType == 'tech_node'"]
@@ -170,10 +170,10 @@ flowchart TD
 ## Bing Webmaster Tools
 
 Often overlooked, Bing Webmaster Tools is free and provides:
-- **Keyword research tool** — free keyword volume data (alternative to Google Keyword Planner)
-- **Backlink data** — free backlink report
-- **URL submission** — instant indexing requests
-- **Site scan** — technical SEO audit
+- **Keyword research tool**: free keyword volume data (alternative to Google Keyword Planner)
+- **Backlink data**: free backlink report
+- **URL submission**: instant indexing requests
+- **Site scan**: technical SEO audit
 
 ```bash
 # Submit sitemap to Bing
@@ -182,7 +182,7 @@ curl -X GET "https://www.bing.com/webmaster/ping.aspx?siteMap=https://futuretren
 
 ---
 
-## Lighthouse CI — Automated Performance Audits
+## Lighthouse CI: Automated Performance Audits
 
 Run Lighthouse on every GitHub Actions deploy to catch Core Web Vitals regressions before they hit production:
 
@@ -214,7 +214,7 @@ Run Lighthouse on every GitHub Actions deploy to catch Core Web Vitals regressio
 For EU visitors, GTM Consent Mode v2 ensures tags only fire after consent is given:
 
 ```javascript
-// Consent Mode defaults (conservative — deny all until consent)
+// Consent Mode defaults (conservative: deny all until consent)
 window.dataLayer.push({
   'consent': 'default',
   'ad_storage': 'denied',
@@ -231,7 +231,7 @@ window.dataLayer.push({
 });
 ```
 
-Matomo with cookie-free mode fires without any consent requirement — it collects no PII and uses no cookies. GA4 and Meta/LinkedIn pixels require consent in the EU.
+Matomo with cookie-free mode fires without any consent requirement: it collects no PII and uses no cookies. GA4 and Meta/LinkedIn pixels require consent in the EU.
 
 ---
 
@@ -268,6 +268,6 @@ Matomo with cookie-free mode fires without any consent requirement — it collec
 
 ## Open Questions
 
-- Should GTM also manage the ad server pixel, or is that handled directly by the ad server? Ad server impression/click tracking fires server-side — GTM is not needed there. GTM handles client-side visibility (viewability) signals only.
-- Hotjar Basic (500 sessions/month) vs Microsoft Clarity (unlimited) — Clarity wins outright, but Hotjar has better funnel visualisation. Use Clarity as the primary; evaluate Hotjar for specific funnel analysis phases only.
+- Should GTM also manage the ad server pixel, or is that handled directly by the ad server? Ad server impression/click tracking fires server-side: GTM is not needed there. GTM handles client-side visibility (viewability) signals only.
+- Hotjar Basic (500 sessions/month) vs Microsoft Clarity (unlimited): Clarity wins outright, but Hotjar has better funnel visualisation. Use Clarity as the primary; evaluate Hotjar for specific funnel analysis phases only.
 - Is there a performance cost to loading GTM + GA4 + Clarity + Matomo + GrowthBook simultaneously? Yes: ~80–120KB extra, ~100–200ms parse time on mobile. Mitigate via: defer attribute on GTM, Clarity loaded after first user interaction, Matomo async. Monitor via Lighthouse CI.

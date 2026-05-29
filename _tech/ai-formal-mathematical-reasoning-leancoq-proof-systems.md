@@ -19,11 +19,11 @@ permalink: /tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/
 
 ## What This Is
 
-AI systems capable of generating machine-verifiable formal mathematical proofs in proof assistants (Lean 4, Coq, Isabelle). Distinct from informal mathematical reasoning — proofs are 100% verifiable by the proof assistant. DeepSeek-Prover-V2 achieved 88.9% on miniF2F-test. Enables automated theorem proving for cryptography, software verification, and advanced mathematics..
+AI systems capable of generating machine-verifiable formal mathematical proofs in proof assistants (Lean 4, Coq, Isabelle). Distinct from informal mathematical reasoning: proofs are 100% verifiable by the proof assistant. DeepSeek-Prover-V2 achieved 88.9% on miniF2F-test. Enables automated theorem proving for cryptography, software verification, and advanced mathematics..
 
 Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **35 independent sources** on this technology.
 
-> Recursive theorem proving via subgoal decomposition. Cold-start from DeepSeek-V3, RL for proof search. 88.9% on miniF2F — new SOTA by large margin. Demonstrates formal mathematical reasoning approachi
+> Recursive theorem proving via subgoal decomposition. Cold-start from DeepSeek-V3, RL for proof search. 88.9% on miniF2F: new SOTA by large margin. Demonstrates formal mathematical reasoning approachi
 
 *DeepSeek-Prover-V2 88.9% miniF2F, Lean4 proofs; borderline → achieved*
 
@@ -47,14 +47,14 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2025–2030** | 65% |
 | Commercially Monetizable | **2029** | 56% |
 
-Moderate timing confidence (65%) — roadmap exists but execution risk remains.
+Moderate timing confidence (65%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/) — *enables*
-- [AI-Assisted Chip Design (EDA AI)](/future/tech/ai-assisted-chip-design-eda-ai/) — *accelerates*
+- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/): *enables*
+- [AI-Assisted Chip Design (EDA AI)](/future/tech/ai-assisted-chip-design-eda-ai/): *accelerates*
 
 ## Investment Exposure
 

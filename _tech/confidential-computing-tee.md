@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Confidential Computing (TEE)"
-subtitle: "Trusted Execution Environments — Intel SGX, AMD SEV, Arm CCA for data-in-use"
+subtitle: "Trusted Execution Environments: Intel SGX, AMD SEV, Arm CCA for data-in-use"
 category: Cybersecurity
 stage: early_commercial
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/confidential-computing-tee/
 
 ## What This Is
 
-Trusted Execution Environments — Intel SGX, AMD SEV, Arm CCA for data-in-use.
+Trusted Execution Environments: Intel SGX, AMD SEV, Arm CCA for data-in-use.
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **16 independent sources** on this technology.
 
@@ -43,20 +43,20 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2019–2027** | 82% |
 | Commercially Monetizable | **2020** | 80% |
 
-High timing confidence (82%) — multiple corroborating sources confirm this timeline.
+High timing confidence (82%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Hardware Security Module (HSM)](/future/tech/hardware-security-module-hsm/) ✓ — *requires*
+- [Hardware Security Module (HSM)](/future/tech/hardware-security-module-hsm/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Zero Trust Security Architecture](/future/tech/zero-trust-security-architecture/) — *enables*
-- [Secure Multi-Party Computation](/future/tech/secure-multi-party-computation/) — *enables*
+- [Zero Trust Security Architecture](/future/tech/zero-trust-security-architecture/): *enables*
+- [Secure Multi-Party Computation](/future/tech/secure-multi-party-computation/): *enables*
 
 ## Investment Exposure
 

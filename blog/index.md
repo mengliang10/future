@@ -6,7 +6,7 @@ permalink: /blog/
 ---
 
 <div class="placeholder-block">
-  <h3>Substack Integration — Coming Soon</h3>
+  <h3>Substack Integration: Coming Soon</h3>
   <p>Recent articles from the Future Trends Substack publication will populate here automatically once the publication is live. Subscribe below to be notified at launch.</p>
 </div>
 

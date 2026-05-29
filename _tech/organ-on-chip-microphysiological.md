@@ -43,14 +43,14 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2025–2031** | 65% |
 | Commercially Monetizable | **2029** | 63% |
 
-Moderate timing confidence (65%) — roadmap exists but execution risk remains.
+Moderate timing confidence (65%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/) — *accelerates*
-- [Cultivated Meat at Scale](/future/tech/cultivated-meat-at-scale/) — *enables*
+- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/): *accelerates*
+- [Cultivated Meat at Scale](/future/tech/cultivated-meat-at-scale/): *enables*
 
 ## Investment Exposure
 

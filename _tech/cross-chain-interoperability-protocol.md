@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Cross-Chain Interoperability Protocol"
-subtitle: "Trustless asset and message bridging across different blockchains — CCIP, LayerZero"
+subtitle: "Trustless asset and message bridging across different blockchains: CCIP, LayerZero"
 category: Blockchain
 stage: pilot
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/cross-chain-interoperability-protocol/
 
 ## What This Is
 
-Trustless asset and message bridging across different blockchains — CCIP, LayerZero.
+Trustless asset and message bridging across different blockchains: CCIP, LayerZero.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **15 independent sources** on this technology.
 
@@ -43,7 +43,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2025–2031** | 60% |
 | Commercially Monetizable | **2029** | 61% |
 
-Moderate timing confidence (60%) — roadmap exists but execution risk remains.
+Moderate timing confidence (60%): roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

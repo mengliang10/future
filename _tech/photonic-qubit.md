@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Photonic Qubit"
-subtitle: "Quantum info in photon states; room temp, network-friendly — PsiQuantum"
+subtitle: "Quantum info in photon states; room temp, network-friendly: PsiQuantum"
 category: Quantum
 stage: prototype
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/photonic-qubit/
 
 ## What This Is
 
-Quantum info in photon states; room temp, network-friendly — PsiQuantum.
+Quantum info in photon states; room temp, network-friendly: PsiQuantum.
 
 Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **67 independent sources** on this technology.
 
@@ -43,7 +43,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2032** | 60% |
 | Commercially Monetizable | **2031** | 54% |
 
-Moderate timing confidence (60%) — roadmap exists but execution risk remains.
+Moderate timing confidence (60%): roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

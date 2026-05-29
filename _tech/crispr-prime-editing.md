@@ -43,13 +43,13 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2025–2030** | 80% |
 | Commercially Monetizable | **2029** | 64% |
 
-High timing confidence (80%) — multiple corroborating sources confirm this timeline.
+High timing confidence (80%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-gene-therapy/) ✓ — *accelerates*
+- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-gene-therapy/) ✓: *accelerates*
 
 ## Investment Exposure
 

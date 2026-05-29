@@ -40,7 +40,7 @@ Active micro-jets at the chip level to solve edge AI thermal throttling. **Devel
 
 ## Market Race
 
-**Clear Leader: [AAPL](/future/stocks/aapl/)** — 60% exposure confidence  
+**Clear Leader: [AAPL](/future/stocks/aapl/)**: 60% exposure confidence  
 **Position:** Direct pure-play  
 
 *Smartphones remain the largest opportunity, driven by competition around AI performance.*
@@ -52,13 +52,13 @@ Active micro-jets at the chip level to solve edge AI thermal throttling. **Devel
 | Technology Reality | **2027** | 70% |
 | Commercially Monetizable | **2027** | 75% |
 
-Moderate timing confidence (70%) — based on xMEMS micro-actuator integration roadmaps.
+Moderate timing confidence (70%): based on xMEMS micro-actuator integration roadmaps.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [AI Inference at Edge](/future/tech/ai-inference-at-edge/) — *enables*
+- [AI Inference at Edge](/future/tech/ai-inference-at-edge/): *enables*
 
 ## Investment Exposure
 

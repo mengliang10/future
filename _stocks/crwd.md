@@ -20,7 +20,7 @@ Detailed fundamental analysis and growth catalysts for CrowdStrike Holdings (CRW
 <span class="conf-badge conf-confirmed">Confirmed</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-desc">Continuous endpoint monitoring and AI threat detection — CrowdStrike, SentinelOne</div>
+<div class="roadmap-stock-item-desc">Continuous endpoint monitoring and AI threat detection: CrowdStrike, SentinelOne</div>
 <div class="roadmap-stock-item-impact">&#128200; CrowdStrike Falcon is the market-leading EDR platform. Mass market adoption driven by enterprise security mandates. Expanding into XDR, SIEM, and identity security to become a platform.</div>
 
 

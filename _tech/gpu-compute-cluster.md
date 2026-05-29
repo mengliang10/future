@@ -42,7 +42,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**6-Way Race** — 6 companies with meaningful exposure
+**6-Way Race**: 6 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -62,21 +62,21 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [HBM3 / HBM3e Stacked Memory](/future/tech/hbm3-hbm3e-stacked-memory/) ✓ — *requires*
-- [CoWoS Advanced Packaging](/future/tech/cowos-advanced-packaging/) ✓ — *requires*
-- [Cloud Hyperscaler Infrastructure](/future/tech/cloud-hyperscaler-infrastructure/) ✓ — *requires*
+- [HBM3 / HBM3e Stacked Memory](/future/tech/hbm3-hbm3e-stacked-memory/) ✓: *requires*
+- [CoWoS Advanced Packaging](/future/tech/cowos-advanced-packaging/) ✓: *requires*
+- [Cloud Hyperscaler Infrastructure](/future/tech/cloud-hyperscaler-infrastructure/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Transformer Architecture](/future/tech/transformer-architecture/) ✓ — *enables*
+- [Transformer Architecture](/future/tech/transformer-architecture/) ✓: *enables*
 
 ## Investment Exposure
 

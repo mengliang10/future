@@ -21,7 +21,7 @@ permalink: /tech/artificial-general-intelligence/
 
 AI matching human performance across all cognitive domains.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **51 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **51 independent sources** on this technology.
 
 > First open-source model matching OpenAI o1 on reasoning benchmarks. Pure RL (GRPO) without supervised fine-tuning for cold-start. Chain-of-thought reasoning emerges from RL. Demonstrates reasoning cap
 
@@ -45,19 +45,19 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2028–2045** | 25% |
 | Commercially Monetizable | **2036** | 21% |
 
-Low timing confidence (25%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (25%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [AI World Model](/future/tech/ai-world-model/) — *requires*
+- [AI World Model](/future/tech/ai-world-model/): *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Artificial Superintelligence (ASI)](/future/tech/artificial-superintelligence-asi/) — *enables*
+- [Artificial Superintelligence (ASI)](/future/tech/artificial-superintelligence-asi/): *enables*
 
 ## Investment Exposure
 

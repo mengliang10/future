@@ -27,7 +27,7 @@ jobs:
       - name: Refresh stock data (for conviction inputs)
         run: python scripts/fetch_stocks_enriched.py
 
-      - name: Run horizon check — flag overdue milestones
+      - name: Run horizon check: flag overdue milestones
         run: python /run/media/ml/data/Documents/Projects/Trading/Research/scripts/future/horizon_check.py --stage
         continue-on-error: true   # informational only; don't break pipeline
 

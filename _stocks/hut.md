@@ -9,7 +9,7 @@ regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis
-Hut 8 is executing the most aggressive pivot in public mining — from pure Bitcoin mining to high-performance computing infrastructure. Their American Bitcoin subsidiary continues mining while the parent company builds GPU clusters for AI inference, positioning for both BTC upside and AI infrastructure revenue.
+Hut 8 is executing the most aggressive pivot in public mining: from pure Bitcoin mining to high-performance computing infrastructure. Their American Bitcoin subsidiary continues mining while the parent company builds GPU clusters for AI inference, positioning for both BTC upside and AI infrastructure revenue.
 
 ### Key Drivers
 - **Dual Revenue Streams:** BTC mining + HPC hosting hedges crypto price volatility.

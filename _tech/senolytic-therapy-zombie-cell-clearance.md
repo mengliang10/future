@@ -43,13 +43,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2026–2034** | 55% |
 | Commercially Monetizable | **2031** | 58% |
 
-Moderate timing confidence (55%) — roadmap exists but execution risk remains.
+Moderate timing confidence (55%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Partial Biological Aging Reversal](/future/tech/partial-biological-aging-reversal/) — *enables*
+- [Partial Biological Aging Reversal](/future/tech/partial-biological-aging-reversal/): *enables*
 
 ## Investment Exposure
 

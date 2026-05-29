@@ -21,7 +21,7 @@ permalink: /tech/angstrom-era-chips-10-gate-length/
 
 Beyond 1nm: 2D semiconductors (MoS2, WSe2), quantum effects dominant.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **39 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **39 independent sources** on this technology.
 
 ## Status
 
@@ -43,13 +43,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2030–2038** | 35% |
 | Commercially Monetizable | **2041** | 26% |
 
-Low timing confidence (35%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (35%): timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Artificial Superintelligence (ASI)](/future/tech/artificial-superintelligence-asi/) — *enables*
+- [Artificial Superintelligence (ASI)](/future/tech/artificial-superintelligence-asi/): *enables*
 
 ## Investment Exposure
 

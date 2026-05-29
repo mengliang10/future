@@ -40,7 +40,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**3-Way Race** — 3 companies with meaningful exposure
+**3-Way Race**: 3 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -57,13 +57,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now–2027** | 88% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/) — *enables*
+- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/): *enables*
 
 ## Investment Exposure
 

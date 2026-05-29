@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Customer Data Platform (CDP)"
-subtitle: "Unified customer profile across touchpoints — Braze, Segment, Salesforce CDP"
+subtitle: "Unified customer profile across touchpoints: Braze, Segment, Salesforce CDP"
 category: Marketing Tech
 stage: mass_production
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/customer-data-platform-cdp/
 
 ## What This Is
 
-Unified customer profile across touchpoints — Braze, Segment, Salesforce CDP. **Achieved.**
+Unified customer profile across touchpoints: Braze, Segment, Salesforce CDP. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
 
@@ -40,12 +40,12 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
 | [BRZE](/future/stocks/brze/) | Braze Inc. | 88% | DIRECT | Real-time CDP for mobile-first brands **← Leader** |
-| [HUBS](/future/stocks/hubs/) | HubSpot Inc. | 80% | DIRECT | HubSpot CRM — SMB CDP leader |
+| [HUBS](/future/stocks/hubs/) | HubSpot Inc. | 80% | DIRECT | HubSpot CRM: SMB CDP leader |
 
 **Current leader:** [BRZE](/future/stocks/brze/) with **88%** exposure confidence based on our research.
 
@@ -56,7 +56,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

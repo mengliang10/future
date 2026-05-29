@@ -8,12 +8,12 @@ node_count: 2
 ---
 
 ## Investment Thesis
-Coinbase is the compliance-first crypto exchange — the only regulated venue where institutions, ETF custodians, and retail coexist. As Bitcoin ETF AUM grows past $50B, Coinbase earns custody fees on every dollar. Transaction fee volatility is offset by growing subscription and services revenue (staking, USDC yield, Base L2 activity).
+Coinbase is the compliance-first crypto exchange: the only regulated venue where institutions, ETF custodians, and retail coexist. As Bitcoin ETF AUM grows past $50B, Coinbase earns custody fees on every dollar. Transaction fee volatility is offset by growing subscription and services revenue (staking, USDC yield, Base L2 activity).
 
 ### Key Drivers
-- **ETF Custody Moat:** Custodian for BlackRock, Fidelity, and Invesco Bitcoin ETFs — fee income grows with AUM.
-- **Base L2:** Their Ethereum L2 chain processes millions of transactions — a platform business on top of an exchange.
-- **Staking Revenue:** Coinbase earns ~25% of staking rewards it processes — now a multi-hundred-million dollar annual stream.
+- **ETF Custody Moat:** Custodian for BlackRock, Fidelity, and Invesco Bitcoin ETFs: fee income grows with AUM.
+- **Base L2:** Their Ethereum L2 chain processes millions of transactions: a platform business on top of an exchange.
+- **Staking Revenue:** Coinbase earns ~25% of staking rewards it processes: now a multi-hundred-million dollar annual stream.
 
 ### Risk Factors
 - **Revenue Volatility:** Transaction revenue collapses in bear markets.
@@ -29,7 +29,7 @@ Coinbase is the compliance-first crypto exchange — the only regulated venue wh
 <span class="conf-badge conf-confirmed">Confirmed</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-desc">On-chain lending, trading, derivatives without intermediaries — $100B+ TVL</div>
+<div class="roadmap-stock-item-desc">On-chain lending, trading, derivatives without intermediaries: $100B+ TVL</div>
 <div class="roadmap-stock-item-impact">&#128200; Coinbase benefits from DeFi activity through Base (its L2 chain), exchange volume on ETH and DeFi tokens, and potential future integration of DeFi products into its institutional custody business.</div>
 
 

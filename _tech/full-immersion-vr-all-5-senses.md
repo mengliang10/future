@@ -21,7 +21,7 @@ permalink: /tech/full-immersion-vr-all-5-senses/
 
 Sensory immersion across sight, sound, touch, smell, proprioception in VR.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
 
 ## Status
 
@@ -43,14 +43,14 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2035–2060** | 15% |
 | Commercially Monetizable | **2047** | 16% |
 
-Low timing confidence (15%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (15%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Haptic Feedback Glove](/future/tech/haptic-feedback-glove/) — *requires*
-- [Real-Time AI 3D Rendering](/future/tech/real-time-ai-3d-rendering/) — *requires*
+- [Haptic Feedback Glove](/future/tech/haptic-feedback-glove/): *requires*
+- [Real-Time AI 3D Rendering](/future/tech/real-time-ai-3d-rendering/): *requires*
 
 ## Investment Exposure
 

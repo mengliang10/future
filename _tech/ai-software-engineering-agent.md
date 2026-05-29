@@ -42,11 +42,11 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**3-Way Race** — 3 companies with meaningful exposure
+**3-Way Race**: 3 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
-| [MSFT](/future/stocks/msft/) | Microsoft Corporation | 90% | DIRECT | GitHub Copilot — largest AI coding deployment **← Leader** |
+| [MSFT](/future/stocks/msft/) | Microsoft Corporation | 90% | DIRECT | GitHub Copilot: largest AI coding deployment **← Leader** |
 | [PLTR](/future/stocks/pltr/) | Palantir Technologies | 70% | primary | Palantir AIP (AI Platform) enables enterprise AI agent automation on propri |
 | [AMZN](/future/stocks/amzn/) | Amazon.com Inc. | 50% | secondary | Amazon CodeWhisperer and Q Developer are enterprise AI coding tools |
 
@@ -59,20 +59,20 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 90% |
 | Commercially Monetizable | **Now–2027** | 84% |
 
-High timing confidence (90%) — multiple corroborating sources confirm this timeline.
+High timing confidence (90%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt-4-class-1t-params/) ✓ — *requires*
+- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt-4-class-1t-params/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI-Assisted Chip Design (EDA AI)](/future/tech/ai-assisted-chip-design-eda-ai/) — *synergises with*
-- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/) — *enables*
+- [AI-Assisted Chip Design (EDA AI)](/future/tech/ai-assisted-chip-design-eda-ai/): *synergises with*
+- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/): *enables*
 
 ## Investment Exposure
 

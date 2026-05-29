@@ -9,7 +9,7 @@ bottleneck_count: 1
 ---
 
 ## Investment Thesis
-Marvell Technology has two converging investment theses: custom AI ASIC design for hyperscalers, and silicon photonics co-packaged optics for the next generation of data centre interconnects. On ASICs, Marvell designs custom inference chips for Google Cloud and Amazon AWS — high-margin, multi-year programs with recurring design wins. On photonics, Marvell's product portfolio explicitly includes silicon photonics, co-packaged optics, and linear pluggable optics — making it a direct beneficiary of the copper-to-optical transition that is the single highest-impact bottleneck in our tech graph. The two businesses are independently compelling; the combination is under-appreciated.
+Marvell Technology has two converging investment theses: custom AI ASIC design for hyperscalers, and silicon photonics co-packaged optics for the next generation of data centre interconnects. On ASICs, Marvell designs custom inference chips for Google Cloud and Amazon AWS: high-margin, multi-year programs with recurring design wins. On photonics, Marvell's product portfolio explicitly includes silicon photonics, co-packaged optics, and linear pluggable optics: making it a direct beneficiary of the copper-to-optical transition that is the single highest-impact bottleneck in our tech graph. The two businesses are independently compelling; the combination is under-appreciated.
 
 ## Future Tech Roadmap
 

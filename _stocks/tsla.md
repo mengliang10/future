@@ -19,7 +19,7 @@ Tesla is a bet on three simultaneous transitions: EV mass market adoption, Optim
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">2026</span>
 </div>
-<div class="roadmap-stock-item-desc">Humanoids performing real production tasks commercially — Tesla Giga 2026 target</div>
+<div class="roadmap-stock-item-desc">Humanoids performing real production tasks commercially: Tesla Giga 2026 target</div>
 <div class="roadmap-stock-item-impact">&#128200; NVIDIA provides the simulation platform (Isaac Sim) and training infrastructure for every major humanoid robot program. Robot training demand is additive to LLM training demand on the same GPU clusters.</div>
 
 
@@ -32,7 +32,7 @@ Tesla is a bet on three simultaneous transitions: EV mass market adoption, Optim
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">2018</span>
 </div>
-<div class="roadmap-stock-item-desc">Multi-GWh battery installations balancing grids — CATL, Tesla Megapack</div>
+<div class="roadmap-stock-item-desc">Multi-GWh battery installations balancing grids: CATL, Tesla Megapack</div>
 <div class="roadmap-stock-item-impact">&#128200; Tesla Megapack is the market-leading utility-scale battery product. Order backlog is multi-year. Energy storage is growing faster than Tesla's vehicle business on a percentage basis.</div>
 
 
@@ -84,7 +84,7 @@ Tesla is a bet on three simultaneous transitions: EV mass market adoption, Optim
 <span class="conf-badge conf-confirmed">Confirmed</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-desc">Combined steering + acceleration automation with driver supervision — Tesla AP</div>
+<div class="roadmap-stock-item-desc">Combined steering + acceleration automation with driver supervision: Tesla AP</div>
 <div class="roadmap-stock-item-impact">&#128200; Tesla Autopilot/FSD is deployed across the entire Tesla fleet (7M+ vehicles). This is a paid subscription and a data collection mechanism for training the FSD neural networks.</div>
 
 

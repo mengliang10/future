@@ -8,11 +8,11 @@ node_count: 3
 ---
 
 ## Investment Thesis
-Mobileye is the dominant ADAS chip and software provider to traditional OEMs — installed in 800M+ vehicles across 50+ car manufacturers. Their EyeQ chips handle lane keeping, emergency braking, and traffic sign recognition in most cars on the road today. SuperVision (full surround vision) and Drive (full autonomy) are the next-generation systems targeting Level 2+ through Level 4.
+Mobileye is the dominant ADAS chip and software provider to traditional OEMs: installed in 800M+ vehicles across 50+ car manufacturers. Their EyeQ chips handle lane keeping, emergency braking, and traffic sign recognition in most cars on the road today. SuperVision (full surround vision) and Drive (full autonomy) are the next-generation systems targeting Level 2+ through Level 4.
 
 ### Key Drivers
 - **SuperVision Adoption:** Design wins with BMW, ZEEKR, and others for hands-free highway driving.
-- **REM Mapping:** Road Experience Management crowdsources HD map updates from millions of vehicles — a data moat no new entrant can replicate.
+- **REM Mapping:** Road Experience Management crowdsources HD map updates from millions of vehicles: a data moat no new entrant can replicate.
 - **Intel Spin-out Clarity:** Independence from Intel improving strategic flexibility and investor confidence.
 
 ### Risk Factors
@@ -42,7 +42,7 @@ Mobileye is the dominant ADAS chip and software provider to traditional OEMs —
 <span class="conf-badge conf-confirmed">Confirmed</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-desc">Combined steering + acceleration automation with driver supervision — Tesla AP</div>
+<div class="roadmap-stock-item-desc">Combined steering + acceleration automation with driver supervision: Tesla AP</div>
 <div class="roadmap-stock-item-impact">&#128200; Tesla Autopilot/FSD is deployed across the entire Tesla fleet (7M+ vehicles). This is a paid subscription and a data collection mechanism for training the FSD neural networks.</div>
 
 

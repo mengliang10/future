@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Hand / Gesture Tracking"
-subtitle: "Controller-free hand tracking via cameras — Meta Quest, Leap Motion"
+subtitle: "Controller-free hand tracking via cameras: Meta Quest, Leap Motion"
 category: XR
 stage: mass_production
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/hand-gesture-tracking/
 
 ## What This Is
 
-Controller-free hand tracking via cameras — Meta Quest, Leap Motion. **Achieved.**
+Controller-free hand tracking via cameras: Meta Quest, Leap Motion. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
 
@@ -43,7 +43,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

@@ -43,7 +43,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2025–2029** | 75% |
 | Commercially Monetizable | **2027** | 76% |
 
-Moderate timing confidence (75%) — roadmap exists but execution risk remains.
+Moderate timing confidence (75%): roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

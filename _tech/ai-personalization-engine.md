@@ -40,7 +40,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Clear Leader: [BRZE](/future/stocks/brze/)** — 75% exposure confidence  
+**Clear Leader: [BRZE](/future/stocks/brze/)**: 75% exposure confidence  
 **Position:** Direct pure-play  
 
 *AI-powered messaging personalization*
@@ -52,20 +52,20 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2018–2026** | 88% |
 | Commercially Monetizable | **2019** | 83% |
 
-High timing confidence (88%) — multiple corroborating sources confirm this timeline.
+High timing confidence (88%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Customer Data Platform (CDP)](/future/tech/customer-data-platform-cdp/) ✓ — *requires*
-- [Retail Media Network (RMN)](/future/tech/retail-media-network-rmn/) ✓ — *requires*
+- [Customer Data Platform (CDP)](/future/tech/customer-data-platform-cdp/) ✓: *requires*
+- [Retail Media Network (RMN)](/future/tech/retail-media-network-rmn/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Neuro-Personalised Advertising](/future/tech/neuro-personalised-advertising/) — *enables*
+- [Neuro-Personalised Advertising](/future/tech/neuro-personalised-advertising/): *enables*
 
 ## Investment Exposure
 

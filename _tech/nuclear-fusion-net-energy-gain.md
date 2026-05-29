@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Nuclear Fusion Net Energy Gain"
-subtitle: "Fusion output exceeding laser driver input — NIF achieved Q>1 in Dec 2022"
+subtitle: "Fusion output exceeding laser driver input: NIF achieved Q>1 in Dec 2022"
 category: Energy Tech
 stage: proof_of_concept
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/nuclear-fusion-net-energy-gain/
 
 ## What This Is
 
-Fusion output exceeding laser driver input — NIF achieved Q>1 in Dec 2022. **Achieved.**
+Fusion output exceeding laser driver input: NIF achieved Q>1 in Dec 2022. **Achieved.**
 
 Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **40 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **2036** | 65% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Commercial Fusion Power Plant](/future/tech/commercial-fusion-power-plant/) — *enables*
+- [Commercial Fusion Power Plant](/future/tech/commercial-fusion-power-plant/): *enables*
 
 ## Investment Exposure
 

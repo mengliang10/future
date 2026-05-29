@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Retail Media Network (RMN)"
-subtitle: "Retailer first-party data monetized as ad inventory — Amazon Ads, Walmart Connect"
+subtitle: "Retailer first-party data monetized as ad inventory: Amazon Ads, Walmart Connect"
 category: Marketing Tech
 stage: mass_production
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/retail-media-network-rmn/
 
 ## What This Is
 
-Retailer first-party data monetized as ad inventory — Amazon Ads, Walmart Connect. **Achieved.**
+Retailer first-party data monetized as ad inventory: Amazon Ads, Walmart Connect. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **7 independent sources** on this technology.
 
@@ -43,7 +43,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 98% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (98%) — multiple corroborating sources confirm this timeline.
+High timing confidence (98%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

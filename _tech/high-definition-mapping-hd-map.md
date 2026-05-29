@@ -43,7 +43,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 95% |
 | Commercially Monetizable | **Now (deployed)** | 92% |
 
-High timing confidence (95%) — multiple corroborating sources confirm this timeline.
+High timing confidence (95%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

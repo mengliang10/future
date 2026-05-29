@@ -9,7 +9,7 @@ regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis
-Fortinet is the security platform for the mid-market and enterprise — the only major vendor building both hardware (ASICs) and software, enabling price/performance that pure-software competitors cannot match. FortiGate firewalls have 600K+ customers; the platform expands with every new product attached (SD-WAN, ZTNA, SASE, OT security).
+Fortinet is the security platform for the mid-market and enterprise: the only major vendor building both hardware (ASICs) and software, enabling price/performance that pure-software competitors cannot match. FortiGate firewalls have 600K+ customers; the platform expands with every new product attached (SD-WAN, ZTNA, SASE, OT security).
 
 ### Key Drivers
 - **Custom ASIC Advantage:** Proprietary security processing units deliver 5–10× performance vs software-only at the same price point.

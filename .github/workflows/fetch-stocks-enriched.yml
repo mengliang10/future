@@ -2,7 +2,7 @@ name: Fetch Stock Data (Enriched)
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Every 2 hours (reduced from 30min — richer data, slower)
+    - cron: '0 */2 * * *'  # Every 2 hours (reduced from 30min: richer data, slower)
   workflow_dispatch:
 
 permissions:
@@ -42,7 +42,7 @@ jobs:
           from datetime import datetime, timezone, timedelta
           updated = datetime.fromisoformat(data['updated'].replace('Z','+00:00'))
           age = (datetime.now(timezone.utc) - updated).total_seconds()
-          assert age < 7200, f'Data is {age/3600:.1f}h old — may be stale'
+          assert age < 7200, f'Data is {age/3600:.1f}h old: may be stale'
           print(f'OK: {len(stocks)} stocks, {null_prices} null prices, {null_timing} null engine, age={age/60:.0f}min')
           "
 

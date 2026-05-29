@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Search Engine Advertising (SEM/PPC)"
-subtitle: "Intent-based advertising via keyword auctions — Google AdWords since 2000"
+subtitle: "Intent-based advertising via keyword auctions: Google AdWords since 2000"
 category: Marketing Tech
 stage: mass_production
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/search-engine-advertising-semppc/
 
 ## What This Is
 
-Intent-based advertising via keyword auctions — Google AdWords since 2000. **Achieved.**
+Intent-based advertising via keyword auctions: Google AdWords since 2000. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **22 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Programmatic Display Advertising](/future/tech/programmatic-display-advertising/) ✓ — *enables*
+- [Programmatic Display Advertising](/future/tech/programmatic-display-advertising/) ✓: *enables*
 
 ## Investment Exposure
 

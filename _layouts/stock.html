@@ -48,7 +48,7 @@ layout: default
     </div>
     {% endif %}
 
-    <!-- TradingView Widget BEGIN (chart at bottom — easier navigation) -->
+    <!-- TradingView Widget BEGIN (chart at bottom: easier navigation) -->
     {% unless page.exchange == "PRIVATE" %}
     <div style="margin-top: 2.5rem;">
       <h3 style="font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;color:var(--text-3);margin-bottom:0.75rem;">Price Chart</h3>
@@ -148,7 +148,7 @@ layout: default
 
 @media (max-width: 1024px) {
   .stock-grid { grid-template-columns: 1fr; }
-  .stock-side-col { order: -1; }
+  .stock-side-col { order: 1; }
 }
 
 .stock-card {

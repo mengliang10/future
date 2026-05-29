@@ -21,7 +21,7 @@ permalink: /tech/artificial-superintelligence-asi/
 
 AI far exceeding human cognitive ability in every domain.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **12 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **12 independent sources** on this technology.
 
 ## Status
 
@@ -43,7 +43,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2033–2060** | 10% |
 | Commercially Monetizable | **2050** | 14% |
 
-Low timing confidence (10%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (10%): timeline is speculative; watch for milestone announcements.
 
 ## Investment Exposure
 

@@ -9,7 +9,7 @@ regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis
-Editas is the CRISPR pioneer — founded by Jennifer Doudna and Feng Zhang's collaborators, holding foundational IP through the Broad Institute. Their lead programme targets Leber Congenital Amaurosis 10 (LCA10), an eye disease that causes blindness — the first in-vivo CRISPR therapy attempt in the human body. They are the highest-risk, highest-upside gene editing bet.
+Editas is the CRISPR pioneer: founded by Jennifer Doudna and Feng Zhang's collaborators, holding foundational IP through the Broad Institute. Their lead programme targets Leber Congenital Amaurosis 10 (LCA10), an eye disease that causes blindness: the first in-vivo CRISPR therapy attempt in the human body. They are the highest-risk, highest-upside gene editing bet.
 
 ### Key Drivers
 - **In-Vivo Editing Pioneer:** Delivering CRISPR directly into the eye is a proof-of-concept for all in-vivo editing.

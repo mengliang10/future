@@ -43,13 +43,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2025–2030** | 70% |
 | Commercially Monetizable | **2026** | 74% |
 
-Moderate timing confidence (70%) — roadmap exists but execution risk remains.
+Moderate timing confidence (70%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Deep Brain Stimulation (DBS)](/future/tech/deep-brain-stimulation-dbs/) ✓ — *requires*
+- [Deep Brain Stimulation (DBS)](/future/tech/deep-brain-stimulation-dbs/) ✓: *requires*
 
 ## Investment Exposure
 

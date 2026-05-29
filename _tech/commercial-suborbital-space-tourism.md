@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Commercial Suborbital Space Tourism"
-subtitle: "Paying passengers on suborbital flights — Blue Origin NS, Virgin Galactic"
+subtitle: "Paying passengers on suborbital flights: Blue Origin NS, Virgin Galactic"
 category: Space Tech
 stage: early_commercial
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/commercial-suborbital-space-tourism/
 
 ## What This Is
 
-Paying passengers on suborbital flights — Blue Origin NS, Virgin Galactic. **Achieved.**
+Paying passengers on suborbital flights: Blue Origin NS, Virgin Galactic. **Achieved.**
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **3 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now–2027** | 88% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Commercial Space Station (post-ISS)](/future/tech/commercial-space-station-post-iss/) — *enables*
+- [Commercial Space Station (post-ISS)](/future/tech/commercial-space-station-post-iss/): *enables*
 
 ## Investment Exposure
 

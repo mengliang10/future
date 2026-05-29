@@ -40,13 +40,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**3-Way Race** — 3 companies with meaningful exposure
+**3-Way Race**: 3 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
-| [AMZN](/future/stocks/amzn/) | Amazon.com Inc. | 90% | primary | AWS is the #1 cloud provider globally — the infrastructure on which AI work **← Leader** |
-| [GOOGL](/future/stocks/googl/) | Alphabet Inc. | 80% | DIRECT | GCP — #3 cloud globally |
-| [MSFT](/future/stocks/msft/) | Microsoft Corporation | 80% | DIRECT | Azure — #2 cloud globally |
+| [AMZN](/future/stocks/amzn/) | Amazon.com Inc. | 90% | primary | AWS is the #1 cloud provider globally: the infrastructure on which AI work **← Leader** |
+| [GOOGL](/future/stocks/googl/) | Alphabet Inc. | 80% | DIRECT | GCP: #3 cloud globally |
+| [MSFT](/future/stocks/msft/) | Microsoft Corporation | 80% | DIRECT | Azure: #2 cloud globally |
 
 **Current leader:** [AMZN](/future/stocks/amzn/) with **90%** exposure confidence based on our research.
 
@@ -57,7 +57,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

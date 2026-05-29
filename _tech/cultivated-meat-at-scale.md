@@ -43,7 +43,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2027–2036** | 50% |
 | Commercially Monetizable | **2032** | 56% |
 
-Moderate timing confidence (50%) — roadmap exists but execution risk remains.
+Moderate timing confidence (50%): roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

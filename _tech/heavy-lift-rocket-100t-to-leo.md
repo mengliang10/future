@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Heavy Lift Rocket (100t to LEO)"
-subtitle: "Rockets lifting 100+ metric tons to LEO — Starship (150t), SLS (95t)"
+subtitle: "Rockets lifting 100+ metric tons to LEO: Starship (150t), SLS (95t)"
 category: Space Tech
 stage: pilot
 confidence_label: Researching
@@ -19,7 +19,7 @@ permalink: /tech/heavy-lift-rocket-100t-to-leo/
 
 ## What This Is
 
-Rockets lifting 100+ metric tons to LEO — Starship (150t), SLS (95t).
+Rockets lifting 100+ metric tons to LEO: Starship (150t), SLS (95t).
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **4 independent sources** on this technology.
 
@@ -43,7 +43,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2026–2028** | 82% |
 | Commercially Monetizable | **2028** | 72% |
 
-High timing confidence (82%) — multiple corroborating sources confirm this timeline.
+High timing confidence (82%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

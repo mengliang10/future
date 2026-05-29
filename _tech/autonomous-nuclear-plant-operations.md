@@ -21,7 +21,7 @@ permalink: /tech/autonomous-nuclear-plant-operations/
 
 Humanoid and specialised robots performing maintenance, inspection, and operation of nuclear facilities reducing human radiation exposure..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **89 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **89 independent sources** on this technology.
 
 ## Status
 
@@ -42,13 +42,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **TBD** | 0% |
 | Commercially Monetizable | **2035+** | 9% |
 
-Timeline not yet established — depends on research breakthroughs that are not yet predictable.
+Timeline not yet established: depends on research breakthroughs that are not yet predictable.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Small Modular Reactor (<300MWe)](/future/tech/small-modular-reactor-300mwe/) — *enables*
+- [Small Modular Reactor (<300MWe)](/future/tech/small-modular-reactor-300mwe/): *enables*
 
 ## Investment Exposure
 

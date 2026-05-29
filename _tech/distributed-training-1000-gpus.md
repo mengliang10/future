@@ -45,13 +45,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [GPU Compute Cluster](/future/tech/gpu-compute-cluster/) ✓ — *requires*
+- [GPU Compute Cluster](/future/tech/gpu-compute-cluster/) ✓: *requires*
 
 ## Investment Exposure
 

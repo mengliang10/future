@@ -20,7 +20,7 @@ Detailed fundamental analysis and growth catalysts for Intuitive Surgical Inc. (
 <span class="conf-badge conf-confirmed">Confirmed</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-desc">Telemanipulation surgical systems — Intuitive da Vinci, Medtronic Hugo, CMR Versius</div>
+<div class="roadmap-stock-item-desc">Telemanipulation surgical systems: Intuitive da Vinci, Medtronic Hugo, CMR Versius</div>
 <div class="roadmap-stock-item-impact">&#128200; Intuitive Surgical da Vinci is the dominant surgical robot with 8,000+ systems installed globally. Recurring revenue from instruments and service exceeds hardware sales.</div>
 
 

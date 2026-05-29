@@ -37,7 +37,7 @@ Arista is the dominant vendor for high-speed Ethernet switching in AI data centr
 <span class="conf-badge conf-confirmed">Confirmed</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-impact">&#128200; Arista's largest customers are AWS, Meta, Microsoft Azure, and Google — all accelerating AI infrastructure buildout. Revenue concentration in hyperscalers is both the thesis and the risk.</div>
+<div class="roadmap-stock-item-impact">&#128200; Arista's largest customers are AWS, Meta, Microsoft Azure, and Google: all accelerating AI infrastructure buildout. Revenue concentration in hyperscalers is both the thesis and the risk.</div>
 </div>
 
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Pig-to-Human Xenotransplantation"
-subtitle: "Genetically modified pig organs in humans — kidney cases 2024, heart 2022"
+subtitle: "Genetically modified pig organs in humans: kidney cases 2024, heart 2022"
 category: Biotech
 stage: pilot
 confidence_label: Researching
@@ -19,7 +19,7 @@ permalink: /tech/pig-to-human-xenotransplantation/
 
 ## What This Is
 
-Genetically modified pig organs in humans — kidney cases 2024, heart 2022.
+Genetically modified pig organs in humans: kidney cases 2024, heart 2022.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **1 independent source** on this technology.
 
@@ -43,7 +43,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2026–2028** | 80% |
 | Commercially Monetizable | **2028** | 71% |
 
-High timing confidence (80%) — multiple corroborating sources confirm this timeline.
+High timing confidence (80%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

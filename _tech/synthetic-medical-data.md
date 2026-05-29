@@ -40,7 +40,7 @@ If a dataset lacks adequate representation, RoentGen can generate synthetic X-ra
 
 ## Market Race
 
-**Clear Leader: [GEHC](/future/stocks/gehc/)** — 65% exposure confidence  
+**Clear Leader: [GEHC](/future/stocks/gehc/)**: 65% exposure confidence  
 **Position:** Direct pure-play  
 
 *Medical imaging leaders are using synthetic data to augment training sets.*
@@ -56,7 +56,7 @@ If a dataset lacks adequate representation, RoentGen can generate synthetic X-ra
 
 This technology depends on or requires advances in:
 
-- [Generative AI](/future/tech/generative-ai/) — *requires*
+- [Generative AI](/future/tech/generative-ai/): *requires*
 
 ## Investment Exposure
 

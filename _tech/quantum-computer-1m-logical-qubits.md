@@ -21,7 +21,7 @@ permalink: /tech/quantum-computer-1m-logical-qubits/
 
 Scale needed for breaking RSA-2048 and full chemistry simulation.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **50 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **50 independent sources** on this technology.
 
 ## Status
 
@@ -43,13 +43,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2038–2060** | 20% |
 | Commercially Monetizable | **2053** | 19% |
 
-Low timing confidence (20%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (20%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [PQC Enterprise Deployment](/future/tech/pqc-enterprise-deployment/) — *blocked by*
+- [PQC Enterprise Deployment](/future/tech/pqc-enterprise-deployment/): *blocked by*
 
 ## Investment Exposure
 

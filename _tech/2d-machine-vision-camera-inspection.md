@@ -40,7 +40,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [CGNX](/future/stocks/cgnx/)** — 90% exposure confidence  
+**Clear Leader: [CGNX](/future/stocks/cgnx/)**: 90% exposure confidence  
 **Position:** Direct pure-play  
 
 *30%+ machine vision global market share*
@@ -52,13 +52,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [3D Machine Vision / Point Cloud](/future/tech/3d-machine-vision-point-cloud/) ✓ — *enables*
+- [3D Machine Vision / Point Cloud](/future/tech/3d-machine-vision-point-cloud/) ✓: *enables*
 
 ## Investment Exposure
 

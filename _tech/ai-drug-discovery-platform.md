@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "AI Drug Discovery Platform"
-subtitle: "End-to-end AI for target ID, lead optimization, clinical prediction — Recursion, Insilico"
+subtitle: "End-to-end AI for target ID, lead optimization, clinical prediction: Recursion, Insilico"
 category: Biotech
 stage: pilot
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/ai-drug-discovery-platform/
 
 ## What This Is
 
-End-to-end AI for target ID, lead optimization, clinical prediction — Recursion, Insilico.
+End-to-end AI for target ID, lead optimization, clinical prediction: Recursion, Insilico.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **27 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 
 ## Market Race
 
-**Clear Leader: [RXRX](/future/stocks/rxrx/)** — 88% exposure confidence  
+**Clear Leader: [RXRX](/future/stocks/rxrx/)**: 88% exposure confidence  
 **Position:** Direct pure-play  
 
 *Phenomics + AI foundation model pipeline*
@@ -52,21 +52,21 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2025–2030** | 75% |
 | Commercially Monetizable | **2027** | 68% |
 
-Moderate timing confidence (75%) — roadmap exists but execution risk remains.
+Moderate timing confidence (75%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Protein Structure Prediction (AI)](/future/tech/protein-structure-prediction-ai/) ✓ — *requires*
+- [Protein Structure Prediction (AI)](/future/tech/protein-structure-prediction-ai/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Cancer Elimination (Most Types)](/future/tech/cancer-elimination-most-types/) — *accelerates*
-- [Senolytic Therapy (Zombie Cell Clearance)](/future/tech/senolytic-therapy-zombie-cell-clearance/) — *accelerates*
-- [Quantum Protein Folding Solver](/future/tech/quantum-protein-folding-solver/) — *synergises with*
+- [Cancer Elimination (Most Types)](/future/tech/cancer-elimination-most-types/): *accelerates*
+- [Senolytic Therapy (Zombie Cell Clearance)](/future/tech/senolytic-therapy-zombie-cell-clearance/): *accelerates*
+- [Quantum Protein Folding Solver](/future/tech/quantum-protein-folding-solver/): *synergises with*
 
 ## Investment Exposure
 

@@ -40,7 +40,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**3-Way Race** — 3 companies with meaningful exposure
+**3-Way Race**: 3 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -57,13 +57,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2025–2028** | 75% |
 | Commercially Monetizable | **2026** | 76% |
 
-Moderate timing confidence (75%) — roadmap exists but execution risk remains.
+Moderate timing confidence (75%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Agent Swarms](/future/tech/ai-agent-swarms/) — *enables*
+- [AI Agent Swarms](/future/tech/ai-agent-swarms/): *enables*
 
 ## Investment Exposure
 

@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Chain-of-Thought Reasoning Model"
-subtitle: "Models that think step-by-step before answering — o1, o3, DeepSeek R1"
+subtitle: "Models that think step-by-step before answering: o1, o3, DeepSeek R1"
 category: AI & Cloud
 stage: mass_production
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/chain-of-thought-reasoning-model/
 
 ## What This Is
 
-Models that think step-by-step before answering — o1, o3, DeepSeek R1. **Achieved.**
+Models that think step-by-step before answering: o1, o3, DeepSeek R1. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **37 independent sources** on this technology.
 
@@ -45,16 +45,16 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/) — *enables*
-- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/) — *accelerates*
-- [Inference-Time Compute Scaling (Test-Time RL)](/future/tech/inference-time-compute-scaling-test-time-rl/) ✓ — *synergises with*
-- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/) — *enables*
+- [Autonomous AI Agent](/future/tech/autonomous-ai-agent/): *enables*
+- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/): *accelerates*
+- [Inference-Time Compute Scaling (Test-Time RL)](/future/tech/inference-time-compute-scaling-test-time-rl/) ✓: *synergises with*
+- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/): *enables*
 
 ## Investment Exposure
 

@@ -43,13 +43,13 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2034** | 60% |
 | Commercially Monetizable | **2032** | 54% |
 
-Moderate timing confidence (60%) — roadmap exists but execution risk remains.
+Moderate timing confidence (60%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Solar <$0.01/kWh LCOE](/future/tech/solar-001kwh-lcoe/) — *accelerates*
+- [Solar <$0.01/kWh LCOE](/future/tech/solar-001kwh-lcoe/): *accelerates*
 
 ## Investment Exposure
 

@@ -21,7 +21,7 @@ permalink: /tech/space-based-solar-power-sbsp/
 
 GW-scale solar arrays in GEO beaming microwave power to Earth surface.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **12 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **12 independent sources** on this technology.
 
 ## Status
 
@@ -43,13 +43,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2035–2060** | 25% |
 | Commercially Monetizable | **2043** | 21% |
 
-Low timing confidence (25%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (25%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/) — *requires*
+- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/): *requires*
 
 ## Investment Exposure
 

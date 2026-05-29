@@ -1,10 +1,10 @@
-# Enhancement 16 — Agentic Martech Stack
+# Enhancement 16: Agentic Martech Stack
 
 ## Problem
 
-The Martech for 2026 report (chiefmartec / MartechTribe, Dec 2025) identifies a fundamental shift: **90.3% of marketing organisations are using AI agents**, yet most are still in the experimental phase. The three domains of AI agents — *Agents for Marketers* (internal), *Agents for Customers* (customer-facing), and *Agents of Customers* (buyer-side) — are all reshaping how the platform must operate. Currently, the platform has zero agentic capabilities. Everything is manual or scheduled batch scripts.
+The Martech for 2026 report (chiefmartec / MartechTribe, Dec 2025) identifies a fundamental shift: **90.3% of marketing organisations are using AI agents**, yet most are still in the experimental phase. The three domains of AI agents: *Agents for Marketers* (internal), *Agents for Customers* (customer-facing), and *Agents of Customers* (buyer-side): are all reshaping how the platform must operate. Currently, the platform has zero agentic capabilities. Everything is manual or scheduled batch scripts.
 
-**"AI is a commodity. Context is differentiation."** — The report identifies poor data quality (56.3% of organisations cite this as their #1 AI challenge) and context engineering — getting the right data to the right agent at the right time — as the real implementation challenge.
+**"AI is a commodity. Context is differentiation."**: The report identifies poor data quality (56.3% of organisations cite this as their #1 AI challenge) and context engineering: getting the right data to the right agent at the right time: as the real implementation challenge.
 
 ---
 
@@ -14,20 +14,20 @@ A layered agentic stack built on top of the existing platform infrastructure. Ea
 
 ```mermaid
 graph TD
-    subgraph Layer1["Layer 1 — Agents for Marketers (Internal)"]
+    subgraph Layer1["Layer 1: Agents for Marketers (Internal)"]
         CONTENT_AGENT[Content Production Agent\nDraft tech node updates from evidence]
         SEO_AGENT[SEO Agent\nOptimise pages flagged by weekly audit]
         COMPETITIVE[Competitive Analysis Agent\nMonitor competitor sites + tech DB changes]
         DATAHYGIENE[Data Hygiene Agent\nFlag stale nodes, validate confidence scores]
     end
 
-    subgraph Layer2["Layer 2 — Agents for Customers (Platform-facing)"]
+    subgraph Layer2["Layer 2: Agents for Customers (Platform-facing)"]
         CHATBOT[Research Chatbot\nQ&A on tech node data]
         RECO_AGENT[Recommendation Agent\nPersonalised content paths]
         ALERT_AGENT[Technology Alert Agent\nNotify subscribers on node updates]
     end
 
-    subgraph Layer3["Layer 3 — Agents of Customers (Buyer-side readiness)"]
+    subgraph Layer3["Layer 3: Agents of Customers (Buyer-side readiness)"]
         LLMSTXT[llms.txt published\nAI assistants can discover content]
         MCP_SERVER[MCP Server\nAgents can query tech_graph.db directly]
         MACHINE_FEED[Machine-readable feeds\nJSON/CSV for AI price/data agents]
@@ -46,7 +46,7 @@ graph TD
 
 ---
 
-## Layer 1 — Agents for Marketers
+## Layer 1: Agents for Marketers
 
 ### Content Production Agent
 
@@ -65,7 +65,7 @@ sequenceDiagram
     CTX->>AGENT: {node, evidence_history, related_nodes, audience_signals}
     AGENT->>AGENT: Draft updated "What This Is" + FAQ sections
     AGENT->>DRAFT: Write to _tech/_drafts/node-id.md
-    DRAFT->>HUMAN: Notification: "Draft ready for node X — review?"
+    DRAFT->>HUMAN: Notification: "Draft ready for node X: review?"
     HUMAN-->>LIVE: Approve → regen_tech_pages.py publishes
 ```
 
@@ -74,7 +74,7 @@ sequenceDiagram
 ### Data Hygiene Agent (Weekly Cron)
 
 ```python
-# hygiene_agent.py — weekly run
+# hygiene_agent.py: weekly run
 # 1. Find nodes with src_count > 0 but no source_date in last 180 days → flag as stale
 # 2. Find nodes where confidence changed >0.2 in last 30 days → flag for review
 # 3. Find nodes with no edges → flag as orphaned
@@ -84,7 +84,7 @@ sequenceDiagram
 
 ---
 
-## Layer 2 — Agents for Customers
+## Layer 2: Agents for Customers
 
 ### Research Chatbot
 
@@ -118,7 +118,7 @@ Users subscribe to technology nodes. When evidence is inserted and confidence ch
 
 ---
 
-## Layer 3 — Agents of Customers (Buyer-Side Readiness)
+## Layer 3: Agents of Customers (Buyer-Side Readiness)
 
 The report identifies this as the most disruptive domain: AI assistants (ChatGPT, Claude, Gemini) acting as buyers' research agents, bypassing traditional content discovery. The platform must make itself accessible to these agents:
 
@@ -140,7 +140,7 @@ graph LR
     BuyerAgents -->|Discover + query| OurReadiness
 ```
 
-**`/agents.json`** — emerging standard for declaring agent capabilities:
+**`/agents.json`**: emerging standard for declaring agent capabilities:
 ```json
 {
   "name": "Future Trends Tech Intelligence",
@@ -164,7 +164,7 @@ graph LR
 
 ## Context Engineering Architecture
 
-The report's central thesis: context engineering — the pipeline from data to AI agent — is the real implementation challenge and the real competitive moat.
+The report's central thesis: context engineering: the pipeline from data to AI agent: is the real implementation challenge and the real competitive moat.
 
 ```mermaid
 flowchart TD
@@ -176,7 +176,7 @@ flowchart TD
     end
 
     subgraph ContextEngineering["Context Engineering Pipeline"]
-        PRECOMP[Pre-compute context bundles\nnightly — all 212 nodes]
+        PRECOMP[Pre-compute context bundles\nnightly: all 212 nodes]
         EMBED[Build vector index\nnode descriptions + evidence]
         GRAPH_EMBED[Graph embeddings\nnode2vec on tg_edges]
         FRESHEN[Freshness check\nflag stale > 7 days]
@@ -201,16 +201,16 @@ flowchart TD
 gantt
     title Agentic Stack Build Phases
     dateFormat YYYY-MM
-    section Phase 1 — Context
+    section Phase 1: Context
     Context bundle generator (all 212 nodes)    :ag1, 2026-07, 2w
     Vector index with Chroma OSS                :ag2, after ag1, 2w
-    section Phase 2 — Internal Agents
+    section Phase 2: Internal Agents
     Data hygiene agent (weekly cron)            :ag3, 2026-08, 1w
     Content draft agent (on evidence insert)    :ag4, after ag3, 2w
-    section Phase 3 — Customer Agents
+    section Phase 3: Customer Agents
     Research chatbot (RAG on tech_graph)        :ag5, 2026-10, 3w
     Technology alert agent                      :ag6, after ag5, 2w
-    section Phase 4 — Buyer Readiness
+    section Phase 4: Buyer Readiness
     /llms.txt + /agents.json published          :ag7, 2026-12, 1w
     JSON API for tech index                     :ag8, after ag7, 2w
     MCP server (query + list tools)             :ag9, after ag8, 3w
@@ -234,5 +234,5 @@ gantt
 ## Open Questions
 
 - n8n self-hosted (workflow automation, free OSS) vs custom Python scripts for agent orchestration: n8n is better for multi-step workflows with branching logic; Python scripts are better for data-heavy transformations. Use n8n for agent pipelines, Python for ETL.
-- The report notes 17.5% of organisations now provide an MCP server. Is it premature to build one now? No — the effort is 1–2 weeks and the upside (being discoverable by AI agents) compounds with AEO/GEO strategies.
+- The report notes 17.5% of organisations now provide an MCP server. Is it premature to build one now? No: the effort is 1–2 weeks and the upside (being discoverable by AI agents) compounds with AEO/GEO strategies.
 - LLM cost: Claude API at $3/million input tokens. A content draft agent running on 212 nodes weekly with ~2K token context bundles = ~$1.27/week. Negligible.

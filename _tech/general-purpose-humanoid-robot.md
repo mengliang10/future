@@ -43,13 +43,13 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **2030–2042** | 35% |
 | Commercially Monetizable | **2040** | 33% |
 
-Low timing confidence (35%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (35%): timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Post-Scarcity Robotic Manufacturing](/future/tech/post-scarcity-robotic-manufacturing/) — *enables*
+- [Post-Scarcity Robotic Manufacturing](/future/tech/post-scarcity-robotic-manufacturing/): *enables*
 
 ## Investment Exposure
 

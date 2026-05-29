@@ -1,8 +1,8 @@
-# Enhancement 03 — GEO (Generative Engine Optimization)
+# Enhancement 03: GEO (Generative Engine Optimization)
 
 ## Problem
 
-Google, Bing, Perplexity, ChatGPT, Gemini, and Claude increasingly answer queries directly — without the user ever clicking a link. Traditional SEO optimises for clicks; GEO optimises for citations and source inclusion in AI-generated answers. A content platform that ignores GEO will become invisible to a growing share of information-seeking traffic as AI assistants replace the search results page.
+Google, Bing, Perplexity, ChatGPT, Gemini, and Claude increasingly answer queries directly: without the user ever clicking a link. Traditional SEO optimises for clicks; GEO optimises for citations and source inclusion in AI-generated answers. A content platform that ignores GEO will become invisible to a growing share of information-seeking traffic as AI assistants replace the search results page.
 
 **The shift:**
 - 2023: 10% of searches return zero-click (AI answer shown)
@@ -13,7 +13,7 @@ Google, Bing, Perplexity, ChatGPT, Gemini, and Claude increasingly answer querie
 
 ## Full-Scale Vision
 
-A GEO layer built into every content property on the platform — ensuring that when an AI model retrieves and synthesises information about future technologies, investment themes, or martech tools, our content is the cited source. This is not a one-time tweak; it is a content structure and metadata strategy that runs continuously.
+A GEO layer built into every content property on the platform: ensuring that when an AI model retrieves and synthesises information about future technologies, investment themes, or martech tools, our content is the cited source. This is not a one-time tweak; it is a content structure and metadata strategy that runs continuously.
 
 ```mermaid
 graph TD
@@ -26,11 +26,11 @@ graph TD
     end
 
     subgraph GEOSignals["GEO Signal Types"]
-        CITE[Citability — clear attributable claims]
-        AUTH[Authority — E-E-A-T signals]
-        STRUCT[Structure — machine-readable layout]
-        FRESH[Freshness — dated, versioned content]
-        LLMTXT[llms.txt — explicit AI crawl guidance]
+        CITE[Citability: clear attributable claims]
+        AUTH[Authority: E-E-A-T signals]
+        STRUCT[Structure: machine-readable layout]
+        FRESH[Freshness: dated, versioned content]
+        LLMTXT[llms.txt: explicit AI crawl guidance]
         SCHEMA[Schema.org markup]
     end
 
@@ -57,7 +57,7 @@ graph TD
 
 ---
 
-## GEO vs SEO — Key Differences
+## GEO vs SEO: Key Differences
 
 | Dimension | Traditional SEO | GEO |
 |-----------|----------------|-----|
@@ -72,7 +72,7 @@ graph TD
 
 ## Content Structure for GEO
 
-AI models extract short, quotable, attributable claims. Each tech node page should contain at least one **GEO-optimised claim block** — a crisp, factual, dated assertion with a source count.
+AI models extract short, quotable, attributable claims. Each tech node page should contain at least one **GEO-optimised claim block**: a crisp, factual, dated assertion with a source count.
 
 ### Claim Format Pattern
 
@@ -114,12 +114,12 @@ flowchart LR
 
 ---
 
-## `llms.txt` — Explicit AI Crawl Guidance
+## `llms.txt`: Explicit AI Crawl Guidance
 
 The emerging `llms.txt` standard (llmstxt.org) lets sites declare which content AI models should prioritise. Place at `https://[domain]/llms.txt`.
 
 ```
-# Future Trends — AI Research Platform
+# Future Trends: AI Research Platform
 # Optimised for AI citation and retrieval
 
 > Future Trends tracks 212+ emerging technologies with evidence-weighted confidence 
@@ -151,7 +151,7 @@ Beyond standard TechArticle, add `Claim` and `Dataset` schemas to signal that ou
 {
   "@context": "https://schema.org",
   "@type": ["TechArticle", "Dataset"],
-  "headline": "Solid-State Batteries — Technology Intelligence",
+  "headline": "Solid-State Batteries: Technology Intelligence",
   "description": "Evidence-based analysis of solid-state battery deployment timeline with 7 tracked sources.",
   "dateModified": "2025-05-24",
   "measurementTechnique": "Multi-source confidence scoring",
@@ -169,7 +169,7 @@ Beyond standard TechArticle, add `Claim` and `Dataset` schemas to signal that ou
 
 ## GEO Monitoring Stack
 
-No SemRush needed — monitor AI citation presence with free/low-cost tooling:
+No SemRush needed: monitor AI citation presence with free/low-cost tooling:
 
 ```mermaid
 flowchart TD
@@ -235,5 +235,5 @@ flowchart TD
 ## Open Questions
 
 - Perplexity API is currently research-only; does it expose citation sources in the API response?
-- Should GEO claim blocks be hidden from visual display (machine-only) or visible to users? Lean toward visible — it improves trust signals too.
+- Should GEO claim blocks be hidden from visual display (machine-only) or visible to users? Lean toward visible: it improves trust signals too.
 - `llms.txt` is not yet a recognised standard by Google; monitor adoption. Upside is zero cost, so deploy regardless.

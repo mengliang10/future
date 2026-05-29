@@ -21,7 +21,7 @@ permalink: /tech/neuro-personalised-advertising/
 
 Ads optimized for individual neural response patterns via BCI biofeedback.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **4 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **4 independent sources** on this technology.
 
 ## Status
 
@@ -43,7 +43,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2038–2065** | 10% |
 | Commercially Monetizable | **2053** | 14% |
 
-Low timing confidence (10%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (10%): timeline is speculative; watch for milestone announcements.
 
 ## Investment Exposure
 

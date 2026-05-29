@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Autonomous Trucking (Highway ODD)"
-subtitle: "Driverless freight on interstate highways — Aurora, Waymo Via, Plus.ai"
+subtitle: "Driverless freight on interstate highways: Aurora, Waymo Via, Plus.ai"
 category: Autonomous
 stage: pilot
 confidence_label: Confident
@@ -21,7 +21,7 @@ permalink: /tech/autonomous-trucking-highway-odd/
 
 ## What This Is
 
-Driverless freight on interstate highways — Aurora, Waymo Via, Plus.ai.
+Driverless freight on interstate highways: Aurora, Waymo Via, Plus.ai.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **3 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -56,19 +56,19 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2025–2030** | 70% |
 | Commercially Monetizable | **2027** | 66% |
 
-Moderate timing confidence (70%) — roadmap exists but execution risk remains.
+Moderate timing confidence (70%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/) ✓ — *requires*
+- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Autonomous Lunar/Mars Rover Fleet](/future/tech/autonomous-lunarmars-rover-fleet/) — *synergises with*
+- [Autonomous Lunar/Mars Rover Fleet](/future/tech/autonomous-lunarmars-rover-fleet/): *synergises with*
 
 ## Investment Exposure
 

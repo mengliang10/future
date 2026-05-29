@@ -8,7 +8,7 @@ categories: [Semiconductors]
 
 ## Investment Thesis
 
-Analog Devices supplies mixed-signal chips for industrial automation, automotive, and communications — a foundational semiconductor holding.
+Analog Devices supplies mixed-signal chips for industrial automation, automotive, and communications: a foundational semiconductor holding.
 
 ## Future Tech Exposure
 

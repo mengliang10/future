@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Quadruped Robot Locomotion"
-subtitle: "Four-legged robots navigating unstructured terrain — Boston Dynamics Spot"
+subtitle: "Four-legged robots navigating unstructured terrain: Boston Dynamics Spot"
 category: Robotics
 stage: early_commercial
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/quadruped-robot-locomotion/
 
 ## What This Is
 
-Four-legged robots navigating unstructured terrain — Boston Dynamics Spot. **Achieved.**
+Four-legged robots navigating unstructured terrain: Boston Dynamics Spot. **Achieved.**
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **17 independent sources** on this technology.
 
@@ -43,19 +43,19 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now–2027** | 88% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [3D Machine Vision / Point Cloud](/future/tech/3d-machine-vision-point-cloud/) ✓ — *requires*
+- [3D Machine Vision / Point Cloud](/future/tech/3d-machine-vision-point-cloud/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Humanoid Robot (Lab / Controlled Demo)](/future/tech/humanoid-robot-lab-controlled-demo/) ✓ — *enables*
+- [Humanoid Robot (Lab / Controlled Demo)](/future/tech/humanoid-robot-lab-controlled-demo/) ✓: *enables*
 
 ## Investment Exposure
 

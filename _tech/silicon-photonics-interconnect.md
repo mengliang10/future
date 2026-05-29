@@ -42,7 +42,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -58,14 +58,14 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2032** | 65% |
 | Commercially Monetizable | **2031** | 56% |
 
-Moderate timing confidence (65%) — roadmap exists but execution risk remains.
+Moderate timing confidence (65%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [GPU Compute Cluster](/future/tech/gpu-compute-cluster/) ✓ — *accelerates*
-- [CXL Memory Pooling (Disaggregated Memory)](/future/tech/cxl-memory-pooling-disaggregated-memory/) — *accelerates*
+- [GPU Compute Cluster](/future/tech/gpu-compute-cluster/) ✓: *accelerates*
+- [CXL Memory Pooling (Disaggregated Memory)](/future/tech/cxl-memory-pooling-disaggregated-memory/): *accelerates*
 
 ## Investment Exposure
 

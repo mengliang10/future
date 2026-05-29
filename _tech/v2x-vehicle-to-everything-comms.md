@@ -43,7 +43,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2027–2035** | 45% |
 | Commercially Monetizable | **2033** | 46% |
 
-Low timing confidence (45%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (45%): timeline is speculative; watch for milestone announcements.
 
 ## Investment Exposure
 

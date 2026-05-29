@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Permanent Lunar Surface Base"
-subtitle: "Sustained human presence on Moon with ISRU — NASA Artemis, Gateway station"
+subtitle: "Sustained human presence on Moon with ISRU: NASA Artemis, Gateway station"
 category: Space Tech
 stage: proof_of_concept
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/permanent-lunar-surface-base/
 
 ## What This Is
 
-Sustained human presence on Moon with ISRU — NASA Artemis, Gateway station.
+Sustained human presence on Moon with ISRU: NASA Artemis, Gateway station.
 
 Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **5 independent sources** on this technology.
 
@@ -43,20 +43,20 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **2030–2042** | 40% |
 | Commercially Monetizable | **2035** | 36% |
 
-Low timing confidence (40%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (40%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Full Rocket Reusability (Starship)](/future/tech/full-rocket-reusability-starship/) — *requires*
-- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/) — *requires*
+- [Full Rocket Reusability (Starship)](/future/tech/full-rocket-reusability-starship/): *requires*
+- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/): *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [In-Space Manufacturing](/future/tech/in-space-manufacturing/) — *enables*
+- [In-Space Manufacturing](/future/tech/in-space-manufacturing/): *enables*
 
 ## Investment Exposure
 

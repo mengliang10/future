@@ -47,14 +47,14 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 90% |
 | Commercially Monetizable | **Now–2027** | 84% |
 
-High timing confidence (90%) — multiple corroborating sources confirm this timeline.
+High timing confidence (90%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/) — *enables*
-- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/) — *accelerates*
+- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/): *enables*
+- [AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)](/future/tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/): *accelerates*
 
 ## Investment Exposure
 

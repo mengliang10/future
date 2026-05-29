@@ -40,13 +40,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**3-Way Race** — 3 companies with meaningful exposure
+**3-Way Race**: 3 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
-| [MSTR](/future/stocks/mstr/) | Strategy (MicroStrategy) | 95% | DIRECT | ~500K BTC treasury — proxy for Bitcoin **← Leader** |
+| [MSTR](/future/stocks/mstr/) | Strategy (MicroStrategy) | 95% | DIRECT | ~500K BTC treasury: proxy for Bitcoin **← Leader** |
 | [COIN](/future/stocks/coin/) | Coinbase Global | 88% | DIRECT | Primary US Bitcoin on-ramp and custody |
-| [MARA](/future/stocks/mara/) | Marathon Digital Holdings | 85% | DIRECT | Bitcoin mining — top US hash rate |
+| [MARA](/future/stocks/mara/) | Marathon Digital Holdings | 85% | DIRECT | Bitcoin mining: top US hash rate |
 
 **Current leader:** [MSTR](/future/stocks/mstr/) with **95%** exposure confidence based on our research.
 
@@ -57,19 +57,19 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Cryptographic Hash (SHA-256)](/future/tech/cryptographic-hash-sha-256/) ✓ — *requires*
+- [Cryptographic Hash (SHA-256)](/future/tech/cryptographic-hash-sha-256/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Ethereum Smart Contract Platform](/future/tech/ethereum-smart-contract-platform/) ✓ — *enables*
+- [Ethereum Smart Contract Platform](/future/tech/ethereum-smart-contract-platform/) ✓: *enables*
 
 ## Investment Exposure
 

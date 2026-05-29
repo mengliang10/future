@@ -8,7 +8,7 @@ node_count: 6
 ---
 
 ## Investment Thesis
-Alphabet's AI assets are uniquely concentrated: DeepMind (AlphaFold, AlphaProof, Gemini), Waymo (leading commercial robotaxi), Google Cloud (AI workloads growing fastest at hyperscale), and TPU infrastructure that rivals NVIDIA at Google's own scale. The search business is the free cash flow engine funding all of this. The risk is search disruption by AI query interfaces — but Google is simultaneously the incumbent and the disruptor.
+Alphabet's AI assets are uniquely concentrated: DeepMind (AlphaFold, AlphaProof, Gemini), Waymo (leading commercial robotaxi), Google Cloud (AI workloads growing fastest at hyperscale), and TPU infrastructure that rivals NVIDIA at Google's own scale. The search business is the free cash flow engine funding all of this. The risk is search disruption by AI query interfaces: but Google is simultaneously the incumbent and the disruptor.
 ## Future Tech Roadmap
 
 <div class="roadmap-stock">
@@ -71,8 +71,8 @@ Alphabet's AI assets are uniquely concentrated: DeepMind (AlphaFold, AlphaProof,
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-desc">Driverless taxi in limited mapped area — Waymo One SF, Baidu Apollo Go</div>
-<div class="roadmap-stock-item-impact">&#128200; Waymo is commercially operating robotaxis in San Francisco, LA, and Phoenix. This is revenue-generating, not a demo. Waymo is the most advanced public robotaxi deployment globally — a significant strategic asset for Alphabet.</div>
+<div class="roadmap-stock-item-desc">Driverless taxi in limited mapped area: Waymo One SF, Baidu Apollo Go</div>
+<div class="roadmap-stock-item-impact">&#128200; Waymo is commercially operating robotaxis in San Francisco, LA, and Phoenix. This is revenue-generating, not a demo. Waymo is the most advanced public robotaxi deployment globally: a significant strategic asset for Alphabet.</div>
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 90%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
@@ -84,8 +84,8 @@ Alphabet's AI assets are uniquely concentrated: DeepMind (AlphaFold, AlphaProof,
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-desc">Quantum outperforming classical on specific benchmark — Google Sycamore 2019</div>
-<div class="roadmap-stock-item-impact">&#128200; Google's Willow processor demonstrated error rate improvement with scale — a foundational result for fault-tolerant QC. Google Quantum AI is the leading research group. Commercial quantum services via Google Cloud.</div>
+<div class="roadmap-stock-item-desc">Quantum outperforming classical on specific benchmark: Google Sycamore 2019</div>
+<div class="roadmap-stock-item-impact">&#128200; Google's Willow processor demonstrated error rate improvement with scale: a foundational result for fault-tolerant QC. Google Quantum AI is the leading research group. Commercial quantum services via Google Cloud.</div>
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY · 90%</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>

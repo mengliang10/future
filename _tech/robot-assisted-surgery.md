@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Robot-Assisted Surgery"
-subtitle: "Telemanipulation surgical systems — Intuitive da Vinci, Medtronic Hugo, CMR Versius"
+subtitle: "Telemanipulation surgical systems: Intuitive da Vinci, Medtronic Hugo, CMR Versius"
 category: Robotics
 stage: mass_production
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/robot-assisted-surgery/
 
 ## What This Is
 
-Telemanipulation surgical systems — Intuitive da Vinci, Medtronic Hugo, CMR Versius. **Achieved.**
+Telemanipulation surgical systems: Intuitive da Vinci, Medtronic Hugo, CMR Versius. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
 
@@ -40,10 +40,10 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [ISRG](/future/stocks/isrg/)** — 95% exposure confidence  
+**Clear Leader: [ISRG](/future/stocks/isrg/)**: 95% exposure confidence  
 **Position:** Direct pure-play  
 
-*da Vinci — 80%+ soft tissue surgical robot market*
+*da Vinci: 80%+ soft tissue surgical robot market*
 
 ## Timeline Intelligence
 
@@ -52,7 +52,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

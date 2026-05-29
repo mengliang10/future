@@ -40,7 +40,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [TSM](/future/stocks/tsm/)** — 99% exposure confidence  
+**Clear Leader: [TSM](/future/stocks/tsm/)**: 99% exposure confidence  
 **Position:** Direct pure-play  
 
 *CoWoS monopoly for AI GPU packaging*
@@ -52,13 +52,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Chiplet / Disaggregated Architecture](/future/tech/chiplet-disaggregated-architecture/) ✓ — *requires*
+- [Chiplet / Disaggregated Architecture](/future/tech/chiplet-disaggregated-architecture/) ✓: *requires*
 
 ## Investment Exposure
 

@@ -43,13 +43,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2026–2027** | 80% |
 | Commercially Monetizable | **2028** | 71% |
 
-High timing confidence (80%) — multiple corroborating sources confirm this timeline.
+High timing confidence (80%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [CXL Memory Pooling (Disaggregated Memory)](/future/tech/cxl-memory-pooling-disaggregated-memory/) — *enables*
+- [CXL Memory Pooling (Disaggregated Memory)](/future/tech/cxl-memory-pooling-disaggregated-memory/): *enables*
 
 ## Investment Exposure
 

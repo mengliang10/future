@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Proof-of-Stake Consensus"
-subtitle: "Energy-efficient validator staking replacing mining — Ethereum post-Merge 2022"
+subtitle: "Energy-efficient validator staking replacing mining: Ethereum post-Merge 2022"
 category: Blockchain
 stage: mass_production
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/proof-of-stake-consensus/
 
 ## What This Is
 
-Energy-efficient validator staking replacing mining — Ethereum post-Merge 2022. **Achieved.**
+Energy-efficient validator staking replacing mining: Ethereum post-Merge 2022. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **15 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [DeFi Decentralized Finance Ecosystem](/future/tech/defi-decentralized-finance-ecosystem/) ✓ — *accelerates*
+- [DeFi Decentralized Finance Ecosystem](/future/tech/defi-decentralized-finance-ecosystem/) ✓: *accelerates*
 
 ## Investment Exposure
 

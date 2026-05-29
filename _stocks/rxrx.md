@@ -11,7 +11,7 @@ node_count: 1
 Recursion is building the operating system for drug discovery. They image millions of cellular experiments using automated microscopy, then use AI to identify disease-relevant patterns invisible to human eyes. Their partnership with NVIDIA (BioNeMo), Bayer, and Roche validates the approach. The promise: 10× faster drug discovery at 10× lower cost.
 
 ### Key Drivers
-- **Proprietary Dataset:** 25+ PB of biological imaging data — the training set no competitor can replicate.
+- **Proprietary Dataset:** 25+ PB of biological imaging data: the training set no competitor can replicate.
 - **NVIDIA Partnership:** BioNeMo foundation models trained on Recursion's data create shared infrastructure.
 - **Pipeline at Scale:** 40+ programs, mostly early-stage, creating optionality across oncology, rare disease, and neurology.
 
@@ -29,7 +29,7 @@ Recursion is building the operating system for drug discovery. They image millio
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">2025</span>
 </div>
-<div class="roadmap-stock-item-desc">End-to-end AI for target ID, lead optimization, clinical prediction — Recursion, Insilico</div>
+<div class="roadmap-stock-item-desc">End-to-end AI for target ID, lead optimization, clinical prediction: Recursion, Insilico</div>
 <div class="roadmap-stock-item-impact">&#128200; Recursion's platform is active in partnerships with Bayer and Roche. Revenue comes from milestone payments on pipeline programs, not approved drugs. Platform credibility is the key metric to watch.</div>
 
 

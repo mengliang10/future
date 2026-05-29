@@ -1,4 +1,4 @@
-# Enhancement 09 — Analytics Tracking (GA4 + Open Source)
+# Enhancement 09: Analytics Tracking (GA4 + Open Source)
 
 ## Problem
 
@@ -10,7 +10,7 @@ No analytics currently runs on the site. We cannot answer: who visits, which pag
 
 ## Full-Scale Vision
 
-A dual-layer analytics stack: GA4 for conversion and attribution modelling, Matomo for raw first-party data ownership. At platform scale, all properties feed into a unified analytics warehouse — enabling cross-site audience analysis, funnel modelling across the content → ad network → monetisation pipeline, and AI-powered anomaly detection.
+A dual-layer analytics stack: GA4 for conversion and attribution modelling, Matomo for raw first-party data ownership. At platform scale, all properties feed into a unified analytics warehouse: enabling cross-site audience analysis, funnel modelling across the content → ad network → monetisation pipeline, and AI-powered anomaly detection.
 
 ```mermaid
 graph TD
@@ -49,7 +49,7 @@ graph TD
 
 ---
 
-## GA4 vs Matomo — Role Separation
+## GA4 vs Matomo: Role Separation
 
 | Capability | GA4 | Matomo |
 |------------|-----|--------|
@@ -69,7 +69,7 @@ graph TD
 
 ### Measurement Plan
 
-Define events before tagging — every event must map to a business question:
+Define events before tagging: every event must map to a business question:
 
 | Event Name | Trigger | Business Question |
 |------------|---------|-------------------|
@@ -85,7 +85,7 @@ Define events before tagging — every event must map to a business question:
 ### Custom Dimensions (GA4 User Properties)
 
 ```javascript
-// GA4 custom dimensions — set via GTM
+// GA4 custom dimensions: set via GTM
 gtag('set', 'user_properties', {
   'content_category': '{{ page.category }}',  // from Jekyll front matter
   'page_type': '{{ layout.name }}',            // tech_node, stock, sector
@@ -93,7 +93,7 @@ gtag('set', 'user_properties', {
 });
 ```
 
-This enables segmenting GA4 reports by technology category, content type, and confidence tier — unique to the platform.
+This enables segmenting GA4 reports by technology category, content type, and confidence tier: unique to the platform.
 
 ---
 
@@ -119,7 +119,7 @@ flowchart LR
     MATOMO_APP --> Features
 ```
 
-**Cookie-free tracking config** — avoids GDPR consent popups entirely:
+**Cookie-free tracking config**: avoids GDPR consent popups entirely:
 ```php
 // config/config.ini.php
 [Tracker]
@@ -147,7 +147,7 @@ xychart-beta
 A Python script pulls GA4 + Matomo APIs, generates a Markdown summary, and writes it to `_data/analytics_weekly.json`:
 
 ```python
-# analytics_report.py — weekly cron
+# analytics_report.py: weekly cron
 from datetime import date, timedelta
 import json
 from google.analytics.data_v1beta import BetaAnalyticsDataClient
@@ -191,6 +191,6 @@ from google.analytics.data_v1beta import BetaAnalyticsDataClient
 
 ## Open Questions
 
-- GA4 BigQuery export is free up to 10GB/month — sufficient for current traffic. At scale, does the pipeline move to a proper warehouse (ClickHouse, Snowflake) or stay on local DuckDB?
-- Matomo requires PHP — does that conflict with the Python-centric VPS setup? No: PHP-FPM runs alongside Python FastAPI via Nginx as separate services.
-- Should Matomo and Clarity both run, given overlap in heatmap/session replay functionality? Yes — Clarity is free and cloud-hosted, zero maintenance. Matomo heatmaps require the paid plugin. Use both until one proves redundant.
+- GA4 BigQuery export is free up to 10GB/month: sufficient for current traffic. At scale, does the pipeline move to a proper warehouse (ClickHouse, Snowflake) or stay on local DuckDB?
+- Matomo requires PHP: does that conflict with the Python-centric VPS setup? No: PHP-FPM runs alongside Python FastAPI via Nginx as separate services.
+- Should Matomo and Clarity both run, given overlap in heatmap/session replay functionality? Yes: Clarity is free and cloud-hosted, zero maintenance. Matomo heatmaps require the paid plugin. Use both until one proves redundant.

@@ -40,7 +40,7 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 
 ## Market Race
 
-**4-Way Race** — 4 companies with meaningful exposure
+**4-Way Race**: 4 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -58,19 +58,19 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **2027–2030** | 70% |
 | Commercially Monetizable | **2032** | 51% |
 
-Moderate timing confidence (70%) — roadmap exists but execution risk remains.
+Moderate timing confidence (70%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [High-NA EUV Lithography (ASML EXE)](/future/tech/high-na-euv-lithography-asml-exe/) — *requires*
+- [High-NA EUV Lithography (ASML EXE)](/future/tech/high-na-euv-lithography-asml-exe/): *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Angstrom-Era Chips (<10Å gate length)](/future/tech/angstrom-era-chips-10-gate-length/) — *enables*
+- [Angstrom-Era Chips (<10Å gate length)](/future/tech/angstrom-era-chips-10-gate-length/): *enables*
 
 ## Investment Exposure
 

@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Humanoid Robot (Lab / Controlled Demo)"
-subtitle: "Bipedal humanoids in controlled settings — Tesla Optimus Gen2, Figure 02, 1X NEO"
+subtitle: "Bipedal humanoids in controlled settings: Tesla Optimus Gen2, Figure 02, 1X NEO"
 category: Robotics
 stage: pilot
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/humanoid-robot-lab-controlled-demo/
 
 ## What This Is
 
-Bipedal humanoids in controlled settings — Tesla Optimus Gen2, Figure 02, 1X NEO. **Achieved.**
+Bipedal humanoids in controlled settings: Tesla Optimus Gen2, Figure 02, 1X NEO. **Achieved.**
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **9 independent sources** on this technology.
 
@@ -43,19 +43,19 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **Ongoing / Deployed** | 98% |
 | Commercially Monetizable | **2031** | 80% |
 
-High timing confidence (98%) — multiple corroborating sources confirm this timeline.
+High timing confidence (98%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Sim-to-Real Transfer](/future/tech/sim-to-real-transfer/) — *requires*
+- [Sim-to-Real Transfer](/future/tech/sim-to-real-transfer/): *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory-deployment/) — *enables*
+- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory-deployment/): *enables*
 
 ## Investment Exposure
 

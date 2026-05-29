@@ -19,7 +19,7 @@ Uber is the largest ride-hailing and food delivery platform globally, and unique
 <span class="conf-badge conf-confirmed">Confirmed</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-impact">&#128200; Uber hosts Waymo robotaxis on its platform in Austin and Atlanta. The Uber-Waymo partnership is live, commercial, and expanding — a proof of the distribution thesis.</div>
+<div class="roadmap-stock-item-impact">&#128200; Uber hosts Waymo robotaxis on its platform in Austin and Atlanta. The Uber-Waymo partnership is live, commercial, and expanding: a proof of the distribution thesis.</div>
 </div>
 
 <div class="roadmap-stock-item">
@@ -37,7 +37,7 @@ Uber is the largest ride-hailing and food delivery platform globally, and unique
 <span class="conf-badge conf-researching">Researching</span>
 <span class="roadmap-stock-item-year">2028</span>
 </div>
-<div class="roadmap-stock-item-impact">&#128200; Uber Eats has explored drone delivery partnerships. Not a near-term revenue driver — more of an adjacency to watch.</div>
+<div class="roadmap-stock-item-impact">&#128200; Uber Eats has explored drone delivery partnerships. Not a near-term revenue driver: more of an adjacency to watch.</div>
 </div>
 
 </div>

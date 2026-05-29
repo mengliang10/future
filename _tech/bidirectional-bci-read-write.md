@@ -43,7 +43,7 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **2028–2036** | 45% |
 | Commercially Monetizable | **2035** | 38% |
 
-Low timing confidence (45%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (45%): timeline is speculative; watch for milestone announcements.
 
 ## Investment Exposure
 

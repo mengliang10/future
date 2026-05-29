@@ -45,14 +45,14 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt-4-class-1t-params/) ✓ — *accelerates*
-- [Open-Source Frontier LLM (GPT-4/o1 Class)](/future/tech/open-source-frontier-llm-gpt-4o1-class/) ✓ — *enables*
+- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt-4-class-1t-params/) ✓: *accelerates*
+- [Open-Source Frontier LLM (GPT-4/o1 Class)](/future/tech/open-source-frontier-llm-gpt-4o1-class/) ✓: *enables*
 
 ## Investment Exposure
 

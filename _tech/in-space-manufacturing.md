@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "In-Space Manufacturing"
-subtitle: "Producing superior materials in microgravity — fiber optics, pharmaceuticals"
+subtitle: "Producing superior materials in microgravity: fiber optics, pharmaceuticals"
 category: Space Tech
 stage: basic_research
 confidence_label: Speculative
@@ -19,9 +19,9 @@ permalink: /tech/in-space-manufacturing/
 
 ## What This Is
 
-Producing superior materials in microgravity — fiber optics, pharmaceuticals.
+Producing superior materials in microgravity: fiber optics, pharmaceuticals.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **19 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **19 independent sources** on this technology.
 
 ## Status
 
@@ -43,13 +43,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2030–2045** | 30% |
 | Commercially Monetizable | **2038** | 24% |
 
-Low timing confidence (30%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (30%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Commercial Space Station (post-ISS)](/future/tech/commercial-space-station-post-iss/) — *requires*
+- [Commercial Space Station (post-ISS)](/future/tech/commercial-space-station-post-iss/): *requires*
 
 ## Investment Exposure
 

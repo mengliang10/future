@@ -43,13 +43,13 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **2028–2042** | 25% |
 | Commercially Monetizable | **2033** | 28% |
 
-Low timing confidence (25%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (25%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Cross-Chain Interoperability Protocol](/future/tech/cross-chain-interoperability-protocol/) — *requires*
+- [Cross-Chain Interoperability Protocol](/future/tech/cross-chain-interoperability-protocol/): *requires*
 
 ## Investment Exposure
 

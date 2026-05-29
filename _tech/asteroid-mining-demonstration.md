@@ -21,7 +21,7 @@ permalink: /tech/asteroid-mining-demonstration/
 
 First retrieval of material from near-Earth asteroid for in-space use.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **20 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **20 independent sources** on this technology.
 
 ## Status
 
@@ -43,13 +43,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2032–2055** | 20% |
 | Commercially Monetizable | **2048** | 19% |
 
-Low timing confidence (20%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (20%): timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [In-Space Manufacturing](/future/tech/in-space-manufacturing/) — *enables*
+- [In-Space Manufacturing](/future/tech/in-space-manufacturing/): *enables*
 
 ## Investment Exposure
 

@@ -43,13 +43,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2026–2032** | 60% |
 | Commercially Monetizable | **2029** | 61% |
 
-Moderate timing confidence (60%) — roadmap exists but execution risk remains.
+Moderate timing confidence (60%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Full Self-Driving Level 4 (Urban)](/future/tech/full-self-driving-level-4-urban/) — *enables*
+- [Full Self-Driving Level 4 (Urban)](/future/tech/full-self-driving-level-4-urban/): *enables*
 
 ## Investment Exposure
 

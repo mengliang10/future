@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Hardware Security Module (HSM)"
-subtitle: "Dedicated crypto processor for key management — used in banking, cloud, PKI"
+subtitle: "Dedicated crypto processor for key management: used in banking, cloud, PKI"
 category: Cybersecurity
 stage: mass_production
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/hardware-security-module-hsm/
 
 ## What This Is
 
-Dedicated crypto processor for key management — used in banking, cloud, PKI. **Achieved.**
+Dedicated crypto processor for key management: used in banking, cloud, PKI. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
 
@@ -43,7 +43,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

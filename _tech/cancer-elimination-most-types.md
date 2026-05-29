@@ -21,7 +21,7 @@ permalink: /tech/cancer-elimination-most-types/
 
 Immunotherapy+CRISPR+AI combination achieving >90% cure rate across cancer types.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
 
 ## Status
 
@@ -43,13 +43,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2035–2060** | 25% |
 | Commercially Monetizable | **2052** | 21% |
 
-Low timing confidence (25%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (25%): timeline is speculative; watch for milestone announcements.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Partial Biological Aging Reversal](/future/tech/partial-biological-aging-reversal/) — *enables*
+- [Partial Biological Aging Reversal](/future/tech/partial-biological-aging-reversal/): *enables*
 
 ## Investment Exposure
 

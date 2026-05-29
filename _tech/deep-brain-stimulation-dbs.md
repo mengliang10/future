@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Deep Brain Stimulation (DBS)"
-subtitle: "Implanted electrodes treating Parkinson's, OCD, depression — Medtronic, Abbott"
+subtitle: "Implanted electrodes treating Parkinson's, OCD, depression: Medtronic, Abbott"
 category: BCI
 stage: mass_production
 confidence_label: Confirmed
@@ -21,7 +21,7 @@ permalink: /tech/deep-brain-stimulation-dbs/
 
 ## What This Is
 
-Implanted electrodes treating Parkinson's, OCD, depression — Medtronic, Abbott. **Achieved.**
+Implanted electrodes treating Parkinson's, OCD, depression: Medtronic, Abbott. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [MDT](/future/stocks/mdt/)** — 90% exposure confidence  
+**Clear Leader: [MDT](/future/stocks/mdt/)**: 90% exposure confidence  
 **Position:** Direct pure-play  
 
 *Percept PC and RC adaptive DBS systems*
@@ -52,13 +52,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Bidirectional BCI (Read + Write)](/future/tech/bidirectional-bci-read-write/) — *enables*
+- [Bidirectional BCI (Read + Write)](/future/tech/bidirectional-bci-read-write/): *enables*
 
 ## Investment Exposure
 

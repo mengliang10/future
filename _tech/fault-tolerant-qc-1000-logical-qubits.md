@@ -43,20 +43,20 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Technology Reality | **2030–2040** | 40% |
 | Commercially Monetizable | **2035** | 36% |
 
-Low timing confidence (40%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (40%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/) — *requires*
+- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/): *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Quantum Drug Molecular Simulation](/future/tech/quantum-drug-molecular-simulation/) — *enables*
-- [Quantum Computer: 1M Logical Qubits](/future/tech/quantum-computer-1m-logical-qubits/) — *enables*
+- [Quantum Drug Molecular Simulation](/future/tech/quantum-drug-molecular-simulation/): *enables*
+- [Quantum Computer: 1M Logical Qubits](/future/tech/quantum-computer-1m-logical-qubits/): *enables*
 
 ## Investment Exposure
 

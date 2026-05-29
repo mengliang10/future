@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Commercial Lunar Lander"
-subtitle: "Commercially developed lunar landers — Intuitive Machines IM-1 landed Feb 2024"
+subtitle: "Commercially developed lunar landers: Intuitive Machines IM-1 landed Feb 2024"
 category: Space Tech
 stage: early_commercial
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/commercial-lunar-lander/
 
 ## What This Is
 
-Commercially developed lunar landers — Intuitive Machines IM-1 landed Feb 2024. **Achieved.**
+Commercially developed lunar landers: Intuitive Machines IM-1 landed Feb 2024. **Achieved.**
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **5 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Clear Leader: [LUNR](/future/stocks/lunr/)** — 90% exposure confidence  
+**Clear Leader: [LUNR](/future/stocks/lunr/)**: 90% exposure confidence  
 **Position:** Direct pure-play  
 
 *IM-1 first US Moon landing since Apollo*
@@ -52,13 +52,13 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now–2027** | 88% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Permanent Lunar Surface Base](/future/tech/permanent-lunar-surface-base/) — *enables*
+- [Permanent Lunar Surface Base](/future/tech/permanent-lunar-surface-base/): *enables*
 
 ## Investment Exposure
 

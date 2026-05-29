@@ -20,7 +20,7 @@ Detailed fundamental analysis and growth catalysts for Cloudflare Inc. (NET) are
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">2019</span>
 </div>
-<div class="roadmap-stock-item-desc">Never trust, always verify — identity-based access replacing perimeter models</div>
+<div class="roadmap-stock-item-desc">Never trust, always verify: identity-based access replacing perimeter models</div>
 <div class="roadmap-stock-item-impact">&#128200; Cloudflare One is a full zero-trust network platform. Revenue growth from large enterprise deals as organisations replace VPN and perimeter security with identity-based access.</div>
 
 

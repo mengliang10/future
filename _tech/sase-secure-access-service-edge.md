@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "SASE (Secure Access Service Edge)"
-subtitle: "Converged network+security from cloud edge — Zscaler, Cloudflare One, Netskope"
+subtitle: "Converged network+security from cloud edge: Zscaler, Cloudflare One, Netskope"
 category: Cybersecurity
 stage: early_commercial
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/sase-secure-access-service-edge/
 
 ## What This Is
 
-Converged network+security from cloud edge — Zscaler, Cloudflare One, Netskope.
+Converged network+security from cloud edge: Zscaler, Cloudflare One, Netskope.
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
 
@@ -40,10 +40,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Clear Leader: [ZS](/future/stocks/zs/)** — 92% exposure confidence  
+**Clear Leader: [ZS](/future/stocks/zs/)**: 92% exposure confidence  
 **Position:** Direct pure-play  
 
-*Zero Trust Exchange — SASE pure play*
+*Zero Trust Exchange: SASE pure play*
 
 ## Timeline Intelligence
 
@@ -52,7 +52,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2025–2027** | 88% |
 | Commercially Monetizable | **2026** | 83% |
 
-High timing confidence (88%) — multiple corroborating sources confirm this timeline.
+High timing confidence (88%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

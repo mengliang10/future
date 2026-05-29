@@ -1,8 +1,8 @@
-# Enhancement 17 — Context Engineering & Customer Data Platform
+# Enhancement 17: Context Engineering & Customer Data Platform
 
 ## Problem
 
-The Martech for 2026 report names **context engineering** — getting the right data to the right agent at the right time — as the defining challenge of agentic marketing. **56.3% of organisations cite poor data quality as their #1 AI implementation challenge.** The report frames the martech stack evolution as moving from *systems of record* → *systems of engagement* → *systems of knowledge* → *systems of context*.
+The Martech for 2026 report names **context engineering**: getting the right data to the right agent at the right time: as the defining challenge of agentic marketing. **56.3% of organisations cite poor data quality as their #1 AI implementation challenge.** The report frames the martech stack evolution as moving from *systems of record* → *systems of engagement* → *systems of knowledge* → *systems of context*.
 
 The platform currently has no customer data platform (CDP) layer. Visitor data from Matomo lives in `matomo_db`. Technology data lives in `tech_graph.db`. Stock data lives in `entity_stock.db`. No unified profile exists for a visitor, and no context bundle assembles these sources into a coherent input for AI agents. This limits personalisation (Enhancement 12), experimentation (Enhancement 13), and the agentic stack (Enhancement 16).
 
@@ -10,7 +10,7 @@ The platform currently has no customer data platform (CDP) layer. Visitor data f
 
 ## Full-Scale Vision
 
-A lightweight, self-hosted CDP that unifies first-party behavioural data with content intelligence data to produce **visitor context profiles** — the input to personalisation, AI agents, and ad targeting. At platform scale, this CDP serves multiple properties and can be offered as a managed service to Martech platform clients.
+A lightweight, self-hosted CDP that unifies first-party behavioural data with content intelligence data to produce **visitor context profiles**: the input to personalisation, AI agents, and ad targeting. At platform scale, this CDP serves multiple properties and can be offered as a managed service to Martech platform clients.
 
 ```mermaid
 graph TD
@@ -41,7 +41,7 @@ graph TD
 
 ---
 
-## CDP Architecture — Self-Hosted, Zero License
+## CDP Architecture: Self-Hosted, Zero License
 
 No Segment, no RudderStack Cloud, no mParticle. Build with:
 
@@ -53,7 +53,7 @@ No Segment, no RudderStack Cloud, no mParticle. Build with:
 | Audience activation | Custom Python → ad network APIs | Free |
 | Real-time enrichment | FastAPI microservice (future) | Free (self-hosted) |
 
-**Why not RudderStack OSS?** RudderStack self-hosted requires Node.js + PostgreSQL + a complex Docker stack. Our CDP requirements are simpler — a SQLite schema and a Python compute layer is sufficient for current scale.
+**Why not RudderStack OSS?** RudderStack self-hosted requires Node.js + PostgreSQL + a complex Docker stack. Our CDP requirements are simpler: a SQLite schema and a Python compute layer is sufficient for current scale.
 
 ---
 
@@ -228,6 +228,6 @@ sequenceDiagram
 
 ## Open Questions
 
-- GDPR: anonymous IDs from Matomo (cookie-free) — are these personal data under GDPR? Regulators are debating this; using a rotating hash with no cross-site tracking and no PII linkage is the safest approach.
+- GDPR: anonymous IDs from Matomo (cookie-free): are these personal data under GDPR? Regulators are debating this; using a rotating hash with no cross-site tracking and no PII linkage is the safest approach.
 - At what point does the self-built CDP justify migrating to RudderStack OSS? When the number of activation destinations exceeds 5, or when real-time (sub-second) profile updates are needed.
-- Should the CDP feed a newsletter personalisation layer? Yes — segment-aware weekly digest emails are high-ROI. Add as a Phase 8 sub-feature once the subscriber list grows beyond 100.
+- Should the CDP feed a newsletter personalisation layer? Yes: segment-aware weekly digest emails are high-ROI. Add as a Phase 8 sub-feature once the subscriber list grows beyond 100.

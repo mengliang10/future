@@ -43,14 +43,14 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [3D Machine Vision / Point Cloud](/future/tech/3d-machine-vision-point-cloud/) ✓ — *accelerates*
-- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/) ✓ — *accelerates*
+- [3D Machine Vision / Point Cloud](/future/tech/3d-machine-vision-point-cloud/) ✓: *accelerates*
+- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/) ✓: *accelerates*
 
 ## Investment Exposure
 

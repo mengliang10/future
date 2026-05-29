@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Dexterous Robot Hand"
-subtitle: "Multi-fingered hand with near-human manipulation — assembly, surgery, daily tasks"
+subtitle: "Multi-fingered hand with near-human manipulation: assembly, surgery, daily tasks"
 category: Robotics
 stage: prototype
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/dexterous-robot-hand/
 
 ## What This Is
 
-Multi-fingered hand with near-human manipulation — assembly, surgery, daily tasks.
+Multi-fingered hand with near-human manipulation: assembly, surgery, daily tasks.
 
 Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **41 independent sources** on this technology.
 
@@ -43,13 +43,13 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2032** | 60% |
 | Commercially Monetizable | **2029** | 54% |
 
-Moderate timing confidence (60%) — roadmap exists but execution risk remains.
+Moderate timing confidence (60%): roadmap exists but execution risk remains.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Robot-Assisted Surgery](/future/tech/robot-assisted-surgery/) ✓ — *requires*
+- [Robot-Assisted Surgery](/future/tech/robot-assisted-surgery/) ✓: *requires*
 
 ## Investment Exposure
 

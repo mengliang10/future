@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "AI-Autonomous Security Operations Centre"
-subtitle: "AI systems that detect, investigate, and neutralise cyber threats faster than human analysts — 24/7 autonomous SOC."
+subtitle: "AI systems that detect, investigate, and neutralise cyber threats faster than human analysts: 24/7 autonomous SOC."
 category: Cybersecurity
 stage: basic_research
 confidence_label: Speculative
@@ -19,9 +19,9 @@ permalink: /tech/ai-autonomous-security-operations-centre/
 
 ## What This Is
 
-AI systems that detect, investigate, and neutralise cyber threats faster than human analysts — 24/7 autonomous SOC..
+AI systems that detect, investigate, and neutralise cyber threats faster than human analysts: 24/7 autonomous SOC..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **38 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **38 independent sources** on this technology.
 
 ## Status
 
@@ -42,13 +42,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **TBD** | 0% |
 | Commercially Monetizable | **2035+** | 9% |
 
-Timeline not yet established — depends on research breakthroughs that are not yet predictable.
+Timeline not yet established: depends on research breakthroughs that are not yet predictable.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Zero Trust Security Architecture](/future/tech/zero-trust-security-architecture/) — *enables*
+- [Zero Trust Security Architecture](/future/tech/zero-trust-security-architecture/): *enables*
 
 ## Investment Exposure
 

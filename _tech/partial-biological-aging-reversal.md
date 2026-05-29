@@ -21,7 +21,7 @@ permalink: /tech/partial-biological-aging-reversal/
 
 Demonstrated multi-year biological age reduction in human clinical trial.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **15 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **15 independent sources** on this technology.
 
 ## Status
 
@@ -43,13 +43,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2032–2055** | 20% |
 | Commercially Monetizable | **2048** | 19% |
 
-Low timing confidence (20%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (20%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Partial Epigenetic Reprogramming](/future/tech/partial-epigenetic-reprogramming/) — *requires*
+- [Partial Epigenetic Reprogramming](/future/tech/partial-epigenetic-reprogramming/): *requires*
 
 ## Investment Exposure
 

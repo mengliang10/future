@@ -1,8 +1,8 @@
-# Enhancement 02 — SEO Stack (Without SemRush)
+# Enhancement 02: SEO Stack (Without SemRush)
 
 ## Problem
 
-SemRush costs $140–$450/month per user and is designed for single-site, human-operated workflows. At Martech platform scale — multiple sites, programmatic content, automated publishing — a per-seat SaaS tool is the wrong model. The goal is an owned, automated SEO stack that costs near-zero in licensing, integrates with the research pipeline, and generates actionable signals without manual intervention.
+SemRush costs $140–$450/month per user and is designed for single-site, human-operated workflows. At Martech platform scale: multiple sites, programmatic content, automated publishing: a per-seat SaaS tool is the wrong model. The goal is an owned, automated SEO stack that costs near-zero in licensing, integrates with the research pipeline, and generates actionable signals without manual intervention.
 
 ---
 
@@ -22,7 +22,7 @@ graph TD
     end
 
     subgraph Pipeline["SEO Pipeline (Python, cron)"]
-        CRAWL[Crawler — scrapy / httpx]
+        CRAWL[Crawler: scrapy / httpx]
         KWTRACK[Keyword Rank Tracker]
         TECHAUDIT[Technical Audit Engine]
         BACKLINK[Backlink Aggregator]
@@ -77,7 +77,7 @@ graph TD
 
 ## SEO Architecture for Programmatic Content
 
-The Future Trends site generates content programmatically from a DB. This requires a different SEO model than hand-written content — optimisation must be baked into the generation templates, not applied manually post-publish.
+The Future Trends site generates content programmatically from a DB. This requires a different SEO model than hand-written content: optimisation must be baked into the generation templates, not applied manually post-publish.
 
 ```mermaid
 flowchart LR
@@ -157,7 +157,7 @@ mindmap
       X stock exposure
 ```
 
-**Targeting principle:** Each page targets one primary keyword (the technology name) plus 3–5 longtail variants derived from `est_year_mode`, `category`, and linked tickers. These are injected automatically by the template — no manual keyword assignment needed.
+**Targeting principle:** Each page targets one primary keyword (the technology name) plus 3–5 longtail variants derived from `est_year_mode`, `category`, and linked tickers. These are injected automatically by the template: no manual keyword assignment needed.
 
 ---
 
@@ -213,6 +213,6 @@ flowchart TD
 
 ## Open Questions
 
-- SerpAPI free tier is 100 searches/day — sufficient for monitoring 50 keywords; need upgrade at scale.
+- SerpAPI free tier is 100 searches/day: sufficient for monitoring 50 keywords; need upgrade at scale.
 - Should keyword research use Google Ads API (requires active ad account) or DataForSEO as fallback?
 - At platform scale (10+ sites), does it make sense to self-host an open-source rank tracker like NightWatch alternative or SerpYacht?

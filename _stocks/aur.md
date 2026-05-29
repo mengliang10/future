@@ -8,7 +8,7 @@ node_count: 1
 ---
 
 ## Investment Thesis
-Aurora launched the first commercial driverless trucking service in the US (Texas, April 2025), running Freightliner Cascadia Class 8 trucks on I-45 between Dallas and Houston. The Aurora Driver uses NVIDIA DRIVE Orin plus Aurora's own LiDAR (FirstLight). The commercial model charges per mile driven — capital-light once the fleet is deployed by partners. Key risk: cash burn is substantial (~$200M/quarter); the path to unit economics requires rapid scaling that depends on regulatory clearance expanding to more routes and states. Aurora's sensor suite and 'Driver as a Service' (DaaS) model differentiates it from Tesla/Waymo in freight.
+Aurora launched the first commercial driverless trucking service in the US (Texas, April 2025), running Freightliner Cascadia Class 8 trucks on I-45 between Dallas and Houston. The Aurora Driver uses NVIDIA DRIVE Orin plus Aurora's own LiDAR (FirstLight). The commercial model charges per mile driven: capital-light once the fleet is deployed by partners. Key risk: cash burn is substantial (~$200M/quarter); the path to unit economics requires rapid scaling that depends on regulatory clearance expanding to more routes and states. Aurora's sensor suite and 'Driver as a Service' (DaaS) model differentiates it from Tesla/Waymo in freight.
 
 ## Future Tech Roadmap
 

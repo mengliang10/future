@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "AR Smart Glasses (Industrial)"
-subtitle: "Industrial AR for maintenance, warehouse — Microsoft HoloLens, Google Glass EE"
+subtitle: "Industrial AR for maintenance, warehouse: Microsoft HoloLens, Google Glass EE"
 category: XR
 stage: early_commercial
 confidence_label: Speculative
@@ -19,7 +19,7 @@ permalink: /tech/ar-smart-glasses-industrial/
 
 ## What This Is
 
-Industrial AR for maintenance, warehouse — Microsoft HoloLens, Google Glass EE. **Achieved.**
+Industrial AR for maintenance, warehouse: Microsoft HoloLens, Google Glass EE. **Achieved.**
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **6 independent sources** on this technology.
 
@@ -43,19 +43,19 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now–2027** | 88% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [XR Enterprise Workflow Tools](/future/tech/xr-enterprise-workflow-tools/) — *requires*
+- [XR Enterprise Workflow Tools](/future/tech/xr-enterprise-workflow-tools/): *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-smart-glasses-consumer-daily/) — *enables*
+- [AR Smart Glasses (Consumer / Daily)](/future/tech/ar-smart-glasses-consumer-daily/): *enables*
 
 ## Investment Exposure
 

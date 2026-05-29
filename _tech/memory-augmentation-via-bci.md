@@ -21,7 +21,7 @@ permalink: /tech/memory-augmentation-via-bci/
 
 BCI system reliably enhancing human memory encoding and recall.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **12 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **12 independent sources** on this technology.
 
 ## Status
 
@@ -43,20 +43,20 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **2035–2055** | 15% |
 | Commercially Monetizable | **2044** | 16% |
 
-Low timing confidence (15%) — timeline is speculative; watch for milestone announcements.
+Low timing confidence (15%): timeline is speculative; watch for milestone announcements.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Bidirectional BCI (Read + Write)](/future/tech/bidirectional-bci-read-write/) — *requires*
-- [AI Neural Signal Decoder](/future/tech/ai-neural-signal-decoder/) — *requires*
+- [Bidirectional BCI (Read + Write)](/future/tech/bidirectional-bci-read-write/): *requires*
+- [AI Neural Signal Decoder](/future/tech/ai-neural-signal-decoder/): *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Merged Human-AI Intelligence](/future/tech/merged-human-ai-intelligence/) — *enables*
+- [Merged Human-AI Intelligence](/future/tech/merged-human-ai-intelligence/): *enables*
 
 ## Investment Exposure
 

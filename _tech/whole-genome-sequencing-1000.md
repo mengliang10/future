@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Whole Genome Sequencing <$1000"
-subtitle: "Cost threshold enabling population-scale genomics — crossed ~2023"
+subtitle: "Cost threshold enabling population-scale genomics: crossed ~2023"
 category: Biotech
 stage: mass_production
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/whole-genome-sequencing-1000/
 
 ## What This Is
 
-Cost threshold enabling population-scale genomics — crossed ~2023. **Achieved.**
+Cost threshold enabling population-scale genomics: crossed ~2023. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Clear Leader: [ILMN](/future/stocks/ilmn/)** — 90% exposure confidence  
+**Clear Leader: [ILMN](/future/stocks/ilmn/)**: 90% exposure confidence  
 **Position:** Direct pure-play  
 
 *Drove WGS cost below $1000*
@@ -52,7 +52,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## Investment Exposure
 

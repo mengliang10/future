@@ -21,7 +21,7 @@ permalink: /tech/quantum-enhanced-semiconductor-design/
 
 Using quantum simulation to design next-generation semiconductor materials and transistor geometries impossible to engineer classically..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **182 independent sources** on this technology.
+Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **182 independent sources** on this technology.
 
 ## Status
 
@@ -42,13 +42,13 @@ Fundamental research phase — concept established, practical implementation rem
 | Technology Reality | **TBD** | 0% |
 | Commercially Monetizable | **2035+** | 9% |
 
-Timeline not yet established — depends on research breakthroughs that are not yet predictable.
+Timeline not yet established: depends on research breakthroughs that are not yet predictable.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [1nm / A14 Process Node](/future/tech/1nm-a14-process-node/) — *enables*
+- [1nm / A14 Process Node](/future/tech/1nm-a14-process-node/): *enables*
 
 ## Investment Exposure
 

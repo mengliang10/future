@@ -40,7 +40,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 
 ## Market Race
 
-**Clear Leader: [U](/future/stocks/u/)** — 82% exposure confidence  
+**Clear Leader: [U](/future/stocks/u/)**: 82% exposure confidence  
 **Position:** Direct pure-play  
 
 *Unity 6 Sentis AI; used in 60%+ of XR apps*
@@ -52,7 +52,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2032** | 65% |
 | Commercially Monetizable | **2030** | 56% |
 
-Moderate timing confidence (65%) — roadmap exists but execution risk remains.
+Moderate timing confidence (65%): roadmap exists but execution risk remains.
 
 ## Investment Exposure
 

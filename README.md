@@ -1,6 +1,6 @@
 # Future Trends
 
-> The future of technology & AI — today.
+> The future of technology & AI: today.
 
 Precise, actionable intelligence on semiconductors, AI, quantum computing, and the technologies shaping tomorrow. Linked to stocks, roadmaps, and real money.
 
@@ -34,7 +34,7 @@ Stock data will then refresh daily at 09:00 Singapore time (01:00 UTC).
 ---
 
 ### 2. Set up the Contact form (Formspree)
-The contact form uses [Formspree](https://formspree.io) — free for basic use, no server needed.
+The contact form uses [Formspree](https://formspree.io): free for basic use, no server needed.
 
 1. Sign up at **formspree.io**
 2. Create a new form
@@ -44,7 +44,7 @@ The contact form uses [Formspree](https://formspree.io) — free for basic use, 
    https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID
    ```
    with your actual endpoint
-5. Push to `main` — done
+5. Push to `main`: done
 
 ---
 

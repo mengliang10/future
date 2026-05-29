@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Full Rocket Reusability (Starship)"
-subtitle: "Booster and upper stage both propulsively landing and reflying — SpaceX Starship"
+subtitle: "Booster and upper stage both propulsively landing and reflying: SpaceX Starship"
 category: Space Tech
 stage: pilot
 confidence_label: Researching
@@ -21,7 +21,7 @@ permalink: /tech/full-rocket-reusability-starship/
 
 ## What This Is
 
-Booster and upper stage both propulsively landing and reflying — SpaceX Starship.
+Booster and upper stage both propulsively landing and reflying: SpaceX Starship.
 
 Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **6 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 
 ## Market Race
 
-**Clear Leader: [RKLB](/future/stocks/rklb/)** — 60% exposure confidence  
+**Clear Leader: [RKLB](/future/stocks/rklb/)**: 60% exposure confidence  
 **Position:** Direct pure-play  
 
 *Neutron medium-lift with reusability in dev*
@@ -52,13 +52,13 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Technology Reality | **2025–2028** | 78% |
 | Commercially Monetizable | **2027** | 70% |
 
-Moderate timing confidence (78%) — roadmap exists but execution risk remains.
+Moderate timing confidence (78%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/) — *enables*
+- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/): *enables*
 
 ## Investment Exposure
 

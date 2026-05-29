@@ -9,7 +9,7 @@ bottleneck_count: 1
 ---
 
 ## Investment Thesis
-GE Vernova is the most interesting combination in the energy sector: profitable grid equipment business (transformers, switchgear, grid software) that benefits directly from the AI data centre buildout, plus the BWRX-300 SMR program with the most commercially advanced Western SMR design. The grid equipment business provides a floor; the SMR program is the call option. Near-term grid equipment backlog and pricing power are the investment thesis — SMR is the duration bet.
+GE Vernova is the most interesting combination in the energy sector: profitable grid equipment business (transformers, switchgear, grid software) that benefits directly from the AI data centre buildout, plus the BWRX-300 SMR program with the most commercially advanced Western SMR design. The grid equipment business provides a floor; the SMR program is the call option. Near-term grid equipment backlog and pricing power are the investment thesis: SMR is the duration bet.
 ## Future Tech Roadmap
 
 <div class="roadmap-stock">
@@ -20,7 +20,7 @@ GE Vernova is the most interesting combination in the energy sector: profitable 
 <span class="conf-badge conf-confident">Confident</span>
 <span class="roadmap-stock-item-year">2029</span>
 </div>
-<div class="roadmap-stock-item-desc">Factory-built modular reactors — NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR</div>
+<div class="roadmap-stock-item-desc">Factory-built modular reactors: NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR</div>
 <div class="roadmap-stock-item-impact">&#128200; GE Vernova's BWRX-300 is among the most commercially advanced SMR designs. Multiple purchase agreements are signed. First commercial operation targeted 2029-2031.</div>
 </div>
 

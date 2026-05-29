@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "Zero Trust Security Architecture"
-subtitle: "Never trust, always verify — identity-based access replacing perimeter models"
+subtitle: "Never trust, always verify: identity-based access replacing perimeter models"
 category: Cybersecurity
 stage: early_commercial
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/zero-trust-security-architecture/
 
 ## What This Is
 
-Never trust, always verify — identity-based access replacing perimeter models.
+Never trust, always verify: identity-based access replacing perimeter models.
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **15 independent sources** on this technology.
 
@@ -42,7 +42,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -58,22 +58,22 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **2019–2027** | 85% |
 | Commercially Monetizable | **2020** | 81% |
 
-High timing confidence (85%) — multiple corroborating sources confirm this timeline.
+High timing confidence (85%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [TLS/SSL Encrypted Transport](/future/tech/tlsssl-encrypted-transport/) ✓ — *requires*
-- [Hardware Security Module (HSM)](/future/tech/hardware-security-module-hsm/) ✓ — *requires*
+- [TLS/SSL Encrypted Transport](/future/tech/tlsssl-encrypted-transport/) ✓: *requires*
+- [Hardware Security Module (HSM)](/future/tech/hardware-security-module-hsm/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [SASE (Secure Access Service Edge)](/future/tech/sase-secure-access-service-edge/) — *enables*
-- [Quantum Key Distribution Network](/future/tech/quantum-key-distribution-network/) — *synergises with*
-- [AI-Autonomous Security Operations Centre](/future/tech/ai-autonomous-security-operations-centre/) — *synergises with*
+- [SASE (Secure Access Service Edge)](/future/tech/sase-secure-access-service-edge/): *enables*
+- [Quantum Key Distribution Network](/future/tech/quantum-key-distribution-network/): *synergises with*
+- [AI-Autonomous Security Operations Centre](/future/tech/ai-autonomous-security-operations-centre/): *synergises with*
 
 ## Investment Exposure
 

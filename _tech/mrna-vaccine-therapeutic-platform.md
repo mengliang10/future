@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "mRNA Vaccine / Therapeutic Platform"
-subtitle: "Programmable mRNA delivery for vaccines and protein replacement — Moderna, BioNTech"
+subtitle: "Programmable mRNA delivery for vaccines and protein replacement: Moderna, BioNTech"
 category: Biotech
 stage: mass_production
 confidence_label: Confirmed
@@ -21,7 +21,7 @@ permalink: /tech/mrna-vaccine-therapeutic-platform/
 
 ## What This Is
 
-Programmable mRNA delivery for vaccines and protein replacement — Moderna, BioNTech. **Achieved.**
+Programmable mRNA delivery for vaccines and protein replacement: Moderna, BioNTech. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -56,13 +56,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-gene-therapy/) ✓ — *accelerates*
+- [In-Vivo CRISPR Gene Therapy](/future/tech/in-vivo-crispr-gene-therapy/) ✓: *accelerates*
 
 ## Investment Exposure
 

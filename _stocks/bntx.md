@@ -8,10 +8,10 @@ node_count: 1
 ---
 
 ## Investment Thesis
-BioNTech is Moderna's peer and rival — same mRNA platform technology, different strategic approach. Where Moderna goes broad, BioNTech goes deep in cancer: their oncology pipeline is the most advanced in the world for mRNA-based cancer immunotherapy. The Pfizer partnership on COVID provided the cash; the oncology pipeline is the future.
+BioNTech is Moderna's peer and rival: same mRNA platform technology, different strategic approach. Where Moderna goes broad, BioNTech goes deep in cancer: their oncology pipeline is the most advanced in the world for mRNA-based cancer immunotherapy. The Pfizer partnership on COVID provided the cash; the oncology pipeline is the future.
 
 ### Key Drivers
-- **Cancer Immunotherapy:** BNT111 (melanoma), BNT112 (prostate), BNT122 (personalised cancer vaccine) — multiple late-stage catalysts.
+- **Cancer Immunotherapy:** BNT111 (melanoma), BNT112 (prostate), BNT122 (personalised cancer vaccine): multiple late-stage catalysts.
 - **Pfizer Partnership:** Co-commercial COVID franchise still generating billions; partnership extends to flu vaccines.
 - **European Biotech:** Based in Germany, benefits from EU regulatory pathways and government partnerships.
 
@@ -29,7 +29,7 @@ BioNTech is Moderna's peer and rival — same mRNA platform technology, differen
 <span class="conf-badge conf-confirmed">Confirmed</span>
 <span class="roadmap-stock-item-year">Ongoing</span>
 </div>
-<div class="roadmap-stock-item-desc">Programmable mRNA delivery for vaccines and protein replacement — Moderna, BioNTech</div>
+<div class="roadmap-stock-item-desc">Programmable mRNA delivery for vaccines and protein replacement: Moderna, BioNTech</div>
 <div class="roadmap-stock-item-impact">&#128200; The mRNA platform is proven at scale. Pipeline includes personalised cancer vaccines, RSV, flu, HIV, and rare diseases. Each approved indication is a new revenue stream on the same manufacturing infrastructure.</div>
 
 

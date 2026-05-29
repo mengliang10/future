@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "2nm Process Node (TSMC N2)"
-subtitle: "Leading-edge silicon node; volume production 2025 — TSMC N2, Samsung SF2"
+subtitle: "Leading-edge silicon node; volume production 2025: TSMC N2, Samsung SF2"
 category: Semiconductors
 stage: early_commercial
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/2nm-process-node-tsmc-n2/
 
 ## What This Is
 
-Leading-edge silicon node; volume production 2025 — TSMC N2, Samsung SF2. **Achieved.**
+Leading-edge silicon node; volume production 2025: TSMC N2, Samsung SF2. **Achieved.**
 
 Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **11 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 
 ## Market Race
 
-**7-Way Race** — 7 companies with meaningful exposure
+**7-Way Race**: 7 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -61,21 +61,21 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Technology Reality | **Ongoing / Deployed** | 92% |
 | Commercially Monetizable | **Now–2027** | 85% |
 
-High timing confidence (92%) — multiple corroborating sources confirm this timeline.
+High timing confidence (92%): multiple corroborating sources confirm this timeline.
 
 ## Prerequisites
 
 This technology depends on or requires advances in:
 
-- [Gate-All-Around FET (MBCFET/NSFET)](/future/tech/gate-all-around-fet-mbcfetnsfet/) ✓ — *requires*
-- [EUV Lithography (13.5nm)](/future/tech/euv-lithography-135nm/) ✓ — *requires*
+- [Gate-All-Around FET (MBCFET/NSFET)](/future/tech/gate-all-around-fet-mbcfetnsfet/) ✓: *requires*
+- [EUV Lithography (13.5nm)](/future/tech/euv-lithography-135nm/) ✓: *requires*
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [1nm / A14 Process Node](/future/tech/1nm-a14-process-node/) — *enables*
-- [AI Hardware ASIC (TPU/NPU/Trainium)](/future/tech/ai-hardware-asic-tpunputrainium/) ✓ — *accelerates*
+- [1nm / A14 Process Node](/future/tech/1nm-a14-process-node/): *enables*
+- [AI Hardware ASIC (TPU/NPU/Trainium)](/future/tech/ai-hardware-asic-tpunputrainium/) ✓: *accelerates*
 
 ## Investment Exposure
 

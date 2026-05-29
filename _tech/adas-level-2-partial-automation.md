@@ -1,7 +1,7 @@
 ---
 layout: tech_node
 title: "ADAS Level 2 (Partial Automation)"
-subtitle: "Combined steering + acceleration automation with driver supervision — Tesla AP"
+subtitle: "Combined steering + acceleration automation with driver supervision: Tesla AP"
 category: Autonomous
 stage: mass_production
 confidence_label: Speculative
@@ -21,7 +21,7 @@ permalink: /tech/adas-level-2-partial-automation/
 
 ## What This Is
 
-Combined steering + acceleration automation with driver supervision — Tesla AP. **Achieved.**
+Combined steering + acceleration automation with driver supervision: Tesla AP. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
 
@@ -40,7 +40,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 ## Market Race
 
-**Head-to-Head Race** — 2 companies with meaningful exposure
+**Head-to-Head Race**: 2 companies with meaningful exposure
 
 | Ticker | Company | Confidence | Position | Thesis |
 |--------|---------|-----------|----------|--------|
@@ -56,13 +56,13 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Technology Reality | **Ongoing / Deployed** | 99% |
 | Commercially Monetizable | **Now (deployed)** | 94% |
 
-High timing confidence (99%) — multiple corroborating sources confirm this timeline.
+High timing confidence (99%): multiple corroborating sources confirm this timeline.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [ADAS Level 3 (Conditional Highway)](/future/tech/adas-level-3-conditional-highway/) ✓ — *enables*
+- [ADAS Level 3 (Conditional Highway)](/future/tech/adas-level-3-conditional-highway/) ✓: *enables*
 
 ## Investment Exposure
 

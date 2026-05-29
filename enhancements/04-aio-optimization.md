@@ -1,8 +1,8 @@
-# Enhancement 04 — AIO (AI Overview Optimization)
+# Enhancement 04: AIO (AI Overview Optimization)
 
 ## Problem
 
-Google's AI Overviews (formerly Search Generative Experience, SGE) now appear for roughly 30–40% of informational queries in the US. An AI Overview occupies the top of the SERP above all organic results, and the user often gets the answer without scrolling. Pages that feed AI Overviews receive a source chip citation — a different conversion mechanism than a ranked blue link. Pages not cited in AIO become invisible for that query class, regardless of their organic rank.
+Google's AI Overviews (formerly Search Generative Experience, SGE) now appear for roughly 30–40% of informational queries in the US. An AI Overview occupies the top of the SERP above all organic results, and the user often gets the answer without scrolling. Pages that feed AI Overviews receive a source chip citation: a different conversion mechanism than a ranked blue link. Pages not cited in AIO become invisible for that query class, regardless of their organic rank.
 
 AIO differs from GEO (Enhancement 03) in a critical way: **GEO targets third-party AI assistants like ChatGPT/Perplexity; AIO targets Google's own SERP experience.** Both must be addressed, but with different signals and tactics.
 
@@ -85,11 +85,11 @@ Google AIO prefers pages where the first 150 words directly answer the most like
 > Solid-State Batteries are an energy storage technology using solid electrolytes instead of liquid...
 
 **AIO-Optimised:**
-> **Solid-State Batteries: Current Status (2025)** — Commercial pilot deployments are underway at Toyota and CATL as of 2025. Volume production is estimated for 2027–2029. Our research database tracks 7 independent sources confirming pilot-stage readiness, with confidence score +0.62 (Researching).
+> **Solid-State Batteries: Current Status (2025)**: Commercial pilot deployments are underway at Toyota and CATL as of 2025. Volume production is estimated for 2027–2029. Our research database tracks 7 independent sources confirming pilot-stage readiness, with confidence score +0.62 (Researching).
 
 ```mermaid
 flowchart TD
-    subgraph PageTop["Page Opening — First 200 Words"]
+    subgraph PageTop["Page Opening: First 200 Words"]
         ANSWER[Direct answer to implied query\nStatus + Timeline + Confidence]
         EVIDENCE[Evidence count + confidence score]
         CLAIM[One key cited claim with date]
@@ -102,7 +102,7 @@ flowchart TD
         INVEST[Investment Exposure]
     end
 
-    subgraph PageBottom["Page Bottom — AIO Boosters"]
+    subgraph PageBottom["Page Bottom: AIO Boosters"]
         FAQ[FAQ Section: 3-5 common questions + direct answers]
         RELATED[Related Technologies]
     end
@@ -125,7 +125,7 @@ Each tech node page should auto-generate a FAQ section from DB fields. This maps
 | What does [name] require? | edges (REQUIRES type) |
 
 ```liquid
-{% comment %} Jekyll template fragment — FAQ section {% endcomment %}
+{% comment %} Jekyll template fragment: FAQ section {% endcomment %}
 <section class="faq-section" itemscope itemtype="https://schema.org/FAQPage">
   <h2>Frequently Asked Questions</h2>
 
@@ -144,7 +144,7 @@ Each tech node page should auto-generate a FAQ section from DB fields. This maps
           Estimated commercial deployment: {{ page.est_year }}
           {% if page.est_year_range %}(range: {{ page.est_year_range }}){% endif %}.
         {% else %}
-          Timeline is not yet determined — technology is in early research phase.
+          Timeline is not yet determined: technology is in early research phase.
         {% endif %}
       </p>
     </div>
@@ -154,7 +154,7 @@ Each tech node page should auto-generate a FAQ section from DB fields. This maps
 
 ---
 
-## AIO vs Organic Rank — Dual Optimisation
+## AIO vs Organic Rank: Dual Optimisation
 
 A page can rank #1 organically and still not be cited in the AI Overview, or vice versa. Optimise for both simultaneously with different levers:
 
@@ -248,6 +248,6 @@ sequenceDiagram
 
 ## Open Questions
 
-- Google has not made the AIO source selection algorithm public — all signals above are inferred from pattern analysis. Monitor `searchAppearance` field in GSC as the authoritative signal.
+- Google has not made the AIO source selection algorithm public: all signals above are inferred from pattern analysis. Monitor `searchAppearance` field in GSC as the authoritative signal.
 - Is there a conflict between AIO optimization (brevity, direct answers) and depth-of-content SEO (longer pages rank better)? Resolution: put the direct answer first, then depth below the fold.
-- Should the direct-answer summary block be visually styled (highlighted box) or invisible to readers? Styled is better — it increases dwell time and signals deliberate information architecture.
+- Should the direct-answer summary block be visually styled (highlighted box) or invisible to readers? Styled is better: it increases dwell time and signals deliberate information architecture.

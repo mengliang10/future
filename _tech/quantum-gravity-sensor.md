@@ -43,13 +43,13 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Technology Reality | **2026–2034** | 55% |
 | Commercially Monetizable | **2032** | 51% |
 
-Moderate timing confidence (55%) — roadmap exists but execution risk remains.
+Moderate timing confidence (55%): roadmap exists but execution risk remains.
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [High-Definition Mapping (HD Map)](/future/tech/high-definition-mapping-hd-map/) ✓ — *accelerates*
+- [High-Definition Mapping (HD Map)](/future/tech/high-definition-mapping-hd-map/) ✓: *accelerates*
 
 ## Investment Exposure
 
