@@ -20,7 +20,7 @@
 
   --text-1:     #ffffff;
   --text-2:     #d1e1f5;
-  --text-3:     #9db4d6;
+  --text-3:     #b8cfe8;
 
   --green-dim:  rgba(0, 255, 136, 0.12);
   --red:        #ff5252;
@@ -271,24 +271,52 @@ blockquote {
   color: var(--accent);
 }
 .hamburger {
-  width: 32px;
-  height: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  min-width: 44px;
+  min-height: 44px;
+  background: rgba(0, 229, 255, 0.1);
+  border: 1px solid rgba(0, 229, 255, 0.3);
+  border-radius: var(--radius);
+  transition: all var(--transition);
+}
+.hamburger:hover {
+  background: rgba(0, 229, 255, 0.2);
+  border-color: var(--accent);
+}
+.hamburger.open {
+  background: rgba(0, 229, 255, 0.12);
+  border-color: var(--accent);
+}
+.hamburger-bars {
   display: flex;
   flex-direction: column;
   justify-content: center;
   gap: 5px;
-  padding: 4px;
+  width: 18px;
 }
-.hamburger span {
+.hamburger-bars span {
   display: block;
   height: 2px;
-  background: var(--text-1);
+  background: var(--accent);
   border-radius: 2px;
   transition: all var(--transition);
 }
-.hamburger.open span:nth-child(1) { transform: rotate(45deg) translate(5px, 5px); }
-.hamburger.open span:nth-child(2) { opacity: 0; }
-.hamburger.open span:nth-child(3) { transform: rotate(-45deg) translate(5px, -5px); }
+.hamburger-label {
+  font-family: var(--font-head);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  transition: opacity var(--transition);
+}
+.hamburger.open .hamburger-label { opacity: 0; width: 0; overflow: hidden; }
+.hamburger.open .hamburger-bars span:nth-child(1) { transform: rotate(45deg) translate(5px, 5px); }
+.hamburger.open .hamburger-bars span:nth-child(2) { opacity: 0; }
+.hamburger.open .hamburger-bars span:nth-child(3) { transform: rotate(-45deg) translate(5px, -5px); }
 
 .sidebar-overlay {
   display: none;
@@ -487,7 +515,9 @@ blockquote {
   font-size: 0.78rem;
   font-weight: 600;
   color: var(--accent);
+  text-decoration: none;
 }
+.mover-ticker:hover { color: var(--text-1); }
 .mover-name {
   font-size: 0.78rem;
   color: var(--text-2);

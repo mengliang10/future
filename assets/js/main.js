@@ -60,9 +60,10 @@ function initTopMovers() {
       container.innerHTML = sorted.map(s => {
         const up  = s.change_pct >= 0;
         const pct = (up ? '+' : '') + s.change_pct.toFixed(2) + '%';
+        const url = `${base}/stocks/${s.ticker.toLowerCase()}/`;
         return `
           <div class="mover-row">
-            <span class="mover-ticker">${s.ticker}</span>
+            <a href="${url}" class="mover-ticker">${s.ticker}</a>
             <span class="mover-name">${s.name}</span>
             <span class="mover-price">$${s.price.toFixed(2)}</span>
             <span class="mover-change ${up ? 'up' : 'down'}">${pct}</span>

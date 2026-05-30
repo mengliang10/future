@@ -53,7 +53,7 @@ defaults:
 # SEO tag settings
 twitter:
   username: futuretrends
-logo: /assets/images/logo.png
+logo: /assets/images/favicon.svg
 
 # Feed
 feed:
