@@ -5,6 +5,8 @@ symbol: TER
 exchange: NASDAQ
 categories: [Semiconductors]
 node_count: 1
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

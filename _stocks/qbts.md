@@ -4,6 +4,8 @@ name: "D-Wave Quantum Inc."
 symbol: QBTS
 exchange: NYSE
 categories: [Quantum]
+timing_action: "WAIT"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

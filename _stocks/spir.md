@@ -4,6 +4,8 @@ name: "Spire Global"
 symbol: SPIR
 exchange: NYSE
 categories: [Space Tech]
+timing_action: "FULL"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

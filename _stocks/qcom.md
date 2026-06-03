@@ -4,6 +4,8 @@ name: Qualcomm Incorporated
 symbol: QCOM
 exchange: NASDAQ
 categories: [Semiconductors, Mobile, AI Edge]
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

@@ -1,27 +1,25 @@
 ---
 layout: tech_node
 title: "Commercial Space Station (post-ISS)"
-subtitle: "Private orbital stations: Axiom Space modules, Starlab, Orbital Reef"
+subtitle: "Private orbital stations — Axiom Space modules, Starlab, Orbital Reef"
 category: Space Tech
 stage: proof_of_concept
 confidence_label: Speculative
-confidence_score: 0.158
-est_year: 2030
+est_year: 2031
 est_year_range: "2028–2035"
-horizon: "Mid-Term (2030)"
-timeline_confidence: 55
-monetizable_year: "2035"
-monetizable_confidence: 43
-source_count: 13
+horizon: "Medium-Term (2031–2035)"
+source_count: 9
 stocks: []
 permalink: /tech/commercial-space-station-post-iss/
 ---
 
 ## What This Is
 
-Private orbital stations: Axiom Space modules, Starlab, Orbital Reef.
+Private orbital stations — Axiom Space modules, Starlab, Orbital Reef.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **13 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **9 independent sources** on this technology.
+
+> RSS:Commercial satellite supplying intel to Ukraine is cornered by four Ru | rel=0.47 | uid:ab4f0155f2bd1d16
 
 ## Status
 
@@ -29,21 +27,10 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.158** |
-| Estimated Reality | **2028–2035** |
-| Timeline Confidence | **55%** |
-| Monetizable By | **2035** *(est. confidence: 43%)* |
-| Horizon | Mid-Term (2030) |
-| Independent Sources Tracked | 13 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2028–2035** | 55% |
-| Commercially Monetizable | **2035** | 43% |
-
-Moderate timing confidence (55%): roadmap exists but execution risk remains.
+| Confidence Score | **+0.12** |
+| Estimated Deployment | **2028–2035** |
+| Horizon | Medium-Term (2031–2035) |
+| Independent Sources Tracked | 9 |
 
 ## Investment Exposure
 

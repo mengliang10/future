@@ -5,6 +5,8 @@ symbol: MBLY
 exchange: NASDAQ
 categories: [Autonomous Vehicles, Semiconductors]
 node_count: 3
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

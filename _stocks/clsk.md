@@ -4,7 +4,7 @@ name: CleanSpark Inc.
 symbol: CLSK
 exchange: NASDAQ
 categories: [Blockchain, Mining]
-timing_action: "WAIT"
+timing_action: "HALF"
 regime: "HIGH_VOL"
 ---
 

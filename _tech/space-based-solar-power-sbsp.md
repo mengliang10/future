@@ -5,14 +5,10 @@ subtitle: "GW-scale solar arrays in GEO beaming microwave power to Earth surface
 category: Space Tech
 stage: basic_research
 confidence_label: Speculative
-confidence_score: 0.119
-est_year: 2035
+est_year: 2043
 est_year_range: "2035–2060"
-horizon: "Long-Term (2035)"
-timeline_confidence: 25
-monetizable_year: "2043"
-monetizable_confidence: 21
-source_count: 12
+horizon: "Long-Term (2043)"
+source_count: 7
 stocks: []
 permalink: /tech/space-based-solar-power-sbsp/
 ---
@@ -21,7 +17,9 @@ permalink: /tech/space-based-solar-power-sbsp/
 
 GW-scale solar arrays in GEO beaming microwave power to Earth surface.
 
-Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **12 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **7 independent sources** on this technology.
+
+> RSS:Solar phased arrays-based wireless power transfer for commercial airli | rel=0.86 | uid:d4257b2bc2cb8098
 
 ## Status
 
@@ -29,27 +27,16 @@ Fundamental research phase: concept established, practical implementation remain
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.119** |
-| Estimated Reality | **2035–2060** |
-| Timeline Confidence | **25%** |
-| Monetizable By | **2043** *(est. confidence: 21%)* |
-| Horizon | Long-Term (2035) |
-| Independent Sources Tracked | 12 |
+| Confidence Score | **+0.15** |
+| Estimated Deployment | **2035–2060** |
+| Horizon | Long-Term (2043) |
+| Independent Sources Tracked | 7 |
 
-## Timeline Intelligence
+## What This Enables
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2035–2060** | 25% |
-| Commercially Monetizable | **2043** | 21% |
+Advancement here directly benefits or unblocks:
 
-Low timing confidence (25%): timeline is speculative; watch for milestone announcements.
-
-## Prerequisites
-
-This technology depends on or requires advances in:
-
-- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-rocket-100t-to-leo/): *requires*
+- [Heavy Lift Rocket (100t to LEO)](/future/tech/heavy-lift-100t-leo/)
 
 ## Investment Exposure
 

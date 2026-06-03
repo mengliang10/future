@@ -1,61 +1,45 @@
 ---
 layout: tech_node
 title: "Collaborative Robot (Cobot)"
-subtitle: "Force-limited robots working alongside humans safely: Universal Robots, Fanuc CRX"
+subtitle: "Force-limited robots working alongside humans safely — Universal Robots, Fanuc CRX"
 category: Robotics
 stage: mass_production
-confidence_label: Speculative
-confidence_score: 0.126
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 94
-source_count: 20
+source_count: 18
 stocks: [TER]
-lead_stock: TER
-lead_stock_confidence: 80
 permalink: /tech/collaborative-robot-cobot/
 ---
 
 ## What This Is
 
-Force-limited robots working alongside humans safely: Universal Robots, Fanuc CRX. **Achieved.**
+Force-limited robots working alongside humans safely — Universal Robots, Fanuc CRX. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **20 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **18 independent sources** on this technology.
+
+> RSS:Experimental subdiffraction source discrimination enabled by spatial d | rel=0.50 | uid:2de1b2273e33a97f
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.126** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 20 |
+| Independent Sources Tracked | 18 |
 
-## Market Race
+## Prerequisites
 
-**Clear Leader: [TER](/future/stocks/ter/)**: 80% exposure confidence  
-**Position:** Direct pure-play  
+This technology depends on or is closely linked to:
 
-*Owns Universal Robots: cobot market leader*
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now (deployed)** | 94% |
-
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
+- [Industrial Robot Arm](/future/tech/industrial-robot-arm/)
 
 ## Investment Exposure
 
 [TER](/future/stocks/ter/)
 
-See each stock page for revenue drivers, milestones, and risk factors.
+See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

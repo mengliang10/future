@@ -1,29 +1,25 @@
 ---
 layout: tech_node
 title: "AI Drug Discovery Platform"
-subtitle: "End-to-end AI for target ID, lead optimization, clinical prediction: Recursion, Insilico"
+subtitle: "End-to-end AI for target ID, lead optimization, clinical prediction — Recursion, Insilico"
 category: Biotech
 stage: pilot
 confidence_label: Speculative
-confidence_score: 0.106
 est_year: 2025
 est_year_range: "2025–2030"
-horizon: "Near-Term (Now)"
-timeline_confidence: 75
-monetizable_year: "2027"
-monetizable_confidence: 68
-source_count: 27
+horizon: "Near-Term (Now–2026)"
+source_count: 17
 stocks: [RXRX]
-lead_stock: RXRX
-lead_stock_confidence: 88
 permalink: /tech/ai-drug-discovery-platform/
 ---
 
 ## What This Is
 
-End-to-end AI for target ID, lead optimization, clinical prediction: Recursion, Insilico.
+End-to-end AI for target ID, lead optimization, clinical prediction — Recursion, Insilico.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **27 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **17 independent sources** on this technology.
+
+> RSS:SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo  | rel=0.47 | uid:bba9eeccf7651469
 
 ## Status
 
@@ -31,45 +27,30 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.106** |
-| Estimated Reality | **2025–2030** |
-| Timeline Confidence | **75%** |
-| Monetizable By | **2027** *(est. confidence: 68%)* |
-| Horizon | Near-Term (Now) |
-| Independent Sources Tracked | 27 |
-
-## Market Race
-
-**Clear Leader: [RXRX](/future/stocks/rxrx/)**: 88% exposure confidence  
-**Position:** Direct pure-play  
-
-*Phenomics + AI foundation model pipeline*
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2025–2030** | 75% |
-| Commercially Monetizable | **2027** | 68% |
-
-Moderate timing confidence (75%): roadmap exists but execution risk remains.
+| Confidence Score | **+0.12** |
+| Estimated Deployment | **2025–2030** |
+| Horizon | Near-Term (Now–2026) |
+| Independent Sources Tracked | 17 |
 
 ## Prerequisites
 
-This technology depends on or requires advances in:
+This technology depends on or is closely linked to:
 
-- [Protein Structure Prediction (AI)](/future/tech/protein-structure-prediction-ai/) ✓: *requires*
+- [Biology Foundation Model](/future/tech/foundation-model-biology/)
+- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt4-class/)
+- [Organ-on-Chip (Microphysiological)](/future/tech/organ-on-chip/)
+- [Quantum Drug Molecular Simulation](/future/tech/quantum-computing-drug-sim/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Cancer Elimination (Most Types)](/future/tech/cancer-elimination-most-types/): *accelerates*
-- [Senolytic Therapy (Zombie Cell Clearance)](/future/tech/senolytic-therapy-zombie-cell-clearance/): *accelerates*
-- [Quantum Protein Folding Solver](/future/tech/quantum-protein-folding-solver/): *synergises with*
+- [Cancer Elimination (Most Types)](/future/tech/disease-elimination-cancer/)
+- [Senolytic Therapy (Zombie Cell Clearance)](/future/tech/longevity-senolytic/)
+- [Protein Structure Prediction (AI)](/future/tech/protein-structure-alphafold/)
 
 ## Investment Exposure
 
 [RXRX](/future/stocks/rxrx/)
 
-See each stock page for revenue drivers, milestones, and risk factors.
+See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

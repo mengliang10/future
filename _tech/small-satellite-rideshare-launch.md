@@ -1,67 +1,45 @@
 ---
 layout: tech_node
 title: "Small Satellite Rideshare Launch"
-subtitle: "Dedicated and rideshare launches for smallsats: SpaceX Transporter, RocketLab"
+subtitle: "Dedicated and rideshare launches for smallsats — SpaceX Transporter, RocketLab"
 category: Space Tech
 stage: mass_production
-confidence_label: Confirmed
-confidence_score: 0.136
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 94
-source_count: 11
+source_count: 10
 stocks: [RKLB]
-lead_stock: RKLB
-lead_stock_confidence: 88
 permalink: /tech/small-satellite-rideshare-launch/
 ---
 
 ## What This Is
 
-Dedicated and rideshare launches for smallsats: SpaceX Transporter, RocketLab. **Achieved.**
+Dedicated and rideshare launches for smallsats — SpaceX Transporter, RocketLab. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **10 independent sources** on this technology.
+
+> SpaceX Transporter program completed 12+ dedicated rideshare missions ($5,500/kg to SSO); Rocket Lab Electron and Relativity Terran 1 offer dedicated smallsat launch. Over 3,000 smallsats deployed annually via rideshare. Market is mature with three competing providers offering routine, reliable access.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.136** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 11 |
-
-## Market Race
-
-**Clear Leader: [RKLB](/future/stocks/rklb/)**: 88% exposure confidence  
-**Position:** Direct pure-play  
-
-*Electron launch vehicle for small sats*
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now (deployed)** | 94% |
-
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
+| Independent Sources Tracked | 10 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [LEO Satellite Internet Constellation](/future/tech/leo-satellite-internet-constellation/) ✓: *enables*
+- [LEO Satellite Internet Constellation](/future/tech/leo-satellite-internet/)
 
 ## Investment Exposure
 
 [RKLB](/future/stocks/rklb/)
 
-See each stock page for revenue drivers, milestones, and risk factors.
+See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

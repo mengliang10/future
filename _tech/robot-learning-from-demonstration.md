@@ -5,14 +5,10 @@ subtitle: "Robot learns new skills by watching human demonstration (imitation le
 category: Robotics
 stage: early_commercial
 confidence_label: Speculative
-confidence_score: 0.163
 est_year: 2027
 est_year_range: "2025–2030"
-horizon: "Near-Term (2027)"
-timeline_confidence: 70
-monetizable_year: "2028"
-monetizable_confidence: 74
-source_count: 37
+horizon: "Near-Term (2027–2028)"
+source_count: 41
 stocks: []
 permalink: /tech/robot-learning-from-demonstration/
 ---
@@ -21,7 +17,9 @@ permalink: /tech/robot-learning-from-demonstration/
 
 Robot learns new skills by watching human demonstration (imitation learning).
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **37 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **41 independent sources** on this technology.
+
+> RSS:Learning Bilevel Policies over Symbolic World Models for Long-Horizon  | rel=1.00 | uid:d89a161e8096bbd6
 
 ## Status
 
@@ -29,21 +27,16 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.163** |
-| Estimated Reality | **2025–2030** |
-| Timeline Confidence | **70%** |
-| Monetizable By | **2028** *(est. confidence: 74%)* |
-| Horizon | Near-Term (2027) |
-| Independent Sources Tracked | 37 |
+| Confidence Score | **+0.17** |
+| Estimated Deployment | **2025–2030** |
+| Horizon | Near-Term (2027–2028) |
+| Independent Sources Tracked | 41 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2025–2030** | 70% |
-| Commercially Monetizable | **2028** | 74% |
+This technology depends on or is closely linked to:
 
-Moderate timing confidence (70%): roadmap exists but execution risk remains.
+- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory/)
 
 ## Investment Exposure
 

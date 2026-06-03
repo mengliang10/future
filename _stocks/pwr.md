@@ -4,6 +4,8 @@ name: "Quanta Services Inc."
 symbol: PWR
 exchange: NYSE
 categories: [Energy Tech, Semiconductors]
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

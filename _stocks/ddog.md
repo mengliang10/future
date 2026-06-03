@@ -4,6 +4,8 @@ name: "Datadog"
 symbol: DDOG
 exchange: NASDAQ
 categories: [AI & Cloud, Software]
+timing_action: "WAIT"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

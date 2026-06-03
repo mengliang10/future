@@ -5,7 +5,9 @@ symbol: AAPL
 exchange: NASDAQ
 categories: [AI & Cloud]
 node_count: 2
-bottleneck_count: 1
+bottleneck_count: 2
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

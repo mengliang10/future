@@ -5,6 +5,8 @@ symbol: CEG
 exchange: NASDAQ
 categories: [Nuclear Energy, Clean Energy]
 node_count: 1
+timing_action: "FULL"
+regime: "TRENDING_DOWN"
 ---
 
 ## Investment Thesis

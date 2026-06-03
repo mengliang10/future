@@ -1,55 +1,42 @@
 ---
 layout: tech_node
 title: "AI Ad Creative Generation"
-subtitle: "GenAI producing ad images, copy, video variants at scale: Meta Advantage+, GDN"
+subtitle: "GenAI producing ad images, copy, video variants at scale — Meta Advantage+, GDN"
 category: Marketing Tech
 stage: mass_production
-confidence_label: Speculative
-confidence_score: 0.146
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 96
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 93
-source_count: 10
+source_count: 9
 stocks: []
 permalink: /tech/ai-ad-creative-generation/
 ---
 
 ## What This Is
 
-GenAI producing ad images, copy, video variants at scale: Meta Advantage+, GDN. **Achieved.**
+GenAI producing ad images, copy, video variants at scale — Meta Advantage+, GDN. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **10 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **9 independent sources** on this technology.
+
+> RSS:Schedule-dependent basin occupation in a programmable quantum annealer | rel=0.59 | uid:24d736128aa7f15a
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.146** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **96%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 93%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 10 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 96% |
-| Commercially Monetizable | **Now (deployed)** | 93% |
-
-High timing confidence (96%): multiple corroborating sources confirm this timeline.
+| Independent Sources Tracked | 9 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Personalization Engine](/future/tech/ai-personalization-engine/): *enables*
+- [AI Personalization Engine](/future/tech/ai-personalization-engine/)
 
 ## Investment Exposure
 

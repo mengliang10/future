@@ -1,61 +1,46 @@
 ---
 layout: tech_node
 title: "Whole Genome Sequencing <$1000"
-subtitle: "Cost threshold enabling population-scale genomics: crossed ~2023"
+subtitle: "Cost threshold enabling population-scale genomics — crossed ~2023"
 category: Biotech
 stage: mass_production
-confidence_label: Speculative
-confidence_score: 0.126
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 94
-source_count: 3
+source_count: 2
 stocks: [ILMN]
-lead_stock: ILMN
-lead_stock_confidence: 90
 permalink: /tech/whole-genome-sequencing-1000/
 ---
 
 ## What This Is
 
-Cost threshold enabling population-scale genomics: crossed ~2023. **Achieved.**
+Cost threshold enabling population-scale genomics — crossed ~2023. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+
+> RSS:AnnotateMissense: a genome-wide annotation and benchmarking framework  | rel=0.50 | uid:7351cb9945bac4ae
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.126** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 2 |
 
-## Market Race
+## Prerequisites
 
-**Clear Leader: [ILMN](/future/stocks/ilmn/)**: 90% exposure confidence  
-**Position:** Direct pure-play  
+This technology depends on or is closely linked to:
 
-*Drove WGS cost below $1000*
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now (deployed)** | 94% |
-
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
+- [Biology Foundation Model](/future/tech/foundation-model-biology/)
+- [Next-Generation Sequencing (NGS)](/future/tech/next-gen-sequencing/)
 
 ## Investment Exposure
 
 [ILMN](/future/stocks/ilmn/)
 
-See each stock page for revenue drivers, milestones, and risk factors.
+See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

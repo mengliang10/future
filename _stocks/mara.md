@@ -5,6 +5,8 @@ symbol: MARA
 exchange: NASDAQ
 categories: [Blockchain, Mining]
 node_count: 1
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

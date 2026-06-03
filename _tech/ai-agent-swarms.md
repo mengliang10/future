@@ -5,14 +5,10 @@ subtitle: "Coordinated networks of AI agents collaborating on complex tasks auto
 category: AI & Cloud
 stage: proof_of_concept
 confidence_label: Speculative
-confidence_score: 0.145
 est_year: 2029
 est_year_range: "2027–2032"
-horizon: "Mid-Term (2029)"
-timeline_confidence: 50
-monetizable_year: "2034"
-monetizable_confidence: 41
-source_count: 20
+horizon: "Medium-Term (2029–2030)"
+source_count: 21
 stocks: []
 permalink: /tech/ai-agent-swarms/
 ---
@@ -21,7 +17,9 @@ permalink: /tech/ai-agent-swarms/
 
 Coordinated networks of AI agents collaborating on complex tasks autonomously.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **20 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **21 independent sources** on this technology.
+
+> RSS:ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows f | rel=0.53 | uid:6ecec486a9839c7f
 
 ## Status
 
@@ -29,27 +27,16 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.145** |
-| Estimated Reality | **2027–2032** |
-| Timeline Confidence | **50%** |
-| Monetizable By | **2034** *(est. confidence: 41%)* |
-| Horizon | Mid-Term (2029) |
-| Independent Sources Tracked | 20 |
+| Confidence Score | **+0.13** |
+| Estimated Deployment | **2027–2032** |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 21 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2027–2032** | 50% |
-| Commercially Monetizable | **2034** | 41% |
+This technology depends on or is closely linked to:
 
-Moderate timing confidence (50%): roadmap exists but execution risk remains.
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/): *enables*
+- [Autonomous AI Agent](/future/tech/ai-agent-autonomous/)
 
 ## Investment Exposure
 

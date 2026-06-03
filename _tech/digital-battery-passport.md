@@ -1,59 +1,37 @@
 ---
 layout: tech_node
 title: "Digital Battery Passport (EU)"
-subtitle: "Standardised data system for tracking EV battery health and sustainability"
+subtitle: "Standardised data system for tracking EV battery health and sustainability (EU 2023/1542)."
 category: Energy Tech
-stage: emerging
-confidence_label: Confident
-confidence_score: 0.950
-est_year: 2027
-est_year_range: "2027"
-horizon: "Next 3 Years"
-timeline_confidence: 99
-monetizable_year: "2027"
-monetizable_confidence: 95
+stage: basic_research
+confidence_label: Confirmed
+est_year: 
+est_year_range: ""
+horizon: "Timeline TBD"
 source_count: 1
-stocks: [TSLA, RIVN]
-lead_stock: TSLA
-lead_stock_confidence: 70
+stocks: []
 permalink: /tech/digital-battery-passport/
 ---
 
 ## What This Is
 
-Standardised data system for tracking EV battery health and sustainability (EU 2023/1542). **Emerging.**
+Standardised data system for tracking EV battery health and sustainability (EU 2023/1542)..
 
-All new EV and industrial-use batteries with a capacity above 2 kilowatt-hours (kWh) must carry a unique digital battery passport by February 1, 2027. Our research database tracks **1 independent source** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
+
+> EU Regulation 2023/1542 mandates digital passports by Feb 2027.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Emerging** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.950** |
-| Estimated Reality | **2027** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **2027** *(est. confidence: 95%)* |
-| Horizon | Next 3 Years |
+| Development Stage | **Basic Research** |
+| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
+| Confidence Score | **+0.95** |
+| Estimated Deployment | **TBD** |
+| Horizon | Timeline TBD |
 | Independent Sources Tracked | 1 |
-
-## Market Race
-
-**Clear Leader: [TSLA](/future/stocks/tsla/)**: 70% exposure confidence  
-**Position:** Indirect exposure  
-
-*EV manufacturers must comply with EU regulations to maintain market access.*
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2027** | 99% |
-| Commercially Monetizable | **2027** | 95% |
-
-Regulatory-driven timeline with 99% confidence.
 
 ## Investment Exposure
 
-[TSLA](/future/stocks/tsla/), [RIVN](/future/stocks/rivn/)
+No direct listed-stock exposure identified yet in our research database.

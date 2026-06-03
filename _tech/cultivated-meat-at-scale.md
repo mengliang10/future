@@ -5,14 +5,10 @@ subtitle: "Animal muscle grown in bioreactors without slaughter; FDA approved 20
 category: Biotech
 stage: pilot
 confidence_label: Speculative
-confidence_score: 0.100
 est_year: 2030
 est_year_range: "2027–2036"
-horizon: "Mid-Term (2030)"
-timeline_confidence: 50
-monetizable_year: "2032"
-monetizable_confidence: 56
-source_count: 3
+horizon: "Medium-Term (2029–2030)"
+source_count: 2
 stocks: []
 permalink: /tech/cultivated-meat-at-scale/
 ---
@@ -21,7 +17,9 @@ permalink: /tech/cultivated-meat-at-scale/
 
 Animal muscle grown in bioreactors without slaughter; FDA approved 2023 (limited).
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **3 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **2 independent sources** on this technology.
+
+> RSS:Hierarchical and Holistic Open-Vocabulary Functional 3D Scene Graphs f | rel=0.38 | uid:89c49f1a16eff5e8
 
 ## Status
 
@@ -29,21 +27,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.100** |
-| Estimated Reality | **2027–2036** |
-| Timeline Confidence | **50%** |
-| Monetizable By | **2032** *(est. confidence: 56%)* |
-| Horizon | Mid-Term (2030) |
-| Independent Sources Tracked | 3 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2027–2036** | 50% |
-| Commercially Monetizable | **2032** | 56% |
-
-Moderate timing confidence (50%): roadmap exists but execution risk remains.
+| Confidence Score | **+0.09** |
+| Estimated Deployment | **2027–2036** |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 2 |
 
 ## Investment Exposure
 

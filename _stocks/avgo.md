@@ -5,6 +5,8 @@ symbol: AVGO
 exchange: NASDAQ
 categories: [Semiconductors]
 node_count: 2
+timing_action: "HALF"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

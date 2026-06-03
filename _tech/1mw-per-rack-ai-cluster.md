@@ -5,14 +5,10 @@ subtitle: "Ultra-dense AI clusters requiring new power and cooling infrastructur
 category: AI & Cloud
 stage: prototype
 confidence_label: Speculative
-confidence_score: 0.144
-est_year: 2026
+est_year: 2025
 est_year_range: "2026–2029"
-horizon: "Near-Term (Now)"
-timeline_confidence: 65
-monetizable_year: "2029"
-monetizable_confidence: 56
-source_count: 13
+horizon: "Near-Term (Now–2026)"
+source_count: 5
 stocks: []
 permalink: /tech/1mw-per-rack-ai-cluster/
 ---
@@ -21,9 +17,9 @@ permalink: /tech/1mw-per-rack-ai-cluster/
 
 Ultra-dense AI clusters requiring new power and cooling infrastructure.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **13 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **5 independent sources** on this technology.
 
-> DeepSeek's custom AI HPC cluster. 3D parallelism co-designed with network topology. Achieves 95%+ MFU on large-scale training. Cost-effective alternative to NVIDIA DGX SuperPOD. Demonstrates non-CUDA 
+> DeepSeek's custom AI HPC cluster. 3D parallelism co-designed with network topology. Achieves 95%+ MFU on large-scale training. Cost-effective alternative to NVIDIA DGX SuperPOD. Demonstrates non-CUDA supercomputing path.
 
 ## Status
 
@@ -31,27 +27,22 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.144** |
-| Estimated Reality | **2026–2029** |
-| Timeline Confidence | **65%** |
-| Monetizable By | **2029** *(est. confidence: 56%)* |
-| Horizon | Near-Term (Now) |
-| Independent Sources Tracked | 13 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2026–2029** | 65% |
-| Commercially Monetizable | **2029** | 56% |
-
-Moderate timing confidence (65%): roadmap exists but execution risk remains.
+| Confidence Score | **+0.16** |
+| Estimated Deployment | **2026–2029** |
+| Horizon | Near-Term (Now–2026) |
+| Independent Sources Tracked | 5 |
 
 ## Prerequisites
 
-This technology depends on or requires advances in:
+This technology depends on or is closely linked to:
 
-- [Data Center Liquid Cooling](/future/tech/data-center-liquid-cooling/) ✓: *requires*
+- [LLM 100T+ Parameter Model](/future/tech/llm-100t-params/)
+
+## What This Enables
+
+Advancement here directly benefits or unblocks:
+
+- [Data Center Liquid Cooling](/future/tech/data-center-liquid-cooling/)
 
 ## Investment Exposure
 

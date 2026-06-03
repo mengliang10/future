@@ -4,6 +4,8 @@ name: "Super Micro Computer"
 symbol: SMCI
 exchange: NASDAQ
 categories: [AI & Cloud, Hardware]
+timing_action: "AVOID"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

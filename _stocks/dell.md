@@ -4,6 +4,8 @@ name: "Dell Technologies"
 symbol: DELL
 exchange: NYSE
 categories: [AI & Cloud, Hardware]
+timing_action: "AVOID"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

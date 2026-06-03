@@ -4,6 +4,8 @@ name: "Texas Instruments"
 symbol: TXN
 exchange: NASDAQ
 categories: [Semiconductors]
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

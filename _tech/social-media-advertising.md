@@ -5,13 +5,9 @@ subtitle: "Audience-targeted ads on Facebook, Instagram, TikTok, LinkedIn, X"
 category: Marketing Tech
 stage: mass_production
 confidence_label: Confirmed
-confidence_score: 0.148
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 94
 source_count: 1
 stocks: []
 permalink: /tech/social-media-advertising/
@@ -23,33 +19,18 @@ Audience-targeted ads on Facebook, Instagram, TikTok, LinkedIn, X. **Achieved.**
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
 
+> Meta alone generated $160B+ in ad revenue (2025); TikTok, YouTube, LinkedIn, and X (Twitter) combined for another $100B+. Social media advertising is a mature, dominant digital ad channel with AI-optimized bidding, creative generation, and audience targeting serving millions of advertisers globally.
+
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.148** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
+| Confidence Score | **+0.98** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
 | Independent Sources Tracked | 1 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now (deployed)** | 94% |
-
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [AI Ad Creative Generation](/future/tech/ai-ad-creative-generation/) ✓: *accelerates*
 
 ## Investment Exposure
 

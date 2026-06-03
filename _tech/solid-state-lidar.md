@@ -1,67 +1,45 @@
 ---
 layout: tech_node
 title: "Solid-State LiDAR"
-subtitle: "Compact, low-cost LiDAR without spinning parts: Luminar Iris, Innoviz One"
+subtitle: "Compact, low-cost LiDAR without spinning parts — Luminar Iris, Innoviz One"
 category: Autonomous
 stage: early_commercial
-confidence_label: Speculative
-confidence_score: 0.104
+confidence_label: Researching
 est_year: 2025
-est_year_range: "2025"
+est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 88
-monetizable_year: "Now–2027"
-monetizable_confidence: 83
-source_count: 8
+source_count: 5
 stocks: [LAZR]
-lead_stock: LAZR
-lead_stock_confidence: 88
 permalink: /tech/solid-state-lidar/
 ---
 
 ## What This Is
 
-Compact, low-cost LiDAR without spinning parts: Luminar Iris, Innoviz One. **Achieved.**
+Compact, low-cost LiDAR without spinning parts — Luminar Iris, Innoviz One. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **8 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **5 independent sources** on this technology.
+
+> RSS:LAPS: Improving Incremental LiDAR Mapping using Active Pooling and Sam | rel=0.38 | uid:3fecbdcecd3a4d03
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.104** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **88%** |
-| Monetizable By | **Now–2027** *(est. confidence: 83%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 8 |
-
-## Market Race
-
-**Clear Leader: [LAZR](/future/stocks/lazr/)**: 88% exposure confidence  
-**Position:** Direct pure-play  
-
-*Iris LiDAR in Volvo EX90 production vehicles*
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 88% |
-| Commercially Monetizable | **Now–2027** | 83% |
-
-High timing confidence (88%): multiple corroborating sources confirm this timeline.
+| Independent Sources Tracked | 5 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/av-sensor-fusion-camlidarradar/) ✓: *enables*
+- [AV Sensor Fusion (Cam+LiDAR+Radar)](/future/tech/sensor-fusion-av/)
 
 ## Investment Exposure
 
 [LAZR](/future/stocks/lazr/)
 
-See each stock page for revenue drivers, milestones, and risk factors.
+See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

@@ -4,6 +4,8 @@ name: "Arqit Quantum"
 symbol: ARQQ
 exchange: NASDAQ
 categories: [Quantum, Cybersecurity]
+timing_action: "FULL"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

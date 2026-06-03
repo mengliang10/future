@@ -1,68 +1,51 @@
 ---
 layout: tech_node
 title: "CRISPR Base Editing"
-subtitle: "Single base pair correction without double-strand breaks: David Liu, Beam Tx"
+subtitle: "Single base pair correction without double-strand breaks — David Liu, Beam Tx"
 category: Biotech
 stage: early_commercial
-confidence_label: Speculative
-confidence_score: 0.121
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 98
-monetizable_year: "Now–2027"
-monetizable_confidence: 88
-source_count: 5
+source_count: 4
 stocks: [BEAM]
-lead_stock: BEAM
-lead_stock_confidence: 95
 permalink: /tech/crispr-base-editing/
 ---
 
 ## What This Is
 
-Single base pair correction without double-strand breaks: David Liu, Beam Tx. **Achieved.**
+Single base pair correction without double-strand breaks — David Liu, Beam Tx. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **5 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
+
+> RSS:Orbital Angular Momentum Textures and Currents in a Discrete Helix: Eq | rel=0.41 | uid:fcec5defefa8a8f1
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.121** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **98%** |
-| Monetizable By | **Now–2027** *(est. confidence: 88%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 5 |
+| Independent Sources Tracked | 4 |
 
-## Market Race
+## Prerequisites
 
-**Clear Leader: [BEAM](/future/stocks/beam/)**: 95% exposure confidence  
-**Position:** Direct pure-play  
+This technology depends on or is closely linked to:
 
-*Founded by base editing inventor David Liu*
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 98% |
-| Commercially Monetizable | **Now–2027** | 88% |
-
-High timing confidence (98%): multiple corroborating sources confirm this timeline.
+- [CRISPR-Cas9 Gene Editing](/future/tech/crispr-cas9/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [CRISPR Prime Editing](/future/tech/crispr-prime-editing/): *enables*
-- [Cultivated Meat at Scale](/future/tech/cultivated-meat-at-scale/): *accelerates*
+- [CRISPR Prime Editing](/future/tech/crispr-prime-editing/)
 
 ## Investment Exposure
 
 [BEAM](/future/stocks/beam/)
 
-See each stock page for revenue drivers, milestones, and risk factors.
+See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

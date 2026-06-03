@@ -5,14 +5,10 @@ subtitle: "Simultaneous neural recording and targeted stimulation for sensation 
 category: BCI
 stage: proof_of_concept
 confidence_label: Speculative
-confidence_score: 0.114
-est_year: 2030
+est_year: 2031
 est_year_range: "2028–2036"
-horizon: "Mid-Term (2030)"
-timeline_confidence: 45
-monetizable_year: "2035"
-monetizable_confidence: 38
-source_count: 10
+horizon: "Medium-Term (2031–2035)"
+source_count: 3
 stocks: []
 permalink: /tech/bidirectional-bci-read-write/
 ---
@@ -21,7 +17,9 @@ permalink: /tech/bidirectional-bci-read-write/
 
 Simultaneous neural recording and targeted stimulation for sensation feedback.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **10 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **3 independent sources** on this technology.
+
+> RSS:Near-degenerate competing magnetic orders in EuAgAs: a tunable route t | rel=0.38 | uid:f1d21aa5e1569d1d
 
 ## Status
 
@@ -29,21 +27,17 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.114** |
-| Estimated Reality | **2028–2036** |
-| Timeline Confidence | **45%** |
-| Monetizable By | **2035** *(est. confidence: 38%)* |
-| Horizon | Mid-Term (2030) |
-| Independent Sources Tracked | 10 |
+| Confidence Score | **+0.08** |
+| Estimated Deployment | **2028–2036** |
+| Horizon | Medium-Term (2031–2035) |
+| Independent Sources Tracked | 3 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2028–2036** | 45% |
-| Commercially Monetizable | **2035** | 38% |
+This technology depends on or is closely linked to:
 
-Low timing confidence (45%): timeline is speculative; watch for milestone announcements.
+- [Memory Augmentation via BCI](/future/tech/memory-augmentation-bci/)
+- [BCI Speech Decoding](/future/tech/bci-speech-decoding/)
 
 ## Investment Exposure
 

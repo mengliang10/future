@@ -4,18 +4,12 @@ title: "Trapped Ion Qubit"
 subtitle: "Individual ions in EM field as high-fidelity qubits; IonQ, Quantinuum"
 category: Quantum
 stage: early_commercial
-confidence_label: Speculative
-confidence_score: 0.171
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now–2027"
-monetizable_confidence: 88
-source_count: 3
+source_count: 4
 stocks: [IONQ, HON]
-lead_stock: IONQ
-lead_stock_confidence: 95
 permalink: /tech/trapped-ion-qubit/
 ---
 
@@ -23,49 +17,29 @@ permalink: /tech/trapped-ion-qubit/
 
 Individual ions in EM field as high-fidelity qubits; IonQ, Quantinuum. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **3 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
+
+> RSS:Geometric symmetry and size-dependent skyrmion phase transitions in ma | rel=0.47 | uid:11be8886430ee79d
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.171** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now–2027** *(est. confidence: 88%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
-
-## Market Race
-
-**Head-to-Head Race**: 2 companies with meaningful exposure
-
-| Ticker | Company | Confidence | Position | Thesis |
-|--------|---------|-----------|----------|--------|
-| [IONQ](/future/stocks/ionq/) | IonQ Inc. | 95% | DIRECT | IonQ Forte: cloud access via AWS/Azure/GCP **← Leader** |
-| [HON](/future/stocks/hon/) | Honeywell International | 75% | DIRECT | Quantinuum H2: highest gate fidelity published |
-
-**Current leader:** [IONQ](/future/stocks/ionq/) with **95%** exposure confidence based on our research.
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now–2027** | 88% |
-
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
+| Independent Sources Tracked | 4 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction-surface-code/): *enables*
+- [Quantum Error Correction (Surface Code)](/future/tech/quantum-error-correction/)
 
 ## Investment Exposure
 
 [IONQ](/future/stocks/ionq/)  [HON](/future/stocks/hon/)
 
-See each stock page for revenue drivers, milestones, and risk factors.
+See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

@@ -4,6 +4,8 @@ name: "Enphase Energy"
 symbol: ENPH
 exchange: NASDAQ
 categories: [Energy Tech]
+timing_action: "AVOID"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

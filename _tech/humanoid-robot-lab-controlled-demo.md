@@ -1,61 +1,49 @@
 ---
 layout: tech_node
 title: "Humanoid Robot (Lab / Controlled Demo)"
-subtitle: "Bipedal humanoids in controlled settings: Tesla Optimus Gen2, Figure 02, 1X NEO"
+subtitle: "Bipedal humanoids in controlled settings — Tesla Optimus Gen2, Figure 02, 1X NEO"
 category: Robotics
 stage: pilot
-confidence_label: Speculative
-confidence_score: 0.086
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 98
-monetizable_year: "2031"
-monetizable_confidence: 80
-source_count: 9
+source_count: 3
 stocks: []
 permalink: /tech/humanoid-robot-lab-controlled-demo/
 ---
 
 ## What This Is
 
-Bipedal humanoids in controlled settings: Tesla Optimus Gen2, Figure 02, 1X NEO. **Achieved.**
+Bipedal humanoids in controlled settings — Tesla Optimus Gen2, Figure 02, 1X NEO. **Achieved.**
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **9 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **3 independent sources** on this technology.
+
+> RSS:Propagating Unsafe Actions in LLM Controlled Multi-Robot Collaboration | rel=0.72 | uid:a49334879a976fc4
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.086** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **98%** |
-| Monetizable By | **2031** *(est. confidence: 80%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 9 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 98% |
-| Commercially Monetizable | **2031** | 80% |
-
-High timing confidence (98%): multiple corroborating sources confirm this timeline.
+| Independent Sources Tracked | 3 |
 
 ## Prerequisites
 
-This technology depends on or requires advances in:
+This technology depends on or is closely linked to:
 
-- [Sim-to-Real Transfer](/future/tech/sim-to-real-transfer/): *requires*
+- [Quadruped Robot Locomotion](/future/tech/quadruped-robot-locomotion/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory-deployment/): *enables*
+- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory/)
+- [Sim-to-Real Transfer](/future/tech/sim-to-real-transfer/)
 
 ## Investment Exposure
 

@@ -4,15 +4,11 @@ title: "BCI Motor Cortex Decoding"
 subtitle: "Decoding intended movement from neural signals to control prosthetics/cursors"
 category: BCI
 stage: early_commercial
-confidence_label: Speculative
-confidence_score: 0.092
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 95
-monetizable_year: "Now–2027"
-monetizable_confidence: 86
-source_count: 7
+source_count: 6
 stocks: []
 permalink: /tech/bci-motor-cortex-decoding/
 ---
@@ -21,41 +17,27 @@ permalink: /tech/bci-motor-cortex-decoding/
 
 Decoding intended movement from neural signals to control prosthetics/cursors. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **7 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **6 independent sources** on this technology.
+
+> RSS:Active Defense Against False Data Injection Attacks in Robotic Manipul | rel=0.44 | uid:ef2c36fe7e0dcb49
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.092** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **95%** |
-| Monetizable By | **Now–2027** *(est. confidence: 86%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 7 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 95% |
-| Commercially Monetizable | **Now–2027** | 86% |
-
-High timing confidence (95%): multiple corroborating sources confirm this timeline.
-
-## Prerequisites
-
-This technology depends on or requires advances in:
-
-- [Utah Array Invasive BCI](/future/tech/utah-array-invasive-bci/) ✓: *requires*
+| Independent Sources Tracked | 6 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [High-Bandwidth Wireless BCI (1024ch)](/future/tech/high-bandwidth-wireless-bci-1024ch/): *enables*
+- [High-Bandwidth Wireless BCI (1024ch)](/future/tech/high-bandwidth-wireless-bci/)
+- [Utah Array Invasive BCI](/future/tech/utah-array-bci/)
 
 ## Investment Exposure
 

@@ -5,14 +5,10 @@ subtitle: "Robots produce goods at near-zero marginal cost; fundamental economic
 category: Robotics
 stage: basic_research
 confidence_label: Speculative
-confidence_score: 0.155
 est_year: 2050
 est_year_range: "2040–2065"
-horizon: "Far Future (2050)"
-timeline_confidence: 15
-monetizable_year: "2058"
-monetizable_confidence: 16
-source_count: 37
+horizon: "Long-Term (2050)"
+source_count: 19
 stocks: []
 permalink: /tech/post-scarcity-robotic-manufacturing/
 ---
@@ -21,7 +17,9 @@ permalink: /tech/post-scarcity-robotic-manufacturing/
 
 Robots produce goods at near-zero marginal cost; fundamental economics shift.
 
-Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **37 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **19 independent sources** on this technology.
+
+> RSS:A Mechanistic Model for Collective Motion from Sensorimotor Regulariti | rel=0.56 | uid:cee89f9b2e15aa6a
 
 ## Status
 
@@ -29,21 +27,17 @@ Fundamental research phase: concept established, practical implementation remain
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.155** |
-| Estimated Reality | **2040–2065** |
-| Timeline Confidence | **15%** |
-| Monetizable By | **2058** *(est. confidence: 16%)* |
-| Horizon | Far Future (2050) |
-| Independent Sources Tracked | 37 |
+| Confidence Score | **+0.13** |
+| Estimated Deployment | **2040–2065** |
+| Horizon | Long-Term (2050) |
+| Independent Sources Tracked | 19 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2040–2065** | 15% |
-| Commercially Monetizable | **2058** | 16% |
+This technology depends on or is closely linked to:
 
-Low timing confidence (15%): timeline is speculative; watch for milestone announcements.
+- [General-Purpose Humanoid Robot](/future/tech/humanoid-robot-general/)
+- [Full Warehouse Automation](/future/tech/warehouse-automation-full/)
 
 ## Investment Exposure
 

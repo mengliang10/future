@@ -4,6 +4,8 @@ name: "Snowflake"
 symbol: SNOW
 exchange: NYSE
 categories: [AI & Cloud, Data]
+timing_action: "AVOID"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

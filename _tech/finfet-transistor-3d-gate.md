@@ -4,14 +4,10 @@ title: "FinFET Transistor (3D Gate)"
 subtitle: "3D fin-shaped FET enabling scaling below 22nm; used at 5–14nm nodes"
 category: Semiconductors
 stage: mass_production
-confidence_label: Speculative
-confidence_score: 0.139
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 94
 source_count: 3
 stocks: []
 permalink: /tech/finfet-transistor-3d-gate/
@@ -23,33 +19,30 @@ permalink: /tech/finfet-transistor-3d-gate/
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
 
+> RSS:Berry-phase in a periodically driven single molecule magnet transistor | rel=0.44 | uid:94451451c8ed12f6
+
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.139** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
 | Independent Sources Tracked | 3 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now (deployed)** | 94% |
+This technology depends on or is closely linked to:
 
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
+- [Silicon Transistor (Planar MOSFET)](/future/tech/silicon-transistor/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Gate-All-Around FET (MBCFET/NSFET)](/future/tech/gate-all-around-fet-mbcfetnsfet/) ✓: *enables*
+- [Gate-All-Around FET (MBCFET/NSFET)](/future/tech/gaafet-transistor/)
 
 ## Investment Exposure
 

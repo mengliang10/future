@@ -5,6 +5,9 @@ symbol: TSLA
 exchange: NASDAQ
 categories: [Robotics & Auto]
 node_count: 6
+bottleneck_count: 2
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

@@ -1,27 +1,25 @@
 ---
 layout: tech_node
 title: "Decentralized Identity (DID / SSI)"
-subtitle: "User-controlled identity wallets: W3C DID standard, ENS, Polygon ID"
+subtitle: "User-controlled identity wallets — W3C DID standard, ENS, Polygon ID"
 category: Blockchain
 stage: prototype
 confidence_label: Speculative
-confidence_score: 0.133
-est_year: 2028
+est_year: 2029
 est_year_range: "2026–2034"
-horizon: "Near-Term (2028)"
-timeline_confidence: 50
-monetizable_year: "2031"
-monetizable_confidence: 49
-source_count: 2
+horizon: "Medium-Term (2029–2030)"
+source_count: 1
 stocks: []
 permalink: /tech/decentralized-identity-did-ssi/
 ---
 
 ## What This Is
 
-User-controlled identity wallets: W3C DID standard, ENS, Polygon ID.
+User-controlled identity wallets — W3C DID standard, ENS, Polygon ID.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **2 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **1 independent source** on this technology.
+
+> RSS:BIDO: A Biometric Identity Online Authentication Framework | rel=0.50 | uid:0de7dea41e959d35
 
 ## Status
 
@@ -29,21 +27,16 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.133** |
-| Estimated Reality | **2026–2034** |
-| Timeline Confidence | **50%** |
-| Monetizable By | **2031** *(est. confidence: 49%)* |
-| Horizon | Near-Term (2028) |
-| Independent Sources Tracked | 2 |
+| Confidence Score | **+0.12** |
+| Estimated Deployment | **2026–2034** |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 1 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2026–2034** | 50% |
-| Commercially Monetizable | **2031** | 49% |
+This technology depends on or is closely linked to:
 
-Moderate timing confidence (50%): roadmap exists but execution risk remains.
+- [Zero-Knowledge Proof (ZKP)](/future/tech/zero-knowledge-proof/)
 
 ## Investment Exposure
 

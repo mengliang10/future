@@ -1,49 +1,36 @@
 ---
 layout: tech_node
 title: "Hardware Security Module (HSM)"
-subtitle: "Dedicated crypto processor for key management: used in banking, cloud, PKI"
+subtitle: "Dedicated crypto processor for key management — used in banking, cloud, PKI"
 category: Cybersecurity
 stage: mass_production
-confidence_label: Speculative
-confidence_score: 0.177
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 94
-source_count: 6
+source_count: 3
 stocks: []
 permalink: /tech/hardware-security-module-hsm/
 ---
 
 ## What This Is
 
-Dedicated crypto processor for key management: used in banking, cloud, PKI. **Achieved.**
+Dedicated crypto processor for key management — used in banking, cloud, PKI. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
+
+> RSS:Module Lattice Security (Part IV): Probabilistic Polynomial Quantum At | rel=0.44 | uid:38bb87a31664c1e7
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.177** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 6 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now (deployed)** | 94% |
-
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
+| Independent Sources Tracked | 3 |
 
 ## Investment Exposure
 

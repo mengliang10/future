@@ -4,15 +4,11 @@ title: "Onshore Wind Turbine"
 subtitle: "Modern 5-6MW onshore turbines; lowest LCOE energy source in many markets"
 category: Energy Tech
 stage: mass_production
-confidence_label: Speculative
-confidence_score: 0.113
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 94
-source_count: 15
+source_count: 6
 stocks: []
 permalink: /tech/onshore-wind-turbine/
 ---
@@ -21,29 +17,20 @@ permalink: /tech/onshore-wind-turbine/
 
 Modern 5-6MW onshore turbines; lowest LCOE energy source in many markets. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **15 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
+
+> RSS:Near-Field Vibrational Energy Transfer for Mid-Infrared Upconversion i | rel=0.38 | uid:dd89ae72a1a006bb
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.113** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 15 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now (deployed)** | 94% |
-
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
+| Independent Sources Tracked | 6 |
 
 ## Investment Exposure
 

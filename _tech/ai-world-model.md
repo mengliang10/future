@@ -5,14 +5,10 @@ subtitle: "Internal simulation of physical/social reality enabling planning with
 category: AI & Cloud
 stage: prototype
 confidence_label: Speculative
-confidence_score: 0.142
 est_year: 2028
 est_year_range: "2026–2031"
-horizon: "Near-Term (2028)"
-timeline_confidence: 55
-monetizable_year: "2031"
-monetizable_confidence: 51
-source_count: 54
+horizon: "Near-Term (2027–2028)"
+source_count: 58
 stocks: []
 permalink: /tech/ai-world-model/
 ---
@@ -21,9 +17,9 @@ permalink: /tech/ai-world-model/
 
 Internal simulation of physical/social reality enabling planning without real rollout.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **54 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **58 independent sources** on this technology.
 
-> Unified framework for multimodal understanding AND generation in one model. Decouples visual encoding into separate streams for understanding vs generation. Surpasses prior unified models and speciali
+> Unified framework for multimodal understanding AND generation in one model. Decouples visual encoding into separate streams for understanding vs generation. Surpasses prior unified models and specialized models on both tasks.
 
 ## Status
 
@@ -31,21 +27,16 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.142** |
-| Estimated Reality | **2026–2031** |
-| Timeline Confidence | **55%** |
-| Monetizable By | **2031** *(est. confidence: 51%)* |
-| Horizon | Near-Term (2028) |
-| Independent Sources Tracked | 54 |
+| Confidence Score | **+0.15** |
+| Estimated Deployment | **2026–2031** |
+| Horizon | Near-Term (2027–2028) |
+| Independent Sources Tracked | 58 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2026–2031** | 55% |
-| Commercially Monetizable | **2031** | 51% |
+This technology depends on or is closely linked to:
 
-Moderate timing confidence (55%): roadmap exists but execution risk remains.
+- [Artificial General Intelligence](/future/tech/artificial-general-intelligence/)
 
 ## Investment Exposure
 

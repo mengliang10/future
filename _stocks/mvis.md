@@ -4,6 +4,8 @@ name: "MicroVision"
 symbol: MVIS
 exchange: NASDAQ
 categories: [Autonomous, Sensors]
+timing_action: "AVOID"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

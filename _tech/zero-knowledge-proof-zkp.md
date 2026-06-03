@@ -4,14 +4,10 @@ title: "Zero-Knowledge Proof (ZKP)"
 subtitle: "Cryptographic proof of knowledge without revealing the knowledge itself"
 category: Blockchain
 stage: mass_production
-confidence_label: Speculative
-confidence_score: 0.115
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 94
 source_count: 2
 stocks: []
 permalink: /tech/zero-knowledge-proof-zkp/
@@ -23,33 +19,30 @@ Cryptographic proof of knowledge without revealing the knowledge itself. **Achie
 
 Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
 
+> RSS:Towards complete characterization of topological insulators and superc | rel=0.50 | uid:c861d1546658ea25
+
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.115** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
 | Independent Sources Tracked | 2 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now (deployed)** | 94% |
+This technology depends on or is closely linked to:
 
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
+- [ZK-EVM (ZK-Rollup + EVM Compatible)](/future/tech/zk-evm/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Decentralized Identity (DID / SSI)](/future/tech/decentralized-identity-did-ssi/): *enables*
+- [Decentralized Identity (DID / SSI)](/future/tech/decentralized-identity/)
 
 ## Investment Exposure
 

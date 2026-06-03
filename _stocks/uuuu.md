@@ -4,7 +4,7 @@ name: Energy Fuels Inc.
 symbol: UUUU
 exchange: NYSE
 categories: [Nuclear Energy, Uranium, Rare Earth]
-timing_action: "HALF"
+timing_action: "FULL"
 regime: "HIGH_VOL"
 ---
 

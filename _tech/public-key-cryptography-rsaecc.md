@@ -4,15 +4,11 @@ title: "Public Key Cryptography (RSA/ECC)"
 subtitle: "Asymmetric encryption enabling secure communication without shared secret"
 category: Cybersecurity
 stage: mass_production
-confidence_label: Speculative
-confidence_score: 0.120
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 94
-source_count: 14
+source_count: 11
 stocks: []
 permalink: /tech/public-key-cryptography-rsaecc/
 ---
@@ -21,29 +17,26 @@ permalink: /tech/public-key-cryptography-rsaecc/
 
 Asymmetric encryption enabling secure communication without shared secret. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **14 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.
+
+> RSS:Accelerating Hybrid XOR$-$CNF Boolean Satisfiability Problems Natively | rel=0.41 | uid:1e2cefa4b335a8af
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.120** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 14 |
+| Independent Sources Tracked | 11 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now (deployed)** | 94% |
+This technology depends on or is closely linked to:
 
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
+- [TLS/SSL Encrypted Transport](/future/tech/tls-ssl/)
 
 ## Investment Exposure
 

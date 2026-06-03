@@ -4,6 +4,8 @@ name: "Salesforce"
 symbol: CRM
 exchange: NYSE
 categories: [AI & Cloud, Software]
+timing_action: "HALF"
+regime: "TRENDING_DOWN"
 ---
 
 ## Investment Thesis

@@ -5,6 +5,8 @@ symbol: RGTI
 exchange: NASDAQ
 categories: [Quantum]
 node_count: 1
+timing_action: "WAIT"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

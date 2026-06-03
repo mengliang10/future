@@ -4,6 +4,8 @@ name: "NextEra Energy Inc."
 symbol: NEE
 exchange: NYSE
 categories: [Energy Tech]
+timing_action: "FULL"
+regime: "LOW_VOL"
 ---
 
 ## Investment Thesis

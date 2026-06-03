@@ -1,55 +1,43 @@
 ---
 layout: tech_node
 title: "Consumer Non-Invasive BCI Headset"
-subtitle: "Mass-market EEG/fNIRS headsets for gaming, focus, meditation: Emotiv, Muse"
+subtitle: "Mass-market EEG/fNIRS headsets for gaming, focus, meditation — Emotiv, Muse"
 category: BCI
 stage: early_commercial
-confidence_label: Confident
-confidence_score: 0.100
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 90
-monetizable_year: "Now–2027"
-monetizable_confidence: 84
-source_count: 4
+source_count: 2
 stocks: []
 permalink: /tech/consumer-non-invasive-bci-headset/
 ---
 
 ## What This Is
 
-Mass-market EEG/fNIRS headsets for gaming, focus, meditation: Emotiv, Muse. **Achieved.**
+Mass-market EEG/fNIRS headsets for gaming, focus, meditation — Emotiv, Muse. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
+
+> Emotiv EPOC X and Muse S (Gen 2) commercially available with dry EEG electrodes for meditation/focus tracking; limited to ~7 signal classes with 60-75% accuracy. Niche consumer adoption (~250K units shipped).
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.100** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **90%** |
-| Monetizable By | **Now–2027** *(est. confidence: 84%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.57** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 2 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 90% |
-| Commercially Monetizable | **Now–2027** | 84% |
+This technology depends on or is closely linked to:
 
-High timing confidence (90%): multiple corroborating sources confirm this timeline.
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [Neuro-Personalised Advertising](/future/tech/neuro-personalised-advertising/): *enables*
+- [Neuro-Personalised Advertising](/future/tech/neuro-personalized-advertising/)
+- [EEG (Non-Invasive Brain Recording)](/future/tech/eeg-non-invasive/)
 
 ## Investment Exposure
 

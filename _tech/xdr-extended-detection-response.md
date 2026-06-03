@@ -5,17 +5,11 @@ subtitle: "Unified threat detection across endpoints, cloud, network, identity"
 category: Cybersecurity
 stage: early_commercial
 confidence_label: Speculative
-confidence_score: 0.107
-est_year: 2024
-est_year_range: "2024"
-horizon: "Near-Term (Now)"
-timeline_confidence: 85
-monetizable_year: "2025"
-monetizable_confidence: 81
-source_count: 14
+est_year: 2025
+est_year_range: ""
+horizon: "Near-Term (Now–2026)"
+source_count: 11
 stocks: [PANW]
-lead_stock: PANW
-lead_stock_confidence: 88
 permalink: /tech/xdr-extended-detection-response/
 ---
 
@@ -23,7 +17,9 @@ permalink: /tech/xdr-extended-detection-response/
 
 Unified threat detection across endpoints, cloud, network, identity.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **14 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **11 independent sources** on this technology.
+
+> RSS:Detecting Heel Strike and toe off Events Using Kinematic Methods and L | rel=0.47 | uid:43d38dc656aa442f
 
 ## Status
 
@@ -31,37 +27,25 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.107** |
-| Estimated Reality | **2024–2027** |
-| Timeline Confidence | **85%** |
-| Monetizable By | **2025** *(est. confidence: 81%)* |
-| Horizon | Near-Term (Now) |
-| Independent Sources Tracked | 14 |
+| Confidence Score | **+0.09** |
+| Estimated Deployment | **2025–2027** |
+| Horizon | Near-Term (Now–2026) |
+| Independent Sources Tracked | 11 |
 
-## Market Race
+## Prerequisites
 
-**Clear Leader: [PANW](/future/stocks/panw/)**: 88% exposure confidence  
-**Position:** Direct pure-play  
+This technology depends on or is closely linked to:
 
-*Cortex XDR across endpoint, cloud, network*
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2024–2027** | 85% |
-| Commercially Monetizable | **2025** | 81% |
-
-High timing confidence (85%): multiple corroborating sources confirm this timeline.
+- [EDR (Endpoint Detection & Response)](/future/tech/edr-endpoint-detection/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI-Driven Threat Detection](/future/tech/ai-driven-threat-detection/): *accelerates*
+- [AI-Driven Threat Detection](/future/tech/ai-threat-detection/)
 
 ## Investment Exposure
 
 [PANW](/future/stocks/panw/)
 
-See each stock page for revenue drivers, milestones, and risk factors.
+See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

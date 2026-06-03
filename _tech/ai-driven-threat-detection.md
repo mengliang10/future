@@ -5,17 +5,11 @@ subtitle: "ML models detecting novel attacks, zero-days, and insider threats in 
 category: Cybersecurity
 stage: early_commercial
 confidence_label: Speculative
-confidence_score: 0.128
 est_year: 2026
 est_year_range: "2025–2029"
-horizon: "Near-Term (Now)"
-timeline_confidence: 78
-monetizable_year: "2027"
-monetizable_confidence: 78
-source_count: 10
-stocks: [CRWD, PLTR]
-lead_stock: CRWD
-lead_stock_confidence: 85
+horizon: "Near-Term (Now–2026)"
+source_count: 6
+stocks: [CRWD]
 permalink: /tech/ai-driven-threat-detection/
 ---
 
@@ -23,7 +17,9 @@ permalink: /tech/ai-driven-threat-detection/
 
 ML models detecting novel attacks, zero-days, and insider threats in real time.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **10 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **6 independent sources** on this technology.
+
+> RSS:Detecting Heel Strike and toe off Events Using Kinematic Methods and L | rel=0.75 | uid:43d38dc656aa442f
 
 ## Status
 
@@ -31,42 +27,19 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.128** |
-| Estimated Reality | **2025–2029** |
-| Timeline Confidence | **78%** |
-| Monetizable By | **2027** *(est. confidence: 78%)* |
-| Horizon | Near-Term (Now) |
-| Independent Sources Tracked | 10 |
+| Confidence Score | **+0.13** |
+| Estimated Deployment | **2025–2029** |
+| Horizon | Near-Term (Now–2026) |
+| Independent Sources Tracked | 6 |
 
-## Market Race
+## Prerequisites
 
-**Head-to-Head Race**: 2 companies with meaningful exposure
+This technology depends on or is closely linked to:
 
-| Ticker | Company | Confidence | Position | Thesis |
-|--------|---------|-----------|----------|--------|
-| [CRWD](/future/stocks/crwd/) | CrowdStrike Holdings | 85% | DIRECT | Charlotte AI: conversational threat detection **← Leader** |
-| [PLTR](/future/stocks/pltr/) | Palantir Technologies | 60% | primary | Palantir Gotham and Metropolis apply AI to intelligence analysis and threat |
-
-**Current leader:** [CRWD](/future/stocks/crwd/) with **85%** exposure confidence based on our research.
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2025–2029** | 78% |
-| Commercially Monetizable | **2027** | 78% |
-
-Moderate timing confidence (78%): roadmap exists but execution risk remains.
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [Zero Trust Security Architecture](/future/tech/zero-trust-security-architecture/): *synergises with*
-- [SASE (Secure Access Service Edge)](/future/tech/sase-secure-access-service-edge/): *synergises with*
+- [XDR (Extended Detection & Response)](/future/tech/xdr-platform/)
 
 ## Investment Exposure
 
-[CRWD](/future/stocks/crwd/)  [PLTR](/future/stocks/pltr/)
+[CRWD](/future/stocks/crwd/)
 
-See each stock page for revenue drivers, milestones, and risk factors.
+See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

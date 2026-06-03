@@ -4,6 +4,8 @@ name: "Plug Power"
 symbol: PLUG
 exchange: NASDAQ
 categories: [Energy Tech]
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

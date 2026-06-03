@@ -5,14 +5,10 @@ subtitle: "Next-gen dense or MoE models exceeding 100T parameters requiring new 
 category: AI & Cloud
 stage: prototype
 confidence_label: Speculative
-confidence_score: 0.185
-est_year: 2026
+est_year: 2025
 est_year_range: "2026–2029"
-horizon: "Near-Term (Now)"
-timeline_confidence: 55
-monetizable_year: "2029"
-monetizable_confidence: 51
-source_count: 32
+horizon: "Near-Term (Now–2026)"
+source_count: 43
 stocks: []
 permalink: /tech/llm-100t-parameter-model/
 ---
@@ -21,9 +17,9 @@ permalink: /tech/llm-100t-parameter-model/
 
 Next-gen dense or MoE models exceeding 100T parameters requiring new infra.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **32 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **43 independent sources** on this technology.
 
-> Hardware-aligned sparse attention for efficient long-context LLMs. 11× faster attention with <1% quality loss. Natively trainable (end-to-end). Key for making 100T+ parameter models practical. Enables
+> 671B MoE (37B active), 14.8T training tokens. Outperforms GPT-4o and Claude-3.5-Sonnet on multiple benchmarks. $5.6M training cost vs ~$100M+ for comparable closed models. Multi-token prediction objective. Proves cost-efficient frontier LLM at scale.
 
 ## Status
 
@@ -31,29 +27,18 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.185** |
-| Estimated Reality | **2026–2029** |
-| Timeline Confidence | **55%** |
-| Monetizable By | **2029** *(est. confidence: 51%)* |
-| Horizon | Near-Term (Now) |
-| Independent Sources Tracked | 32 |
+| Confidence Score | **+0.18** |
+| Estimated Deployment | **2026–2029** |
+| Horizon | Near-Term (Now–2026) |
+| Independent Sources Tracked | 43 |
 
-## Timeline Intelligence
+## What This Enables
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2026–2029** | 55% |
-| Commercially Monetizable | **2029** | 51% |
+Advancement here directly benefits or unblocks:
 
-Moderate timing confidence (55%): roadmap exists but execution risk remains.
-
-## Prerequisites
-
-This technology depends on or requires advances in:
-
-- [Mixture-of-Experts Architecture](/future/tech/mixture-of-experts-architecture/) ✓: *requires*
-- [Distributed Training (1000+ GPUs)](/future/tech/distributed-training-1000-gpus/) ✓: *requires*
-- [1MW+ Per Rack AI Cluster](/future/tech/1mw-per-rack-ai-cluster/): *requires*
+- [1MW+ Per Rack AI Cluster](/future/tech/1mw-per-rack-ai-cluster/)
+- [Distributed Training (1000+ GPUs)](/future/tech/distributed-training-1k-gpu/)
+- [Mixture-of-Experts Architecture](/future/tech/mixture-of-experts/)
 
 ## Investment Exposure
 

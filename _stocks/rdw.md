@@ -4,6 +4,8 @@ name: "Redwire Corp"
 symbol: RDW
 exchange: NYSE
 categories: [Space Tech]
+timing_action: "AVOID"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

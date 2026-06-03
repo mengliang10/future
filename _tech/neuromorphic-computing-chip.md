@@ -5,14 +5,10 @@ subtitle: "Brain-inspired spike-based processing for ultra-low-power AI at edge"
 category: Semiconductors
 stage: prototype
 confidence_label: Speculative
-confidence_score: 0.186
-est_year: 2029
+est_year: 2030
 est_year_range: "2027–2035"
-horizon: "Mid-Term (2029)"
-timeline_confidence: 45
-monetizable_year: "2032"
-monetizable_confidence: 46
-source_count: 26
+horizon: "Medium-Term (2029–2030)"
+source_count: 14
 stocks: []
 permalink: /tech/neuromorphic-computing-chip/
 ---
@@ -21,7 +17,9 @@ permalink: /tech/neuromorphic-computing-chip/
 
 Brain-inspired spike-based processing for ultra-low-power AI at edge.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **26 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **14 independent sources** on this technology.
+
+> RSS:Reprogrammable magnonic logic in a multiferroic heterostructure via ma | rel=1.00 | uid:1ab5291763b67fc6
 
 ## Status
 
@@ -29,27 +27,16 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.186** |
-| Estimated Reality | **2027–2035** |
-| Timeline Confidence | **45%** |
-| Monetizable By | **2032** *(est. confidence: 46%)* |
-| Horizon | Mid-Term (2029) |
-| Independent Sources Tracked | 26 |
+| Confidence Score | **+0.18** |
+| Estimated Deployment | **2027–2035** |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 14 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2027–2035** | 45% |
-| Commercially Monetizable | **2032** | 46% |
+This technology depends on or is closely linked to:
 
-Low timing confidence (45%): timeline is speculative; watch for milestone announcements.
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [AI Inference at Edge](/future/tech/ai-inference-at-edge/): *enables*
+- [Gate-All-Around FET (MBCFET/NSFET)](/future/tech/gaafet-transistor/)
 
 ## Investment Exposure
 

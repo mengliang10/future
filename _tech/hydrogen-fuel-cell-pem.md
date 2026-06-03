@@ -1,49 +1,42 @@
 ---
 layout: tech_node
 title: "Hydrogen Fuel Cell (PEM)"
-subtitle: "Converting H2 to electricity electrochemically: vehicles, stationary power"
+subtitle: "Converting H2 to electricity electrochemically — vehicles, stationary power"
 category: Energy Tech
 stage: early_commercial
-confidence_label: Confident
-confidence_score: 0.142
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 95
-monetizable_year: "Now–2027"
-monetizable_confidence: 86
-source_count: 20
+source_count: 11
 stocks: []
 permalink: /tech/hydrogen-fuel-cell-pem/
 ---
 
 ## What This Is
 
-Converting H2 to electricity electrochemically: vehicles, stationary power. **Achieved.**
+Converting H2 to electricity electrochemically — vehicles, stationary power. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **20 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **11 independent sources** on this technology.
+
+> Toyota Mirai (Gen 2), Hyundai Nexo, and Honda CR-V e:FCEV commercially available in California, Japan, Korea, and Europe; fuel cell stacks from Ballard and Plug Power deployed in 50K+ forklifts and 2K+ buses globally. PEM durability improved to 25K+ hours for stationary applications.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.142** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **95%** |
-| Monetizable By | **Now–2027** *(est. confidence: 86%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 20 |
+| Independent Sources Tracked | 11 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 95% |
-| Commercially Monetizable | **Now–2027** | 86% |
+This technology depends on or is closely linked to:
 
-High timing confidence (95%): multiple corroborating sources confirm this timeline.
+- [Green Hydrogen (<$2/kg via Electrolysis)](/future/tech/green-hydrogen/)
 
 ## Investment Exposure
 

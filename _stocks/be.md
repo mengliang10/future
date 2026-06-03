@@ -4,6 +4,8 @@ name: "Bloom Energy"
 symbol: BE
 exchange: NYSE
 categories: [Energy Tech]
+timing_action: "FULL"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

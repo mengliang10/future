@@ -1,55 +1,42 @@
 ---
 layout: tech_node
 title: "Search Engine Advertising (SEM/PPC)"
-subtitle: "Intent-based advertising via keyword auctions: Google AdWords since 2000"
+subtitle: "Intent-based advertising via keyword auctions — Google AdWords since 2000"
 category: Marketing Tech
 stage: mass_production
-confidence_label: Speculative
-confidence_score: 0.098
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 94
-source_count: 22
+source_count: 5
 stocks: []
 permalink: /tech/search-engine-advertising-semppc/
 ---
 
 ## What This Is
 
-Intent-based advertising via keyword auctions: Google AdWords since 2000. **Achieved.**
+Intent-based advertising via keyword auctions — Google AdWords since 2000. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **22 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **5 independent sources** on this technology.
+
+> RSS:MIT community members elected to the National Academy of Engineering f | rel=0.38 | uid:3f34295b29ca5620
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.098** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 22 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now (deployed)** | 94% |
-
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
+| Independent Sources Tracked | 5 |
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Programmatic Display Advertising](/future/tech/programmatic-display-advertising/) ✓: *enables*
+- [Programmatic Display Advertising](/future/tech/programmatic-display/)
 
 ## Investment Exposure
 

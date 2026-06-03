@@ -5,17 +5,11 @@ subtitle: "Urban driving with no human available, approved for general public ro
 category: Autonomous
 stage: pilot
 confidence_label: Speculative
-confidence_score: 0.143
-est_year: 2028
+est_year: 2029
 est_year_range: "2027–2034"
-horizon: "Near-Term (2028)"
-timeline_confidence: 55
-monetizable_year: "2030"
-monetizable_confidence: 58
-source_count: 12
-stocks: [MBLY, TSLA]
-lead_stock: MBLY
-lead_stock_confidence: 65
+horizon: "Medium-Term (2029–2030)"
+source_count: 7
+stocks: [TSLA, MBLY]
 permalink: /tech/full-self-driving-level-4-urban/
 ---
 
@@ -23,7 +17,9 @@ permalink: /tech/full-self-driving-level-4-urban/
 
 Urban driving with no human available, approved for general public roads.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **12 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **7 independent sources** on this technology.
+
+> RSS:NIMO Controller: a self-driving laboratory orchestrator based on the M | rel=0.50 | uid:2818fcf482969eb3
 
 ## Status
 
@@ -31,35 +27,21 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.143** |
-| Estimated Reality | **2027–2034** |
-| Timeline Confidence | **55%** |
-| Monetizable By | **2030** *(est. confidence: 58%)* |
-| Horizon | Near-Term (2028) |
-| Independent Sources Tracked | 12 |
+| Confidence Score | **+0.11** |
+| Estimated Deployment | **2027–2034** |
+| Horizon | Medium-Term (2029–2030) |
+| Independent Sources Tracked | 7 |
 
-## Market Race
+## Prerequisites
 
-**Head-to-Head Race**: 2 companies with meaningful exposure
+This technology depends on or is closely linked to:
 
-| Ticker | Company | Confidence | Position | Thesis |
-|--------|---------|-----------|----------|--------|
-| [MBLY](/future/stocks/mbly/) | Mobileye Global | 65% | DIRECT | Mobileye Drive autonomous system in development **← Leader** |
-| [TSLA](/future/stocks/tsla/) | Tesla Inc. | 65% | DIRECT | FSD v12+ targeting unsupervised operation |
-
-**Current leader:** [MBLY](/future/stocks/mbly/) with **65%** exposure confidence based on our research.
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2027–2034** | 55% |
-| Commercially Monetizable | **2030** | 58% |
-
-Moderate timing confidence (55%): roadmap exists but execution risk remains.
+- [Zero-Accident Transport Network](/future/tech/zero-accident-transport/)
+- [ADAS Level 3 (Conditional Highway)](/future/tech/adas-level-3-highway/)
+- [Robotaxi (Full City, No Safety Driver)](/future/tech/robotaxi-city-wide/)
 
 ## Investment Exposure
 
-[MBLY](/future/stocks/mbly/)  [TSLA](/future/stocks/tsla/)
+[TSLA](/future/stocks/tsla/)  [MBLY](/future/stocks/mbly/)
 
-See each stock page for revenue drivers, milestones, and risk factors.
+See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

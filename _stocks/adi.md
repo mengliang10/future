@@ -4,6 +4,8 @@ name: "Analog Devices"
 symbol: ADI
 exchange: NASDAQ
 categories: [Semiconductors]
+timing_action: "FULL"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

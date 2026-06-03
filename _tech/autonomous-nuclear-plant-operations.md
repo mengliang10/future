@@ -1,18 +1,14 @@
 ---
 layout: tech_node
 title: "Autonomous Nuclear Plant Operations"
-subtitle: "Humanoid and specialised robots performing maintenance, inspection, and operation of nuclear facilities reducing huma..."
+subtitle: "Humanoid and specialised robots performing maintenance, inspection, and operation of nuclear faci..."
 category: Energy Tech
 stage: basic_research
 confidence_label: Speculative
-confidence_score: 0.161
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-timeline_confidence: 0
-monetizable_year: "2035+"
-monetizable_confidence: 9
-source_count: 89
+source_count: 59
 stocks: []
 permalink: /tech/autonomous-nuclear-plant-operations/
 ---
@@ -21,7 +17,9 @@ permalink: /tech/autonomous-nuclear-plant-operations/
 
 Humanoid and specialised robots performing maintenance, inspection, and operation of nuclear facilities reducing human radiation exposure..
 
-Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **89 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **59 independent sources** on this technology.
+
+> RSS:X-SYNTH: Beyond Retrieval -- Enterprise Context Synthesis from Observe | rel=0.75 | uid:941eb99a1e9cb5d6
 
 ## Status
 
@@ -29,26 +27,10 @@ Fundamental research phase: concept established, practical implementation remain
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.161** |
-| Estimated Reality | **TBD** |
-| Monetizable By | **2035+** *(est. confidence: 9%)* |
+| Confidence Score | **+0.16** |
+| Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 89 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **TBD** | 0% |
-| Commercially Monetizable | **2035+** | 9% |
-
-Timeline not yet established: depends on research breakthroughs that are not yet predictable.
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [Small Modular Reactor (<300MWe)](/future/tech/small-modular-reactor-300mwe/): *enables*
+| Independent Sources Tracked | 59 |
 
 ## Investment Exposure
 

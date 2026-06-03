@@ -1,27 +1,25 @@
 ---
 layout: tech_node
 title: "AI-Autonomous Security Operations Centre"
-subtitle: "AI systems that detect, investigate, and neutralise cyber threats faster than human analysts: 24/7 autonomous SOC."
+subtitle: "AI systems that detect, investigate, and neutralise cyber threats faster than human analysts — 24..."
 category: Cybersecurity
 stage: basic_research
 confidence_label: Speculative
-confidence_score: 0.135
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-timeline_confidence: 0
-monetizable_year: "2035+"
-monetizable_confidence: 9
-source_count: 38
+source_count: 25
 stocks: []
 permalink: /tech/ai-autonomous-security-operations-centre/
 ---
 
 ## What This Is
 
-AI systems that detect, investigate, and neutralise cyber threats faster than human analysts: 24/7 autonomous SOC..
+AI systems that detect, investigate, and neutralise cyber threats faster than human analysts — 24/7 autonomous SOC..
 
-Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **38 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **25 independent sources** on this technology.
+
+> RSS:Ensemble Monitoring for AI Control: Diverse Signals Outweigh More Comp | rel=0.88 | uid:61cb26aa57578ca8
 
 ## Status
 
@@ -29,26 +27,10 @@ Fundamental research phase: concept established, practical implementation remain
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.135** |
-| Estimated Reality | **TBD** |
-| Monetizable By | **2035+** *(est. confidence: 9%)* |
+| Confidence Score | **+0.14** |
+| Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 38 |
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **TBD** | 0% |
-| Commercially Monetizable | **2035+** | 9% |
-
-Timeline not yet established: depends on research breakthroughs that are not yet predictable.
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [Zero Trust Security Architecture](/future/tech/zero-trust-security-architecture/): *enables*
+| Independent Sources Tracked | 25 |
 
 ## Investment Exposure
 

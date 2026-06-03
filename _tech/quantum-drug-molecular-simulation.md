@@ -5,14 +5,10 @@ subtitle: "Quantum simulation of protein folding and binding beyond AlphaFold sc
 category: Quantum
 stage: basic_research
 confidence_label: Speculative
-confidence_score: 0.130
 est_year: 2037
 est_year_range: "2032–2045"
-horizon: "Far Future (2037)"
-timeline_confidence: 30
-monetizable_year: "2045"
-monetizable_confidence: 24
-source_count: 31
+horizon: "Long-Term (2037)"
+source_count: 24
 stocks: []
 permalink: /tech/quantum-drug-molecular-simulation/
 ---
@@ -21,7 +17,9 @@ permalink: /tech/quantum-drug-molecular-simulation/
 
 Quantum simulation of protein folding and binding beyond AlphaFold scope.
 
-Fundamental research phase: concept established, practical implementation remains unsolved. Our research database tracks **31 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **24 independent sources** on this technology.
+
+> RSS:Beyond Unitary Quantum Simulation: Open-System Approaches to Quantum C | rel=0.72 | uid:50b9642f17be1d83
 
 ## Status
 
@@ -29,27 +27,22 @@ Fundamental research phase: concept established, practical implementation remain
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.130** |
-| Estimated Reality | **2032–2045** |
-| Timeline Confidence | **30%** |
-| Monetizable By | **2045** *(est. confidence: 24%)* |
-| Horizon | Far Future (2037) |
-| Independent Sources Tracked | 31 |
+| Confidence Score | **+0.13** |
+| Estimated Deployment | **2032–2045** |
+| Horizon | Long-Term (2037) |
+| Independent Sources Tracked | 24 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2032–2045** | 30% |
-| Commercially Monetizable | **2045** | 24% |
+This technology depends on or is closely linked to:
 
-Low timing confidence (30%): timeline is speculative; watch for milestone announcements.
+- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-quantum-1000q/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/): *enables*
+- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/)
 
 ## Investment Exposure
 

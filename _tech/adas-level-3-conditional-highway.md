@@ -1,55 +1,48 @@
 ---
 layout: tech_node
 title: "ADAS Level 3 (Conditional Highway)"
-subtitle: "Driver can disengage in defined conditions: Mercedes DRIVE PILOT (legal in DE/NV)"
+subtitle: "Driver can disengage in defined conditions — Mercedes DRIVE PILOT (legal in DE/NV)"
 category: Autonomous
 stage: early_commercial
-confidence_label: Speculative
-confidence_score: 0.111
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 95
-monetizable_year: "Now–2027"
-monetizable_confidence: 86
-source_count: 10
+source_count: 9
 stocks: []
 permalink: /tech/adas-level-3-conditional-highway/
 ---
 
 ## What This Is
 
-Driver can disengage in defined conditions: Mercedes DRIVE PILOT (legal in DE/NV). **Achieved.**
+Driver can disengage in defined conditions — Mercedes DRIVE PILOT (legal in DE/NV). **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **10 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **9 independent sources** on this technology.
+
+> RSS:Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Acros | rel=0.47 | uid:b6a9e2252800baff
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.111** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **95%** |
-| Monetizable By | **Now–2027** *(est. confidence: 86%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 10 |
+| Independent Sources Tracked | 9 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 95% |
-| Commercially Monetizable | **Now–2027** | 86% |
+This technology depends on or is closely linked to:
 
-High timing confidence (95%): multiple corroborating sources confirm this timeline.
+- [ADAS Level 2 (Partial Automation)](/future/tech/adas-level-2/)
 
 ## What This Enables
 
 Advancement here directly benefits or unblocks:
 
-- [Full Self-Driving Level 4 (Urban)](/future/tech/full-self-driving-level-4-urban/): *enables*
+- [Full Self-Driving Level 4 (Urban)](/future/tech/full-self-driving-level-4/)
 
 ## Investment Exposure
 

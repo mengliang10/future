@@ -4,6 +4,8 @@ name: "Ouster"
 symbol: OUST
 exchange: NYSE
 categories: [Autonomous, Sensors]
+timing_action: "AVOID"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

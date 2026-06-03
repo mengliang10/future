@@ -4,6 +4,8 @@ name: "Quantum Computing Inc."
 symbol: QUBT
 exchange: NASDAQ
 categories: [Quantum]
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

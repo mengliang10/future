@@ -4,6 +4,8 @@ name: "UiPath"
 symbol: PATH
 exchange: NYSE
 categories: [AI & Cloud, Software]
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

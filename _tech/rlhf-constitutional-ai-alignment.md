@@ -4,15 +4,11 @@ title: "RLHF / Constitutional AI Alignment"
 subtitle: "Reinforcement learning from human feedback aligning LLM outputs with preferences"
 category: AI & Cloud
 stage: mass_production
-confidence_label: Speculative
-confidence_score: 0.171
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-timeline_confidence: 99
-monetizable_year: "Now (deployed)"
-monetizable_confidence: 94
-source_count: 58
+source_count: 67
 stocks: []
 permalink: /tech/rlhf-constitutional-ai-alignment/
 ---
@@ -21,39 +17,26 @@ permalink: /tech/rlhf-constitutional-ai-alignment/
 
 Reinforcement learning from human feedback aligning LLM outputs with preferences. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **58 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **67 independent sources** on this technology.
 
-> First open-source model matching OpenAI o1 on reasoning benchmarks. Pure RL (GRPO) without supervised fine-tuning for cold-start. Chain-of-thought reasoning emerges from RL. Demonstrates reasoning cap
-
-*Deployed in GPT-3.5 since 2022; undisputed*
+> First open-source model matching OpenAI o1 on reasoning benchmarks. Pure RL (GRPO) without supervised fine-tuning for cold-start. Chain-of-thought reasoning emerges from RL. Demonstrates reasoning capability can be incentivized purely through RL. Major milestone for open-source AI.
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.171** |
-| Estimated Reality | **Ongoing / Deployed** |
-| Timeline Confidence | **99%** |
-| Monetizable By | **Now (deployed)** *(est. confidence: 94%)* |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
+| Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 58 |
+| Independent Sources Tracked | 67 |
 
-## Timeline Intelligence
+## Prerequisites
 
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **Ongoing / Deployed** | 99% |
-| Commercially Monetizable | **Now (deployed)** | 94% |
+This technology depends on or is closely linked to:
 
-High timing confidence (99%): multiple corroborating sources confirm this timeline.
-
-## What This Enables
-
-Advancement here directly benefits or unblocks:
-
-- [Inference-Time Compute Scaling (Test-Time RL)](/future/tech/inference-time-compute-scaling-test-time-rl/) ✓: *enables*
+- [LLM GPT-4 Class (~1T params)](/future/tech/llm-gpt4-class/)
 
 ## Investment Exposure
 

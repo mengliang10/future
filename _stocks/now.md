@@ -4,6 +4,8 @@ name: "ServiceNow Inc."
 symbol: NOW
 exchange: NYSE
 categories: [AI, Software]
+timing_action: "WAIT"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

@@ -5,6 +5,9 @@ symbol: NET
 exchange: NASDAQ
 categories: [Software]
 node_count: 1
+bottleneck_count: 1
+timing_action: "WAIT"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

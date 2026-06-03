@@ -5,6 +5,8 @@ symbol: HUBS
 exchange: NASDAQ
 categories: [Software]
 node_count: 1
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

@@ -4,6 +4,8 @@ name: "Aeva Technologies"
 symbol: AEVA
 exchange: NYSE
 categories: [Autonomous, Sensors]
+timing_action: "WAIT"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

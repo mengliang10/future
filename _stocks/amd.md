@@ -5,6 +5,8 @@ symbol: AMD
 exchange: NASDAQ
 categories: [Semiconductors, AI, Hardware]
 node_count: 2
+timing_action: "HALF"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

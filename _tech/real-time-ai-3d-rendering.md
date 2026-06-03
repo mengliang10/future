@@ -5,17 +5,11 @@ subtitle: "Neural rendering replacing rasterization for photorealistic real-time
 category: XR
 stage: prototype
 confidence_label: Speculative
-confidence_score: 0.217
-est_year: 2027
+est_year: 2028
 est_year_range: "2026–2032"
-horizon: "Near-Term (2027)"
-timeline_confidence: 65
-monetizable_year: "2030"
-monetizable_confidence: 56
-source_count: 2
+horizon: "Near-Term (2027–2028)"
+source_count: 3
 stocks: [U]
-lead_stock: U
-lead_stock_confidence: 82
 permalink: /tech/real-time-ai-3d-rendering/
 ---
 
@@ -23,7 +17,9 @@ permalink: /tech/real-time-ai-3d-rendering/
 
 Neural rendering replacing rasterization for photorealistic real-time graphics.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **2 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **3 independent sources** on this technology.
+
+> RSS:Hestia: Voxel-Face-Aware Hierarchical Next-Best-View Acquisition for E | rel=0.84 | uid:fd5bcb67b86379fa
 
 ## Status
 
@@ -31,31 +27,20 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.217** |
-| Estimated Reality | **2026–2032** |
-| Timeline Confidence | **65%** |
-| Monetizable By | **2030** *(est. confidence: 56%)* |
-| Horizon | Near-Term (2027) |
-| Independent Sources Tracked | 2 |
+| Confidence Score | **+0.19** |
+| Estimated Deployment | **2026–2032** |
+| Horizon | Near-Term (2027–2028) |
+| Independent Sources Tracked | 3 |
 
-## Market Race
+## Prerequisites
 
-**Clear Leader: [U](/future/stocks/u/)**: 82% exposure confidence  
-**Position:** Direct pure-play  
+This technology depends on or is closely linked to:
 
-*Unity 6 Sentis AI; used in 60%+ of XR apps*
-
-## Timeline Intelligence
-
-| Milestone | Estimate | Confidence |
-|-----------|----------|-----------|
-| Technology Reality | **2026–2032** | 65% |
-| Commercially Monetizable | **2030** | 56% |
-
-Moderate timing confidence (65%): roadmap exists but execution risk remains.
+- [Full Immersion VR (All 5 Senses)](/future/tech/full-immersion-vr/)
+- [Neural Radiance Field (NeRF / 3DGS)](/future/tech/nerf-3d-reconstruction/)
 
 ## Investment Exposure
 
 [U](/future/stocks/u/)
 
-See each stock page for revenue drivers, milestones, and risk factors.
+See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.

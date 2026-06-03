@@ -4,6 +4,8 @@ name: "Innoviz Technologies"
 symbol: INVZ
 exchange: NASDAQ
 categories: [Autonomous, Sensors]
+timing_action: "FULL"
+regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis
