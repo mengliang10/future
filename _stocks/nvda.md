@@ -7,10 +7,12 @@ categories: [Semiconductors, AI, Hardware]
 node_count: 7
 bottleneck_count: 3
 timing_action: "FULL"
-regime: "TRENDING_UP"
+regime: "TRENDING_DOWN"
 ---
 
 ## Investment Thesis
+
+**June 2026 Update:** The "Physics Wall" is creating short-term headwinds. While the CUDA moat remains, the $1.3T capex trap among hyperscalers is leading to a valuation haircut as the market pivots from pure hardware scale to inference efficiency. Support at $200.
 NVIDIA is the definitive infrastructure play of the AI era. The GPU has become the basic unit of AI compute, and NVIDIA's CUDA software ecosystem creates switching costs that make hardware displacement extremely difficult: developer retraining is measured in years. The Blackwell architecture (GB200 NVL72 racks at 120kW, 30 petaflops FP8) cements NVIDIA's position through the 2026-2027 cycle. Notable: NVIDIA has a strategic partnership with Lumentum to develop optics technologies for AI data centres: directly positioning NVIDIA in the co-packaged optics transition. NVLink and InfiniBand integration allows cluster-level performance rivals cannot match. Annual revenue has exceeded $215B with operating margins above 65%.
 
 ## Future Tech Roadmap

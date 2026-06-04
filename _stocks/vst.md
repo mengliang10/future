@@ -5,10 +5,12 @@ symbol: VST
 exchange: NYSE
 categories: [Nuclear Energy, Power Generation]
 timing_action: "FULL"
-regime: "TRENDING_DOWN"
+regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis
+
+**June 2026 Update:** Vistra has hit the "Grid Pivot" sweet spot. As a "Grid Lord," their Illinois nuclear fleet and 6+ GWh of storage are now priced as AI infrastructure proxies rather than standard utilities. Confidence Score: +0.88.
 Vistra is the largest competitive power generator in the US: a mix of nuclear, natural gas, and rapidly growing battery storage. Their Illinois nuclear fleet benefits from the same hyperscaler demand driving Constellation. Vistra is cheaper on a per-MWh basis and has a more diversified generation mix, making it the value play in the nuclear power trade.
 
 ### Key Drivers
