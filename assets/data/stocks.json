@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T09:59:55Z",
+  "updated": "2026-06-06T11:39:02Z",
   "stock_count": 95,
   "stocks": [
     {
@@ -134,7 +134,7 @@
       "price": 263.47,
       "change": -52.96,
       "change_pct": -16.7367,
-      "market_cap": 230681995559,
+      "market_cap": 230483557067,
       "volume": 32376428,
       "rsi": 37.8,
       "sma20": 208.52,
@@ -809,7 +809,7 @@
       "price": 118.72,
       "change": -4.76,
       "change_pct": -3.8549,
-      "market_cap": 20817129689,
+      "market_cap": 20634410584,
       "volume": 4014284,
       "rsi": 63.8,
       "sma20": 98.67,
@@ -904,7 +904,7 @@
       "price": 15.95,
       "change": -0.58,
       "change_pct": -3.5088,
-      "market_cap": 5446639397,
+      "market_cap": 5467719316,
       "volume": 8801828,
       "rsi": 37.2,
       "sma20": 17.16,
