@@ -182,6 +182,37 @@ The semiconductor industry underpins every technology on this site. It is the mo
 - **Switch orders → GPU revenue (lead indicator)**: Networking equipment orders precede GPU cluster deployments by one quarter. ANET order trends are an early signal for NVDA data centre revenue.
 - **GPU lead times → hardware/software rotation**: Lead times below 12 weeks signal compute supply has caught up; rotate from hardware (NVDA, AMAT) into the software layer (cloud, SaaS).
 
+---
+
+## Competition Heatmap (from internal tech graph — updated Jun 9, 2026)
+
+| Rivalry | Domain | Leader | Challenger | Confidence |
+|---------|--------|--------|-----------|------------|
+| **GPU Compute** | AI Accelerators | NVDA (90%) | AMD (65%) | 0.82 |
+| **CPU Market** | Server/Desktop | AMD (↑ gaining) | Intel (↓ defending) | 0.75 |
+| **AI ASICs** | Custom Silicon | NVDA GPU | Google TPU, AWS Trainium | 0.65 |
+| **Advanced Foundry** | <5nm nodes | TSMC (95%) | Intel 18A (70%) | 0.68 |
+| **HBM Memory** | AI Memory | SK Hynix | MU (catching up) | 0.70 |
+| **EUV Lithography** | Chip Equipment | ASML (monopoly) | — | 0.90 |
+| **AI Networking** | Data Centre Fabric | AVGO (88%) | MRVL (78%) | 0.88 |
+
+*Source: `database/tech_graph.db` — 27 COMPETES_WITH edges across 2,099 technology nodes.*
+
+---
+
+## Live Forecast Signals (Jun 9, 2026)
+
+| Ticker | Price | Signal | Engine Score | PEG | Key Driver |
+|--------|-------|--------|-------------|-----|------------|
+| NVDA | $208.64 | BUY | +0.221 | 0.63 | E-C +0.721 AI chip demand |
+| AMD | $490.33 | HOLD | −0.020 | 1.12 | E-C +0.829 CPU/AI expansion (CPI blackout) |
+| MU | $949.28 | BUY | +0.682 | 0.30 | HBM supercycle, Fwd P/E 8.8 |
+| TSM | $426.80 | HOLD | −0.090 | 1.29 | 4 rules 72-87% WR, CPI binary |
+| AVGO | — | HOLD | — | — | Post-earnings contagion recovery |
+| ASML | — | HOLD | — | — | EUV monopoly, cycle-dependent |
+
+*Source: Conviction Forecast Engine (5 engines, DeepSeek LLM) + FORECASTING.md 6+1 Layer Framework*
+
 <script>
 function toggleAcc(btn) {
   const body = btn.nextElementSibling;
