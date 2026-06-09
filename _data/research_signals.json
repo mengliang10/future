@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T02:50:00Z",
-  "stock_count": 62,
+  "generated_at": "2026-06-09T03:01:00Z",
+  "stock_count": 64,
   "stocks": {
     "AAPL": {
       "conviction_score": null,
@@ -30,12 +30,13 @@
           "weight": 0.72,
           "bottleneck": true
         }
-      ]
+      ],
+      "price": 301.54
     },
     "AMAT": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "BULL_MARKET",
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -50,12 +51,13 @@
           "weight": 0.78,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 492.17
     },
     "AMD": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "HIGH_VOL",
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -80,30 +82,33 @@
           "weight": 0.55,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 490.33
     },
     "AMZN": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "BULL_MARKET",
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
-      "top_nodes": []
+      "top_nodes": [],
+      "price": 245.22
     },
     "ARM": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "BULL_MARKET",
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
-      "top_nodes": []
+      "top_nodes": [],
+      "price": 346.39
     },
     "ASML": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "BULL_MARKET",
       "node_count": 4,
       "bottleneck_count": 2,
       "avg_node_confidence": null,
@@ -148,12 +153,13 @@
           "weight": 0.9,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 1749.04
     },
     "ASTS": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "TRENDING_UP",
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -168,7 +174,8 @@
           "weight": 0.85,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 92.06
     },
     "AUR": {
       "conviction_score": null,
@@ -192,8 +199,8 @@
     },
     "AVGO": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "HIGH_VOL",
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -218,7 +225,8 @@
           "weight": 0.7,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 396.6
     },
     "BEAM": {
       "conviction_score": null,
@@ -362,8 +370,8 @@
     },
     "COIN": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "HIGH_VOL",
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -388,7 +396,8 @@
           "weight": 0.8,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 162.11
     },
     "CRSP": {
       "conviction_score": null,
@@ -422,8 +431,8 @@
     },
     "CRWD": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "BULL_MARKET",
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -448,7 +457,8 @@
           "weight": 0.85,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 658.79
     },
     "ETN": {
       "conviction_score": null,
@@ -578,7 +588,7 @@
           "bottleneck": false
         }
       ],
-      "price": 364.65,
+      "price": 363.31,
       "forward_pe": 25.2,
       "peg": 1.45,
       "rsi": 28.6,
@@ -686,17 +696,18 @@
     },
     "INTC": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "TRENDING_DOWN",
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
-      "top_nodes": []
+      "top_nodes": [],
+      "price": 110.27
     },
     "IONQ": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "TRENDING_UP",
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -711,7 +722,8 @@
           "weight": 0.95,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 62.8
     },
     "ISRG": {
       "conviction_score": null,
@@ -755,8 +767,8 @@
     },
     "KLAC": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "BULL_MARKET",
       "node_count": 2,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -781,7 +793,8 @@
           "weight": 0.75,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 2108.06
     },
     "LAZR": {
       "conviction_score": null,
@@ -805,8 +818,8 @@
     },
     "LRCX": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "BULL_MARKET",
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -821,7 +834,8 @@
           "weight": 0.75,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 324.45
     },
     "LUNR": {
       "conviction_score": null,
@@ -925,8 +939,8 @@
     },
     "META": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "BULL_MARKET",
       "node_count": 3,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -961,7 +975,8 @@
           "weight": 0.65,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 585.39
     },
     "MRNA": {
       "conviction_score": null,
@@ -985,8 +1000,8 @@
     },
     "MRVL": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "HIGH_VOL",
       "node_count": 2,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -1011,12 +1026,13 @@
           "weight": 0.7,
           "bottleneck": true
         }
-      ]
+      ],
+      "price": 288.85
     },
     "MSFT": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "BULL_MARKET",
       "node_count": 5,
       "bottleneck_count": 2,
       "avg_node_confidence": null,
@@ -1071,12 +1087,13 @@
           "weight": 0.55,
           "bottleneck": true
         }
-      ]
+      ],
+      "price": 411.74
     },
     "MSTR": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "HIGH_VOL",
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1091,12 +1108,13 @@
           "weight": 0.95,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 127.2
     },
     "MU": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "HIGH_VOL",
       "node_count": 2,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1121,7 +1139,8 @@
           "weight": 0.7,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 949.28
     },
     "NET": {
       "conviction_score": null,
@@ -1144,8 +1163,8 @@
       ]
     },
     "NVDA": {
-      "conviction_score": null,
-      "timing_action": null,
+      "conviction_score": 0.221,
+      "timing_action": "HOLD",
       "regime": "BULL_MARKET",
       "node_count": 7,
       "bottleneck_count": 3,
@@ -1212,12 +1231,12 @@
           "bottleneck": false
         }
       ],
-      "price": 209.05
+      "price": 208.64
     },
     "PANW": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "BULL_MARKET",
       "node_count": 2,
       "bottleneck_count": 2,
       "avg_node_confidence": null,
@@ -1242,16 +1261,18 @@
           "weight": 0.82,
           "bottleneck": true
         }
-      ]
+      ],
+      "price": 266.33
     },
     "PLTR": {
       "conviction_score": null,
-      "timing_action": "FULL",
-      "regime": "TRENDING_DOWN",
+      "timing_action": "HOLD",
+      "regime": "TRENDING_UP",
       "node_count": 0,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
-      "top_nodes": []
+      "top_nodes": [],
+      "price": 136.47
     },
     "PWR": {
       "conviction_score": null,
@@ -1284,8 +1305,8 @@
     },
     "RGTI": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "TRENDING_UP",
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1300,12 +1321,13 @@
           "weight": 0.9,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 21.77
     },
     "RKLB": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "TRENDING_UP",
       "node_count": 2,
       "bottleneck_count": 1,
       "avg_node_confidence": null,
@@ -1330,7 +1352,8 @@
           "weight": 0.6,
           "bottleneck": true
         }
-      ]
+      ],
+      "price": 113.65
     },
     "ROK": {
       "conviction_score": null,
@@ -1394,8 +1417,8 @@
     },
     "SMR": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "TRENDING_UP",
       "node_count": 1,
       "bottleneck_count": 0,
       "avg_node_confidence": null,
@@ -1410,7 +1433,8 @@
           "weight": 0.92,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 10.76
     },
     "SYM": {
       "conviction_score": null,
@@ -1454,8 +1478,8 @@
     },
     "TSLA": {
       "conviction_score": null,
-      "timing_action": null,
-      "regime": null,
+      "timing_action": "HOLD",
+      "regime": "HIGH_VOL",
       "node_count": 6,
       "bottleneck_count": 2,
       "avg_node_confidence": null,
@@ -1520,7 +1544,8 @@
           "weight": 0.65,
           "bottleneck": false
         }
-      ]
+      ],
+      "price": 408.95
     },
     "TSM": {
       "conviction_score": -0.09,
@@ -1571,7 +1596,7 @@
           "bottleneck": true
         }
       ],
-      "price": 429.09,
+      "price": 426.8,
       "forward_pe": 22.0,
       "peg": 1.29,
       "rsi": 62.1,
@@ -1656,6 +1681,26 @@
           "bottleneck": false
         }
       ]
+    },
+    "SMCI": {
+      "conviction_score": null,
+      "timing_action": "HOLD",
+      "regime": "HIGH_VOL",
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "price": null,
+      "top_nodes": []
+    },
+    "QBTS": {
+      "conviction_score": null,
+      "timing_action": "HOLD",
+      "regime": "TRENDING_UP",
+      "node_count": 0,
+      "bottleneck_count": 0,
+      "avg_node_confidence": null,
+      "price": null,
+      "top_nodes": []
     }
   },
   "top_bottleneck_nodes": [

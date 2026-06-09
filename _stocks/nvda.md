@@ -10,6 +10,8 @@ bottleneck_count: 3
 
 ## Investment Thesis
 
+**June 9, 2026 Update:** NVDA at $208.64 (+1.7%) recovering from AVGO contagion (-5.3% flush to $204.96 on Jun 5). Forecast engine +0.221 POSSIBLE_BULL — Engine C +0.721 AI chip demand prerequisite holding, offset by Engine E -0.559 CPI blackout. PEG 0.63 on 85% revenue growth is statistically mispriced. EMA50 $204.77 held through Friday's low — the bounce is building. CPI today: soft → $215-222, hot → re-test $200. Accumulate.
+
 **June 2026 Update:** The "Physics Wall" is creating short-term headwinds. While the CUDA moat remains, the $1.3T capex trap among hyperscalers is leading to a valuation haircut as the market pivots from pure hardware scale to inference efficiency. Support at $200.
 NVIDIA is the definitive infrastructure play of the AI era. The GPU has become the basic unit of AI compute, and NVIDIA's CUDA software ecosystem creates switching costs that make hardware displacement extremely difficult: developer retraining is measured in years. The Blackwell architecture (GB200 NVL72 racks at 120kW, 30 petaflops FP8) cements NVIDIA's position through the 2026-2027 cycle. Notable: NVIDIA has a strategic partnership with Lumentum to develop optics technologies for AI data centres: directly positioning NVIDIA in the co-packaged optics transition. NVLink and InfiniBand integration allows cluster-level performance rivals cannot match. Annual revenue has exceeded $215B with operating margins above 65%.
 
