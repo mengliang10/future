@@ -103,6 +103,30 @@ A single H100 GPU cluster draws as much power as a small city. Hyperscalers have
 - **Nuclear PPA announcements** are discrete catalysts for CEG and NuScale: each signed deal is confirmed future revenue. Track quarterly hyperscaler infrastructure announcements.
 - **Uranium spot price** leads utility contracting by 12-18 months. Spot price above $90/lb incentivises mine restarts. Below $70/lb stalls supply response. Current structural demand picture supports long-term uranium prices.
 
+---
+
+## Competition Heatmap (from internal tech graph — Jun 9, 2026)
+
+| Rivalry | Domain | Leader | Challenger | Confidence |
+|---------|--------|--------|-----------|------------|
+| **Nuclear Technology** | Baseload Power | Gen III+ Reactors | Small Modular Reactors | 0.50 |
+| **Clean Energy Investment** | Grid Allocation | Solar PV | Grid-Scale Storage | 0.35 |
+| **Data Centre Power** | AI Load Growth | Behind-the-Meter Gen | Grid Interconnection | 0.42 |
+
+*Source: `database/tech_graph.db` — COMPETES_WITH edges*
+
+---
+
+## Key Energy Stocks
+
+| Ticker | Company | Role | Signal |
+|--------|---------|------|--------|
+| CEG | Constellation Energy | Nuclear operator (AI demand) | BUY (AI power tailwind) |
+| VST | Vistra Energy | Data centre power provider | BUY |
+| GEV | GE Vernova | Grid infrastructure | HOLD |
+| CCJ | Cameco | Uranium mining | HOLD |
+| SMR | NuScale Power | SMR developer | SPECULATIVE |
+
 <script>
 function toggleAcc(btn) {
   const body = btn.nextElementSibling;

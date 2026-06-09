@@ -105,6 +105,28 @@ Full self-driving is the most consequential automation event in transport histor
 - **LiDAR cost curve**: when solid-state LiDAR consistently hits below $200/unit from multiple suppliers, the economic case for sensor-redundant ADAS becomes compelling for mid-market OEMs. Track annual component pricing from CES announcements.
 - **Tesla FSD subscription attach rate and miles driven**: disclosed quarterly. Rising attach rate and declining insurance costs per mile are the leading indicators that FSD is becoming commercially viable rather than a supervised system.
 
+---
+
+## Competition Heatmap (from internal tech graph — Jun 9, 2026)
+
+| Rivalry | Domain | Leader | Challenger | Confidence |
+|---------|--------|--------|-----------|------------|
+| **Full Self-Driving** | Autonomous Cars | Waymo/GOOGL (commercial) | TSLA (camera-only, scaling) | 0.65 |
+| **Autonomous Trucking** | Freight | Aurora (commercial in TX) | Waymo Via, Plus.ai | 0.55 |
+| **Robotaxi** | Urban Transport | Waymo One (SF, LA, Phoenix) | Tesla Robotaxi (TBD) | 0.60 |
+| **EV Market** | Electric Vehicles | Tesla (premium) | BYD (volume in China) | 0.65 |
+
+*Source: `database/tech_graph.db` — COMPETES_WITH edges*
+
+---
+
+## Key Autonomous Stocks
+
+| Ticker | Price | Signal | Role | Key Driver |
+|--------|-------|--------|------|------------|
+| TSLA | $408.95 | BUY (+0.827) | FSD + Robotaxi | Regime tailwind, FSD scaling |
+| GOOGL | $363.31 | BUY (+0.020) | Waymo | Robotaxi leader, 150K rides/week |
+
 <script>
 function toggleAcc(btn) {
   const body = btn.nextElementSibling;

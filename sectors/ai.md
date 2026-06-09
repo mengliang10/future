@@ -134,6 +134,32 @@ Artificial Intelligence is no longer a research project: it is the primary drive
 - **USD strength (DXY) → US tech earnings**: Dollar strength suppresses reported international revenues for MSFT, GOOGL, NVDA. A weak dollar environment amplifies earnings without operational change.
 - **HY credit spreads → value/growth rotation**: Spread compression historically amplifies value factor returns. AI infrastructure stocks (high multiple) are most exposed to any reversal.
 
+---
+
+## Competition Heatmap (from internal tech graph — Jun 9, 2026)
+
+| Rivalry | Domain | Leader | Challenger | Confidence |
+|---------|--------|--------|-----------|------------|
+| **Frontier AI Models** | LLM Race | OpenAI GPT | Google Gemini, Anthropic Claude | 0.60 |
+| **AI Cloud** | Hyperscaler | AWS (90%) | Azure (80%), GCP (80%) | 0.68 |
+| **AI Inference** | Chip Architecture | GPU (NVDA) | Custom ASIC (TPU/Trainium) | 0.62 |
+| **AI PCs** | Client Compute | NVDA Superchip | Intel, AMD | 0.85 |
+| **Enterprise AI** | Adoption | MSFT Copilot | GOOGL Workspace | 0.55 |
+
+*Source: `database/tech_graph.db` — COMPETES_WITH edges*
+
+---
+
+## Live AI Stock Signals (Jun 9, 2026)
+
+| Ticker | Price | Signal | Engine Score | PEG | Key Driver |
+|--------|-------|--------|-------------|-----|------------|
+| NVDA | $208.64 | BUY | +0.221 | 0.63 | GPU demand prerequisite holding |
+| GOOGL | $363.31 | BUY | +0.020 | 1.45 | RSI 28.6 oversold, search prerequisite |
+| MSFT | $411.74 | HOLD | — | — | CPI blackout, cloud AI growth |
+| META | $585.39 | HOLD | — | — | Bond fatigue, AI capex commitment |
+| AMZN | $245.22 | HOLD | — | — | AWS AI growth, retail margin
+
 <a href="{{ '/roadmap/now-2028/' | relative_url }}" class="btn btn-outline" style="margin-top:1.5rem; display:inline-flex;">View Full Roadmap &rarr;</a>
 
 <script>
