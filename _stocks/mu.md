@@ -8,7 +8,10 @@ node_count: 2
 ---
 
 ## Investment Thesis
-Micron is the US-listed play on HBM memory. HBM3E is required for every AI accelerator: each B200 GPU ships with 192GB across 8 stacks. SK Hynix currently dominates HBM supply but Micron is qualifying for significant share in 2025-2026. HBM margins are materially better than commodity DRAM, and the mix shift to HBM is a multi-year margin expansion catalyst. Micron is also a beneficiary of the memory upcycle in standard DRAM driven by AI server demand.
+
+**June 9, 2026 Update:** MU at $949.28 — Forward P/E 8.8 (value territory!), PEG 0.30 (cheapest in our system), Rev +196%, EPS +756%. Memory supercycle in full force. Forecast engine BUY +0.682 HIGH_CONVICTION_BULL — AI HBM demand prerequisite holding. Telegram sentiment 0.904 near-unanimous bullish. HBM3 at 55% gross margin. Stock has run 9× from $103 low. ATR $71 (7.5%) demands small sizing. Buy dips to EMA20 ($861) or EMA50 ($633). Don't chase at $949 — the memory cycle will give you a better entry.
+
+Micron is the US-listed play on HBM memory. HBM3E is required for every AI accelerator: each B200 GPU ships with 192GB across 8 stacks. SK Hynix currently dominates HBM supply but Micron is qualifying for significant share in 2025-2026. HBM margins are materially better than commodity DRAM, and the mix shift to HBM is a multi-year margin expansion catalyst.
 ## Future Tech Roadmap
 
 <div class="roadmap-stock">

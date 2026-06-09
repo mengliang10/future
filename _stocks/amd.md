@@ -8,6 +8,9 @@ node_count: 2
 ---
 
 ## Investment Thesis
+
+**June 9, 2026 Update:** AMD at $490.33 — Fwd P/E 37.5, PEG 1.12 (fair value), Rev +37.8%, EPS +91.2%. Forecast engine says HOLD (−0.020) — Engine C +0.829 HIGH_CONVICTION_BULL (AI/CPU market expansion prerequisite holding) offset by CPI/NFP event blackout. 4 validated rules fired (T-002 98.9%, T-003 87.2%, T-008 82%, T-010 83.5%). P/C OI 1.07 balanced, call IV 86.2% pricing massive move. AMD is WINNING vs Intel in CPU market share (tech graph conf 0.75). Wait for CPI dip to $470 (EMA20) or breakout above $500 (EMA9). Don't chase at $490.
+
 AMD is the only credible alternative to NVIDIA in the AI accelerator market. Their MI300X and MI325X series offer superior memory capacity at a more competitive TCO, making them the primary choice for "second-sourcing" by Hyperscalers.
 
 ### Key Drivers
