@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2024
 est_year_range: "2025–2028"
 horizon: "Near-Term (Now–2026)"
-source_count: 13
+source_count: 29
 stocks: []
 permalink: /tech/ai-inference-at-edge/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ai-inference-at-edge/
 
 Running LLM/CV models on-device without cloud round-trip — phones, cars, robots.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **13 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **29 independent sources** on this technology.
 
 > Hardware-aligned sparse attention for efficient long-context LLMs. 11× faster attention with <1% quality loss. Natively trainable (end-to-end). Key for making 100T+ parameter models practical. Enables efficient long-context inference.
 
@@ -27,10 +27,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.21** |
+| Confidence Score | **+0.17** |
 | Estimated Deployment | **2025–2028** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 13 |
+| Independent Sources Tracked | 29 |
 
 ## Prerequisites
 

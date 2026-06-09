@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 12
+source_count: 48
 stocks: []
 permalink: /tech/distributed-training-1000-gpus/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/distributed-training-1000-gpus/
 
 Infrastructure for coordinated training across thousands of accelerators. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **12 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **48 independent sources** on this technology.
 
 > DeepSeek's custom AI HPC cluster. 3D parallelism co-designed with network topology. Achieves 95%+ MFU on large-scale training. Cost-effective alternative to NVIDIA DGX SuperPOD. Demonstrates non-CUDA supercomputing path.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 12 |
+| Independent Sources Tracked | 48 |
 
 ## Prerequisites
 

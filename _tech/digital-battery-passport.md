@@ -4,11 +4,11 @@ title: "Digital Battery Passport (EU)"
 subtitle: "Standardised data system for tracking EV battery health and sustainability (EU 2023/1542)."
 category: Energy Tech
 stage: basic_research
-confidence_label: Confirmed
+confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 1
+source_count: 12
 stocks: []
 permalink: /tech/digital-battery-passport/
 ---
@@ -17,20 +17,20 @@ permalink: /tech/digital-battery-passport/
 
 Standardised data system for tracking EV battery health and sustainability (EU 2023/1542)..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **12 independent sources** on this technology.
 
-> EU Regulation 2023/1542 mandates digital passports by Feb 2027.
+> RSS:Construction of a public health emergency information system framework | rel=0.38 | uid:7f7496036d7b0a4b
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Basic Research** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.95** |
+| Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
+| Confidence Score | **+0.38** |
 | Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 12 |
 
 ## Investment Exposure
 

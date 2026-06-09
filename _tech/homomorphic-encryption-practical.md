@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2030
 est_year_range: "2027–2036"
 horizon: "Medium-Term (2029–2030)"
-source_count: 6
+source_count: 10
 stocks: []
 permalink: /tech/homomorphic-encryption-practical/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/homomorphic-encryption-practical/
 
 Computing on encrypted data without decryption — FHE reaching usable speeds.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **6 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **10 independent sources** on this technology.
 
 > RSS:Optimal Knock-Pick Planning for Tightly Packed Tabletop Blocks With Pa | rel=0.50 | uid:7d483b13de5b9813
 
@@ -27,10 +27,10 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.20** |
+| Confidence Score | **+0.18** |
 | Estimated Deployment | **2027–2036** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 6 |
+| Independent Sources Tracked | 10 |
 
 ## Investment Exposure
 

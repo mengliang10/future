@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2026
 est_year_range: "2025–2028"
 horizon: "Near-Term (Now–2026)"
-source_count: 5
+source_count: 14
 stocks: []
 permalink: /tech/global-satellite-internet-coverage/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/global-satellite-internet-coverage/
 
 Full Earth coverage including polar, maritime, aviation — Starlink Gen3 2026.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **5 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **14 independent sources** on this technology.
 
 > RSS:Scientists discover towering red auroras reaching deep into space abov | rel=0.44 | uid:9ba228f6a2fa38d9
 
@@ -27,10 +27,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.11** |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2025–2028** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 5 |
+| Independent Sources Tracked | 14 |
 
 ## Prerequisites
 

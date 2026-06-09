@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2025
 est_year_range: "2026–2029"
 horizon: "Near-Term (Now–2026)"
-source_count: 5
+source_count: 29
 stocks: []
 permalink: /tech/1mw-per-rack-ai-cluster/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/1mw-per-rack-ai-cluster/
 
 Ultra-dense AI clusters requiring new power and cooling infrastructure.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **5 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **29 independent sources** on this technology.
 
 > DeepSeek's custom AI HPC cluster. 3D parallelism co-designed with network topology. Achieves 95%+ MFU on large-scale training. Cost-effective alternative to NVIDIA DGX SuperPOD. Demonstrates non-CUDA supercomputing path.
 
@@ -30,7 +30,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Confidence Score | **+0.16** |
 | Estimated Deployment | **2026–2029** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 5 |
+| Independent Sources Tracked | 29 |
 
 ## Prerequisites
 

@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 82
+source_count: 112
 stocks: []
 permalink: /tech/quantum-key-distribution-network/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/quantum-key-distribution-network/
 
 Nationwide quantum-secured communication networks immune to classical and quantum eavesdropping attacks..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **82 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **112 independent sources** on this technology.
 
 > RSS:Fault tolerance estimation in digital circuits with visualised generat | rel=0.75 | uid:4d847b3e60b9218d
 
@@ -27,10 +27,10 @@ Fundamental research phase — concept established, practical implementation rem
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.18** |
+| Confidence Score | **+0.19** |
 | Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 82 |
+| Independent Sources Tracked | 112 |
 
 ## Investment Exposure
 

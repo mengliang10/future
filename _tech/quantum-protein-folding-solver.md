@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 87
+source_count: 115
 stocks: []
 permalink: /tech/quantum-protein-folding-solver/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/quantum-protein-folding-solver/
 
 Quantum computers solving protein folding at scales beyond classical simulation enabling novel enzyme and drug design..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **87 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **115 independent sources** on this technology.
 
 > RSS:Transmission Hardware Corona Performance and HVDC Submarine Cable EM F | rel=0.50 | uid:35e6d634821c16d3
 
@@ -30,7 +30,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Confidence Score | **+0.14** |
 | Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 87 |
+| Independent Sources Tracked | 115 |
 
 ## Investment Exposure
 

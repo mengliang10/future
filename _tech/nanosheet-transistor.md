@@ -4,11 +4,11 @@ title: "Nanosheet Transistor (GAA architecture)"
 subtitle: "Horizontal nanosheet stacks replacing FinFET fins in gate-all-around transistors; TSMC/Samsung 3n..."
 category: Semiconductors
 stage: early_commercial
-confidence_label: Confirmed
+confidence_label: Researching
 est_year: 2022
 est_year_range: "2022–2023"
 horizon: "Deployed"
-source_count: 1
+source_count: 6
 stocks: []
 permalink: /tech/nanosheet-transistor/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/nanosheet-transistor/
 
 Horizontal nanosheet stacks replacing FinFET fins in gate-all-around transistors; TSMC/Samsung 3nm+, enables better electrostatic control and density scaling.. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **6 independent sources** on this technology.
 
 > Thermo Fisher white paper on GAA challenges confirms nanosheet transistors are in early production at 3nm nodes; TEM workflow essential for metrology and defect analysis of stacked nanosheets.
 
@@ -26,11 +26,11 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.90** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 6 |
 
 ## Prerequisites
 

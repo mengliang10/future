@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2025
 est_year_range: "2025–2030"
 horizon: "Near-Term (Now–2026)"
-source_count: 4
+source_count: 6
 stocks: [AUR, NVDA]
 permalink: /tech/autonomous-trucking-highway-odd/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/autonomous-trucking-highway-odd/
 
 Driverless freight on interstate highways — Aurora, Waymo Via, Plus.ai.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **4 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **6 independent sources** on this technology.
 
 > Aurora Innovation, Kodiak Robotics, and Torc (Daimler) completed driver-out highway pilots in Texas and Arizona in 2025; Aurora targeting full commercial launch late 2026. Limited to highway ODD with terminal-to-terminal handoff still requiring human yard drivers.
 
@@ -27,10 +27,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.38** |
+| Confidence Score | **+0.32** |
 | Estimated Deployment | **2025–2030** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 6 |
 
 ## Prerequisites
 

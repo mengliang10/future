@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 5
+source_count: 24
 stocks: []
 permalink: /tech/search-engine-advertising-semppc/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/search-engine-advertising-semppc/
 
 Intent-based advertising via keyword auctions — Google AdWords since 2000. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **5 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **24 independent sources** on this technology.
 
 > RSS:MIT community members elected to the National Academy of Engineering f | rel=0.38 | uid:3f34295b29ca5620
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 5 |
+| Independent Sources Tracked | 24 |
 
 ## What This Enables
 

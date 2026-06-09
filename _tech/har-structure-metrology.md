@@ -4,11 +4,11 @@ title: "High Aspect Ratio Structure Metrology"
 subtitle: "Measurement techniques (FIB diagonal mill, PFIB, TEM) for characterising deep, narrow features in..."
 category: Semiconductors
 stage: early_commercial
-confidence_label: Confirmed
+confidence_label: Researching
 est_year: 2020
 est_year_range: "2018–2022"
 horizon: "Deployed"
-source_count: 1
+source_count: 28
 stocks: []
 permalink: /tech/har-structure-metrology/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/har-structure-metrology/
 
 Measurement techniques (FIB diagonal mill, PFIB, TEM) for characterising deep, narrow features in 3D NAND and FinFET/GAA structures where conventional optical metrology cannot reach.. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **28 independent sources** on this technology.
 
 > Dedicated whitepaper on 3D NAND HAR metrology confirms FIB diagonal milling and PFIB as production-deployed solutions; conventional optical metrology cannot access deep HAR features.
 
@@ -26,11 +26,11 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.85** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 28 |
 
 ## Prerequisites
 

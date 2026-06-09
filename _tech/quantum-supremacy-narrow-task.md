@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 76
+source_count: 89
 stocks: [GOOGL]
 permalink: /tech/quantum-supremacy-narrow-task/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/quantum-supremacy-narrow-task/
 
 Quantum outperforming classical on specific benchmark — Google Sycamore 2019. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **76 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **89 independent sources** on this technology.
 
 > RSS:ShopGym: An Integrated Framework for Realistic Simulation and Scalable | rel=0.59 | uid:f099586961bf8beb
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 76 |
+| Independent Sources Tracked | 89 |
 
 ## What This Enables
 

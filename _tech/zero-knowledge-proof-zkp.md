@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 5
 stocks: []
 permalink: /tech/zero-knowledge-proof-zkp/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/zero-knowledge-proof-zkp/
 
 Cryptographic proof of knowledge without revealing the knowledge itself. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **5 independent sources** on this technology.
 
 > RSS:Towards complete characterization of topological insulators and superc | rel=0.50 | uid:c861d1546658ea25
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 5 |
 
 ## Prerequisites
 

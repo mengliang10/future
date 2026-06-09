@@ -5,8 +5,6 @@ symbol: MU
 exchange: NASDAQ
 categories: [Semiconductors]
 node_count: 2
-timing_action: "AVOID"
-regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

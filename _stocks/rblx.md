@@ -6,7 +6,7 @@ exchange: NYSE
 categories: [XR, Gaming, Metaverse]
 node_count: 1
 timing_action: "FULL"
-regime: "HIGH_VOL"
+regime: "TRENDING_DOWN"
 ---
 
 ## Investment Thesis

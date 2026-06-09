@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2042
 est_year_range: "2033–2060"
 horizon: "Long-Term (2042)"
-source_count: 8
+source_count: 12
 stocks: []
 permalink: /tech/artificial-superintelligence-asi/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/artificial-superintelligence-asi/
 
 AI far exceeding human cognitive ability in every domain.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **8 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **12 independent sources** on this technology.
 
 > RSS:Position: Artificial Intelligence Needs Meta Intelligence -- the Case  | rel=0.50 | uid:148b4285c358d443
 
@@ -30,7 +30,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Confidence Score | **+0.13** |
 | Estimated Deployment | **2033–2060** |
 | Horizon | Long-Term (2042) |
-| Independent Sources Tracked | 8 |
+| Independent Sources Tracked | 12 |
 
 ## Prerequisites
 

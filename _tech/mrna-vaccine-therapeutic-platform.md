@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 6
+source_count: 12
 stocks: [MRNA, BNTX]
 permalink: /tech/mrna-vaccine-therapeutic-platform/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/mrna-vaccine-therapeutic-platform/
 
 Programmable mRNA delivery for vaccines and protein replacement — Moderna, BioNTech. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **12 independent sources** on this technology.
 
 > Pfizer/BioNTech and Moderna COVID vaccines deployed to billions of doses proving platform safety; Moderna's RSV vaccine (mRESVIA) FDA approved May 2024; mRNA-4157 cancer vaccine combined with Keytruda in Phase 3 melanoma trial. Expansion to flu, CMV, and personalized cancer vaccines underway.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 6 |
+| Independent Sources Tracked | 12 |
 
 ## What This Enables
 

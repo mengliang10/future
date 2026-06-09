@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 34
+source_count: 72
 stocks: [CEG, CCJ]
 permalink: /tech/nuclear-gen-iii-reactor-ap1000/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/nuclear-gen-iii-reactor-ap1000/
 
 Advanced light water reactors — AP1000, EPR; passive safety features. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **34 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **72 independent sources** on this technology.
 
 > RSS:KIO-planner: Attention-Guided Single-Stage Motion Planning with Dual M | rel=0.59 | uid:8e0509a0715f605d
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 34 |
+| Independent Sources Tracked | 72 |
 
 ## What This Enables
 

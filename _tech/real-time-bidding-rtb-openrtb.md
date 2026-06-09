@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 1
+source_count: 3
 stocks: []
 permalink: /tech/real-time-bidding-rtb-openrtb/
 ---
@@ -17,9 +17,9 @@ permalink: /tech/real-time-bidding-rtb-openrtb/
 
 Millisecond-latency ad auctions triggered by page loads. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
 
-> RSS:FLASH: Efficient Visuomotor Policy via Sparse Sampling | rel=0.47 | uid:1e9c358b9385913c
+> RSS:Almost Timely News: 🗞️ How to Use Generative AI For Retail Analytics ( | rel=0.38 | uid:7fd7c03982e9f02c
 
 ## Status
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 3 |
 
 ## Prerequisites
 

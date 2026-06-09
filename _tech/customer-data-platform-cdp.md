@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 3
+source_count: 19
 stocks: [BRZE, HUBS]
 permalink: /tech/customer-data-platform-cdp/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/customer-data-platform-cdp/
 
 Unified customer profile across touchpoints — Braze, Segment, Salesforce CDP. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **19 independent sources** on this technology.
 
 > RSS:Chaos erupts as cyberattack disrupts learning platform Canvas amid fin | rel=0.44 | uid:e6293921d1be0fc6
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 19 |
 
 ## Prerequisites
 

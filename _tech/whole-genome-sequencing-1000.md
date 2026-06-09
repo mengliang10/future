@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 3
 stocks: [ILMN]
 permalink: /tech/whole-genome-sequencing-1000/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/whole-genome-sequencing-1000/
 
 Cost threshold enabling population-scale genomics — crossed ~2023. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
 
 > RSS:AnnotateMissense: a genome-wide annotation and benchmarking framework  | rel=0.50 | uid:7351cb9945bac4ae
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 3 |
 
 ## Prerequisites
 

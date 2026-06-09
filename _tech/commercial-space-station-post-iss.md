@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2031
 est_year_range: "2028–2035"
 horizon: "Medium-Term (2031–2035)"
-source_count: 9
+source_count: 17
 stocks: []
 permalink: /tech/commercial-space-station-post-iss/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/commercial-space-station-post-iss/
 
 Private orbital stations — Axiom Space modules, Starlab, Orbital Reef.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **9 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **17 independent sources** on this technology.
 
 > RSS:Commercial satellite supplying intel to Ukraine is cornered by four Ru | rel=0.47 | uid:ab4f0155f2bd1d16
 
@@ -30,7 +30,7 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Confidence Score | **+0.12** |
 | Estimated Deployment | **2028–2035** |
 | Horizon | Medium-Term (2031–2035) |
-| Independent Sources Tracked | 9 |
+| Independent Sources Tracked | 17 |
 
 ## Investment Exposure
 

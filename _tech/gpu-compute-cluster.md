@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 33
+source_count: 47
 stocks: [NVDA, AVGO, MU, AMD]
 permalink: /tech/gpu-compute-cluster/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/gpu-compute-cluster/
 
 Large-scale GPU arrays enabling parallel matrix ops for deep learning training. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **33 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **47 independent sources** on this technology.
 
 > DeepSeek's custom AI HPC cluster. 3D parallelism co-designed with network topology. Achieves 95%+ MFU on large-scale training. Cost-effective alternative to NVIDIA DGX SuperPOD. Demonstrates non-CUDA supercomputing path.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 33 |
+| Independent Sources Tracked | 47 |
 
 ## Prerequisites
 

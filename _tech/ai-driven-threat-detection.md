@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2026
 est_year_range: "2025–2029"
 horizon: "Near-Term (Now–2026)"
-source_count: 6
+source_count: 9
 stocks: [CRWD]
 permalink: /tech/ai-driven-threat-detection/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ai-driven-threat-detection/
 
 ML models detecting novel attacks, zero-days, and insider threats in real time.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **6 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **9 independent sources** on this technology.
 
 > RSS:Detecting Heel Strike and toe off Events Using Kinematic Methods and L | rel=0.75 | uid:43d38dc656aa442f
 
@@ -27,10 +27,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.13** |
+| Confidence Score | **+0.14** |
 | Estimated Deployment | **2025–2029** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 6 |
+| Independent Sources Tracked | 9 |
 
 ## Prerequisites
 

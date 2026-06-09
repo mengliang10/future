@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 2026
 est_year_range: ""
 horizon: "Near-Term (Now–2026)"
-source_count: 2
+source_count: 3
 stocks: []
 permalink: /tech/heavy-lift-rocket-100t-to-leo/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/heavy-lift-rocket-100t-to-leo/
 
 Rockets lifting 100+ metric tons to LEO — Starship (150t), SLS (95t).
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **2 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **3 independent sources** on this technology.
 
 > Starship designed for 100-150t to LEO in reusable mode; first payload deployment demonstrated on Flight 7 (January 2026) with 10 Starlink v3 simulators deployed. No paying customer payload flown yet. SLS Block 1 demonstrated 95t to TLI (Artemis I, 2022). Falcon Heavy can lift 64t to LEO. 100t milestone not yet reached in operational service.
 
@@ -27,10 +27,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
-| Confidence Score | **+0.46** |
+| Confidence Score | **+0.41** |
 | Estimated Deployment | **2026–2028** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 3 |
 
 ## Prerequisites
 

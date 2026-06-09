@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 3
 stocks: [TTD]
 permalink: /tech/programmatic-display-advertising/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/programmatic-display-advertising/
 
 Automated real-time bidding for banner/display/video ad inventory. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
 
 > RSS:Driving Through the Network: Performance and Workload Under Latency an | rel=0.44 | uid:51d0c63308150db4
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 3 |
 
 ## Prerequisites
 

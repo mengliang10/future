@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 4
+source_count: 10
 stocks: []
 permalink: /tech/ar-smart-glasses-industrial/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ar-smart-glasses-industrial/
 
 Industrial AR for maintenance, warehouse — Microsoft HoloLens, Google Glass EE. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **10 independent sources** on this technology.
 
 > RSS:The Download: Musk v. Altman, smart glasses for warfare, and Google I/ | rel=0.72 | uid:17cca9af0713795e
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 10 |
 
 ## What This Enables
 

@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2026
 est_year_range: "2025–2028"
 horizon: "Near-Term (Now–2026)"
-source_count: 29
+source_count: 42
 stocks: [MSFT]
 permalink: /tech/autonomous-ai-agent/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/autonomous-ai-agent/
 
 AI that plans, uses tools, and executes multi-step tasks with minimal human input.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **29 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **42 independent sources** on this technology.
 
 > RSS:SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State | rel=0.47 | uid:cb3e80117bcba38d
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.13** |
 | Estimated Deployment | **2025–2028** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 29 |
+| Independent Sources Tracked | 42 |
 
 ## Prerequisites
 

@@ -4,11 +4,11 @@ title: "3D NAND Flash Memory"
 subtitle: "Vertically stacked flash memory cells replacing planar NAND; enables terabyte-scale solid-state s..."
 category: Semiconductors
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Researching
 est_year: 2015
 est_year_range: "2013–2016"
 horizon: "Deployed"
-source_count: 1
+source_count: 32
 stocks: []
 permalink: /tech/3d-nand-flash/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/3d-nand-flash/
 
 Vertically stacked flash memory cells replacing planar NAND; enables terabyte-scale solid-state storage with improving cost/bit through layer count scaling (200+ layers now).. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **32 independent sources** on this technology.
 
 > Thermo Fisher 3D NAND whitepaper confirms mass production of 3D NAND stacks; layer counts continue increasing, creating metrology challenges for HAR channel holes.
 
@@ -26,11 +26,11 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.95** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 32 |
 
 ## Prerequisites
 

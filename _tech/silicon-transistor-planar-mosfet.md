@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 5
+source_count: 6
 stocks: []
 permalink: /tech/silicon-transistor-planar-mosfet/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/silicon-transistor-planar-mosfet/
 
 Foundational switching element of all digital electronics since 1947. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **5 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
 
 > RSS:Radio-frequency reflectometry in silicon carbide large-area transistor | rel=0.53 | uid:10971b2b805fea80
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 5 |
+| Independent Sources Tracked | 6 |
 
 ## What This Enables
 

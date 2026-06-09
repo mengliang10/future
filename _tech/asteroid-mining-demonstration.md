@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2040
 est_year_range: "2032–2055"
 horizon: "Long-Term (2040)"
-source_count: 18
+source_count: 23
 stocks: []
 permalink: /tech/asteroid-mining-demonstration/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/asteroid-mining-demonstration/
 
 First retrieval of material from near-Earth asteroid for in-space use.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **18 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **23 independent sources** on this technology.
 
 > RSS:FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Ma | rel=0.41 | uid:8fc147bc95731525
 
@@ -30,7 +30,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Confidence Score | **+0.13** |
 | Estimated Deployment | **2032–2055** |
 | Horizon | Long-Term (2040) |
-| Independent Sources Tracked | 18 |
+| Independent Sources Tracked | 23 |
 
 ## Investment Exposure
 

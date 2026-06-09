@@ -4,8 +4,6 @@ name: "Intel Corporation"
 symbol: INTC
 exchange: NASDAQ
 categories: [Semiconductors]
-timing_action: "FULL"
-regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

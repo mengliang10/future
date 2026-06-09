@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 9
+source_count: 14
 stocks: []
 permalink: /tech/adas-level-3-conditional-highway/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/adas-level-3-conditional-highway/
 
 Driver can disengage in defined conditions — Mercedes DRIVE PILOT (legal in DE/NV). **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **9 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **14 independent sources** on this technology.
 
 > RSS:Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Acros | rel=0.47 | uid:b6a9e2252800baff
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 9 |
+| Independent Sources Tracked | 14 |
 
 ## Prerequisites
 

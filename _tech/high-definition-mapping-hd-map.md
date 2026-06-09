@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 9
+source_count: 10
 stocks: []
 permalink: /tech/high-definition-mapping-hd-map/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/high-definition-mapping-hd-map/
 
 Centimeter-accurate 3D maps of road network enabling AV localization. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **9 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **10 independent sources** on this technology.
 
 > RSS:A Unified Framework for the Non-Hermitian Localization: Boundary-Insen | rel=0.38 | uid:3bb6f386385ec140
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 9 |
+| Independent Sources Tracked | 10 |
 
 ## Prerequisites
 

@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2035
 est_year_range: "2030–2042"
 horizon: "Medium-Term (2031–2035)"
-source_count: 57
+source_count: 89
 stocks: []
 permalink: /tech/general-purpose-humanoid-robot/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/general-purpose-humanoid-robot/
 
 Humanoid operating across diverse real-world environments without reprogramming.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **57 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **89 independent sources** on this technology.
 
 > RSS:Deterministic Event-Graph Substrates as World Models for Counterfactua | rel=0.56 | uid:02c930b024a68a23
 
@@ -30,7 +30,7 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Confidence Score | **+0.16** |
 | Estimated Deployment | **2030–2042** |
 | Horizon | Medium-Term (2031–2035) |
-| Independent Sources Tracked | 57 |
+| Independent Sources Tracked | 89 |
 
 ## Prerequisites
 

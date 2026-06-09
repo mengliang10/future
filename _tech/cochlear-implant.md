@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 3
 stocks: []
 permalink: /tech/cochlear-implant/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/cochlear-implant/
 
 Electrical stimulation of auditory nerve restoring hearing; widespread globally. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
 
 > FDA approved multi-channel cochlear implants since 1985; Cochlear Ltd, Advanced Bionics, and MED-EL have served 1M+ recipients globally. Bilateral implantation now standard of care in many countries.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 3 |
 
 ## Investment Exposure
 

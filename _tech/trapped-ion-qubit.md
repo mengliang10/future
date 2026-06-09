@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 4
+source_count: 5
 stocks: [IONQ, HON]
 permalink: /tech/trapped-ion-qubit/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/trapped-ion-qubit/
 
 Individual ions in EM field as high-fidelity qubits; IonQ, Quantinuum. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **5 independent sources** on this technology.
 
 > RSS:Geometric symmetry and size-dependent skyrmion phase transitions in ma | rel=0.47 | uid:11be8886430ee79d
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 5 |
 
 ## What This Enables
 

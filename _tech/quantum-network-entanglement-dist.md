@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2030
 est_year_range: "2027–2037"
 horizon: "Medium-Term (2029–2030)"
-source_count: 91
+source_count: 128
 stocks: []
 permalink: /tech/quantum-network-entanglement-dist/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/quantum-network-entanglement-dist/
 
 Distributed entangled qubits over fiber/satellite for QKD and compute networks.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **91 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **128 independent sources** on this technology.
 
 > RSS:Fault tolerance estimation in digital circuits with visualised generat | rel=0.47 | uid:4d847b3e60b9218d
 
@@ -27,10 +27,10 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.16** |
+| Confidence Score | **+0.17** |
 | Estimated Deployment | **2027–2037** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 91 |
+| Independent Sources Tracked | 128 |
 
 ## Investment Exposure
 

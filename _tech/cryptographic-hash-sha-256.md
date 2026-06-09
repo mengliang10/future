@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 7
+source_count: 10
 stocks: []
 permalink: /tech/cryptographic-hash-sha-256/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/cryptographic-hash-sha-256/
 
 One-way deterministic hash enabling digital fingerprinting and proof-of-work. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **7 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **10 independent sources** on this technology.
 
 > RSS:Stable magnetic nanodomains engineered via Ga+-ion irradiation for det | rel=0.41 | uid:6f49ecf603ce519b
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 7 |
+| Independent Sources Tracked | 10 |
 
 ## Prerequisites
 

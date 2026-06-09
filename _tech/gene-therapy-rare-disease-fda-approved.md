@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 9
 stocks: []
 permalink: /tech/gene-therapy-rare-disease-fda-approved/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/gene-therapy-rare-disease-fda-approved/
 
 AAV-delivered gene replacement for monogenic disorders — SMA (Zolgensma), hemophilia. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **9 independent sources** on this technology.
 
 > Luxturna (RPE65 blindness, 2017), Zolgensma (SMA, 2019), Hemgenix (hemophilia B, 2022), and Elevidys (DMD, 2023) all FDA-approved and commercially available. Pipeline of 50+ AAV-based gene therapies in Phase 3 trials.
 
@@ -27,10 +27,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
-| Confidence Score | **+0.65** |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 9 |
 
 ## What This Enables
 

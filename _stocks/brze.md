@@ -6,7 +6,7 @@ exchange: NASDAQ
 categories: [Marketing Tech, SaaS]
 node_count: 2
 bottleneck_count: 1
-timing_action: "HALF"
+timing_action: "FULL"
 regime: "HIGH_VOL"
 ---
 

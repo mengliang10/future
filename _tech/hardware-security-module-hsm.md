@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 3
+source_count: 7
 stocks: []
 permalink: /tech/hardware-security-module-hsm/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/hardware-security-module-hsm/
 
 Dedicated crypto processor for key management — used in banking, cloud, PKI. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **7 independent sources** on this technology.
 
 > RSS:Module Lattice Security (Part IV): Probabilistic Polynomial Quantum At | rel=0.44 | uid:38bb87a31664c1e7
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 7 |
 
 ## Investment Exposure
 

@@ -4,11 +4,11 @@ title: "TEM Metrology for Semiconductor Structures"
 subtitle: "Transmission electron microscopy workflows for atomic-resolution imaging and dimensional metrolog..."
 category: Semiconductors
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Researching
 est_year: 1995
 est_year_range: "1990–2000"
 horizon: "Deployed"
-source_count: 1
+source_count: 39
 stocks: []
 permalink: /tech/tem-metrology-semiconductor/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/tem-metrology-semiconductor/
 
 Transmission electron microscopy workflows for atomic-resolution imaging and dimensional metrology of transistor gates, interfaces, and defects; critical for sub-5nm node process development.. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **39 independent sources** on this technology.
 
 > Thermo Fisher GAA white paper and TEM metrology app note confirm TEM workflows as essential for atomic-resolution measurement of gate structures, interfaces, and film thicknesses at sub-5nm nodes.
 
@@ -26,11 +26,11 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.92** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 39 |
 
 ## Prerequisites
 

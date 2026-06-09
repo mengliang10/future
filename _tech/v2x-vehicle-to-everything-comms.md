@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2030
 est_year_range: "2027–2035"
 horizon: "Medium-Term (2029–2030)"
-source_count: 20
+source_count: 34
 stocks: []
 permalink: /tech/v2x-vehicle-to-everything-comms/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/v2x-vehicle-to-everything-comms/
 
 Direct vehicle-infrastructure communication for cooperative driving safety.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **20 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **34 independent sources** on this technology.
 
 > RSS:Accelerating Hybrid XOR$-$CNF Boolean Satisfiability Problems Natively | rel=0.41 | uid:1e2cefa4b335a8af
 
@@ -27,10 +27,10 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.12** |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **2027–2035** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 20 |
+| Independent Sources Tracked | 34 |
 
 ## Prerequisites
 

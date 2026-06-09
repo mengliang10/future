@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2045
 est_year_range: "2038–2060"
 horizon: "Long-Term (2045)"
-source_count: 34
+source_count: 43
 stocks: []
 permalink: /tech/quantum-computer-1m-logical-qubits/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/quantum-computer-1m-logical-qubits/
 
 Scale needed for breaking RSA-2048 and full chemistry simulation.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **34 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **43 independent sources** on this technology.
 
 > RSS:Beyond Unitary Quantum Simulation: Open-System Approaches to Quantum C | rel=0.81 | uid:50b9642f17be1d83
 
@@ -27,10 +27,10 @@ Fundamental research phase — concept established, practical implementation rem
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.14** |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **2038–2060** |
 | Horizon | Long-Term (2045) |
-| Independent Sources Tracked | 34 |
+| Independent Sources Tracked | 43 |
 
 ## Prerequisites
 

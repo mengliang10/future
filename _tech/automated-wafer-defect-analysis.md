@@ -4,11 +4,11 @@ title: "Automated Wafer-Level Defect Root Cause Analysis"
 subtitle: "Automated FIB-SEM workflows operating directly on 300mm production wafers; eliminates manual lab ..."
 category: Semiconductors
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Researching
 est_year: 2022
 est_year_range: "2020–2024"
 horizon: "Deployed"
-source_count: 1
+source_count: 16
 stocks: []
 permalink: /tech/automated-wafer-defect-analysis/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/automated-wafer-defect-analysis/
 
 Automated FIB-SEM workflows operating directly on 300mm production wafers; eliminates manual lab preparation, enables in-fab buried defect analysis for 3D NAND and DRAM at production throughput.. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **16 independent sources** on this technology.
 
 > Thermo Fisher Helios 5 EXL app note describes two automated defect root cause workflows on full 300mm wafers; eliminates wafer breaking and die-level lab work; improves defect localisation accuracy in memory fabs.
 
@@ -26,11 +26,11 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.80** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 16 |
 
 ## Prerequisites
 

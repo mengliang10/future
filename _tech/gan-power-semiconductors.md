@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 8
+source_count: 12
 stocks: []
 permalink: /tech/gan-power-semiconductors/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/gan-power-semiconductors/
 
 Wide-bandgap GaN for efficient high-frequency power conversion in EVs and PSUs. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **8 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **12 independent sources** on this technology.
 
 > Thermo Fisher wide bandgap app note confirms GaN MOSFETs in production for high-power EV and IoT applications; atomic-scale epitaxial defects are known reliability risk addressed by EFA+PFA workflow.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 8 |
+| Independent Sources Tracked | 12 |
 
 ## What This Enables
 

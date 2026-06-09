@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2031
 est_year_range: "2028–2042"
 horizon: "Medium-Term (2031–2035)"
-source_count: 12
+source_count: 22
 stocks: []
 permalink: /tech/web3-mass-consumer-adoption/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/web3-mass-consumer-adoption/
 
 >1B monthly active users interacting with blockchain-based applications.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **12 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **22 independent sources** on this technology.
 
 > RSS:Quantum Futures Interactive: A Live Demonstration of Post-Quantum Bloc | rel=0.88 | uid:9b3775991004b1ee
 
@@ -30,7 +30,7 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Confidence Score | **+0.12** |
 | Estimated Deployment | **2028–2042** |
 | Horizon | Medium-Term (2031–2035) |
-| Independent Sources Tracked | 12 |
+| Independent Sources Tracked | 22 |
 
 ## Prerequisites
 

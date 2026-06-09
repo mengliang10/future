@@ -4,11 +4,11 @@ title: "Utah Array Invasive BCI"
 subtitle: "96-electrode cortical implant for motor neuron decoding — BrainGate research"
 category: BCI
 stage: prototype
-confidence_label: Confident
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 5
 stocks: []
 permalink: /tech/utah-array-invasive-bci/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/utah-array-invasive-bci/
 
 96-electrode cortical implant for motor neuron decoding — BrainGate research. **Achieved.**
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **2 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **5 independent sources** on this technology.
 
 > BrainGate consortium demonstrated 10-year cumulative safety data across 30+ human participants; 96-channel Utah array enables cursor control and robotic arm operation for tetraplegic patients. Remains research-only — connector pedestal infection risk prevents at-home use.
 
@@ -26,11 +26,11 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Prototype** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.68** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 5 |
 
 ## Prerequisites
 

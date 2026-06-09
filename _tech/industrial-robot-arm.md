@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 14
+source_count: 23
 stocks: [ROK]
 permalink: /tech/industrial-robot-arm/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/industrial-robot-arm/
 
 Programmable multi-axis manipulators for manufacturing — Fanuc, ABB, KUKA. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **14 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **23 independent sources** on this technology.
 
 > RSS:Reprogrammable magnonic logic in a multiferroic heterostructure via ma | rel=0.49 | uid:1ab5291763b67fc6
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 14 |
+| Independent Sources Tracked | 23 |
 
 ## What This Enables
 

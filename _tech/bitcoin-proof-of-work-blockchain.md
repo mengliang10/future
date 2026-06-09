@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 6
+source_count: 11
 stocks: [MSTR, COIN, MARA]
 permalink: /tech/bitcoin-proof-of-work-blockchain/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/bitcoin-proof-of-work-blockchain/
 
 First decentralized permissionless monetary ledger; 15+ years continuous uptime. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.
 
 > RSS:Entanglement Dynamics of Separable Squeezed States in Finite Memory St | rel=0.44 | uid:4ead8a6ea5d63c08
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 6 |
+| Independent Sources Tracked | 11 |
 
 ## What This Enables
 

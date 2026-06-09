@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 1
+source_count: 4
 stocks: []
 permalink: /tech/energy-demand/
 ---
@@ -17,9 +17,9 @@ permalink: /tech/energy-demand/
 
 Energy Demand.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **1 independent source** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **4 independent sources** on this technology.
 
-> RSS:This tiny power module could change how the world uses energy | rel=1.00 | uid:18bc4424533996b9
+> RSS:<i>NN</i> Asks: How can nuclear energy support the rising energy deman | rel=1.00 | uid:55f10d52ba350a48
 
 ## Status
 
@@ -27,10 +27,10 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.39** |
+| Confidence Score | **+0.27** |
 | Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 4 |
 
 ## Prerequisites
 

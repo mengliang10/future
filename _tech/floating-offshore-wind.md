@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2029
 est_year_range: "2026–2034"
 horizon: "Medium-Term (2029–2030)"
-source_count: 6
+source_count: 9
 stocks: [GEV]
 permalink: /tech/floating-offshore-wind/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/floating-offshore-wind/
 
 Turbines on floating platforms for deep-water offshore deployment.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **6 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **9 independent sources** on this technology.
 
 > RSS:Generating Realistic Safety-Critical Scenarios for Vehicle-Pedestrian  | rel=0.59 | uid:2e3326d6876296f5
 
@@ -27,10 +27,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.16** |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **2026–2034** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 6 |
+| Independent Sources Tracked | 9 |
 
 ## Investment Exposure
 

@@ -6,11 +6,12 @@ exchange: NYSE
 categories: [Semiconductors, Foundry]
 node_count: 4
 bottleneck_count: 1
-timing_action: "HALF"
-regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis
+
+**June 9, 2026 Update:** TSM at $429.09 — Forward P/E 22.0, PEG 1.29, 35% revenue growth, 58% operating margins, strong_buy $468 target (+9%). Forecast engine HOLD -0.090 — CPI/NFP binary dominates near-term. Engine C causal chain +0.635 (AI demand prerequisite holding). 4 prediction_ledger rules firing at 72-87% win rates. Ex-dividend Jun 11, Q2 earnings Jul 16 (EPS est $3.74). Accumulate on dips — TSM is the world's most indispensable technology company.
+
 TSMC manufactures over 90% of the world's most advanced chips. There is no practical alternative at leading-edge nodes: Samsung and Intel Foundry trail by at least one generation on yield and density. TSMC's pricing power increases with each node: N2 wafers are 2-3x N3 pricing at comparable volumes. CoWoS advanced packaging is an effective monopoly product for AI accelerators. The geopolitical risk (Taiwan strait) is real but partially mitigated by Arizona Fab 21 (N2 process, CHIPS Act subsidies). TSMC is the one company whose absence would halt global technology progress within months.
 
 ## Future Tech Roadmap

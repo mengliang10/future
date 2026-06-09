@@ -4,11 +4,11 @@ title: "Plasma FIB-SEM (PFIB) Wafer Metrology"
 subtitle: "Xenon or argon plasma ion beam replaces Ga in FIB-SEM, enabling 50-100× faster milling for large-..."
 category: Semiconductors
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Researching
 est_year: 2020
 est_year_range: "2018–2022"
 horizon: "Deployed"
-source_count: 1
+source_count: 10
 stocks: []
 permalink: /tech/pfib-sem-metrology/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/pfib-sem-metrology/
 
 Xenon or argon plasma ion beam replaces Ga in FIB-SEM, enabling 50-100× faster milling for large-volume cross-sections and 3D NAND channel metrology on full 300mm wafers without die breaking.. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **10 independent sources** on this technology.
 
 > Thermo Fisher 3D NAND channel metrology app note demonstrates PFIB (Helios 5 PXL) for diagonal mill and delayering methods on 300mm wafers; enables ground-truth CD data for process development.
 
@@ -26,11 +26,11 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.82** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 10 |
 
 ## What This Enables
 

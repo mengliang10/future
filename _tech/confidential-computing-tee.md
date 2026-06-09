@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2025
 est_year_range: ""
 horizon: "Near-Term (Now–2026)"
-source_count: 8
+source_count: 19
 stocks: []
 permalink: /tech/confidential-computing-tee/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/confidential-computing-tee/
 
 Trusted Execution Environments — Intel SGX, AMD SEV, Arm CCA for data-in-use.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **8 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **19 independent sources** on this technology.
 
 > RSS:SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve  | rel=0.66 | uid:1c2c95c7d02eb587
 
@@ -27,10 +27,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.12** |
+| Confidence Score | **+0.11** |
 | Estimated Deployment | **2025–2027** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 8 |
+| Independent Sources Tracked | 19 |
 
 ## Investment Exposure
 

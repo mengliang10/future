@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 16
+source_count: 23
 stocks: []
 permalink: /tech/nist-post-quantum-crypto-standard/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/nist-post-quantum-crypto-standard/
 
 CRYSTALS-Kyber/Dilithium standardized 2024; quantum-resistant baseline. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **16 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **23 independent sources** on this technology.
 
 > RSS:NIMO Controller: a self-driving laboratory orchestrator based on the M | rel=0.62 | uid:2818fcf482969eb3
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 16 |
+| Independent Sources Tracked | 23 |
 
 ## What This Enables
 

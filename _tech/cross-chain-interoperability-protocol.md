@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2027
 est_year_range: "2025–2031"
 horizon: "Near-Term (2027–2028)"
-source_count: 17
+source_count: 30
 stocks: []
 permalink: /tech/cross-chain-interoperability-protocol/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/cross-chain-interoperability-protocol/
 
 Trustless asset and message bridging across different blockchains — CCIP, LayerZero.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **17 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **30 independent sources** on this technology.
 
 > RSS:PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric  | rel=0.59 | uid:55906d2143da8ed6
 
@@ -30,7 +30,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Confidence Score | **+0.14** |
 | Estimated Deployment | **2025–2031** |
 | Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 17 |
+| Independent Sources Tracked | 30 |
 
 ## Prerequisites
 

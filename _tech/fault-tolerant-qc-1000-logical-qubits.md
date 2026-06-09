@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2032
 est_year_range: "2030–2040"
 horizon: "Medium-Term (2031–2035)"
-source_count: 20
+source_count: 25
 stocks: []
 permalink: /tech/fault-tolerant-qc-1000-logical-qubits/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/fault-tolerant-qc-1000-logical-qubits/
 
 Threshold for running Shor's algorithm and drug simulation at useful scale.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **20 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **25 independent sources** on this technology.
 
 > RSS:Synthesis and Optimization of Encoding Circuits for Fault-Tolerant Qua | rel=0.62 | uid:d19725afe11a70b2
 
@@ -30,7 +30,7 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Confidence Score | **+0.15** |
 | Estimated Deployment | **2030–2040** |
 | Horizon | Medium-Term (2031–2035) |
-| Independent Sources Tracked | 20 |
+| Independent Sources Tracked | 25 |
 
 ## Prerequisites
 

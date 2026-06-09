@@ -1,42 +1,42 @@
 ---
 layout: tech_node
-title: "Robot Learning from Demonstration"
-subtitle: "Robot learns new skills by watching human demonstration (imitation learning)"
-category: Robotics
-stage: early_commercial
+title: "Robot-Learning-From-Demonstration"
+subtitle: "Robot-Learning-From-Demonstration"
+category: Robotics & Automation
+stage: proof_of_concept
 confidence_label: Speculative
-est_year: 2027
-est_year_range: "2025–2030"
-horizon: "Near-Term (2027–2028)"
-source_count: 41
+est_year: 
+est_year_range: ""
+horizon: "Timeline TBD"
+source_count: 5
 stocks: []
 permalink: /tech/robot-learning-from-demonstration/
 ---
 
 ## What This Is
 
-Robot learns new skills by watching human demonstration (imitation learning).
+Robot-Learning-From-Demonstration.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **41 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **5 independent sources** on this technology.
 
-> RSS:Learning Bilevel Policies over Symbolic World Models for Long-Horizon  | rel=1.00 | uid:d89a161e8096bbd6
+> RSS:Human Adults and LLMs as Scientists: Who Benefits from Active Explorat | rel=0.66 | uid:d713a3ad21cd8298
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
-| Development Stage | **Early Commercial** |
+| Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.17** |
-| Estimated Deployment | **2025–2030** |
-| Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 41 |
+| Confidence Score | **+0.15** |
+| Estimated Deployment | **TBD** |
+| Horizon | Timeline TBD |
+| Independent Sources Tracked | 5 |
 
-## Prerequisites
+## What This Enables
 
-This technology depends on or is closely linked to:
+Advancement here directly benefits or unblocks:
 
-- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory/)
+- [Imitation-Learning-Embodiment](/future/tech/imitation-learning-embodiment/)
 
 ## Investment Exposure
 

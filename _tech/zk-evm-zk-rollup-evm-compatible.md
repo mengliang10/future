@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 2025
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 3
 stocks: []
 permalink: /tech/zk-evm-zk-rollup-evm-compatible/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/zk-evm-zk-rollup-evm-compatible/
 
 EVM-compatible ZK rollup enabling Ethereum compatibility at 100x lower cost. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **3 independent sources** on this technology.
 
 > RSS:QUTest: A Native Testing Framework for Quantum Programs | rel=0.41 | uid:616389a760b09d1e
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 3 |
 
 ## What This Enables
 

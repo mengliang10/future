@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2030
 est_year_range: "2028–2045"
 horizon: "Medium-Term (2029–2030)"
-source_count: 46
+source_count: 103
 stocks: []
 permalink: /tech/artificial-general-intelligence/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/artificial-general-intelligence/
 
 AI matching human performance across all cognitive domains.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **46 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **103 independent sources** on this technology.
 
 > First open-source model matching OpenAI o1 on reasoning benchmarks. Pure RL (GRPO) without supervised fine-tuning for cold-start. Chain-of-thought reasoning emerges from RL. Demonstrates reasoning capability can be incentivized purely through RL. Major milestone for open-source AI.
 
@@ -30,7 +30,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Confidence Score | **+0.17** |
 | Estimated Deployment | **2028–2045** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 46 |
+| Independent Sources Tracked | 103 |
 
 ## Prerequisites
 

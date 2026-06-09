@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 5
 stocks: []
 permalink: /tech/consumer-non-invasive-bci-headset/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/consumer-non-invasive-bci-headset/
 
 Mass-market EEG/fNIRS headsets for gaming, focus, meditation — Emotiv, Muse. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **5 independent sources** on this technology.
 
 > Emotiv EPOC X and Muse S (Gen 2) commercially available with dry EEG electrodes for meditation/focus tracking; limited to ~7 signal classes with 60-75% accuracy. Niche consumer adoption (~250K units shipped).
 
@@ -27,10 +27,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
-| Confidence Score | **+0.57** |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 5 |
 
 ## Prerequisites
 

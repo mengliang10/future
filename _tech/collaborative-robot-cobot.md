@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 18
+source_count: 27
 stocks: [TER]
 permalink: /tech/collaborative-robot-cobot/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/collaborative-robot-cobot/
 
 Force-limited robots working alongside humans safely — Universal Robots, Fanuc CRX. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **18 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **27 independent sources** on this technology.
 
 > RSS:Experimental subdiffraction source discrimination enabled by spatial d | rel=0.50 | uid:2de1b2273e33a97f
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 18 |
+| Independent Sources Tracked | 27 |
 
 ## Prerequisites
 

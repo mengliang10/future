@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 14
+source_count: 23
 stocks: []
 permalink: /tech/cv-via-deep-learning-yolovit/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/cv-via-deep-learning-yolovit/
 
 Real-time object detection and segmentation via neural networks. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **14 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **23 independent sources** on this technology.
 
 > RSS:Towards Trustworthy and Explainable AI for Perception Models: From Con | rel=0.56 | uid:e146bce39c9fd0f2
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 14 |
+| Independent Sources Tracked | 23 |
 
 ## What This Enables
 

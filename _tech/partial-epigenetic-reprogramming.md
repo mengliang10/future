@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2033
 est_year_range: "2028–2040"
 horizon: "Medium-Term (2031–2035)"
-source_count: 3
+source_count: 6
 stocks: []
 permalink: /tech/partial-epigenetic-reprogramming/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/partial-epigenetic-reprogramming/
 
 Yamanaka factor-based reset of epigenetic age — Altos Labs, Calico research.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **3 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **6 independent sources** on this technology.
 
 > David Sinclair lab and Altos Labs demonstrated OSK-factor partial reprogramming reverses epigenetic age in mice and restores vision in glaucoma/aging models; no human trials yet. Turn Biotechnologies in preclinical stage. Basic research — mechanism of action poorly understood.
 
@@ -27,10 +27,10 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.22** |
+| Confidence Score | **+0.19** |
 | Estimated Deployment | **2028–2040** |
 | Horizon | Medium-Term (2031–2035) |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 6 |
 
 ## Prerequisites
 

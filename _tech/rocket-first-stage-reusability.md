@@ -4,11 +4,11 @@ title: "Rocket First-Stage Reusability"
 subtitle: "Propulsive landing and reflight of orbital boosters — SpaceX Falcon 9 (300+ flights)"
 category: Space Tech
 stage: mass_production
-confidence_label: Confident
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 6
 stocks: []
 permalink: /tech/rocket-first-stage-reusability/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/rocket-first-stage-reusability/
 
 Propulsive landing and reflight of orbital boosters — SpaceX Falcon 9 (300+ flights). **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
 
 > SpaceX Falcon 9 achieved 350+ first-stage landings and 300+ reflights (as of May 2026); individual boosters flown up to 25+ times with turnaround times as low as 21 days. Reuse reduced launch costs by ~40% and is now routine. Rocket Lab Electron first-stage reuse also operational via helicopter/marine recovery.
 
@@ -26,11 +26,11 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.84** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.54** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 6 |
 
 ## Prerequisites
 

@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2031
 est_year_range: "2028–2036"
 horizon: "Medium-Term (2031–2035)"
-source_count: 3
+source_count: 12
 stocks: []
 permalink: /tech/bidirectional-bci-read-write/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/bidirectional-bci-read-write/
 
 Simultaneous neural recording and targeted stimulation for sensation feedback.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **3 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **12 independent sources** on this technology.
 
 > RSS:Near-degenerate competing magnetic orders in EuAgAs: a tunable route t | rel=0.38 | uid:f1d21aa5e1569d1d
 
@@ -27,10 +27,10 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.08** |
+| Confidence Score | **+0.11** |
 | Estimated Deployment | **2028–2036** |
 | Horizon | Medium-Term (2031–2035) |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 12 |
 
 ## Prerequisites
 

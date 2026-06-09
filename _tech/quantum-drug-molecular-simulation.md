@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2037
 est_year_range: "2032–2045"
 horizon: "Long-Term (2037)"
-source_count: 24
+source_count: 33
 stocks: []
 permalink: /tech/quantum-drug-molecular-simulation/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/quantum-drug-molecular-simulation/
 
 Quantum simulation of protein folding and binding beyond AlphaFold scope.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **24 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **33 independent sources** on this technology.
 
 > RSS:Beyond Unitary Quantum Simulation: Open-System Approaches to Quantum C | rel=0.72 | uid:50b9642f17be1d83
 
@@ -30,7 +30,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Confidence Score | **+0.13** |
 | Estimated Deployment | **2032–2045** |
 | Horizon | Long-Term (2037) |
-| Independent Sources Tracked | 24 |
+| Independent Sources Tracked | 33 |
 
 ## Prerequisites
 

@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 6
+source_count: 10
 stocks: []
 permalink: /tech/bci-motor-cortex-decoding/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/bci-motor-cortex-decoding/
 
 Decoding intended movement from neural signals to control prosthetics/cursors. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **6 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **10 independent sources** on this technology.
 
 > RSS:Active Defense Against False Data Injection Attacks in Robotic Manipul | rel=0.44 | uid:ef2c36fe7e0dcb49
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 6 |
+| Independent Sources Tracked | 10 |
 
 ## What This Enables
 

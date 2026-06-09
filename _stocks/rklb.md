@@ -6,8 +6,6 @@ exchange: NASDAQ
 categories: [Space Tech]
 node_count: 2
 bottleneck_count: 1
-timing_action: "FULL"
-regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 6
 stocks: [COIN]
 permalink: /tech/defi-ecosystem/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/defi-ecosystem/
 
 On-chain lending, trading, derivatives without intermediaries — $100B+ TVL. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
 
 > DeFi total value locked fluctuated $40-80B through 2024-2026; Uniswap v4, Aave v3, and Maker (Sky) operational with billions in monthly volume. SEC enforcement actions against Uniswap Labs (2024) and Tornado Cash sanctions create regulatory cloud over growth path.
 
@@ -27,10 +27,10 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
-| Confidence Score | **+0.54** |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 6 |
 
 ## Prerequisites
 

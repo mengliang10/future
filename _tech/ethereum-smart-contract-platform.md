@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 9
+source_count: 13
 stocks: []
 permalink: /tech/ethereum-smart-contract-platform/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ethereum-smart-contract-platform/
 
 Turing-complete programmable blockchain enabling DeFi, NFTs, DAOs. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **9 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **13 independent sources** on this technology.
 
 > RSS:A Compact, Robust, and Tunable Open Microcavity Platform for Solid-Sta | rel=0.50 | uid:1bb1efd41b358846
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 9 |
+| Independent Sources Tracked | 13 |
 
 ## Prerequisites
 

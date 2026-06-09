@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 9
+source_count: 10
 stocks: []
 permalink: /tech/3d-machine-vision-point-cloud/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/3d-machine-vision-point-cloud/
 
 Depth perception via structured light, ToF, or stereo for bin picking. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **9 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **10 independent sources** on this technology.
 
 > RSS:Motion-Uncertainty-Aware Next-Best-View Planning for Moving Object Rec | rel=0.47 | uid:80fa576f18ecf5c4
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 9 |
+| Independent Sources Tracked | 10 |
 
 ## Prerequisites
 

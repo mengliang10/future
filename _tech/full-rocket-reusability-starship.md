@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2026
 est_year_range: "2025–2028"
 horizon: "Near-Term (Now–2026)"
-source_count: 3
+source_count: 4
 stocks: [RKLB]
 permalink: /tech/full-rocket-reusability-starship/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/full-rocket-reusability-starship/
 
 Booster and upper stage both propulsively landing and reflying — SpaceX Starship.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **3 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **4 independent sources** on this technology.
 
 > SpaceX Super Heavy booster caught by Mechazilla tower on Flight 5 (October 2024) and Flight 7 (January 2025) — first-stage reuse demonstrated. Starship upper stage achieved controlled reentry and ocean splashdown on Flights 4-6 but has not been recovered or reused. Full stack reuse requires upper stage recovery — targeted for 2026.
 
@@ -27,10 +27,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.35** |
+| Confidence Score | **+0.32** |
 | Estimated Deployment | **2025–2028** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 4 |
 
 ## Prerequisites
 

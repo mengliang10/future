@@ -4,8 +4,6 @@ name: "Arm Holdings"
 symbol: ARM
 exchange: NASDAQ
 categories: [Semiconductors]
-timing_action: "AVOID"
-regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2029
 est_year_range: "2027–2034"
 horizon: "Medium-Term (2029–2030)"
-source_count: 7
+source_count: 22
 stocks: [TSLA, MBLY]
 permalink: /tech/full-self-driving-level-4-urban/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/full-self-driving-level-4-urban/
 
 Urban driving with no human available, approved for general public roads.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **7 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **22 independent sources** on this technology.
 
 > RSS:NIMO Controller: a self-driving laboratory orchestrator based on the M | rel=0.50 | uid:2818fcf482969eb3
 
@@ -27,10 +27,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.11** |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2027–2034** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 7 |
+| Independent Sources Tracked | 22 |
 
 ## Prerequisites
 

@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2025
 est_year_range: ""
 horizon: "Near-Term (Now–2026)"
-source_count: 9
+source_count: 25
 stocks: []
 permalink: /tech/xr-enterprise-workflow-tools/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/xr-enterprise-workflow-tools/
 
 CAD review, training simulation, remote assistance in industrial XR.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **9 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **25 independent sources** on this technology.
 
 > RSS:ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows f | rel=0.56 | uid:6ecec486a9839c7f
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.14** |
 | Estimated Deployment | **2025–2027** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 9 |
+| Independent Sources Tracked | 25 |
 
 ## Investment Exposure
 

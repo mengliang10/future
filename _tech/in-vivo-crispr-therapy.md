@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 1
+source_count: 7
 stocks: [CRSP]
 permalink: /tech/in-vivo-crispr-therapy/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/in-vivo-crispr-therapy/
 
 Delivering CRISPR to living patients via LNP/AAV; FDA-approved TTR amyloidosis 2023. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **7 independent sources** on this technology.
 
 > Intellia NTLA-2001 demonstrated durable TTR knockdown (90%+ reduction) in ATTR amyloidosis patients via lipid nanoparticle in-vivo delivery — Phase 2 completed 2025. Casgevy (exa-cel) is ex-vivo, not in-vivo. In-vivo CRISPR editing of liver targets is proven; other organs remain preclinical.
 
@@ -27,10 +27,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
-| Confidence Score | **+0.58** |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 7 |
 
 ## Prerequisites
 

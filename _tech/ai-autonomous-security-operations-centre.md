@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 25
+source_count: 48
 stocks: []
 permalink: /tech/ai-autonomous-security-operations-centre/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ai-autonomous-security-operations-centre/
 
 AI systems that detect, investigate, and neutralise cyber threats faster than human analysts — 24/7 autonomous SOC..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **25 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **48 independent sources** on this technology.
 
 > RSS:Ensemble Monitoring for AI Control: Diverse Signals Outweigh More Comp | rel=0.88 | uid:61cb26aa57578ca8
 
@@ -27,10 +27,10 @@ Fundamental research phase — concept established, practical implementation rem
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.14** |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 25 |
+| Independent Sources Tracked | 48 |
 
 ## Investment Exposure
 

@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 3
+source_count: 5
 stocks: []
 permalink: /tech/humanoid-robot-lab-controlled-demo/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/humanoid-robot-lab-controlled-demo/
 
 Bipedal humanoids in controlled settings — Tesla Optimus Gen2, Figure 02, 1X NEO. **Achieved.**
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **3 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **5 independent sources** on this technology.
 
 > RSS:Propagating Unsafe Actions in LLM Controlled Multi-Robot Collaboration | rel=0.72 | uid:a49334879a976fc4
 
@@ -30,7 +30,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 5 |
 
 ## Prerequisites
 

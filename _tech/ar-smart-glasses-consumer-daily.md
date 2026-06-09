@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2025
 est_year_range: "2025–2030"
 horizon: "Near-Term (Now–2026)"
-source_count: 4
+source_count: 5
 stocks: [META, AAPL]
 permalink: /tech/ar-smart-glasses-consumer-daily/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ar-smart-glasses-consumer-daily/
 
 Fashionable AR eyewear for everyday use — Meta Orion, Apple Vision Pro.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **4 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **5 independent sources** on this technology.
 
 > RSS:The Download: Musk v. Altman, smart glasses for warfare, and Google I/ | rel=0.53 | uid:17cca9af0713795e
 
@@ -30,7 +30,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Confidence Score | **+0.12** |
 | Estimated Deployment | **2025–2030** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 5 |
 
 ## Prerequisites
 

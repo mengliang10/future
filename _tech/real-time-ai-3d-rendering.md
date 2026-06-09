@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2028
 est_year_range: "2026–2032"
 horizon: "Near-Term (2027–2028)"
-source_count: 3
+source_count: 5
 stocks: [U]
 permalink: /tech/real-time-ai-3d-rendering/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/real-time-ai-3d-rendering/
 
 Neural rendering replacing rasterization for photorealistic real-time graphics.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **3 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **5 independent sources** on this technology.
 
 > RSS:Hestia: Voxel-Face-Aware Hierarchical Next-Best-View Acquisition for E | rel=0.84 | uid:fd5bcb67b86379fa
 
@@ -27,10 +27,10 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.19** |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **2026–2032** |
 | Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 5 |
 
 ## Prerequisites
 

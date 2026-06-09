@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2025
 est_year_range: "2025–2031"
 horizon: "Near-Term (Now–2026)"
-source_count: 6
+source_count: 10
 stocks: []
 permalink: /tech/ai-managed-smart-grid/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ai-managed-smart-grid/
 
 AI-optimized demand response, fault detection, and renewable integration.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **6 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **10 independent sources** on this technology.
 
 > RSS:Reprogrammable magnonic logic in a multiferroic heterostructure via ma | rel=0.54 | uid:1ab5291763b67fc6
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.14** |
 | Estimated Deployment | **2025–2031** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 6 |
+| Independent Sources Tracked | 10 |
 
 ## What This Enables
 

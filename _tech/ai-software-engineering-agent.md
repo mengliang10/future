@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 4
+source_count: 74
 stocks: [MSFT]
 permalink: /tech/ai-software-engineering-agent/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ai-software-engineering-agent/
 
 AI that autonomously writes, tests, and deploys production software. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **74 independent sources** on this technology.
 
 > Code I/O prediction as universal reasoning training signal. Converts diverse reasoning tasks into code prediction. +10% on diverse reasoning benchmarks. Distills reasoning patterns from program execution into LLMs.
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 74 |
 
 ## What This Enables
 

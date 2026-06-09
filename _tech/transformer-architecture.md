@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 16
+source_count: 36
 stocks: []
 permalink: /tech/transformer-architecture/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/transformer-architecture/
 
 Attention-based neural network (Vaswani 2017) underlying all modern LLMs. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **16 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **36 independent sources** on this technology.
 
 > RSS:Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Desig | rel=0.91 | uid:46528ba218b2e4ec
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 16 |
+| Independent Sources Tracked | 36 |
 
 ## Prerequisites
 

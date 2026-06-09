@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 3
+source_count: 6
 stocks: []
 permalink: /tech/eeg-non-invasive-brain-recording/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/eeg-non-invasive-brain-recording/
 
 Scalp electrodes recording brain rhythms; consumer headsets available. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
 
 > Standard clinical tool for epilepsy diagnosis, sleep studies, and brain-death determination since the 1960s; modern 256-channel research-grade systems from Brain Products and EGI achieve sub-millimeter source localization. Ubiquitous in hospitals globally.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 6 |
 
 ## What This Enables
 

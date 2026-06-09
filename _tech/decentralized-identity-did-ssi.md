@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2029
 est_year_range: "2026–2034"
 horizon: "Medium-Term (2029–2030)"
-source_count: 1
+source_count: 2
 stocks: []
 permalink: /tech/decentralized-identity-did-ssi/
 ---
@@ -17,9 +17,9 @@ permalink: /tech/decentralized-identity-did-ssi/
 
 User-controlled identity wallets — W3C DID standard, ENS, Polygon ID.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **1 independent source** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **2 independent sources** on this technology.
 
-> RSS:BIDO: A Biometric Identity Online Authentication Framework | rel=0.50 | uid:0de7dea41e959d35
+> RSS:DiG-Plan: Mitigating Early Commitment for Tool-Graph Planning via Diff | rel=0.56 | uid:71cc60efa7438332
 
 ## Status
 
@@ -27,10 +27,10 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.12** |
+| Confidence Score | **+0.10** |
 | Estimated Deployment | **2026–2034** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 2 |
 
 ## Prerequisites
 

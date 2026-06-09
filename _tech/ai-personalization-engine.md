@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 2023
 est_year_range: ""
 horizon: "Near-Term (Now–2026)"
-source_count: 2
+source_count: 4
 stocks: [BRZE]
 permalink: /tech/ai-personalization-engine/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ai-personalization-engine/
 
 Real-time ML serving individualized content, offers, and timing at scale.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **4 independent sources** on this technology.
 
 > Salesforce Einstein GPT, Adobe Sensei GenAI, and standalone platforms like Dynamic Yield and Optimizely deploy real-time LLM-driven content personalization across web, email, and mobile at scale. GDPR constraints on personal data limit depth in EU; 15-30% conversion lift widely documented.
 
@@ -27,10 +27,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
-| Confidence Score | **+0.61** |
+| Confidence Score | **+0.43** |
 | Estimated Deployment | **2023–2026** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 4 |
 
 ## Prerequisites
 

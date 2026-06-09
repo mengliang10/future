@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2025
 est_year_range: ""
 horizon: "Near-Term (Now–2026)"
-source_count: 11
+source_count: 19
 stocks: [PANW]
 permalink: /tech/xdr-extended-detection-response/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/xdr-extended-detection-response/
 
 Unified threat detection across endpoints, cloud, network, identity.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **11 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **19 independent sources** on this technology.
 
 > RSS:Detecting Heel Strike and toe off Events Using Kinematic Methods and L | rel=0.47 | uid:43d38dc656aa442f
 
@@ -27,10 +27,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.09** |
+| Confidence Score | **+0.10** |
 | Estimated Deployment | **2025–2027** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 11 |
+| Independent Sources Tracked | 19 |
 
 ## Prerequisites
 

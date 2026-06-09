@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 11
+source_count: 19
 stocks: []
 permalink: /tech/public-key-cryptography-rsaecc/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/public-key-cryptography-rsaecc/
 
 Asymmetric encryption enabling secure communication without shared secret. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **19 independent sources** on this technology.
 
 > RSS:Accelerating Hybrid XOR$-$CNF Boolean Satisfiability Problems Natively | rel=0.41 | uid:1e2cefa4b335a8af
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 11 |
+| Independent Sources Tracked | 19 |
 
 ## Prerequisites
 

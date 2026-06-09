@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2028
 est_year_range: "2026–2032"
 horizon: "Near-Term (2027–2028)"
-source_count: 4
+source_count: 13
 stocks: [MRVL]
 permalink: /tech/silicon-photonics-interconnect/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/silicon-photonics-interconnect/
 
 Optical signaling on-chip or chip-to-chip; eliminates copper bandwidth bottleneck.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **4 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **13 independent sources** on this technology.
 
 > RSS:Radio-frequency reflectometry in silicon carbide large-area transistor | rel=0.50 | uid:10971b2b805fea80
 
@@ -27,10 +27,16 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.19** |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **2026–2032** |
 | Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 13 |
+
+## Prerequisites
+
+This technology depends on or is closely linked to:
+
+- [Watt-Level-Cw-Lasers](/future/tech/watt-level-cw-lasers/)
 
 ## What This Enables
 

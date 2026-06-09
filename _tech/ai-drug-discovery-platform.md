@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2025
 est_year_range: "2025–2030"
 horizon: "Near-Term (Now–2026)"
-source_count: 17
+source_count: 34
 stocks: [RXRX]
 permalink: /tech/ai-drug-discovery-platform/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ai-drug-discovery-platform/
 
 End-to-end AI for target ID, lead optimization, clinical prediction — Recursion, Insilico.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **17 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **34 independent sources** on this technology.
 
 > RSS:SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo  | rel=0.47 | uid:bba9eeccf7651469
 
@@ -30,7 +30,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Confidence Score | **+0.12** |
 | Estimated Deployment | **2025–2030** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 17 |
+| Independent Sources Tracked | 34 |
 
 ## Prerequisites
 

@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2030
 est_year_range: "2028–2035"
 horizon: "Medium-Term (2029–2030)"
-source_count: 18
+source_count: 31
 stocks: [SMR, GEV, CCJ]
 permalink: /tech/small-modular-reactor-300mwe/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/small-modular-reactor-300mwe/
 
 Factory-built modular reactors — NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **18 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **31 independent sources** on this technology.
 
 > RSS:The Download: China’s AI drama factory and the WHO’s missing health ta | rel=0.38 | uid:034c5dfe93abf656
 
@@ -30,7 +30,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Confidence Score | **+0.21** |
 | Estimated Deployment | **2028–2035** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 18 |
+| Independent Sources Tracked | 31 |
 
 ## Prerequisites
 

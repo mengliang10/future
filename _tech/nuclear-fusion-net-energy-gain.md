@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 19
+source_count: 34
 stocks: []
 permalink: /tech/nuclear-fusion-net-energy-gain/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/nuclear-fusion-net-energy-gain/
 
 Fusion output exceeding laser driver input — NIF achieved Q>1 in Dec 2022. **Achieved.**
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **19 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **34 independent sources** on this technology.
 
 > RSS:New “optical tornado” technology could transform quantum communication | rel=0.59 | uid:2ff6917baa625182
 
@@ -30,7 +30,7 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 19 |
+| Independent Sources Tracked | 34 |
 
 ## What This Enables
 

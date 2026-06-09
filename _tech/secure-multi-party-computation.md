@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2030
 est_year_range: "2027–2035"
 horizon: "Medium-Term (2029–2030)"
-source_count: 9
+source_count: 14
 stocks: []
 permalink: /tech/secure-multi-party-computation/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/secure-multi-party-computation/
 
 Joint computation on private data without any party revealing inputs.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **9 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **14 independent sources** on this technology.
 
 > RSS:Structured Jacobian Construction for Motion Optimization with High-Ord | rel=0.50 | uid:d300301940c01c2f
 
@@ -27,10 +27,10 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.13** |
+| Confidence Score | **+0.14** |
 | Estimated Deployment | **2027–2035** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 9 |
+| Independent Sources Tracked | 14 |
 
 ## Investment Exposure
 

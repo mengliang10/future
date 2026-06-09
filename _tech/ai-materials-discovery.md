@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2028
 est_year_range: "2026–2032"
 horizon: "Near-Term (2027–2028)"
-source_count: 11
+source_count: 15
 stocks: []
 permalink: /tech/ai-materials-discovery/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ai-materials-discovery/
 
 ML-guided discovery of novel materials for batteries, semiconductors, drugs.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **11 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **15 independent sources** on this technology.
 
 > RSS:Transport signatures of valley polarization in graphene multilayers: I | rel=0.44 | uid:a8a5511317b2e255
 
@@ -27,10 +27,10 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.18** |
+| Confidence Score | **+0.16** |
 | Estimated Deployment | **2026–2032** |
 | Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 11 |
+| Independent Sources Tracked | 15 |
 
 ## What This Enables
 

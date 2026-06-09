@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2028
 est_year_range: "2026–2033"
 horizon: "Near-Term (2027–2028)"
-source_count: 7
+source_count: 29
 stocks: []
 permalink: /tech/pqc-enterprise-deployment/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/pqc-enterprise-deployment/
 
 Enterprises migrated from RSA/ECC to PQC — TLS, VPNs, PKI infrastructure.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **7 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **29 independent sources** on this technology.
 
 > RSS:Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sov | rel=0.51 | uid:533843e86279aa89
 
@@ -30,7 +30,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Confidence Score | **+0.17** |
 | Estimated Deployment | **2026–2033** |
 | Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 7 |
+| Independent Sources Tracked | 29 |
 
 ## Prerequisites
 

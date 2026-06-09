@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 18
+source_count: 21
 stocks: []
 permalink: /tech/quadruped-robot-locomotion/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/quadruped-robot-locomotion/
 
 Four-legged robots navigating unstructured terrain — Boston Dynamics Spot. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **18 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **21 independent sources** on this technology.
 
 > RSS:Terrain Consistent Reference-Guided RL for Humanoid Navigation Autonom | rel=0.88 | uid:d56902ee0dcc6c06
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 18 |
+| Independent Sources Tracked | 21 |
 
 ## What This Enables
 

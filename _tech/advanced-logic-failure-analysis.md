@@ -4,11 +4,11 @@ title: "Advanced Logic Failure Analysis Workflows"
 subtitle: "Combined electrical fault isolation (e-beam probing, photon emission) + physical failure analysis..."
 category: Semiconductors
 stage: early_commercial
-confidence_label: Confirmed
+confidence_label: Researching
 est_year: 2020
 est_year_range: "2018–2022"
 horizon: "Deployed"
-source_count: 1
+source_count: 18
 stocks: []
 permalink: /tech/advanced-logic-failure-analysis/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/advanced-logic-failure-analysis/
 
 Combined electrical fault isolation (e-beam probing, photon emission) + physical failure analysis (FIB-SEM, TEM) workflows for diagnosing defects in sub-5nm FinFET/GAA devices with backside metal layers.. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **1 independent source** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **18 independent sources** on this technology.
 
 > Thermo Fisher advanced logic white paper confirms FA labs facing new challenges from 3D transistor complexity and backside metal layers; e-beam probing plus FIB-SEM/TEM workflows now required at leading-edge nodes.
 
@@ -26,11 +26,11 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.85** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 18 |
 
 ## Prerequisites
 

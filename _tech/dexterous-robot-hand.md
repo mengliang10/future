@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2028
 est_year_range: "2026–2032"
 horizon: "Near-Term (2027–2028)"
-source_count: 44
+source_count: 51
 stocks: []
 permalink: /tech/dexterous-robot-hand/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/dexterous-robot-hand/
 
 Multi-fingered hand with near-human manipulation — assembly, surgery, daily tasks.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **44 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **51 independent sources** on this technology.
 
 > RSS:Diffusion Policy for Coordinated Control of a Nonholonomic Mobile Base | rel=0.88 | uid:5aed3f90b6b71514
 
@@ -27,10 +27,10 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.14** |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **2026–2032** |
 | Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 44 |
+| Independent Sources Tracked | 51 |
 
 ## Prerequisites
 

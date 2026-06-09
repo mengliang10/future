@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2029
 est_year_range: "2026–2034"
 horizon: "Medium-Term (2029–2030)"
-source_count: 21
+source_count: 23
 stocks: []
 permalink: /tech/quantum-gravity-sensor/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/quantum-gravity-sensor/
 
 Atom interferometry sensing gravitational anomalies for mapping/navigation.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **21 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **23 independent sources** on this technology.
 
 > RSS:From Constraint to Code: DQI-Kit -- A Software Framework for Decoded Q | rel=0.66 | uid:41e89e51ed37a981
 
@@ -30,7 +30,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Confidence Score | **+0.14** |
 | Estimated Deployment | **2026–2034** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 21 |
+| Independent Sources Tracked | 23 |
 
 ## Investment Exposure
 

@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 3
+source_count: 5
 stocks: []
 permalink: /tech/digital-twin/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/digital-twin/
 
 28 sources from SemiEngineering.com.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **3 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **5 independent sources** on this technology.
 
 > RSS:Digital twins for compact hybrid quantum classical learning in FMCW ra | rel=0.92 | uid:b6819ddb93a13a4d
 
@@ -27,10 +27,10 @@ Fundamental research phase — concept established, practical implementation rem
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.20** |
+| Confidence Score | **+0.22** |
 | Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 5 |
 
 ## Investment Exposure
 

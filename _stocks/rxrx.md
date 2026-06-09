@@ -6,8 +6,6 @@ exchange: NASDAQ
 categories: [Biotech, AI Drug Discovery]
 node_count: 1
 bottleneck_count: 1
-timing_action: "HALF"
-regime: "HIGH_VOL"
 ---
 
 ## Investment Thesis

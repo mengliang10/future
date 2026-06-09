@@ -4,11 +4,11 @@ title: "FIB-SEM DualBeam Semiconductor Analysis"
 subtitle: "Combined focused ion beam + scanning electron microscope for site-specific cross-section, TEM sam..."
 category: Semiconductors
 stage: mass_production
-confidence_label: Confirmed
+confidence_label: Researching
 est_year: 2000
 est_year_range: "1995–2005"
 horizon: "Deployed"
-source_count: 1
+source_count: 32
 stocks: []
 permalink: /tech/fib-sem-semiconductor/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/fib-sem-semiconductor/
 
 Combined focused ion beam + scanning electron microscope for site-specific cross-section, TEM sample prep, and 3D reconstruction of semiconductor structures; industry-standard failure analysis tool.. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **1 independent source** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **32 independent sources** on this technology.
 
 > Multiple Thermo Fisher papers confirm FIB-SEM DualBeam as the industry-standard tool for semiconductor cross-section, sample prep, and defect analysis; Helios 5 EXL deployed on 300mm production wafers.
 
@@ -26,11 +26,11 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Mass Production** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.92** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 32 |
 
 ## Prerequisites
 

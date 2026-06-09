@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 41
+source_count: 67
 stocks: []
 permalink: /tech/chain-of-thought-reasoning-model/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/chain-of-thought-reasoning-model/
 
 Models that think step-by-step before answering — o1, o3, DeepSeek R1. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **41 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **67 independent sources** on this technology.
 
 > First open-source model matching OpenAI o1 on reasoning benchmarks. Pure RL (GRPO) without supervised fine-tuning for cold-start. Chain-of-thought reasoning emerges from RL. Demonstrates reasoning capability can be incentivized purely through RL. Major milestone for open-source AI.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 41 |
+| Independent Sources Tracked | 67 |
 
 ## Prerequisites
 

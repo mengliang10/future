@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 24
+source_count: 38
 stocks: []
 permalink: /tech/multimodal-foundation-model/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/multimodal-foundation-model/
 
 Single model handling text, image, audio, video natively. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **24 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **38 independent sources** on this technology.
 
 > Unified framework for multimodal understanding AND generation in one model. Decouples visual encoding into separate streams for understanding vs generation. Surpasses prior unified models and specialized models on both tasks.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 24 |
+| Independent Sources Tracked | 38 |
 
 ## Prerequisites
 

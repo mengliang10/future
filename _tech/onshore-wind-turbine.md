@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 6
+source_count: 14
 stocks: []
 permalink: /tech/onshore-wind-turbine/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/onshore-wind-turbine/
 
 Modern 5-6MW onshore turbines; lowest LCOE energy source in many markets. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **14 independent sources** on this technology.
 
 > RSS:Near-Field Vibrational Energy Transfer for Mid-Infrared Upconversion i | rel=0.38 | uid:dd89ae72a1a006bb
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 6 |
+| Independent Sources Tracked | 14 |
 
 ## Investment Exposure
 

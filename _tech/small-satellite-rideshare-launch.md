@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 10
+source_count: 19
 stocks: [RKLB]
 permalink: /tech/small-satellite-rideshare-launch/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/small-satellite-rideshare-launch/
 
 Dedicated and rideshare launches for smallsats — SpaceX Transporter, RocketLab. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **10 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **19 independent sources** on this technology.
 
 > SpaceX Transporter program completed 12+ dedicated rideshare missions ($5,500/kg to SSO); Rocket Lab Electron and Relativity Terran 1 offer dedicated smallsat launch. Over 3,000 smallsats deployed annually via rideshare. Market is mature with three competing providers offering routine, reliable access.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 10 |
+| Independent Sources Tracked | 19 |
 
 ## What This Enables
 

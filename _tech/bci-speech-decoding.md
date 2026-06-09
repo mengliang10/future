@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2025
 est_year_range: "2025–2030"
 horizon: "Near-Term (Now–2026)"
-source_count: 2
+source_count: 5
 stocks: []
 permalink: /tech/bci-speech-decoding/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/bci-speech-decoding/
 
 Reconstructing intended speech from neural signals at conversational speed.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **2 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **5 independent sources** on this technology.
 
 > RSS:Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Whe | rel=0.44 | uid:24848f8b4799dc1b
 
@@ -27,10 +27,10 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.10** |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2025–2030** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 5 |
 
 ## What This Enables
 

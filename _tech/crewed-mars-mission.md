@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2033
 est_year_range: "2030–2042"
 horizon: "Medium-Term (2031–2035)"
-source_count: 11
+source_count: 21
 stocks: []
 permalink: /tech/crewed-mars-mission/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/crewed-mars-mission/
 
 Human landing on Mars surface — SpaceX Starship Mars program target 2029-2031.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **11 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **21 independent sources** on this technology.
 
 > RSS:SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo  | rel=0.41 | uid:bba9eeccf7651469
 
@@ -27,10 +27,10 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.16** |
+| Confidence Score | **+0.14** |
 | Estimated Deployment | **2030–2042** |
 | Horizon | Medium-Term (2031–2035) |
-| Independent Sources Tracked | 11 |
+| Independent Sources Tracked | 21 |
 
 ## What This Enables
 

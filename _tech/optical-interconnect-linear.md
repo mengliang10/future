@@ -4,11 +4,11 @@ title: "Linear Pluggable Optics (LPO)"
 subtitle: "Removing DSPs from optical modules to reduce power consumption in 1.6T+ links."
 category: Semiconductors
 stage: basic_research
-confidence_label: Confirmed
+confidence_label: Confident
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 1
+source_count: 2
 stocks: []
 permalink: /tech/optical-interconnect-linear/
 ---
@@ -17,20 +17,20 @@ permalink: /tech/optical-interconnect-linear/
 
 Removing DSPs from optical modules to reduce power consumption in 1.6T+ links..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **2 independent sources** on this technology.
 
-> Andreas Bechtolsheim describes power drop from 30W to 10W for 1.6T link.
+> RSS:Computational Superiority of Non-Markovian Kerr Feedback in Continuous | rel=0.59 | uid:30d2405652fe86a8
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Basic Research** |
-| Confidence Level | <span class="conf-badge conf-confirmed">Confirmed</span> |
-| Confidence Score | **+0.90** |
+| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
+| Confidence Score | **+0.75** |
 | Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 2 |
 
 ## Investment Exposure
 

@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2026
 est_year_range: "2025–2029"
 horizon: "Near-Term (Now–2026)"
-source_count: 26
+source_count: 38
 stocks: []
 permalink: /tech/sim-to-real-transfer/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/sim-to-real-transfer/
 
 Training in simulation and deploying to physical robots with minimal domain gap.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **26 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **38 independent sources** on this technology.
 
 > RSS:NavRL++: A System-Level Framework for Improving Sim-to-Real Transfer i | rel=1.00 | uid:1022ea1b5dbb1217
 
@@ -27,10 +27,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.17** |
+| Confidence Score | **+0.16** |
 | Estimated Deployment | **2025–2029** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 26 |
+| Independent Sources Tracked | 38 |
 
 ## Prerequisites
 

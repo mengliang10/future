@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2028
 est_year_range: "2025–2033"
 horizon: "Near-Term (2027–2028)"
-source_count: 4
+source_count: 7
 stocks: []
 permalink: /tech/direct-air-carbon-capture-dac/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/direct-air-carbon-capture-dac/
 
 Mechanical CO2 removal from atmosphere — Climeworks Orca/Mammoth, 1PointFive.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **4 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **7 independent sources** on this technology.
 
 > RSS:Finite-frequency anomaly-induced electromechanical response of Dirac f | rel=0.50 | uid:4961d4ee5b68c4b4
 
@@ -27,10 +27,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.12** |
+| Confidence Score | **+0.13** |
 | Estimated Deployment | **2025–2033** |
 | Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 7 |
 
 ## Investment Exposure
 

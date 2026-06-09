@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 59
+source_count: 94
 stocks: []
 permalink: /tech/autonomous-nuclear-plant-operations/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/autonomous-nuclear-plant-operations/
 
 Humanoid and specialised robots performing maintenance, inspection, and operation of nuclear facilities reducing human radiation exposure..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **59 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **94 independent sources** on this technology.
 
 > RSS:X-SYNTH: Beyond Retrieval -- Enterprise Context Synthesis from Observe | rel=0.75 | uid:941eb99a1e9cb5d6
 
@@ -30,7 +30,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Confidence Score | **+0.16** |
 | Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 59 |
+| Independent Sources Tracked | 94 |
 
 ## Investment Exposure
 

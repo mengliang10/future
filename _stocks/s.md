@@ -5,8 +5,6 @@ symbol: S
 exchange: NYSE
 categories: [Cybersecurity, AI]
 node_count: 1
-timing_action: "FULL"
-regime: "TRENDING_UP"
 ---
 
 ## Investment Thesis

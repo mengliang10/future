@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2029
 est_year_range: "2027–2032"
 horizon: "Medium-Term (2029–2030)"
-source_count: 21
+source_count: 43
 stocks: []
 permalink: /tech/ai-agent-swarms/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ai-agent-swarms/
 
 Coordinated networks of AI agents collaborating on complex tasks autonomously.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **21 independent sources** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **43 independent sources** on this technology.
 
 > RSS:ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows f | rel=0.53 | uid:6ecec486a9839c7f
 
@@ -30,7 +30,7 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 | Confidence Score | **+0.13** |
 | Estimated Deployment | **2027–2032** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 21 |
+| Independent Sources Tracked | 43 |
 
 ## Prerequisites
 

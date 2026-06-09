@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2028
 est_year_range: "2026–2032"
 horizon: "Near-Term (2027–2028)"
-source_count: 45
+source_count: 63
 stocks: [IBM, MSFT, NVDA]
 permalink: /tech/quantum-error-correction-surface-code/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/quantum-error-correction-surface-code/
 
 Logical qubit from many physical; ~1000 physical per logical qubit needed.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **45 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **63 independent sources** on this technology.
 
 > RSS:Synthesis and Optimization of Encoding Circuits for Fault-Tolerant Qua | rel=0.72 | uid:d19725afe11a70b2
 
@@ -27,10 +27,10 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 |-----------|-------|
 | Development Stage | **Prototype** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.15** |
+| Confidence Score | **+0.16** |
 | Estimated Deployment | **2026–2032** |
 | Horizon | Near-Term (2027–2028) |
-| Independent Sources Tracked | 45 |
+| Independent Sources Tracked | 63 |
 
 ## Prerequisites
 

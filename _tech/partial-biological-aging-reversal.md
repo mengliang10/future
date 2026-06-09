@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2040
 est_year_range: "2032–2055"
 horizon: "Long-Term (2040)"
-source_count: 11
+source_count: 25
 stocks: []
 permalink: /tech/partial-biological-aging-reversal/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/partial-biological-aging-reversal/
 
 Demonstrated multi-year biological age reduction in human clinical trial.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **11 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **25 independent sources** on this technology.
 
 > RSS:Adaptive Clifford+T Decomposition of Large Toffoli Gates with One Clea | rel=0.45 | uid:282e0175af20d7ba
 
@@ -30,7 +30,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Confidence Score | **+0.14** |
 | Estimated Deployment | **2032–2055** |
 | Horizon | Long-Term (2040) |
-| Independent Sources Tracked | 11 |
+| Independent Sources Tracked | 25 |
 
 ## Prerequisites
 

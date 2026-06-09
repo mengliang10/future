@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 13
+source_count: 21
 stocks: []
 permalink: /tech/adaptive-cruise-control-acc/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/adaptive-cruise-control-acc/
 
 Radar-based following distance control; standard on new vehicles globally. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **13 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **21 independent sources** on this technology.
 
 > RSS:NIMO Controller: a self-driving laboratory orchestrator based on the M | rel=0.47 | uid:2818fcf482969eb3
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 13 |
+| Independent Sources Tracked | 21 |
 
 ## What This Enables
 

@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 2025
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 9
 stocks: [TSM, ASML, AMAT, KLAC, LRCX]
 permalink: /tech/2nm-process-node-tsmc-n2/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/2nm-process-node-tsmc-n2/
 
 Leading-edge silicon node; volume production 2025 — TSMC N2, Samsung SF2. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **9 independent sources** on this technology.
 
 > RSS:Off-line quantum-advantage feature extraction for industrial productio | rel=0.53 | uid:e8b7adee87634609
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 9 |
 
 ## Prerequisites
 

@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 3
+source_count: 5
 stocks: [TSLA, MBLY]
 permalink: /tech/adas-level-2-partial-automation/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/adas-level-2-partial-automation/
 
 Combined steering + acceleration automation with driver supervision — Tesla AP. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **5 independent sources** on this technology.
 
 > RSS:Trajectory Planning and Control near the Limits: an Open Experimental  | rel=0.62 | uid:809877bf3251ac82
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 5 |
 
 ## Prerequisites
 

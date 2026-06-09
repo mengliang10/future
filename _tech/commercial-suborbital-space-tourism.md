@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 3
+source_count: 5
 stocks: []
 permalink: /tech/commercial-suborbital-space-tourism/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/commercial-suborbital-space-tourism/
 
 Paying passengers on suborbital flights — Blue Origin NS, Virgin Galactic. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **3 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **5 independent sources** on this technology.
 
 > RSS:Commercial satellite supplying intel to Ukraine is cornered by four Ru | rel=0.47 | uid:ab4f0155f2bd1d16
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 5 |
 
 ## Investment Exposure
 

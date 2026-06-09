@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 1
+source_count: 5
 stocks: []
 permalink: /tech/semiconductor-design/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/semiconductor-design/
 
 Semiconductor Design.
 
-Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **1 independent source** on this technology.
+Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **5 independent sources** on this technology.
 
 > RSS:Siemens Unveils AI-Powered Library Characterization to Accelerate Semi | rel=1.00 | uid:d93384cf01872a69
 
@@ -27,10 +27,10 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 |-----------|-------|
 | Development Stage | **Proof of Concept** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.39** |
+| Confidence Score | **+0.34** |
 | Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 5 |
 
 ## Prerequisites
 

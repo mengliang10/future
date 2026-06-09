@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 22
+source_count: 32
 stocks: [MBLY]
 permalink: /tech/av-sensor-fusion-camlidarradar/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/av-sensor-fusion-camlidarradar/
 
 Fusing multiple sensor modalities for robust environmental perception. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **22 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **32 independent sources** on this technology.
 
 > RSS:Diffusion Policy for Coordinated Control of a Nonholonomic Mobile Base | rel=0.44 | uid:5aed3f90b6b71514
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 22 |
+| Independent Sources Tracked | 32 |
 
 ## Prerequisites
 

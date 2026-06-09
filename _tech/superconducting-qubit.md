@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 24
+source_count: 30
 stocks: [RGTI, IBM]
 permalink: /tech/superconducting-qubit/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/superconducting-qubit/
 
 Josephson junction qubit at millikelvin; IBM Eagle/Heron, Google Willow. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **24 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **30 independent sources** on this technology.
 
 > RSS:Control-Plane Openness in Near-Term Quantum Computing: A Survey of Ven | rel=0.47 | uid:aa4b5d1617bcf356
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 24 |
+| Independent Sources Tracked | 30 |
 
 ## What This Enables
 

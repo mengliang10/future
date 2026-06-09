@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 2
+source_count: 13
 stocks: []
 permalink: /tech/retail-media-network-rmn/
 ---
@@ -17,9 +17,9 @@ permalink: /tech/retail-media-network-rmn/
 
 Retailer first-party data monetized as ad inventory — Amazon Ads, Walmart Connect. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **2 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **13 independent sources** on this technology.
 
-> RSS:IEEE Program Aims to Connect the Billions Who Are Still Offline | rel=0.44 | uid:81440418db69e1b2
+> RSS:Lexar regional manager says that RAM prices are expected to double by  | rel=0.44 | uid:fe656cbde7149e5c
 
 ## Status
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 2 |
+| Independent Sources Tracked | 13 |
 
 ## Investment Exposure
 

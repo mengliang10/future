@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 7
+source_count: 11
 stocks: []
 permalink: /tech/neural-scaling-laws-established/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/neural-scaling-laws-established/
 
 Empirical law: performance scales predictably with compute, data, and params. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **7 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.
 
 > 671B MoE (37B active), 14.8T training tokens. Outperforms GPT-4o and Claude-3.5-Sonnet on multiple benchmarks. $5.6M training cost vs ~$100M+ for comparable closed models. Multi-token prediction objective. Proves cost-efficient frontier LLM at scale.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 7 |
+| Independent Sources Tracked | 11 |
 
 ## What This Enables
 

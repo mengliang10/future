@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 30
+source_count: 32
 stocks: [MSFT, GOOGL, NVDA]
 permalink: /tech/llm-gpt-4-class-1t-params/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/llm-gpt-4-class-1t-params/
 
 Dense LLMs at ~1T parameter scale with strong reasoning and code ability. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **30 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **32 independent sources** on this technology.
 
 > 671B MoE (37B active), 14.8T training tokens. Outperforms GPT-4o and Claude-3.5-Sonnet on multiple benchmarks. $5.6M training cost vs ~$100M+ for comparable closed models. Multi-token prediction objective. Proves cost-efficient frontier LLM at scale.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 30 |
+| Independent Sources Tracked | 32 |
 
 ## Prerequisites
 

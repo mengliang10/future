@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 7
+source_count: 10
 stocks: []
 permalink: /tech/proof-of-stake-consensus/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/proof-of-stake-consensus/
 
 Energy-efficient validator staking replacing mining — Ethereum post-Merge 2022. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **7 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **10 independent sources** on this technology.
 
 > RSS:Wind-Aware Optimal Trajectory Planning for Efficient Gliding of Fixed- | rel=0.47 | uid:14dd0ef903bd8619
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 7 |
+| Independent Sources Tracked | 10 |
 
 ## What This Enables
 

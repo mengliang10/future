@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 7
+source_count: 12
 stocks: []
 permalink: /tech/data-center-liquid-cooling/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/data-center-liquid-cooling/
 
 Direct liquid cooling of GPU racks enabling higher power density for AI clusters. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **7 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **12 independent sources** on this technology.
 
 > RSS:Neutralizing the Gigascale Problem: How to Solve the Physical Power Pa | rel=0.94 | uid:e237e12f49a2806b
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 7 |
+| Independent Sources Tracked | 12 |
 
 ## Prerequisites
 

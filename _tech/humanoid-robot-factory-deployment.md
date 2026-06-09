@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2025
 est_year_range: "2026–2030"
 horizon: "Near-Term (Now–2026)"
-source_count: 11
+source_count: 18
 stocks: [TSLA, NVDA]
 permalink: /tech/humanoid-robot-factory-deployment/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/humanoid-robot-factory-deployment/
 
 Humanoids performing real production tasks commercially — Tesla Giga 2026 target.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **11 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **18 independent sources** on this technology.
 
 > RSS:The Download: China’s AI drama factory and the WHO’s missing health ta | rel=0.41 | uid:034c5dfe93abf656
 
@@ -27,10 +27,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.19** |
+| Confidence Score | **+0.20** |
 | Estimated Deployment | **2026–2030** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 11 |
+| Independent Sources Tracked | 18 |
 
 ## Prerequisites
 

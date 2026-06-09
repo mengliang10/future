@@ -4,11 +4,11 @@ title: "Reconfigurable Fluid Circuit Board"
 subtitle: "Liquid metal on glass substrates for real-time PCB prototyping."
 category: Hardware
 stage: basic_research
-confidence_label: Confident
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Timeline TBD"
-source_count: 1
+source_count: 3
 stocks: []
 permalink: /tech/fluid-circuit-board/
 ---
@@ -17,20 +17,20 @@ permalink: /tech/fluid-circuit-board/
 
 Liquid metal on glass substrates for real-time PCB prototyping..
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **3 independent sources** on this technology.
 
-> Itera launches with 2M seed for liquid metal glass substrate PCBs.
+> RSS:Glass Substrates Are Breaking Through the AI Chip Packaging Bottleneck | rel=0.47 | uid:8dc7711d66d0511b
 
 ## Status
 
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Basic Research** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.65** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.45** |
 | Estimated Deployment | **TBD** |
 | Horizon | Timeline TBD |
-| Independent Sources Tracked | 1 |
+| Independent Sources Tracked | 3 |
 
 ## Investment Exposure
 

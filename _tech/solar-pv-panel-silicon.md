@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 3
+source_count: 6
 stocks: [FSLR]
 permalink: /tech/solar-pv-panel-silicon/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/solar-pv-panel-silicon/
 
 Photovoltaic conversion of sunlight; ~25% commercial efficiency, <$0.20/W. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.
 
 > Global installed solar capacity surpassed 2 TW (2025); annual installations 500+ GW/year led by China. Monocrystalline PERC and TOPCon panels at 22-25% module efficiency manufactured at $0.10-0.15/W in China. Fully mature technology deployed in 190+ countries.
 
@@ -27,10 +27,10 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 |-----------|-------|
 | Development Stage | **Mass Production** |
 | Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
-| Confidence Score | **+0.52** |
+| Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 6 |
 
 ## What This Enables
 

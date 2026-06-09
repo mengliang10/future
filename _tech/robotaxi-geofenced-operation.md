@@ -4,11 +4,11 @@ title: "Robotaxi (Geofenced Operation)"
 subtitle: "Driverless taxi in limited mapped area — Waymo One SF, Baidu Apollo Go"
 category: Autonomous
 stage: early_commercial
-confidence_label: Confident
+confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 3
+source_count: 6
 stocks: [GOOGL]
 permalink: /tech/robotaxi-geofenced-operation/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/robotaxi-geofenced-operation/
 
 Driverless taxi in limited mapped area — Waymo One SF, Baidu Apollo Go. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **3 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **6 independent sources** on this technology.
 
 > Waymo serving 175K+ paid rides/week across Phoenix, SF, LA, and Austin with no safety driver; Baidu Apollo Go operating in 10+ Chinese cities with 8M+ cumulative rides. Both profitable per-ride in mature geofences.
 
@@ -26,11 +26,11 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Attribute | Value |
 |-----------|-------|
 | Development Stage | **Early Commercial** |
-| Confidence Level | <span class="conf-badge conf-confident">Confident</span> |
-| Confidence Score | **+0.67** |
+| Confidence Level | <span class="conf-badge conf-researching">Researching</span> |
+| Confidence Score | **+0.51** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 6 |
 
 ## What This Enables
 

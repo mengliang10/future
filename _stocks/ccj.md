@@ -5,8 +5,6 @@ symbol: CCJ
 exchange: NYSE
 categories: [Nuclear Energy, Uranium]
 node_count: 2
-timing_action: "FULL"
-regime: "RANGE_BOUND"
 ---
 
 ## Investment Thesis

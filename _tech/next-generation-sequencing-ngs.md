@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 5
+source_count: 11
 stocks: [ILMN]
 permalink: /tech/next-generation-sequencing-ngs/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/next-generation-sequencing-ngs/
 
 High-throughput parallel DNA sequencing — Illumina NovaSeq, PacBio, Nanopore. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **5 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.
 
 > RSS:Quantum Meets Statistical-Physical Secrecy: A Novel Hybrid Key Distrib | rel=0.56 | uid:32671edd5e33f022
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 5 |
+| Independent Sources Tracked | 11 |
 
 ## What This Enables
 

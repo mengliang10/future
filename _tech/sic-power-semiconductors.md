@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 3
+source_count: 5
 stocks: [TSLA]
 permalink: /tech/sic-power-semiconductors/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/sic-power-semiconductors/
 
 SiC MOSFETs for high-voltage EV powertrains with lower switching losses. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **5 independent sources** on this technology.
 
 > Thermo Fisher wide bandgap app note confirms SiC MOSFETs alongside GaN for high-voltage power applications; four-part EFA-to-PFA workflow (coarse isolation, prep, fine isolation, imaging) developed specifically for SiC.
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 5 |
 
 ## What This Enables
 

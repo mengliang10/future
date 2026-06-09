@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2026
 est_year_range: "2025–2028"
 horizon: "Near-Term (Now–2026)"
-source_count: 12
+source_count: 42
 stocks: []
 permalink: /tech/ai-assisted-chip-design-eda-ai/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/ai-assisted-chip-design-eda-ai/
 
 AI automating RTL, floorplan, and verification steps in semiconductor design.
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **12 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **42 independent sources** on this technology.
 
 > RSS:In-situ correlative SEM/KPFM for semiconductor devices and 2D heterost | rel=0.41 | uid:b5fb6784e41f1410
 
@@ -27,10 +27,10 @@ Early commercial products exist. Market is forming with limited but growing depl
 |-----------|-------|
 | Development Stage | **Early Commercial** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.12** |
+| Confidence Score | **+0.14** |
 | Estimated Deployment | **2025–2028** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 12 |
+| Independent Sources Tracked | 42 |
 
 ## Prerequisites
 

@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 14
+source_count: 20
 stocks: [GOOGL]
 permalink: /tech/protein-structure-prediction-ai/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/protein-structure-prediction-ai/
 
 AlphaFold2/3 predicts folding from sequence; entire UniProt solved 2022. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **14 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **20 independent sources** on this technology.
 
 > RSS:WorldVLN: Autoregressive World Action Model for Aerial Vision-Language | rel=0.56 | uid:44c8d690144b81a0
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 14 |
+| Independent Sources Tracked | 20 |
 
 ## Prerequisites
 

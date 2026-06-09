@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2026
 est_year_range: "2026–2031"
 horizon: "Near-Term (Now–2026)"
-source_count: 87
+source_count: 126
 stocks: [NVDA]
 permalink: /tech/robotics-foundation-model/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/robotics-foundation-model/
 
 General-purpose model controlling diverse robot morphologies via language/vision.
 
-Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **87 independent sources** on this technology.
+Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **126 independent sources** on this technology.
 
 > RSS:Does Theory of Mind Improvement Really Benefit Human-AI Interactions?  | rel=0.41 | uid:b576102a639df2cf
 
@@ -30,7 +30,7 @@ Working prototypes demonstrated. Engineering challenges remain before commercial
 | Confidence Score | **+0.16** |
 | Estimated Deployment | **2026–2031** |
 | Horizon | Near-Term (Now–2026) |
-| Independent Sources Tracked | 87 |
+| Independent Sources Tracked | 126 |
 
 ## Prerequisites
 

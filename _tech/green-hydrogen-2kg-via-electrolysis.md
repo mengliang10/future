@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2031
 est_year_range: "2028–2037"
 horizon: "Medium-Term (2031–2035)"
-source_count: 4
+source_count: 5
 stocks: []
 permalink: /tech/green-hydrogen-2kg-via-electrolysis/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/green-hydrogen-2kg-via-electrolysis/
 
 Renewable-powered hydrogen reaching cost parity with grey hydrogen.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **4 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **5 independent sources** on this technology.
 
 > Green hydrogen production cost via PEM electrolysis remains $3.50-7.00/kg depending on electricity price and capacity factor. DOE Hydrogen Shot targets $1/kg by 2031 (not yet met). Chinese alkaline electrolyzer capex dropping ($250/kW by 2025) but operating cost dominated by renewable electricity price — $0.02/kWh needed to hit $2/kg.
 
@@ -30,7 +30,7 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 | Confidence Score | **+0.20** |
 | Estimated Deployment | **2028–2037** |
 | Horizon | Medium-Term (2031–2035) |
-| Independent Sources Tracked | 4 |
+| Independent Sources Tracked | 5 |
 
 ## Prerequisites
 

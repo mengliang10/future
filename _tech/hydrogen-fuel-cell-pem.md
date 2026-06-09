@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 11
+source_count: 27
 stocks: []
 permalink: /tech/hydrogen-fuel-cell-pem/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/hydrogen-fuel-cell-pem/
 
 Converting H2 to electricity electrochemically — vehicles, stationary power. **Achieved.**
 
-Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **11 independent sources** on this technology.
+Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **27 independent sources** on this technology.
 
 > Toyota Mirai (Gen 2), Hyundai Nexo, and Honda CR-V e:FCEV commercially available in California, Japan, Korea, and Europe; fuel cell stacks from Ballard and Plug Power deployed in 50K+ forklifts and 2K+ buses globally. PEM durability improved to 25K+ hours for stationary applications.
 
@@ -30,7 +30,7 @@ Early commercial products exist. Market is forming with limited but growing depl
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 11 |
+| Independent Sources Tracked | 27 |
 
 ## Prerequisites
 

@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2046
 est_year_range: "2038–2065"
 horizon: "Long-Term (2046)"
-source_count: 3
+source_count: 7
 stocks: []
 permalink: /tech/neuro-personalised-advertising/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/neuro-personalised-advertising/
 
 Ads optimized for individual neural response patterns via BCI biofeedback.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **3 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **7 independent sources** on this technology.
 
 > RSS:Topology-Optimized Pneumatic Soft Actuator: Design and Experimental Va | rel=0.53 | uid:c584e2fdabb7effe
 
@@ -27,10 +27,10 @@ Fundamental research phase — concept established, practical implementation rem
 |-----------|-------|
 | Development Stage | **Basic Research** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.16** |
+| Confidence Score | **+0.15** |
 | Estimated Deployment | **2038–2065** |
 | Horizon | Long-Term (2046) |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 7 |
 
 ## Prerequisites
 

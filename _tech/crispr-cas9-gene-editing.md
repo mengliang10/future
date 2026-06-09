@@ -8,7 +8,7 @@ confidence_label: Researching
 est_year: 
 est_year_range: ""
 horizon: "Deployed"
-source_count: 3
+source_count: 4
 stocks: [CRSP]
 permalink: /tech/crispr-cas9-gene-editing/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/crispr-cas9-gene-editing/
 
 Programmable DNA cut-and-paste at specific loci; Nobel Prize 2020. **Achieved.**
 
-Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.
+Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **4 independent sources** on this technology.
 
 > RSS:Extensive mixed-state entanglement in kinetically constrained superrad | rel=0.38 | uid:e6cc2f48c6f23a60
 
@@ -30,7 +30,7 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 | Confidence Score | **+0.50** |
 | Estimated Deployment | **Ongoing / Deployed** |
 | Horizon | Deployed |
-| Independent Sources Tracked | 3 |
+| Independent Sources Tracked | 4 |
 
 ## What This Enables
 

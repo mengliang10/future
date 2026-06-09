@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2043
 est_year_range: "2035–2060"
 horizon: "Long-Term (2043)"
-source_count: 7
+source_count: 13
 stocks: []
 permalink: /tech/space-based-solar-power-sbsp/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/space-based-solar-power-sbsp/
 
 GW-scale solar arrays in GEO beaming microwave power to Earth surface.
 
-Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **7 independent sources** on this technology.
+Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **13 independent sources** on this technology.
 
 > RSS:Solar phased arrays-based wireless power transfer for commercial airli | rel=0.86 | uid:d4257b2bc2cb8098
 
@@ -30,7 +30,7 @@ Fundamental research phase — concept established, practical implementation rem
 | Confidence Score | **+0.15** |
 | Estimated Deployment | **2035–2060** |
 | Horizon | Long-Term (2043) |
-| Independent Sources Tracked | 7 |
+| Independent Sources Tracked | 13 |
 
 ## What This Enables
 

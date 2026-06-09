@@ -8,7 +8,7 @@ confidence_label: Speculative
 est_year: 2029
 est_year_range: "2027–2034"
 horizon: "Medium-Term (2029–2030)"
-source_count: 9
+source_count: 11
 stocks: []
 permalink: /tech/solid-state-battery/
 ---
@@ -17,7 +17,7 @@ permalink: /tech/solid-state-battery/
 
 Solid electrolyte replacing liquid; higher density, safer — Toyota, QuantumScape.
 
-Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **9 independent sources** on this technology.
+Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **11 independent sources** on this technology.
 
 > RSS:Quantum Expectation Identities for the Three-State Model of a Molecula | rel=0.38 | uid:0bafd6fb1797e508
 
@@ -27,10 +27,10 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 |-----------|-------|
 | Development Stage | **Pilot / Limited Deployment** |
 | Confidence Level | <span class="conf-badge conf-speculative">Speculative</span> |
-| Confidence Score | **+0.13** |
+| Confidence Score | **+0.12** |
 | Estimated Deployment | **2027–2034** |
 | Horizon | Medium-Term (2029–2030) |
-| Independent Sources Tracked | 9 |
+| Independent Sources Tracked | 11 |
 
 ## Prerequisites
 
