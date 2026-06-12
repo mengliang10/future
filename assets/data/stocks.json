@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T08:21:40Z",
+  "updated": "2026-06-12T12:11:42Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -179,8 +179,8 @@
       "change_pct": 12.9235,
       "market_cap": 315026556657,
       "volume": 10325655,
-      "signal": "STRONG SELL",
-      "rsi": 22.58
+      "signal": "STRONG BUY",
+      "rsi": 72.32
     },
     {
       "ticker": "AMAT",
