@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T20:05:04Z",
+  "updated": "2026-06-12T22:05:41Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -11,7 +11,7 @@
       "market_cap": 4969907049133,
       "volume": 165980056,
       "signal": "NEUTRAL",
-      "rsi": 44.66
+      "rsi": 45.24
     },
     {
       "ticker": "AMD",
@@ -23,7 +23,7 @@
       "market_cap": 834166380836,
       "volume": 37449660,
       "signal": "BUY",
-      "rsi": 60.58
+      "rsi": 60.45
     },
     {
       "ticker": "MSFT",
@@ -35,7 +35,7 @@
       "market_cap": 2902586503697,
       "volume": 34881142,
       "signal": "SELL",
-      "rsi": 36.83
+      "rsi": 37.09
     },
     {
       "ticker": "GOOGL",
@@ -47,7 +47,7 @@
       "market_cap": 4386274211690,
       "volume": 29471178,
       "signal": "SELL",
-      "rsi": 41.92
+      "rsi": 42.37
     },
     {
       "ticker": "META",
@@ -59,7 +59,7 @@
       "market_cap": 1439235195323,
       "volume": 17087626,
       "signal": "SELL",
-      "rsi": 34.13
+      "rsi": 34.66
     },
     {
       "ticker": "AMZN",
@@ -71,7 +71,7 @@
       "market_cap": 2566108488785,
       "volume": 44435468,
       "signal": "SELL",
-      "rsi": 34.46
+      "rsi": 34.76
     },
     {
       "ticker": "PLTR",
@@ -102,13 +102,13 @@
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Mfg.",
       "sector": "Semiconductors",
-      "price": 423.82,
-      "change": 2.75,
-      "change_pct": 0.6531,
-      "market_cap": 2198131454176,
+      "price": 423.93,
+      "change": 2.86,
+      "change_pct": 0.6792,
+      "market_cap": 2198701890344,
       "volume": 13657076,
       "signal": "BUY",
-      "rsi": 53.33
+      "rsi": 53.77
     },
     {
       "ticker": "ASML",
@@ -120,7 +120,7 @@
       "market_cap": 718245108429,
       "volume": 1792265,
       "signal": "BUY",
-      "rsi": 65.91
+      "rsi": 65.83
     },
     {
       "ticker": "INTC",
@@ -132,7 +132,7 @@
       "market_cap": 626088818466,
       "volume": 127287790,
       "signal": "STRONG BUY",
-      "rsi": 62.61
+      "rsi": 62.43
     },
     {
       "ticker": "AVGO",
@@ -144,7 +144,7 @@
       "market_cap": 1817728701095,
       "volume": 25541070,
       "signal": "SELL",
-      "rsi": 41.07
+      "rsi": 41.4
     },
     {
       "ticker": "MRVL",
@@ -155,8 +155,8 @@
       "change_pct": -0.3598,
       "market_cap": 244681570678,
       "volume": 34224748,
-      "signal": "STRONG BUY",
-      "rsi": 64.0
+      "signal": "BUY",
+      "rsi": 62.99
     },
     {
       "ticker": "ARM",
@@ -168,7 +168,7 @@
       "market_cap": 405202332977,
       "volume": 10423618,
       "signal": "BUY",
-      "rsi": 64.02
+      "rsi": 63.81
     },
     {
       "ticker": "KLAC",
@@ -180,7 +180,7 @@
       "market_cap": 332499283183,
       "volume": 10325655,
       "signal": "STRONG BUY",
-      "rsi": 75.12
+      "rsi": 75.63
     },
     {
       "ticker": "AMAT",
@@ -192,7 +192,7 @@
       "market_cap": 450373486667,
       "volume": 7166551,
       "signal": "STRONG BUY",
-      "rsi": 74.02
+      "rsi": 74.01
     },
     {
       "ticker": "LRCX",
@@ -204,7 +204,7 @@
       "market_cap": 458710207536,
       "volume": 9910804,
       "signal": "STRONG BUY",
-      "rsi": 68.99
+      "rsi": 68.54
     },
     {
       "ticker": "MU",
@@ -216,19 +216,19 @@
       "market_cap": 1106995005282,
       "volume": 50870790,
       "signal": "BUY",
-      "rsi": 61.14
+      "rsi": 60.77
     },
     {
       "ticker": "IONQ",
       "name": "IonQ Inc.",
       "sector": "Quantum",
-      "price": 57.84,
-      "change": -0.15,
-      "change_pct": -0.2587,
-      "market_cap": 21589933849,
+      "price": 57.85,
+      "change": -0.14,
+      "change_pct": -0.2414,
+      "market_cap": 21593665922,
       "volume": 30169235,
       "signal": "NEUTRAL",
-      "rsi": 50.04
+      "rsi": 50.0
     },
     {
       "ticker": "RGTI",
@@ -239,20 +239,20 @@
       "change_pct": 1.6966,
       "market_cap": 6973726818,
       "volume": 39571207,
-      "signal": "BUY",
-      "rsi": 49.92
+      "signal": "NEUTRAL",
+      "rsi": 49.4
     },
     {
       "ticker": "IBM",
       "name": "IBM Corporation",
       "sector": "Quantum",
-      "price": 272.205,
-      "change": -2.645,
-      "change_pct": -0.9623,
-      "market_cap": 255841460021,
+      "price": 272.24,
+      "change": -2.61,
+      "change_pct": -0.9496,
+      "market_cap": 255874359448,
       "volume": 7898534,
       "signal": "BUY",
-      "rsi": 53.36
+      "rsi": 53.0
     },
     {
       "ticker": "HON",
@@ -264,7 +264,7 @@
       "market_cap": 139600117099,
       "volume": 4190973,
       "signal": "SELL",
-      "rsi": 49.34
+      "rsi": 49.47
     },
     {
       "ticker": "ISRG",
@@ -276,7 +276,7 @@
       "market_cap": 145582176967,
       "volume": 2169407,
       "signal": "STRONG SELL",
-      "rsi": 40.55
+      "rsi": 40.42
     },
     {
       "ticker": "CGNX",
@@ -288,7 +288,7 @@
       "market_cap": 10585941379,
       "volume": 2158443,
       "signal": "BUY",
-      "rsi": 52.98
+      "rsi": 52.84
     },
     {
       "ticker": "TER",
@@ -300,7 +300,7 @@
       "market_cap": 63117801629,
       "volume": 3551890,
       "signal": "STRONG BUY",
-      "rsi": 57.53
+      "rsi": 57.52
     },
     {
       "ticker": "SYM",
@@ -312,19 +312,19 @@
       "market_cap": 5295977695,
       "volume": 1869745,
       "signal": "SELL",
-      "rsi": 34.92
+      "rsi": 34.46
     },
     {
       "ticker": "ROK",
       "name": "Rockwell Automation",
       "sector": "Robotics",
-      "price": 459.2066,
-      "change": 1.6166,
-      "change_pct": 0.3533,
-      "market_cap": 51097734071,
+      "price": 459.34,
+      "change": 1.75,
+      "change_pct": 0.3824,
+      "market_cap": 51112577163,
       "volume": 779957,
       "signal": "STRONG BUY",
-      "rsi": 56.15
+      "rsi": 56.71
     },
     {
       "ticker": "TSLA",
@@ -335,8 +335,8 @@
       "change_pct": 1.8239,
       "market_cap": 1526438825382,
       "volume": 58918432,
-      "signal": "SELL",
-      "rsi": 47.86
+      "signal": "NEUTRAL",
+      "rsi": 48.88
     },
     {
       "ticker": "MBLY",
@@ -348,7 +348,7 @@
       "market_cap": 7866018685,
       "volume": 6517081,
       "signal": "SELL",
-      "rsi": 47.32
+      "rsi": 46.08
     },
     {
       "ticker": "AUR",
@@ -360,7 +360,7 @@
       "market_cap": 12022175160,
       "volume": 26131631,
       "signal": "NEUTRAL",
-      "rsi": 41.81
+      "rsi": 42.73
     },
     {
       "ticker": "LAZR",
@@ -386,25 +386,25 @@
       "ticker": "JOBY",
       "name": "Joby Aviation",
       "sector": "Autonomous",
-      "price": 9.16,
-      "change": -0.2,
-      "change_pct": -2.1368,
-      "market_cap": 9010168374,
+      "price": 9.15,
+      "change": -0.21,
+      "change_pct": -2.2436,
+      "market_cap": 9000331720,
       "volume": 27544207,
       "signal": "SELL",
-      "rsi": 40.26
+      "rsi": 40.05
     },
     {
       "ticker": "MDT",
       "name": "Medtronic plc",
       "sector": "BCI",
-      "price": 80.18,
-      "change": -0.15,
-      "change_pct": -0.1867,
-      "market_cap": 102941896805,
+      "price": 80.2,
+      "change": -0.13,
+      "change_pct": -0.1618,
+      "market_cap": 102967570194,
       "volume": 9825685,
       "signal": "NEUTRAL",
-      "rsi": 52.89
+      "rsi": 53.28
     },
     {
       "ticker": "CRSP",
@@ -416,7 +416,7 @@
       "market_cap": 4904509499,
       "volume": 1751146,
       "signal": "SELL",
-      "rsi": 45.16
+      "rsi": 44.73
     },
     {
       "ticker": "BEAM",
@@ -440,7 +440,7 @@
       "market_cap": 19803602126,
       "volume": 6562198,
       "signal": "STRONG BUY",
-      "rsi": 53.84
+      "rsi": 53.72
     },
     {
       "ticker": "BNTX",
@@ -452,7 +452,7 @@
       "market_cap": 22896141222,
       "volume": 1012181,
       "signal": "NEUTRAL",
-      "rsi": 48.26
+      "rsi": 48.4
     },
     {
       "ticker": "ILMN",
@@ -464,7 +464,7 @@
       "market_cap": 24354761184,
       "volume": 1647981,
       "signal": "BUY",
-      "rsi": 60.16
+      "rsi": 58.92
     },
     {
       "ticker": "RXRX",
@@ -476,7 +476,7 @@
       "market_cap": 1671900974,
       "volume": 15480551,
       "signal": "SELL",
-      "rsi": 46.52
+      "rsi": 46.1
     },
     {
       "ticker": "RKLB",
@@ -488,7 +488,7 @@
       "market_cap": 63975188871,
       "volume": 25744539,
       "signal": "SELL",
-      "rsi": 43.92
+      "rsi": 43.69
     },
     {
       "ticker": "ASTS",
@@ -500,7 +500,7 @@
       "market_cap": 24619690517,
       "volume": 19439248,
       "signal": "SELL",
-      "rsi": 43.38
+      "rsi": 43.24
     },
     {
       "ticker": "LUNR",
@@ -512,7 +512,7 @@
       "market_cap": 4271240600,
       "volume": 15371228,
       "signal": "SELL",
-      "rsi": 42.51
+      "rsi": 42.28
     },
     {
       "ticker": "CRWD",
@@ -524,19 +524,19 @@
       "market_cap": 173816855988,
       "volume": 3521643,
       "signal": "BUY",
-      "rsi": 59.01
+      "rsi": 58.72
     },
     {
       "ticker": "S",
       "name": "SentinelOne",
       "sector": "Cybersecurity",
-      "price": 14.86,
-      "change": 0.1,
-      "change_pct": 0.6775,
-      "market_cap": 5094063206,
+      "price": 14.85,
+      "change": 0.09,
+      "change_pct": 0.6098,
+      "market_cap": 5090635417,
       "volume": 8691762,
       "signal": "SELL",
-      "rsi": 39.45
+      "rsi": 39.3
     },
     {
       "ticker": "PANW",
@@ -548,7 +548,7 @@
       "market_cap": 227890296020,
       "volume": 8359215,
       "signal": "BUY",
-      "rsi": 64.65
+      "rsi": 64.84
     },
     {
       "ticker": "ZS",
@@ -560,19 +560,19 @@
       "market_cap": 20944618368,
       "volume": 4238053,
       "signal": "SELL",
-      "rsi": 42.62
+      "rsi": 42.78
     },
     {
       "ticker": "NET",
       "name": "Cloudflare Inc.",
       "sector": "Cybersecurity",
-      "price": 228.53,
-      "change": 1.09,
-      "change_pct": 0.4792,
-      "market_cap": 81114338127,
+      "price": 228.48,
+      "change": 1.04,
+      "change_pct": 0.4573,
+      "market_cap": 81096590066,
       "volume": 4469248,
       "signal": "NEUTRAL",
-      "rsi": 48.91
+      "rsi": 49.57
     },
     {
       "ticker": "CEG",
@@ -584,31 +584,31 @@
       "market_cap": 90618205872,
       "volume": 3372660,
       "signal": "SELL",
-      "rsi": 39.34
+      "rsi": 39.88
     },
     {
       "ticker": "SMR",
       "name": "NuScale Power",
       "sector": "Energy Tech",
-      "price": 9.91,
-      "change": 0.34,
-      "change_pct": 3.5528,
-      "market_cap": 3429908276,
+      "price": 9.89,
+      "change": 0.32,
+      "change_pct": 3.3438,
+      "market_cap": 3422986332,
       "volume": 32148928,
       "signal": "SELL",
-      "rsi": 41.49
+      "rsi": 41.08
     },
     {
       "ticker": "GEV",
       "name": "GE Vernova",
       "sector": "Energy Tech",
-      "price": 939.92,
-      "change": 33.13,
-      "change_pct": 3.6535,
-      "market_cap": 252575293108,
+      "price": 940.66,
+      "change": 33.87,
+      "change_pct": 3.7352,
+      "market_cap": 252774143280,
       "volume": 2600314,
       "signal": "NEUTRAL",
-      "rsi": 44.13
+      "rsi": 44.11
     },
     {
       "ticker": "FSLR",
@@ -620,19 +620,19 @@
       "market_cap": 28723358201,
       "volume": 2426851,
       "signal": "BUY",
-      "rsi": 53.27
+      "rsi": 52.45
     },
     {
       "ticker": "CCJ",
       "name": "Cameco Corporation",
       "sector": "Energy Tech",
-      "price": 100.965,
-      "change": 1.995,
-      "change_pct": 2.0158,
-      "market_cap": 43973585528,
+      "price": 100.96,
+      "change": 1.99,
+      "change_pct": 2.0107,
+      "market_cap": 43971409060,
       "volume": 3283157,
       "signal": "SELL",
-      "rsi": 41.44
+      "rsi": 41.73
     },
     {
       "ticker": "COIN",
@@ -644,7 +644,7 @@
       "market_cap": 42095760869,
       "volume": 10195176,
       "signal": "SELL",
-      "rsi": 40.92
+      "rsi": 40.3
     },
     {
       "ticker": "MSTR",
@@ -656,7 +656,7 @@
       "market_cap": 43801221413,
       "volume": 18608068,
       "signal": "SELL",
-      "rsi": 37.13
+      "rsi": 37.22
     },
     {
       "ticker": "MARA",
@@ -668,7 +668,7 @@
       "market_cap": 5368288653,
       "volume": 44494520,
       "signal": "STRONG BUY",
-      "rsi": 56.22
+      "rsi": 56.28
     },
     {
       "ticker": "TTD",
@@ -680,7 +680,7 @@
       "market_cap": 9063689522,
       "volume": 19740803,
       "signal": "SELL",
-      "rsi": 40.53
+      "rsi": 39.94
     },
     {
       "ticker": "BRZE",
@@ -692,19 +692,19 @@
       "market_cap": 2439601933,
       "volume": 3314176,
       "signal": "SELL",
-      "rsi": 45.38
+      "rsi": 44.48
     },
     {
       "ticker": "HUBS",
       "name": "HubSpot Inc.",
       "sector": "Marketing Tech",
-      "price": 188.1,
-      "change": 1.67,
-      "change_pct": 0.8958,
-      "market_cap": 9628972487,
+      "price": 187.98,
+      "change": 1.55,
+      "change_pct": 0.8314,
+      "market_cap": 9622829071,
       "volume": 1779832,
       "signal": "SELL",
-      "rsi": 40.91
+      "rsi": 40.74
     },
     {
       "ticker": "AAPL",
@@ -716,43 +716,43 @@
       "market_cap": 4275930023995,
       "volume": 46573101,
       "signal": "NEUTRAL",
-      "rsi": 43.76
+      "rsi": 44.05
     },
     {
       "ticker": "U",
       "name": "Unity Technologies",
       "sector": "XR",
-      "price": 27.23,
-      "change": 0.52,
-      "change_pct": 1.9468,
-      "market_cap": 11886847768,
+      "price": 27.24,
+      "change": 0.53,
+      "change_pct": 1.9843,
+      "market_cap": 11891213218,
       "volume": 12569885,
       "signal": "SELL",
-      "rsi": 48.5
+      "rsi": 47.89
     },
     {
       "ticker": "RBLX",
       "name": "Roblox Corporation",
       "sector": "XR",
-      "price": 43.315,
-      "change": -0.175,
-      "change_pct": -0.4024,
-      "market_cap": 31012618356,
+      "price": 43.31,
+      "change": -0.18,
+      "change_pct": -0.4139,
+      "market_cap": 31009040429,
       "volume": 10868609,
       "signal": "SELL",
-      "rsi": 43.29
+      "rsi": 43.08
     },
     {
       "ticker": "TM",
       "name": "Toyota Motor",
       "sector": "Robotics & Auto",
-      "price": 174.99,
-      "change": 0.04,
-      "change_pct": 0.0229,
-      "market_cap": 228071187650,
+      "price": 174.95,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_cap": 228019042979,
       "volume": 433760,
       "signal": "SELL",
-      "rsi": 33.96
+      "rsi": 33.53
     },
     {
       "ticker": "WDC",
@@ -764,31 +764,31 @@
       "market_cap": 194030184385,
       "volume": 7754957,
       "signal": "BUY",
-      "rsi": 61.7
+      "rsi": 61.39
     },
     {
       "ticker": "ETN",
       "name": "Eaton Corporation",
       "sector": "Energy Tech",
-      "price": 391.513,
-      "change": -2.127,
-      "change_pct": -0.5403,
-      "market_cap": 152024498089,
+      "price": 391.39,
+      "change": -2.25,
+      "change_pct": -0.5716,
+      "market_cap": 151976742687,
       "volume": 2593200,
       "signal": "SELL",
-      "rsi": 46.44
+      "rsi": 46.69
     },
     {
       "ticker": "PWR",
       "name": "Quanta Services",
       "sector": "Energy Tech",
-      "price": 708.115,
-      "change": 24.825,
-      "change_pct": 3.6332,
-      "market_cap": 106259840943,
+      "price": 707.74,
+      "change": 24.45,
+      "change_pct": 3.5783,
+      "market_cap": 106203568387,
       "volume": 1136639,
       "signal": "BUY",
-      "rsi": 51.02
+      "rsi": 51.59
     }
   ]
 }
