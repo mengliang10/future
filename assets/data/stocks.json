@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T19:25:55Z",
+  "updated": "2026-06-14T20:47:38Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -743,29 +743,40 @@
       "rsi": 43.08
     },
     {
+      "ticker": "TM",
+      "name": "Toyota Motor",
+      "sector": "Robotics & Auto",
+      "price": 174.95,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_cap": 228019042979,
+      "volume": 438034,
+      "signal": "SELL",
+      "rsi": 33.53
+    },
+    {
+      "ticker": "WDC",
+      "name": "Western Digital Corp.",
+      "sector": "Hardware",
+      "price": 562.93,
+      "change": 33.64,
+      "change_pct": 6.3557,
+      "market_cap": 194031909479,
+      "volume": 7768378,
+      "signal": "BUY",
+      "rsi": 61.39
+    },
+    {
       "ticker": "ETN",
-      "name": "Eaton",
+      "name": "Eaton Corporation",
       "sector": "Energy Tech",
       "price": 391.39,
       "change": -2.25,
       "change_pct": -0.5716,
       "market_cap": 151976742687,
       "volume": 2589229,
-      "rsi": 57.2,
-      "sma20": 396.83,
-      "sma50": 401.21,
-      "ret_30d": -4.09,
-      "timing_quality": 93.0,
-      "timing_action": "FULL",
-      "timing_detail": "ext=7 ob=5 rsi=44",
-      "regime": "TRENDING_UP",
-      "regime_confidence": 0.55,
-      "alpha_signal": "NEUTRAL",
-      "alpha_bullish_pct": 60.0,
-      "alpha_detail": "3/5 bullish",
-      "factor_score": 75,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "SELL",
+      "rsi": 46.69
     },
     {
       "ticker": "PWR",
