@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T22:08:45Z",
+  "updated": "2026-06-16T23:58:51Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -479,18 +479,6 @@
       "rsi": 47.11
     },
     {
-      "ticker": "SPCX",
-      "name": "SpaceX",
-      "sector": "Space Tech",
-      "price": 208.0,
-      "change": 10.6,
-      "change_pct": 5.37,
-      "market_cap": 2080000000000,
-      "volume": 50000000,
-      "signal": "NEUTRAL",
-      "rsi": 64.0
-    },
-    {
       "ticker": "RKLB",
       "name": "Rocket Lab USA",
       "sector": "Space Tech",
@@ -665,7 +653,7 @@
       "price": 122.81,
       "change": -8.33,
       "change_pct": -6.352,
-      "market_cap": 43391367603,
+      "market_cap": 43604142433,
       "volume": 18574315,
       "signal": "STRONG SELL",
       "rsi": 38.44
