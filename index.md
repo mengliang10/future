@@ -5,12 +5,12 @@ title: Home
 
 <section class="hero">
   <div class="hero-left">
-    <p class="hero-eyebrow">Future Trends: Powered by Data</p>
+    <p class="hero-eyebrow">Future Trends: Powered by Data &middot; Updated {{ 'now' | date: "%b %d, %Y" }}</p>
     <h1 class="hero-title">The future of technology &amp; AI today.</h1>
-    <p class="hero-sub">Precise, actionable intelligence on semiconductors, AI, quantum computing, and the technologies shaping tomorrow. Linked to stocks, roadmaps, and real money.</p>
+    <p class="hero-sub">Precise, actionable intelligence on semiconductors, AI, quantum computing, space economy, and the technologies shaping tomorrow. 212+ technology nodes tracked across 14 sectors. Linked to stocks, roadmaps, and real money.</p>
     <div class="hero-actions">
       <a href="{{ '/stocks/' | relative_url }}" class="btn btn-primary">View All Stocks</a>
-      <a href="{{ '/sectors/ai/' | relative_url }}" class="btn btn-outline">Explore AI Sector</a>
+      <a href="{{ '/tech/' | relative_url }}" class="btn btn-outline">Explore 212+ Technologies</a>
     </div>
   </div>
   <div class="hero-right">
@@ -28,6 +28,43 @@ title: Home
     </div>
   </div>
 </section>
+
+<!-- Market Pulse -->
+<div class="section-heading">
+  <h2>Market Pulse</h2>
+  <span class="section-sub">Key themes shaping frontier technology markets right now.</span>
+</div>
+
+<div class="pulse-grid">
+  <div class="pulse-card">
+    <div class="pulse-card-icon">🚀</div>
+    <div class="pulse-card-content">
+      <div class="pulse-card-title">SpaceX Goes Public</div>
+      <div class="pulse-card-desc">SPCX IPO marks the largest tech listing in history. Zephirin Group initiates Buy at $310. Index inclusion forcing institutional accumulation.</div>
+    </div>
+  </div>
+  <div class="pulse-card">
+    <div class="pulse-card-icon">🏦</div>
+    <div class="pulse-card-content">
+      <div class="pulse-card-title">FOMC Hawkish Pivot</div>
+      <div class="pulse-card-desc">40% of fund managers now expect a rate hike within 12 months. Warsh chairs first Fed meeting. Dot plot is the binary event.</div>
+    </div>
+  </div>
+  <div class="pulse-card">
+    <div class="pulse-card-icon">🧠</div>
+    <div class="pulse-card-content">
+      <div class="pulse-card-title">AI Capex Supercycle</div>
+      <div class="pulse-card-desc">NVDA issues first $25B bond. MU +10% on memory surge. ORCL commits 103% capex/revenue. GS says TSM undervalued on AI demand.</div>
+    </div>
+  </div>
+  <div class="pulse-card">
+    <div class="pulse-card-icon">🛢️</div>
+    <div class="pulse-card-content">
+      <div class="pulse-card-title">Hormuz Deal &amp; Oil Below $80</div>
+      <div class="pulse-card-desc">US-Iran interim deal reopens Strait of Hormuz. Brent drops below $80 for first time since March. Tanker CEOs say normalization is weeks away.</div>
+    </div>
+  </div>
+</div>
 
 <!-- Sector Explorer -->
 <div class="section-heading">

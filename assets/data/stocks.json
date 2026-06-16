@@ -479,6 +479,18 @@
       "rsi": 47.11
     },
     {
+      "ticker": "SPCX",
+      "name": "SpaceX",
+      "sector": "Space Tech",
+      "price": 208.0,
+      "change": 10.6,
+      "change_pct": 5.37,
+      "market_cap": 2080000000000,
+      "volume": 50000000,
+      "signal": "NEUTRAL",
+      "rsi": 64.0
+    },
+    {
       "ticker": "RKLB",
       "name": "Rocket Lab USA",
       "sector": "Space Tech",

@@ -13,7 +13,9 @@ permalink: /sectors/space/
 
 ## Why This Sector Matters
 
-Reusability was the unlock. When SpaceX proved Falcon 9 first-stage recovery in 2015, it triggered a structural regime change identical to what AWS did to enterprise IT. Fixed infrastructure costs become variable; marginal launch cost approaches zero. That shift opened LEO satellite constellations, small-sat rideshare, and eventually Starship: which aims to make Mars transit an engineering problem rather than a physics one. The listed equities today are dominated by defence contractors and early commercial operators; the infrastructure they build is the foundation of the space economy regardless of which payload or application wins.
+Reusability was the unlock. When SpaceX proved Falcon 9 first-stage recovery in 2015, it triggered a structural regime change identical to what AWS did to enterprise IT. Fixed infrastructure costs become variable; marginal launch cost approaches zero. That shift opened LEO satellite constellations, small-sat rideshare, and Starship.
+
+**June 2026: SpaceX is now public (SPCX).** The largest tech listing in history. Zephirin Group initiated coverage at Buy with a $310 price target. Index inclusion is forcing institutional accumulation. Insider lockups (Musk: 1 year minimum) suppress near-term selling pressure. The post-IPO rally has stretched over three consecutive sessions with retail and institutional demand both strong.
 
 ---
 
@@ -88,10 +90,29 @@ Reusability was the unlock. When SpaceX proved Falcon 9 first-stage recovery in 
 
 ---
 
+## SPCX: The SpaceX Public Listing
+
+<div class="callout callout-info" style="margin-top:1rem;">
+  <span class="callout-icon">🚀</span>
+  <span><strong>June 2026:</strong> SpaceX completed its IPO (ticker: SPCX). Key facts: Zephirin Group Buy rating, $310 PT. Insider lockup (Musk ~1 year) prevents near-term selling. Index inclusion forcing institutional bid. Currently trading ~$208 with analyst target implying ~49% upside.</span>
+</div>
+
+### SPCX Investment Thesis (Practitioner-Level)
+
+- **Momentum-driven, not fundamental**: Currently a "momentum hot potato" driven by algos and index inclusion mechanics, not earnings
+- **Bearish trigger: below $185-190**: Only turns bearish if it starts taking offers below this level
+- **Upside target: $222-230**: If 180 floor holds, momentum could push to $222-230+
+- **Elon floor strategy**: Elon engineering a permanent floor at $1.5-2 trillion market cap — learning from TSLA volatility
+- **Structural support**: Insider lockups prevent selling pressure for 1+ year; index funds are forced buyers
+- **Key risk**: The only company worth over $1 trillion that doesn't turn a profit (losing billions/year)
+
+---
+
 ## Key Stocks
 
 | Ticker | Company | Role | Confidence |
 |--------|---------|------|------------|
+| **SPCX** | **SpaceX** | **Heavy launch, Starlink, Starship, Mars** | <span class="conf-badge conf-confirmed">Confirmed</span> |
 | [RKLB](/future/stocks/rklb/) | Rocket Lab | Small/medium launch + spacecraft | <span class="conf-badge conf-confident">Confident</span> |
 | [ASTS](/future/stocks/asts/) | AST SpaceMobile | Direct-to-phone satellite broadband | <span class="conf-badge conf-researching">Researching</span> |
 | [LUNR](/future/stocks/lunr/) | Intuitive Machines | Lunar landing + surface services | <span class="conf-badge conf-researching">Researching</span> |
@@ -103,6 +124,8 @@ Reusability was the unlock. When SpaceX proved Falcon 9 first-stage recovery in 
 ## Causal Signals
 
 - **NASA contract announcements** (CLPS lunar delivery, Gateway contracts, Artemis programme milestones) are discrete catalysts. Watch Congressional appropriations for NASA: under-funding slows the commercial pull.
+- **SPCX price discovery & index inclusion**: post-IPO price discovery is the dominant near-term signal. Nasdaq/Russell index inclusion forces $billions in passive accumulation. Watch for insider selling windows (first earnings cycle).
+- **KeyBanc: RKLB upgraded to Overweight PT $135** — post-SPCX selloff created relative value. NASA activity at Apollo-era pace. Launch supply structurally constrained.
 - **SpaceX Starship orbital flight success**: each successful integrated Starship flight improves the commercial case for Rocket Lab's Neutron (as Starship validates the market for heavy-lift) and for the entire ecosystem of payloads that require large-format fairing.
 - **Satellite launch cadence**: constellation operators that miss launch schedules face delayed revenue and subscriber growth. ASTS's commercial satellite launch count (currently targeted 60+ for continuous coverage) is the most critical near-term milestone for that name.
 - **Defence budget posture**: Space Force and DoD space programme budgets are disclosed in NDAA and budget requests. Rising USSF spend is a direct tailwind for KTOS, NOC, and satellite ground system vendors.
