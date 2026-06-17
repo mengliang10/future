@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T21:30:00Z",
+  "updated": "2026-06-17T23:00:29Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -153,7 +153,7 @@
       "price": 289.54,
       "change": 10.87,
       "change_pct": 3.9007,
-      "market_cap": 253507673191,
+      "market_cap": 253289599475,
       "volume": 35933720,
       "signal": "BUY",
       "rsi": 61.16
@@ -533,7 +533,7 @@
       "price": 14.8,
       "change": -0.23,
       "change_pct": -1.5303,
-      "market_cap": 5053935115,
+      "market_cap": 5073495165,
       "volume": 8284495,
       "signal": "SELL",
       "rsi": 39.82
@@ -753,6 +753,18 @@
       "volume": 446528,
       "signal": "STRONG SELL",
       "rsi": 35.08
+    },
+    {
+      "ticker": "WDC",
+      "name": "Western Digital Corp.",
+      "sector": "Hardware",
+      "price": 712.13,
+      "change": 31.05,
+      "change_pct": 4.5589,
+      "market_cap": 245458487632,
+      "volume": 7903015,
+      "signal": "STRONG BUY",
+      "rsi": 75.73
     },
     {
       "ticker": "ETN",
