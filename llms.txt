@@ -1,0 +1,17 @@
+# Future Trends: Technology Intelligence & Financial Exposure
+> Programmatic research indexing 212+ frontier technology nodes across 14 sectors. Linked to listed equities, dependency roadmaps, and confidence scores.
+
+## Core Indices
+- [Technology Index](/future/tech/): Comprehensive listing of all tracked technology nodes with confidence ratings and stage parameters.
+- [Market Exposure Index](/future/stocks/): Real-time financial indices tracking listed equities exposed to frontier technology bottlenecks.
+- [Sector Briefings](/future/sectors/): Aggregated sector overviews covering AI, semiconductors, quantum computing, space, energy, and robotics.
+
+## Sector Deep-Dives
+- [Artificial Intelligence](/future/sectors/ai/): Foundation models, agent swarms, and compute clusters.
+- [Semiconductors](/future/sectors/semiconductors/): Foundries, packaging, process nodes, and supply chain.
+- [Quantum Computing](/future/sectors/quantum/): Qubit systems, quantum sensing, and error correction.
+- [Space Economy](/future/sectors/space/): Launch systems, satellite internet, and space-based manufacturing.
+- [Future Energy](/future/sectors/energy/): Fusion, SMRs, grid storage, and data center power.
+
+## Research Methodology
+- [Methodology](/future/about/): Detailed overview of the data ingestion pipelines, dependency graph schema, and Bayesian confidence updates.

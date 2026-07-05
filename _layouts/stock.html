@@ -165,3 +165,38 @@ layout: default
   color: var(--text-3);
 }
 </style>
+
+<!-- JSON-LD Structured Data Injection for Financial Exposure Pages -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsArticle",
+      "@id": "{{ page.url | absolute_url }}#newsarticle",
+      "headline": "{{ page.name }} ({{ page.symbol }}) Market Analysis",
+      "description": "Frontier technology exposure analysis and market positioning for {{ page.name }}.",
+      "dateModified": "{{ 'now' | date: '%Y-%m-%d' }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.author.name | default: 'Tan Meng Liang' }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.title | default: 'Future Trends' }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ '/assets/images/favicon.svg' | absolute_url }}"
+        }
+      }
+    },
+    {
+      "@type": "FinancialProduct",
+      "@id": "{{ page.url | absolute_url }}#financialproduct",
+      "name": "{{ page.name }} Common Stock",
+      "tickerSymbol": "{{ page.symbol }}",
+      "exchange": "{{ page.exchange }}"
+    }
+  ]
+}
+</script>

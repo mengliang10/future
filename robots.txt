@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mengliang10.github.io/future/sitemap.xml
+llms: https://mengliang10.github.io/future/llms.txt

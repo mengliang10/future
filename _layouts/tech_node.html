@@ -50,10 +50,140 @@ layout: default
   </div>
   {% endif %}
 </div>
+<!-- AIO / GEO Summary Block (Top of Content) -->
+<div class="aio-summary" style="background: var(--bg-2); border-left: 4px solid var(--accent); padding: 1.25rem; margin-bottom: 2rem; border-radius: 4px;">
+  <p style="margin: 0; font-size: 1.02rem; line-height: 1.6; color: var(--text-1);">
+    <strong>{{ page.title }}</strong> is in the <strong>{{ page.stage | replace: '_', ' ' | capitalize }}</strong> stage as of <strong>{{ page.est_year | default: "2026" }}</strong>, with <strong>{{ page.source_count | default: "multiple" }}</strong> independent sources tracked in our research database.
+    {% if page.subtitle %}{{ page.subtitle | capitalize }}.{% endif %}
+    {% if page.est_year_range %}Commercial deployment is estimated to occur within the <strong>{{ page.est_year_range }}</strong> timeframe.{% endif %}
+    {% if page.confidence_label %}Confidence rating is currently marked as <strong>{{ page.confidence_label }}</strong>.{% endif %}
+  </p>
+</div>
 
 <div class="tech-node-body">
   {{ content }}
 </div>
+
+<!-- AEO FAQ Section (Bottom of Content) -->
+<section class="faq-section" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);" itemscope itemtype="https://schema.org/FAQPage">
+  <h2 style="font-size: 1.15rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-3); margin-bottom: 1.5rem;">Frequently Asked Questions</h2>
+  
+  <div class="faq-item" style="margin-bottom: 1.5rem;" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h3 style="font-size: 1rem; color: var(--text-1); margin-bottom: 0.5rem;" itemprop="name">What is {{ page.title }}?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <p style="color: var(--text-2); line-height: 1.6; margin: 0;" itemprop="text">
+        {{ page.subtitle | default: "A key technology component tracked in the Future Trends research index." }}
+      </p>
+    </div>
+  </div>
+
+  <div class="faq-item" style="margin-bottom: 1.5rem;" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h3 style="font-size: 1rem; color: var(--text-1); margin-bottom: 0.5rem;" itemprop="name">When is the estimated deployment timeframe for {{ page.title }}?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <p style="color: var(--text-2); line-height: 1.6; margin: 0;" itemprop="text">
+        {% if page.est_year_range %}
+          Commercial deployment is projected to emerge in the <strong>{{ page.est_year_range }}</strong> window.
+        {% elsif page.est_year %}
+          Commercial deployment is projected to emerge starting in <strong>{{ page.est_year }}</strong>.
+        {% else %}
+          Timeline is currently under assessment based on early research indicators.
+        {% endif %}
+      </p>
+    </div>
+  </div>
+
+  {% if page.stocks and page.stocks.size > 0 %}
+  <div class="faq-item" style="margin-bottom: 1.5rem;" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h3 style="font-size: 1rem; color: var(--text-1); margin-bottom: 0.5rem;" itemprop="name">Which stocks are exposed to {{ page.title }}?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <p style="color: var(--text-2); line-height: 1.6; margin: 0;" itemprop="text">
+        Companies with exposure to this technology in our database include: 
+        <strong>{{ page.stocks | join: ", " }}</strong>.
+      </p>
+    </div>
+  </div>
+  {% endif %}
+</section>
+
+<!-- JSON-LD Structured Data Injection -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "TechArticle",
+      "@id": "{{ page.url | absolute_url }}#techarticle",
+      "headline": "{{ page.title }}",
+      "description": "{{ page.subtitle | default: page.title }}",
+      "dateModified": "{{ 'now' | date: '%Y-%m-%d' }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.author.name | default: 'Tan Meng Liang' }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.title | default: 'Future Trends' }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ '/assets/images/favicon.svg' | absolute_url }}"
+        }
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "{{ page.title }}",
+        "description": "{{ page.subtitle | default: page.title }}"
+      },
+      "keywords": "{{ page.category }}, {{ page.stage }}, {{ page.horizon }}",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".aio-summary", ".faq-section"]
+      }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "{{ page.url | absolute_url }}#dataset",
+      "name": "{{ page.title }} Development Dataset",
+      "description": "Factual status records and confidence metrics for {{ page.title }} tracked in the Future Trends pipeline.",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "temporalCoverage": "{{ page.est_year | default: '2026' }}/{% if page.est_year_range %}{{ page.est_year_range | split: '–' | last }}{% else %}2030{% endif %}",
+      "variableMeasured": "Commercial deployment stage and evidence sources",
+      "measurementTechnique": "Bayesian multi-source confidence compilation"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "{{ page.url | absolute_url }}#faqpage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is {{ page.title }}?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "{{ page.subtitle | default: 'A key technology component tracked in the Future Trends research index.' }}"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is the estimated deployment timeframe for {{ page.title }}?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "{% if page.est_year_range %}Commercial deployment is projected to emerge in the {{ page.est_year_range }} window.{% elsif page.est_year %}Commercial deployment is projected to emerge starting in {{ page.est_year }}.{% else %}Timeline is currently under assessment based on early research indicators.{% endif %}"
+          }
+        }
+        {% if page.stocks and page.stocks.size > 0 %}
+        ,{
+          "@type": "Question",
+          "name": "Which stocks are exposed to {{ page.title }}?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Companies with exposure to this technology in our database include: {{ page.stocks | join: ', ' }}."
+          }
+        }
+        {% endif %}
+      ]
+    }
+  ]
+}
+</script>
 
 {% if page.related %}
 <div class="tech-related">
