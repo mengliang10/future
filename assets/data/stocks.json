@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T11:24:44Z",
+  "updated": "2026-07-10T13:24:57Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -768,28 +768,15 @@
     },
     {
       "ticker": "ETN",
-      "name": "Eaton",
+      "name": "Eaton Corporation",
       "sector": "Energy Tech",
       "price": 405.83,
       "change": 6.27,
       "change_pct": 1.5692,
       "market_cap": 157583783786,
       "volume": 2601408,
-      "rsi": 41.8,
-      "sma20": 406.73,
-      "sma50": 405.5,
-      "ret_30d": 1.02,
-      "timing_quality": 95,
-      "timing_action": "FULL",
-      "timing_detail": "ext=1 ob=5 rsi=47",
-      "regime": "RANGE_BOUND",
-      "regime_confidence": 0.6,
-      "alpha_signal": "NEUTRAL",
-      "alpha_bullish_pct": 60.0,
-      "alpha_detail": "3/5 bullish",
-      "factor_score": 75,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "NEUTRAL",
+      "rsi": 49.89
     },
     {
       "ticker": "PWR",
@@ -800,21 +787,8 @@
       "change_pct": 0.2761,
       "market_cap": 100265687192,
       "volume": 1252841,
-      "rsi": 40.8,
-      "sma20": 695.57,
-      "sma50": 714.66,
-      "ret_30d": -3.42,
-      "timing_quality": 80,
-      "timing_action": "FULL",
-      "timing_detail": "ext=20 ob=5 rsi=47",
-      "regime": "TRENDING_UP",
-      "regime_confidence": 0.55,
-      "alpha_signal": "BEARISH",
-      "alpha_bullish_pct": 40.0,
-      "alpha_detail": "2/5 bullish",
-      "factor_score": 65,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "NEUTRAL",
+      "rsi": 43.79
     }
   ]
 }
