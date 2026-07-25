@@ -93,4 +93,22 @@ Amazon is the cloud layer on which AI runs. AWS is the largest cloud provider gl
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-trail">#3 · 50%</span> <span class="roadmap-rivals-sep">leader: <a href="/future/stocks/msft/">MSFT</a> 90%</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, extremely profitable.** Amazon's AWS cloud infrastructure division and high-margin digital advertising services generate over $35B in annual free cash flow. Core e-commerce operating margins are expanding due to regionalized shipping centers.
+
+### AI Monetization & Business Goals
+AWS aims to maintain its 32% market-share lead in global cloud infrastructure by monetizing full-stack AI services:
+* **Amazon Bedrock:** Hosting frontier models (Claude, Llama, Mistral) via unified APIs for enterprise clients.
+* **Trainium & Inferentia:** Developing custom matrix multiplier chips to offer cheap cloud alternatives to NVIDIA GPUs.
+
+### Capital Expenditure (Capex) Concerns
+Capex is scaling rapidly, exceeding $15B+ per quarter. This capital is dedicated to massive international datacenter acquisitions, fiber networks, and GPU/ASIC hardware infrastructure clusters.
+
+### Partnerships & Alliances
+* **Anthropic:** A strategic $8B investment/partnership, establishing AWS as Anthropic's primary cloud and chip partner.
+* **Open-Source Alliances:** Hosting key models via Bedrock partnerships.
+
+### Controversies & Headwinds
+* **FTC Antitrust Lawsuit:** Facing a major lawsuit alleging that Amazon illegally uses monopoly power to inflate consumer prices and penalize third-party sellers.\n

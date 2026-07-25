@@ -42,4 +42,22 @@ Detailed fundamental analysis and growth catalysts for CrowdStrike Holdings (CRW
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 92%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/s/">S</a> 88%</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, highly profitable.** CrowdStrike generates massive free cash flow, maintaining operating cash flow margins near 35-40% on recurring cybersecurity subscriptions.
+
+### AI Monetization & Business Goals
+Dominate enterprise endpoint security through the **Falcon Platform** by using AI to automate threat detection:
+* **Charlotte AI:** An AI analyst that allows security teams to query network data in natural language.
+* **Falcon Next-Gen SIEM:** Consolidating enterprise data logs to displace traditional security operations centers.
+
+### Capital Expenditure (Capex) Concerns
+Low capex software model. Spending is focused on R&D and scaling cloud detection capacity.
+
+### Partnerships & Alliances
+* **AWS & Google Cloud:** Strategic marketplace distributions.
+* **System Integrators:** Key partnerships with global consulting firms.
+
+### Controversies & Headwinds
+* **Global IT Outage (July 19, 2024):** A faulty sensor update crashed over 8.5 million Windows systems worldwide, causing billions in business disruptions, legal damage claims, and a severe near-term reputation hit.\n

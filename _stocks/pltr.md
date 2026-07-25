@@ -56,4 +56,22 @@ Palantir is the enterprise AI agent deployment platform for organisations that c
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-2nd">⚡ 2ND · 70%</span> <span class="roadmap-rivals-sep">behind <a href="/future/stocks/msft/">MSFT</a> 90% (−20pp)</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, profitable and expanding.** Palantir is highly profitable, achieving continuous GAAP net income profitability. It maintains gross margins above 80% with zero debt.
+
+### AI Monetization & Business Goals
+Palantir's core goal is to dominate enterprise AI deployment through its **Artificial Intelligence Platform (AIP)**. AIP enables corporations to integrate LLMs with their internal operational databases.
+* **Commercial Acceleration:** Driving 40%+ YoY growth in US commercial customer counts.
+* **Government Dominance:** Securing multi-year defense and intelligence contracts (e.g. Maven project).
+
+### Capital Expenditure (Capex) Concerns
+Palantir is a pure software provider. It has virtually no physical datacenter capital requirements, relying instead on cloud partnerships (AWS, Microsoft Azure) for scaling.
+
+### Partnerships & Alliances
+* **Microsoft:** Expanding Azure cloud hosting and government-isolated integrations for Palantir AIP.
+* **Oracle:** Multi-cloud hosting partnership to deliver AIP across Oracle Cloud Infrastructure.
+
+### Controversies & Headwinds
+* **Valuation Multiple Premium:** Trading at an extremely elevated trailing P/E multiple (~80-100x), leaving no margin for earnings growth deceleration.\n

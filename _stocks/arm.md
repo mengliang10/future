@@ -80,4 +80,22 @@ ARM Holdings is the royalty model that wins regardless of which chip architectur
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-trail">#6 · 70%</span> <span class="roadmap-rivals-sep">leader: <a href="/future/stocks/tsm/">TSM</a> 99%</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, highly profitable.** ARM operates an asset-light IP licensing model with gross margins near 95% and operating margins exceeding 45%. 
+
+### AI Monetization & Business Goals
+ARM aims to drive higher royalty fees per chip by transitioning the global smartphone and server market to its **v9 architecture** (which charges double the royalty rate of older v8 cores).
+* **NVIDIA Grace CPUs:** Leveraging ARM architecture for next-gen AI superchips.
+* **Windows on ARM:** Ramping AI PCs (Copilot+ PCs) utilizing Qualcomm ARM-based Snapdragon processors.
+
+### Capital Expenditure (Capex) Concerns
+As a pure IP licensor, ARM does not manufacture or design physical silicon, resulting in near-zero capital expenditures and very high FCF conversion rates.
+
+### Partnerships & Alliances
+* **NVIDIA:** Grace CPU integration.
+* **Qualcomm, Apple, & MediaTek:** Core architecture licensing partners.
+
+### Controversies & Headwinds
+* **Qualcomm Litigation:** Ongoing breach-of-contract lawsuit against Qualcomm over Nuvia CPU designs, presenting contract termination risks.\n

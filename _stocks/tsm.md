@@ -72,4 +72,22 @@ TSMC manufactures over 90% of the world's most advanced chips. There is no pract
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, exceptionally profitable.** TSMC maintains a gross margin above 53% and an operating margin near 42%, reflecting its dominance as the world's primary semiconductor foundry.
+
+### AI Monetization & Business Goals
+TSMC is the sole manufacturer of advanced AI logic. Every modern AI accelerator (NVIDIA Blackwell, AMD Instinct, Apple A18) is built exclusively by TSMC.
+* **CoWoS Advanced Packaging:** Expanding packaging capacity to resolve the bottleneck for global AI GPU shipments.
+* **2nm (N2) Node:** Ramping up production for 2025/2026 launch.
+
+### Capital Expenditure (Capex) Concerns
+Capex is massive, budgeted at $30B+ annually. Building advanced fabs in Arizona, Japan, and Germany is capital intensive but essential to diversify geopolitical risk.
+
+### Partnerships & Alliances
+* **NVIDIA & Apple:** Principal customers securing sole fabrication and packaging capacities.
+* **ASML:** Securing early priority deliveries of High-NA lithography tools.
+
+### Controversies & Headwinds
+* **Geopolitical Risk:** The threat of conflict or blockade in the Taiwan Strait creates a systemic supply chain vulnerability for the entire global technology sector.\n

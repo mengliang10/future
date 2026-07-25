@@ -68,4 +68,20 @@ ASML manufactures the EUV lithography machines that are required to make every c
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, extremely profitable.** ASML maintains a complete monopoly in Extreme Ultraviolet (EUV) lithography systems, driving operating margins of 32%+ and generating massive cash flow.
+
+### AI Monetization & Business Goals
+ASML is the prerequisite for all advanced semiconductor nodes. High-beta AI hardware (NVIDIA Blackwell, TSMC 2nm, Intel 18A) cannot be manufactured without ASML's **EUV and High-NA EUV lithography systems**.
+* **High-NA EUV:** Delivering next-gen systems (Twinscan EXE) to leading foundries at $350M+ per system.
+
+### Capital Expenditure (Capex) Concerns
+Capex is heavily focused on expanding factory capacity in Veldhoven to meet backlogged EUV shipments. The company's cash flow is protected by a massive multi-billion euro order backlog.
+
+### Partnerships & Alliances
+* **TSMC, Intel, & Samsung:** Core foundry partners that fund and secure advanced tool bookings years in advance.
+
+### Controversies & Headwinds
+* **Export Controls:** Facing strict US-led geopolitical curbs on exporting advanced DUV and EUV tools to China, impacting their largest geographic growth market.\n
