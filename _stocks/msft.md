@@ -81,4 +81,24 @@ Microsoft has the most comprehensive AI strategy of any large-cap. GitHub Copilo
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 90%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/pltr/">PLTR</a> 70% · <a href="/future/stocks/amzn/">AMZN</a> 50%</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, extremely profitable.** Microsoft is a cash-flow powerhouse. Driven by enterprise Office 365 SaaS and Azure Cloud growth, the company maintains operating margins of 43%+ and generates over $60B in annual free cash flow.
+
+### AI Monetization & Business Goals
+Microsoft aims to upsell AI subscriptions across its entire ecosystem:
+* **M365 Copilot:** Upselling enterprise customers at $30/user/month.
+* **GitHub Copilot:** Coding copilot driving over $2B in annualized revenue.
+* **Copilot Agent Mode:** Transitioning to autonomous multi-step software development agents.
+
+### Capital Expenditure (Capex) Concerns
+Capex is rising toward $14B+ per quarter. The company is aggressively investing in building datacenter space and leasing NVIDIA GPUs to meet massive Azure AI demand.
+
+### Partnerships & Alliances
+* **OpenAI:** A strategic $13B partnership giving Microsoft exclusive commercial cloud rights and IP access.
+* **Constellation Energy:** A landmark 20-year agreement to reopen the Three Mile Island nuclear facility (Crane Clean Energy Center) to secure carbon-free energy for AI centers.
+
+### Controversies & Headwinds
+* **Antitrust Scrutiny:** Regulatory investigations in the US and Europe regarding whether its OpenAI partnership behaves as a de-facto merger.
+* **Security Incidents:** Criticism from the US Cyber Safety Review Board following high-profile cloud exchange breaches by state-sponsored actors (Midnight Blizzard).\n

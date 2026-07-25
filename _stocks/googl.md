@@ -97,4 +97,25 @@ Alphabet's AI assets are uniquely concentrated: DeepMind (AlphaFold, AlphaProof,
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 85%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/msft/">MSFT</a> 85% · <a href="/future/stocks/nvda/">NVDA</a> 75% · <a href="/future/stocks/amzn/">AMZN</a> 60%</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, extremely profitable.** Google's core search advertising and YouTube business acts as an elite cash-flow engine, generating over $40B in annual free cash flow. The Google Cloud segment is highly profitable, growing at 28%+ YoY as it captures hyperscale AI workloads.
+
+### AI Monetization & Business Goals
+Google's primary goal is protecting its core search monopoly while scaling its AI capabilities. Key monetization channels include:
+* **Performance Max (PMax):** An automated AI campaign type driving over $40B in estimated revenue.
+* **Search Generative Ads:** Embedding sponsored results directly into AI Overview answers (estimated at $25B+ revenue potential).
+* **Agentic Ad Buying:** Launching autonomous AI agents that manage the full campaign lifecycle.
+
+### Capital Expenditure (Capex) Concerns
+Capex is rising dramatically, exceeding $12B per quarter. This spending is heavily focused on securing custom TPU ASICs and NVIDIA GPUs, alongside massive global datacenter footprint expansions.
+
+### Partnerships & Alliances
+* **Apple:** Partnered to integrate Gemini models natively into iOS (Apple Intelligence).
+* **Samsung:** Collaborating on Gemini Nano deployment across Galaxy mobile devices.
+* **XPRIZE & Range Media:** Partnering on the $3.5M Future Vision film competition.
+
+### Controversies & Headwinds
+* **DOJ Antitrust Probes:** Facing a landmark DOJ antitrust ruling declaring Google's search distribution agreements an illegal monopoly, plus a secondary active trial targeting its ad tech business.
+* **AI Hallucinations:** Ongoing public relations challenges regarding accuracy and bias in Gemini's conversational answers.\n

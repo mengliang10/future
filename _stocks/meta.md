@@ -55,4 +55,24 @@ Meta has the most valuable owned-and-operated social data for AI training, 3 bil
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, highly profitable.** Meta's advertising engine across Instagram, Facebook, and WhatsApp drives operating margins of 38%+, generating over $40B in annual free cash flow. This profitability led Meta to initiate its first-ever dividend.
+
+### AI Monetization & Business Goals
+Meta's core goal is to commoditize competitor software moats by releasing its **Llama frontier models** as open-weight, free infrastructure. AI monetization is executed through:
+* **Advantage+ Shopping:** AI-automated ad placement driving over $35B in revenue.
+* **Reels AI Placement:** Optimizing short-form video ad allocation to increase engagement and monetization rates.
+* **WhatsApp Click-to-Chat:** Rapidly growing messaging ad integration in emerging markets.
+
+### Capital Expenditure (Capex) Concerns
+Capex has been revised upward to $37B–$40B. This spending is dedicated to custom silicon development (MTIA) and expanding GPU server capacity to train Llama 4/5.
+
+### Partnerships & Alliances
+* **Luxottica:** Long-term design partnership for Ray-Ban Meta smart glasses.
+* **Broadcom:** Partnership for the co-development of custom MTIA chips.
+
+### Controversies & Headwinds
+* **FTC Antitrust Lawsuit:** Ongoing legal efforts by the FTC to force the divestiture of Instagram and WhatsApp.
+* **Youth Platform Safety:** Facing multi-district litigation from dozens of US states and school districts regarding platform addiction and mental health impacts.\n

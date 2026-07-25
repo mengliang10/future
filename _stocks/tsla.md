@@ -94,4 +94,24 @@ Tesla is a bet on three simultaneous transitions: EV mass market adoption, Optim
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-lead">↑ LEADING · 82%</span> <span class="roadmap-rivals-sep">vs <a href="/future/stocks/nvda/">NVDA</a> 55% · <a href="/future/stocks/arm/">ARM</a> 50%</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, profitable but margins are declining.** Tesla generates positive net income and free cash flow. However, its automotive gross margins have compressed from 25%+ to 14-16% due to price cuts in the global EV market.
+
+### AI Monetization & Business Goals
+Tesla is transitioning from an EV car builder to an autonomous robotics network:
+* **FSD (Full Self-Driving):** Monetizing unsupervised FSD software subscriptions.
+* **Robotaxi:** Launching an autonomous ride-hailing network.
+* **Optimus Humanoid:** Mass-producing humanoid robots for industrial use.
+
+### Capital Expenditure (Capex) Concerns
+Capex is high, focused on building the **Dojo supercomputer** and expanding massive GPU clusters (using 100k+ NVIDIA H100s) to train FSD models.
+
+### Partnerships & Alliances
+* **xAI:** Cooperating on compute sharing and AI modeling.
+* **Municipalities:** Seeking regulatory unlock approvals for driverless robotaxi operation.
+
+### Controversies & Headwinds
+* **NHTSA Investigations:** Ongoing federal safety investigations into Autopilot and FSD accidents.
+* **Cybertruck Ramping:** High production costs, delays, and multiple recalls.\n

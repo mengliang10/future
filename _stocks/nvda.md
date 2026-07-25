@@ -112,4 +112,23 @@ NVIDIA is the definitive infrastructure play of the AI era. The GPU has become t
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-supply">KEY SUPPLIER · 55%</span> <span class="roadmap-rivals-sep">enables: <a href="/future/stocks/tsla/">TSLA</a> 82% · <a href="/future/stocks/arm/">ARM</a> 50%</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, exceptionally profitable.** NVIDIA is experiencing historic profitability, with gross margins near 75-78% and net margins above 50%, driven by its monopoly in AI hardware.
+
+### AI Monetization & Business Goals
+Maintain its 90%+ share of the AI data center market while transitioning to new chip architectures:
+* **Hopper to Blackwell:** Ramping up the B100/B200 platforms.
+* **CUDA Lock-in:** Leveraging its software ecosystem to make switching to AMD or Intel impossible.
+* **Omniverse & Robotics:** Building the infrastructure for physical AI and industrial simulation.
+
+### Capital Expenditure (Capex) Concerns
+As a fabless chip designer, NVIDIA has very low capital expenditure requirements. Its primary costs are R&D and securing packaging capacity (CoWoS) from TSMC.
+
+### Partnerships & Alliances
+* **TSMC:** Heavily dependent on TSMC for fabrication and packaging.
+* **Server OEMs:** Partners like Supermicro, Dell, and HPE to package GPUs into rack solutions.
+
+### Controversies & Headwinds
+* **Antitrust Investigation:** Under active investigation by the DOJ and European regulators over allegations that NVIDIA penalizes customers who purchase competitor chips.\n

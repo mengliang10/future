@@ -93,4 +93,23 @@ Intel is the highest-risk, highest-potential re-rating story in semiconductors. 
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-trail">#7 · 60%</span> <span class="roadmap-rivals-sep">leader: <a href="/future/stocks/tsm/">TSM</a> 99%</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**No, financially strained.** Intel is experiencing net income losses, negative operating cash flows, and has suspended its historic dividend. Its foundry division is currently operating at an annual operating loss of over $7B.
+
+### AI Monetization & Business Goals
+Intel's primary goal is to establish **Intel Foundry Services (IFS)** as a major global fab alternative to TSMC, while selling Gaudi3 AI accelerators as budget alternatives to NVIDIA.
+* **Intel 18A Node:** Successfully ramping its 2nm-class node.
+* **Silicon Photonics:** Commercializing co-packaged optics (CPO) interconnects.
+
+### Capital Expenditure (Capex) Concerns
+Capex is an extreme burden, exceeding $20B annually. Building leading-edge fabs in Ohio, Oregon, and Germany is draining cash reserves, forcing Intel to lay off 15%+ of its workforce and seek external funding.
+
+### Partnerships & Alliances
+* **Microsoft:** Signed an agreement to produce custom chips on the Intel 18A node.
+* **US Government:** Awarded up to $8.5B in CHIPS Act funding.
+
+### Controversies & Headwinds
+* **CPU Instability Scandal:** Severe oxidation and microcode instability issues affecting 13th and 14th Gen desktop CPUs, leading to customer backlash and warranty costs.
+* **Shareholder Lawsuits:** Facing class-action lawsuits alleging the company concealed the massive scale of losses in its foundry division.\n

@@ -54,4 +54,23 @@ AMD is the only credible alternative to NVIDIA in the AI accelerator market. The
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-trail">#6 · 65%</span> <span class="roadmap-rivals-sep">leader: <a href="/future/stocks/nvda/">NVDA</a> 90%</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, profitable.** AMD is financially healthy, generating solid operating cash flows. However, its margins are thinner than NVIDIA's due to higher chiplet packaging costs and aggressive pricing required to win market share.
+
+### AI Monetization & Business Goals
+AMD's core goal is to capture 20%+ of the AI accelerator market by positioning the **Instinct MI300X / MI325X** as the primary "second-source" alternative to NVIDIA GPUs.
+* **Ryzen AI:** Dominating the client AI PC chip market.
+* **EPYC Server CPUs:** Maintaining solid double-digit datacenter share against Intel.
+
+### Capital Expenditure (Capex) Concerns
+As a fabless semiconductor designer, AMD does not build fabs. Its primary capex is R&D, but it faces tight cash commitments to secure TSMC's advanced packaging capacity (CoWoS).
+
+### Partnerships & Alliances
+* **TSMC:** Relying on TSMC for all advanced packaging (Wafer-on-Wafer / CoWoS).
+* **Microsoft & Meta:** Partnering as primary deployment customers for Instinct GPU clusters.
+
+### Controversies & Headwinds
+* **ROCm Software Moat:** AMD struggles to match the developer lock-in of NVIDIA's proprietary CUDA software ecosystem.
+* **Supply Constraints:** Vulnerability to TSMC's manufacturing capacity bottlenecks.\n

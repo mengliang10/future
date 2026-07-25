@@ -45,4 +45,23 @@ Detailed fundamental analysis and growth catalysts for Apple Inc. (AAPL) are cur
 
 
 <div class="roadmap-stock-item-race"><span class="race-badge race-mono">MONOPOLY</span> <span class="roadmap-rivals-sep">no direct rivals identified</span></div>
-</div>
+</div>\n## Business & Fundamental Analysis
+
+### Financial Health & Profitability
+**Yes, extremely profitable.** Apple is one of the most profitable companies in the world, generating over $100B in annual free cash flow. High-margin Services (App Store, iCloud, Apple Pay) drive 70%+ margins.
+
+### AI Monetization & Business Goals
+Apple aims to monetize AI by driving hardware upgrade cycles:
+* **Apple Intelligence:** Limiting AI features to the iPhone 15 Pro, iPhone 16, and newer devices to force phone upgrades.
+* **Services Expansion:** Creating an "AI App Store" to take platform fees from third-party AI service subscriptions.
+
+### Capital Expenditure (Capex) Concerns
+Capex is low compared to other tech giants. Apple is fabless and relies on TSMC for hardware manufacturing, while renting cloud servers for its off-device AI processing.
+
+### Partnerships & Alliances
+* **OpenAI:** Partnered to integrate ChatGPT into Siri.
+* **TSMC:** Exclusively securing TSMC's 3nm and 2nm node allocations.
+
+### Controversies & Headwinds
+* **DOJ Antitrust Lawsuit:** Facing a major DOJ lawsuit alleging Apple maintained an illegal smartphone monopoly.
+* **EU Regulatory Battles:** Ongoing fines and compliance struggles under the EU Digital Markets Act (DMA) over App Store fees.\n
