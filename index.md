@@ -29,43 +29,6 @@ title: Home
   </div>
 </section>
 
-<!-- Market Pulse -->
-<div class="section-heading">
-  <h2>Market Pulse</h2>
-  <span class="section-sub">Key themes shaping frontier technology markets right now.</span>
-</div>
-
-<div class="pulse-grid">
-  <div class="pulse-card">
-    <div class="pulse-card-icon">🚀</div>
-    <div class="pulse-card-content">
-      <div class="pulse-card-title">SpaceX Goes Public</div>
-      <div class="pulse-card-desc">SPCX IPO marks the largest tech listing in history. Zephirin Group initiates Buy at $310. Index inclusion forcing institutional accumulation.</div>
-    </div>
-  </div>
-  <div class="pulse-card">
-    <div class="pulse-card-icon">🏦</div>
-    <div class="pulse-card-content">
-      <div class="pulse-card-title">FOMC Hawkish Pivot</div>
-      <div class="pulse-card-desc">40% of fund managers now expect a rate hike within 12 months. Warsh chairs first Fed meeting. Dot plot is the binary event.</div>
-    </div>
-  </div>
-  <div class="pulse-card">
-    <div class="pulse-card-icon">🧠</div>
-    <div class="pulse-card-content">
-      <div class="pulse-card-title">AI Capex Supercycle</div>
-      <div class="pulse-card-desc">NVDA issues first $25B bond. MU +10% on memory surge. ORCL commits 103% capex/revenue. GS says TSM undervalued on AI demand.</div>
-    </div>
-  </div>
-  <div class="pulse-card">
-    <div class="pulse-card-icon">🛢️</div>
-    <div class="pulse-card-content">
-      <div class="pulse-card-title">Hormuz Deal &amp; Oil Below $80</div>
-      <div class="pulse-card-desc">US-Iran interim deal reopens Strait of Hormuz. Brent drops below $80 for first time since March. Tanker CEOs say normalization is weeks away.</div>
-    </div>
-  </div>
-</div>
-
 <!-- Sector Explorer -->
 <div class="section-heading">
   <h2>Explore by Sector</h2>

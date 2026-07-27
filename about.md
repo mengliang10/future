@@ -39,7 +39,7 @@ The site is powered by a structured research pipeline:
 - **Biotech &amp; Longevity**: AI drug discovery, gene editing, longevity therapeutics
 - **Cybersecurity**: zero trust, AI threat detection, post-quantum crypto
 
-## Current Research Focus (June 2026)
+## Current Research Focus
 
 - **AI Capex Supercycle**: hyperscaler spending, NVDA bond issuance, memory/storage buildout
 - **Post-FOMC Positioning**: rate hike expectations at 40%, Warsh Fed debut, dot plot analysis

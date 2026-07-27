@@ -38,7 +38,7 @@ Nodes represent technologies, components, or market structures. Edges represent 
 
 Each edge carries a probability score (0-1) derived from Bayesian updates over observed market outcomes, updated continuously as new data is ingested.
 
-## Current Bottleneck Technologies (June 2026)
+## Current Bottleneck Technologies (July 2026)
 
 Technologies that unlock the most downstream nodes — the critical path for frontier tech:
 

@@ -15,7 +15,7 @@ permalink: /sectors/space/
 
 Reusability was the unlock. When SpaceX proved Falcon 9 first-stage recovery in 2015, it triggered a structural regime change identical to what AWS did to enterprise IT. Fixed infrastructure costs become variable; marginal launch cost approaches zero. That shift opened LEO satellite constellations, small-sat rideshare, and Starship.
 
-**June 2026: SpaceX is now public (SPCX).** The largest tech listing in history. Zephirin Group initiated coverage at Buy with a $310 price target. Index inclusion is forcing institutional accumulation. Insider lockups (Musk: 1 year minimum) suppress near-term selling pressure. The post-IPO rally has stretched over three consecutive sessions with retail and institutional demand both strong.
+**July 2026: SpaceX is now public (SPCX).** The largest tech listing in history. Zephirin Group initiated coverage at Buy with a $310 price target. Index inclusion is forcing institutional accumulation. Insider lockups (Musk: 1 year minimum) suppress near-term selling pressure. The post-IPO rally has stretched over three consecutive sessions with retail and institutional demand both strong.
 
 ---
 
@@ -94,7 +94,7 @@ Reusability was the unlock. When SpaceX proved Falcon 9 first-stage recovery in 
 
 <div class="callout callout-info" style="margin-top:1rem;">
   <span class="callout-icon">🚀</span>
-  <span><strong>June 2026:</strong> SpaceX completed its IPO (ticker: SPCX). Key facts: Zephirin Group Buy rating, $310 PT. Insider lockup (Musk ~1 year) prevents near-term selling. Index inclusion forcing institutional bid. Currently trading ~$208 with analyst target implying ~49% upside.</span>
+  <span><strong>July 2026:</strong> SpaceX completed its IPO (ticker: SPCX). Key facts: Zephirin Group Buy rating, $310 PT. Insider lockup (Musk ~1 year) prevents near-term selling. Index inclusion forcing institutional bid. Currently trading ~$208 with analyst target implying ~49% upside.</span>
 </div>
 
 ### SPCX Investment Thesis (Practitioner-Level)
