@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T23:12:59Z",
+  "updated": "2026-07-29T01:01:20Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -262,7 +262,7 @@
       "change": 1.3,
       "change_pct": 0.529,
       "market_cap": 78300030437,
-      "volume": 4587302,
+      "volume": 4648955,
       "signal": "BUY",
       "rsi": 64.29
     },
@@ -286,7 +286,7 @@
       "change": -0.93,
       "change_pct": -1.5174,
       "market_cap": 10045078163,
-      "volume": 2381319,
+      "volume": 2407908,
       "signal": "SELL",
       "rsi": 39.62
     },
@@ -322,7 +322,7 @@
       "change": 5.17,
       "change_pct": 1.1094,
       "market_cap": 52428949929,
-      "volume": 789704,
+      "volume": 799116,
       "signal": "BUY",
       "rsi": 53.74
     },
@@ -407,7 +407,7 @@
       "change": 2.66,
       "change_pct": 3.1584,
       "market_cap": 111210322591,
-      "volume": 9934956,
+      "volume": 10004893,
       "signal": "BUY",
       "rsi": 64.74
     },
@@ -419,7 +419,7 @@
       "change": 0.82,
       "change_pct": 1.7548,
       "market_cap": 4682920211,
-      "volume": 1684643,
+      "volume": 1707053,
       "signal": "SELL",
       "rsi": 39.62
     },
@@ -455,7 +455,7 @@
       "change": 1.36,
       "change_pct": 1.493,
       "market_cap": 23379149157,
-      "volume": 899611,
+      "volume": 913901,
       "signal": "BUY",
       "rsi": 52.12
     },
@@ -467,7 +467,7 @@
       "change": 3.51,
       "change_pct": 1.8525,
       "market_cap": 29197873353,
-      "volume": 1853732,
+      "volume": 1874716,
       "signal": "BUY",
       "rsi": 59.03
     },
@@ -538,7 +538,7 @@
       "price": 18.34,
       "change": 0.2,
       "change_pct": 1.1025,
-      "market_cap": 6262781729,
+      "market_cap": 6287020332,
       "volume": 8027870,
       "signal": "BUY",
       "rsi": 54.06
@@ -653,53 +653,27 @@
     },
     {
       "ticker": "MSTR",
-      "name": "MicroStrategy",
+      "name": "Strategy (MicroStrategy)",
       "sector": "Blockchain",
       "price": 96.16,
       "change": -2.49,
       "change_pct": -2.5241,
       "market_cap": 35129136477,
       "volume": 20239583,
-      "rsi": 52.9,
-      "sma20": 95.88,
-      "sma50": 117.17,
-      "ret_30d": 3.75,
-      "timing_quality": 95,
-      "timing_action": "FULL",
-      "timing_detail": "ext=1 ob=5 rsi=54",
-      "regime": "HIGH_VOL",
-      "regime_confidence": 0.8,
-      "alpha_signal": "BEARISH",
-      "alpha_bullish_pct": 40.0,
-      "alpha_detail": "2/5 bullish",
-      "factor_score": 60,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "SELL",
+      "rsi": 44.4
     },
     {
       "ticker": "MARA",
-      "name": "MARA Holdings",
+      "name": "Marathon Digital Holdings",
       "sector": "Blockchain",
       "price": 11.38,
       "change": -0.39,
       "change_pct": -3.3135,
       "market_cap": 4338858367,
       "volume": 45005845,
-      "rsi": 52.9,
-      "sma20": 12.28,
-      "sma50": 13.2,
-      "ret_30d": -18.89,
-      "timing_quality": 80,
-      "timing_action": "FULL",
-      "timing_detail": "ext=20 ob=5 rsi=56",
-      "regime": "HIGH_VOL",
-      "regime_confidence": 0.8,
-      "alpha_signal": "NEUTRAL",
-      "alpha_bullish_pct": 60.0,
-      "alpha_detail": "3/5 bullish",
-      "factor_score": 50,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "STRONG SELL",
+      "rsi": 41.57
     },
     {
       "ticker": "TTD",
