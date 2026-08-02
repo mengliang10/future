@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T17:01:52Z",
+  "updated": "2026-08-02T18:05:25Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -760,29 +760,28 @@
       "rsi": 62.3
     },
     {
+      "ticker": "WDC",
+      "name": "Western Digital Corp.",
+      "sector": "Hardware",
+      "price": 544.84,
+      "change": 11.8,
+      "change_pct": 2.2137,
+      "market_cap": 187796621510,
+      "volume": 8459558,
+      "signal": "BUY",
+      "rsi": 51.02
+    },
+    {
       "ticker": "ETN",
-      "name": "Eaton",
+      "name": "Eaton Corporation",
       "sector": "Energy Tech",
       "price": 415.2,
       "change": 28.31,
       "change_pct": 7.3173,
       "market_cap": 161222164739,
       "volume": 2629566,
-      "rsi": 46.7,
-      "sma20": 401.43,
-      "sma50": 403.43,
-      "ret_30d": 4.19,
-      "timing_quality": 80,
-      "timing_action": "FULL",
-      "timing_detail": "ext=20 ob=5 rsi=44",
-      "regime": "RANGE_BOUND",
-      "regime_confidence": 0.6,
-      "alpha_signal": "BEARISH",
-      "alpha_bullish_pct": 40.0,
-      "alpha_detail": "2/5 bullish",
-      "factor_score": 75,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "STRONG BUY",
+      "rsi": 54.5
     },
     {
       "ticker": "PWR",
@@ -793,21 +792,8 @@
       "change_pct": 1.4256,
       "market_cap": 100333164550,
       "volume": 1292163,
-      "rsi": 53.8,
-      "sma20": 641.48,
-      "sma50": 681.03,
-      "ret_30d": -0.14,
-      "timing_quality": 80,
-      "timing_action": "FULL",
-      "timing_detail": "ext=20 ob=5 rsi=50",
-      "regime": "HIGH_VOL",
-      "regime_confidence": 0.8,
-      "alpha_signal": "BEARISH",
-      "alpha_bullish_pct": 40.0,
-      "alpha_detail": "2/5 bullish",
-      "factor_score": 65,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "BUY",
+      "rsi": 53.07
     }
   ]
 }
