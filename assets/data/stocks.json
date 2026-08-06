@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T02:24:15Z",
+  "updated": "2026-08-06T05:31:37Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -68,8 +68,8 @@
       "price": 272.65,
       "change": -4.77,
       "change_pct": -1.7194,
-      "market_cap": 2940888329571,
-      "volume": 50442720,
+      "market_cap": 2940888395405,
+      "volume": 49334240,
       "signal": "BUY",
       "rsi": 63.49
     },
@@ -106,7 +106,7 @@
       "change": -3.17,
       "change_pct": -0.7599,
       "market_cap": 2147200241382,
-      "volume": 14408587,
+      "volume": 14142297,
       "signal": "BUY",
       "rsi": 49.86
     },
@@ -141,8 +141,8 @@
       "price": 418.28,
       "change": 0.12,
       "change_pct": 0.0287,
-      "market_cap": 1990000639411,
-      "volume": 26178117,
+      "market_cap": 1990000645219,
+      "volume": 25621658,
       "signal": "BUY",
       "rsi": 61.8
     },
@@ -201,8 +201,8 @@
       "price": 307.42,
       "change": -10.32,
       "change_pct": -3.2479,
-      "market_cap": 384667899561,
-      "volume": 11870406,
+      "market_cap": 384667882760,
+      "volume": 11557049,
       "signal": "NEUTRAL",
       "rsi": 47.55
     },
@@ -742,8 +742,8 @@
       "price": 36.19,
       "change": -0.81,
       "change_pct": -2.1892,
-      "market_cap": 25853264323,
-      "volume": 12033838,
+      "market_cap": 25853265304,
+      "volume": 11507902,
       "signal": "SELL",
       "rsi": 29.07
     },
