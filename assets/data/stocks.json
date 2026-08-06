@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T23:04:59Z",
+  "updated": "2026-08-06T00:04:06Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -418,7 +418,7 @@
       "price": 52.45,
       "change": -0.62,
       "change_pct": -1.1683,
-      "market_cap": 5165492588,
+      "market_cap": 5071529723,
       "volume": 1724003,
       "signal": "BUY",
       "rsi": 55.64
@@ -454,7 +454,7 @@
       "price": 92.18,
       "change": 0.83,
       "change_pct": 0.9086,
-      "market_cap": 23310871256,
+      "market_cap": 23156018534,
       "volume": 942415,
       "signal": "BUY",
       "rsi": 51.06
@@ -538,7 +538,7 @@
       "price": 21.0,
       "change": 0.02,
       "change_pct": 0.0953,
-      "market_cap": 7198878183,
+      "market_cap": 7171124058,
       "volume": 7954295,
       "signal": "STRONG BUY",
       "rsi": 70.07
@@ -569,28 +569,15 @@
     },
     {
       "ticker": "NET",
-      "name": "Cloudflare",
+      "name": "Cloudflare Inc.",
       "sector": "Cybersecurity",
       "price": 292.96,
       "change": -8.37,
       "change_pct": -2.7777,
       "market_cap": 103983091636,
       "volume": 4012466,
-      "rsi": 69.2,
-      "sma20": 274.82,
-      "sma50": 253.92,
-      "ret_30d": 7.15,
-      "timing_quality": 80,
-      "timing_action": "FULL",
-      "timing_detail": "ext=20 ob=20 rsi=63",
-      "regime": "TRENDING_UP",
-      "regime_confidence": 0.75,
-      "alpha_signal": "NEUTRAL",
-      "alpha_bullish_pct": 60.0,
-      "alpha_detail": "3/5 bullish",
-      "factor_score": 40,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "BUY",
+      "rsi": 64.62
     },
     {
       "ticker": "CEG",
@@ -601,21 +588,8 @@
       "change_pct": -0.797,
       "market_cap": 94674885003,
       "volume": 3664093,
-      "rsi": 59.9,
-      "sma20": 261.96,
-      "sma50": 262.1,
-      "ret_30d": 8.42,
-      "timing_quality": 94.0,
-      "timing_action": "FULL",
-      "timing_detail": "ext=6 ob=5 rsi=49",
-      "regime": "TRENDING_DOWN",
-      "regime_confidence": 0.75,
-      "alpha_signal": "BULLISH",
-      "alpha_bullish_pct": 80.0,
-      "alpha_detail": "4/5 bullish",
-      "factor_score": 75,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "SELL",
+      "rsi": 51.68
     },
     {
       "ticker": "SMR",
@@ -626,21 +600,8 @@
       "change_pct": -1.1591,
       "market_cap": 3246472302,
       "volume": 33113919,
-      "rsi": 58.4,
-      "sma20": 8.51,
-      "sma50": 9.86,
-      "ret_30d": 7.08,
-      "timing_quality": 50,
-      "timing_action": "HALF",
-      "timing_detail": "ext=50 ob=5 rsi=46",
-      "regime": "HIGH_VOL",
-      "regime_confidence": 0.8,
-      "alpha_signal": "NEUTRAL",
-      "alpha_bullish_pct": 60.0,
-      "alpha_detail": "3/5 bullish",
-      "factor_score": 50,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "SELL",
+      "rsi": 53.5
     },
     {
       "ticker": "GEV",
@@ -651,21 +612,8 @@
       "change_pct": -0.056,
       "market_cap": 271116937966,
       "volume": 2861568,
-      "rsi": 47.9,
-      "sma20": 1023.47,
-      "sma50": 1023.39,
-      "ret_30d": -4.95,
-      "timing_quality": 95,
-      "timing_action": "FULL",
-      "timing_detail": "ext=3 ob=5 rsi=50",
-      "regime": "RANGE_BOUND",
-      "regime_confidence": 0.6,
-      "alpha_signal": "BEARISH",
-      "alpha_bullish_pct": 40.0,
-      "alpha_detail": "2/5 bullish",
-      "factor_score": 75,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "NEUTRAL",
+      "rsi": 49.53
     },
     {
       "ticker": "FSLR",
