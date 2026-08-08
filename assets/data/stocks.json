@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T10:39:17Z",
+  "updated": "2026-08-08T11:12:37Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -521,28 +521,15 @@
     },
     {
       "ticker": "CRWD",
-      "name": "CrowdStrike",
+      "name": "CrowdStrike Holdings",
       "sector": "Cybersecurity",
       "price": 214.42,
       "change": 7.03,
       "change_pct": 3.3897,
       "market_cap": 218335152953,
       "volume": 11771892,
-      "rsi": 68.7,
-      "sma20": 195.99,
-      "sma50": 185.91,
-      "ret_30d": 14.55,
-      "timing_quality": 50,
-      "timing_action": "HALF",
-      "timing_detail": "ext=50 ob=20 rsi=65",
-      "regime": "TRENDING_UP",
-      "regime_confidence": 0.75,
-      "alpha_signal": "BEARISH",
-      "alpha_bullish_pct": 40.0,
-      "alpha_detail": "2/5 bullish",
-      "factor_score": 45,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "BUY",
+      "rsi": 66.56
     },
     {
       "ticker": "S",
