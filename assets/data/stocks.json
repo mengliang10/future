@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T12:40:27Z",
+  "updated": "2026-08-09T13:53:41Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -191,21 +191,8 @@
       "change_pct": 2.2105,
       "market_cap": 428055298720,
       "volume": 9655517,
-      "rsi": 52.1,
-      "sma20": 534.46,
-      "sma50": 553.11,
-      "ret_30d": -10.52,
-      "timing_quality": 95,
-      "timing_action": "FULL",
-      "timing_detail": "ext=4 ob=5 rsi=58",
-      "regime": "HIGH_VOL",
-      "regime_confidence": 0.8,
-      "alpha_signal": "BEARISH",
-      "alpha_bullish_pct": 20.0,
-      "alpha_detail": "1/5 bullish",
-      "factor_score": 60,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "BUY",
+      "rsi": 50.1
     },
     {
       "ticker": "LRCX",
@@ -551,7 +538,7 @@
       "price": 21.4,
       "change": 0.64,
       "change_pct": 3.0829,
-      "market_cap": 7307716766,
+      "market_cap": 7335999541,
       "volume": 7812904,
       "signal": "BUY",
       "rsi": 70.61
