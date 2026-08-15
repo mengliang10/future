@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T16:48:45Z",
+  "updated": "2026-08-15T17:16:40Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -431,7 +431,7 @@
       "change": 0.24,
       "change_pct": 0.9053,
       "market_cap": 2762945038,
-      "volume": 2109400,
+      "volume": 2150879,
       "signal": "SELL",
       "rsi": 43.61
     },
@@ -707,7 +707,7 @@
       "change": -16.37,
       "change_pct": -6.8064,
       "market_cap": 11177010261,
-      "volume": 1988450,
+      "volume": 1941253,
       "signal": "NEUTRAL",
       "rsi": 51.26
     },
@@ -755,7 +755,7 @@
       "change": 2.4,
       "change_pct": 1.2718,
       "market_cap": 226294354668,
-      "volume": 492909,
+      "volume": 475822,
       "signal": "BUY",
       "rsi": 60.67
     },
