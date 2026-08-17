@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T03:27:06Z",
+  "updated": "2026-08-17T04:11:45Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -129,7 +129,7 @@
       "price": 102.5,
       "change": -2.06,
       "change_pct": -1.9702,
-      "market_cap": 541825789355,
+      "market_cap": 538588947287,
       "volume": 122293511,
       "signal": "BUY",
       "rsi": 51.25
@@ -262,7 +262,7 @@
       "change": 0.67,
       "change_pct": 0.2872,
       "market_cap": 74151286867,
-      "volume": 4580276,
+      "volume": 4542097,
       "signal": "SELL",
       "rsi": 46.64
     },
@@ -407,7 +407,7 @@
       "change": 0.69,
       "change_pct": 0.7618,
       "market_cap": 116829720194,
-      "volume": 9330861,
+      "volume": 9238160,
       "signal": "BUY",
       "rsi": 70.99
     },
@@ -455,7 +455,7 @@
       "change": 0.97,
       "change_pct": 1.053,
       "market_cap": 23384613511,
-      "volume": 943379,
+      "volume": 954585,
       "signal": "BUY",
       "rsi": 53.45
     },
@@ -490,7 +490,7 @@
       "price": 80.25,
       "change": 0.15,
       "change_pct": 0.1873,
-      "market_cap": 51312731867,
+      "market_cap": 51303963993,
       "volume": 24704030,
       "signal": "NEUTRAL",
       "rsi": 53.18
@@ -538,7 +538,7 @@
       "price": 23.11,
       "change": -0.73,
       "change_pct": -3.0621,
-      "market_cap": 7891651493,
+      "market_cap": 7922194247,
       "volume": 7883915,
       "signal": "BUY",
       "rsi": 71.17
@@ -623,7 +623,7 @@
       "change": 1.87,
       "change_pct": 0.836,
       "market_cap": 24240885118,
-      "volume": 2490669,
+      "volume": 2465826,
       "signal": "SELL",
       "rsi": 48.59
     },
@@ -695,7 +695,7 @@
       "change": -0.94,
       "change_pct": -3.147,
       "market_cap": 3258434218,
-      "volume": 2622577,
+      "volume": 2646295,
       "signal": "BUY",
       "rsi": 61.91
     },
@@ -707,7 +707,7 @@
       "change": -16.37,
       "change_pct": -6.8064,
       "market_cap": 11177010261,
-      "volume": 1961388,
+      "volume": 1988450,
       "signal": "NEUTRAL",
       "rsi": 51.26
     },
@@ -778,8 +778,8 @@
       "price": 451.51,
       "change": -1.82,
       "change_pct": -0.4015,
-      "market_cap": 175321336791,
-      "volume": 2427296,
+      "market_cap": 175366487792,
+      "volume": 2369288,
       "signal": "BUY",
       "rsi": 60.92
     },
