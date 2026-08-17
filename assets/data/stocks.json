@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T23:20:59Z",
+  "updated": "2026-08-17T23:57:03Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -455,7 +455,7 @@
       "change": -1.49,
       "change_pct": -1.6006,
       "market_cap": 23010319542,
-      "volume": 954585,
+      "volume": 943379,
       "signal": "SELL",
       "rsi": 48.0
     },
