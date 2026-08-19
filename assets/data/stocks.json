@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T05:01:54Z",
+  "updated": "2026-08-19T06:02:43Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -598,23 +598,10 @@
       "price": 8.64,
       "change": -0.55,
       "change_pct": -5.9848,
-      "market_cap": 3545765470,
-      "volume": 32321335,
-      "rsi": 58.9,
-      "sma20": 8.99,
-      "sma50": 9.35,
-      "ret_30d": -0.8,
-      "timing_quality": 80,
-      "timing_action": "FULL",
-      "timing_detail": "ext=20 ob=5 rsi=48",
-      "regime": "HIGH_VOL",
-      "regime_confidence": 0.8,
-      "alpha_signal": "NEUTRAL",
-      "alpha_bullish_pct": 60.0,
-      "alpha_detail": "3/5 bullish",
-      "factor_score": 50,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "market_cap": 3545765610,
+      "volume": 32359168,
+      "signal": "SELL",
+      "rsi": 44.82
     },
     {
       "ticker": "GEV",
