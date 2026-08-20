@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T00:58:37Z",
+  "updated": "2026-08-20T02:26:34Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -129,7 +129,7 @@
       "price": 92.8,
       "change": -3.89,
       "change_pct": -4.0232,
-      "market_cap": 490550584445,
+      "market_cap": 487620058067,
       "volume": 121180784,
       "signal": "SELL",
       "rsi": 41.98
@@ -262,7 +262,7 @@
       "change": -5.98,
       "change_pct": -2.6261,
       "market_cap": 70275107063,
-      "volume": 4505252,
+      "volume": 4467072,
       "signal": "STRONG SELL",
       "rsi": 36.82
     },
@@ -286,7 +286,7 @@
       "change": -2.77,
       "change_pct": -4.3684,
       "market_cap": 10201093676,
-      "volume": 2300942,
+      "volume": 2274190,
       "signal": "SELL",
       "rsi": 43.17
     },
@@ -322,7 +322,7 @@
       "change": -0.4,
       "change_pct": -0.0922,
       "market_cap": 48114058630,
-      "volume": 819668,
+      "volume": 783982,
       "signal": "SELL",
       "rsi": 39.55
     },
@@ -407,7 +407,7 @@
       "change": 2.04,
       "change_pct": 2.2152,
       "market_cap": 120484594930,
-      "volume": 9243871,
+      "volume": 9151169,
       "signal": "STRONG BUY",
       "rsi": 74.96
     },
@@ -431,7 +431,7 @@
       "change": 2.5,
       "change_pct": 9.4091,
       "market_cap": 3002572390,
-      "volume": 2129514,
+      "volume": 2088034,
       "signal": "BUY",
       "rsi": 55.8
     },
@@ -455,7 +455,7 @@
       "change": 20.37,
       "change_pct": 21.9623,
       "market_cap": 28416238571,
-      "volume": 930790,
+      "volume": 911580,
       "signal": "STRONG BUY",
       "rsi": 80.75
     },
@@ -467,7 +467,7 @@
       "change": 16.71,
       "change_pct": 8.8746,
       "market_cap": 30955000000,
-      "volume": 1925820,
+      "volume": 1814461,
       "signal": "STRONG BUY",
       "rsi": 61.61
     },
@@ -490,7 +490,7 @@
       "price": 75.84,
       "change": -3.32,
       "change_pct": -4.194,
-      "market_cap": 48492927064,
+      "market_cap": 48484641013,
       "volume": 24367284,
       "signal": "SELL",
       "rsi": 47.0
@@ -538,7 +538,7 @@
       "price": 21.32,
       "change": -1.17,
       "change_pct": -5.2023,
-      "market_cap": 7280398225,
+      "market_cap": 7308575269,
       "volume": 7847119,
       "signal": "BUY",
       "rsi": 55.1
