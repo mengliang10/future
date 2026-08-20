@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T09:29:22Z",
+  "updated": "2026-08-20T10:03:39Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -129,7 +129,7 @@
       "price": 92.8,
       "change": -3.89,
       "change_pct": -4.0232,
-      "market_cap": 490550584445,
+      "market_cap": 487620058067,
       "volume": 120535869,
       "signal": "SELL",
       "rsi": 41.98
@@ -262,7 +262,7 @@
       "change": -5.98,
       "change_pct": -2.6261,
       "market_cap": 70275107063,
-      "volume": 4464574,
+      "volume": 4426395,
       "signal": "STRONG SELL",
       "rsi": 36.82
     },
@@ -286,7 +286,7 @@
       "change": -2.77,
       "change_pct": -4.3684,
       "market_cap": 10201093676,
-      "volume": 2314911,
+      "volume": 2288158,
       "signal": "SELL",
       "rsi": 43.04
     },
@@ -322,7 +322,7 @@
       "change": -0.4,
       "change_pct": -0.0922,
       "market_cap": 48114058630,
-      "volume": 818498,
+      "volume": 782812,
       "signal": "SELL",
       "rsi": 39.55
     },
@@ -407,7 +407,7 @@
       "change": 2.04,
       "change_pct": 2.2152,
       "market_cap": 120484594930,
-      "volume": 9143939,
+      "volume": 9051238,
       "signal": "STRONG BUY",
       "rsi": 74.96
     },
@@ -431,7 +431,7 @@
       "change": 2.5,
       "change_pct": 9.4091,
       "market_cap": 3002572390,
-      "volume": 2155142,
+      "volume": 2113663,
       "signal": "BUY",
       "rsi": 55.8
     },
@@ -455,7 +455,7 @@
       "change": 20.37,
       "change_pct": 21.9623,
       "market_cap": 28416238571,
-      "volume": 1057573,
+      "volume": 1038363,
       "signal": "STRONG BUY",
       "rsi": 80.75
     },
@@ -490,7 +490,7 @@
       "price": 75.84,
       "change": -3.32,
       "change_pct": -4.194,
-      "market_cap": 48492927064,
+      "market_cap": 48484641013,
       "volume": 24149326,
       "signal": "SELL",
       "rsi": 47.0
@@ -538,7 +538,7 @@
       "price": 21.32,
       "change": -1.17,
       "change_pct": -5.2023,
-      "market_cap": 7280398225,
+      "market_cap": 7308575269,
       "volume": 7898101,
       "signal": "BUY",
       "rsi": 55.1
@@ -557,28 +557,15 @@
     },
     {
       "ticker": "ZS",
-      "name": "Zscaler",
+      "name": "Zscaler Inc.",
       "sector": "Cybersecurity",
       "price": 184.6,
       "change": -1.1,
       "change_pct": -0.5924,
       "market_cap": 29851579301,
       "volume": 4218423,
-      "rsi": 67.8,
-      "sma20": 165.2,
-      "sma50": 148.65,
-      "ret_30d": 29.76,
-      "timing_quality": 50,
-      "timing_action": "HALF",
-      "timing_detail": "ext=50 ob=5 rsi=57",
-      "regime": "TRENDING_UP",
-      "regime_confidence": 0.55,
-      "alpha_signal": "NEUTRAL",
-      "alpha_bullish_pct": 60.0,
-      "alpha_detail": "3/5 bullish",
-      "factor_score": 65,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "BUY",
+      "rsi": 70.34
     },
     {
       "ticker": "NET",
@@ -588,7 +575,7 @@
       "change": -9.48,
       "change_pct": -3.1457,
       "market_cap": 103932548952,
-      "volume": 3722633,
+      "volume": 3663660,
       "signal": "NEUTRAL",
       "rsi": 51.7
     },
@@ -636,7 +623,7 @@
       "change": 2.39,
       "change_pct": 1.0863,
       "market_cap": 23901280195,
-      "volume": 2478930,
+      "volume": 2454087,
       "signal": "SELL",
       "rsi": 47.4
     },
@@ -708,7 +695,7 @@
       "change": 1.53,
       "change_pct": 5.2541,
       "market_cap": 3452160611,
-      "volume": 2623326,
+      "volume": 2605952,
       "signal": "STRONG BUY",
       "rsi": 65.22
     },
@@ -720,7 +707,7 @@
       "change": 15.41,
       "change_pct": 6.8114,
       "market_cap": 12050167167,
-      "volume": 1928620,
+      "volume": 1908485,
       "signal": "BUY",
       "rsi": 56.29
     },
