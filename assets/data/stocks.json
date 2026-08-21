@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T20:21:00Z",
+  "updated": "2026-08-21T20:57:18Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -11,7 +11,7 @@
       "market_cap": 5200733149566,
       "volume": 142308071,
       "signal": "NEUTRAL",
-      "rsi": 51.04
+      "rsi": 51.01
     },
     {
       "ticker": "AMD",
@@ -445,7 +445,7 @@
       "market_cap": 57941106519,
       "volume": 11438431,
       "signal": "BUY",
-      "rsi": 71.59
+      "rsi": 71.6
     },
     {
       "ticker": "BNTX",
@@ -553,7 +553,7 @@
       "market_cap": 291664046020,
       "volume": 7330365,
       "signal": "BUY",
-      "rsi": 51.65
+      "rsi": 51.58
     },
     {
       "ticker": "ZS",
