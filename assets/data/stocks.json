@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T20:57:18Z",
+  "updated": "2026-08-21T21:19:29Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -129,7 +129,7 @@
       "price": 90.07,
       "change": -2.06,
       "change_pct": -2.236,
-      "market_cap": 476119499335,
+      "market_cap": 473275183588,
       "volume": 119285569,
       "signal": "SELL",
       "rsi": 39.6
@@ -490,7 +490,7 @@
       "price": 72.57,
       "change": -0.38,
       "change_pct": -0.5209,
-      "market_cap": 46402055276,
+      "market_cap": 46394126496,
       "volume": 24028644,
       "signal": "SELL",
       "rsi": 43.16
@@ -538,7 +538,7 @@
       "price": 21.19,
       "change": 0.25,
       "change_pct": 1.1939,
-      "market_cap": 7236005838,
+      "market_cap": 7264011073,
       "volume": 7869082,
       "signal": "BUY",
       "rsi": 54.11
@@ -778,7 +778,7 @@
       "price": 419.2,
       "change": 3.91,
       "change_pct": 0.9415,
-      "market_cap": 162775364739,
+      "market_cap": 162817284741,
       "volume": 2354379,
       "signal": "NEUTRAL",
       "rsi": 46.48
@@ -792,21 +792,8 @@
       "change_pct": -3.4915,
       "market_cap": 96120548918,
       "volume": 1220417,
-      "rsi": 47.2,
-      "sma20": 662.84,
-      "sma50": 671.73,
-      "ret_30d": 2.16,
-      "timing_quality": 80,
-      "timing_action": "FULL",
-      "timing_detail": "ext=20 ob=5 rsi=50",
-      "regime": "HIGH_VOL",
-      "regime_confidence": 0.8,
-      "alpha_signal": "NEUTRAL",
-      "alpha_bullish_pct": 60.0,
-      "alpha_detail": "3/5 bullish",
-      "factor_score": 65,
-      "ob_fingerprint": "UNKNOWN",
-      "ob_rsi70_winrate": null
+      "signal": "SELL",
+      "rsi": 43.66
     }
   ]
 }
