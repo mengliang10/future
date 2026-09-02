@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T02:36:14Z",
+  "updated": "2026-09-02T07:33:47Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -9,7 +9,7 @@
       "change": -3.34,
       "change_pct": -1.5128,
       "market_cap": 5250523738952,
-      "volume": 139992735,
+      "volume": 138377637,
       "signal": "BUY",
       "rsi": 51.87
     },
@@ -21,7 +21,7 @@
       "change": -11.11,
       "change_pct": -2.3602,
       "market_cap": 750301830140,
-      "volume": 27310540,
+      "volume": 27042953,
       "signal": "SELL",
       "rsi": 43.6
     },
@@ -33,7 +33,7 @@
       "change": -6.27,
       "change_pct": -1.236,
       "market_cap": 3720346720321,
-      "volume": 37971423,
+      "volume": 37462104,
       "signal": "BUY",
       "rsi": 63.74
     },
@@ -45,7 +45,7 @@
       "change": -4.33,
       "change_pct": -1.276,
       "market_cap": 4097272632719,
-      "volume": 31605187,
+      "volume": 31520945,
       "signal": "SELL",
       "rsi": 41.25
     },
@@ -57,7 +57,7 @@
       "change": 6.2,
       "change_pct": 1.0833,
       "market_cap": 1473834195436,
-      "volume": 18415125,
+      "volume": 18206289,
       "signal": "NEUTRAL",
       "rsi": 49.95
     },
@@ -69,7 +69,7 @@
       "change": -4.85,
       "change_pct": -1.867,
       "market_cap": 2749647036023,
-      "volume": 49028071,
+      "volume": 48685028,
       "signal": "SELL",
       "rsi": 46.33
     },
@@ -106,7 +106,7 @@
       "change": -1.32,
       "change_pct": -0.3178,
       "market_cap": 2147200241382,
-      "volume": 13322282,
+      "volume": 13164164,
       "signal": "SELL",
       "rsi": 47.66
     },
@@ -118,7 +118,7 @@
       "change": -30.87,
       "change_pct": -1.8202,
       "market_cap": 639580279626,
-      "volume": 1820670,
+      "volume": 1839476,
       "signal": "SELL",
       "rsi": 40.08
     },
@@ -129,8 +129,8 @@
       "price": 88.97,
       "change": -0.54,
       "change_pct": -0.6033,
-      "market_cap": 467495212659,
-      "volume": 116210709,
+      "market_cap": 470304791612,
+      "volume": 115255668,
       "signal": "SELL",
       "rsi": 40.95
     },
@@ -142,7 +142,7 @@
       "change": -0.66,
       "change_pct": -0.1782,
       "market_cap": 1758782212751,
-      "volume": 25753820,
+      "volume": 25576250,
       "signal": "SELL",
       "rsi": 43.33
     },
@@ -154,7 +154,7 @@
       "change": -1.27,
       "change_pct": -0.6,
       "market_cap": 189078462980,
-      "volume": 39995651,
+      "volume": 39827643,
       "signal": "SELL",
       "rsi": 45.15
     },
@@ -166,7 +166,7 @@
       "change": -7.09,
       "change_pct": -2.9308,
       "market_cap": 250787431794,
-      "volume": 7573682,
+      "volume": 7356314,
       "signal": "SELL",
       "rsi": 38.93
     },
@@ -178,7 +178,7 @@
       "change": -4.56,
       "change_pct": -2.599,
       "market_cap": 223275778949,
-      "volume": 12616432,
+      "volume": 12664923,
       "signal": "SELL",
       "rsi": 33.41
     },
@@ -190,7 +190,7 @@
       "change": -16.54,
       "change_pct": -3.6083,
       "market_cap": 350651035033,
-      "volume": 9408034,
+      "volume": 9518246,
       "signal": "SELL",
       "rsi": 34.01
     },
@@ -202,7 +202,7 @@
       "change": -11.29,
       "change_pct": -3.7447,
       "market_cap": 363133369474,
-      "volume": 11173007,
+      "volume": 11301984,
       "signal": "SELL",
       "rsi": 40.51
     },
@@ -214,7 +214,7 @@
       "change": -25.29,
       "change_pct": -2.6379,
       "market_cap": 1054220745626,
-      "volume": 45010839,
+      "volume": 44715914,
       "signal": "BUY",
       "rsi": 50.45
     },
@@ -226,7 +226,7 @@
       "change": -1.53,
       "change_pct": -3.8921,
       "market_cap": 15306024589,
-      "volume": 22350710,
+      "volume": 22128118,
       "signal": "SELL",
       "rsi": 42.13
     },
@@ -238,7 +238,7 @@
       "change": -0.67,
       "change_pct": -4.2784,
       "market_cap": 5003193441,
-      "volume": 27422931,
+      "volume": 26533534,
       "signal": "SELL",
       "rsi": 41.41
     },
@@ -250,7 +250,7 @@
       "change": -2.47,
       "change_pct": -1.0561,
       "market_cap": 218009892095,
-      "volume": 9805850,
+      "volume": 9404285,
       "signal": "SELL",
       "rsi": 46.62
     },
@@ -262,7 +262,7 @@
       "change": -3.55,
       "change_pct": -1.6625,
       "market_cap": 66551061945,
-      "volume": 4210422,
+      "volume": 4205296,
       "signal": "STRONG SELL",
       "rsi": 31.61
     },
@@ -274,7 +274,7 @@
       "change": -7.61,
       "change_pct": -2.0193,
       "market_cap": 132294165531,
-      "volume": 3020423,
+      "volume": 3030059,
       "signal": "STRONG SELL",
       "rsi": 44.23
     },
@@ -286,7 +286,7 @@
       "change": -0.88,
       "change_pct": -1.4436,
       "market_cap": 10106888735,
-      "volume": 2202171,
+      "volume": 2219971,
       "signal": "SELL",
       "rsi": 44.54
     },
@@ -298,7 +298,7 @@
       "change": -14.37,
       "change_pct": -4.1077,
       "market_cap": 52446066659,
-      "volume": 4005575,
+      "volume": 4006551,
       "signal": "SELL",
       "rsi": 39.34
     },
@@ -310,7 +310,7 @@
       "change": -1.45,
       "change_pct": -3.6552,
       "market_cap": 4963760780,
-      "volume": 1843878,
+      "volume": 1844609,
       "signal": "SELL",
       "rsi": 39.01
     },
@@ -322,7 +322,7 @@
       "change": -6.9,
       "change_pct": -1.6257,
       "market_cap": 46366153554,
-      "volume": 799582,
+      "volume": 809348,
       "signal": "STRONG SELL",
       "rsi": 33.79
     },
@@ -334,7 +334,7 @@
       "change": -11.86,
       "change_pct": -3.2233,
       "market_cap": 1406394317065,
-      "volume": 41598846,
+      "volume": 41461000,
       "signal": "NEUTRAL",
       "rsi": 53.08
     },
@@ -346,7 +346,7 @@
       "change": -0.17,
       "change_pct": -1.993,
       "market_cap": 7107568027,
-      "volume": 6201981,
+      "volume": 6195412,
       "signal": "SELL",
       "rsi": 43.04
     },
@@ -358,7 +358,7 @@
       "change": -0.17,
       "change_pct": -3.0195,
       "market_cap": 10942687839,
-      "volume": 27698715,
+      "volume": 28135189,
       "signal": "SELL",
       "rsi": 35.01
     },
@@ -395,7 +395,7 @@
       "change": -0.15,
       "change_pct": -2.193,
       "market_cap": 6617241202,
-      "volume": 38938121,
+      "volume": 38925226,
       "signal": "SELL",
       "rsi": 34.05
     },
@@ -407,7 +407,7 @@
       "change": 1.39,
       "change_pct": 1.5334,
       "market_cap": 117809439618,
-      "volume": 8604793,
+      "volume": 8778151,
       "signal": "BUY",
       "rsi": 58.83
     },
@@ -419,7 +419,7 @@
       "change": -0.16,
       "change_pct": -0.2808,
       "market_cap": 5494076513,
-      "volume": 1619415,
+      "volume": 1632707,
       "signal": "BUY",
       "rsi": 54.0
     },
@@ -431,7 +431,7 @@
       "change": -0.41,
       "change_pct": -1.3931,
       "market_cap": 2997408085,
-      "volume": 2107287,
+      "volume": 2116193,
       "signal": "BUY",
       "rsi": 51.46
     },
@@ -443,7 +443,7 @@
       "change": 13.93,
       "change_pct": 9.9259,
       "market_cap": 61590122301,
-      "volume": 14882940,
+      "volume": 15188984,
       "signal": "STRONG BUY",
       "rsi": 67.47
     },
@@ -455,7 +455,7 @@
       "change": 0.335,
       "change_pct": 0.3297,
       "market_cap": 25609029015,
-      "volume": 1157017,
+      "volume": 1200993,
       "signal": "BUY",
       "rsi": 51.61
     },
@@ -467,7 +467,7 @@
       "change": -6.5,
       "change_pct": -3.0426,
       "market_cap": 31276630737,
-      "volume": 1950076,
+      "volume": 1967295,
       "signal": "BUY",
       "rsi": 52.02
     },
@@ -479,7 +479,7 @@
       "change": -0.07,
       "change_pct": -2.0588,
       "market_cap": 1785782678,
-      "volume": 20023843,
+      "volume": 19695762,
       "signal": "NEUTRAL",
       "rsi": 50.61
     },
@@ -490,8 +490,8 @@
       "price": 62.54,
       "change": -1.38,
       "change_pct": -2.1589,
-      "market_cap": 39981930904,
-      "volume": 22361832,
+      "market_cap": 39988763837,
+      "volume": 22000756,
       "signal": "SELL",
       "rsi": 33.31
     },
@@ -503,7 +503,7 @@
       "change": -3.3,
       "change_pct": -5.5838,
       "market_cap": 16728242990,
-      "volume": 17015467,
+      "volume": 16723909,
       "signal": "SELL",
       "rsi": 37.4
     },
@@ -515,7 +515,7 @@
       "change": -0.64,
       "change_pct": -4.1667,
       "market_cap": 2361858031,
-      "volume": 11140500,
+      "volume": 10962910,
       "signal": "SELL",
       "rsi": 39.95
     },
@@ -527,7 +527,7 @@
       "change": -15.93,
       "change_pct": -6.8961,
       "market_cap": 220217673968,
-      "volume": 10883381,
+      "volume": 10810614,
       "signal": "BUY",
       "rsi": 54.5
     },
@@ -539,7 +539,7 @@
       "change": -1.47,
       "change_pct": -6.6516,
       "market_cap": 7180252991,
-      "volume": 7334862,
+      "volume": 7197640,
       "signal": "SELL",
       "rsi": 48.91
     },
@@ -551,7 +551,7 @@
       "change": -20.04,
       "change_pct": -5.2443,
       "market_cap": 295103347015,
-      "volume": 7011579,
+      "volume": 7032415,
       "signal": "BUY",
       "rsi": 51.47
     },
@@ -563,7 +563,7 @@
       "change": -10.015,
       "change_pct": -5.3162,
       "market_cap": 28844127184,
-      "volume": 3197732,
+      "volume": 3071370,
       "signal": "BUY",
       "rsi": 54.47
     },
@@ -575,7 +575,7 @@
       "change": -19.6,
       "change_pct": -6.4239,
       "market_cap": 101664322906,
-      "volume": 3615190,
+      "volume": 3561754,
       "signal": "SELL",
       "rsi": 48.38
     },
@@ -587,7 +587,7 @@
       "change": 5.54,
       "change_pct": 2.0162,
       "market_cap": 99315900542,
-      "volume": 3345190,
+      "volume": 3231175,
       "signal": "BUY",
       "rsi": 57.08
     },
@@ -599,7 +599,7 @@
       "change": -0.06,
       "change_pct": -0.6472,
       "market_cap": 3779687513,
-      "volume": 33531040,
+      "volume": 33156118,
       "signal": "SELL",
       "rsi": 49.37
     },
@@ -611,7 +611,7 @@
       "change": 0.0,
       "change_pct": 0.0,
       "market_cap": 239308720338,
-      "volume": 2722589,
+      "volume": 2746675,
       "signal": "SELL",
       "rsi": 35.46
     },
@@ -623,7 +623,7 @@
       "change": -2.25,
       "change_pct": -1.1144,
       "market_cap": 21456342518,
-      "volume": 2232245,
+      "volume": 2205982,
       "signal": "STRONG SELL",
       "rsi": 35.9
     },
@@ -635,7 +635,7 @@
       "change": -2.5,
       "change_pct": -2.5314,
       "market_cap": 41924405488,
-      "volume": 3376495,
+      "volume": 3369453,
       "signal": "SELL",
       "rsi": 46.52
     },
@@ -647,7 +647,7 @@
       "change": -11.3,
       "change_pct": -6.0068,
       "market_cap": 46651646657,
-      "volume": 8622884,
+      "volume": 8612498,
       "signal": "BUY",
       "rsi": 54.33
     },
@@ -659,7 +659,7 @@
       "change": -8.06,
       "change_pct": -6.0629,
       "market_cap": 49612532609,
-      "volume": 23456782,
+      "volume": 23524917,
       "signal": "BUY",
       "rsi": 59.0
     },
@@ -671,7 +671,7 @@
       "change": -0.54,
       "change_pct": -5.0139,
       "market_cap": 3951841631,
-      "volume": 46432542,
+      "volume": 46100332,
       "signal": "SELL",
       "rsi": 45.15
     },
@@ -683,7 +683,7 @@
       "change": 0.06,
       "change_pct": 0.4373,
       "market_cap": 6474948947,
-      "volume": 21861060,
+      "volume": 21759539,
       "signal": "SELL",
       "rsi": 39.23
     },
@@ -695,7 +695,7 @@
       "change": -1.26,
       "change_pct": -3.7015,
       "market_cap": 3692065972,
-      "volume": 2495881,
+      "volume": 2456860,
       "signal": "BUY",
       "rsi": 63.76
     },
@@ -707,7 +707,7 @@
       "change": -10.25,
       "change_pct": -3.9218,
       "market_cap": 12521901763,
-      "volume": 1805640,
+      "volume": 1782312,
       "signal": "BUY",
       "rsi": 56.9
     },
@@ -719,7 +719,7 @@
       "change": 8.28,
       "change_pct": 2.6132,
       "market_cap": 4745005814660,
-      "volume": 54725632,
+      "volume": 54792345,
       "signal": "STRONG BUY",
       "rsi": 61.06
     },
@@ -731,7 +731,7 @@
       "change": -1.18,
       "change_pct": -2.8029,
       "market_cap": 18008438332,
-      "volume": 9493003,
+      "volume": 9402829,
       "signal": "NEUTRAL",
       "rsi": 49.37
     },
@@ -743,7 +743,7 @@
       "change": -0.62,
       "change_pct": -1.5016,
       "market_cap": 29053668212,
-      "volume": 11988260,
+      "volume": 11972839,
       "signal": "SELL",
       "rsi": 50.08
     },
@@ -755,7 +755,7 @@
       "change": 1.51,
       "change_pct": 0.7683,
       "market_cap": 234527519250,
-      "volume": 473600,
+      "volume": 470751,
       "signal": "BUY",
       "rsi": 65.1
     },
@@ -767,7 +767,7 @@
       "change": -0.11,
       "change_pct": -0.0244,
       "market_cap": 162402063695,
-      "volume": 8474807,
+      "volume": 8462928,
       "signal": "SELL",
       "rsi": 43.73
     },
@@ -778,8 +778,8 @@
       "price": 390.71,
       "change": -11.17,
       "change_pct": -2.7794,
-      "market_cap": 151751760681,
-      "volume": 2264773,
+      "market_cap": 151712689682,
+      "volume": 2259820,
       "signal": "SELL",
       "rsi": 36.86
     },
@@ -791,7 +791,7 @@
       "change": 4.3,
       "change_pct": 0.7083,
       "market_cap": 91918449248,
-      "volume": 1222931,
+      "volume": 1233526,
       "signal": "SELL",
       "rsi": 41.25
     }
