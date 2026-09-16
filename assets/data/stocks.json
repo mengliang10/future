@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T23:55:50Z",
+  "updated": "2026-09-16T02:58:01Z",
   "stock_count": 95,
   "stocks": [
     {
@@ -1101,15 +1101,15 @@
       "ticker": "INVZ",
       "name": "Innoviz Technologies",
       "sector": "Autonomous",
-      "price": 0.3033,
-      "change": -0.0007,
-      "change_pct": -0.2303,
-      "market_cap": 90415884,
+      "price": 0.303,
+      "change": -0.001,
+      "change_pct": -0.3289,
+      "market_cap": 90326455,
       "volume": 3453414,
       "rsi": 59.0,
       "sma20": 0.34,
       "sma50": 0.45,
-      "ret_30d": -17.58,
+      "ret_30d": -17.66,
       "timing_quality": 50,
       "timing_action": "HALF",
       "timing_detail": "ext=50 ob=5 rsi=56",
