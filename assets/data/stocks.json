@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T23:19:11Z",
+  "updated": "2026-10-02T02:25:04Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -514,7 +514,7 @@
       "price": 14.05,
       "change": -0.19,
       "change_pct": -1.3343,
-      "market_cap": 2254354972,
+      "market_cap": 2267852090,
       "volume": 8991153,
       "signal": "STRONG SELL",
       "rsi": 42.0
@@ -788,8 +788,8 @@
       "name": "Quanta Services",
       "sector": "Energy Tech",
       "price": 662.6,
-      "change": 20.09,
-      "change_pct": 3.1268,
+      "change": 20.2,
+      "change_pct": 3.1445,
       "market_cap": 99617528531,
       "volume": 1029979,
       "signal": "BUY",
