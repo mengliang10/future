@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T23:16:56Z",
+  "updated": "2026-10-21T01:49:05Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -41,10 +41,10 @@
       "ticker": "GOOGL",
       "name": "Alphabet Inc.",
       "sector": "AI & Cloud",
-      "price": 340.275,
-      "change": -3.905,
-      "change_pct": -1.1346,
-      "market_cap": 4161540999972,
+      "price": 340.28,
+      "change": -3.9,
+      "change_pct": -1.1331,
+      "market_cap": 4161602209363,
       "volume": 26654266,
       "signal": "SELL",
       "rsi": 44.66
