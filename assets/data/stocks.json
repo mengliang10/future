@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T23:12:30Z",
+  "updated": "2026-11-06T03:31:07Z",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -282,10 +282,10 @@
       "ticker": "CGNX",
       "name": "Cognex Corporation",
       "sector": "Robotics",
-      "price": 47.495,
-      "change": -5.565,
-      "change_pct": -10.4881,
-      "market_cap": 7989791196,
+      "price": 47.5,
+      "change": -5.56,
+      "change_pct": -10.4787,
+      "market_cap": 7990632495,
       "volume": 1907020,
       "signal": "STRONG SELL",
       "rsi": 31.2
@@ -667,10 +667,10 @@
       "ticker": "MARA",
       "name": "Marathon Digital Holdings",
       "sector": "Blockchain",
-      "price": 5.875,
-      "change": -0.995,
-      "change_pct": -14.4833,
-      "market_cap": 2269508369,
+      "price": 5.88,
+      "change": -0.99,
+      "change_pct": -14.4105,
+      "market_cap": 2271439910,
       "volume": 42983356,
       "signal": "STRONG SELL",
       "rsi": 28.12
