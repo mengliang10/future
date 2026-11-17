@@ -9,9 +9,15 @@ est_year: 2030
 est_year_range: "2027–2037"
 horizon: "Medium-Term (2029–2030)"
 source_count: 7
-stocks: []
+stocks: [GOOGL]
 permalink: /tech/enhanced-geothermal-systems-egs/
 ---
+
+## Primary Research Update
+
+**Research update: November 17, 2026.** Google signed a major commercial agreement exceeding $500M to secure 50MW of clean baseload geothermal power from Quaise Energy in Oregon, with initial delivery targeted as early as 2030 to supply power for regional hyperscale AI data centers. [WSJ Report](https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05)
+
+**Our interpretation:** Deep millimeter-wave gyrotron drilling provides a viable path to baseload zero-carbon power without geographic constraints typical of hydrothermal reservoirs. Commercialization timelines remain 2030+, but capital commitments by hyperscalers de-risk pilot-to-utility transition.
 
 ## What This Is
 
@@ -34,4 +40,4 @@ Pilot deployments and early-stage commercial testing underway. Technology is pro
 
 ## Investment Exposure
 
-No direct listed-stock exposure identified yet in our research database.
+Commercial off-take commitment by **[Alphabet Inc. (GOOGL)](/future/stocks/googl/)** ($500M+ contract for 50MW).

@@ -10,6 +10,8 @@ bottleneck_count: 0
 
 ## Investment Thesis
 
+- **November 17, 2026:** Signed a $500M+ power purchase agreement for 50MW with Quaise Energy to deploy deep-borehole geothermal power in Oregon starting as early as 2030, reinforcing data center energy security. An SEC regulatory filing also confirmed Alphabet is positioned to retain ~14% of Anthropic's outstanding equity post-IPO. [WSJ Geothermal Report](https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05)
+
 **Research update: November 17, 2026.** Google reported MLPerf Training v6.1 submissions using Ironwood TPUs and NVIDIA Grace Blackwell GPUs on November 16. Its results cover pre-training and agentic reinforcement learning. [Google's benchmark report](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/)
 
 **Our interpretation:** the submissions illustrate Google's investment in both custom silicon and GPU infrastructure. Benchmark completion times depend on the task, system size and convergence criterion; they do not establish a universal TPU advantage or customer profitability.

@@ -7,6 +7,9 @@ categories: [AI & Cloud]
 ---
 
 ## Investment Thesis
+
+**Research update: November 17, 2026.** An updated SEC regulatory filing confirmed that Amazon is set to hold nearly 15% of Anthropic's outstanding capital stock following its planned IPO and private placements, solidifying its foundational strategic partnership with AWS and Bedrock distribution. [Bloomberg Report](https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo)
+
 Amazon is the cloud layer on which AI runs. AWS is the largest cloud provider globally, and AI workloads are the fastest-growing AWS segment: adding meaningful percentage points to AWS revenue growth annually. The Trainium and Inferentia custom silicon programs reduce Amazon's per-inference cost and improve margins on AI workloads. Amazon Bedrock (hosting Anthropic Claude, Llama, Mistral) positions AWS as the model-agnostic deployment platform. Project Kuiper (3,200 satellite LEO constellation) is the long-duration bet on global connectivity. The core retail and advertising businesses fund all of this: Amazon generates enough free cash flow to run multiple $10B+ investment programs simultaneously.
 
 ## Future Tech Roadmap
