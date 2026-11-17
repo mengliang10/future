@@ -14,3 +14,8 @@ _site/
 __pycache__/
 *.py[cod]
 *.egg-info/
+_config.yml.before-ingestion
+scripts/INGESTION.md
+scripts/ingest-private.sh
+scripts/ingestion.py
+research/
