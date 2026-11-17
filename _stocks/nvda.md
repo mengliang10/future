@@ -10,10 +10,11 @@ bottleneck_count: 3
 
 ## Investment Thesis
 
-**June 9, 2026 Update:** NVDA at $208.64 (+1.7%) recovering from AVGO contagion (-5.3% flush to $204.96 on Jun 5). Forecast engine +0.221 POSSIBLE_BULL — Engine C +0.721 AI chip demand prerequisite holding, offset by Engine E -0.559 CPI blackout. PEG 0.63 on 85% revenue growth is statistically mispriced. EMA50 $204.77 held through Friday's low — the bounce is building. CPI today: soft → $215-222, hot → re-test $200. Accumulate.
+**Research update: November 17, 2026.** NVIDIA introduced Nemotron for Science on November 16: an open model, chemistry data and adaptation recipes for scientific agents. **Our interpretation:** this extends the software ecosystem around accelerated computing. It does not establish incremental revenue or justify a valuation target. [NVIDIA announcement](https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents)
 
-**July 2026 Update:** The "Physics Wall" is creating short-term headwinds. While the CUDA moat remains, the $1.3T capex trap among hyperscalers is leading to a valuation haircut as the market pivots from pure hardware scale to inference efficiency. Support at $200.
-NVIDIA is the definitive infrastructure play of the AI era. The GPU has become the basic unit of AI compute, and NVIDIA's CUDA software ecosystem creates switching costs that make hardware displacement extremely difficult: developer retraining is measured in years. The Blackwell architecture (GB200 NVL72 racks at 120kW, 30 petaflops FP8) cements NVIDIA's position through the 2026-2027 cycle. Notable: NVIDIA has a strategic partnership with Lumentum to develop optics technologies for AI data centres: directly positioning NVIDIA in the co-packaged optics transition. NVLink and InfiniBand integration allows cluster-level performance rivals cannot match. Annual revenue has exceeded $215B with operating margins above 65%.
+NVIDIA also announced a quantum research collaboration with IBM and Fermilab. This adds an integration opportunity alongside its compute platform; it remains research, with commercial returns unproven. [Collaboration announcement](https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing)
+
+**What to watch:** adoption of the science tools, customer deployments, and evidence that research activity produces recurring demand. This review replaces the June price levels and event-driven trading commentary; it does not provide a current trading signal.
 
 ## Future Tech Roadmap
 

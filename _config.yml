@@ -31,6 +31,8 @@ collections:
 
 # Exclude from build output
 exclude:
+  - research/
+  - _config.yml.before-ingestion
   - scripts/
   - enhancements/
   - Gemfile

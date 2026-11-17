@@ -5,7 +5,7 @@ title: Home
 
 <section class="hero">
   <div class="hero-left">
-    <p class="hero-eyebrow">Future Trends: Powered by Data &middot; Updated {{ 'now' | date: "%b %d, %Y" }}</p>
+    <p class="hero-eyebrow">Future Trends: Powered by Data &middot; Research digest: Nov 17, 2026</p>
     <h1 class="hero-title">The future of technology &amp; AI today.</h1>
     <p class="hero-sub">Precise, actionable intelligence on semiconductors, AI, quantum computing, space economy, and the technologies shaping tomorrow. 212+ technology nodes tracked across 14 sectors. Linked to stocks, roadmaps, and real money.</p>
     <div class="hero-actions">
@@ -28,6 +28,27 @@ title: Home
     </div>
   </div>
 </section>
+
+<!-- Research digest: 2026-11-17 -->
+<div class="section-heading">
+  <h2>Research update · November 17, 2026</h2>
+  <span class="section-sub">Selected announcements checked against original publisher pages.</span>
+</div>
+
+<div class="pulse-grid">
+  <div class="pulse-card"><div class="pulse-card-content">
+    <div class="pulse-card-title">Scientific AI tools</div>
+    <div class="pulse-card-desc">NVIDIA announced Nemotron for Science. <a href="https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents">Source</a> · <a href="{{ '/stocks/nvda/' | relative_url }}">NVIDIA research</a></div>
+  </div></div>
+  <div class="pulse-card"><div class="pulse-card-content">
+    <div class="pulse-card-title">Quantum research integration</div>
+    <div class="pulse-card-desc">IBM, NVIDIA and Fermilab plan codesign work. <a href="https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing">Source</a> · <a href="{{ '/stocks/ibm/' | relative_url }}">IBM research</a></div>
+  </div></div>
+  <div class="pulse-card"><div class="pulse-card-content">
+    <div class="pulse-card-title">Training infrastructure</div>
+    <div class="pulse-card-desc">Google published new TPU and GPU training results. <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/">Source</a> · <a href="{{ '/stocks/googl/' | relative_url }}">Alphabet research</a></div>
+  </div></div>
+</div>
 
 <!-- Sector Explorer -->
 <div class="section-heading">

@@ -21,6 +21,12 @@ Deployed at commercial scale with multiple competing vendors. Revenue-generating
 
 > DeepSeek's custom AI HPC cluster. 3D parallelism co-designed with network topology. Achieves 95%+ MFU on large-scale training. Cost-effective alternative to NVIDIA DGX SuperPOD. Demonstrates non-CUDA supercomputing path.
 
+## Research update — November 17, 2026
+
+Google's November 16 report includes MLPerf Training v6.1 results from Ironwood TPU and Grace Blackwell GPU systems. **Interpretation:** large training infrastructure spans multiple accelerator architectures. Compare like-for-like workloads and system configurations before drawing performance conclusions. [Google report](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/)
+
+This update adds dated evidence; it does not recalculate the legacy confidence score or source count below.
+
 ## Status
 
 | Attribute | Value |

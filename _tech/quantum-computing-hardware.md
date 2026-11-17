@@ -21,6 +21,12 @@ Laboratory or proof-of-concept demonstrations successful. Commercial path is not
 
 > RSS:Scientists found a surprisingly simple way to create powerful quantum  | rel=0.47 | uid:0817fd3b9e505878
 
+## Research update — November 17, 2026
+
+NVIDIA announced quantum-classical codesign work with IBM and Fermilab on November 16. **Interpretation:** hardware scaling increasingly depends on classical integration and error correction. The announcement does not establish general-purpose fault-tolerant deployment. [Primary source](https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing)
+
+This update does not recalculate the legacy confidence score or source count below.
+
 ## Status
 
 | Attribute | Value |

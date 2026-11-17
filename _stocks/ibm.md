@@ -9,7 +9,10 @@ bottleneck_count: 1
 ---
 
 ## Investment Thesis
-IBM's most undervalued asset is its quantum computing leadership. IBM has the most commercially mature quantum computing program: over 250,000 registered users through IBM Quantum Network, a roadmap that consistently hits milestones, and the first demonstrations of quantum error correction at meaningful scale. The collaboration with ARM Holdings on dual-architecture hardware is the enterprise AI angle. The core software (watsonx) and consulting business generate stable cash flow funding the quantum program. IBM is a long-duration bet on the 2030s quantum era with near-term cash flow support.
+
+**Research update: November 17, 2026.** NVIDIA's November 16 announcement describes a collaboration with IBM and Fermilab on quantum-classical codesign, error correction and scientific applications. [Primary source](https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing)
+
+**Our interpretation:** IBM's opportunity includes integrating quantum hardware into scientific workflows. The collaboration is a research milestone; it does not demonstrate broad commercial quantum advantage. Watch for reproducible application results, deployment milestones and paying customers before translating technical progress into a revenue thesis.
 
 ## Future Tech Roadmap
 
