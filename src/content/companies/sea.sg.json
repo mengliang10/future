@@ -1,0 +1,29 @@
+{
+  "id": "sea.sg",
+  "title": "Sea Limited",
+  "summary": "Owner of Shopee and Garena, the largest e-commerce and gaming platform in Southeast Asia.",
+  "sector": "marketing",
+  "sourceCategory": "Marketing Tech",
+  "sourcePath": "_stocks/sea.sg.md",
+  "sourceHash": "6c738679a4fdec06bb6163c5c844892ba5e8561903f1d0d7e102b506e662361f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Sea runs Shopee, the leading e-commerce marketplace in Southeast Asia and Brazil, alongside the Garena games business that funded its expansion. It has prioritised growth over margin, then pivoted to profitability, and now invests in live commerce and AI-driven logistics. Brazilian expansion adds a large but expensive second front.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>E-commerce marketplace and logistics.</li>\n<li>Gaming and digital financial services.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Shopee take rate and logistics cost.</li>\n<li>Brazil investment versus Southeast Asian profitability.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSea runs Shopee, the leading e-commerce marketplace in Southeast Asia and Brazil, alongside the Garena games business that funded its expansion. It has prioritised growth over margin, then pivoted to profitability, and now invests in live commerce and AI-driven logistics. Brazilian expansion adds a large but expensive second front.\n\n## Technology Exposure\n\n- E-commerce marketplace and logistics.\n- Gaming and digital financial services.\n\n## What To Watch\n\n- Shopee take rate and logistics cost.\n- Brazil investment versus Southeast Asian profitability.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Sea Limited",
+    "symbol": "SE",
+    "exchange": "NYSE",
+    "categories": [
+      "Marketing Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "SE",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "E-commerce unit economics turn on logistics density; the marketplace that owns delivery controls the cost curve.",
+  "investmentLens": "A growth asset with volatile margins; watch take rate and credit book quality."
+}

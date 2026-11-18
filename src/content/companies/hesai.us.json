@@ -1,0 +1,29 @@
+{
+  "id": "hesai.us",
+  "title": "Hesai",
+  "summary": "The world's largest automotive lidar supplier by volume.",
+  "sector": "autonomous",
+  "sourceCategory": "Autonomous",
+  "sourcePath": "_stocks/hesai.us.md",
+  "sourceHash": "cd36fe3ad07c4623095788d2b3078c42f1485115a6ec83ed1ab3d96795b7873c",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Hesai ships lidar sensors for robotaxis, ADAS and robotics, and has held the largest share of the automotive lidar market by revenue. Chinese automakers adopted lidar faster than US peers, giving Hesai volume and cost advantages, while US policy pressure and litigation have created uncertainty around its access to Western customers. Cost per channel, not range claims, is the metric that decides adoption.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Lidar for ADAS and robotaxi fleets.</li>\n<li>Solid-state sensor designs for mass-market vehicles.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Gross margin as prices fall.</li>\n<li>Access to US and European vehicle programmes.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nHesai ships lidar sensors for robotaxis, ADAS and robotics, and has held the largest share of the automotive lidar market by revenue. Chinese automakers adopted lidar faster than US peers, giving Hesai volume and cost advantages, while US policy pressure and litigation have created uncertainty around its access to Western customers. Cost per channel, not range claims, is the metric that decides adoption.\n\n## Technology Exposure\n\n- Lidar for ADAS and robotaxi fleets.\n- Solid-state sensor designs for mass-market vehicles.\n\n## What To Watch\n\n- Gross margin as prices fall.\n- Access to US and European vehicle programmes.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Hesai",
+    "symbol": "HSAI",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Autonomous"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "HSAI",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Lidar remains a cost line, not a differentiator; suppliers win on price and reliability at volume.",
+  "investmentLens": "Volume leadership with declining ASPs; profitability depends on cost-down execution, not on design wins alone."
+}

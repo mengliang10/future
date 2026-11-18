@@ -1,0 +1,25 @@
+{
+  "id": "cyber-01",
+  "title": "Cybersecurity — Briefing 01",
+  "sector": "cyber",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "ai-autonomous-security-operations-centre",
+    "ai-driven-threat-detection",
+    "confidential-computing-tee",
+    "edr-endpoint-detection-response",
+    "hardware-security-module-hsm",
+    "homomorphic-encryption-practical",
+    "public-key-cryptography-rsaecc",
+    "quantum-key-distribution-network",
+    "sase-secure-access-service-edge",
+    "secure-multi-party-computation",
+    "tlsssl-encrypted-transport",
+    "xdr-extended-detection-response"
+  ]
+}

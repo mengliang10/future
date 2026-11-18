@@ -1,0 +1,12 @@
+---
+import Site from '../layouts/Site.astro';import Icon from '../components/Icon.astro';import {records} from '../lib/catalogue';
+const [technologies,companies,sectors,decks]=await Promise.all(['technologies','companies','sectors','decks'].map(records));
+const pick=(words)=>technologies.find(t=>words.some(w=>(t.title+' '+t.id).toLowerCase().includes(w)));
+const featured=[pick(['ai software engineering agent']),pick(['hbm3']),pick(['fault-tolerant quantum']),pick(['humanoid robot']),pick(['fusion power plant']),pick(['gene therapy']),pick(['silicon photonics'])].filter(Boolean);
+---
+<Site title="The Future Tomorrow" active="Home"><div class="post-feed">
+<article class="post-card pinned-card"><div class="post-card-main"><h1><a href="/research/">Technology research, in plain English.</a></h1><p>Understand what a technology does, why a business should care, and what an investor should question.</p><div class="post-meta"><Icon name="info" size={13}/><span>Start here</span><a href="/explore/">{technologies.length} technologies</a><a href="/companies/">{companies.length} companies</a></div></div><a href="/research/" class="post-illustration" aria-label="How to read the research"><img src="/images/research-overview.svg" width="320" height="200" alt="Technology connected to business and investment"/></a></article>
+{featured.map(record=><article class="post-card"><h2><a href={`/tech/${record.id}/`}>{record.title}</a></h2><p>{record.summary||'Explore the original notes, the development stage and questions for business and investment readers.'}</p><div class="post-meta"><Icon name="categories" size={13}/><a href={`/sectors/${record.sector}/`}>{sectors.find(s=>s.id===record.sector)?.title}</a><span class="meta-dot">·</span><span>{record.stage.replaceAll('_',' ')}</span><a class="post-open" href={`/tech/${record.id}/`} aria-label={`Read ${record.title}`}>Read →</a></div></article>)}
+<article class="post-card presentations-post"><h2><a href="/presentations/">Research you can present.</a></h2><p>{decks.filter(d=>d.mode==='evergreen').length} sector briefings, built from shared research records. Open a deck, read it on your phone, or print to PDF.</p><div class="post-meta"><Icon name="slides" size={14}/><a href="/presentations/">Browse presentations →</a></div></article>
+<div class="feed-next"><a href="/explore/">Explore all technologies <Icon name="arrow" size={16}/></a></div>
+</div></Site>

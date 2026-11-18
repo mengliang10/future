@@ -1,0 +1,18 @@
+---
+import {ClientRouter} from 'astro:transitions';
+import {fade} from 'astro:transitions';
+import '../styles/site.css';
+const {title='The Future Tomorrow',description='Understand the technology. Follow the business. Question the investment.',active=''}=Astro.props;
+const nav=[['Explore','/explore/'],['Roadmaps','/roadmaps/'],['Companies','/companies/'],['Presentations','/presentations/'],['Research','/research/']];
+---
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>{title} | The Future Tomorrow</title><meta name="description" content={description}/><meta name="theme-color" content="#163d33"/><ClientRouter fallback="none"/></head><body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><a href="/" class="brand" aria-label="The Future Tomorrow home"><span class="brand-mark" aria-hidden="true">↗</span><span>THE FUTURE<br/><b>TOMORROW</b></span></a><button class="menu-button" aria-controls="primary-nav" aria-expanded="false" type="button">Menu</button><nav id="primary-nav" aria-label="Primary navigation">{nav.map(([name,href])=><a href={href} aria-current={active===name?'page':undefined}>{name}</a>)}</nav><a class="search-link" href="/explore/" aria-label="Search technologies">Search ↗</a></header>
+<main id="main" transition:animate={fade({duration:'120ms'})}><slot/></main>
+<footer class="footer"><a class="footer-title" href="/">The Future Tomorrow</a><p>Technology, translated. Business and investment questions for curious people.</p><nav aria-label="Footer"><a href="/research/">Evidence & methodology</a><a href="/read/about/">About</a><a href="/read/contact/">Contact</a><a href="https://github.com/mengliang10/future" target="_blank" rel="noopener noreferrer">Original research ↗</a></nav><small>Imported research and market snapshots are not independently verified. Not investment advice.</small></footer>
+<script>
+function setup(){const button=document.querySelector<HTMLButtonElement>('.menu-button'),nav=document.querySelector('#primary-nav');if(!button||button.dataset.ready)return;button.dataset.ready='true';button.addEventListener('click',()=>{const open=nav!.classList.toggle('open');button.setAttribute('aria-expanded',String(open));});}
+document.addEventListener('astro:page-load',setup);setup();
+document.addEventListener('keydown',event=>{if(event.key==='Escape'){document.querySelector('#primary-nav')?.classList.remove('open');document.querySelector('.menu-button')?.setAttribute('aria-expanded','false');}});
+</script>
+</body></html>

@@ -1,0 +1,29 @@
+{
+  "id": "sym",
+  "title": "Symbotic Inc.",
+  "summary": "",
+  "sector": "robotics",
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/sym.md",
+  "sourceHash": "6aba2b0e01e0e556a298655ad66eba4123914f2128a8fdd9d8b04e33a6c32503",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Symbotic builds AI-powered robotic warehouse automation systems: dense-storage autonomous mobile robots (AMRs) plus AI-driven software to run fully automated case-picking warehouses. Walmart is its anchor customer and holds a 12% stake. The system replaces human case-picking workers with robots operating at 2-3x speed in temperature-controlled, high-density storage environments. Revenue is lumpy: large multi-year installation contracts recognised over time. Key risk: Symbotic runs a negative-margin hardware installation business today; the long-term value is in the recurring software/SaaS layer after installations complete. Timeline risk: installation complexity has caused delays and cost overruns with Walmart.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Full Warehouse Automation</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2027</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Symbotic systems are operating in Walmart DCs across the US. This is early commercial deployment at scale: not a pilot, not mass market yet.</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY · 88%</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Collaborative Robot (Cobot)</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Symbotic's AMRs operate alongside humans during installation phases and in mixed-automation environments. Full autonomy is the goal.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Robot Learning from Demonstration</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2027</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Symbotic's AI stack learns optimal picking strategies from operational data. Continuous learning in production warehouses is a competitive moat.</div>\n</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nSymbotic builds AI-powered robotic warehouse automation systems: dense-storage autonomous mobile robots (AMRs) plus AI-driven software to run fully automated case-picking warehouses. Walmart is its anchor customer and holds a 12% stake. The system replaces human case-picking workers with robots operating at 2-3x speed in temperature-controlled, high-density storage environments. Revenue is lumpy: large multi-year installation contracts recognised over time. Key risk: Symbotic runs a negative-margin hardware installation business today; the long-term value is in the recurring software/SaaS layer after installations complete. Timeline risk: installation complexity has caused delays and cost overruns with Walmart.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Full Warehouse Automation</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2027</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Symbotic systems are operating in Walmart DCs across the US. This is early commercial deployment at scale: not a pilot, not mass market yet.</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY · 88%</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Collaborative Robot (Cobot)</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Symbotic's AMRs operate alongside humans during installation phases and in mixed-automation environments. Full autonomy is the goal.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Robot Learning from Demonstration</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2027</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Symbotic's AI stack learns optimal picking strategies from operational data. Continuous learning in production warehouses is a competitive moat.</div>\n</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Symbotic Inc.",
+    "symbol": "SYM",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Robotics",
+      "AI"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "SYM",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

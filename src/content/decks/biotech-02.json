@@ -1,0 +1,25 @@
+{
+  "id": "biotech-02",
+  "title": "Biotech & Health — Briefing 02",
+  "sector": "biotech",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "biomedical-engineering",
+    "biomimetic-cell-membrane-nano",
+    "cancer-elimination-most-types",
+    "car-t-cell-therapy",
+    "circrna-technology",
+    "closed-loop-bio-feedback-wearables",
+    "continuous-health-monitoring",
+    "crispr-base-editing",
+    "crispr-cas9-gene-editing",
+    "crispr-prime-editing",
+    "cultivated-meat-at-scale",
+    "elder-care-home-healthcare"
+  ]
+}

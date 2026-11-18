@@ -1,0 +1,25 @@
+{
+  "id": "ai-10",
+  "title": "AI & Computing — Briefing 10",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "brain-inspired-learning",
+    "brain-to-text-communication",
+    "breakthrough-roadmaps",
+    "bundibugyo-immune-response",
+    "camera-control-generation",
+    "cannot-propose-architectural-alternatives",
+    "carbon-capture-conversion",
+    "causal-ai",
+    "causal-world-model-agents",
+    "cell-differentiation-engineering",
+    "chain-of-thought-reasoning-model",
+    "chain-of-thought-reasoning"
+  ]
+}

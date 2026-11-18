@@ -1,0 +1,25 @@
+{
+  "id": "biotech-03",
+  "title": "Biotech & Health — Briefing 03",
+  "sector": "biotech",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "expanded-rna-drug-portfolio",
+    "gene-therapy-rare-disease-fda-approved",
+    "in-vivo-crispr-therapy",
+    "intelligent-drug-delivery-systems",
+    "invisible-health-monitoring",
+    "long-term-health-patches",
+    "longevity-senolytics-at-scale",
+    "medical-ai-diagnostics",
+    "medical-device-demand",
+    "microbiome-epigenetic-modulation",
+    "mrna-vaccine-therapeutic-platform",
+    "next-generation-sequencing-ngs"
+  ]
+}

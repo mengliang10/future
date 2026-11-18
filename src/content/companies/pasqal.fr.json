@@ -1,0 +1,29 @@
+{
+  "id": "pasqal.fr",
+  "title": "Pasqal",
+  "summary": "French neutral-atom quantum company scaling arrays of laser-trapped atoms.",
+  "sector": "quantum",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/pasqal.fr.md",
+  "sourceHash": "dd1f9bde3c499d3ec2df680e669f5fa26268bcf2399a2cffb854befce533cbe7",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Pasqal builds neutral-atom quantum processors, an approach that scales by trapping more atoms in optical tweezers. It has demonstrated arrays above a thousand atoms and sells cloud access and on-premises systems, with strong backing from French public programmes. Neutral atoms are promising for simulation, less proven for universal computation.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Neutral-atom processors.</li>\n<li>Quantum simulation for chemistry and materials.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Atom-array scaling and fidelity.</li>\n<li>Conversion of pilots into paid systems.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPasqal builds neutral-atom quantum processors, an approach that scales by trapping more atoms in optical tweezers. It has demonstrated arrays above a thousand atoms and sells cloud access and on-premises systems, with strong backing from French public programmes. Neutral atoms are promising for simulation, less proven for universal computation.\n\n## Technology Exposure\n\n- Neutral-atom processors.\n- Quantum simulation for chemistry and materials.\n\n## What To Watch\n\n- Atom-array scaling and fidelity.\n- Conversion of pilots into paid systems.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Pasqal",
+    "symbol": "PASQAL.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "PASQAL.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "For chemistry and materials, analogue quantum simulation may deliver value before general-purpose machines.",
+  "investmentLens": "Publicly funded deep tech; watch customer contracts rather than atom counts."
+}

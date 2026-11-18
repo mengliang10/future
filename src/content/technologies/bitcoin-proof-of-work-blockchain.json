@@ -1,0 +1,43 @@
+{
+  "id": "bitcoin-proof-of-work-blockchain",
+  "title": "Bitcoin Proof-of-Work Blockchain",
+  "summary": "First decentralized permissionless monetary ledger; 15+ years continuous uptime",
+  "sector": "blockchain",
+  "sourceCategory": "Blockchain",
+  "sourcePath": "_tech/bitcoin-proof-of-work-blockchain.md",
+  "sourceHash": "c2a3c2fc8fa0d4846ca95d3da458ab9ed69a2e06b56e8daf6675dcd1082b251e",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>First decentralized permissionless monetary ledger; 15+ years continuous uptime. <strong>Achieved.</strong></p>\n<p>Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks <strong>11 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Entanglement Dynamics of Separable Squeezed States in Finite Memory St | rel=0.44 | uid:4ead8a6ea5d63c08</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Mass Production</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-researching\">Researching</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.50</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>Ongoing / Deployed</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Deployed</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>11</td>\n</tr>\n</tbody>\n</table>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/ethereum-smart-contracts/\">Ethereum Smart Contract Platform</a></li>\n<li><a href=\"/tech/cryptographic-hash/\">Cryptographic Hash (SHA-256)</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/mstr/\">MSTR</a>  <a href=\"/companies/coin/\">COIN</a>  <a href=\"/companies/mara/\">MARA</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nFirst decentralized permissionless monetary ledger; 15+ years continuous uptime. **Achieved.**\n\nDeployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **11 independent sources** on this technology.\n\n> RSS:Entanglement Dynamics of Separable Squeezed States in Finite Memory St | rel=0.44 | uid:4ead8a6ea5d63c08\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Mass Production** |\n| Confidence Level | <span class=\"conf-badge conf-researching\">Researching</span> |\n| Confidence Score | **+0.50** |\n| Estimated Deployment | **Ongoing / Deployed** |\n| Horizon | Deployed |\n| Independent Sources Tracked | 11 |\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [Ethereum Smart Contract Platform](/future/tech/ethereum-smart-contracts/)\n- [Cryptographic Hash (SHA-256)](/future/tech/cryptographic-hash/)\n\n## Investment Exposure\n\n[MSTR](/future/stocks/mstr/)  [COIN](/future/stocks/coin/)  [MARA](/future/stocks/mara/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Bitcoin Proof-of-Work Blockchain",
+    "subtitle": "First decentralized permissionless monetary ledger; 15+ years continuous uptime",
+    "category": "Blockchain",
+    "stage": "mass_production",
+    "confidence_label": "Researching",
+    "est_year": 2021,
+    "est_year_range": "2019\u20132023",
+    "horizon": "Deployed",
+    "source_count": 11,
+    "stocks": [
+      "MSTR",
+      "COIN",
+      "MARA"
+    ],
+    "permalink": "/tech/bitcoin-proof-of-work-blockchain/"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "mass_production",
+  "confidenceLabel": "Researching",
+  "estimate": "2019\u20132023",
+  "estimateYear": 2021,
+  "sourceCount": 11,
+  "companies": [
+    "mstr",
+    "coin",
+    "mara"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

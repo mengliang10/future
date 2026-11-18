@@ -1,0 +1,24 @@
+{
+  "id": "blue.pvt",
+  "title": "Blue Origin",
+  "summary": "",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/blue.pvt.md",
+  "sourceHash": "26526249d8da822a049f56c97fbe49f46e8aa09db999f8d3b6ec2bff2ebf10e2",
+  "bodyHtml": "<p>Blue Origin is Jeff Bezos's aerospace company, focused on lowering the cost of access to space. Their primary vehicles are New Shepard (suborbital) and New Glenn (orbital heavy-lift). The company is also developing the Blue Moon lunar lander for NASA's Artemis program and the Orbital Reef commercial space station.</p>\n<p>Key technical advantages:</p>\n<ul>\n<li><strong>BE-4 Engines:</strong> Liquid methane/oxygen engines powering New Glenn and ULA's Vulcan rocket.</li>\n<li><strong>New Glenn Reusability:</strong> Designed for 25+ reflights with vertical landing on a ship.</li>\n<li><strong>Cislunar Infrastructure:</strong> Integrated focus on lunar landing and long-term space habitats.</li>\n</ul>\n",
+  "bodyMarkdown": "Blue Origin is Jeff Bezos's aerospace company, focused on lowering the cost of access to space. Their primary vehicles are New Shepard (suborbital) and New Glenn (orbital heavy-lift). The company is also developing the Blue Moon lunar lander for NASA's Artemis program and the Orbital Reef commercial space station.\n\nKey technical advantages:\n- **BE-4 Engines:** Liquid methane/oxygen engines powering New Glenn and ULA's Vulcan rocket.\n- **New Glenn Reusability:** Designed for 25+ reflights with vertical landing on a ship.\n- **Cislunar Infrastructure:** Integrated focus on lunar landing and long-term space habitats.",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "BLUE.PVT",
+    "name": "Blue Origin",
+    "sector": "Space Tech"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "BLUE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

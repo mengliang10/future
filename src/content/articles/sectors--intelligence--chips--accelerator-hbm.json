@@ -1,0 +1,13 @@
+{
+  "id": "sectors--intelligence--chips--accelerator-hbm",
+  "title": "Accelerator & HBM",
+  "summary": "",
+  "sourcePath": "sectors/intelligence/chips/accelerator-hbm.md",
+  "sourceHash": "2b291be2f2adb8970c859307bf0ad490c6eb5a633efb947200c1eeb3b1c8fe53",
+  "bodyHtml": "<div class=\"callout callout-info\">\n  <span class=\"callout-icon\">&#8594;</span>\n  <span>This content has been merged into <a href=\"/sectors/semiconductors/\">Advanced Semiconductors</a>.</span>\n</div>",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "Accelerator & HBM",
+    "permalink": "/sectors/intelligence/chips/accelerator-hbm/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "oxford-quantum-circuits.uk",
+  "title": "Oxford Quantum Circuits",
+  "summary": "British superconducting quantum company selling cloud access to a UK-built system.",
+  "sector": "quantum",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/oxford-quantum-circuits.uk.md",
+  "sourceHash": "695bd9ec9bbbff475439ec99754eb1d3fd9676bc104a36d669ecac84fa84295b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Oxford Quantum Circuits builds superconducting processors and offers cloud access to its system, with a focus on enterprise and public-sector users in the UK. It is one of several European quantum companies competing for the same government budgets and the same limited pool of cryogenic engineers. Its differentiator is a compact architecture aimed at easier scale-up.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Superconducting processors and cloud access.</li>\n<li>Quantum software partnerships.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Logical-qubit progress.</li>\n<li>UK and EU procurement wins.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nOxford Quantum Circuits builds superconducting processors and offers cloud access to its system, with a focus on enterprise and public-sector users in the UK. It is one of several European quantum companies competing for the same government budgets and the same limited pool of cryogenic engineers. Its differentiator is a compact architecture aimed at easier scale-up.\n\n## Technology Exposure\n\n- Superconducting processors and cloud access.\n- Quantum software partnerships.\n\n## What To Watch\n\n- Logical-qubit progress.\n- UK and EU procurement wins.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Oxford Quantum Circuits",
+    "symbol": "OQC.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "OQC.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Quantum cloud access is the pragmatic entry point: it avoids capital outlay while the hardware matures.",
+  "investmentLens": "Early-stage and capital-hungry; watch funding rounds and benchmark independence."
+}

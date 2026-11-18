@@ -1,0 +1,31 @@
+{
+  "id": "qcom",
+  "title": "Qualcomm Incorporated",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/qcom.md",
+  "sourceHash": "e3ae4d8d7801221d024854575bad9199f3b1b3cbffb5fd64381893a31813901e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Qualcomm dominates smartphone application processors (Snapdragon) and modems, with a royalty business model on every CDMA/LTE/5G handset shipped globally. The edge AI opportunity is significant: Snapdragon X Elite brings PC-class AI inference to thin-and-light laptops, competing directly with Apple Silicon. Server-class ARM CPU for data centres (Cloud AI 100) positions QCOM in the emerging ARM server market. Royalty revenue provides durable recurring cash flow regardless of chip shipment mix.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Inference at Edge</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">2025</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">On-device AI inference running foundation models on smartphones, PCs, and IoT devices without cloud connectivity</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Snapdragon X Elite (Hexagon NPU at 45 TOPS) and Snapdragon 8 Gen 4 power most flagship Android AI phones. QCOM benefits from every premium smartphone shipped with on-device LLM capability.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">ARM-Based Server CPUs</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2027</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">ARM architecture reaching 40%+ share of new data centre CPU deployments</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Qualcomm Cloud AI 100 and Snapdragon X servers target hyperscaler and enterprise inference workloads. As ARM server penetration grows, QCOM's royalty business and chip revenue both benefit.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nQualcomm dominates smartphone application processors (Snapdragon) and modems, with a royalty business model on every CDMA/LTE/5G handset shipped globally. The edge AI opportunity is significant: Snapdragon X Elite brings PC-class AI inference to thin-and-light laptops, competing directly with Apple Silicon. Server-class ARM CPU for data centres (Cloud AI 100) positions QCOM in the emerging ARM server market. Royalty revenue provides durable recurring cash flow regardless of chip shipment mix.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Inference at Edge</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">2025</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">On-device AI inference running foundation models on smartphones, PCs, and IoT devices without cloud connectivity</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Snapdragon X Elite (Hexagon NPU at 45 TOPS) and Snapdragon 8 Gen 4 power most flagship Android AI phones. QCOM benefits from every premium smartphone shipped with on-device LLM capability.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">ARM-Based Server CPUs</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2027</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">ARM architecture reaching 40%+ share of new data centre CPU deployments</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Qualcomm Cloud AI 100 and Snapdragon X servers target hyperscaler and enterprise inference workloads. As ARM server penetration grows, QCOM's royalty business and chip revenue both benefit.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Qualcomm Incorporated",
+    "symbol": "QCOM",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Semiconductors",
+      "Mobile",
+      "AI Edge"
+    ],
+    "timing_action": "HALF",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "QCOM",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

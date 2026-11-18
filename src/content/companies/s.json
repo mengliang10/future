@@ -1,0 +1,29 @@
+{
+  "id": "s",
+  "title": "SentinelOne Inc.",
+  "summary": "",
+  "sector": "cyber",
+  "sourceCategory": "Cybersecurity",
+  "sourcePath": "_stocks/s.md",
+  "sourceHash": "cbbbf8312d63435430c80f94c0da34e04c3aa464d9178e618ccc9198778a9dbb",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>SentinelOne is an AI-native endpoint detection and response (EDR/XDR) platform. Its Singularity platform uses on-device AI for real-time threat detection without cloud round-trips: a significant latency and privacy advantage for enterprise deployments. Purple AI (the company's AI security analyst) can query the entire enterprise security telemetry in natural language, compressing analyst investigation time from hours to minutes. Revenue growing 30%+ annually but still operating at a loss; the path to profitability is the key debate. Key risk: CrowdStrike is a stronger brand after its controversial but dominant July 2024 incident response; Palo Alto's 'platformisation' strategy is bundling EDR into broader deals.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI-Driven Threat Detection</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; SentinelOne's on-device AI model detects threats in real time without cloud round-trips. Behavioural AI detection is the industry standard shift away from signature-based AV.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI-Autonomous Security Operations Centre</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Purple AI is SentinelOne's AI analyst for security operations: query-driven threat hunting across the full enterprise telemetry. Autonomous SOC is the long-term vision.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">XDR (Extended Detection & Response)</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; SentinelOne's Singularity XDR extends beyond endpoint to cloud, identity, and network. XDR consolidation is the platform play competing with CrowdStrike Falcon and Palo Alto XSIAM.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nSentinelOne is an AI-native endpoint detection and response (EDR/XDR) platform. Its Singularity platform uses on-device AI for real-time threat detection without cloud round-trips: a significant latency and privacy advantage for enterprise deployments. Purple AI (the company's AI security analyst) can query the entire enterprise security telemetry in natural language, compressing analyst investigation time from hours to minutes. Revenue growing 30%+ annually but still operating at a loss; the path to profitability is the key debate. Key risk: CrowdStrike is a stronger brand after its controversial but dominant July 2024 incident response; Palo Alto's 'platformisation' strategy is bundling EDR into broader deals.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI-Driven Threat Detection</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; SentinelOne's on-device AI model detects threats in real time without cloud round-trips. Behavioural AI detection is the industry standard shift away from signature-based AV.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI-Autonomous Security Operations Centre</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Purple AI is SentinelOne's AI analyst for security operations: query-driven threat hunting across the full enterprise telemetry. Autonomous SOC is the long-term vision.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">XDR (Extended Detection & Response)</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; SentinelOne's Singularity XDR extends beyond endpoint to cloud, identity, and network. XDR consolidation is the platform play competing with CrowdStrike Falcon and Palo Alto XSIAM.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "SentinelOne Inc.",
+    "symbol": "S",
+    "exchange": "NYSE",
+    "categories": [
+      "Cybersecurity",
+      "AI"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "S",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

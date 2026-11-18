@@ -1,78 +1,65 @@
-# Future Trends
+# The Future Tomorrow
 
-> The future of technology & AI: today.
+A local Astro research site for technology, business and investment readers, migrated from `mengliang10/future`.
 
-Precise, actionable intelligence on semiconductors, AI, quantum computing, and the technologies shaping tomorrow. Linked to stocks, roadmaps, and real money.
+## Local preview
 
-## Live Site
-
-**https://mengliang10.github.io/future/**
-
-GitHub Pages builds the site automatically every time you push to `main`. Allow 1–2 minutes after a push for changes to appear.
-
----
-
-## Generative Engine Optimization (GEO)
-
-This site is structured specifically to optimize visibility and citation within AI-driven search and synthesis engines (such as Perplexity, ChatGPT Search, Gemini AI Overviews, and Claude):
-1. **Crawl Guidance (`llms.txt`)**: A structured file is hosted at the root (`/llms.txt`) based on the emerging standard to guide LLM crawlers directly to critical technology indices, sector briefs, and methodology resources.
-2. **Factual Claim Structuring**: Core technology profiles are compiled into self-contained, dated assertion blocks (e.g., *"[Technology] is in [production_stage] as of [year] with [evidence_count] sources confirming..."*). This self-contained structure removes pronoun/context ambiguity, making it highly extractable for RAG systems.
-3. **Rich Schema.org Metadata**: Pages embed rich JSON-LD markup containing Schema.org `TechArticle`, `Claim`, and `Dataset` schemas to explicitly signal machine-readable technology properties, temporal coverage, and confidence levels.
-
----
-
-## Local Vector Database & Embeddings
-
-The local research and trading backend leverages a private vector search architecture to compute semantic correlation and deduplicate inputs:
-1. **`sqlite-vec` Database Integration**: The local relational data stores utilize the SQLite extension `sqlite-vec` (version `0.1.9+`) to initialize `vec0` virtual tables. This enables efficient, low-memory Approximate Nearest Neighbor (ANN) searches directly inside database queries.
-2. **Cosine-Similarity & Deduplication**: Textual claims, news feeds, and trading rules are embedded into `float32` vectors. The local pipeline calculates cosine-similarity scores to automatically identify, reconcile, and merge duplicate or highly similar rules.
-3. **Offline Vector Consensus**: Private vectors are stored and queried entirely locally in the offline database system, protecting proprietary strategy intelligence while maintaining high performance for semantic matching.
-
----
-
-## Site Structure
-
-```
-future/
-├── _config.yml              # Site title, URL, baseurl, plugins
-├── _layouts/                # Page templates (default, page, post)
-├── _includes/               # Reusable components
-│   ├── sidebar.html         # Fixed left navigation
-│   ├── head.html            # Meta tags, fonts, Open Graph
-│   ├── footer.html          # Site footer
-│   └── marketing-tags.html  # All ad/analytics tag placeholders
-├── assets/
-│   ├── css/main.css         # Full dark navy theme
-│   ├── js/main.js           # Sidebar toggle, stock table, top movers
-│   └── data/stocks.json     # Stock price data (auto-updated daily)
-├── scripts/
-│   └── fetch_stocks.py      # Python script fetching 100 stocks via yfinance
-├── .github/workflows/
-│   └── fetch-stocks.yml     # GitHub Actions cron job (daily 01:00 UTC)
-├── index.md                 # Homepage
-├── about.md                 # About page
-├── contact.md               # Contact form
-├── stocks/index.md          # Full sortable stock table
-├── sectors/                 # AI, Semiconductors, Quantum, Energy, Hardware, Software
-├── roadmap/                 # Now-2028, 2028-2030, 2030-2040, 2040-2050, 2050+, Far Future
-├── blog/index.md            # Blog index (Substack placeholder)
-└── _posts/                  # Articles (YYYY-MM-DD-title.md format)
+```sh
+npm ci
+npm run build
+npm run preview
 ```
 
----
+Default address: http://127.0.0.1:4330/
 
-## Technology Stack
+Development: `npm run dev`. The website is static and can later be hosted on GitHub Pages. Nothing in this project automatically publishes or changes the live source repository.
 
-| Component | Technology |
-|-----------|-----------|
-| Site generator | Jekyll (GitHub Pages native) |
-| Hosting | GitHub Pages (free) |
-| Stock data | yfinance via GitHub Actions |
-| Contact form | Formspree (free tier) |
-| Fonts | Google Fonts (Space Grotesk, Inter, JetBrains Mono) |
-| Icons | Feather Icons |
-| Analytics | Google Analytics 4 (add your ID) |
+## What is included
 
----
+- 913 technology records and 137 company records, preserved from the downloaded source.
+- 15 normalised sectors, with original category labels retained in each record.
+- Search/filter/pagination explorers, roadmap views, linked companies and original research pages.
+- 85 evergreen HTML briefing manifests, generating 1,168 slides, plus one example fixed snapshot.
+- A common 16:9 Reveal.js slide renderer, responsive reading mode, browser Print/PDF and shared source hooks.
+- Original repository with Git history in `source/original`, original Markdown downloads under `public/source`, and machine-readable import manifest in `qa/import-manifest.json`.
 
-*Content on this site is for informational purposes only and does not constitute financial advice.*
+The records are imported research. Claims, timelines, confidence scores, financial data and source counts have **not** been independently revalidated. The site labels this status and does not describe the market snapshot as live data. A rebuild is not a research review.
+
+## File structure
+
+```text
+src/content/technologies/    canonical structured technology data + preserved notes
+src/content/companies/      company records
+src/content/sectors/        consistent aliases and business/investor questions
+src/content/blocks/         reusable slide framework text
+src/content/decks/          ordered references to records and blocks
+src/content/articles/       preserved original narrative pages
+src/components/Slide.astro  one slide template shared by every briefing
+src/styles/slides.css       shared slide theme
+src/styles/site.css         shared website theme
+scripts/update-record.mjs   targeted changes + dependency impact + backups
+scripts/snapshot-deck.mjs   fixed historical deck data
+scripts/dependencies.mjs    machine-readable dependency map
+```
+
+See [AUTHORING.md](AUTHORING.md) for mass updates and [MIGRATION.md](MIGRATION.md) for provenance and limitations.
+
+## Checks
+
+```sh
+npm run build
+npm run qa
+node scripts/dependencies.mjs
+```
+
+Browser QA covers desktop/tablet/mobile layouts, filters, navigation, no-JavaScript fallback and every generated slide for content/footer overlap. The update propagation test makes a temporary edit, checks all evergreen consumers, verifies snapshot stability, restores the original record and rebuilds:
+
+```sh
+node scripts/verify-shared-update.mjs
+```
+
+The preview uses no analytics or live contact submission. Original contact details remain in the preserved source pages. Existing market-fetch scripts remain archived in `source/original/scripts`; no scheduled tasks were installed.
+
+## Current visual design
+
+The research website now follows the supplied Chirping Astro reference: fixed left sidebar, a compact search/location top bar, a white article-card stream on grey, a right supporting-links panel, Source Sans typography and restrained blue links. Mobile uses an overlay sidebar. Dark mode persists locally, and `/` focuses search. See [DESIGN.md](DESIGN.md) for reference evidence and implementation details. Existing content IDs, deck manifests and batch-update hooks are unchanged. Original before-redesign files are in `source/design-backups/before-chirping`.

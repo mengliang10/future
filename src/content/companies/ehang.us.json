@@ -1,0 +1,29 @@
+{
+  "id": "ehang.us",
+  "title": "EHang",
+  "summary": "China's first certified passenger drone, now seeking paid urban air mobility operations.",
+  "sector": "autonomous",
+  "sourceCategory": "Autonomous",
+  "sourcePath": "_stocks/ehang.us.md",
+  "sourceHash": "084fb9b481195e87f5ada8cc1c0b7ece3702c2d7cec74ece46f324dfeaf0e104",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>EHang obtained type certification for its EH216-S passenger drone in 2023 and production certification shortly after, the first such approvals for an unmanned passenger aircraft. Commercial operations remain limited by airspace rules, vertiport infrastructure and public acceptance. The company is the test case for whether certification alone creates a viable urban air mobility business.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Certified autonomous passenger eVTOL.</li>\n<li>Low-altitude tourism and emergency response use cases.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Paid flight volume and route approvals.</li>\n<li>Unit economics with a safety pilot and ground crew.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nEHang obtained type certification for its EH216-S passenger drone in 2023 and production certification shortly after, the first such approvals for an unmanned passenger aircraft. Commercial operations remain limited by airspace rules, vertiport infrastructure and public acceptance. The company is the test case for whether certification alone creates a viable urban air mobility business.\n\n## Technology Exposure\n\n- Certified autonomous passenger eVTOL.\n- Low-altitude tourism and emergency response use cases.\n\n## What To Watch\n\n- Paid flight volume and route approvals.\n- Unit economics with a safety pilot and ground crew.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "EHang",
+    "symbol": "EH",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Autonomous"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "EH",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Certification is necessary but not sufficient; the constraint is airspace and ground infrastructure, not the aircraft.",
+  "investmentLens": "Watch operating hours and revenue per aircraft; certification milestones have repeatedly outpaced commercial reality."
+}

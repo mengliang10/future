@@ -1,0 +1,30 @@
+{
+  "id": "noc",
+  "title": "Northrop Grumman Corporation",
+  "summary": "",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/noc.md",
+  "sourceHash": "84fbad4d8391736b914c31b88b0f9a696d220e7a894de4a251479046a2e914b9",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Northrop Grumman is the prime contractor for the US Space Force, GBSD (nuclear deterrent replacement), B-21 stealth bomber, and James Webb Space Telescope. As space becomes a contested domain and nuclear modernisation accelerates, Northrop's backlog is nearly irreplaceable. A consistent dividend grower with strategic programme lock-in.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>B-21 Raider:</strong> Next-generation stealth bomber: a generational programme that will span decades.</li>\n<li><strong>Space Systems:</strong> Satellite intelligence, missile warning, and space domain awareness contracts.</li>\n<li><strong>GBSD (Sentinel):</strong> Ground-based nuclear deterrent replacement: a $100B+ programme spanning 30 years.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Cost Overruns:</strong> Fixed-price development contracts on B-21 carry risk of margin compression.</li>\n<li><strong>Budget Cycles:</strong> Pentagon budget negotiations create quarterly uncertainty.</li>\n</ul>\n",
+  "bodyMarkdown": "## Investment Thesis\nNorthrop Grumman is the prime contractor for the US Space Force, GBSD (nuclear deterrent replacement), B-21 stealth bomber, and James Webb Space Telescope. As space becomes a contested domain and nuclear modernisation accelerates, Northrop's backlog is nearly irreplaceable. A consistent dividend grower with strategic programme lock-in.\n\n### Key Drivers\n- **B-21 Raider:** Next-generation stealth bomber: a generational programme that will span decades.\n- **Space Systems:** Satellite intelligence, missile warning, and space domain awareness contracts.\n- **GBSD (Sentinel):** Ground-based nuclear deterrent replacement: a $100B+ programme spanning 30 years.\n\n### Risk Factors\n- **Cost Overruns:** Fixed-price development contracts on B-21 carry risk of margin compression.\n- **Budget Cycles:** Pentagon budget negotiations create quarterly uncertainty.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Northrop Grumman Corporation",
+    "symbol": "NOC",
+    "exchange": "NYSE",
+    "categories": [
+      "Space Tech",
+      "Defence"
+    ],
+    "timing_action": "FULL",
+    "regime": "TRENDING_DOWN"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "NOC",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

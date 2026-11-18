@@ -1,0 +1,36 @@
+{
+  "id": "brazil-pix",
+  "title": "Brazil Pix instant payments",
+  "summary": "Brazil's central-bank instant payment system, which rapidly displaced cash and transfers.",
+  "sector": "markets",
+  "sourceCategory": "Financial Markets",
+  "sourcePath": "_tech/brazil-pix.md",
+  "sourceHash": "ff9aef5f9211ae2fb54d9e9ec949c3839b6f05dd0ecff264941b2bc849690a6d",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Pix launched in 2020 and became the country's dominant payment method within four years, with free person-to-person transfers and mandatory participation by large banks. It lowered the cost of digital transactions and forced incumbents to compete on service rather than float. Pix also created a base for credit and for open-finance products.</p>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development stage</td>\n<td><strong>Mass production</strong></td>\n</tr>\n<tr>\n<td>Estimated window</td>\n<td><strong>2020–2030</strong></td>\n</tr>\n<tr>\n<td>Confidence label</td>\n<td>Confirmed</td>\n</tr>\n<tr>\n<td>Evidence</td>\n<td>Editorial synthesis of company, agency and press reporting</td>\n</tr>\n<tr>\n<td>Compiled</td>\n<td>18 November 2026</td>\n</tr>\n</tbody>\n</table>\n<h2>Related records</h2>\n<h2>Investment Exposure</h2>\n<p>When a central bank makes payments a utility, banks must earn margin from credit and relationships instead of transactions.</p>\n<h2>What Would Change The View</h2>\n<ul>\n<li>Merchant payment share versus cards.</li>\n<li>Pix credit and instalment products.</li>\n<li>Fraud controls.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nPix launched in 2020 and became the country's dominant payment method within four years, with free person-to-person transfers and mandatory participation by large banks. It lowered the cost of digital transactions and forced incumbents to compete on service rather than float. Pix also created a base for credit and for open-finance products.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development stage | **Mass production** |\n| Estimated window | **2020–2030** |\n| Confidence label | Confirmed |\n| Evidence | Editorial synthesis of company, agency and press reporting |\n| Compiled | 18 November 2026 |\n\n## Related records\n\n\n## Investment Exposure\n\nWhen a central bank makes payments a utility, banks must earn margin from credit and relationships instead of transactions.\n\n## What Would Change The View\n\n- Merchant payment share versus cards.\n- Pix credit and instalment products.\n- Fraud controls.\n\n## Record Notes\n\nEditorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Brazil Pix instant payments",
+    "subtitle": "Brazil's central-bank instant payment system, which rapidly displaced cash and transfers.",
+    "category": "Financial Markets",
+    "stage": "mass_production",
+    "confidence_label": "Confirmed",
+    "est_year": 2020,
+    "est_year_range": "2020–2030",
+    "horizon": "Near-Term (through 2028)",
+    "source_count": 0,
+    "stocks": [],
+    "permalink": "/tech/brazil-pix/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "stage": "mass_production",
+  "confidenceLabel": "Confirmed",
+  "estimate": "2020–2030",
+  "estimateYear": 2020,
+  "companies": [
+    "nubank.br"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

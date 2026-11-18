@@ -1,0 +1,30 @@
+{
+  "id": "byd.hk",
+  "title": "BYD Company",
+  "summary": "",
+  "sector": "other",
+  "sourceCategory": "Robotics & Auto",
+  "sourcePath": "_stocks/byd.hk.md",
+  "sourceHash": "a6b28291420c4adeea3d47b5d56c33cfeb564b3d596dce72e82fa6b1c091e65c",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>BYD is the world's largest EV manufacturer and a vertically integrated battery giant, leading the shift to LFP and solid-state chemistries.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nBYD is the world's largest EV manufacturer and a vertically integrated battery giant, leading the shift to LFP and solid-state chemistries.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "BYD Company",
+    "symbol": "BYD.HK",
+    "exchange": "HKEX",
+    "categories": [
+      "Robotics & Auto",
+      "Energy Tech"
+    ],
+    "node_count": 1,
+    "bottleneck_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "BYD.HK",
+  "exchange": "HKEX",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

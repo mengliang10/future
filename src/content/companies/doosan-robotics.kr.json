@@ -1,0 +1,29 @@
+{
+  "id": "doosan-robotics.kr",
+  "title": "Doosan Robotics",
+  "summary": "Korean collaborative-robot maker moving from cobots into service and logistics automation.",
+  "sector": "robotics",
+  "sourceCategory": "Robotics & Automation",
+  "sourcePath": "_stocks/doosan-robotics.kr.md",
+  "sourceHash": "b7dab8178a41aa9cc36161893750c713f68e6578b72ef9d26be9712fa342c761",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Doosan Robotics listed in 2023 and sells collaborative arms used in manufacturing, food service and logistics. It is a smaller player than Fanuc or Universal Robots, and its strategy is to pair hardware with application software for tasks that traditional industrial robots cannot handle. Revenue remains modest relative to valuation, which reflects expectations about embodied AI rather than current orders.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Collaborative robot arms.</li>\n<li>Application software for service automation.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Order intake outside Korea.</li>\n<li>Whether AI features translate into paid deployments.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nDoosan Robotics listed in 2023 and sells collaborative arms used in manufacturing, food service and logistics. It is a smaller player than Fanuc or Universal Robots, and its strategy is to pair hardware with application software for tasks that traditional industrial robots cannot handle. Revenue remains modest relative to valuation, which reflects expectations about embodied AI rather than current orders.\n\n## Technology Exposure\n\n- Collaborative robot arms.\n- Application software for service automation.\n\n## What To Watch\n\n- Order intake outside Korea.\n- Whether AI features translate into paid deployments.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Doosan Robotics",
+    "symbol": "454910.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Robotics & Automation"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "454910.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Cobots pay back where changeover is frequent and safety fencing is expensive; the software is what makes that possible.",
+  "investmentLens": "Early-stage revenue against a growth multiple; watch backlog conversion."
+}

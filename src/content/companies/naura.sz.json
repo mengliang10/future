@@ -1,0 +1,29 @@
+{
+  "id": "naura.sz",
+  "title": "NAURA Technology",
+  "summary": "China's largest semiconductor equipment maker, filling the gap left by export controls.",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/naura.sz.md",
+  "sourceHash": "3fcdafa3ed891d88626d8cc58cd2c4330a3e840a6b212da15b8f0ab48a449849",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>NAURA supplies etch, deposition, cleaning and furnace equipment to Chinese fabs. As US, Japanese and Dutch toolmakers restricted advanced exports, domestic fabs were pushed toward local suppliers, and NAURA became the largest of them. The company's growth is therefore a direct function of Chinese capex and of how quickly its tools qualify at advanced nodes.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Etch and deposition tools for mature and advanced fabs.</li>\n<li>Domestic replacement of restricted imports.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Qualification progress at leading-edge fabs.</li>\n<li>Order growth versus Chinese fab capex cycle.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNAURA supplies etch, deposition, cleaning and furnace equipment to Chinese fabs. As US, Japanese and Dutch toolmakers restricted advanced exports, domestic fabs were pushed toward local suppliers, and NAURA became the largest of them. The company's growth is therefore a direct function of Chinese capex and of how quickly its tools qualify at advanced nodes.\n\n## Technology Exposure\n\n- Etch and deposition tools for mature and advanced fabs.\n- Domestic replacement of restricted imports.\n\n## What To Watch\n\n- Qualification progress at leading-edge fabs.\n- Order growth versus Chinese fab capex cycle.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "NAURA Technology",
+    "symbol": "002371.SZ",
+    "exchange": "SZSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "002371.SZ",
+  "exchange": "SZSE",
+  "private": false,
+  "businessMeaning": "Equipment localisation is the binding constraint on Chinese chip capacity; tool qualification timelines set the real limit.",
+  "investmentLens": "Revenue tracks domestic capex with a lag; watch bookings and customer concentration."
+}

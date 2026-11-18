@@ -1,0 +1,24 @@
+{
+  "id": "laser.jp",
+  "title": "Lasertec",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/laser.jp.md",
+  "sourceHash": "7b6aaa9508f05a98fab643fa4085ecfefa033ca56c84818509ab14c868220229",
+  "bodyHtml": "<p>Lasertec is the only company in the world that produces EUV mask inspection systems. Without Lasertec's tools, it is impossible to detect defects in the photomasks used for EUV lithography, making them a critical &quot;bottleneck of the bottleneck&quot; for the entire leading-edge semiconductor industry.</p>\n<p>Key technical advantages:</p>\n<ul>\n<li><strong>ACTIS Series:</strong> The definitive actinic (using EUV light itself) inspection tool for EUV masks.</li>\n<li><strong>High-NA Readiness:</strong> Developing inspection tools for the next generation of High-NA EUV masks.</li>\n<li><strong>Proprietary Optics:</strong> Unique expertise in ultra-high-resolution imaging at extreme ultraviolet wavelengths.</li>\n</ul>\n",
+  "bodyMarkdown": "Lasertec is the only company in the world that produces EUV mask inspection systems. Without Lasertec's tools, it is impossible to detect defects in the photomasks used for EUV lithography, making them a critical \"bottleneck of the bottleneck\" for the entire leading-edge semiconductor industry.\n\nKey technical advantages:\n- **ACTIS Series:** The definitive actinic (using EUV light itself) inspection tool for EUV masks.\n- **High-NA Readiness:** Developing inspection tools for the next generation of High-NA EUV masks.\n- **Proprietary Optics:** Unique expertise in ultra-high-resolution imaging at extreme ultraviolet wavelengths.",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "LASER.JP",
+    "name": "Lasertec",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "LASER.JP",
+  "exchange": "Not recorded",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

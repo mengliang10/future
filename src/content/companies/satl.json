@@ -1,0 +1,29 @@
+{
+  "id": "satl",
+  "title": "Satellogic",
+  "summary": "",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/satl.md",
+  "sourceHash": "d1610560b33cde2cddface59fb124cb0aff24f9d68686456e1c774f22e6d2461",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Satellogic provides sub-metre resolution satellite imagery with a focus on agriculture, energy, and government analytics.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for SATL is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSatellogic provides sub-metre resolution satellite imagery with a focus on agriculture, energy, and government analytics.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for SATL is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Satellogic",
+    "symbol": "SATL",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Space Tech"
+    ],
+    "timing_action": "FULL",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "SATL",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

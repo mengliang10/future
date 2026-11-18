@@ -1,0 +1,25 @@
+{
+  "id": "semiconductors-07",
+  "title": "Semiconductors — Briefing 07",
+  "sector": "semiconductors",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "semiconductor-manufacturing-yield",
+    "semiconductor-manufacturing",
+    "semiconductor-packaging",
+    "semiconductor-supercycle",
+    "sic-chip-embedded-power-packaging",
+    "sic-power-semiconductors",
+    "silicon-carbide",
+    "silicon-photonics-interconnect",
+    "silicon-transistor-planar-mosfet",
+    "single-chip-quantum-systems",
+    "social-media-user-demand",
+    "tem-metrology-semiconductor"
+  ]
+}

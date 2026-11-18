@@ -1,0 +1,241 @@
+{
+  "timelineFiltering": true,
+  "timelinePagination": true,
+  "layouts": [
+    {
+      "route": "/",
+      "label": "desktop",
+      "w": 1440,
+      "scroll": 1425,
+      "h1": 1
+    },
+    {
+      "route": "/explore/",
+      "label": "desktop",
+      "w": 1440,
+      "scroll": 1425,
+      "h1": 1
+    },
+    {
+      "route": "/companies/",
+      "label": "desktop",
+      "w": 1440,
+      "scroll": 1425,
+      "h1": 1
+    },
+    {
+      "route": "/presentations/",
+      "label": "desktop",
+      "w": 1440,
+      "scroll": 1425,
+      "h1": 1
+    },
+    {
+      "route": "/roadmaps/",
+      "label": "desktop",
+      "w": 1440,
+      "scroll": 1425,
+      "h1": 1
+    },
+    {
+      "route": "/research/",
+      "label": "desktop",
+      "w": 1440,
+      "scroll": 1425,
+      "h1": 1
+    },
+    {
+      "route": "/tech/artificial-general-intelligence/",
+      "label": "desktop",
+      "w": 1440,
+      "scroll": 1425,
+      "h1": 1
+    },
+    {
+      "route": "/companies/nvda/",
+      "label": "desktop",
+      "w": 1440,
+      "scroll": 1425,
+      "h1": 1
+    },
+    {
+      "route": "/",
+      "label": "tablet",
+      "w": 900,
+      "scroll": 885,
+      "h1": 1
+    },
+    {
+      "route": "/explore/",
+      "label": "tablet",
+      "w": 900,
+      "scroll": 885,
+      "h1": 1
+    },
+    {
+      "route": "/companies/",
+      "label": "tablet",
+      "w": 900,
+      "scroll": 885,
+      "h1": 1
+    },
+    {
+      "route": "/presentations/",
+      "label": "tablet",
+      "w": 900,
+      "scroll": 885,
+      "h1": 1
+    },
+    {
+      "route": "/roadmaps/",
+      "label": "tablet",
+      "w": 900,
+      "scroll": 885,
+      "h1": 1
+    },
+    {
+      "route": "/research/",
+      "label": "tablet",
+      "w": 900,
+      "scroll": 885,
+      "h1": 1
+    },
+    {
+      "route": "/tech/artificial-general-intelligence/",
+      "label": "tablet",
+      "w": 900,
+      "scroll": 885,
+      "h1": 1
+    },
+    {
+      "route": "/companies/nvda/",
+      "label": "tablet",
+      "w": 900,
+      "scroll": 885,
+      "h1": 1
+    },
+    {
+      "route": "/",
+      "label": "mobile",
+      "w": 390,
+      "scroll": 390,
+      "h1": 1
+    },
+    {
+      "route": "/explore/",
+      "label": "mobile",
+      "w": 390,
+      "scroll": 390,
+      "h1": 1
+    },
+    {
+      "route": "/companies/",
+      "label": "mobile",
+      "w": 390,
+      "scroll": 390,
+      "h1": 1
+    },
+    {
+      "route": "/presentations/",
+      "label": "mobile",
+      "w": 390,
+      "scroll": 390,
+      "h1": 1
+    },
+    {
+      "route": "/roadmaps/",
+      "label": "mobile",
+      "w": 390,
+      "scroll": 390,
+      "h1": 1
+    },
+    {
+      "route": "/research/",
+      "label": "mobile",
+      "w": 390,
+      "scroll": 390,
+      "h1": 1
+    },
+    {
+      "route": "/tech/artificial-general-intelligence/",
+      "label": "mobile",
+      "w": 390,
+      "scroll": 390,
+      "h1": 1
+    },
+    {
+      "route": "/companies/nvda/",
+      "label": "mobile",
+      "w": 390,
+      "scroll": 390,
+      "h1": 1
+    },
+    {
+      "route": "/",
+      "label": "small-mobile",
+      "w": 320,
+      "scroll": 320,
+      "h1": 1
+    },
+    {
+      "route": "/explore/",
+      "label": "small-mobile",
+      "w": 320,
+      "scroll": 320,
+      "h1": 1
+    },
+    {
+      "route": "/companies/",
+      "label": "small-mobile",
+      "w": 320,
+      "scroll": 320,
+      "h1": 1
+    },
+    {
+      "route": "/presentations/",
+      "label": "small-mobile",
+      "w": 320,
+      "scroll": 320,
+      "h1": 1
+    },
+    {
+      "route": "/roadmaps/",
+      "label": "small-mobile",
+      "w": 320,
+      "scroll": 320,
+      "h1": 1
+    },
+    {
+      "route": "/research/",
+      "label": "small-mobile",
+      "w": 320,
+      "scroll": 320,
+      "h1": 1
+    },
+    {
+      "route": "/tech/artificial-general-intelligence/",
+      "label": "small-mobile",
+      "w": 320,
+      "scroll": 320,
+      "h1": 1
+    },
+    {
+      "route": "/companies/nvda/",
+      "label": "small-mobile",
+      "w": 320,
+      "scroll": 320,
+      "h1": 1
+    }
+  ],
+  "clientNavigation": true,
+  "themeToggle": true,
+  "themePersistence": true,
+  "searchShortcut": true,
+  "search": true,
+  "privateCompanyFilter": true,
+  "noJsFallback": true,
+  "decksChecked": 86,
+  "slidesChecked": 1183,
+  "slideIssues": [],
+  "runtimeErrors": []
+}

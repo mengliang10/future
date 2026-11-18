@@ -1,0 +1,29 @@
+{
+  "id": "tencent.hk",
+  "title": "Tencent",
+  "summary": "Owner of WeChat and the Hunyuan model family, with the widest consumer distribution in China.",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/tencent.hk.md",
+  "sourceHash": "7df178c6eb8110a51761a3bab03408320c7ff4f4a582376d7c015bfb2a24a98b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Tencent reaches more than a billion users through WeChat and monetises them through games, advertising and fintech. Its AI strategy is distribution-led: Hunyuan models are embedded in existing products rather than sold as standalone APIs. That keeps customer acquisition cheap but makes AI revenue hard to separate from the advertising and gaming lines that already exist, and it exposes the group to Chinese advertising cycles.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Consumer-scale inference across WeChat, games and payments.</li>\n<li>Enterprise AI through Tencent Cloud and Hunyuan API access.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Advertising growth attributable to AI-ranked inventory.</li>\n<li>Capex guidance and domestic accelerator supply.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTencent reaches more than a billion users through WeChat and monetises them through games, advertising and fintech. Its AI strategy is distribution-led: Hunyuan models are embedded in existing products rather than sold as standalone APIs. That keeps customer acquisition cheap but makes AI revenue hard to separate from the advertising and gaming lines that already exist, and it exposes the group to Chinese advertising cycles.\n\n## Technology Exposure\n\n- Consumer-scale inference across WeChat, games and payments.\n- Enterprise AI through Tencent Cloud and Hunyuan API access.\n\n## What To Watch\n\n- Advertising growth attributable to AI-ranked inventory.\n- Capex guidance and domestic accelerator supply.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Tencent",
+    "symbol": "0700.HK",
+    "exchange": "HKEX",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "0700.HK",
+  "exchange": "HKEX",
+  "private": false,
+  "businessMeaning": "Distribution, not benchmark scores, is the moat to test: does an AI feature change a paid behaviour inside an app people already open daily?",
+  "investmentLens": "Tencent is a cash-flow compounder with an AI option attached; value the option separately from the core."
+}

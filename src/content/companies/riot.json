@@ -1,0 +1,30 @@
+{
+  "id": "riot",
+  "title": "Riot Platforms Inc.",
+  "summary": "",
+  "sector": "blockchain",
+  "sourceCategory": "Blockchain",
+  "sourcePath": "_stocks/riot.md",
+  "sourceHash": "69a3b3e620f1a775978cd870c209ff8e9c86d2da1446d96a2c2f6a9b24108bad",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Riot is the lowest-cost public Bitcoin miner through a structural advantage: power credits. Their Rockdale, Texas facility earns curtailment payments from ERCOT in exchange for cutting power during grid stress: effectively mining Bitcoin at near-zero energy cost during those windows.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>Power Credits:</strong> Up to $40M+ annually in ERCOT curtailment credits: a unique structural edge.</li>\n<li><strong>Whinstone Campus:</strong> 1+ GW of power capacity: platform for HPC expansion.</li>\n<li><strong>Clean Energy Mix:</strong> Lower carbon footprint = ESG-friendly institutional access.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Texas Grid Risk:</strong> Extreme weather events can suspend operations.</li>\n<li><strong>BTC Price Dependency:</strong> All mining economics depend on BTC staying above cost basis.</li>\n</ul>\n",
+  "bodyMarkdown": "## Investment Thesis\nRiot is the lowest-cost public Bitcoin miner through a structural advantage: power credits. Their Rockdale, Texas facility earns curtailment payments from ERCOT in exchange for cutting power during grid stress: effectively mining Bitcoin at near-zero energy cost during those windows.\n\n### Key Drivers\n- **Power Credits:** Up to $40M+ annually in ERCOT curtailment credits: a unique structural edge.\n- **Whinstone Campus:** 1+ GW of power capacity: platform for HPC expansion.\n- **Clean Energy Mix:** Lower carbon footprint = ESG-friendly institutional access.\n\n### Risk Factors\n- **Texas Grid Risk:** Extreme weather events can suspend operations.\n- **BTC Price Dependency:** All mining economics depend on BTC staying above cost basis.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Riot Platforms Inc.",
+    "symbol": "RIOT",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Blockchain",
+      "Mining"
+    ],
+    "timing_action": "HALF",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "RIOT",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

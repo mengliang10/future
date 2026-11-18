@@ -1,0 +1,29 @@
+{
+  "id": "quantumctek.sh",
+  "title": "QuantumCTek",
+  "summary": "China's listed quantum key distribution equipment supplier.",
+  "sector": "quantum",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/quantumctek.sh.md",
+  "sourceHash": "635a37ce3769b4d77ddb7b09145b81a704f3554e173a24dea225b1f10f37d02a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>QuantumCTek sells quantum key distribution hardware and network equipment, largely to government and utility customers in China. Revenue is small and project-based, tied to national quantum communication networks rather than commercial demand. It is the clearest listed proxy for state-backed quantum networking, which is a different business from quantum computing.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>QKD terminals and metropolitan network equipment.</li>\n<li>Quantum-safe communication for state and utility networks.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Project awards and recognition timing.</li>\n<li>Whether QKD wins against post-quantum cryptography in commercial networks.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nQuantumCTek sells quantum key distribution hardware and network equipment, largely to government and utility customers in China. Revenue is small and project-based, tied to national quantum communication networks rather than commercial demand. It is the clearest listed proxy for state-backed quantum networking, which is a different business from quantum computing.\n\n## Technology Exposure\n\n- QKD terminals and metropolitan network equipment.\n- Quantum-safe communication for state and utility networks.\n\n## What To Watch\n\n- Project awards and recognition timing.\n- Whether QKD wins against post-quantum cryptography in commercial networks.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "QuantumCTek",
+    "symbol": "688027.SH",
+    "exchange": "SSE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "688027.SH",
+  "exchange": "SSE",
+  "private": false,
+  "businessMeaning": "QKD solves key distribution only; it does not protect stored data, and post-quantum cryptography is the cheaper default for most enterprises.",
+  "investmentLens": "A policy-order business with lumpy revenue; size positions to project cycles, not to a TAM story."
+}

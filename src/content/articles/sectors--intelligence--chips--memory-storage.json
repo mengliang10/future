@@ -1,0 +1,13 @@
+{
+  "id": "sectors--intelligence--chips--memory-storage",
+  "title": "Memory & Storage",
+  "summary": "",
+  "sourcePath": "sectors/intelligence/chips/memory-storage.md",
+  "sourceHash": "6c6d32084e4917d4a88a4d896c52f5d5351f7636c5859bb360654d87115028a1",
+  "bodyHtml": "<div class=\"callout callout-info\">\n  <span class=\"callout-icon\">&#8594;</span>\n  <span>This content has been merged into <a href=\"/sectors/semiconductors/\">Advanced Semiconductors</a>.</span>\n</div>",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "Memory & Storage",
+    "permalink": "/sectors/intelligence/chips/memory-storage/"
+  }
+}

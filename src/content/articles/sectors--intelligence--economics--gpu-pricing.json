@@ -1,0 +1,13 @@
+{
+  "id": "sectors--intelligence--economics--gpu-pricing",
+  "title": "GPU Pricing Index",
+  "summary": "",
+  "sourcePath": "sectors/intelligence/economics/gpu-pricing.md",
+  "sourceHash": "b97809b66b661a01847441ad99676afb5062cb2aae00fe92f49a47f2ce7b90d5",
+  "bodyHtml": "<div class=\"callout callout-info\">\n  <span class=\"callout-icon\">&#8594;</span>\n  <span>This content has been merged into <a href=\"/sectors/semiconductors/\">Advanced Semiconductors</a>.</span>\n</div>",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "GPU Pricing Index",
+    "permalink": "/sectors/intelligence/economics/gpu-pricing/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "thales.fr",
+  "title": "Thales",
+  "summary": "French defence electronics and cybersecurity group with quantum-sensing research.",
+  "sector": "cyber",
+  "sourceCategory": "Cybersecurity",
+  "sourcePath": "_stocks/thales.fr.md",
+  "sourceHash": "7138d5ac7eba5a8b6659f70bf88f35e85398dbf8bad783f1a25d0a1b0f5e594e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Thales supplies radar, avionics, secure communications and cybersecurity, and its research arm works on quantum sensors and post-quantum cryptography. Defence budgets in Europe are rising, which supports order intake across the group. Its cyber business sells the practical response to state-linked attacks rather than consumer software.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Defence electronics and secure communications.</li>\n<li>Cybersecurity and quantum-safe cryptography.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>European defence budget execution.</li>\n<li>Quantum-sensing programme conversion.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nThales supplies radar, avionics, secure communications and cybersecurity, and its research arm works on quantum sensors and post-quantum cryptography. Defence budgets in Europe are rising, which supports order intake across the group. Its cyber business sells the practical response to state-linked attacks rather than consumer software.\n\n## Technology Exposure\n\n- Defence electronics and secure communications.\n- Cybersecurity and quantum-safe cryptography.\n\n## What To Watch\n\n- European defence budget execution.\n- Quantum-sensing programme conversion.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Thales",
+    "symbol": "HO.PA",
+    "exchange": "EURONEXT",
+    "categories": [
+      "Cybersecurity"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "HO.PA",
+  "exchange": "EURONEXT",
+  "private": false,
+  "businessMeaning": "Security procurement is driven by threat perception and regulation; budget cycles matter more than product novelty.",
+  "investmentLens": "A defence compounder with a cyber option; order book visibility is high."
+}

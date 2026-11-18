@@ -1,0 +1,29 @@
+{
+  "id": "alibaba.hk",
+  "title": "Alibaba Group",
+  "summary": "China's largest public cloud and e-commerce group, and the main distributor of open-weight Qwen models.",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/alibaba.hk.md",
+  "sourceHash": "b4cf5f8a6ced47fbbf60ff08feb0e80619b58d382b47cbc72a48ffb7a14a6e06",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Alibaba operates Aliyun, the largest public cloud in China, and publishes the Qwen family of open-weight models that much of the domestic AI ecosystem fine-tunes. In February 2025 management guided to more than RMB 380bn of AI and cloud capital expenditure over three years, which converts the cloud division from a software margin business into a capital-intensive utility. Commerce still funds the programme; the open question is whether inference revenue scales before depreciation does.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Large-scale training and inference capacity inside China.</li>\n<li>Distribution of Qwen weights to overseas developers who cannot buy US APIs at scale.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Cloud revenue growth against rising depreciation.</li>\n<li>Whether Qwen licensing converts into paid cloud demand rather than self-hosting.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAlibaba operates Aliyun, the largest public cloud in China, and publishes the Qwen family of open-weight models that much of the domestic AI ecosystem fine-tunes. In February 2025 management guided to more than RMB 380bn of AI and cloud capital expenditure over three years, which converts the cloud division from a software margin business into a capital-intensive utility. Commerce still funds the programme; the open question is whether inference revenue scales before depreciation does.\n\n## Technology Exposure\n\n- Large-scale training and inference capacity inside China.\n- Distribution of Qwen weights to overseas developers who cannot buy US APIs at scale.\n\n## What To Watch\n\n- Cloud revenue growth against rising depreciation.\n- Whether Qwen licensing converts into paid cloud demand rather than self-hosting.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Alibaba Group",
+    "symbol": "9988.HK",
+    "exchange": "HKEX",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "9988.HK",
+  "exchange": "HKEX",
+  "private": false,
+  "businessMeaning": "For a foreign operator, Qwen-class open weights mean a credible low-cost model option that can be self-hosted, subject to data-residency and export-control review.",
+  "investmentLens": "Watch the capex-to-cloud-revenue ratio. A capex cycle without matching inference revenue compresses returns regardless of model quality."
+}

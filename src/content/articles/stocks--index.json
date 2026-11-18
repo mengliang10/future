@@ -1,0 +1,13 @@
+{
+  "id": "stocks--index",
+  "title": "Stocks",
+  "summary": "100 tracked tech and future-tech stocks: sortable, filterable, live-updated daily.",
+  "sourcePath": "stocks/index.md",
+  "sourceHash": "8febed67101d6461857130cc7b39346b285475c1c6384cbc366838cfc978b35b",
+  "bodyHtml": "<div class=\"section-heading\">\n  <h2>All Tracked Symbols</h2>\n  <span class=\"section-sub\">100 tracked tech and future-tech stocks: sortable and filterable.</span>\n</div>\n</div>\n<div class=\"stocks-controls\">\n  <input type=\"text\" id=\"stock-search\" class=\"search-input\" placeholder=\"Search ticker or company name...\">\n  <button class=\"sort-btn active\" data-sort=\"market_cap\">By Market Cap</button>\n  <button class=\"sort-btn\" data-sort=\"ticker\">A &ndash; Z</button>\n  <button class=\"sort-btn\" data-sort=\"change_pct\">By % Change</button>\n</div>\n<div id=\"sector-filters\" class=\"sector-filter\"></div>\n<div style=\"display:flex; align-items:center; justify-content:space-between; margin-bottom:0.75rem;\">\n  <span id=\"stocks-count\" style=\"font-size:0.78rem; color:var(--text-3);\"></span>\n  <span id=\"stocks-updated\" style=\"font-size:0.72rem; color:var(--text-3); font-family:var(--font-mono);\"></span>\n</div>\n<div class=\"stocks-table-wrap\">\n  <table class=\"stocks-table\">\n    <thead>\n      <tr>\n        <th data-sort=\"ticker\">Ticker</th>\n        <th data-sort=\"name\">Company</th>\n        <th data-sort=\"sector\">Sector</th>\n        <th data-sort=\"price\" style=\"text-align:right;\">Price</th>\n        <th data-sort=\"change_pct\" style=\"text-align:right;\">%</th>\n        <th data-sort=\"timing_quality\" style=\"text-align:center;\">Timing</th>\n        <th data-sort=\"regime\">Regime</th>\n        <th data-sort=\"alpha_signal\">Alpha</th>\n        <th data-sort=\"market_cap\" style=\"text-align:right;\">Mkt Cap</th>\n      </tr>\n    </thead>\n    <tbody id=\"stocks-tbody\">\n      <tr><td colspan=\"8\" style=\"text-align:center; color:var(--text-3); padding:2rem;\">Loading stock data&hellip;</td></tr>\n    </tbody>\n  </table>\n</div>\n<div class=\"callout callout-info\" style=\"margin-top:1.5rem;\">\n  <span class=\"callout-icon\">&#9432;</span>\n  <span>Prices updated daily via <strong>yfinance</strong> by automated GitHub Actions. Data reflects prior trading day close. Not real-time.</span>\n</div>",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "Stocks",
+    "subtitle": "100 tracked tech and future-tech stocks: sortable, filterable, live-updated daily."
+  }
+}

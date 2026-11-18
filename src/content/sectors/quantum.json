@@ -1,0 +1,10 @@
+{
+  "id": "quantum",
+  "title": "Quantum Computing",
+  "aliases": [
+    "Quantum",
+    "Quantum Computing"
+  ],
+  "businessQuestion": "Which operational constraint could this technology remove, and what would adoption cost?",
+  "investorQuestion": "Who could capture the value, what must be funded first, and what evidence would change the thesis?"
+}

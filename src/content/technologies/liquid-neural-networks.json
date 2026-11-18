@@ -1,0 +1,31 @@
+{
+  "id": "liquid-neural-networks",
+  "title": "Liquid Neural Networks (LNN)",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_tech/liquid-neural-networks.md",
+  "sourceHash": "37018fa00bcc9c55e0b8518cbab2d2e7b5e26fce22bfd5f6e8baa000a5ec00e7",
+  "bodyHtml": "<p>Liquid Neural Networks are a new class of AI models inspired by the biological brains of small organisms. Unlike standard transformers or RNNs, LNNs have &quot;liquid&quot; parameters that can change their behavior based on the input they receive in real-time, even after training.</p>\n<p>Key attributes:</p>\n<ul>\n<li><strong>Continuous-Time Dynamics:</strong> Modeled using differential equations, making them natively suited for time-series data (robotics, autonomous flight).</li>\n<li><strong>Extreme Efficiency:</strong> Can achieve high performance with far fewer parameters than traditional LLMs.</li>\n<li><strong>Out-of-Distribution Robustness:</strong> Better at handling unexpected scenarios by adapting their internal logic on the fly.</li>\n<li><strong>Key Research:</strong> Pioneered by MIT CSAIL (Ramin Hasani et al.).</li>\n</ul>\n",
+  "bodyMarkdown": "Liquid Neural Networks are a new class of AI models inspired by the biological brains of small organisms. Unlike standard transformers or RNNs, LNNs have \"liquid\" parameters that can change their behavior based on the input they receive in real-time, even after training.\n\nKey attributes:\n- **Continuous-Time Dynamics:** Modeled using differential equations, making them natively suited for time-series data (robotics, autonomous flight).\n- **Extreme Efficiency:** Can achieve high performance with far fewer parameters than traditional LLMs.\n- **Out-of-Distribution Robustness:** Better at handling unexpected scenarios by adapting their internal logic on the fly.\n- **Key Research:** Pioneered by MIT CSAIL (Ramin Hasani et al.).",
+  "sourceMeta": {
+    "layout": "tech",
+    "id": "liquid-neural-networks",
+    "name": "Liquid Neural Networks (LNN)",
+    "category": "AI & Cloud",
+    "status": "prototype",
+    "est_year": 2027,
+    "est_year_range": "2027\u20132031",
+    "horizon": "Near-Term (2026\u20132030)"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "prototype",
+  "confidenceLabel": "Not classified",
+  "estimate": "2027\u20132031",
+  "estimateYear": 2027,
+  "sourceCount": null,
+  "companies": [],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ddog",
+  "title": "Datadog",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/ddog.md",
+  "sourceHash": "afb54aec0fbb9c96c685896a38c009e71e5626fad832cab2f7a3ab5fff63d86e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Datadog is the observability infrastructure for cloud-native AI applications; every LLM and agent deployment in production generates monitoring demand.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for DDOG is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nDatadog is the observability infrastructure for cloud-native AI applications; every LLM and agent deployment in production generates monitoring demand.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for DDOG is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Datadog",
+    "symbol": "DDOG",
+    "exchange": "NASDAQ",
+    "categories": [
+      "AI & Cloud",
+      "Software"
+    ],
+    "timing_action": "WAIT",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "DDOG",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

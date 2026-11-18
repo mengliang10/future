@@ -1,0 +1,8 @@
+---
+import {url, base} from '../../lib/base';
+import {sourceLinks} from '../../lib/source-links';
+import Site from '../../layouts/Site.astro';import Browse from '../../components/Browse.astro';import {records} from '../../lib/catalogue';
+export async function getStaticPaths(){return (await records('sectors')).map(sector=>({params:{id:sector.id},props:{sector}}));}
+const {sector}=Astro.props;const [tech,sectors,articles]=await Promise.all([records('technologies'),records('sectors'),records('articles')]);const original=articles.find(a=>a.sourcePath===`sectors/${sector.id}.md`);
+---
+<Site title={sector.title} active="Explore"><div class="container page"><div class="page-heading"><span class="eyebrow">Sector briefing</span><h1>{sector.title}</h1><p>{sector.businessQuestion}</p></div><div class="sector-actions"><a href={url(`/presentations/?sector=${sector.id}`)}>Present this sector ↗</a><a href={url(`/companies/?sector=${sector.id}`)}>Company research →</a></div><Browse items={tech.filter(t=>t.sector===sector.id)} sectors={sectors} title={sector.title}/>{original&&<details class="original-notes"><summary>Original sector narrative</summary><div class="prose" set:html={await sourceLinks(original.bodyHtml)}/><a href={url(`/source/${original.sourcePath}`)} download>Original Markdown ↓</a></details>}</div></Site>

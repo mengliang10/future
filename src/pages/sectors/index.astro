@@ -1,0 +1,5 @@
+---
+import {url, base} from '../../lib/base';
+import Site from '../../layouts/Site.astro';import {records} from '../../lib/catalogue';const [sectors,tech]=await Promise.all([records('sectors'),records('technologies')]);
+---
+<Site title="Sectors" active="Explore"><div class="container page"><div class="page-heading"><h1>Explore by sector.</h1><p>One consistent taxonomy across research, companies and presentations.</p></div><div class="sector-grid">{sectors.map(s=><a href={url(`/sectors/${s.id}/`)}><span>{s.title}</span><small>{tech.filter(t=>t.sector===s.id).length}</small><i>↗</i></a>)}</div></div></Site>

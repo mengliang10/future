@@ -1,0 +1,25 @@
+{
+  "id": "energy-02",
+  "title": "Energy — Briefing 02",
+  "sector": "energy",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "digital-battery-passport",
+    "direct-air-carbon-capture-dac",
+    "direct-interface-between-differential-antennas-and-single-ended-power-and-low-noise-amplifiers",
+    "efficient-power-solutions",
+    "energy-demand",
+    "energy-efficient-ai",
+    "energy-efficient-computing",
+    "energy-systems",
+    "energy-water-consumption",
+    "enhanced-geothermal-systems-egs",
+    "floating-offshore-wind",
+    "green-hydrogen-2kg-via-electrolysis"
+  ]
+}

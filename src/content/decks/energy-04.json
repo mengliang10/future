@@ -1,0 +1,25 @@
+{
+  "id": "energy-04",
+  "title": "Energy — Briefing 04",
+  "sector": "energy",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "mission-critical-power",
+    "multi-source-energy-harvesting",
+    "next-gen-energy-conversion",
+    "next-gen-nuclear-design",
+    "next-gen-nuclear-reactors",
+    "nuclear-fusion-net-energy-gain",
+    "nuclear-gen-iii-reactor-ap1000",
+    "nuclear-physics",
+    "nuclear-power-deployment-rate",
+    "nuclear-reactor-deployment-rate",
+    "nuclear-reactor-deployment-speed",
+    "onshore-wind-turbine"
+  ]
+}

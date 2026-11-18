@@ -1,0 +1,6 @@
+---
+import Record from '../../components/Record.astro';import {records} from '../../lib/catalogue';
+export async function getStaticPaths(){return (await records('companies')).map(record=>({params:{id:record.id},props:{record}}));}
+const {record}=Astro.props;
+---
+<Record record={record} kind="company"/>

@@ -1,0 +1,25 @@
+{
+  "id": "ai-15",
+  "title": "AI & Computing — Briefing 15",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "dementia-patient-independence",
+    "design-reuse-cost-efficiency",
+    "design-understanding",
+    "deterministic-script-workflow",
+    "deterministic-scripts",
+    "diffusion-model-image-synthesis",
+    "digital-image-correlation",
+    "direct-hydrogen-production",
+    "direct-interface-between-differential-antennas-and-single-ended-amplifiers",
+    "distributed-private-training",
+    "distributed-training-1000-gpus",
+    "dna-data-storage"
+  ]
+}

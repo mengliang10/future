@@ -1,0 +1,23 @@
+{
+  "id": "robotics-03",
+  "title": "Robotics & Automation — Briefing 03",
+  "sector": "robotics",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "post-scarcity-robotic-manufacturing",
+    "quadruped-robot-locomotion",
+    "rival-robotic-hands",
+    "robot-assisted-surgery",
+    "robot-learning-from-demo",
+    "robot-learning-from-demonstration",
+    "robotic-foundation-models",
+    "robotics-automation",
+    "sim-to-real-transfer-robotics",
+    "sim-to-real-transfer"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ai-01",
+  "title": "AI & Computing — Briefing 01",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "1mw-per-rack-ai-cluster",
+    "200nm-wafer-to-wafer-hybrid-bonding",
+    "2d-magnetic-materials",
+    "2d-materials-electronics",
+    "2d-materials",
+    "3d-reconstruction-foundation-models",
+    "3d-scene-understanding",
+    "6g-extreme-mimo-x-mimo-7-ghz-network",
+    "aapl-imac-introduction",
+    "aapl-ipod-introduction",
+    "accuracy-of-open-weight-models-and-commercial-apis",
+    "adaptive-optics-imaging"
+  ]
+}

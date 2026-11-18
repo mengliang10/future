@@ -1,0 +1,7 @@
+---
+import {url, base} from '../lib/base';
+import {horizons,horizonFor} from '../lib/visuals';
+const {technologies}=Astro.props;
+const bins=horizons.map(h=>({...h,count:technologies.filter(t=>horizonFor(t.estimateYear)===h.id).length}));
+---
+<section class="horizon-widget" aria-labelledby="horizon-widget-title"><div class="visual-section-top"><div><span class="visual-kicker">The horizon, at a glance</span><h2 id="horizon-widget-title">What’s near. What’s next.</h2></div><a href={url('/roadmaps/')}>Open timeline ↗</a></div><div class="horizon-strip">{bins.map((h,i)=><a href={url(`/roadmaps/?horizon=${h.id}`)} style={`--horizon:${h.color}`}><span class="horizon-node" aria-hidden="true">{String(i+1).padStart(2,'0')}</span><strong>{h.short}</strong><span class="horizon-number">{h.count}</span><span class="horizon-caption">records</span></a>)}</div><p class="visual-caption">Source-estimated years, not forecasts. Records without a year stay visible.</p></section>

@@ -1,0 +1,30 @@
+{
+  "id": "crm",
+  "title": "Salesforce",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/crm.md",
+  "sourceHash": "f05c595a5778ca693d6e9bd3cf729ceb7adec646b880c074b208dc133e42ed70",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Salesforce is deploying AI agents (Agentforce) across its enterprise CRM platform: the largest enterprise rollout of agentic AI to date.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for CRM is ongoing. Check back for updated node exposure and conviction scores.</p>\n<h2>Business &amp; Fundamental Analysis</h2>\n<h3>Financial Health &amp; Profitability</h3>\n<p><strong>Yes, highly profitable.</strong> Salesforce maintains operating margins of 30%+ following aggressive restructuring and cost-cutting, generating over $8B in annual free cash flow.</p>\n<h3>AI Monetization &amp; Business Goals</h3>\n<p>Salesforce aims to transition enterprise sales, service, and marketing from static databases to autonomous systems:</p>\n<ul>\n<li><strong>Agentforce:</strong> AI agents that autonomously execute customer service and sales outreach without human interaction, monetized at a flat fee per conversation.</li>\n<li><strong>Slack AI:</strong> AI-driven summarization and search inside Slack.</li>\n</ul>\n<h3>Capital Expenditure (Capex) Concerns</h3>\n<p>Low capex software model. Focus is on software engineering and M&amp;A integration (MuleSoft, Tableau, Slack).</p>\n<h3>Partnerships &amp; Alliances</h3>\n<ul>\n<li><strong>NVIDIA:</strong> Partnered to optimize autonomous AI agents for Agentforce.</li>\n<li><strong>AWS &amp; Google Cloud:</strong> Multi-cloud data sharing integrations.</li>\n</ul>\n<h3>Controversies &amp; Headwinds</h3>\n<ul>\n<li><strong>Core Growth Deceleration:</strong> Facing slowing growth in legacy CRM markets, forcing the company to pivot aggressively to AI agents to justify its valuation.\\n</li>\n</ul>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSalesforce is deploying AI agents (Agentforce) across its enterprise CRM platform: the largest enterprise rollout of agentic AI to date.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for CRM is ongoing. Check back for updated node exposure and conviction scores.\\n## Business & Fundamental Analysis\n\n### Financial Health & Profitability\n**Yes, highly profitable.** Salesforce maintains operating margins of 30%+ following aggressive restructuring and cost-cutting, generating over $8B in annual free cash flow.\n\n### AI Monetization & Business Goals\nSalesforce aims to transition enterprise sales, service, and marketing from static databases to autonomous systems:\n* **Agentforce:** AI agents that autonomously execute customer service and sales outreach without human interaction, monetized at a flat fee per conversation.\n* **Slack AI:** AI-driven summarization and search inside Slack.\n\n### Capital Expenditure (Capex) Concerns\nLow capex software model. Focus is on software engineering and M&A integration (MuleSoft, Tableau, Slack).\n\n### Partnerships & Alliances\n* **NVIDIA:** Partnered to optimize autonomous AI agents for Agentforce.\n* **AWS & Google Cloud:** Multi-cloud data sharing integrations.\n\n### Controversies & Headwinds\n* **Core Growth Deceleration:** Facing slowing growth in legacy CRM markets, forcing the company to pivot aggressively to AI agents to justify its valuation.\\n",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Salesforce",
+    "symbol": "CRM",
+    "exchange": "NYSE",
+    "categories": [
+      "AI & Cloud",
+      "Software"
+    ],
+    "timing_action": "HALF",
+    "regime": "TRENDING_DOWN"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "CRM",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

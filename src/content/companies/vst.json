@@ -1,0 +1,30 @@
+{
+  "id": "vst",
+  "title": "Vistra Corp",
+  "summary": "",
+  "sector": "other",
+  "sourceCategory": "Nuclear Energy",
+  "sourcePath": "_stocks/vst.md",
+  "sourceHash": "2831ceb4d6b10ae13ca36b679deeb6b68d5e9506036c7afdd20320645f6530b4",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p><strong>July 2026 Update:</strong> Vistra has hit the &quot;Grid Pivot&quot; sweet spot. As a &quot;Grid Lord,&quot; their Illinois nuclear fleet and 6+ GWh of storage are now priced as AI infrastructure proxies rather than standard utilities. Confidence Score: +0.88.\nVistra is the largest competitive power generator in the US: a mix of nuclear, natural gas, and rapidly growing battery storage. Their Illinois nuclear fleet benefits from the same hyperscaler demand driving Constellation. Vistra is cheaper on a per-MWh basis and has a more diversified generation mix, making it the value play in the nuclear power trade.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>Illinois Nuclear Fleet:</strong> 6 nuclear units providing reliable baseload: all in areas of high data centre demand.</li>\n<li><strong>Battery Storage Leader:</strong> 6+ GWh of battery storage capacity: the largest in the US.</li>\n<li><strong>Power Price Leverage:</strong> In competitive electricity markets, rising power prices flow directly to earnings.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Market Power Prices:</strong> Earnings are sensitive to regional electricity market prices (ERCOT, PJM).</li>\n<li><strong>Concentrated Generation Mix:</strong> Nuclear concentration means any plant issue has outsized impact.</li>\n</ul>\n",
+  "bodyMarkdown": "## Investment Thesis\n\n**July 2026 Update:** Vistra has hit the \"Grid Pivot\" sweet spot. As a \"Grid Lord,\" their Illinois nuclear fleet and 6+ GWh of storage are now priced as AI infrastructure proxies rather than standard utilities. Confidence Score: +0.88.\nVistra is the largest competitive power generator in the US: a mix of nuclear, natural gas, and rapidly growing battery storage. Their Illinois nuclear fleet benefits from the same hyperscaler demand driving Constellation. Vistra is cheaper on a per-MWh basis and has a more diversified generation mix, making it the value play in the nuclear power trade.\n\n### Key Drivers\n- **Illinois Nuclear Fleet:** 6 nuclear units providing reliable baseload: all in areas of high data centre demand.\n- **Battery Storage Leader:** 6+ GWh of battery storage capacity: the largest in the US.\n- **Power Price Leverage:** In competitive electricity markets, rising power prices flow directly to earnings.\n\n### Risk Factors\n- **Market Power Prices:** Earnings are sensitive to regional electricity market prices (ERCOT, PJM).\n- **Concentrated Generation Mix:** Nuclear concentration means any plant issue has outsized impact.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Vistra Corp",
+    "symbol": "VST",
+    "exchange": "NYSE",
+    "categories": [
+      "Nuclear Energy",
+      "Power Generation"
+    ],
+    "timing_action": "FULL",
+    "regime": "TRENDING_UP"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "VST",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

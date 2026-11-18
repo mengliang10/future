@@ -1,0 +1,16 @@
+{
+  "id": "quantum-05",
+  "title": "Quantum Computing — Briefing 05",
+  "sector": "quantum",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "tunable-quantum-phases",
+    "useful-quantum-computers-timeline",
+    "useful-quantum-computers"
+  ]
+}

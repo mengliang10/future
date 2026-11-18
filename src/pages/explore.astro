@@ -1,0 +1,5 @@
+---
+import Site from '../layouts/Site.astro';import Browse from '../components/Browse.astro';import {records} from '../lib/catalogue';
+const [items,sectors]=await Promise.all([records('technologies'),records('sectors')]);
+---
+<Site title="Explore technologies" active="Explore"><div class="container page"><div class="page-heading"><h1>Explore.</h1><p>The technology, the constraint, the next question.</p></div><Browse items={items} sectors={sectors} title="technologies"/></div></Site>

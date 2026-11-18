@@ -1,0 +1,25 @@
+{
+  "id": "bci-01",
+  "title": "Brain–Computer Interfaces — Briefing 01",
+  "sector": "bci",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "ai-neural-signal-decoder",
+    "bci-motor-cortex-decoding",
+    "bci-speech-decoding",
+    "bidirectional-bci-read-write",
+    "cochlear-implant",
+    "consumer-non-invasive-bci-headset",
+    "deep-brain-stimulation-dbs",
+    "eeg-non-invasive-brain-recording",
+    "high-bandwidth-wireless-bci",
+    "memory-augmentation-via-bci",
+    "merged-human-ai-intelligence",
+    "utah-array-invasive-bci"
+  ]
+}

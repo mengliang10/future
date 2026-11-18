@@ -1,0 +1,30 @@
+{
+  "id": "invz",
+  "title": "Innoviz Technologies",
+  "summary": "",
+  "sector": "autonomous",
+  "sourceCategory": "Autonomous",
+  "sourcePath": "_stocks/invz.md",
+  "sourceHash": "cdb9cc683469cd4c53038d15a1b6525aeebe787ae61038099b10361d209a00d8",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Solid-state lidar for ADAS and autonomous vehicles; OEM-grade imaging resolution.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for INVZ is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSolid-state lidar for ADAS and autonomous vehicles; OEM-grade imaging resolution.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for INVZ is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Innoviz Technologies",
+    "symbol": "INVZ",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Autonomous",
+      "Sensors"
+    ],
+    "timing_action": "FULL",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "INVZ",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

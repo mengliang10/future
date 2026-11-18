@@ -1,0 +1,14 @@
+{
+  "id": "contact",
+  "title": "Contact",
+  "summary": "Research inquiries, partnership opportunities, and feedback.",
+  "sourcePath": "contact.md",
+  "sourceHash": "6a846a1767211e9121c3f3cc97c8f12e99775feb2fd8f0ad05afb200a5faa640",
+  "bodyHtml": "<p>Whether you have a question about the analysis, want to discuss a research partnership, or have feedback on the site: reach out.</p>\n<!-- Formspree form: replace ACTION_URL with your Formspree endpoint after signing up at formspree.io -->\n<form class=\"contact-form\" action=\"https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID\" method=\"POST\">\n  <div class=\"form-group\">\n    <label class=\"form-label\" for=\"name\">Name</label>\n    <input class=\"form-input\" type=\"text\" id=\"name\" name=\"name\" placeholder=\"Your name\" required>\n  </div>\n  <div class=\"form-group\">\n    <label class=\"form-label\" for=\"email\">Email</label>\n    <input class=\"form-input\" type=\"email\" id=\"email\" name=\"email\" placeholder=\"you@example.com\" required>\n  </div>\n  <div class=\"form-group\">\n    <label class=\"form-label\" for=\"subject\">Subject</label>\n    <select class=\"form-select\" id=\"subject\" name=\"subject\">\n      <option value=\"general\">General Inquiry</option>\n      <option value=\"research\">Research / Partnership</option>\n      <option value=\"advertising\">Advertising / Sponsorship</option>\n      <option value=\"feedback\">Site Feedback</option>\n      <option value=\"other\">Other</option>\n    </select>\n  </div>\n  <div class=\"form-group\">\n    <label class=\"form-label\" for=\"message\">Message</label>\n    <textarea class=\"form-textarea\" id=\"message\" name=\"message\" placeholder=\"Your message...\" required></textarea>\n  </div>\n<p><button type=\"submit\" class=\"btn btn-primary\">Send Message</button></p>\n</form>\n<div class=\"callout callout-info\" style=\"margin-top:1.5rem;\">\n  <span class=\"callout-icon\">&#9432;</span>\n  <span>Powered by <strong>Formspree</strong>: free for basic use, no server required. Sign up at <a href=\"https://formspree.io\" target=\"_blank\">formspree.io</a> and replace the form action URL above with your endpoint.</span>\n</div>",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "Contact",
+    "subtitle": "Research inquiries, partnership opportunities, and feedback.",
+    "permalink": "/contact/"
+  }
+}

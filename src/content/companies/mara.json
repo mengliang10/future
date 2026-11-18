@@ -1,0 +1,31 @@
+{
+  "id": "mara",
+  "title": "MARA Holdings Inc.",
+  "summary": "",
+  "sector": "blockchain",
+  "sourceCategory": "Blockchain",
+  "sourcePath": "_stocks/mara.md",
+  "sourceHash": "40e92252e43a38f1ed2fc74b232fc253ddebbef604d2ada3a54bd88ca1168225",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>MARA is the largest publicly traded Bitcoin miner by hash rate. Post-halving economics require scale and cheap energy: MARA is consolidating both. They are diversifying into HPC/AI hosting with their energy infrastructure, reducing pure BTC price dependency.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>Hash Rate Scale:</strong> 50+ EH/s target: top 3 globally.</li>\n<li><strong>Energy Arbitrage:</strong> Stranded energy deals reduce mining cost per BTC.</li>\n<li><strong>HPC Pivot:</strong> Data centre colocation for AI workloads leverages existing power infrastructure.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Halving Margin Pressure:</strong> Revenue halved post-April 2024 halving; efficiency is survival.</li>\n<li><strong>BTC Price Correlation:</strong> Near-perfect correlation to Bitcoin price = amplified downside.</li>\n</ul>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Bitcoin Proof-of-Work Blockchain</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">First decentralized permissionless monetary ledger; 15+ years continuous uptime</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Marathon is a Bitcoin miner. Revenue is direct function of Bitcoin price and network hashrate. Margin depends on energy cost per hash. This is a leveraged Bitcoin position with operational execution risk.</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-trail\">&#9660; #3 · 85%</span> <span class=\"roadmap-rivals-sep\">leader: <a href=\"/companies/mstr/\">MSTR</a> 95%</span></div>\n</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-trail\">#3 · 85%</span> <span class=\"roadmap-rivals-sep\">leader: <a href=\"/companies/mstr/\">MSTR</a> 95%</span></div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nMARA is the largest publicly traded Bitcoin miner by hash rate. Post-halving economics require scale and cheap energy: MARA is consolidating both. They are diversifying into HPC/AI hosting with their energy infrastructure, reducing pure BTC price dependency.\n\n### Key Drivers\n- **Hash Rate Scale:** 50+ EH/s target: top 3 globally.\n- **Energy Arbitrage:** Stranded energy deals reduce mining cost per BTC.\n- **HPC Pivot:** Data centre colocation for AI workloads leverages existing power infrastructure.\n\n### Risk Factors\n- **Halving Margin Pressure:** Revenue halved post-April 2024 halving; efficiency is survival.\n- **BTC Price Correlation:** Near-perfect correlation to Bitcoin price = amplified downside.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Bitcoin Proof-of-Work Blockchain</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">First decentralized permissionless monetary ledger; 15+ years continuous uptime</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Marathon is a Bitcoin miner. Revenue is direct function of Bitcoin price and network hashrate. Margin depends on energy cost per hash. This is a leveraged Bitcoin position with operational execution risk.</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-trail\">&#9660; #3 · 85%</span> <span class=\"roadmap-rivals-sep\">leader: <a href=\"/future/stocks/mstr/\">MSTR</a> 95%</span></div>\n</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-trail\">#3 · 85%</span> <span class=\"roadmap-rivals-sep\">leader: <a href=\"/future/stocks/mstr/\">MSTR</a> 95%</span></div>\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "MARA Holdings Inc.",
+    "symbol": "MARA",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Blockchain",
+      "Mining"
+    ],
+    "node_count": 1,
+    "timing_action": "FULL",
+    "regime": "TRENDING_UP"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "MARA",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

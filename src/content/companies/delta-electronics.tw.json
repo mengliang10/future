@@ -1,0 +1,29 @@
+{
+  "id": "delta-electronics.tw",
+  "title": "Delta Electronics",
+  "summary": "Taiwanese power-electronics maker supplying data-centre and EV power conversion.",
+  "sector": "energy",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_stocks/delta-electronics.tw.md",
+  "sourceHash": "4aef4daef997bff607d10e9d696e5cab2f7a8f0918fec610422d05656bbf5c54",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Delta builds power supplies, cooling systems and EV powertrains, with data-centre power becoming its fastest-growing segment as AI racks demand more efficient conversion. Its advantage is efficiency at high wattage, where small losses compound into real electricity cost. It is a quieter beneficiary of AI capex than chipmakers.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Data-centre power supplies and cooling.</li>\n<li>EV powertrains and industrial automation.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Efficiency leadership at high power density.</li>\n<li>Data-centre order growth.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nDelta builds power supplies, cooling systems and EV powertrains, with data-centre power becoming its fastest-growing segment as AI racks demand more efficient conversion. Its advantage is efficiency at high wattage, where small losses compound into real electricity cost. It is a quieter beneficiary of AI capex than chipmakers.\n\n## Technology Exposure\n\n- Data-centre power supplies and cooling.\n- EV powertrains and industrial automation.\n\n## What To Watch\n\n- Efficiency leadership at high power density.\n- Data-centre order growth.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Delta Electronics",
+    "symbol": "2308.TW",
+    "exchange": "TWSE",
+    "categories": [
+      "Energy Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "2308.TW",
+  "exchange": "TWSE",
+  "private": false,
+  "businessMeaning": "Power conversion efficiency is a direct operating cost at data-centre scale; a percentage point is material.",
+  "investmentLens": "An AI-adjacent industrial with less hype and real orders; watch data-centre revenue mix."
+}

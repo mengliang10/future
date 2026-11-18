@@ -1,0 +1,31 @@
+{
+  "id": "dna-data-storage",
+  "title": "DNA Data Storage",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_tech/dna-data-storage.md",
+  "sourceHash": "3923152eeb0c7e8e2440b6972b1f2594f09668cd845b73527be0b1ab8373410f",
+  "bodyHtml": "<p>DNA data storage uses the four bases of DNA (A, C, G, T) to encode binary information. DNA is an incredibly dense and durable storage medium, capable of storing all of humanity's data in a few kilograms and lasting for thousands of years without degradation.</p>\n<p>Key attributes:</p>\n<ul>\n<li><strong>Ultra-High Density:</strong> Theoretical limit of ~215 petabytes per gram of DNA.</li>\n<li><strong>Extreme Longevity:</strong> Stable for millennia if kept cool and dry, unlike magnetic or optical media.</li>\n<li><strong>Zero Energy Persistence:</strong> Once written, the data requires no energy to maintain.</li>\n<li><strong>Current Bottlenecks:</strong> Cost and speed of DNA synthesis (writing) and sequencing (reading).</li>\n</ul>\n",
+  "bodyMarkdown": "DNA data storage uses the four bases of DNA (A, C, G, T) to encode binary information. DNA is an incredibly dense and durable storage medium, capable of storing all of humanity's data in a few kilograms and lasting for thousands of years without degradation.\n\nKey attributes:\n- **Ultra-High Density:** Theoretical limit of ~215 petabytes per gram of DNA.\n- **Extreme Longevity:** Stable for millennia if kept cool and dry, unlike magnetic or optical media.\n- **Zero Energy Persistence:** Once written, the data requires no energy to maintain.\n- **Current Bottlenecks:** Cost and speed of DNA synthesis (writing) and sequencing (reading).",
+  "sourceMeta": {
+    "layout": "tech",
+    "id": "dna-data-storage",
+    "name": "DNA Data Storage",
+    "category": "AI & Cloud",
+    "status": "proof_of_concept",
+    "est_year": 2028,
+    "est_year_range": "2027\u20132031",
+    "horizon": "Medium-Term (2027\u20132030)"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "proof_of_concept",
+  "confidenceLabel": "Not classified",
+  "estimate": "2027\u20132031",
+  "estimateYear": 2028,
+  "sourceCount": null,
+  "companies": [],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

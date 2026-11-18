@@ -1,0 +1,25 @@
+{
+  "id": "ai-26",
+  "title": "AI & Computing — Briefing 26",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "local-llm-deployment",
+    "logic-memory-applications",
+    "long-context-window-1m-tokens",
+    "long-term-memory-agents",
+    "longitudinal-multi-omic-monitoring",
+    "low-cost-model-adaptation",
+    "low-temperature-cu-polymer-hybrid-bonding",
+    "machine-learning",
+    "manufacturing-efficient-scale",
+    "marvell-data-center-switches",
+    "material-simulation",
+    "materials-characterization"
+  ]
+}

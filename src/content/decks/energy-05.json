@@ -1,0 +1,25 @@
+{
+  "id": "energy-05",
+  "title": "Energy — Briefing 05",
+  "sector": "energy",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "performance-and-power",
+    "perovskite-solar-cell-30-eff",
+    "renewable-energy-systems",
+    "renewable-energy",
+    "roi-for-performance-and-power",
+    "scalable-fusion-energy",
+    "small-modular-reactor-300mwe",
+    "small-satellite-power",
+    "solar-below-1cent-kwh",
+    "solar-pv-panel-silicon",
+    "solid-state-battery",
+    "spike-encoding-energy-efficiency"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "biotech-01",
+  "title": "Biotech & Health — Briefing 01",
+  "sector": "biotech",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "adolescent-mental-health-risk",
+    "africa-first-end-to-end-mrna-platform",
+    "africa-mrna-production-capability",
+    "ai-drug-discovery-pipelines",
+    "ai-drug-discovery-platform",
+    "antibiotic-generative-ai",
+    "autonomous-drug-discovery-labs",
+    "autonomous-health-intervention",
+    "bio-derived-high-performance-materials",
+    "bio-inspired-hierarchical-design",
+    "bio-inspired-structural-materials",
+    "biogas-production-efficiency"
+  ]
+}

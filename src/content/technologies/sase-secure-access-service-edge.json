@@ -1,0 +1,39 @@
+{
+  "id": "sase-secure-access-service-edge",
+  "title": "SASE (Secure Access Service Edge)",
+  "summary": "Converged network+security from cloud edge — Zscaler, Cloudflare One, Netskope",
+  "sector": "cyber",
+  "sourceCategory": "Cybersecurity",
+  "sourcePath": "_tech/sase-secure-access-service-edge.md",
+  "sourceHash": "07d29265c77abfb2b89dc0912914190598ba8c1bc6c2e013de420210b7365dac",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Converged network+security from cloud edge — Zscaler, Cloudflare One, Netskope.</p>\n<p>Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks <strong>22 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Ultra-Large-Capacity Passive Quantum Access Network Powered By Single  | rel=0.48 | uid:15d80a9521177fe3</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Early Commercial</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.13</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2025–2027</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (Now–2026)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>22</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/zero-trust-architecture/\">Zero Trust Security Architecture</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/zs/\">ZS</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nConverged network+security from cloud edge — Zscaler, Cloudflare One, Netskope.\n\nEarly commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **22 independent sources** on this technology.\n\n> RSS:Ultra-Large-Capacity Passive Quantum Access Network Powered By Single  | rel=0.48 | uid:15d80a9521177fe3\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Early Commercial** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.13** |\n| Estimated Deployment | **2025–2027** |\n| Horizon | Near-Term (Now–2026) |\n| Independent Sources Tracked | 22 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Zero Trust Security Architecture](/future/tech/zero-trust-architecture/)\n\n## Investment Exposure\n\n[ZS](/future/stocks/zs/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "SASE (Secure Access Service Edge)",
+    "subtitle": "Converged network+security from cloud edge — Zscaler, Cloudflare One, Netskope",
+    "category": "Cybersecurity",
+    "stage": "early_commercial",
+    "confidence_label": "Speculative",
+    "est_year": 2025,
+    "est_year_range": "",
+    "horizon": "Near-Term (Now–2026)",
+    "source_count": 22,
+    "stocks": [
+      "ZS"
+    ],
+    "permalink": "/tech/sase-secure-access-service-edge/"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "early_commercial",
+  "confidenceLabel": "Speculative",
+  "estimate": "2025",
+  "estimateYear": 2025,
+  "sourceCount": 22,
+  "companies": [
+    "zs"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

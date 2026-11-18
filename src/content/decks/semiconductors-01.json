@@ -1,0 +1,25 @@
+{
+  "id": "semiconductors-01",
+  "title": "Semiconductors — Briefing 01",
+  "sector": "semiconductors",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "1nm-a14-process-node",
+    "2d-semiconductor-computing",
+    "2nm-process-node-tsmc-n2",
+    "3d-chip-stacking-wow",
+    "3d-nand-channel-metrology",
+    "3d-nand-flash",
+    "accelerated-semiconductor-rd",
+    "advanced-logic-failure-analysis",
+    "advanced-node-soc-complexity",
+    "advanced-node-socs",
+    "advanced-packaging",
+    "angstrom-era-chips-10-gate-length"
+  ]
+}

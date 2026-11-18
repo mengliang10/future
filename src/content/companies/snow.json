@@ -1,0 +1,30 @@
+{
+  "id": "snow",
+  "title": "Snowflake",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/snow.md",
+  "sourceHash": "deb9fe389619a85b95bf27bc0a5a66950ba0abb17a9dda5525fda6b7fb906f8f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Snowflake is the data cloud platform where enterprises centralise data for AI workloads; Cortex AI layer enables in-database model inference.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for SNOW is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSnowflake is the data cloud platform where enterprises centralise data for AI workloads; Cortex AI layer enables in-database model inference.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for SNOW is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Snowflake",
+    "symbol": "SNOW",
+    "exchange": "NYSE",
+    "categories": [
+      "AI & Cloud",
+      "Data"
+    ],
+    "timing_action": "AVOID",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "SNOW",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "zi",
+  "title": "ZoomInfo Technologies Inc.",
+  "summary": "",
+  "sector": "marketing",
+  "sourceCategory": "Marketing Tech",
+  "sourcePath": "_stocks/zi.md",
+  "sourceHash": "0e9daa2aef7e204bc19261811b064f96962747f994b502510ce7f6a35c105665",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>ZoomInfo is the B2B intelligence platform: who to call, when to call them, what they care about. Their data on 100M+ professionals and 20M companies, enriched with intent signals (who's searching for what right now), turns cold outreach into warm targeting. In a world where AI writes the emails, ZI tells you who to send them to.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>Intent Data Moat:</strong> Proprietary web activity tracking across millions of B2B buying journeys.</li>\n<li><strong>AI Integration:</strong> Copilot product automates prospecting workflows, increasing seat value.</li>\n<li><strong>SMB + Enterprise:</strong> Serves both with different product tiers: broad TAM.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Churn Pressure:</strong> SMB cohorts show elevated churn in difficult macro; enterprise renewal rates are the health metric.</li>\n<li><strong>Privacy Regulation:</strong> GDPR-equivalent regulations in new markets may restrict data collection.</li>\n</ul>\n",
+  "bodyMarkdown": "## Investment Thesis\nZoomInfo is the B2B intelligence platform: who to call, when to call them, what they care about. Their data on 100M+ professionals and 20M companies, enriched with intent signals (who's searching for what right now), turns cold outreach into warm targeting. In a world where AI writes the emails, ZI tells you who to send them to.\n\n### Key Drivers\n- **Intent Data Moat:** Proprietary web activity tracking across millions of B2B buying journeys.\n- **AI Integration:** Copilot product automates prospecting workflows, increasing seat value.\n- **SMB + Enterprise:** Serves both with different product tiers: broad TAM.\n\n### Risk Factors\n- **Churn Pressure:** SMB cohorts show elevated churn in difficult macro; enterprise renewal rates are the health metric.\n- **Privacy Regulation:** GDPR-equivalent regulations in new markets may restrict data collection.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ZoomInfo Technologies Inc.",
+    "symbol": "ZI",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Marketing Tech",
+      "Data Intelligence"
+    ],
+    "timing_action": "N/A",
+    "regime": "N/A"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ZI",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "optical-computing-photonic-logic",
+  "title": "Optical Computing (Photonic Logic)",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_tech/optical-computing-photonic-logic.md",
+  "sourceHash": "51df37fa9ffe2bf8253a153ee051f34cad99e6beb477ed998b261906bb9ba067",
+  "bodyHtml": "<p>Optical computing involves using photons instead of electrons to perform logic operations and arithmetic. Unlike silicon photonics interconnects (which move data), optical computing aims to <em>process</em> data entirely in the light domain. This technology promises to bypass the &quot;power wall&quot; of electronic semiconductors, offering orders of magnitude higher speed and lower energy consumption.</p>\n<p>Key attributes:</p>\n<ul>\n<li><strong>Zero Resistive Heating:</strong> Photons do not generate heat through resistance, allowing for extremely dense integration.</li>\n<li><strong>Speed of Light Processing:</strong> Logic operations performed at the fundamental limit of speed.</li>\n<li><strong>Parallelism:</strong> Ability to process multiple wavelengths (colors) of light simultaneously through a single logic gate (WDM).</li>\n<li><strong>Prerequisites:</strong> High-efficiency photonic transistors, non-linear optical materials, and integrated laser sources.</li>\n</ul>\n",
+  "bodyMarkdown": "Optical computing involves using photons instead of electrons to perform logic operations and arithmetic. Unlike silicon photonics interconnects (which move data), optical computing aims to *process* data entirely in the light domain. This technology promises to bypass the \"power wall\" of electronic semiconductors, offering orders of magnitude higher speed and lower energy consumption.\n\nKey attributes:\n- **Zero Resistive Heating:** Photons do not generate heat through resistance, allowing for extremely dense integration.\n- **Speed of Light Processing:** Logic operations performed at the fundamental limit of speed.\n- **Parallelism:** Ability to process multiple wavelengths (colors) of light simultaneously through a single logic gate (WDM).\n- **Prerequisites:** High-efficiency photonic transistors, non-linear optical materials, and integrated laser sources.",
+  "sourceMeta": {
+    "layout": "tech",
+    "id": "optical-computing-photonic-logic",
+    "name": "Optical Computing (Photonic Logic)",
+    "category": "Semiconductors",
+    "status": "basic_research",
+    "est_year": 2039,
+    "est_year_range": "2037\u20132045",
+    "horizon": "Long-Term (2035+)"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "basic_research",
+  "confidenceLabel": "Not classified",
+  "estimate": "2037\u20132045",
+  "estimateYear": 2039,
+  "sourceCount": null,
+  "companies": [],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

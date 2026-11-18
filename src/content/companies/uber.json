@@ -1,0 +1,27 @@
+{
+  "id": "uber",
+  "title": "Uber Technologies Inc.",
+  "summary": "",
+  "sector": "autonomous",
+  "sourceCategory": "Autonomous",
+  "sourcePath": "_stocks/uber.md",
+  "sourceHash": "2a6c2e4b851a9aeb08cb6004b298cc8d1ac49b6333e2746c62978b157056138e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Uber is the largest ride-hailing and food delivery platform globally, and uniquely positioned as the distribution layer for autonomous vehicle deployment. Rather than building its own AV technology (after divesting ATG in 2020), Uber partners with AV companies: Waymo in Austin and Atlanta, Motional in Las Vegas, and WeRide. This asset-light AV strategy means Uber benefits from AV cost reduction (no driver payment) without carrying AV development risk. In parallel, Uber's core ride-hailing business is growing 18%+ annually with improving driver economics and expanding international markets. Key risk: AV partners may eventually bypass Uber to build direct consumer apps; Waymo One already operates independently in San Francisco and Phoenix.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Robotaxi (Geofenced Operation)</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Uber hosts Waymo robotaxis on its platform in Austin and Atlanta. The Uber-Waymo partnership is live, commercial, and expanding: a proof of the distribution thesis.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Full Self-Driving (Level 4, Urban)</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2027</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Uber's long-term value depends on broad AV adoption reducing the per-trip cost structure. Every AV deployment on the Uber platform improves unit economics without Uber carrying capex.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Autonomous Drone Delivery</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2028</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Uber Eats has explored drone delivery partnerships. Not a near-term revenue driver: more of an adjacency to watch.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nUber is the largest ride-hailing and food delivery platform globally, and uniquely positioned as the distribution layer for autonomous vehicle deployment. Rather than building its own AV technology (after divesting ATG in 2020), Uber partners with AV companies: Waymo in Austin and Atlanta, Motional in Las Vegas, and WeRide. This asset-light AV strategy means Uber benefits from AV cost reduction (no driver payment) without carrying AV development risk. In parallel, Uber's core ride-hailing business is growing 18%+ annually with improving driver economics and expanding international markets. Key risk: AV partners may eventually bypass Uber to build direct consumer apps; Waymo One already operates independently in San Francisco and Phoenix.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Robotaxi (Geofenced Operation)</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Uber hosts Waymo robotaxis on its platform in Austin and Atlanta. The Uber-Waymo partnership is live, commercial, and expanding: a proof of the distribution thesis.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Full Self-Driving (Level 4, Urban)</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2027</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Uber's long-term value depends on broad AV adoption reducing the per-trip cost structure. Every AV deployment on the Uber platform improves unit economics without Uber carrying capex.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Autonomous Drone Delivery</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2028</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Uber Eats has explored drone delivery partnerships. Not a near-term revenue driver: more of an adjacency to watch.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Uber Technologies Inc.",
+    "symbol": "UBER",
+    "exchange": "NYSE",
+    "categories": [
+      "Autonomous"
+    ]
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "UBER",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

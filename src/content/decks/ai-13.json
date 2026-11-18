@@ -1,0 +1,25 @@
+{
+  "id": "ai-13",
+  "title": "AI & Computing — Briefing 13",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "computing-performance-growth",
+    "continual-learning-systems",
+    "control-systems",
+    "controllable-multi-agent-deployment",
+    "conventional-aviation-standards",
+    "cost-of-ai-inference",
+    "counterfactual-reasoning-capability",
+    "craft-industry-listing-time",
+    "cross-platform-device-understanding",
+    "cryogenic-detector-calibration",
+    "cryogenic-interfaces",
+    "cybersecurity-vulnerability-detection"
+  ]
+}

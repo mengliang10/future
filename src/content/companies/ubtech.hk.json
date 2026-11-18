@@ -1,0 +1,29 @@
+{
+  "id": "ubtech.hk",
+  "title": "UBTech Robotics",
+  "summary": "Humanoid and service robot maker running factory pilots with Chinese automakers.",
+  "sector": "robotics",
+  "sourceCategory": "Robotics & Automation",
+  "sourcePath": "_stocks/ubtech.hk.md",
+  "sourceHash": "3cc8157deaff05b8e33def4777f4afc8bfee4e3666d30fcb2af237f7386e4401",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>UBTech listed in Hong Kong in 2023 and has positioned its Walker humanoids for inspection and material handling inside car plants, with pilot programmes at Chinese automakers. Revenue still comes mainly from education and logistics robots, so the humanoid is an option on factory automation rather than a shipping product line. The company is a useful read on how quickly Chinese factories accept embodied automation.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Humanoid pilots in automotive assembly and inspection.</li>\n<li>Service and education robotics revenue.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Conversion of pilots into paid fleet orders.</li>\n<li>Cost per unit and duty cycle in real plants.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nUBTech listed in Hong Kong in 2023 and has positioned its Walker humanoids for inspection and material handling inside car plants, with pilot programmes at Chinese automakers. Revenue still comes mainly from education and logistics robots, so the humanoid is an option on factory automation rather than a shipping product line. The company is a useful read on how quickly Chinese factories accept embodied automation.\n\n## Technology Exposure\n\n- Humanoid pilots in automotive assembly and inspection.\n- Service and education robotics revenue.\n\n## What To Watch\n\n- Conversion of pilots into paid fleet orders.\n- Cost per unit and duty cycle in real plants.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "UBTech Robotics",
+    "symbol": "9880.HK",
+    "exchange": "HKEX",
+    "categories": [
+      "Robotics & Automation"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "9880.HK",
+  "exchange": "HKEX",
+  "private": false,
+  "businessMeaning": "Factory pilots are the honest test: a humanoid must beat a fixed robot or a human on cost per task, not on novelty.",
+  "investmentLens": "Pilot announcements are not revenue; track units sold and utilisation disclosures."
+}

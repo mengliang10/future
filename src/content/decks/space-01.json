@@ -1,0 +1,25 @@
+{
+  "id": "space-01",
+  "title": "Space — Briefing 01",
+  "sector": "space",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "asteroid-mining-demonstration",
+    "autonomous-lunarmars-rover-fleet",
+    "commercial-lunar-lander",
+    "commercial-space-station-post-iss",
+    "commercial-suborbital-space-tourism",
+    "crewed-mars-mission",
+    "full-rocket-reusability-starship",
+    "global-satellite-internet-coverage",
+    "heavy-lift-rocket-100t-to-leo",
+    "in-space-manufacturing",
+    "insitu-resource-utilization-isru",
+    "leo-satellite-internet-constellation"
+  ]
+}

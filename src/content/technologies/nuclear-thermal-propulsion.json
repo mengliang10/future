@@ -1,0 +1,31 @@
+{
+  "id": "nuclear-thermal-propulsion",
+  "title": "Nuclear Thermal Propulsion (NTP)",
+  "summary": "",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_tech/nuclear-thermal-propulsion.md",
+  "sourceHash": "0a8aedd1bfa1600a733d4e3f5ecaba34b5c59d59d63083e0324e22695264bf76",
+  "bodyHtml": "<p>NTP systems use a nuclear reactor to heat a propellant (typically liquid hydrogen) to extreme temperatures, exhausting it through a nozzle to generate thrust. NTP offers twice the efficiency of the best chemical rockets.</p>\n<p>Key attributes:</p>\n<ul>\n<li><strong>High Specific Impulse (Isp):</strong> ~900 seconds vs ~450 seconds for chemical propulsion.</li>\n<li><strong>Rapid Mars Transit:</strong> Reducing one-way trip time from 7-9 months to 2-3 months.</li>\n<li><strong>Crew Safety:</strong> Shorter transit times significantly reduce radiation exposure and microgravity effects for astronauts.</li>\n<li><strong>Active Projects:</strong> NASA/DARPA DRACO (Demonstration Rocket for Agile Cislunar Operations) targeted for 2027 launch.</li>\n</ul>\n",
+  "bodyMarkdown": "NTP systems use a nuclear reactor to heat a propellant (typically liquid hydrogen) to extreme temperatures, exhausting it through a nozzle to generate thrust. NTP offers twice the efficiency of the best chemical rockets.\n\nKey attributes:\n- **High Specific Impulse (Isp):** ~900 seconds vs ~450 seconds for chemical propulsion.\n- **Rapid Mars Transit:** Reducing one-way trip time from 7-9 months to 2-3 months.\n- **Crew Safety:** Shorter transit times significantly reduce radiation exposure and microgravity effects for astronauts.\n- **Active Projects:** NASA/DARPA DRACO (Demonstration Rocket for Agile Cislunar Operations) targeted for 2027 launch.",
+  "sourceMeta": {
+    "layout": "tech",
+    "id": "nuclear-thermal-propulsion",
+    "name": "Nuclear Thermal Propulsion (NTP)",
+    "category": "Space Tech",
+    "status": "prototype",
+    "est_year": 2028,
+    "est_year_range": "2028\u20132032",
+    "horizon": "Near-Term (2026\u20132030)"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "prototype",
+  "confidenceLabel": "Not classified",
+  "estimate": "2028\u20132032",
+  "estimateYear": 2028,
+  "sourceCount": null,
+  "companies": [],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

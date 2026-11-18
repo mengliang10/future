@@ -1,0 +1,30 @@
+{
+  "id": "smci",
+  "title": "Super Micro Computer",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/smci.md",
+  "sourceHash": "634292005ed8629453c17583aa4d10d6e12ef7f2a8c4d50807d57da700ecc65f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Super Micro Computer is the AI server ODM delivering GPU-dense rack systems directly to hyperscaler and enterprise customers. High exposure to NVIDIA Blackwell demand.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for SMCI is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSuper Micro Computer is the AI server ODM delivering GPU-dense rack systems directly to hyperscaler and enterprise customers. High exposure to NVIDIA Blackwell demand.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for SMCI is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Super Micro Computer",
+    "symbol": "SMCI",
+    "exchange": "NASDAQ",
+    "categories": [
+      "AI & Cloud",
+      "Hardware"
+    ],
+    "timing_action": "AVOID",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "SMCI",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

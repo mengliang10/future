@@ -1,0 +1,25 @@
+{
+  "id": "autonomous-01",
+  "title": "Autonomous Systems — Briefing 01",
+  "sector": "autonomous",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "adaptive-cruise-control-acc",
+    "adas-level-2-partial-automation",
+    "adas-level-3-conditional-highway",
+    "autonomous-trucking-highway-odd",
+    "av-sensor-fusion-camlidarradar",
+    "evtol-air-taxi",
+    "full-self-driving-level-4-urban",
+    "high-definition-mapping-hd-map",
+    "robotaxi-full-city-no-safety-driver",
+    "robotaxi-geofenced-operation",
+    "solid-state-lidar",
+    "v2x-vehicle-to-everything-comms"
+  ]
+}

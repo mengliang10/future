@@ -1,0 +1,25 @@
+{
+  "id": "semiconductors-04",
+  "title": "Semiconductors — Briefing 04",
+  "sector": "semiconductors",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "graphene-mass-production",
+    "har-structure-metrology",
+    "hbm-thermal-performance",
+    "hbm3-memory",
+    "hbm4-memory",
+    "high-na-euv-lithography-asml-exe",
+    "humanoid-robot",
+    "integrated-quantum-photonics-chip",
+    "memory-chip-prices",
+    "memory-chip-shortage",
+    "memory-semiconductor-market",
+    "microled-display"
+  ]
+}

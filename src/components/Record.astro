@@ -1,0 +1,21 @@
+---
+import {url, base} from '../lib/base';
+import {visualFor,horizonFor} from '../lib/visuals';
+import Site from '../layouts/Site.astro';import {records,label,provenanceLabel} from '../lib/catalogue';
+const {record,kind}=Astro.props;
+const [sectors,tech,companies]=await Promise.all([records('sectors'),records('technologies'),records('companies')]);
+const sector=sectors.find(s=>s.id===record.sector);
+const isTech=kind==='technology';
+const norm=v=>String(v).toLowerCase().replace(/[^a-z0-9]/g,'');const same=(a,b)=>a===b||norm(a)===norm(b);const related=isTech?record.companies.map(id=>companies.find(c=>same(c.id,id))).filter(Boolean):tech.filter(t=>t.companies.some(id=>same(id,record.id)));
+const body=record.bodyHtml.replace(/href="\/tech\/([^"/]+)\/?"/g,(whole,id)=>tech.some(t=>t.id===id)?whole:`data-unresolved-link="/tech/${id}/"`).replace(/href="\/companies\/([^"/]+)\/?"/g,(whole,id)=>companies.some(c=>c.id===id)?whole:`data-unresolved-link="/companies/${id}/"`);
+---
+<Site title={record.title} active={isTech?'Explore':'Companies'}><article class="container record" style={`--sector:${visualFor(record.sector).color}`} data-record-id={record.id} data-collection={isTech?'technologies':'companies'}>
+<nav class="breadcrumb" aria-label="Breadcrumb"><a href={isTech?'/explore/':'/companies/'}>{isTech?'Explore':'Companies'}</a><span>/</span>{sector&&<a href={url(`/sectors/${sector.id}/`)}>{sector.title}</a>}</nav>
+<header class="record-heading"><span class="eyebrow">{isTech?'Technology record':record.private?'Private company':'Listed company'}</span><h1 data-field="title">{record.title}</h1>{record.summary&&<p class="record-summary" data-field="summary">{record.summary}</p>}<div class="record-badges"><span class="badge">{provenanceLabel(record.evidenceStatus)}</span>{isTech?<><span data-field="stage">{label(record.stage)}</span><span data-field="estimate">Estimated window: {record.estimate}</span></>:<><span>{record.symbol}</span><span>{record.exchange}</span></>}</div></header>
+<div class="record-columns"><div><div class="lens-notes"><section><span class="eyebrow">For business</span><h2>What to ask.</h2><p data-field="businessMeaning">{record.businessMeaning||sector?.businessQuestion||'What practical constraint could this address, and what must change before adoption?'}</p></section><section><span class="eyebrow">For investors</span><h2>What to question.</h2><p data-field="investmentLens">{record.investmentLens||sector?.investorQuestion||'Where could value accrue, and what evidence would weaken the thesis?'}</p></section></div>
+<section class="source-reading"><div class="section-heading"><h2>Research notes.</h2><a href={url(`/source/${record.sourcePath}`)} download>Original Markdown ↓</a></div><div class="prose" set:html={body}/></section>
+</div><aside class="record-side"><h2>{isTech?'Company connections':'Technology exposure'}</h2>{related.length?<ul>{related.slice(0,30).map(r=><li><a href={isTech?`/companies/${r.id}/`:`/tech/${r.id}/`}>{r.title} →</a></li>)}</ul>:<p>No linked records in this source.</p>}{related.length>30&&<a href={url(`/explore/?q=${record.symbol}`)}>Explore all connections →</a>}
+{isTech&&<><h2>Read the confidence carefully.</h2><p>{record.confidenceLabel}. This is a source-supplied label, not an independently verified probability.</p><a href={url(`/presentations/?sector=${record.sector}`)}>Sector presentations →</a></>}
+{isTech&&<a class="record-timeline-link" href={url(`/roadmaps/?sector=${record.sector}&horizon=${horizonFor(record.estimateYear)}`)}>Explore this sector’s timeline ↗</a>}
+<details><summary>Source metadata</summary><pre>{JSON.stringify(record.sourceMeta,null,2)}</pre></details></aside></div>
+</article></Site>

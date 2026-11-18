@@ -1,0 +1,14 @@
+{
+  "id": "semiconductors-08",
+  "title": "Semiconductors — Briefing 08",
+  "sector": "semiconductors",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "wide-bandgap-semiconductor"
+  ]
+}

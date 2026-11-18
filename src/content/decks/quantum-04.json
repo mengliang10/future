@@ -1,0 +1,25 @@
+{
+  "id": "quantum-04",
+  "title": "Quantum Computing — Briefing 04",
+  "sector": "quantum",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "quantum-sensing-metrology",
+    "quantum-sensor-integration",
+    "quantum-state-control",
+    "quantum-supremacy-narrow-task",
+    "quantum-technologies",
+    "quantum-technology-market",
+    "scalable-quantum-operations",
+    "scalable-spin-qubit-quantum-computing",
+    "superconducting-qubit",
+    "tensor-network-quantum-hybrid",
+    "topological-qubit-majorana-fermion",
+    "trapped-ion-qubit"
+  ]
+}

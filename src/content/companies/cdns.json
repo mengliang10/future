@@ -1,0 +1,28 @@
+{
+  "id": "cdns",
+  "title": "Cadence Design Systems, Inc.",
+  "summary": "",
+  "sector": "other",
+  "sourceCategory": "AI",
+  "sourcePath": "_stocks/cdns.md",
+  "sourceHash": "c94ac608d7f0958ead0d2c3cdfe3f40b28d7f458741ce03bfe0e418450432414",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Cadence provides the software tools (EDA) required to design every complex chip in the world. As AI hardware moves to 2nm, 1.4nm, and beyond, the design complexity increases exponentially, driving higher license value and adoption of AI-driven design tools (JedAI). Cadence is integrating &quot;Agentic RTL Verification&quot; to automate the most time-consuming part of the chip design cycle.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Agentic RTL Verification</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Cadence's integration of agentic loops into verification workflows dramatically reduces time-to-market for complex AI accelerators.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI-Assisted Chip Design (EDA AI)</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; JedAI and related tools use machine learning to optimize chip layouts and routing, a critical requirement for advanced process nodes.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nCadence provides the software tools (EDA) required to design every complex chip in the world. As AI hardware moves to 2nm, 1.4nm, and beyond, the design complexity increases exponentially, driving higher license value and adoption of AI-driven design tools (JedAI). Cadence is integrating \"Agentic RTL Verification\" to automate the most time-consuming part of the chip design cycle.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Agentic RTL Verification</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Cadence's integration of agentic loops into verification workflows dramatically reduces time-to-market for complex AI accelerators.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI-Assisted Chip Design (EDA AI)</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; JedAI and related tools use machine learning to optimize chip layouts and routing, a critical requirement for advanced process nodes.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Cadence Design Systems, Inc.",
+    "symbol": "CDNS",
+    "exchange": "NASDAQ",
+    "categories": [
+      "AI",
+      "Semiconductors"
+    ]
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "CDNS",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

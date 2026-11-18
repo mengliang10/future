@@ -1,0 +1,25 @@
+{
+  "id": "semiconductors-02",
+  "title": "Semiconductors — Briefing 02",
+  "sector": "semiconductors",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "automated-wafer-defect-analysis",
+    "backside-power-distribution-network",
+    "backside-power",
+    "carbon-nanotube",
+    "chip-design",
+    "chip-scale-atomic-clocks",
+    "chip-scale-precision",
+    "chiplet-based-architectures",
+    "chiplet-disaggregated-architecture",
+    "compound-semiconductor",
+    "compute-in-memory-cim",
+    "cowos-advanced-packaging"
+  ]
+}

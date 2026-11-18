@@ -1,0 +1,25 @@
+{
+  "id": "robotics-02",
+  "title": "Robotics & Automation — Briefing 02",
+  "sector": "robotics",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "global-humanoid-robot-market",
+    "honda-robotic-hand-technology",
+    "humanoid-robot-development",
+    "humanoid-robot-factory-deployment",
+    "humanoid-robot-lab-controlled-demo",
+    "humanoid-robot-research-adoption",
+    "humanoid-robots",
+    "industrial-robot-arm",
+    "industrial-robotics-durability-benchmark",
+    "japan-humanoid-industry-position",
+    "multimodal-robot-training",
+    "nano-robotics-autonomous-navigation"
+  ]
+}

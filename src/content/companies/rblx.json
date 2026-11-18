@@ -1,0 +1,32 @@
+{
+  "id": "rblx",
+  "title": "Roblox Corporation",
+  "summary": "",
+  "sector": "xr",
+  "sourceCategory": "XR",
+  "sourcePath": "_stocks/rblx.md",
+  "sourceHash": "74303f3b8fe4c26c539aba5385d1a4b2b0f6f02178fd41e30a97d9300649b17f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Roblox is the world's largest user-generated virtual world: 88M daily active users spending an average of 2+ hours per day in immersive 3D experiences. The platform is the generator; developers build; Roblox takes 25%. As the generation that grew up in Roblox enters adulthood, the platform's monetisation model matures from virtual goods to digital fashion, concerts, and brand experiences.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>Demographic Tailwind:</strong> Gen Z and Gen Alpha users are aging into higher purchasing power.</li>\n<li><strong>Developer Economy:</strong> 4M+ creators build on Roblox; top developers earn millions annually.</li>\n<li><strong>Advertising Platform:</strong> Immersive ads and brand experiences are a new incremental revenue stream.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Safety Concerns:</strong> Child safety issues and regulatory scrutiny are ongoing risks.</li>\n<li><strong>Competition:</strong> Fortnite (Epic), Minecraft (Microsoft), and new platforms compete for teenage time.</li>\n</ul>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Open Interoperable Metaverse</span>\n<span class=\"conf-badge conf-speculative\">Speculative</span>\n<span class=\"roadmap-stock-item-year\">2032</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">Single persistent 3D internet with identity and assets portable across platforms</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; This is a long-duration, speculative bet. An open interoperable metaverse requires industry standards that do not yet exist. Meta is investing heavily but commercial timeline is 2030+.</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-lead\">&#9650; LEADING · 70%</span> <span class=\"roadmap-rivals-sep\">vs <a href=\"/companies/meta/\">META</a> 65%</span></div>\n</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-lead\">↑ LEADING · 70%</span> <span class=\"roadmap-rivals-sep\">vs <a href=\"/companies/meta/\">META</a> 65%</span></div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nRoblox is the world's largest user-generated virtual world: 88M daily active users spending an average of 2+ hours per day in immersive 3D experiences. The platform is the generator; developers build; Roblox takes 25%. As the generation that grew up in Roblox enters adulthood, the platform's monetisation model matures from virtual goods to digital fashion, concerts, and brand experiences.\n\n### Key Drivers\n- **Demographic Tailwind:** Gen Z and Gen Alpha users are aging into higher purchasing power.\n- **Developer Economy:** 4M+ creators build on Roblox; top developers earn millions annually.\n- **Advertising Platform:** Immersive ads and brand experiences are a new incremental revenue stream.\n\n### Risk Factors\n- **Safety Concerns:** Child safety issues and regulatory scrutiny are ongoing risks.\n- **Competition:** Fortnite (Epic), Minecraft (Microsoft), and new platforms compete for teenage time.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Open Interoperable Metaverse</span>\n<span class=\"conf-badge conf-speculative\">Speculative</span>\n<span class=\"roadmap-stock-item-year\">2032</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">Single persistent 3D internet with identity and assets portable across platforms</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; This is a long-duration, speculative bet. An open interoperable metaverse requires industry standards that do not yet exist. Meta is investing heavily but commercial timeline is 2030+.</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-lead\">&#9650; LEADING · 70%</span> <span class=\"roadmap-rivals-sep\">vs <a href=\"/future/stocks/meta/\">META</a> 65%</span></div>\n</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-lead\">↑ LEADING · 70%</span> <span class=\"roadmap-rivals-sep\">vs <a href=\"/future/stocks/meta/\">META</a> 65%</span></div>\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Roblox Corporation",
+    "symbol": "RBLX",
+    "exchange": "NYSE",
+    "categories": [
+      "XR",
+      "Gaming",
+      "Metaverse"
+    ],
+    "node_count": 1,
+    "timing_action": "FULL",
+    "regime": "TRENDING_DOWN"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "RBLX",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

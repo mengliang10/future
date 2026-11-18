@@ -1,0 +1,53 @@
+{
+  "id": "generative-ai",
+  "title": "Generative AI",
+  "summary": "AI models capable of generating novel text, images, code, and data",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_tech/generative-ai.md",
+  "sourceHash": "8c9bbff7078ff9ccff50632798bc93cef6e6122f0caa42969a393e544c741b2a",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>AI models capable of generating novel text, images, code, and data. <strong>Achieved.</strong></p>\n<p>Generative AI has transitioned from research to mass commercial adoption, driving the largest compute infrastructure buildout in history.</p>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/msft/\">MSFT</a>, <a href=\"/companies/googl/\">GOOGL</a>, <a href=\"/companies/nvda/\">NVDA</a>, <a href=\"/companies/amzn/\">AMZN</a>, <a href=\"/companies/meta/\">META</a></p>\n",
+  "bodyMarkdown": "## What This Is\n\nAI models capable of generating novel text, images, code, and data. **Achieved.**\n\nGenerative AI has transitioned from research to mass commercial adoption, driving the largest compute infrastructure buildout in history.\n\n## Investment Exposure\n\n[MSFT](/future/stocks/msft/), [GOOGL](/future/stocks/googl/), [NVDA](/future/stocks/nvda/), [AMZN](/future/stocks/amzn/), [META](/future/stocks/meta/)",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Generative AI",
+    "subtitle": "AI models capable of generating novel text, images, code, and data",
+    "category": "AI & Cloud",
+    "stage": "mass_production",
+    "confidence_label": "Confirmed",
+    "confidence_score": 0.99,
+    "est_year": 2022,
+    "est_year_range": "2021-2023",
+    "horizon": "Deployed",
+    "timeline_confidence": 99,
+    "monetizable_year": "Now (deployed)",
+    "monetizable_confidence": 99,
+    "source_count": 50,
+    "stocks": [
+      "MSFT",
+      "GOOGL",
+      "NVDA",
+      "AMZN",
+      "META"
+    ],
+    "lead_stock": "MSFT",
+    "lead_stock_confidence": 95,
+    "permalink": "/tech/generative-ai/"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "mass_production",
+  "confidenceLabel": "Confirmed",
+  "estimate": "2021-2023",
+  "estimateYear": 2022,
+  "sourceCount": 50,
+  "companies": [
+    "msft",
+    "googl",
+    "nvda",
+    "amzn",
+    "meta"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

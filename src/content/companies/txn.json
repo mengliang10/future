@@ -1,0 +1,29 @@
+{
+  "id": "txn",
+  "title": "Texas Instruments",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/txn.md",
+  "sourceHash": "816a6fd5dcb8e812364dc091364afe895276174a8b978b9a5cb17f157af94896",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Texas Instruments is the leading analog and embedded processor supplier; critical component supplier for industrial automation and automotive electrification.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for TXN is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTexas Instruments is the leading analog and embedded processor supplier; critical component supplier for industrial automation and automotive electrification.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for TXN is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Texas Instruments",
+    "symbol": "TXN",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Semiconductors"
+    ],
+    "timing_action": "FULL",
+    "regime": "TRENDING_UP"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "TXN",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

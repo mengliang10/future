@@ -1,0 +1,29 @@
+{
+  "id": "imec.be",
+  "title": "imec",
+  "summary": "Belgian research institute that de-risks the next three process generations for the whole industry.",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/imec.be.md",
+  "sourceHash": "1e487cc9d08d3b5f91b2e5f1628d9919002b4d78ae93e100a8e1dfcbbbeb55b1",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>imec runs pre-competitive research on lithography, packaging and device architecture with every major chipmaker and tool vendor as a partner. Its pilot line took delivery of the first high-numerical-aperture EUV scanner, and its programmes set the timetable for sub-2nm manufacturing. It is a non-profit, but its research output is the closest thing the industry has to a shared roadmap.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>High-NA EUV lithography research.</li>\n<li>Advanced packaging and device architecture.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Programme funding from industry and the EU.</li>\n<li>Talent and equipment access under export controls.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nimec runs pre-competitive research on lithography, packaging and device architecture with every major chipmaker and tool vendor as a partner. Its pilot line took delivery of the first high-numerical-aperture EUV scanner, and its programmes set the timetable for sub-2nm manufacturing. It is a non-profit, but its research output is the closest thing the industry has to a shared roadmap.\n\n## Technology Exposure\n\n- High-NA EUV lithography research.\n- Advanced packaging and device architecture.\n\n## What To Watch\n\n- Programme funding from industry and the EU.\n- Talent and equipment access under export controls.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "imec",
+    "symbol": "IMEC.BE",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "IMEC.BE",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "For companies without a leading-edge fab, membership of a research institute is the only affordable way to see the roadmap.",
+  "investmentLens": "Not investable directly; use its publications as the leading indicator for equipment demand."
+}

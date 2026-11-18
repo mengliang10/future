@@ -1,0 +1,2 @@
+import fs from 'node:fs';
+const decks=fs.readdirSync('src/content/decks').map(f=>JSON.parse(fs.readFileSync('src/content/decks/'+f)));const index={};for(const deck of decks){if(deck.mode==='snapshot')continue;for(const ref of [...deck.technologies.map(id=>'technologies:'+id),...deck.blocks.map(id=>'blocks:'+id),'sectors:'+deck.sector]){(index[ref]??=[]).push(deck.id);}}fs.writeFileSync('qa/dependencies.json',JSON.stringify(index,null,2));console.log(`${Object.keys(index).length} shared targets indexed across ${decks.length} decks`);

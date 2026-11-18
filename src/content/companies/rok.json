@@ -1,0 +1,28 @@
+{
+  "id": "rok",
+  "title": "Rockwell Automation",
+  "summary": "",
+  "sector": "other",
+  "sourceCategory": "Robotics & Auto",
+  "sourcePath": "_stocks/rok.md",
+  "sourceHash": "d180197766aed064ebac79e7978989c38e8d2444da2eac54d78032adc6f2b3fe",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Detailed fundamental analysis and growth catalysts for Rockwell Automation (ROK) are currently under review.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Industrial Robot Arm</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">Programmable multi-axis manipulators for manufacturing: Fanuc, ABB, KUKA</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Rockwell Automation is a system integrator and controller for industrial robots. The humanoid and cobot expansion broadens Rockwell's addressable market within factory automation.</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY · 70%</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nDetailed fundamental analysis and growth catalysts for Rockwell Automation (ROK) are currently under review.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Industrial Robot Arm</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">Programmable multi-axis manipulators for manufacturing: Fanuc, ABB, KUKA</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Rockwell Automation is a system integrator and controller for industrial robots. The humanoid and cobot expansion broadens Rockwell's addressable market within factory automation.</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY · 70%</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Rockwell Automation",
+    "symbol": "ROK",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Robotics & Auto"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ROK",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

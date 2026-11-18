@@ -1,0 +1,24 @@
+{
+  "id": "xai.pvt",
+  "title": "xAI",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/xai.pvt.md",
+  "sourceHash": "c8fdaa4165cfc3523c7b6b550aaa01319b2f64993cd45f499424884074660526",
+  "bodyHtml": "<p>xAI is Elon Musk's AI venture, founded to build &quot;truth-seeking&quot; AI and compete with OpenAI and Google. The company's primary product is Grok, integrated into the X (formerly Twitter) platform. xAI recently completed the &quot;Colossus&quot; training cluster in Memphis, featuring 100,000 NVIDIA H100 GPUs, currently the world's most powerful AI supercomputer.</p>\n<p>Key technical advantages:</p>\n<ul>\n<li><strong>Colossus Supercomputer:</strong> Massive internal compute capacity reducing dependency on hyperscalers.</li>\n<li><strong>Real-time Data Access:</strong> Direct integration with X's real-time information flow.</li>\n<li><strong>Rapid Iteration:</strong> High-speed development cycle from founding to frontier-class models (Grok-3) in under 18 months.</li>\n</ul>\n",
+  "bodyMarkdown": "xAI is Elon Musk's AI venture, founded to build \"truth-seeking\" AI and compete with OpenAI and Google. The company's primary product is Grok, integrated into the X (formerly Twitter) platform. xAI recently completed the \"Colossus\" training cluster in Memphis, featuring 100,000 NVIDIA H100 GPUs, currently the world's most powerful AI supercomputer.\n\nKey technical advantages:\n- **Colossus Supercomputer:** Massive internal compute capacity reducing dependency on hyperscalers.\n- **Real-time Data Access:** Direct integration with X's real-time information flow.\n- **Rapid Iteration:** High-speed development cycle from founding to frontier-class models (Grok-3) in under 18 months.",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "XAI.PVT",
+    "name": "xAI",
+    "sector": "AI & Cloud"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "XAI.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

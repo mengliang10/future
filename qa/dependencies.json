@@ -1,0 +1,3030 @@
+{
+  "technologies:1mw-per-rack-ai-cluster": [
+    "ai-01"
+  ],
+  "technologies:200nm-wafer-to-wafer-hybrid-bonding": [
+    "ai-01"
+  ],
+  "technologies:2d-magnetic-materials": [
+    "ai-01"
+  ],
+  "technologies:2d-materials-electronics": [
+    "ai-01"
+  ],
+  "technologies:2d-materials": [
+    "ai-01"
+  ],
+  "technologies:3d-reconstruction-foundation-models": [
+    "ai-01"
+  ],
+  "technologies:3d-scene-understanding": [
+    "ai-01"
+  ],
+  "technologies:6g-extreme-mimo-x-mimo-7-ghz-network": [
+    "ai-01"
+  ],
+  "technologies:aapl-imac-introduction": [
+    "ai-01"
+  ],
+  "technologies:aapl-ipod-introduction": [
+    "ai-01"
+  ],
+  "technologies:accuracy-of-open-weight-models-and-commercial-apis": [
+    "ai-01"
+  ],
+  "technologies:adaptive-optics-imaging": [
+    "ai-01"
+  ],
+  "blocks:reading-framework": [
+    "ai-01",
+    "ai-02",
+    "ai-03",
+    "ai-04",
+    "ai-05",
+    "ai-06",
+    "ai-07",
+    "ai-08",
+    "ai-09",
+    "ai-10",
+    "ai-11",
+    "ai-12",
+    "ai-13",
+    "ai-14",
+    "ai-15",
+    "ai-16",
+    "ai-17",
+    "ai-18",
+    "ai-19",
+    "ai-20",
+    "ai-21",
+    "ai-22",
+    "ai-23",
+    "ai-24",
+    "ai-25",
+    "ai-26",
+    "ai-27",
+    "ai-28",
+    "ai-29",
+    "ai-30",
+    "ai-31",
+    "ai-32",
+    "ai-33",
+    "ai-34",
+    "ai-35",
+    "ai-36",
+    "ai-37",
+    "ai-38",
+    "ai-39",
+    "ai-40",
+    "ai-41",
+    "ai-42",
+    "autonomous-01",
+    "autonomous-02",
+    "bci-01",
+    "biotech-01",
+    "biotech-02",
+    "biotech-03",
+    "biotech-04",
+    "biotech-05",
+    "blockchain-01",
+    "blockchain-02",
+    "cyber-01",
+    "cyber-02",
+    "energy-01",
+    "energy-02",
+    "energy-03",
+    "energy-04",
+    "energy-05",
+    "energy-06",
+    "marketing-01",
+    "markets-01",
+    "markets-02",
+    "markets-03",
+    "policy-01",
+    "quantum-01",
+    "quantum-02",
+    "quantum-03",
+    "quantum-04",
+    "quantum-05",
+    "robotics-01",
+    "robotics-02",
+    "robotics-03",
+    "semiconductors-01",
+    "semiconductors-02",
+    "semiconductors-03",
+    "semiconductors-04",
+    "semiconductors-05",
+    "semiconductors-06",
+    "semiconductors-07",
+    "semiconductors-08",
+    "space-01",
+    "space-02",
+    "xr-01",
+    "xr-02"
+  ],
+  "blocks:evidence-check": [
+    "ai-01",
+    "ai-02",
+    "ai-03",
+    "ai-04",
+    "ai-05",
+    "ai-06",
+    "ai-07",
+    "ai-08",
+    "ai-09",
+    "ai-10",
+    "ai-11",
+    "ai-12",
+    "ai-13",
+    "ai-14",
+    "ai-15",
+    "ai-16",
+    "ai-17",
+    "ai-18",
+    "ai-19",
+    "ai-20",
+    "ai-21",
+    "ai-22",
+    "ai-23",
+    "ai-24",
+    "ai-25",
+    "ai-26",
+    "ai-27",
+    "ai-28",
+    "ai-29",
+    "ai-30",
+    "ai-31",
+    "ai-32",
+    "ai-33",
+    "ai-34",
+    "ai-35",
+    "ai-36",
+    "ai-37",
+    "ai-38",
+    "ai-39",
+    "ai-40",
+    "ai-41",
+    "ai-42",
+    "autonomous-01",
+    "autonomous-02",
+    "bci-01",
+    "biotech-01",
+    "biotech-02",
+    "biotech-03",
+    "biotech-04",
+    "biotech-05",
+    "blockchain-01",
+    "blockchain-02",
+    "cyber-01",
+    "cyber-02",
+    "energy-01",
+    "energy-02",
+    "energy-03",
+    "energy-04",
+    "energy-05",
+    "energy-06",
+    "marketing-01",
+    "markets-01",
+    "markets-02",
+    "markets-03",
+    "policy-01",
+    "quantum-01",
+    "quantum-02",
+    "quantum-03",
+    "quantum-04",
+    "quantum-05",
+    "robotics-01",
+    "robotics-02",
+    "robotics-03",
+    "semiconductors-01",
+    "semiconductors-02",
+    "semiconductors-03",
+    "semiconductors-04",
+    "semiconductors-05",
+    "semiconductors-06",
+    "semiconductors-07",
+    "semiconductors-08",
+    "space-01",
+    "space-02",
+    "xr-01",
+    "xr-02"
+  ],
+  "sectors:ai": [
+    "ai-01",
+    "ai-02",
+    "ai-03",
+    "ai-04",
+    "ai-05",
+    "ai-06",
+    "ai-07",
+    "ai-08",
+    "ai-09",
+    "ai-10",
+    "ai-11",
+    "ai-12",
+    "ai-13",
+    "ai-14",
+    "ai-15",
+    "ai-16",
+    "ai-17",
+    "ai-18",
+    "ai-19",
+    "ai-20",
+    "ai-21",
+    "ai-22",
+    "ai-23",
+    "ai-24",
+    "ai-25",
+    "ai-26",
+    "ai-27",
+    "ai-28",
+    "ai-29",
+    "ai-30",
+    "ai-31",
+    "ai-32",
+    "ai-33",
+    "ai-34",
+    "ai-35",
+    "ai-36",
+    "ai-37",
+    "ai-38",
+    "ai-39",
+    "ai-40",
+    "ai-41",
+    "ai-42"
+  ],
+  "technologies:adaptive-physical-systems": [
+    "ai-02"
+  ],
+  "technologies:advanced-manufacturing": [
+    "ai-02"
+  ],
+  "technologies:advanced-materials": [
+    "ai-02"
+  ],
+  "technologies:advanced-packaging-adoption": [
+    "ai-02"
+  ],
+  "technologies:advanced-packaging-technologies": [
+    "ai-02"
+  ],
+  "technologies:agent-x-prompt-rewriting": [
+    "ai-02"
+  ],
+  "technologies:agentic-ai-applications-in-homes": [
+    "ai-02"
+  ],
+  "technologies:agentic-banking-platform": [
+    "ai-02"
+  ],
+  "technologies:agentic-commerce": [
+    "ai-02"
+  ],
+  "technologies:agentic-payments": [
+    "ai-02"
+  ],
+  "technologies:agentic-rtl-verification": [
+    "ai-02"
+  ],
+  "technologies:aging-population": [
+    "ai-02"
+  ],
+  "technologies:ai-accelerators": [
+    "ai-03"
+  ],
+  "technologies:ai-adoption-in-schools": [
+    "ai-03"
+  ],
+  "technologies:ai-adoption": [
+    "ai-03"
+  ],
+  "technologies:ai-advancements": [
+    "ai-03"
+  ],
+  "technologies:ai-agent-adoption-in-homes": [
+    "ai-03"
+  ],
+  "technologies:ai-agent-persistent-memory": [
+    "ai-03"
+  ],
+  "technologies:ai-agent-platform": [
+    "ai-03"
+  ],
+  "technologies:ai-agent-swarms": [
+    "ai-03"
+  ],
+  "technologies:ai-agentic-lab-systems": [
+    "ai-03"
+  ],
+  "technologies:ai-agentic-supply-chain": [
+    "ai-03"
+  ],
+  "technologies:ai-assisted-chip-design-eda-ai": [
+    "ai-03"
+  ],
+  "technologies:ai-bots": [
+    "ai-03"
+  ],
+  "technologies:ai-closed-loop-research": [
+    "ai-04"
+  ],
+  "technologies:ai-cluster-interconnect": [
+    "ai-04"
+  ],
+  "technologies:ai-code-generation-efficiency": [
+    "ai-04"
+  ],
+  "technologies:ai-coding-agents": [
+    "ai-04"
+  ],
+  "technologies:ai-coding-capability": [
+    "ai-04"
+  ],
+  "technologies:ai-compute-cluster-performance": [
+    "ai-04"
+  ],
+  "technologies:ai-data-centers": [
+    "ai-04"
+  ],
+  "technologies:ai-deployment": [
+    "ai-04"
+  ],
+  "technologies:ai-development": [
+    "ai-04"
+  ],
+  "technologies:ai-driven-engineering": [
+    "ai-04"
+  ],
+  "technologies:ai-for-science-foundation-models": [
+    "ai-04"
+  ],
+  "technologies:ai-formal-mathematical-reasoning-leancoq-proof-systems": [
+    "ai-04"
+  ],
+  "technologies:ai-fraud-detection": [
+    "ai-05"
+  ],
+  "technologies:ai-funding-round": [
+    "ai-05"
+  ],
+  "technologies:ai-hallucination-risk": [
+    "ai-05"
+  ],
+  "technologies:ai-hallucination": [
+    "ai-05"
+  ],
+  "technologies:ai-hardware-asic-tpunputrainium": [
+    "ai-05"
+  ],
+  "technologies:ai-inference-at-edge": [
+    "ai-05"
+  ],
+  "technologies:ai-inference-cost-collapse": [
+    "ai-05"
+  ],
+  "technologies:ai-infrastructure-demand": [
+    "ai-05"
+  ],
+  "technologies:ai-infrastructure-spending": [
+    "ai-05"
+  ],
+  "technologies:ai-interview-behavioral-question": [
+    "ai-05"
+  ],
+  "technologies:ai-interview-behavioral-questions": [
+    "ai-05"
+  ],
+  "technologies:ai-investment-vs-return": [
+    "ai-05"
+  ],
+  "technologies:ai-kyc-aml-agents": [
+    "ai-06"
+  ],
+  "technologies:ai-materials-discovery": [
+    "ai-06"
+  ],
+  "technologies:ai-models": [
+    "ai-06"
+  ],
+  "technologies:ai-object-identification": [
+    "ai-06"
+  ],
+  "technologies:ai-optimized-electrolyzer-catalysts": [
+    "ai-06"
+  ],
+  "technologies:ai-optimized-inverse-design": [
+    "ai-06"
+  ],
+  "technologies:ai-payment-fraud-detection": [
+    "ai-06"
+  ],
+  "technologies:ai-safety-benchmarks": [
+    "ai-06"
+  ],
+  "technologies:ai-software-engineering-agent": [
+    "ai-06"
+  ],
+  "technologies:ai-startup-funding": [
+    "ai-06"
+  ],
+  "technologies:ai-targeting-system": [
+    "ai-06"
+  ],
+  "technologies:ai-technology": [
+    "ai-06"
+  ],
+  "technologies:ai-wealth-management": [
+    "ai-07"
+  ],
+  "technologies:ai-world-model": [
+    "ai-07"
+  ],
+  "technologies:all-solid-state-batteries": [
+    "ai-07"
+  ],
+  "technologies:antenna-design-optimization": [
+    "ai-07"
+  ],
+  "technologies:anthropic-claude-opus-4-8": [
+    "ai-07"
+  ],
+  "technologies:anthropic-enterprise-share": [
+    "ai-07"
+  ],
+  "technologies:apple-intelligence": [
+    "ai-07"
+  ],
+  "technologies:artificial-general-intelligence-development": [
+    "ai-07"
+  ],
+  "technologies:artificial-general-intelligence": [
+    "ai-07"
+  ],
+  "technologies:artificial-superintelligence-asi": [
+    "ai-07"
+  ],
+  "technologies:atom-efficient-carbon-conversion": [
+    "ai-07"
+  ],
+  "technologies:augmented-reality-industrial": [
+    "ai-07"
+  ],
+  "technologies:automated-defect-detection": [
+    "ai-08"
+  ],
+  "technologies:automated-environmental-impact-tracking": [
+    "ai-08"
+  ],
+  "technologies:automated-heart-disease-detection": [
+    "ai-08"
+  ],
+  "technologies:automated-materials-discovery": [
+    "ai-08"
+  ],
+  "technologies:autonomous-ai-agent": [
+    "ai-08"
+  ],
+  "technologies:autonomous-experimentation": [
+    "ai-08"
+  ],
+  "technologies:autonomous-flight-revolution": [
+    "ai-08"
+  ],
+  "technologies:autonomous-in-body-treatment": [
+    "ai-08"
+  ],
+  "technologies:autonomous-perception-systems": [
+    "ai-08"
+  ],
+  "technologies:autonomous-process-control": [
+    "ai-08"
+  ],
+  "technologies:autonomous-research-agent": [
+    "ai-08"
+  ],
+  "technologies:autonomous-vehicle-perception": [
+    "ai-08"
+  ],
+  "technologies:bank-gpt-conversational-interface": [
+    "ai-09"
+  ],
+  "technologies:battery-safety": [
+    "ai-09"
+  ],
+  "technologies:battery-technology": [
+    "ai-09"
+  ],
+  "technologies:behavioral-addiction-and-cognitive-damage": [
+    "ai-09"
+  ],
+  "technologies:bepc-development-activity": [
+    "ai-09"
+  ],
+  "technologies:beyond-lithium-alternatives": [
+    "ai-09"
+  ],
+  "technologies:bidirectional-bci-closed-loop": [
+    "ai-09"
+  ],
+  "technologies:big-data-analytics": [
+    "ai-09"
+  ],
+  "technologies:biology-foundation-model": [
+    "ai-09"
+  ],
+  "technologies:blood-brain-barrier-penetrating-nano": [
+    "ai-09"
+  ],
+  "technologies:boundary-aware-intervention": [
+    "ai-09"
+  ],
+  "technologies:brain-computer-interface": [
+    "ai-09"
+  ],
+  "technologies:brain-inspired-learning": [
+    "ai-10"
+  ],
+  "technologies:brain-to-text-communication": [
+    "ai-10"
+  ],
+  "technologies:breakthrough-roadmaps": [
+    "ai-10"
+  ],
+  "technologies:bundibugyo-immune-response": [
+    "ai-10"
+  ],
+  "technologies:camera-control-generation": [
+    "ai-10"
+  ],
+  "technologies:cannot-propose-architectural-alternatives": [
+    "ai-10"
+  ],
+  "technologies:carbon-capture-conversion": [
+    "ai-10"
+  ],
+  "technologies:causal-ai": [
+    "ai-10"
+  ],
+  "technologies:causal-world-model-agents": [
+    "ai-10"
+  ],
+  "technologies:cell-differentiation-engineering": [
+    "ai-10"
+  ],
+  "technologies:chain-of-thought-reasoning-model": [
+    "ai-10"
+  ],
+  "technologies:chain-of-thought-reasoning": [
+    "ai-10"
+  ],
+  "technologies:chemo-mechanical-stability-research": [
+    "ai-11"
+  ],
+  "technologies:chronic-disease-monitoring": [
+    "ai-11"
+  ],
+  "technologies:chronic-genetic-disease-treatment": [
+    "ai-11"
+  ],
+  "technologies:circuit-level-optimization": [
+    "ai-11"
+  ],
+  "technologies:circular-economy-production": [
+    "ai-11"
+  ],
+  "technologies:claude-mythos-preview": [
+    "ai-11"
+  ],
+  "technologies:claude-mythos": [
+    "ai-11"
+  ],
+  "technologies:cleanable-laser-release-layer": [
+    "ai-11"
+  ],
+  "technologies:climate-change-solutions": [
+    "ai-11"
+  ],
+  "technologies:clinical-trials": [
+    "ai-11"
+  ],
+  "technologies:closed-loop-physical-digital-systems": [
+    "ai-11"
+  ],
+  "technologies:cloud-hyperscaler-infrastructure": [
+    "ai-11"
+  ],
+  "technologies:coded-mask-wavefront-sensing": [
+    "ai-12"
+  ],
+  "technologies:coherence-connectivity-solutions": [
+    "ai-12"
+  ],
+  "technologies:commensal-therapeutic-engineering": [
+    "ai-12"
+  ],
+  "technologies:competitive-for-wireless-communications-filters": [
+    "ai-12"
+  ],
+  "technologies:competitiveness-for-wireless-communications-filters": [
+    "ai-12"
+  ],
+  "technologies:complex-system-modeling": [
+    "ai-12"
+  ],
+  "technologies:computational-fluid-dynamics": [
+    "ai-12"
+  ],
+  "technologies:computational-inverse-design-optics": [
+    "ai-12"
+  ],
+  "technologies:computational-materials-science": [
+    "ai-12"
+  ],
+  "technologies:compute-bandwidth-growth": [
+    "ai-12"
+  ],
+  "technologies:computing-in-memory-architecture": [
+    "ai-12"
+  ],
+  "technologies:computing-paradigm-shift": [
+    "ai-12"
+  ],
+  "technologies:computing-performance-growth": [
+    "ai-13"
+  ],
+  "technologies:continual-learning-systems": [
+    "ai-13"
+  ],
+  "technologies:control-systems": [
+    "ai-13"
+  ],
+  "technologies:controllable-multi-agent-deployment": [
+    "ai-13"
+  ],
+  "technologies:conventional-aviation-standards": [
+    "ai-13"
+  ],
+  "technologies:cost-of-ai-inference": [
+    "ai-13"
+  ],
+  "technologies:counterfactual-reasoning-capability": [
+    "ai-13"
+  ],
+  "technologies:craft-industry-listing-time": [
+    "ai-13"
+  ],
+  "technologies:cross-platform-device-understanding": [
+    "ai-13"
+  ],
+  "technologies:cryogenic-detector-calibration": [
+    "ai-13"
+  ],
+  "technologies:cryogenic-interfaces": [
+    "ai-13"
+  ],
+  "technologies:cybersecurity-vulnerability-detection": [
+    "ai-13"
+  ],
+  "technologies:cybersecurity-vulnerability-discovery": [
+    "ai-14"
+  ],
+  "technologies:dark-matter-axion-search": [
+    "ai-14"
+  ],
+  "technologies:data-center-capacity-doubling": [
+    "ai-14"
+  ],
+  "technologies:data-center-interconnects": [
+    "ai-14"
+  ],
+  "technologies:data-center-liquid-cooling": [
+    "ai-14"
+  ],
+  "technologies:data-driven-material-optimization": [
+    "ai-14"
+  ],
+  "technologies:data-movement-overhead": [
+    "ai-14"
+  ],
+  "technologies:data-wall-breakthrough": [
+    "ai-14"
+  ],
+  "technologies:de-novo-enzyme-engineering": [
+    "ai-14"
+  ],
+  "technologies:deep-learning-inference": [
+    "ai-14"
+  ],
+  "technologies:defect-classification-at-edge": [
+    "ai-14"
+  ],
+  "technologies:demand-for-holistic-cybersecurity": [
+    "ai-14"
+  ],
+  "technologies:dementia-patient-independence": [
+    "ai-15"
+  ],
+  "technologies:design-reuse-cost-efficiency": [
+    "ai-15"
+  ],
+  "technologies:design-understanding": [
+    "ai-15"
+  ],
+  "technologies:deterministic-script-workflow": [
+    "ai-15"
+  ],
+  "technologies:deterministic-scripts": [
+    "ai-15"
+  ],
+  "technologies:diffusion-model-image-synthesis": [
+    "ai-15"
+  ],
+  "technologies:digital-image-correlation": [
+    "ai-15"
+  ],
+  "technologies:direct-hydrogen-production": [
+    "ai-15"
+  ],
+  "technologies:direct-interface-between-differential-antennas-and-single-ended-amplifiers": [
+    "ai-15"
+  ],
+  "technologies:distributed-private-training": [
+    "ai-15"
+  ],
+  "technologies:distributed-training-1000-gpus": [
+    "ai-15"
+  ],
+  "technologies:dna-data-storage": [
+    "ai-15"
+  ],
+  "technologies:dual-band-antenna-bandwidth": [
+    "ai-16"
+  ],
+  "technologies:dynamic-active-site-engineering": [
+    "ai-16"
+  ],
+  "technologies:dynamic-disease-profiling": [
+    "ai-16"
+  ],
+  "technologies:edge-computing": [
+    "ai-16"
+  ],
+  "technologies:edge-inference-efficiency": [
+    "ai-16"
+  ],
+  "technologies:efficient-engines": [
+    "ai-16"
+  ],
+  "technologies:efficient-hydrogen-production": [
+    "ai-16"
+  ],
+  "technologies:elder-independence": [
+    "ai-16"
+  ],
+  "technologies:elimination-of-baluns-or-other-passive-components": [
+    "ai-16"
+  ],
+  "technologies:embryo-genetic-screening-startups": [
+    "ai-16"
+  ],
+  "technologies:empirical-alignment-evaluation": [
+    "ai-16"
+  ],
+  "technologies:end-to-end-autonomous-driving": [
+    "ai-16"
+  ],
+  "technologies:endangered-species-conservation": [
+    "ai-17"
+  ],
+  "technologies:engineering-applications": [
+    "ai-17"
+  ],
+  "technologies:engineering-degradation-modeling": [
+    "ai-17"
+  ],
+  "technologies:enhanced-light-matter-interaction": [
+    "ai-17"
+  ],
+  "technologies:enterprise-adoption-of-coding-assistants": [
+    "ai-17"
+  ],
+  "technologies:enterprise-ai-adoption": [
+    "ai-17"
+  ],
+  "technologies:environmental-monitoring-networks": [
+    "ai-17"
+  ],
+  "technologies:environmental-monitoring": [
+    "ai-17"
+  ],
+  "technologies:event-driven-ai-computation": [
+    "ai-17"
+  ],
+  "technologies:extreme-environment-applications": [
+    "ai-17"
+  ],
+  "technologies:extreme-environment-materials": [
+    "ai-17"
+  ],
+  "technologies:extreme-field-physics": [
+    "ai-17"
+  ],
+  "technologies:fairness-aware-identification": [
+    "ai-18"
+  ],
+  "technologies:faster-data-movement-and-efficient-computing": [
+    "ai-18"
+  ],
+  "technologies:faster-data-movement-and-more-efficient-computing": [
+    "ai-18"
+  ],
+  "technologies:fault-tolerant-error-correction": [
+    "ai-18"
+  ],
+  "technologies:few-shot-retrieval-augmentation": [
+    "ai-18"
+  ],
+  "technologies:fine-pitch-interconnect-adoption": [
+    "ai-18"
+  ],
+  "technologies:fine-pitch-interconnect": [
+    "ai-18"
+  ],
+  "technologies:fine-pitch-interconnects": [
+    "ai-18"
+  ],
+  "technologies:flexible-export-tools-and-deep-integration": [
+    "ai-18"
+  ],
+  "technologies:flexible-sensing-devices": [
+    "ai-18"
+  ],
+  "technologies:fluid-circuit-board": [
+    "ai-18"
+  ],
+  "technologies:from-ai-large-scale-deployment": [
+    "ai-18"
+  ],
+  "technologies:full-lifecycle-compliance": [
+    "ai-19"
+  ],
+  "technologies:generative-ai": [
+    "ai-19"
+  ],
+  "technologies:generative-protein-design": [
+    "ai-19"
+  ],
+  "technologies:global-cyber-threat-level": [
+    "ai-19"
+  ],
+  "technologies:googl-ai-infrastructure": [
+    "ai-19"
+  ],
+  "technologies:googl-cloud-revenue": [
+    "ai-19"
+  ],
+  "technologies:google-ai-overview-users": [
+    "ai-19"
+  ],
+  "technologies:google-ai-overviews": [
+    "ai-19"
+  ],
+  "technologies:gpu-compute-cluster": [
+    "ai-19"
+  ],
+  "technologies:granular-material-simulation": [
+    "ai-19"
+  ],
+  "technologies:graphene-industrial-scale-production": [
+    "ai-19"
+  ],
+  "technologies:greenhouse-gas-emissions": [
+    "ai-19"
+  ],
+  "technologies:grounded-knowledge-access": [
+    "ai-20"
+  ],
+  "technologies:gut-brain-axis-therapeutics": [
+    "ai-20"
+  ],
+  "technologies:harsh-environment-monitoring": [
+    "ai-20"
+  ],
+  "technologies:heterogeneous-iii-v-silicon": [
+    "ai-20"
+  ],
+  "technologies:hierarchical-nano-architecture": [
+    "ai-20"
+  ],
+  "technologies:high-capacity-lithium-batteries": [
+    "ai-20"
+  ],
+  "technologies:high-dimensional-communication": [
+    "ai-20"
+  ],
+  "technologies:high-fidelity-video-generation": [
+    "ai-20"
+  ],
+  "technologies:high-performance-graphics-devices": [
+    "ai-20"
+  ],
+  "technologies:high-strength-flexible-components": [
+    "ai-20"
+  ],
+  "technologies:high-temperature-superconducting-fusion": [
+    "ai-20"
+  ],
+  "technologies:high-throughput-combinatorial-screening": [
+    "ai-20"
+  ],
+  "technologies:higher-education-research": [
+    "ai-21"
+  ],
+  "technologies:human-oversight-requirement": [
+    "ai-21"
+  ],
+  "technologies:hybrid-reasoning-systems": [
+    "ai-21"
+  ],
+  "technologies:hydrogen-production": [
+    "ai-21"
+  ],
+  "technologies:hyperscale-ai-data-centers": [
+    "ai-21"
+  ],
+  "technologies:hyperscale-data-center-buildout": [
+    "ai-21"
+  ],
+  "technologies:hyperscale-data-center-infrastructure": [
+    "ai-21"
+  ],
+  "technologies:hyperscaler-ai-capex": [
+    "ai-21"
+  ],
+  "technologies:imitation-learning-embodiment": [
+    "ai-21"
+  ],
+  "technologies:in-situ-catalysis-characterization": [
+    "ai-21"
+  ],
+  "technologies:in-vivo-cell-reprogramming": [
+    "ai-21"
+  ],
+  "technologies:income-inequality": [
+    "ai-21"
+  ],
+  "technologies:inductor-coupling-optimization": [
+    "ai-22"
+  ],
+  "technologies:industrial-applications": [
+    "ai-22"
+  ],
+  "technologies:industrial-manufacturing-challenge": [
+    "ai-22"
+  ],
+  "technologies:inference-time-compute-scaling-test-time-rl": [
+    "ai-22"
+  ],
+  "technologies:inference-time-compute-scaling": [
+    "ai-22"
+  ],
+  "technologies:infrastructure-monitoring": [
+    "ai-22"
+  ],
+  "technologies:intel-amd-competitive-position": [
+    "ai-22"
+  ],
+  "technologies:intel-classification-time": [
+    "ai-22"
+  ],
+  "technologies:intel-foundry-18a-process": [
+    "ai-22"
+  ],
+  "technologies:intelligence-classification-speed": [
+    "ai-22"
+  ],
+  "technologies:intelligent-sensor-systems": [
+    "ai-22"
+  ],
+  "technologies:interface-engineering-breakthroughs": [
+    "ai-22"
+  ],
+  "technologies:interface-engineering": [
+    "ai-23"
+  ],
+  "technologies:interface-protocol-evolution": [
+    "ai-23"
+  ],
+  "technologies:interior-manufacturing-growth": [
+    "ai-23"
+  ],
+  "technologies:intracellular-gene-delivery": [
+    "ai-23"
+  ],
+  "technologies:inverse-design-silicon-photonics": [
+    "ai-23"
+  ],
+  "technologies:iot-applications": [
+    "ai-23"
+  ],
+  "technologies:iot-monitoring-system": [
+    "ai-23"
+  ],
+  "technologies:k12-education-outcomes": [
+    "ai-23"
+  ],
+  "technologies:kagome-lattice-topology": [
+    "ai-23"
+  ],
+  "technologies:kakao-chatgpt-users": [
+    "ai-23"
+  ],
+  "technologies:kerr-microcomb-stabilization": [
+    "ai-23"
+  ],
+  "technologies:korean-digital-infrastructure": [
+    "ai-23"
+  ],
+  "technologies:korean-logistics-industry": [
+    "ai-24"
+  ],
+  "technologies:large-language-model-inner-workings-understanding": [
+    "ai-24"
+  ],
+  "technologies:large-language-model-transparency": [
+    "ai-24"
+  ],
+  "technologies:large-language-model-understanding": [
+    "ai-24"
+  ],
+  "technologies:large-language-model": [
+    "ai-24"
+  ],
+  "technologies:large-scale-layoffs-computer-sector": [
+    "ai-24"
+  ],
+  "technologies:large-scale-layoffs-in-computer-sector": [
+    "ai-24"
+  ],
+  "technologies:laser-additive-manufacturing": [
+    "ai-24"
+  ],
+  "technologies:layoffs-computer-sector": [
+    "ai-24"
+  ],
+  "technologies:legacy-digital-signature-security": [
+    "ai-24"
+  ],
+  "technologies:leo-satellite-connectivity": [
+    "ai-24"
+  ],
+  "technologies:lightweight-architecture": [
+    "ai-24"
+  ],
+  "technologies:lightweight-cnn-transformer-hybrid-architecture": [
+    "ai-25"
+  ],
+  "technologies:liquid-neural-networks": [
+    "ai-25"
+  ],
+  "technologies:lithium-ion-batteries": [
+    "ai-25"
+  ],
+  "technologies:living-sensor-therapeutics": [
+    "ai-25"
+  ],
+  "technologies:llm-100t-parameter-model": [
+    "ai-25"
+  ],
+  "technologies:llm-agent-zero-shot-decision": [
+    "ai-25"
+  ],
+  "technologies:llm-code-generation-accuracy": [
+    "ai-25"
+  ],
+  "technologies:llm-computational-cost": [
+    "ai-25"
+  ],
+  "technologies:llm-gpt-4-class-1t-params": [
+    "ai-25"
+  ],
+  "technologies:local-ai-agent-capability": [
+    "ai-25"
+  ],
+  "technologies:local-data-processing-autonomy": [
+    "ai-25"
+  ],
+  "technologies:local-language-model": [
+    "ai-25"
+  ],
+  "technologies:local-llm-deployment": [
+    "ai-26"
+  ],
+  "technologies:logic-memory-applications": [
+    "ai-26"
+  ],
+  "technologies:long-context-window-1m-tokens": [
+    "ai-26"
+  ],
+  "technologies:long-term-memory-agents": [
+    "ai-26"
+  ],
+  "technologies:longitudinal-multi-omic-monitoring": [
+    "ai-26"
+  ],
+  "technologies:low-cost-model-adaptation": [
+    "ai-26"
+  ],
+  "technologies:low-temperature-cu-polymer-hybrid-bonding": [
+    "ai-26"
+  ],
+  "technologies:machine-learning": [
+    "ai-26"
+  ],
+  "technologies:manufacturing-efficient-scale": [
+    "ai-26"
+  ],
+  "technologies:marvell-data-center-switches": [
+    "ai-26"
+  ],
+  "technologies:material-simulation": [
+    "ai-26"
+  ],
+  "technologies:materials-characterization": [
+    "ai-26"
+  ],
+  "technologies:materials-genome-pipelines": [
+    "ai-27"
+  ],
+  "technologies:materials-under-extreme-pressure": [
+    "ai-27"
+  ],
+  "technologies:mathematical-physics": [
+    "ai-27"
+  ],
+  "technologies:mechanical-to-hydrogen-fuel": [
+    "ai-27"
+  ],
+  "technologies:memory-pooled-server-demand": [
+    "ai-27"
+  ],
+  "technologies:mems-solid-state-cooling": [
+    "ai-27"
+  ],
+  "technologies:meta-whatsapp-integration": [
+    "ai-27"
+  ],
+  "technologies:metabolic-reprogramming-car-t": [
+    "ai-27"
+  ],
+  "technologies:metabolic-reprogramming-longevity": [
+    "ai-27"
+  ],
+  "technologies:minor-data-collection-without-consent": [
+    "ai-27"
+  ],
+  "technologies:mixed-dimensional-heterostructures": [
+    "ai-27"
+  ],
+  "technologies:mixture-of-experts-architecture": [
+    "ai-27"
+  ],
+  "technologies:mixture-of-experts-scaling": [
+    "ai-28"
+  ],
+  "technologies:ml-superconductor-structure-prediction": [
+    "ai-28"
+  ],
+  "technologies:model-distillation": [
+    "ai-28"
+  ],
+  "technologies:modified-ladder-lattice-filter-topology": [
+    "ai-28"
+  ],
+  "technologies:monolithic-electronic-photonic": [
+    "ai-28"
+  ],
+  "technologies:monolithic-light-sources": [
+    "ai-28"
+  ],
+  "technologies:more-transistors-and-interconnects-on-die": [
+    "ai-28"
+  ],
+  "technologies:multi-agent-coordination": [
+    "ai-28"
+  ],
+  "technologies:multi-phase-converter-topology": [
+    "ai-28"
+  ],
+  "technologies:multi-step-goal-oriented-agents": [
+    "ai-28"
+  ],
+  "technologies:multi-step-problem-solving": [
+    "ai-28"
+  ],
+  "technologies:multi-stimuli-responsive-materials": [
+    "ai-28"
+  ],
+  "technologies:multimodal-foundation-model": [
+    "ai-29"
+  ],
+  "technologies:multiple-compute-generations": [
+    "ai-29"
+  ],
+  "technologies:nanoparticle-cell-interaction": [
+    "ai-29"
+  ],
+  "technologies:nanoparticle-immunotherapy-combination": [
+    "ai-29"
+  ],
+  "technologies:natural-language-industrial-interfaces": [
+    "ai-29"
+  ],
+  "technologies:naver-conversation-sessions": [
+    "ai-29"
+  ],
+  "technologies:neural-scaling-laws-established": [
+    "ai-29"
+  ],
+  "technologies:news-sentiment-engine": [
+    "ai-29"
+  ],
+  "technologies:next-gen-materials": [
+    "ai-29"
+  ],
+  "technologies:noise-resilient-algorithms": [
+    "ai-29"
+  ],
+  "technologies:non-hermitian-topology": [
+    "ai-29"
+  ],
+  "technologies:non-invasive-diagnostics": [
+    "ai-29"
+  ],
+  "technologies:non-volatile-light-control": [
+    "ai-30"
+  ],
+  "technologies:nonlinear-dynamics": [
+    "ai-30"
+  ],
+  "technologies:nonlinear-optical-processing": [
+    "ai-30"
+  ],
+  "technologies:nvidia-ceo-jensen-huang": [
+    "ai-30"
+  ],
+  "technologies:ongoing-despite-geopolitical-tensions": [
+    "ai-30"
+  ],
+  "technologies:open-source-frontier-llm-gpt-4o1-class": [
+    "ai-30"
+  ],
+  "technologies:open-weight-models-in-70b-120b-range": [
+    "ai-30"
+  ],
+  "technologies:openai-chatgpt": [
+    "ai-30"
+  ],
+  "technologies:openai-enterprise-share": [
+    "ai-30"
+  ],
+  "technologies:optical-frequency-comb-spectroscopy": [
+    "ai-30"
+  ],
+  "technologies:optimization-algorithms": [
+    "ai-30"
+  ],
+  "technologies:organ-specific-delivery": [
+    "ai-30"
+  ],
+  "technologies:organ-specific-gene-regulation": [
+    "ai-31"
+  ],
+  "technologies:perovskite-encapsulation-stabilization": [
+    "ai-31"
+  ],
+  "technologies:perovskite-spin-dynamics": [
+    "ai-31"
+  ],
+  "technologies:persistent-context-ai": [
+    "ai-31"
+  ],
+  "technologies:personalized-algorithmic-medicine": [
+    "ai-31"
+  ],
+  "technologies:photonic-ai-synchronization": [
+    "ai-31"
+  ],
+  "technologies:photovoltaic-diffusion-length": [
+    "ai-31"
+  ],
+  "technologies:physical-world-interaction-data": [
+    "ai-31"
+  ],
+  "technologies:piezoelectric-water-splitting": [
+    "ai-31"
+  ],
+  "technologies:pix-brazil-upi-india": [
+    "ai-31"
+  ],
+  "technologies:platform-algorithm-design": [
+    "ai-31"
+  ],
+  "technologies:point-of-care-diagnostics": [
+    "ai-31"
+  ],
+  "technologies:position-aware-video-representations": [
+    "ai-32"
+  ],
+  "technologies:precision-cancer-therapy": [
+    "ai-32"
+  ],
+  "technologies:precision-gene-editing": [
+    "ai-32"
+  ],
+  "technologies:precision-measurement": [
+    "ai-32"
+  ],
+  "technologies:predictive-system-behavior": [
+    "ai-32"
+  ],
+  "technologies:prefill-and-decode-stage-acceleration": [
+    "ai-32"
+  ],
+  "technologies:privacy-preserving-distributed-training": [
+    "ai-32"
+  ],
+  "technologies:process-maturation-time": [
+    "ai-32"
+  ],
+  "technologies:production-ramp-at-new-process-node": [
+    "ai-32"
+  ],
+  "technologies:production-ramp-new-process-node": [
+    "ai-32"
+  ],
+  "technologies:productivity-growth": [
+    "ai-32"
+  ],
+  "technologies:productivity-improvement": [
+    "ai-32"
+  ],
+  "technologies:prompt-security-demand": [
+    "ai-33"
+  ],
+  "technologies:rain-ai-software": [
+    "ai-33"
+  ],
+  "technologies:rain-ai": [
+    "ai-33"
+  ],
+  "technologies:real-time-3d-reconstruction": [
+    "ai-33"
+  ],
+  "technologies:real-time-deformation-tracking": [
+    "ai-33"
+  ],
+  "technologies:real-time-inference-capability": [
+    "ai-33"
+  ],
+  "technologies:real-time-infrastructure-synchronization": [
+    "ai-33"
+  ],
+  "technologies:real-time-reaction-observation": [
+    "ai-33"
+  ],
+  "technologies:real-time-tumor-evolution-monitoring": [
+    "ai-33"
+  ],
+  "technologies:real-world-catalysis-modeling": [
+    "ai-33"
+  ],
+  "technologies:recyclable-water-treatment": [
+    "ai-33"
+  ],
+  "technologies:reinforcement-learning-optimization": [
+    "ai-33"
+  ],
+  "technologies:retrieval-augmented-generation-rag": [
+    "ai-34"
+  ],
+  "technologies:retrieval-augmented-generation": [
+    "ai-34"
+  ],
+  "technologies:reuse-across-compute-generations": [
+    "ai-34"
+  ],
+  "technologies:rlhf-constitutional-ai-alignment": [
+    "ai-34"
+  ],
+  "technologies:robotics-foundation-model": [
+    "ai-34"
+  ],
+  "technologies:room-temp-superconductivity": [
+    "ai-34"
+  ],
+  "technologies:safe-autonomous-systems": [
+    "ai-34"
+  ],
+  "technologies:samsung-galaxy-android-phones": [
+    "ai-34"
+  ],
+  "technologies:scalable-single-photon-manufacturing": [
+    "ai-34"
+  ],
+  "technologies:seamless-integration-into-existing-on-device-ai-agents": [
+    "ai-34"
+  ],
+  "technologies:second-higher-selectivity-filter-design": [
+    "ai-34"
+  ],
+  "technologies:self-correcting-ai-verification": [
+    "ai-34"
+  ],
+  "technologies:self-learning-photonics": [
+    "ai-35"
+  ],
+  "technologies:sensitive-data-risk": [
+    "ai-35"
+  ],
+  "technologies:sensitive-measurement-technology": [
+    "ai-35"
+  ],
+  "technologies:shape-over-chemistry": [
+    "ai-35"
+  ],
+  "technologies:shockley-queisser-breakthrough": [
+    "ai-35"
+  ],
+  "technologies:signal-processing": [
+    "ai-35"
+  ],
+  "technologies:silicon-project-failure": [
+    "ai-35"
+  ],
+  "technologies:simulated-action-consequences": [
+    "ai-35"
+  ],
+  "technologies:simulation-acceleration": [
+    "ai-35"
+  ],
+  "technologies:simultaneous-diagnosis-treatment": [
+    "ai-35"
+  ],
+  "technologies:single-ended-to-balanced-modified-ladder-lattice-filter-topology": [
+    "ai-35"
+  ],
+  "technologies:single-molecule-detection": [
+    "ai-35"
+  ],
+  "technologies:skyrmion-topological-logic": [
+    "ai-36"
+  ],
+  "technologies:small-business-accuracy-risk": [
+    "ai-36"
+  ],
+  "technologies:small-business-administrative-efficiency": [
+    "ai-36"
+  ],
+  "technologies:small-business-administrative-tasks": [
+    "ai-36"
+  ],
+  "technologies:small-business-data-privacy": [
+    "ai-36"
+  ],
+  "technologies:small-business-productivity": [
+    "ai-36"
+  ],
+  "technologies:small-data-machine-learning": [
+    "ai-36"
+  ],
+  "technologies:smart-nano-manufacturing": [
+    "ai-36"
+  ],
+  "technologies:smart-skin-platforms": [
+    "ai-36"
+  ],
+  "technologies:snn-based-learning-mechanisms": [
+    "ai-36"
+  ],
+  "technologies:sodium-ion-batteries": [
+    "ai-36"
+  ],
+  "technologies:sodium-ion-battery-technology": [
+    "ai-36"
+  ],
+  "technologies:soft-matter-engineering": [
+    "ai-37"
+  ],
+  "technologies:software-development-productivity": [
+    "ai-37"
+  ],
+  "technologies:software-development-speed": [
+    "ai-37"
+  ],
+  "technologies:software-vulnerability-discovery": [
+    "ai-37"
+  ],
+  "technologies:solid-oxide-electrolysis-high-temp": [
+    "ai-37"
+  ],
+  "technologies:solid-state-architectures": [
+    "ai-37"
+  ],
+  "technologies:solid-state-batteries": [
+    "ai-37"
+  ],
+  "technologies:space-harsh-environment-electronics": [
+    "ai-37"
+  ],
+  "technologies:space-manufacturing": [
+    "ai-37"
+  ],
+  "technologies:space-research-missions": [
+    "ai-37"
+  ],
+  "technologies:space-technology": [
+    "ai-37"
+  ],
+  "technologies:spacex-ai-computing-revenue": [
+    "ai-37"
+  ],
+  "technologies:spacex-ai-infrastructure": [
+    "ai-38"
+  ],
+  "technologies:spacex-ipo": [
+    "ai-38"
+  ],
+  "technologies:spatial-transcriptomics-3d": [
+    "ai-38"
+  ],
+  "technologies:special-topics-model": [
+    "ai-38"
+  ],
+  "technologies:speculative-decoding-inference": [
+    "ai-38"
+  ],
+  "technologies:stimuli-responsive-remediation-materials": [
+    "ai-38"
+  ],
+  "technologies:structural-design-optimization": [
+    "ai-38"
+  ],
+  "technologies:structured-world-representations": [
+    "ai-38"
+  ],
+  "technologies:sub-3nm-compatibility": [
+    "ai-38"
+  ],
+  "technologies:sub-3nm-silicon-alternatives": [
+    "ai-38"
+  ],
+  "technologies:superconducting-qubits": [
+    "ai-38"
+  ],
+  "technologies:sustainable-ammonia-production": [
+    "ai-38"
+  ],
+  "technologies:sustainable-by-design-manufacturing": [
+    "ai-39"
+  ],
+  "technologies:sustainable-electrification": [
+    "ai-39"
+  ],
+  "technologies:sustainable-hydrogen-production": [
+    "ai-39"
+  ],
+  "technologies:synergistic-cancer-treatment": [
+    "ai-39"
+  ],
+  "technologies:synthetic-data-training": [
+    "ai-39"
+  ],
+  "technologies:synthetic-gene-circuits-gut-bacteria": [
+    "ai-39"
+  ],
+  "technologies:synthetic-training-data-generation": [
+    "ai-39"
+  ],
+  "technologies:terafab-joint-venture": [
+    "ai-39"
+  ],
+  "technologies:test-plan-quality": [
+    "ai-39"
+  ],
+  "technologies:thermal-resistance": [
+    "ai-39"
+  ],
+  "technologies:thin-film-technology": [
+    "ai-39"
+  ],
+  "technologies:time-series-foundation-models": [
+    "ai-39"
+  ],
+  "technologies:transformer-architecture": [
+    "ai-40"
+  ],
+  "technologies:tsla-supply-chain-security": [
+    "ai-40"
+  ],
+  "technologies:tunable-electronic-phases": [
+    "ai-40"
+  ],
+  "technologies:ucie-specification": [
+    "ai-40"
+  ],
+  "technologies:ultra-sensitive-cancer-monitoring": [
+    "ai-40"
+  ],
+  "technologies:ultrafast-materials-characterization": [
+    "ai-40"
+  ],
+  "technologies:upper-band-performance-prioritization": [
+    "ai-40"
+  ],
+  "technologies:urban-infrastructure-management": [
+    "ai-40"
+  ],
+  "technologies:user-adoption": [
+    "ai-40"
+  ],
+  "technologies:user-emotional-bond-formation": [
+    "ai-40"
+  ],
+  "technologies:user-psychological-harm": [
+    "ai-40"
+  ],
+  "technologies:user-psychological-risk": [
+    "ai-40"
+  ],
+  "technologies:verification-engineer-repetitive-tasks": [
+    "ai-41"
+  ],
+  "technologies:verification-flow-orchestration": [
+    "ai-41"
+  ],
+  "technologies:verification-tools-capability": [
+    "ai-41"
+  ],
+  "technologies:verification-transformation": [
+    "ai-41"
+  ],
+  "technologies:video-understanding-models": [
+    "ai-41"
+  ],
+  "technologies:viscoelastic-fluid-surface-interaction": [
+    "ai-41"
+  ],
+  "technologies:vision-language-action-models": [
+    "ai-41"
+  ],
+  "technologies:von-neumann-breakthrough-computing": [
+    "ai-41"
+  ],
+  "technologies:waste-heat-recovery-efficiency": [
+    "ai-41"
+  ],
+  "technologies:waste-heat-recovery": [
+    "ai-41"
+  ],
+  "technologies:weather-prediction": [
+    "ai-41"
+  ],
+  "technologies:weighted-fom-optimization---ann-surrogate-modeling": [
+    "ai-41"
+  ],
+  "technologies:weighted-fom-optimization": [
+    "ai-42"
+  ],
+  "technologies:wide-bandgap-ultra-efficiency": [
+    "ai-42"
+  ],
+  "technologies:world-model-embodied-agents": [
+    "ai-42"
+  ],
+  "technologies:zero-trust-manufacturing": [
+    "ai-42"
+  ],
+  "technologies:adaptive-cruise-control-acc": [
+    "autonomous-01"
+  ],
+  "technologies:adas-level-2-partial-automation": [
+    "autonomous-01"
+  ],
+  "technologies:adas-level-3-conditional-highway": [
+    "autonomous-01"
+  ],
+  "technologies:autonomous-trucking-highway-odd": [
+    "autonomous-01"
+  ],
+  "technologies:av-sensor-fusion-camlidarradar": [
+    "autonomous-01"
+  ],
+  "technologies:evtol-air-taxi": [
+    "autonomous-01"
+  ],
+  "technologies:full-self-driving-level-4-urban": [
+    "autonomous-01"
+  ],
+  "technologies:high-definition-mapping-hd-map": [
+    "autonomous-01"
+  ],
+  "technologies:robotaxi-full-city-no-safety-driver": [
+    "autonomous-01"
+  ],
+  "technologies:robotaxi-geofenced-operation": [
+    "autonomous-01"
+  ],
+  "technologies:solid-state-lidar": [
+    "autonomous-01"
+  ],
+  "technologies:v2x-vehicle-to-everything-comms": [
+    "autonomous-01"
+  ],
+  "sectors:autonomous": [
+    "autonomous-01",
+    "autonomous-02"
+  ],
+  "technologies:zero-accident-transport-network": [
+    "autonomous-02"
+  ],
+  "technologies:ai-neural-signal-decoder": [
+    "bci-01"
+  ],
+  "technologies:bci-motor-cortex-decoding": [
+    "bci-01"
+  ],
+  "technologies:bci-speech-decoding": [
+    "bci-01"
+  ],
+  "technologies:bidirectional-bci-read-write": [
+    "bci-01"
+  ],
+  "technologies:cochlear-implant": [
+    "bci-01"
+  ],
+  "technologies:consumer-non-invasive-bci-headset": [
+    "bci-01"
+  ],
+  "technologies:deep-brain-stimulation-dbs": [
+    "bci-01"
+  ],
+  "technologies:eeg-non-invasive-brain-recording": [
+    "bci-01"
+  ],
+  "technologies:high-bandwidth-wireless-bci": [
+    "bci-01"
+  ],
+  "technologies:memory-augmentation-via-bci": [
+    "bci-01"
+  ],
+  "technologies:merged-human-ai-intelligence": [
+    "bci-01"
+  ],
+  "technologies:utah-array-invasive-bci": [
+    "bci-01"
+  ],
+  "sectors:bci": [
+    "bci-01"
+  ],
+  "technologies:adolescent-mental-health-risk": [
+    "biotech-01"
+  ],
+  "technologies:africa-first-end-to-end-mrna-platform": [
+    "biotech-01"
+  ],
+  "technologies:africa-mrna-production-capability": [
+    "biotech-01"
+  ],
+  "technologies:ai-drug-discovery-pipelines": [
+    "biotech-01"
+  ],
+  "technologies:ai-drug-discovery-platform": [
+    "biotech-01"
+  ],
+  "technologies:antibiotic-generative-ai": [
+    "biotech-01"
+  ],
+  "technologies:autonomous-drug-discovery-labs": [
+    "biotech-01"
+  ],
+  "technologies:autonomous-health-intervention": [
+    "biotech-01"
+  ],
+  "technologies:bio-derived-high-performance-materials": [
+    "biotech-01"
+  ],
+  "technologies:bio-inspired-hierarchical-design": [
+    "biotech-01"
+  ],
+  "technologies:bio-inspired-structural-materials": [
+    "biotech-01"
+  ],
+  "technologies:biogas-production-efficiency": [
+    "biotech-01"
+  ],
+  "sectors:biotech": [
+    "biotech-01",
+    "biotech-02",
+    "biotech-03",
+    "biotech-04",
+    "biotech-05"
+  ],
+  "technologies:biomedical-engineering": [
+    "biotech-02"
+  ],
+  "technologies:biomimetic-cell-membrane-nano": [
+    "biotech-02"
+  ],
+  "technologies:cancer-elimination-most-types": [
+    "biotech-02"
+  ],
+  "technologies:car-t-cell-therapy": [
+    "biotech-02"
+  ],
+  "technologies:circrna-technology": [
+    "biotech-02"
+  ],
+  "technologies:closed-loop-bio-feedback-wearables": [
+    "biotech-02"
+  ],
+  "technologies:continuous-health-monitoring": [
+    "biotech-02"
+  ],
+  "technologies:crispr-base-editing": [
+    "biotech-02"
+  ],
+  "technologies:crispr-cas9-gene-editing": [
+    "biotech-02"
+  ],
+  "technologies:crispr-prime-editing": [
+    "biotech-02"
+  ],
+  "technologies:cultivated-meat-at-scale": [
+    "biotech-02"
+  ],
+  "technologies:elder-care-home-healthcare": [
+    "biotech-02"
+  ],
+  "technologies:expanded-rna-drug-portfolio": [
+    "biotech-03"
+  ],
+  "technologies:gene-therapy-rare-disease-fda-approved": [
+    "biotech-03"
+  ],
+  "technologies:in-vivo-crispr-therapy": [
+    "biotech-03"
+  ],
+  "technologies:intelligent-drug-delivery-systems": [
+    "biotech-03"
+  ],
+  "technologies:invisible-health-monitoring": [
+    "biotech-03"
+  ],
+  "technologies:long-term-health-patches": [
+    "biotech-03"
+  ],
+  "technologies:longevity-senolytics-at-scale": [
+    "biotech-03"
+  ],
+  "technologies:medical-ai-diagnostics": [
+    "biotech-03"
+  ],
+  "technologies:medical-device-demand": [
+    "biotech-03"
+  ],
+  "technologies:microbiome-epigenetic-modulation": [
+    "biotech-03"
+  ],
+  "technologies:mrna-vaccine-therapeutic-platform": [
+    "biotech-03"
+  ],
+  "technologies:next-generation-sequencing-ngs": [
+    "biotech-03"
+  ],
+  "technologies:organ-on-chip-microphysiological": [
+    "biotech-04"
+  ],
+  "technologies:partial-biological-aging-reversal": [
+    "biotech-04"
+  ],
+  "technologies:partial-epigenetic-reprogramming": [
+    "biotech-04"
+  ],
+  "technologies:personalized-drug-response-prediction": [
+    "biotech-04"
+  ],
+  "technologies:personalized-gene-editing-drug-approvals": [
+    "biotech-04"
+  ],
+  "technologies:pig-to-human-xenotransplantation": [
+    "biotech-04"
+  ],
+  "technologies:protein-structure-prediction-ai": [
+    "biotech-04"
+  ],
+  "technologies:quantum-protein-folding-solver": [
+    "biotech-04"
+  ],
+  "technologies:senolytic-therapy-zombie-cell-clearance": [
+    "biotech-04"
+  ],
+  "technologies:structural-health-monitoring": [
+    "biotech-04"
+  ],
+  "technologies:synthetic-biology-cell-programming": [
+    "biotech-04"
+  ],
+  "technologies:synthetic-biology-control": [
+    "biotech-04"
+  ],
+  "technologies:synthetic-medical-data": [
+    "biotech-05"
+  ],
+  "technologies:targeted-drug-delivery": [
+    "biotech-05"
+  ],
+  "technologies:whole-genome-sequencing-1000": [
+    "biotech-05"
+  ],
+  "technologies:bitcoin-etf": [
+    "blockchain-01"
+  ],
+  "technologies:bitcoin-proof-of-work-blockchain": [
+    "blockchain-01"
+  ],
+  "technologies:cross-chain-interoperability-protocol": [
+    "blockchain-01"
+  ],
+  "technologies:cryptographic-hash-sha-256": [
+    "blockchain-01"
+  ],
+  "technologies:decentralized-identity-did-ssi": [
+    "blockchain-01"
+  ],
+  "technologies:defi-ecosystem": [
+    "blockchain-01"
+  ],
+  "technologies:ethereum-smart-contract-platform": [
+    "blockchain-01"
+  ],
+  "technologies:global-token-consumption": [
+    "blockchain-01"
+  ],
+  "technologies:layer2-rollup": [
+    "blockchain-01"
+  ],
+  "technologies:next-generation-dual-band-antenna-methodology": [
+    "blockchain-01"
+  ],
+  "technologies:programmable-money": [
+    "blockchain-01"
+  ],
+  "technologies:proof-of-stake-consensus": [
+    "blockchain-01"
+  ],
+  "sectors:blockchain": [
+    "blockchain-01",
+    "blockchain-02"
+  ],
+  "technologies:retail-cbdc-central-bank-digital": [
+    "blockchain-02"
+  ],
+  "technologies:stablecoin-payments": [
+    "blockchain-02"
+  ],
+  "technologies:tokenized-bank-deposits": [
+    "blockchain-02"
+  ],
+  "technologies:tokenized-real-world-assets": [
+    "blockchain-02"
+  ],
+  "technologies:web3-mass-consumer-adoption": [
+    "blockchain-02"
+  ],
+  "technologies:zero-knowledge-proof-zkp": [
+    "blockchain-02"
+  ],
+  "technologies:zk-evm-zk-rollup-evm-compatible": [
+    "blockchain-02"
+  ],
+  "technologies:ai-autonomous-security-operations-centre": [
+    "cyber-01"
+  ],
+  "technologies:ai-driven-threat-detection": [
+    "cyber-01"
+  ],
+  "technologies:confidential-computing-tee": [
+    "cyber-01"
+  ],
+  "technologies:edr-endpoint-detection-response": [
+    "cyber-01"
+  ],
+  "technologies:hardware-security-module-hsm": [
+    "cyber-01"
+  ],
+  "technologies:homomorphic-encryption-practical": [
+    "cyber-01"
+  ],
+  "technologies:public-key-cryptography-rsaecc": [
+    "cyber-01"
+  ],
+  "technologies:quantum-key-distribution-network": [
+    "cyber-01"
+  ],
+  "technologies:sase-secure-access-service-edge": [
+    "cyber-01"
+  ],
+  "technologies:secure-multi-party-computation": [
+    "cyber-01"
+  ],
+  "technologies:tlsssl-encrypted-transport": [
+    "cyber-01"
+  ],
+  "technologies:xdr-extended-detection-response": [
+    "cyber-01"
+  ],
+  "sectors:cyber": [
+    "cyber-01",
+    "cyber-02"
+  ],
+  "technologies:zero-trust-security-architecture": [
+    "cyber-02"
+  ],
+  "technologies:advanced-nuclear-gen-iv-msrsfr": [
+    "energy-01"
+  ],
+  "technologies:ai-data-center-energy-efficiency": [
+    "energy-01"
+  ],
+  "technologies:ai-data-center-power-demand": [
+    "energy-01"
+  ],
+  "technologies:ai-demand-flexibility-grid": [
+    "energy-01"
+  ],
+  "technologies:ai-energy-rebound-effect": [
+    "energy-01"
+  ],
+  "technologies:ai-managed-smart-grid": [
+    "energy-01"
+  ],
+  "technologies:autonomous-nuclear-plant-operations": [
+    "energy-01"
+  ],
+  "technologies:behind-the-meter-data-center-generation": [
+    "energy-01"
+  ],
+  "technologies:commercial-fusion-power-plant": [
+    "energy-01"
+  ],
+  "technologies:data-center-energy-demand": [
+    "energy-01"
+  ],
+  "technologies:data-center-energy-sustainability": [
+    "energy-01"
+  ],
+  "technologies:data-center-power-demand": [
+    "energy-01"
+  ],
+  "sectors:energy": [
+    "energy-01",
+    "energy-02",
+    "energy-03",
+    "energy-04",
+    "energy-05",
+    "energy-06"
+  ],
+  "technologies:digital-battery-passport": [
+    "energy-02"
+  ],
+  "technologies:direct-air-carbon-capture-dac": [
+    "energy-02"
+  ],
+  "technologies:direct-interface-between-differential-antennas-and-single-ended-power-and-low-noise-amplifiers": [
+    "energy-02"
+  ],
+  "technologies:efficient-power-solutions": [
+    "energy-02"
+  ],
+  "technologies:energy-demand": [
+    "energy-02"
+  ],
+  "technologies:energy-efficient-ai": [
+    "energy-02"
+  ],
+  "technologies:energy-efficient-computing": [
+    "energy-02"
+  ],
+  "technologies:energy-systems": [
+    "energy-02"
+  ],
+  "technologies:energy-water-consumption": [
+    "energy-02"
+  ],
+  "technologies:enhanced-geothermal-systems-egs": [
+    "energy-02"
+  ],
+  "technologies:floating-offshore-wind": [
+    "energy-02"
+  ],
+  "technologies:green-hydrogen-2kg-via-electrolysis": [
+    "energy-02"
+  ],
+  "technologies:grid-energy-storage": [
+    "energy-03"
+  ],
+  "technologies:grid-interconnection-arbitrage": [
+    "energy-03"
+  ],
+  "technologies:grid-interconnection-reform": [
+    "energy-03"
+  ],
+  "technologies:grid-scale-battery-storage-gwh": [
+    "energy-03"
+  ],
+  "technologies:high-energy-density-lithium": [
+    "energy-03"
+  ],
+  "technologies:holistic-energy-optimization": [
+    "energy-03"
+  ],
+  "technologies:hpc-power-conversion-efficiency": [
+    "energy-03"
+  ],
+  "technologies:hydrogen-fuel-cell-pem": [
+    "energy-03"
+  ],
+  "technologies:hyperscale-ai-data-center-efficiency": [
+    "energy-03"
+  ],
+  "technologies:industrial-energy-conversion": [
+    "energy-03"
+  ],
+  "technologies:lithium-ion-battery": [
+    "energy-03"
+  ],
+  "technologies:marine-power-generation": [
+    "energy-03"
+  ],
+  "technologies:mission-critical-power": [
+    "energy-04"
+  ],
+  "technologies:multi-source-energy-harvesting": [
+    "energy-04"
+  ],
+  "technologies:next-gen-energy-conversion": [
+    "energy-04"
+  ],
+  "technologies:next-gen-nuclear-design": [
+    "energy-04"
+  ],
+  "technologies:next-gen-nuclear-reactors": [
+    "energy-04"
+  ],
+  "technologies:nuclear-fusion-net-energy-gain": [
+    "energy-04"
+  ],
+  "technologies:nuclear-gen-iii-reactor-ap1000": [
+    "energy-04"
+  ],
+  "technologies:nuclear-physics": [
+    "energy-04"
+  ],
+  "technologies:nuclear-power-deployment-rate": [
+    "energy-04"
+  ],
+  "technologies:nuclear-reactor-deployment-rate": [
+    "energy-04"
+  ],
+  "technologies:nuclear-reactor-deployment-speed": [
+    "energy-04"
+  ],
+  "technologies:onshore-wind-turbine": [
+    "energy-04"
+  ],
+  "technologies:performance-and-power": [
+    "energy-05"
+  ],
+  "technologies:perovskite-solar-cell-30-eff": [
+    "energy-05"
+  ],
+  "technologies:renewable-energy-systems": [
+    "energy-05"
+  ],
+  "technologies:renewable-energy": [
+    "energy-05"
+  ],
+  "technologies:roi-for-performance-and-power": [
+    "energy-05"
+  ],
+  "technologies:scalable-fusion-energy": [
+    "energy-05"
+  ],
+  "technologies:small-modular-reactor-300mwe": [
+    "energy-05"
+  ],
+  "technologies:small-satellite-power": [
+    "energy-05"
+  ],
+  "technologies:solar-below-1cent-kwh": [
+    "energy-05"
+  ],
+  "technologies:solar-pv-panel-silicon": [
+    "energy-05"
+  ],
+  "technologies:solid-state-battery": [
+    "energy-05"
+  ],
+  "technologies:spike-encoding-energy-efficiency": [
+    "energy-05"
+  ],
+  "technologies:structural-energy-materials": [
+    "energy-06"
+  ],
+  "technologies:vertical-power-delivery": [
+    "energy-06"
+  ],
+  "technologies:ai-ad-creative-generation": [
+    "marketing-01"
+  ],
+  "technologies:ai-personalization-engine": [
+    "marketing-01"
+  ],
+  "technologies:connected-tv-programmatic": [
+    "marketing-01"
+  ],
+  "technologies:cookieless-tracking-privacy-sandbox": [
+    "marketing-01"
+  ],
+  "technologies:customer-data-platform-cdp": [
+    "marketing-01"
+  ],
+  "technologies:neuro-personalised-advertising": [
+    "marketing-01"
+  ],
+  "technologies:programmatic-display-advertising": [
+    "marketing-01"
+  ],
+  "technologies:real-time-bidding-rtb-openrtb": [
+    "marketing-01"
+  ],
+  "technologies:retail-media-network-rmn": [
+    "marketing-01"
+  ],
+  "technologies:search-engine-advertising-semppc": [
+    "marketing-01"
+  ],
+  "technologies:social-media-advertising": [
+    "marketing-01"
+  ],
+  "sectors:marketing": [
+    "marketing-01"
+  ],
+  "technologies:accelerated-crystal-search": [
+    "markets-01"
+  ],
+  "technologies:accelerated-hydrogen-research": [
+    "markets-01"
+  ],
+  "technologies:ai-accelerated-materials-discovery": [
+    "markets-01"
+  ],
+  "technologies:ai-chatbot-market": [
+    "markets-01"
+  ],
+  "technologies:ai-enterprise-adoption-rate": [
+    "markets-01"
+  ],
+  "technologies:ai-enterprise-market": [
+    "markets-01"
+  ],
+  "technologies:ai-generated-content-detection": [
+    "markets-01"
+  ],
+  "technologies:ai-initiative-abandonment-rate": [
+    "markets-01"
+  ],
+  "technologies:ai-personal-computer-market": [
+    "markets-01"
+  ],
+  "technologies:chatbot-market-share": [
+    "markets-01"
+  ],
+  "technologies:current-market-state": [
+    "markets-01"
+  ],
+  "technologies:cxl-market-growth": [
+    "markets-01"
+  ],
+  "sectors:markets": [
+    "markets-01",
+    "markets-02",
+    "markets-03"
+  ],
+  "technologies:defect-detection-rate": [
+    "markets-02"
+  ],
+  "technologies:digital-multi-family-office": [
+    "markets-02"
+  ],
+  "technologies:economic-growth": [
+    "markets-02"
+  ],
+  "technologies:embedded-finance": [
+    "markets-02"
+  ],
+  "technologies:embryo-screening-market": [
+    "markets-02"
+  ],
+  "technologies:federated-edge-learning": [
+    "markets-02"
+  ],
+  "technologies:google-search-market-share": [
+    "markets-02"
+  ],
+  "technologies:instant-payment-rails": [
+    "markets-02"
+  ],
+  "technologies:integrated-optical-platforms": [
+    "markets-02"
+  ],
+  "technologies:intel-cpu-market-share": [
+    "markets-02"
+  ],
+  "technologies:interoperable-payment-rails": [
+    "markets-02"
+  ],
+  "technologies:lithium-market-competition": [
+    "markets-02"
+  ],
+  "technologies:mastercard-ai-intent-cryptogram": [
+    "markets-03"
+  ],
+  "technologies:preimplantation-genetic-testing-market": [
+    "markets-03"
+  ],
+  "technologies:agent-safety-governance": [
+    "policy-01"
+  ],
+  "technologies:augmented-worker-collaboration": [
+    "policy-01"
+  ],
+  "technologies:collaborative-ai-swarm-intelligence": [
+    "policy-01"
+  ],
+  "technologies:eu-mica-stablecoin-regulation": [
+    "policy-01"
+  ],
+  "technologies:labor-market-disruption": [
+    "policy-01"
+  ],
+  "technologies:regulatory-sustainability-standard": [
+    "policy-01"
+  ],
+  "technologies:tech-sector-employment": [
+    "policy-01"
+  ],
+  "technologies:us-china-neurotechnology-collaboration": [
+    "policy-01"
+  ],
+  "technologies:us-genius-act": [
+    "policy-01"
+  ],
+  "sectors:policy": [
+    "policy-01"
+  ],
+  "technologies:dual-comb-quantum-states": [
+    "quantum-01"
+  ],
+  "technologies:fault-tolerant-qc-1000-logical-qubits": [
+    "quantum-01"
+  ],
+  "technologies:fault-tolerant-quantum-computing": [
+    "quantum-01"
+  ],
+  "technologies:integrated-quantum-systems": [
+    "quantum-01"
+  ],
+  "technologies:nanoscale-quantum-sensing": [
+    "quantum-01"
+  ],
+  "technologies:neutral-atom-quantum-architectures": [
+    "quantum-01"
+  ],
+  "technologies:neutral-atom-quantum": [
+    "quantum-01"
+  ],
+  "technologies:nist-post-quantum-crypto-standard": [
+    "quantum-01"
+  ],
+  "technologies:photonic-quantum-advantage": [
+    "quantum-01"
+  ],
+  "technologies:photonic-qubit": [
+    "quantum-01"
+  ],
+  "technologies:pqc-enterprise-deployment": [
+    "quantum-01"
+  ],
+  "technologies:quantum-2-0-engineering": [
+    "quantum-01"
+  ],
+  "sectors:quantum": [
+    "quantum-01",
+    "quantum-02",
+    "quantum-03",
+    "quantum-04",
+    "quantum-05"
+  ],
+  "technologies:quantum-bound-state-relaxation": [
+    "quantum-02"
+  ],
+  "technologies:quantum-communication-networks": [
+    "quantum-02"
+  ],
+  "technologies:quantum-communication": [
+    "quantum-02"
+  ],
+  "technologies:quantum-computer-1m-logical-qubits": [
+    "quantum-02"
+  ],
+  "technologies:quantum-computer-error-correction": [
+    "quantum-02"
+  ],
+  "technologies:quantum-computing-advancement": [
+    "quantum-02"
+  ],
+  "technologies:quantum-computing-hardware": [
+    "quantum-02"
+  ],
+  "technologies:quantum-computing-risk": [
+    "quantum-02"
+  ],
+  "technologies:quantum-computing-sector": [
+    "quantum-02"
+  ],
+  "technologies:quantum-dot-2d-hybrid-optoelectronics": [
+    "quantum-02"
+  ],
+  "technologies:quantum-dot-superlattice-thermoelectrics": [
+    "quantum-02"
+  ],
+  "technologies:quantum-drug-molecular-simulation": [
+    "quantum-02"
+  ],
+  "technologies:quantum-electronics": [
+    "quantum-03"
+  ],
+  "technologies:quantum-error-correction-advances": [
+    "quantum-03"
+  ],
+  "technologies:quantum-error-correction-surface-code": [
+    "quantum-03"
+  ],
+  "technologies:quantum-geometry-condensed-matter": [
+    "quantum-03"
+  ],
+  "technologies:quantum-gravity-sensor": [
+    "quantum-03"
+  ],
+  "technologies:quantum-hardware-architecture": [
+    "quantum-03"
+  ],
+  "technologies:quantum-information": [
+    "quantum-03"
+  ],
+  "technologies:quantum-materials": [
+    "quantum-03"
+  ],
+  "technologies:quantum-network-entanglement-dist": [
+    "quantum-03"
+  ],
+  "technologies:quantum-network-entanglement-distribution": [
+    "quantum-03"
+  ],
+  "technologies:quantum-network-infrastructure": [
+    "quantum-03"
+  ],
+  "technologies:quantum-oscillator-platforms": [
+    "quantum-03"
+  ],
+  "technologies:quantum-sensing-metrology": [
+    "quantum-04"
+  ],
+  "technologies:quantum-sensor-integration": [
+    "quantum-04"
+  ],
+  "technologies:quantum-state-control": [
+    "quantum-04"
+  ],
+  "technologies:quantum-supremacy-narrow-task": [
+    "quantum-04"
+  ],
+  "technologies:quantum-technologies": [
+    "quantum-04"
+  ],
+  "technologies:quantum-technology-market": [
+    "quantum-04"
+  ],
+  "technologies:scalable-quantum-operations": [
+    "quantum-04"
+  ],
+  "technologies:scalable-spin-qubit-quantum-computing": [
+    "quantum-04"
+  ],
+  "technologies:superconducting-qubit": [
+    "quantum-04"
+  ],
+  "technologies:tensor-network-quantum-hybrid": [
+    "quantum-04"
+  ],
+  "technologies:topological-qubit-majorana-fermion": [
+    "quantum-04"
+  ],
+  "technologies:trapped-ion-qubit": [
+    "quantum-04"
+  ],
+  "technologies:tunable-quantum-phases": [
+    "quantum-05"
+  ],
+  "technologies:useful-quantum-computers-timeline": [
+    "quantum-05"
+  ],
+  "technologies:useful-quantum-computers": [
+    "quantum-05"
+  ],
+  "technologies:2d-machine-vision-camera-inspection": [
+    "robotics-01"
+  ],
+  "technologies:3d-machine-vision-point-cloud": [
+    "robotics-01"
+  ],
+  "technologies:autonomous-drone-delivery": [
+    "robotics-01"
+  ],
+  "technologies:chinese-robotics-industry": [
+    "robotics-01"
+  ],
+  "technologies:collaborative-robot-cobot": [
+    "robotics-01"
+  ],
+  "technologies:collaborative-robot-evolution": [
+    "robotics-01"
+  ],
+  "technologies:collaborative-robotic-workflows": [
+    "robotics-01"
+  ],
+  "technologies:cv-via-deep-learning-yolovit": [
+    "robotics-01"
+  ],
+  "technologies:dexterous-robot-hand": [
+    "robotics-01"
+  ],
+  "technologies:full-warehouse-automation": [
+    "robotics-01"
+  ],
+  "technologies:general-purpose-humanoid-robot": [
+    "robotics-01"
+  ],
+  "technologies:global-humanoid-market": [
+    "robotics-01"
+  ],
+  "sectors:robotics": [
+    "robotics-01",
+    "robotics-02",
+    "robotics-03"
+  ],
+  "technologies:global-humanoid-robot-market": [
+    "robotics-02"
+  ],
+  "technologies:honda-robotic-hand-technology": [
+    "robotics-02"
+  ],
+  "technologies:humanoid-robot-development": [
+    "robotics-02"
+  ],
+  "technologies:humanoid-robot-factory-deployment": [
+    "robotics-02"
+  ],
+  "technologies:humanoid-robot-lab-controlled-demo": [
+    "robotics-02"
+  ],
+  "technologies:humanoid-robot-research-adoption": [
+    "robotics-02"
+  ],
+  "technologies:humanoid-robots": [
+    "robotics-02"
+  ],
+  "technologies:industrial-robot-arm": [
+    "robotics-02"
+  ],
+  "technologies:industrial-robotics-durability-benchmark": [
+    "robotics-02"
+  ],
+  "technologies:japan-humanoid-industry-position": [
+    "robotics-02"
+  ],
+  "technologies:multimodal-robot-training": [
+    "robotics-02"
+  ],
+  "technologies:nano-robotics-autonomous-navigation": [
+    "robotics-02"
+  ],
+  "technologies:post-scarcity-robotic-manufacturing": [
+    "robotics-03"
+  ],
+  "technologies:quadruped-robot-locomotion": [
+    "robotics-03"
+  ],
+  "technologies:rival-robotic-hands": [
+    "robotics-03"
+  ],
+  "technologies:robot-assisted-surgery": [
+    "robotics-03"
+  ],
+  "technologies:robot-learning-from-demo": [
+    "robotics-03"
+  ],
+  "technologies:robot-learning-from-demonstration": [
+    "robotics-03"
+  ],
+  "technologies:robotic-foundation-models": [
+    "robotics-03"
+  ],
+  "technologies:robotics-automation": [
+    "robotics-03"
+  ],
+  "technologies:sim-to-real-transfer-robotics": [
+    "robotics-03"
+  ],
+  "technologies:sim-to-real-transfer": [
+    "robotics-03"
+  ],
+  "technologies:1nm-a14-process-node": [
+    "semiconductors-01"
+  ],
+  "technologies:2d-semiconductor-computing": [
+    "semiconductors-01"
+  ],
+  "technologies:2nm-process-node-tsmc-n2": [
+    "semiconductors-01"
+  ],
+  "technologies:3d-chip-stacking-wow": [
+    "semiconductors-01"
+  ],
+  "technologies:3d-nand-channel-metrology": [
+    "semiconductors-01"
+  ],
+  "technologies:3d-nand-flash": [
+    "semiconductors-01"
+  ],
+  "technologies:accelerated-semiconductor-rd": [
+    "semiconductors-01"
+  ],
+  "technologies:advanced-logic-failure-analysis": [
+    "semiconductors-01"
+  ],
+  "technologies:advanced-node-soc-complexity": [
+    "semiconductors-01"
+  ],
+  "technologies:advanced-node-socs": [
+    "semiconductors-01"
+  ],
+  "technologies:advanced-packaging": [
+    "semiconductors-01"
+  ],
+  "technologies:angstrom-era-chips-10-gate-length": [
+    "semiconductors-01"
+  ],
+  "sectors:semiconductors": [
+    "semiconductors-01",
+    "semiconductors-02",
+    "semiconductors-03",
+    "semiconductors-04",
+    "semiconductors-05",
+    "semiconductors-06",
+    "semiconductors-07",
+    "semiconductors-08"
+  ],
+  "technologies:automated-wafer-defect-analysis": [
+    "semiconductors-02"
+  ],
+  "technologies:backside-power-distribution-network": [
+    "semiconductors-02"
+  ],
+  "technologies:backside-power": [
+    "semiconductors-02"
+  ],
+  "technologies:carbon-nanotube": [
+    "semiconductors-02"
+  ],
+  "technologies:chip-design": [
+    "semiconductors-02"
+  ],
+  "technologies:chip-scale-atomic-clocks": [
+    "semiconductors-02"
+  ],
+  "technologies:chip-scale-precision": [
+    "semiconductors-02"
+  ],
+  "technologies:chiplet-based-architectures": [
+    "semiconductors-02"
+  ],
+  "technologies:chiplet-disaggregated-architecture": [
+    "semiconductors-02"
+  ],
+  "technologies:compound-semiconductor": [
+    "semiconductors-02"
+  ],
+  "technologies:compute-in-memory-cim": [
+    "semiconductors-02"
+  ],
+  "technologies:cowos-advanced-packaging": [
+    "semiconductors-02"
+  ],
+  "technologies:custom-asic-demand": [
+    "semiconductors-03"
+  ],
+  "technologies:digital-twin": [
+    "semiconductors-03"
+  ],
+  "technologies:dram-and-hbm-demand": [
+    "semiconductors-03"
+  ],
+  "technologies:ecci-compound-semiconductor": [
+    "semiconductors-03"
+  ],
+  "technologies:embedded-cooling-elements-within-hbm-die-to-die-interface": [
+    "semiconductors-03"
+  ],
+  "technologies:euv-lithography-135nm": [
+    "semiconductors-03"
+  ],
+  "technologies:fib-sem-semiconductor": [
+    "semiconductors-03"
+  ],
+  "technologies:finfet-transistor-3d-gate": [
+    "semiconductors-03"
+  ],
+  "technologies:gan-power-semiconductors": [
+    "semiconductors-03"
+  ],
+  "technologies:gate-all-around-fet-mbcfetnsfet": [
+    "semiconductors-03"
+  ],
+  "technologies:gate-all-around": [
+    "semiconductors-03"
+  ],
+  "technologies:global-semiconductor-demand": [
+    "semiconductors-03"
+  ],
+  "technologies:graphene-mass-production": [
+    "semiconductors-04"
+  ],
+  "technologies:har-structure-metrology": [
+    "semiconductors-04"
+  ],
+  "technologies:hbm-thermal-performance": [
+    "semiconductors-04"
+  ],
+  "technologies:hbm3-memory": [
+    "semiconductors-04"
+  ],
+  "technologies:hbm4-memory": [
+    "semiconductors-04"
+  ],
+  "technologies:high-na-euv-lithography-asml-exe": [
+    "semiconductors-04"
+  ],
+  "technologies:humanoid-robot": [
+    "semiconductors-04"
+  ],
+  "technologies:integrated-quantum-photonics-chip": [
+    "semiconductors-04"
+  ],
+  "technologies:memory-chip-prices": [
+    "semiconductors-04"
+  ],
+  "technologies:memory-chip-shortage": [
+    "semiconductors-04"
+  ],
+  "technologies:memory-semiconductor-market": [
+    "semiconductors-04"
+  ],
+  "technologies:microled-display": [
+    "semiconductors-04"
+  ],
+  "technologies:multi-organ-chip-systems": [
+    "semiconductors-05"
+  ],
+  "technologies:nanosheet-transistor": [
+    "semiconductors-05"
+  ],
+  "technologies:neuromorphic-computing-chip": [
+    "semiconductors-05"
+  ],
+  "technologies:next-gen": [
+    "semiconductors-05"
+  ],
+  "technologies:next-generation": [
+    "semiconductors-05"
+  ],
+  "technologies:nhn-water-cooling-gpu": [
+    "semiconductors-05"
+  ],
+  "technologies:nvda-rtx-spark-ai-superchip": [
+    "semiconductors-05"
+  ],
+  "technologies:nvda-rtx-spark-superchip": [
+    "semiconductors-05"
+  ],
+  "technologies:nvidia-gpu": [
+    "semiconductors-05"
+  ],
+  "technologies:on-chip-photonics-quantum": [
+    "semiconductors-05"
+  ],
+  "technologies:optical-computing-photonic-logic": [
+    "semiconductors-05"
+  ],
+  "technologies:optical-interconnect-linear": [
+    "semiconductors-05"
+  ],
+  "technologies:pfib-sem-metrology": [
+    "semiconductors-06"
+  ],
+  "technologies:quantum-computing": [
+    "semiconductors-06"
+  ],
+  "technologies:quantum-dot-display": [
+    "semiconductors-06"
+  ],
+  "technologies:quantum-enhanced-semiconductor-design": [
+    "semiconductors-06"
+  ],
+  "technologies:quantum-simulation-semiconductor-native": [
+    "semiconductors-06"
+  ],
+  "technologies:semiconductor-advanced-packaging": [
+    "semiconductors-06"
+  ],
+  "technologies:semiconductor-advances": [
+    "semiconductors-06"
+  ],
+  "technologies:semiconductor-demand": [
+    "semiconductors-06"
+  ],
+  "technologies:semiconductor-design": [
+    "semiconductors-06"
+  ],
+  "technologies:semiconductor-devices": [
+    "semiconductors-06"
+  ],
+  "technologies:semiconductor-fabrication": [
+    "semiconductors-06"
+  ],
+  "technologies:semiconductor-manufacturing-cost": [
+    "semiconductors-06"
+  ],
+  "technologies:semiconductor-manufacturing-yield": [
+    "semiconductors-07"
+  ],
+  "technologies:semiconductor-manufacturing": [
+    "semiconductors-07"
+  ],
+  "technologies:semiconductor-packaging": [
+    "semiconductors-07"
+  ],
+  "technologies:semiconductor-supercycle": [
+    "semiconductors-07"
+  ],
+  "technologies:sic-chip-embedded-power-packaging": [
+    "semiconductors-07"
+  ],
+  "technologies:sic-power-semiconductors": [
+    "semiconductors-07"
+  ],
+  "technologies:silicon-carbide": [
+    "semiconductors-07"
+  ],
+  "technologies:silicon-photonics-interconnect": [
+    "semiconductors-07"
+  ],
+  "technologies:silicon-transistor-planar-mosfet": [
+    "semiconductors-07"
+  ],
+  "technologies:single-chip-quantum-systems": [
+    "semiconductors-07"
+  ],
+  "technologies:social-media-user-demand": [
+    "semiconductors-07"
+  ],
+  "technologies:tem-metrology-semiconductor": [
+    "semiconductors-07"
+  ],
+  "technologies:wide-bandgap-semiconductor": [
+    "semiconductors-08"
+  ],
+  "technologies:asteroid-mining-demonstration": [
+    "space-01"
+  ],
+  "technologies:autonomous-lunarmars-rover-fleet": [
+    "space-01"
+  ],
+  "technologies:commercial-lunar-lander": [
+    "space-01"
+  ],
+  "technologies:commercial-space-station-post-iss": [
+    "space-01"
+  ],
+  "technologies:commercial-suborbital-space-tourism": [
+    "space-01"
+  ],
+  "technologies:crewed-mars-mission": [
+    "space-01"
+  ],
+  "technologies:full-rocket-reusability-starship": [
+    "space-01"
+  ],
+  "technologies:global-satellite-internet-coverage": [
+    "space-01"
+  ],
+  "technologies:heavy-lift-rocket-100t-to-leo": [
+    "space-01"
+  ],
+  "technologies:in-space-manufacturing": [
+    "space-01"
+  ],
+  "technologies:insitu-resource-utilization-isru": [
+    "space-01"
+  ],
+  "technologies:leo-satellite-internet-constellation": [
+    "space-01"
+  ],
+  "sectors:space": [
+    "space-01",
+    "space-02"
+  ],
+  "technologies:liquid-rocket-propulsion-rp-1lox": [
+    "space-02"
+  ],
+  "technologies:nuclear-thermal-propulsion": [
+    "space-02"
+  ],
+  "technologies:permanent-lunar-surface-base": [
+    "space-02"
+  ],
+  "technologies:rocket-first-stage-reusability": [
+    "space-02"
+  ],
+  "technologies:small-satellite-rideshare-launch": [
+    "space-02"
+  ],
+  "technologies:space-based-solar-power-sbsp": [
+    "space-02"
+  ],
+  "technologies:ar-smart-glasses-consumer-daily": [
+    "xr-01"
+  ],
+  "technologies:ar-smart-glasses-industrial": [
+    "xr-01"
+  ],
+  "technologies:eye-tracking-headset": [
+    "xr-01"
+  ],
+  "technologies:full-immersion-vr-all-5-senses": [
+    "xr-01"
+  ],
+  "technologies:hand-gesture-tracking": [
+    "xr-01"
+  ],
+  "technologies:haptic-feedback-glove": [
+    "xr-01"
+  ],
+  "technologies:neural-radiance-field-nerf-3dgs": [
+    "xr-01"
+  ],
+  "technologies:oled-display-panel": [
+    "xr-01"
+  ],
+  "technologies:open-interoperable-metaverse": [
+    "xr-01"
+  ],
+  "technologies:real-time-ai-3d-rendering": [
+    "xr-01"
+  ],
+  "technologies:spatial-computing-os": [
+    "xr-01"
+  ],
+  "technologies:vr-headset-consumer": [
+    "xr-01"
+  ],
+  "sectors:xr": [
+    "xr-01",
+    "xr-02"
+  ],
+  "technologies:xr-enterprise-workflow-tools": [
+    "xr-02"
+  ]
+}

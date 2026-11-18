@@ -1,0 +1,29 @@
+{
+  "id": "nokia.fi",
+  "title": "Nokia",
+  "summary": "Network equipment maker repositioning around optical networks and data-centre connectivity.",
+  "sector": "cyber",
+  "sourceCategory": "Cybersecurity",
+  "sourcePath": "_stocks/nokia.fi.md",
+  "sourceHash": "78dc87a524d33019d2cbe9ebb838a0608a2e1733139c58b24819d21fe156e127",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Nokia sells radio access, optical and IP networking equipment, and has pivoted toward data-centre and defence connectivity as telecom capex flattens. Optical transport is in demand because AI clusters need to move data between buildings and campuses. The company's challenge is competing with larger rivals on scale while funding 6G research.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Optical and IP networking.</li>\n<li>5G/6G radio access.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Data-centre networking orders.</li>\n<li>Telecom operator capex in Europe and India.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNokia sells radio access, optical and IP networking equipment, and has pivoted toward data-centre and defence connectivity as telecom capex flattens. Optical transport is in demand because AI clusters need to move data between buildings and campuses. The company's challenge is competing with larger rivals on scale while funding 6G research.\n\n## Technology Exposure\n\n- Optical and IP networking.\n- 5G/6G radio access.\n\n## What To Watch\n\n- Data-centre networking orders.\n- Telecom operator capex in Europe and India.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Nokia",
+    "symbol": "NOKIA.HE",
+    "exchange": "OMX",
+    "categories": [
+      "Cybersecurity"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "NOKIA.HE",
+  "exchange": "OMX",
+  "private": false,
+  "businessMeaning": "AI clusters are now network-bound; optical interconnect is a growth market hidden inside a mature telecom sector.",
+  "investmentLens": "A turnaround with a genuine AI-adjacent product line; watch order mix."
+}

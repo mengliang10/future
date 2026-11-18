@@ -1,0 +1,28 @@
+{
+  "id": "roku",
+  "title": "Roku Inc.",
+  "summary": "",
+  "sector": "marketing",
+  "sourceCategory": "Marketing Tech",
+  "sourcePath": "_stocks/roku.md",
+  "sourceHash": "88f5c66db8550f3fb7117b49aa67747080da41ce2ebbecee5361eec1c3bd002e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Dominant streaming OS with first-party data and programmatic CTV advertising; beneficiary of the linear-to-streaming ad budget migration.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for ROKU is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nDominant streaming OS with first-party data and programmatic CTV advertising; beneficiary of the linear-to-streaming ad budget migration.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for ROKU is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Roku Inc.",
+    "symbol": "ROKU",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Marketing Tech",
+      "Streaming"
+    ]
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ROKU",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

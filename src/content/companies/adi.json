@@ -1,0 +1,29 @@
+{
+  "id": "adi",
+  "title": "Analog Devices",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/adi.md",
+  "sourceHash": "7ab42fed13260c7c4b8c9974d93057628acdcf39a1b2e9da990e1cf2e76c2e53",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Analog Devices supplies mixed-signal chips for industrial automation, automotive, and communications: a foundational semiconductor holding.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for ADI is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAnalog Devices supplies mixed-signal chips for industrial automation, automotive, and communications: a foundational semiconductor holding.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for ADI is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Analog Devices",
+    "symbol": "ADI",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Semiconductors"
+    ],
+    "timing_action": "FULL",
+    "regime": "TRENDING_UP"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ADI",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

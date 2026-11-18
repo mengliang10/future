@@ -1,0 +1,29 @@
+{
+  "id": "lg-energy.kr",
+  "title": "LG Energy Solution",
+  "summary": "One of the three largest EV battery makers outside China, with a large North American footprint.",
+  "sector": "energy",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_stocks/lg-energy.kr.md",
+  "sourceHash": "42301f97e7cc88d52fbd759c86890521675987c1d094af6af29c31b0a985752e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>LG Energy Solution supplies pouch and prismatic cells to major automakers and has built joint-venture plants across North America, where local-content rules support pricing. It is expanding lithium-iron-phosphate and storage products to defend share against Chinese cost leaders. Profitability is heavily influenced by US production tax credits, which makes policy a first-order variable.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>EV cells for global automakers.</li>\n<li>Grid storage and LFP products.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Utilisation as EV demand growth slows.</li>\n<li>Exposure to changes in US credit rules.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLG Energy Solution supplies pouch and prismatic cells to major automakers and has built joint-venture plants across North America, where local-content rules support pricing. It is expanding lithium-iron-phosphate and storage products to defend share against Chinese cost leaders. Profitability is heavily influenced by US production tax credits, which makes policy a first-order variable.\n\n## Technology Exposure\n\n- EV cells for global automakers.\n- Grid storage and LFP products.\n\n## What To Watch\n\n- Utilisation as EV demand growth slows.\n- Exposure to changes in US credit rules.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "LG Energy Solution",
+    "symbol": "373220.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Energy Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "373220.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Battery sourcing is now a policy decision as much as an engineering one; local content determines landed cost.",
+  "investmentLens": "Credits flatter margins; value the business on underlying cell economics."
+}

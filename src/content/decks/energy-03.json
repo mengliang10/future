@@ -1,0 +1,25 @@
+{
+  "id": "energy-03",
+  "title": "Energy — Briefing 03",
+  "sector": "energy",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "grid-energy-storage",
+    "grid-interconnection-arbitrage",
+    "grid-interconnection-reform",
+    "grid-scale-battery-storage-gwh",
+    "high-energy-density-lithium",
+    "holistic-energy-optimization",
+    "hpc-power-conversion-efficiency",
+    "hydrogen-fuel-cell-pem",
+    "hyperscale-ai-data-center-efficiency",
+    "industrial-energy-conversion",
+    "lithium-ion-battery",
+    "marine-power-generation"
+  ]
+}

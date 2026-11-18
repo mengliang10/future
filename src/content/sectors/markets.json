@@ -1,0 +1,9 @@
+{
+  "id": "markets",
+  "title": "Financial Infrastructure",
+  "aliases": [
+    "Financial Markets"
+  ],
+  "businessQuestion": "Which operational constraint could this technology remove, and what would adoption cost?",
+  "investorQuestion": "Who could capture the value, what must be funded first, and what evidence would change the thesis?"
+}

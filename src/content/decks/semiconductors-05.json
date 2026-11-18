@@ -1,0 +1,25 @@
+{
+  "id": "semiconductors-05",
+  "title": "Semiconductors — Briefing 05",
+  "sector": "semiconductors",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "multi-organ-chip-systems",
+    "nanosheet-transistor",
+    "neuromorphic-computing-chip",
+    "next-gen",
+    "next-generation",
+    "nhn-water-cooling-gpu",
+    "nvda-rtx-spark-ai-superchip",
+    "nvda-rtx-spark-superchip",
+    "nvidia-gpu",
+    "on-chip-photonics-quantum",
+    "optical-computing-photonic-logic",
+    "optical-interconnect-linear"
+  ]
+}

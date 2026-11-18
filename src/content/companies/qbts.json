@@ -1,0 +1,29 @@
+{
+  "id": "qbts",
+  "title": "D-Wave Quantum Inc.",
+  "summary": "",
+  "sector": "quantum",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/qbts.md",
+  "sourceHash": "e4b94a7a2265969fb6203de285d7d1dc2ff131b042a5f6cbcf3366a26044d97b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>D-Wave is the only commercially operational quantum computer company, running a quantum annealing approach rather than gate-based universal quantum computing. The Advantage2 system (7,000+ qubits) is available via D-Wave's Leap cloud service and has been deployed for logistics optimisation, drug discovery, and financial modelling. Quantum annealing solves a narrower class of problems than universal QC but does so today, not in 2030+. Customers include Volkswagen, USSC, Mastercard, and NTT. Key risk: quantum annealing is a niche approach that may be displaced by gate-based universal QC before it achieves commercial scale. Speculative micro-cap: high volatility, sentiment-driven trading around quantum news.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Quantum Supremacy (Narrow Task)</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; D-Wave has demonstrated quantum advantage on specific optimisation problems. This is narrow-task supremacy, not general-purpose advantage.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Quantum Drug / Molecular Simulation</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2028</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; D-Wave is targeting pharmaceutical discovery via quantum annealing: protein folding and molecular optimisation are candidate applications.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Fault-Tolerant QC (1000 Logical Qubits)</span>\n<span class=\"conf-badge conf-speculative\">Speculative</span>\n<span class=\"roadmap-stock-item-year\">2030+</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; D-Wave's annealing architecture differs fundamentally from gate-based fault-tolerant QC. D-Wave is a near-term beneficiary; long-term may be displaced by universal QC.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nD-Wave is the only commercially operational quantum computer company, running a quantum annealing approach rather than gate-based universal quantum computing. The Advantage2 system (7,000+ qubits) is available via D-Wave's Leap cloud service and has been deployed for logistics optimisation, drug discovery, and financial modelling. Quantum annealing solves a narrower class of problems than universal QC but does so today, not in 2030+. Customers include Volkswagen, USSC, Mastercard, and NTT. Key risk: quantum annealing is a niche approach that may be displaced by gate-based universal QC before it achieves commercial scale. Speculative micro-cap: high volatility, sentiment-driven trading around quantum news.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Quantum Supremacy (Narrow Task)</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; D-Wave has demonstrated quantum advantage on specific optimisation problems. This is narrow-task supremacy, not general-purpose advantage.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Quantum Drug / Molecular Simulation</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2028</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; D-Wave is targeting pharmaceutical discovery via quantum annealing: protein folding and molecular optimisation are candidate applications.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Fault-Tolerant QC (1000 Logical Qubits)</span>\n<span class=\"conf-badge conf-speculative\">Speculative</span>\n<span class=\"roadmap-stock-item-year\">2030+</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; D-Wave's annealing architecture differs fundamentally from gate-based fault-tolerant QC. D-Wave is a near-term beneficiary; long-term may be displaced by universal QC.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "D-Wave Quantum Inc.",
+    "symbol": "QBTS",
+    "exchange": "NYSE",
+    "categories": [
+      "Quantum"
+    ],
+    "timing_action": "WAIT",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "QBTS",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

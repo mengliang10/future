@@ -1,0 +1,25 @@
+{
+  "id": "biotech-04",
+  "title": "Biotech & Health — Briefing 04",
+  "sector": "biotech",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "organ-on-chip-microphysiological",
+    "partial-biological-aging-reversal",
+    "partial-epigenetic-reprogramming",
+    "personalized-drug-response-prediction",
+    "personalized-gene-editing-drug-approvals",
+    "pig-to-human-xenotransplantation",
+    "protein-structure-prediction-ai",
+    "quantum-protein-folding-solver",
+    "senolytic-therapy-zombie-cell-clearance",
+    "structural-health-monitoring",
+    "synthetic-biology-cell-programming",
+    "synthetic-biology-control"
+  ]
+}

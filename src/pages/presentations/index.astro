@@ -1,0 +1,4 @@
+---
+import Site from '../../layouts/Site.astro';import Browse from '../../components/Browse.astro';import {records} from '../../lib/catalogue';const [items,sectors]=await Promise.all([records('decks'),records('sectors')]);
+---
+<Site title="Presentations" active="Presentations"><div class="container page"><div class="page-heading compact"><h1>Presentations.</h1><p>16:9 HTML briefings. Shared content, consistent layouts.</p></div><Browse items={items} sectors={sectors} kind="deck" title="presentations"/></div></Site>

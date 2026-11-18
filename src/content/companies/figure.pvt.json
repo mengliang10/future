@@ -1,0 +1,24 @@
+{
+  "id": "figure.pvt",
+  "title": "Figure AI",
+  "summary": "",
+  "sector": "robotics",
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/figure.pvt.md",
+  "sourceHash": "4f827ed0ff4ac379422b3e1c0986b118a3b7da79e716087e4b7dd423a3b0ae26",
+  "bodyHtml": "<p>Figure AI is developing the &quot;Figure 01&quot; and &quot;Figure 02&quot; general-purpose humanoid robots. The company has secured significant backing from OpenAI, NVIDIA, Microsoft, and Jeff Bezos. Figure is focused on commercializing humanoids for the factory floor, with an early pilot program at BMW's Spartanburg plant.</p>\n<p>Key technical advantages:</p>\n<ul>\n<li><strong>OpenAI Partnership:</strong> Using OpenAI's multimodal models for speech-to-action and visual reasoning.</li>\n<li><strong>High-Dexterity Hardware:</strong> Purpose-built actuators and hands for human-like manipulation.</li>\n<li><strong>Commercial Focus:</strong> Targeting high-volume industrial tasks (e.g., sheet metal manipulation) as the first revenue-generating use cases.</li>\n</ul>\n",
+  "bodyMarkdown": "Figure AI is developing the \"Figure 01\" and \"Figure 02\" general-purpose humanoid robots. The company has secured significant backing from OpenAI, NVIDIA, Microsoft, and Jeff Bezos. Figure is focused on commercializing humanoids for the factory floor, with an early pilot program at BMW's Spartanburg plant.\n\nKey technical advantages:\n- **OpenAI Partnership:** Using OpenAI's multimodal models for speech-to-action and visual reasoning.\n- **High-Dexterity Hardware:** Purpose-built actuators and hands for human-like manipulation.\n- **Commercial Focus:** Targeting high-volume industrial tasks (e.g., sheet metal manipulation) as the first revenue-generating use cases.",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "FIGURE.PVT",
+    "name": "Figure AI",
+    "sector": "Robotics"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "FIGURE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

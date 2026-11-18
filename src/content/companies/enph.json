@@ -1,0 +1,29 @@
+{
+  "id": "enph",
+  "title": "Enphase Energy",
+  "summary": "",
+  "sector": "energy",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_stocks/enph.md",
+  "sourceHash": "f81adff4cdfeb8d006e8b4250308f610e0a4698b5c76d0f99b0779b47b7dfe26",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Enphase microinverter systems with integrated storage and EV charging management.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for ENPH is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nEnphase microinverter systems with integrated storage and EV charging management.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for ENPH is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Enphase Energy",
+    "symbol": "ENPH",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Energy Tech"
+    ],
+    "timing_action": "AVOID",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ENPH",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

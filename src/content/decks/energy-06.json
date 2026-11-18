@@ -1,0 +1,15 @@
+{
+  "id": "energy-06",
+  "title": "Energy — Briefing 06",
+  "sector": "energy",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "structural-energy-materials",
+    "vertical-power-delivery"
+  ]
+}

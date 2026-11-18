@@ -1,0 +1,37 @@
+{
+  "id": "huawei-ascend-910c",
+  "title": "Huawei Ascend 910C",
+  "summary": "Huawei's domestic AI accelerator, manufactured without access to advanced lithography.",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_tech/huawei-ascend-910c.md",
+  "sourceHash": "26d568d12e7894310d71bd7dfcbbef59ae68f9ac805dfb0fc41d2ee915e9a2da",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>The Ascend 910C is Huawei's current data-centre accelerator, built on a domestically produced 7nm-class process and paired with Huawei's own interconnect and software stack. It is the main substitute for Nvidia hardware inside China after export controls restricted sales of advanced chips. Performance per chip is below the leading US parts; the system-level design compensates by scaling out.</p>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development stage</td>\n<td><strong>Early commercial</strong></td>\n</tr>\n<tr>\n<td>Estimated window</td>\n<td><strong>2025–2027</strong></td>\n</tr>\n<tr>\n<td>Confidence label</td>\n<td>Researching</td>\n</tr>\n<tr>\n<td>Evidence</td>\n<td>Editorial synthesis of company, agency and press reporting</td>\n</tr>\n<tr>\n<td>Compiled</td>\n<td>18 November 2026</td>\n</tr>\n</tbody>\n</table>\n<h2>Related records</h2>\n<h2>Investment Exposure</h2>\n<p>Buyers outside China should treat Ascend as the reference point for a parallel AI stack that will set prices in emerging markets.</p>\n<h2>What Would Change The View</h2>\n<ul>\n<li>Yield and supply volume at SMIC.</li>\n<li>Software maturity against CUDA.</li>\n<li>Power efficiency at rack level.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nThe Ascend 910C is Huawei's current data-centre accelerator, built on a domestically produced 7nm-class process and paired with Huawei's own interconnect and software stack. It is the main substitute for Nvidia hardware inside China after export controls restricted sales of advanced chips. Performance per chip is below the leading US parts; the system-level design compensates by scaling out.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development stage | **Early commercial** |\n| Estimated window | **2025–2027** |\n| Confidence label | Researching |\n| Evidence | Editorial synthesis of company, agency and press reporting |\n| Compiled | 18 November 2026 |\n\n## Related records\n\n\n## Investment Exposure\n\nBuyers outside China should treat Ascend as the reference point for a parallel AI stack that will set prices in emerging markets.\n\n## What Would Change The View\n\n- Yield and supply volume at SMIC.\n- Software maturity against CUDA.\n- Power efficiency at rack level.\n\n## Record Notes\n\nEditorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Huawei Ascend 910C",
+    "subtitle": "Huawei's domestic AI accelerator, manufactured without access to advanced lithography.",
+    "category": "Semiconductors",
+    "stage": "early_commercial",
+    "confidence_label": "Researching",
+    "est_year": 2025,
+    "est_year_range": "2025–2027",
+    "horizon": "Near-Term (through 2028)",
+    "source_count": 0,
+    "stocks": [],
+    "permalink": "/tech/huawei-ascend-910c/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "stage": "early_commercial",
+  "confidenceLabel": "Researching",
+  "estimate": "2025–2027",
+  "estimateYear": 2025,
+  "companies": [
+    "huawei.pvt",
+    "smic.hk"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

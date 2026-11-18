@@ -1,0 +1,28 @@
+{
+  "id": "dji.pvt",
+  "title": "DJI Innovations",
+  "summary": "",
+  "sector": "other",
+  "sourceCategory": "Robotics & Auto",
+  "sourcePath": "_stocks/dji.pvt.md",
+  "sourceHash": "5c17b82b2e6c1e119fe5a584ecfc52a8ba48cfb520f7a36dd456132b96e85e7e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>DJI holds an uncontested monopoly on civilian drone technology, expanding into industrial automation and delivery systems.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nDJI holds an uncontested monopoly on civilian drone technology, expanding into industrial automation and delivery systems.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "DJI Innovations",
+    "symbol": "DJI.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Robotics & Auto"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "DJI.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

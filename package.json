@@ -1,0 +1,44 @@
+{
+  "name": "the-future-tomorrow",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Technology research translated into business and investment questions",
+  "author": "Tan Meng Liang",
+  "license": "MIT",
+  "keywords": [
+    "commercial-strategy",
+    "hospitality",
+    "distribution",
+    "adtech",
+    "martech",
+    "astro",
+    "withastro"
+  ],
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1 --port 4330",
+    "build": "node scripts/validate-data.mjs && astro build",
+    "preview": "astro preview --host 127.0.0.1 --port 4330",
+    "qa": "node scripts/browser-qa.cjs",
+    "audit": "python3 scripts/audit-site.py",
+    "graph:build": "python3 scripts/build-site-graph.py",
+    "graph:query": "python3 scripts/query-graph.py",
+    "queue": "python3 scripts/queue.py",
+    "import:source": "python3 scripts/import-source.py",
+    "update": "node scripts/update-record.mjs"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3.7.4",
+    "@fontsource-variable/inter-tight": "^5.3.0",
+    "@fontsource-variable/outfit": "^5.3.0",
+    "astro": "^7.3.5"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "typescript": "^6.0.3"
+  }
+}

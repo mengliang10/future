@@ -1,0 +1,29 @@
+{
+  "id": "g42.pvt",
+  "title": "G42",
+  "summary": "Abu Dhabi AI group building national compute and sovereign model capacity.",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/g42.pvt.md",
+  "sourceHash": "f3073210bd42e40e82624b91963e2d56d646cc6340ebcfa46a48d08635db00cd",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>G42 is the UAE's flagship AI and cloud group, backed by sovereign capital and partnered with Microsoft, which invested US$1.5bn in 2024. It operates data centres and builds Arabic-language and domain models for government and energy clients. Its role is to make the UAE a compute and model jurisdiction rather than only a customer of foreign clouds.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>National AI cloud and data centres.</li>\n<li>Arabic-language and domain models.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Compute capacity and chip access.</li>\n<li>Commercial contracts beyond government.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nG42 is the UAE's flagship AI and cloud group, backed by sovereign capital and partnered with Microsoft, which invested US$1.5bn in 2024. It operates data centres and builds Arabic-language and domain models for government and energy clients. Its role is to make the UAE a compute and model jurisdiction rather than only a customer of foreign clouds.\n\n## Technology Exposure\n\n- National AI cloud and data centres.\n- Arabic-language and domain models.\n\n## What To Watch\n\n- Compute capacity and chip access.\n- Commercial contracts beyond government.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "G42",
+    "symbol": "G42.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "G42.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Sovereign AI procurement is about jurisdiction and language, and Gulf states are funding both at scale.",
+  "investmentLens": "Private and strategically funded; treat as an indicator of Gulf compute demand, not a ticker."
+}

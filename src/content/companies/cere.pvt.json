@@ -1,0 +1,28 @@
+{
+  "id": "cere.pvt",
+  "title": "Cerebras",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/cere.pvt.md",
+  "sourceHash": "19cb80e0d930d42d9fec7f06cdb1fad4e222fb3ee6cfaafd74bd85c3e9999b1f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Cerebras' Wafer-Scale Engine is the largest chip ever built, designed specifically to tackle the memory and bandwidth bottlenecks of LLM training.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nCerebras' Wafer-Scale Engine is the largest chip ever built, designed specifically to tackle the memory and bandwidth bottlenecks of LLM training.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Cerebras",
+    "symbol": "CERE.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "CERE.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

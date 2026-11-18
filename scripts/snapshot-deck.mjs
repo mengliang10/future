@@ -1,0 +1,4 @@
+import fs from 'node:fs';
+const id=process.argv[2];if(!id||!/^[a-z0-9._-]+$/.test(id))throw Error('Usage: node scripts/snapshot-deck.mjs deck-id');
+const read=(kind,id)=>JSON.parse(fs.readFileSync(`src/content/${kind}/${id}.json`));const original=read('decks',id);if(original.mode==='snapshot')throw Error('Already a snapshot');const date=new Date().toISOString().slice(0,10),snapshotId=`${id}-snapshot-${date}`,dest=`src/content/decks/${snapshotId}.json`;if(fs.existsSync(dest))throw Error('Snapshot already exists');
+const snapshot={...original,id:snapshotId,title:original.title+' — Snapshot '+date,mode:'snapshot',snapshotData:{sector:read('sectors',original.sector),technologies:original.technologies.map(id=>read('technologies',id)),blocks:original.blocks.map(id=>read('blocks',id))}};fs.writeFileSync(dest,JSON.stringify(snapshot,null,2)+'\n');console.log(dest);

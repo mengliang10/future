@@ -1,0 +1,30 @@
+{
+  "id": "anet",
+  "title": "Arista Networks Inc.",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/anet.md",
+  "sourceHash": "5aacaf3be0d9752e7ba9da3a10da20384f246419c116723d87c9184038914b24",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Arista is the dominant vendor for high-speed Ethernet switching in AI data centres. As GPU clusters scale from 8K to 100K+ accelerators, low-latency, non-blocking fabric becomes the binding constraint on training throughput. Arista's EOS software and its portfolio of 400G/800G switches position it as the primary beneficiary of the 'Ultra Ethernet Consortium' standard gaining share against InfiniBand. Every new hyperscaler AI cluster build is a potential Arista win. Revenue growing 20%+ annually with 35%+ operating margins and a fortress balance sheet. The key risk: NVIDIA InfiniBand holds deep integration advantages in existing Hopper/Blackwell installations, and custom merchant silicon from Broadcom could compress Arista ASPs.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Networking & Silicon Photonics</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Arista is the reference switching platform for AI-Ethernet clusters. Switch order trends from Arista are a one-quarter leading indicator for NVIDIA GPU revenue.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">GPU Compute Cluster</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Every large-scale GPU cluster requires Arista or NVIDIA (Mellanox) switching fabric. Arista is gaining share on the Ethernet side as the Ultra Ethernet Consortium standard matures.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Cloud Hyperscaler Infrastructure</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Arista's largest customers are AWS, Meta, Microsoft Azure, and Google: all accelerating AI infrastructure buildout. Revenue concentration in hyperscalers is both the thesis and the risk.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nArista is the dominant vendor for high-speed Ethernet switching in AI data centres. As GPU clusters scale from 8K to 100K+ accelerators, low-latency, non-blocking fabric becomes the binding constraint on training throughput. Arista's EOS software and its portfolio of 400G/800G switches position it as the primary beneficiary of the 'Ultra Ethernet Consortium' standard gaining share against InfiniBand. Every new hyperscaler AI cluster build is a potential Arista win. Revenue growing 20%+ annually with 35%+ operating margins and a fortress balance sheet. The key risk: NVIDIA InfiniBand holds deep integration advantages in existing Hopper/Blackwell installations, and custom merchant silicon from Broadcom could compress Arista ASPs.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Networking & Silicon Photonics</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Arista is the reference switching platform for AI-Ethernet clusters. Switch order trends from Arista are a one-quarter leading indicator for NVIDIA GPU revenue.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">GPU Compute Cluster</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Every large-scale GPU cluster requires Arista or NVIDIA (Mellanox) switching fabric. Arista is gaining share on the Ethernet side as the Ultra Ethernet Consortium standard matures.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Cloud Hyperscaler Infrastructure</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Arista's largest customers are AWS, Meta, Microsoft Azure, and Google: all accelerating AI infrastructure buildout. Revenue concentration in hyperscalers is both the thesis and the risk.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Arista Networks Inc.",
+    "symbol": "ANET",
+    "exchange": "NYSE",
+    "categories": [
+      "Semiconductors",
+      "AI"
+    ],
+    "timing_action": "WAIT",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ANET",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

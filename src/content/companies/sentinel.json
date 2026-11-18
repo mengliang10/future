@@ -1,0 +1,28 @@
+{
+  "id": "sentinel",
+  "title": "SentinelOne Inc.",
+  "summary": "",
+  "sector": "cyber",
+  "sourceCategory": "Cybersecurity",
+  "sourcePath": "_stocks/sentinel.md",
+  "sourceHash": "06f1af50d00d4764c3d059e8496555e7b11a3319c40a2e1e30ae58d27de66f52",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>SentinelOne is the AI-native endpoint security platform: built from scratch around machine learning, not retrofitted rules engines. Singularity platform ingests all security telemetry, applies AI in real time, and responds autonomously. They are the fastest-growing pure-play cybersecurity company by ARR and are taking enterprise market share from CrowdStrike post-Falcon outage.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>AI-Native Architecture:</strong> No human analyst bottleneck: AI detects and responds in milliseconds.</li>\n<li><strong>Data Platform Expansion:</strong> Singularity Data Lake is a security data lake competing with Splunk: expanding TAM beyond endpoint.</li>\n<li><strong>Market Share Opportunity:</strong> CrowdStrike's 2024 outage opened enterprise evaluation cycles; SentinelOne is the primary beneficiary.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Profitability Timeline:</strong> Investing heavily in growth; path to sustained profitability is multi-year.</li>\n<li><strong>CrowdStrike Competition:</strong> CRWD has greater brand recognition and a larger partner ecosystem.</li>\n</ul>\n",
+  "bodyMarkdown": "## Investment Thesis\nSentinelOne is the AI-native endpoint security platform: built from scratch around machine learning, not retrofitted rules engines. Singularity platform ingests all security telemetry, applies AI in real time, and responds autonomously. They are the fastest-growing pure-play cybersecurity company by ARR and are taking enterprise market share from CrowdStrike post-Falcon outage.\n\n### Key Drivers\n- **AI-Native Architecture:** No human analyst bottleneck: AI detects and responds in milliseconds.\n- **Data Platform Expansion:** Singularity Data Lake is a security data lake competing with Splunk: expanding TAM beyond endpoint.\n- **Market Share Opportunity:** CrowdStrike's 2024 outage opened enterprise evaluation cycles; SentinelOne is the primary beneficiary.\n\n### Risk Factors\n- **Profitability Timeline:** Investing heavily in growth; path to sustained profitability is multi-year.\n- **CrowdStrike Competition:** CRWD has greater brand recognition and a larger partner ecosystem.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "SentinelOne Inc.",
+    "symbol": "S",
+    "exchange": "NYSE",
+    "categories": [
+      "Cybersecurity",
+      "AI"
+    ]
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "S",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

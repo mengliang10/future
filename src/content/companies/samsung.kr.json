@@ -1,0 +1,30 @@
+{
+  "id": "samsung.kr",
+  "title": "Samsung Electronics",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/samsung.kr.md",
+  "sourceHash": "258241ef4d8ab34df9970d7d1d90dc530669751e0e8374ed441daa7a89315070",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Samsung is the world's largest memory provider and the only logic foundry capable of rivaling TSMC at the leading edge (3nm/2nm). Their transition to Gate-All-Around (GAA) is a critical milestone.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nSamsung is the world's largest memory provider and the only logic foundry capable of rivaling TSMC at the leading edge (3nm/2nm). Their transition to Gate-All-Around (GAA) is a critical milestone.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Samsung Electronics",
+    "symbol": "SAMSUNG.KR",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "node_count": 2,
+    "bottleneck_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "SAMSUNG.KR",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

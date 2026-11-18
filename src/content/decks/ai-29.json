@@ -1,0 +1,25 @@
+{
+  "id": "ai-29",
+  "title": "AI & Computing — Briefing 29",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "multimodal-foundation-model",
+    "multiple-compute-generations",
+    "nanoparticle-cell-interaction",
+    "nanoparticle-immunotherapy-combination",
+    "natural-language-industrial-interfaces",
+    "naver-conversation-sessions",
+    "neural-scaling-laws-established",
+    "news-sentiment-engine",
+    "next-gen-materials",
+    "noise-resilient-algorithms",
+    "non-hermitian-topology",
+    "non-invasive-diagnostics"
+  ]
+}

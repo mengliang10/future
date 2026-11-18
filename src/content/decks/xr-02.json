@@ -1,0 +1,14 @@
+{
+  "id": "xr-02",
+  "title": "Spatial Computing — Briefing 02",
+  "sector": "xr",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "xr-enterprise-workflow-tools"
+  ]
+}

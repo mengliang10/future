@@ -1,0 +1,25 @@
+{
+  "id": "ai-28",
+  "title": "AI & Computing — Briefing 28",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "mixture-of-experts-scaling",
+    "ml-superconductor-structure-prediction",
+    "model-distillation",
+    "modified-ladder-lattice-filter-topology",
+    "monolithic-electronic-photonic",
+    "monolithic-light-sources",
+    "more-transistors-and-interconnects-on-die",
+    "multi-agent-coordination",
+    "multi-phase-converter-topology",
+    "multi-step-goal-oriented-agents",
+    "multi-step-problem-solving",
+    "multi-stimuli-responsive-materials"
+  ]
+}

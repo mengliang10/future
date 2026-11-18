@@ -1,0 +1,28 @@
+{
+  "id": "lite",
+  "title": "Lumentum Holdings",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/lite.md",
+  "sourceHash": "e04606ab447f9d0d10dd8c676575c19b428622a212891694cc80a68fe405d5a6",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Lumentum is vertically integrated from chip design to module assembly, supplying the laser chips and photonic integrated circuits at the heart of co-packaged optics. The transition from pluggable to co-packaged roughly doubles Lumentum addressable market.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for LITE is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLumentum is vertically integrated from chip design to module assembly, supplying the laser chips and photonic integrated circuits at the heart of co-packaged optics. The transition from pluggable to co-packaged roughly doubles Lumentum addressable market.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for LITE is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Lumentum Holdings",
+    "symbol": "LITE",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Semiconductors",
+      "Photonics"
+    ]
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "LITE",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

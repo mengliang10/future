@@ -1,0 +1,14 @@
+{
+  "id": "sectors--software",
+  "title": "Software",
+  "summary": "",
+  "sourcePath": "sectors/software.md",
+  "sourceHash": "0510e3253fb26f44b074e41410890ffd7e33b1630823df910744b6259d53bed8",
+  "bodyHtml": "<div class=\"callout callout-info\">\n  <span class=\"callout-icon\">&#8594;</span>\n  <span>Software coverage has been consolidated into <a href=\"/sectors/ai/\">Artificial Intelligence</a>: see the Software Monetisation Layer section.</span>\n</div>",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "Software",
+    "permalink": "/sectors/software/",
+    "redirect_to": "/future/sectors/ai/"
+  }
+}

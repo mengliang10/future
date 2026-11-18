@@ -1,0 +1,30 @@
+{
+  "id": "etn",
+  "title": "Eaton Corporation plc",
+  "summary": "",
+  "sector": "energy",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_stocks/etn.md",
+  "sourceHash": "a1641a9823f95592a6d16eea5e66ebcd5e3c53c0e069b8ad90eb184571e30d5f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Eaton is the hidden beneficiary of the AI data centre power surge. As GPU racks scale from 15kW to 100kW+ per rack (GB200 NVL72), power distribution and management infrastructure becomes safety-critical and highly specialised. Eaton's PDUs (power distribution units), UPS systems, and busway products are deployed in every major hyperscaler data centre. The company has a 3-4 year order backlog in data centre electrical equipment. Also exposed to grid modernisation capex driven by EV adoption and renewable integration. Key risk: project timing slippage if data centre builds slow; Vertiv and Schneider Electric compete directly in the same segment.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Infrastructure Hardware</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Eaton PDUs and UPS systems are in every large-scale AI data centre. Power density requirements (100kW+ per rack) are driving a complete rebuild of electrical infrastructure in existing and new facilities.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Managed Smart Grid</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2028</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Eaton's grid-side power management products are positioned for smart grid buildout. Data centre load growth is a major driver of grid investment requirements.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nEaton is the hidden beneficiary of the AI data centre power surge. As GPU racks scale from 15kW to 100kW+ per rack (GB200 NVL72), power distribution and management infrastructure becomes safety-critical and highly specialised. Eaton's PDUs (power distribution units), UPS systems, and busway products are deployed in every major hyperscaler data centre. The company has a 3-4 year order backlog in data centre electrical equipment. Also exposed to grid modernisation capex driven by EV adoption and renewable integration. Key risk: project timing slippage if data centre builds slow; Vertiv and Schneider Electric compete directly in the same segment.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Infrastructure Hardware</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Eaton PDUs and UPS systems are in every large-scale AI data centre. Power density requirements (100kW+ per rack) are driving a complete rebuild of electrical infrastructure in existing and new facilities.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Managed Smart Grid</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2028</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Eaton's grid-side power management products are positioned for smart grid buildout. Data centre load growth is a major driver of grid investment requirements.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Eaton Corporation plc",
+    "symbol": "ETN",
+    "exchange": "NYSE",
+    "categories": [
+      "Energy Tech",
+      "Semiconductors"
+    ],
+    "timing_action": "FULL",
+    "regime": "TRENDING_UP"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ETN",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

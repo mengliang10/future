@@ -1,0 +1,29 @@
+{
+  "id": "infosys.in",
+  "title": "Infosys",
+  "summary": "Indian IT services firm converting delivery capacity into AI-assisted engineering.",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/infosys.in.md",
+  "sourceHash": "5c1fa002bf0008d6e6665bea3c0dadcabb494487c3185a58fce859affb409895",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Infosys runs large engineering and operations contracts for Western enterprises and is embedding generative AI into delivery through its Topaz platform. The commercial risk is deflationary: if AI reduces the billable hours per project, revenue falls unless the firm sells outcomes instead of effort. It is the clearest test of whether services firms capture or lose the AI margin.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Application development and managed services.</li>\n<li>AI platform and transformation programmes.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Revenue per employee as AI tooling spreads.</li>\n<li>Large-deal total contract value.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nInfosys runs large engineering and operations contracts for Western enterprises and is embedding generative AI into delivery through its Topaz platform. The commercial risk is deflationary: if AI reduces the billable hours per project, revenue falls unless the firm sells outcomes instead of effort. It is the clearest test of whether services firms capture or lose the AI margin.\n\n## Technology Exposure\n\n- Application development and managed services.\n- AI platform and transformation programmes.\n\n## What To Watch\n\n- Revenue per employee as AI tooling spreads.\n- Large-deal total contract value.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Infosys",
+    "symbol": "INFY.NS",
+    "exchange": "NSE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "INFY.NS",
+  "exchange": "NSE",
+  "private": false,
+  "businessMeaning": "Services firms are the adoption channel for most enterprises; their pricing model is the thing being disrupted.",
+  "investmentLens": "Cheap on cash flow, exposed on pricing model; watch headcount and deal structures."
+}

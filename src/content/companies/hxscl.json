@@ -1,0 +1,29 @@
+{
+  "id": "hxscl",
+  "title": "SK Hynix",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/hxscl.md",
+  "sourceHash": "6c7c70fc18fc3095a5bad38290f6a4075c3fe15999430bbf9343ddc28b26e394",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>SK Hynix currently leads the market in High Bandwidth Memory (HBM) required for NVIDIA's GPU clusters. They are a pure-play vector for AI hardware scaling.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nSK Hynix currently leads the market in High Bandwidth Memory (HBM) required for NVIDIA's GPU clusters. They are a pure-play vector for AI hardware scaling.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "SK Hynix",
+    "symbol": "HXSCL",
+    "exchange": "OTC",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 1,
+    "bottleneck_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "HXSCL",
+  "exchange": "OTC",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

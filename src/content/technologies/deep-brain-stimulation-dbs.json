@@ -1,0 +1,39 @@
+{
+  "id": "deep-brain-stimulation-dbs",
+  "title": "Deep Brain Stimulation (DBS)",
+  "summary": "Implanted electrodes treating Parkinson's, OCD, depression \u2014 Medtronic, Abbott",
+  "sector": "bci",
+  "sourceCategory": "BCI",
+  "sourcePath": "_tech/deep-brain-stimulation-dbs.md",
+  "sourceHash": "8cd5431bdc70034be55225056a767ceced342128fb8d8f0512f5e1c0d074c83a",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Implanted electrodes treating Parkinson's, OCD, depression \u2014 Medtronic, Abbott. <strong>Achieved.</strong></p>\n<p>Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks <strong>3 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>FDA-approved for Parkinson's disease (2002), essential tremor, dystonia, and OCD; Medtronic Percept PC with sensing enabled closed-loop DBS since 2020. Over 200K patients implanted worldwide with 85%+ motor symptom improvement.</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Mass Production</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-researching\">Researching</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.50</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>Ongoing / Deployed</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Deployed</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>3</td>\n</tr>\n</tbody>\n</table>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/mdt/\">MDT</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nImplanted electrodes treating Parkinson's, OCD, depression \u2014 Medtronic, Abbott. **Achieved.**\n\nDeployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **3 independent sources** on this technology.\n\n> FDA-approved for Parkinson's disease (2002), essential tremor, dystonia, and OCD; Medtronic Percept PC with sensing enabled closed-loop DBS since 2020. Over 200K patients implanted worldwide with 85%+ motor symptom improvement.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Mass Production** |\n| Confidence Level | <span class=\"conf-badge conf-researching\">Researching</span> |\n| Confidence Score | **+0.50** |\n| Estimated Deployment | **Ongoing / Deployed** |\n| Horizon | Deployed |\n| Independent Sources Tracked | 3 |\n\n## Investment Exposure\n\n[MDT](/future/stocks/mdt/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Deep Brain Stimulation (DBS)",
+    "subtitle": "Implanted electrodes treating Parkinson's, OCD, depression \u2014 Medtronic, Abbott",
+    "category": "BCI",
+    "stage": "mass_production",
+    "confidence_label": "Researching",
+    "est_year": 2025,
+    "est_year_range": "2023\u20132027",
+    "horizon": "Deployed",
+    "source_count": 3,
+    "stocks": [
+      "MDT"
+    ],
+    "permalink": "/tech/deep-brain-stimulation-dbs/"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "mass_production",
+  "confidenceLabel": "Researching",
+  "estimate": "2023\u20132027",
+  "estimateYear": 2025,
+  "sourceCount": 3,
+  "companies": [
+    "mdt"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

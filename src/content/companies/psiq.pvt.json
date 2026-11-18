@@ -1,0 +1,28 @@
+{
+  "id": "psiq.pvt",
+  "title": "PsiQuantum",
+  "summary": "",
+  "sector": "quantum",
+  "sourceCategory": "Quantum Computing",
+  "sourcePath": "_stocks/psiq.pvt.md",
+  "sourceHash": "8628854a5b33bbe3f5574854decbbde59d9917c94b796e956284de2779c2d866",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>PsiQuantum's photonics-based approach aims to build the world's first useful, error-corrected quantum computer using standard CMOS manufacturing.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nPsiQuantum's photonics-based approach aims to build the world's first useful, error-corrected quantum computer using standard CMOS manufacturing.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "PsiQuantum",
+    "symbol": "PSIQ.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum Computing"
+    ],
+    "node_count": 2
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "PSIQ.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

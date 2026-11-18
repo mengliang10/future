@@ -1,0 +1,30 @@
+{
+  "id": "arqq",
+  "title": "Arqit Quantum",
+  "summary": "",
+  "sector": "quantum",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/arqq.md",
+  "sourceHash": "becb7da110af3fbbd1b33d8bff411c008890f7a9fb4922c6741eca10cf5d1e83",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Quantum-safe encryption-as-a-service using satellite-distributed keys; early mover in post-quantum cryptography infrastructure.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for ARQQ is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nQuantum-safe encryption-as-a-service using satellite-distributed keys; early mover in post-quantum cryptography infrastructure.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for ARQQ is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Arqit Quantum",
+    "symbol": "ARQQ",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Quantum",
+      "Cybersecurity"
+    ],
+    "timing_action": "FULL",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ARQQ",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

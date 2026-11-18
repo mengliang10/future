@@ -1,0 +1,30 @@
+{
+  "id": "aeva",
+  "title": "Aeva Technologies",
+  "summary": "",
+  "sector": "autonomous",
+  "sourceCategory": "Autonomous",
+  "sourcePath": "_stocks/aeva.md",
+  "sourceHash": "bc2adf9c1e2d20cd531c5368461e8933c206e92355371a2552df0c13a6e9ad1b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>FMCW lidar pioneer targeting automotive OEM design wins; unique frequency-modulated architecture enables velocity detection alongside depth.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for AEVA is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nFMCW lidar pioneer targeting automotive OEM design wins; unique frequency-modulated architecture enables velocity detection alongside depth.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for AEVA is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Aeva Technologies",
+    "symbol": "AEVA",
+    "exchange": "NYSE",
+    "categories": [
+      "Autonomous",
+      "Sensors"
+    ],
+    "timing_action": "WAIT",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "AEVA",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ai-08",
+  "title": "AI & Computing — Briefing 08",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "automated-defect-detection",
+    "automated-environmental-impact-tracking",
+    "automated-heart-disease-detection",
+    "automated-materials-discovery",
+    "autonomous-ai-agent",
+    "autonomous-experimentation",
+    "autonomous-flight-revolution",
+    "autonomous-in-body-treatment",
+    "autonomous-perception-systems",
+    "autonomous-process-control",
+    "autonomous-research-agent",
+    "autonomous-vehicle-perception"
+  ]
+}

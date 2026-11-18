@@ -1,0 +1,39 @@
+{
+  "id": "gate-all-around-fet-mbcfetnsfet",
+  "title": "Gate-All-Around FET (MBCFET/NSFET)",
+  "summary": "Gate surrounding channel on all sides; successor to FinFET at 2\u20133nm",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_tech/gate-all-around-fet-mbcfetnsfet.md",
+  "sourceHash": "e5e5106a0432f3be69e51b112e8fcad30d4bf548aaf5f60b1ad7eaff4bd54f22",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Gate surrounding channel on all sides; successor to FinFET at 2\u20133nm. <strong>Achieved.</strong></p>\n<p>Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks <strong>2 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>Samsung 3nm GAA (MBCFET) in production since June 2022 with second-gen node (SF3) yielding 70%+; TSMC N2 nanosheet GAA risk production started H2 2024, volume production ramping 2025. Intel 20A/18A RibbonFET (GAA) on track for 2025-2026. GAA replaces FinFET across all three leading-edge foundries.</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Early Commercial</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-confirmed\">Confirmed</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.89</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>Ongoing / Deployed</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Deployed</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>2</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/2nm-process-node/\">2nm Process Node (TSMC N2)</a></li>\n<li><a href=\"/tech/finfet-transistor/\">FinFET Transistor (3D Gate)</a></li>\n<li><a href=\"/tech/nanosheet-transistor/\">Nanosheet Transistor (GAA architecture)</a></li>\n<li><a href=\"/tech/tem-metrology-semiconductor/\">TEM Metrology for Semiconductor Structures</a></li>\n</ul>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/neuromorphic-chip/\">Neuromorphic Computing Chip</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/tsm/\">TSM</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nGate surrounding channel on all sides; successor to FinFET at 2\u20133nm. **Achieved.**\n\nEarly commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **2 independent sources** on this technology.\n\n> Samsung 3nm GAA (MBCFET) in production since June 2022 with second-gen node (SF3) yielding 70%+; TSMC N2 nanosheet GAA risk production started H2 2024, volume production ramping 2025. Intel 20A/18A RibbonFET (GAA) on track for 2025-2026. GAA replaces FinFET across all three leading-edge foundries.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Early Commercial** |\n| Confidence Level | <span class=\"conf-badge conf-confirmed\">Confirmed</span> |\n| Confidence Score | **+0.89** |\n| Estimated Deployment | **Ongoing / Deployed** |\n| Horizon | Deployed |\n| Independent Sources Tracked | 2 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [2nm Process Node (TSMC N2)](/future/tech/2nm-process-node/)\n- [FinFET Transistor (3D Gate)](/future/tech/finfet-transistor/)\n- [Nanosheet Transistor (GAA architecture)](/future/tech/nanosheet-transistor/)\n- [TEM Metrology for Semiconductor Structures](/future/tech/tem-metrology-semiconductor/)\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [Neuromorphic Computing Chip](/future/tech/neuromorphic-chip/)\n\n## Investment Exposure\n\n[TSM](/future/stocks/tsm/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Gate-All-Around FET (MBCFET/NSFET)",
+    "subtitle": "Gate surrounding channel on all sides; successor to FinFET at 2\u20133nm",
+    "category": "Semiconductors",
+    "stage": "early_commercial",
+    "confidence_label": "Confirmed",
+    "est_year": 2027,
+    "est_year_range": "2026\u20132030",
+    "horizon": "Deployed",
+    "source_count": 2,
+    "stocks": [
+      "TSM"
+    ],
+    "permalink": "/tech/gate-all-around-fet-mbcfetnsfet/"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "early_commercial",
+  "confidenceLabel": "Confirmed",
+  "estimate": "2026\u20132030",
+  "estimateYear": 2027,
+  "sourceCount": 2,
+  "companies": [
+    "tsm"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

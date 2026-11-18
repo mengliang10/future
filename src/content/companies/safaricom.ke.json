@@ -1,0 +1,29 @@
+{
+  "id": "safaricom.ke",
+  "title": "Safaricom",
+  "summary": "Kenyan telecom operator that runs M-PESA, the reference mobile-money platform.",
+  "sector": "markets",
+  "sourceCategory": "Financial Markets",
+  "sourcePath": "_stocks/safaricom.ke.md",
+  "sourceHash": "d005af337dd7badb4a984572d7b04cd119e361f88f690325845899b50fd0ad49",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Safaricom dominates Kenyan mobile connectivity and owns M-PESA, the agent-based money transfer system used by most adults in the country. Payments and mobile data now contribute more than voice, and the company is expanding into Ethiopia. Regulatory pressure on M-PESA fees is the main constraint on revenue per user.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Mobile money and agent distribution.</li>\n<li>Connectivity and enterprise services.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>M-PESA fee regulation.</li>\n<li>Ethiopian market execution.</li>\n<li>Data revenue growth.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSafaricom dominates Kenyan mobile connectivity and owns M-PESA, the agent-based money transfer system used by most adults in the country. Payments and mobile data now contribute more than voice, and the company is expanding into Ethiopia. Regulatory pressure on M-PESA fees is the main constraint on revenue per user.\n\n## Technology Exposure\n\n- Mobile money and agent distribution.\n- Connectivity and enterprise services.\n\n## What To Watch\n\n- M-PESA fee regulation.\n- Ethiopian market execution.\n- Data revenue growth.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Safaricom",
+    "symbol": "SCOM.NR",
+    "exchange": "NSE Kenya",
+    "categories": [
+      "Financial Markets"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "SCOM.NR",
+  "exchange": "NSE Kenya",
+  "private": false,
+  "businessMeaning": "Agent networks, not apps, are what make digital finance work where cash dominates.",
+  "investmentLens": "A regulated utility-like cash generator; watch fee caps and the Ethiopia loss."
+}

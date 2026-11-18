@@ -1,0 +1,29 @@
+{
+  "id": "naver.kr",
+  "title": "NAVER",
+  "summary": "Korea's search and platform incumbent, building a sovereign Korean-language model.",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/naver.kr.md",
+  "sourceHash": "c9885ed620869d12352083273f4dcc94c65f72dbf6a3bf24be509ec38ffb20d7",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>NAVER runs the dominant search portal in Korea and has invested in HyperCLOVA X, a Korean-language model positioned as national AI infrastructure. The strategic argument is linguistic and regulatory: Korean-language quality and domestic data residency are things global models do not optimise for. Execution risk sits in the cost of training and in the governance of its Japanese messaging affiliate.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Korean-language foundation models.</li>\n<li>Search, commerce and cloud infrastructure.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Enterprise adoption of HyperCLOVA X.</li>\n<li>Cost of compute without domestic accelerator supply.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNAVER runs the dominant search portal in Korea and has invested in HyperCLOVA X, a Korean-language model positioned as national AI infrastructure. The strategic argument is linguistic and regulatory: Korean-language quality and domestic data residency are things global models do not optimise for. Execution risk sits in the cost of training and in the governance of its Japanese messaging affiliate.\n\n## Technology Exposure\n\n- Korean-language foundation models.\n- Search, commerce and cloud infrastructure.\n\n## What To Watch\n\n- Enterprise adoption of HyperCLOVA X.\n- Cost of compute without domestic accelerator supply.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "NAVER",
+    "symbol": "035420.KS",
+    "exchange": "KRX",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "035420.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Sovereign AI is a procurement argument: language quality and jurisdiction can outweigh raw benchmark scores.",
+  "investmentLens": "Watch cloud losses and model monetisation; the search cash engine funds a long race."
+}

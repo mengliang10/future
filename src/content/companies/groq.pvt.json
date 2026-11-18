@@ -1,0 +1,29 @@
+{
+  "id": "groq.pvt",
+  "title": "Groq",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/groq.pvt.md",
+  "sourceHash": "7e15b570806d69f32cb0c5ced12cfcfbfe1c644023d4d27b917ae8d0f8bda36d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Groq's LPU (Language Processing Unit) architecture delivers unprecedented speed for real-time AI inference, crucial for agentic workflows.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nGroq's LPU (Language Processing Unit) architecture delivers unprecedented speed for real-time AI inference, crucial for agentic workflows.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Groq",
+    "symbol": "GROQ.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Semiconductors",
+      "AI & Cloud"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "GROQ.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

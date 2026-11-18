@@ -1,0 +1,25 @@
+{
+  "id": "energy-01",
+  "title": "Energy — Briefing 01",
+  "sector": "energy",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "advanced-nuclear-gen-iv-msrsfr",
+    "ai-data-center-energy-efficiency",
+    "ai-data-center-power-demand",
+    "ai-demand-flexibility-grid",
+    "ai-energy-rebound-effect",
+    "ai-managed-smart-grid",
+    "autonomous-nuclear-plant-operations",
+    "behind-the-meter-data-center-generation",
+    "commercial-fusion-power-plant",
+    "data-center-energy-demand",
+    "data-center-energy-sustainability",
+    "data-center-power-demand"
+  ]
+}

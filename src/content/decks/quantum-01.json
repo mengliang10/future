@@ -1,0 +1,25 @@
+{
+  "id": "quantum-01",
+  "title": "Quantum Computing — Briefing 01",
+  "sector": "quantum",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "dual-comb-quantum-states",
+    "fault-tolerant-qc-1000-logical-qubits",
+    "fault-tolerant-quantum-computing",
+    "integrated-quantum-systems",
+    "nanoscale-quantum-sensing",
+    "neutral-atom-quantum-architectures",
+    "neutral-atom-quantum",
+    "nist-post-quantum-crypto-standard",
+    "photonic-quantum-advantage",
+    "photonic-qubit",
+    "pqc-enterprise-deployment",
+    "quantum-2-0-engineering"
+  ]
+}

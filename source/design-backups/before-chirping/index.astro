@@ -1,0 +1,14 @@
+---
+import Site from '../layouts/Site.astro';
+import {records} from '../lib/catalogue';
+const [technologies,companies,sectors,decks]=await Promise.all(['technologies','companies','sectors','decks'].map(records));
+const sample=technologies.filter(t=>['artificial-general-intelligence','silicon-photonics','ai-software-engineering-agent','commercial-fusion'].includes(t.id));
+const featured=sample.length?sample:technologies.slice(0,4);
+---
+<Site title="Technology, translated">
+<section class="home-opening container"><span class="eyebrow">Technology intelligence, made understandable</span><h1>The future is complicated.<br/><em>Understanding it shouldn’t be.</em></h1><div class="opening-bottom"><p>What the technology does. Why a business should care.<br/>What an investor should question.</p><form action="/explore/" class="home-search"><label class="sr-only" for="home-search">Search the research</label><input id="home-search" name="q" type="search" placeholder="Find a technology, question or sector…"/><button>Explore ↗</button></form></div></section>
+<section class="entry-strip container"><a href="/explore/"><b>{technologies.length}</b><span>Technology records</span><i>↗</i></a><a href="/companies/"><b>{companies.length}</b><span>Companies</span><i>↗</i></a><a href="/presentations/"><b>{decks.length}</b><span>HTML briefings</span><i>↗</i></a></section>
+<section class="container home-section"><div class="section-heading"><span class="eyebrow">Choose your lens</span><a href="/research/">How to read the research →</a></div><div class="lens-grid"><a href="/explore/"><span>01 / Business</span><h2>What could this change?</h2><p>Explore capabilities, adoption constraints and the questions worth asking before investing time or money.</p><span>Explore technologies →</span></a><a href="/companies/"><span>02 / Investment</span><h2>Who could capture the value?</h2><p>Follow technology exposure, dependencies and company research. Separate the opportunity from the evidence.</p><span>Explore companies →</span></a></div></section>
+<section class="container home-section"><div class="section-heading"><h2>Explore the landscape.</h2><a href="/sectors/">All sectors →</a></div><div class="sector-grid">{sectors.map(s=><a href={`/sectors/${s.id}/`}><span>{s.title}</span><small>{technologies.filter(t=>t.sector===s.id).length}</small><i>↗</i></a>)}</div></section>
+<section class="container home-section"><div class="section-heading"><h2>Brief the room.</h2><a href="/presentations/">All presentations →</a></div><div class="mini-decks">{decks.filter(d=>['ai-01','semiconductors-01','quantum-01'].includes(d.id)).map(d=><a href={`/presentations/${d.id}/`} data-astro-reload><span>16:9 / HTML briefing</span><h3>{d.title}</h3><span>{d.technologies.length+3} slides ↗</span></a>)}</div></section>
+</Site>

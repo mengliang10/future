@@ -1,0 +1,29 @@
+{
+  "id": "okta",
+  "title": "Okta Inc.",
+  "summary": "",
+  "sector": "cyber",
+  "sourceCategory": "Cybersecurity",
+  "sourcePath": "_stocks/okta.md",
+  "sourceHash": "9087514f8a08042aebea886f39e7d9217f722898def23b214a5f6895d9aa43b5",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Okta is the identity security platform leader: the 'front door' to enterprise applications. As organisations adopt zero-trust architecture, identity verification becomes the primary security control plane. Okta's Workforce Identity and Customer Identity (Auth0) products serve both the employee access and external customer authentication markets. After a difficult 2023–2024 (Okta itself was breached in 2023, damaging trust with CISOs), the company is rebuilding its security posture and customer confidence. Revenue growth has slowed to ~12% as enterprise budgets faced scrutiny; the recovery thesis depends on re-accelerating net retention and new logo adds. Key risk: Microsoft Entra ID (Azure AD) is free for Microsoft customers and aggressively gaining share in the Microsoft-centric enterprise stack.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Zero Trust Security Architecture</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Okta is the identity pillar of every zero-trust deployment. NIST zero-trust framework explicitly treats identity as the new perimeter: Okta's core thesis.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI-Driven Threat Detection</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Okta is building identity threat detection using AI on its authentication signal data. Anomalous login behaviour, credential stuffing, and session hijacking detection are key features.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nOkta is the identity security platform leader: the 'front door' to enterprise applications. As organisations adopt zero-trust architecture, identity verification becomes the primary security control plane. Okta's Workforce Identity and Customer Identity (Auth0) products serve both the employee access and external customer authentication markets. After a difficult 2023–2024 (Okta itself was breached in 2023, damaging trust with CISOs), the company is rebuilding its security posture and customer confidence. Revenue growth has slowed to ~12% as enterprise budgets faced scrutiny; the recovery thesis depends on re-accelerating net retention and new logo adds. Key risk: Microsoft Entra ID (Azure AD) is free for Microsoft customers and aggressively gaining share in the Microsoft-centric enterprise stack.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Zero Trust Security Architecture</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Okta is the identity pillar of every zero-trust deployment. NIST zero-trust framework explicitly treats identity as the new perimeter: Okta's core thesis.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI-Driven Threat Detection</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Okta is building identity threat detection using AI on its authentication signal data. Anomalous login behaviour, credential stuffing, and session hijacking detection are key features.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Okta Inc.",
+    "symbol": "OKTA",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Cybersecurity"
+    ],
+    "timing_action": "AVOID",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "OKTA",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

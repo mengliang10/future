@@ -1,0 +1,43 @@
+{
+  "id": "llm-gpt-4-class-1t-params",
+  "title": "LLM GPT-4 Class (~1T params)",
+  "summary": "Dense LLMs at ~1T parameter scale with strong reasoning and code ability",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_tech/llm-gpt-4-class-1t-params.md",
+  "sourceHash": "3797eb6816ecdf73f676388b7daf497c8ae39f2a38a2f5d48263ec95e66c252e",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Dense LLMs at ~1T parameter scale with strong reasoning and code ability. <strong>Achieved.</strong></p>\n<p>Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks <strong>32 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>671B MoE (37B active), 14.8T training tokens. Outperforms GPT-4o and Claude-3.5-Sonnet on multiple benchmarks. $5.6M training cost vs ~$100M+ for comparable closed models. Multi-token prediction objective. Proves cost-efficient frontier LLM at scale.</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Mass Production</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-researching\">Researching</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.50</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>Ongoing / Deployed</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Deployed</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>32</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/neural-scaling-law/\">Neural Scaling Laws (Established)</a></li>\n</ul>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/ai-chip-design-automation/\">AI-Assisted Chip Design (EDA AI)</a></li>\n<li><a href=\"/tech/ai-drug-discovery-platform/\">AI Drug Discovery Platform</a></li>\n<li><a href=\"/tech/multimodal-foundation-model/\">Multimodal Foundation Model</a></li>\n<li><a href=\"/tech/reasoning-model-o1-class/\">Chain-of-Thought Reasoning Model</a></li>\n<li><a href=\"/tech/robotics-foundation-model/\">Robotics Foundation Model</a></li>\n<li><a href=\"/tech/rlhf-alignment/\">RLHF / Constitutional AI Alignment</a></li>\n<li><a href=\"/tech/transformer-architecture/\">Transformer Architecture</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/msft/\">MSFT</a>  <a href=\"/companies/googl/\">GOOGL</a>  <a href=\"/companies/nvda/\">NVDA</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nDense LLMs at ~1T parameter scale with strong reasoning and code ability. **Achieved.**\n\nDeployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **32 independent sources** on this technology.\n\n> 671B MoE (37B active), 14.8T training tokens. Outperforms GPT-4o and Claude-3.5-Sonnet on multiple benchmarks. $5.6M training cost vs ~$100M+ for comparable closed models. Multi-token prediction objective. Proves cost-efficient frontier LLM at scale.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Mass Production** |\n| Confidence Level | <span class=\"conf-badge conf-researching\">Researching</span> |\n| Confidence Score | **+0.50** |\n| Estimated Deployment | **Ongoing / Deployed** |\n| Horizon | Deployed |\n| Independent Sources Tracked | 32 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Neural Scaling Laws (Established)](/future/tech/neural-scaling-law/)\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [AI-Assisted Chip Design (EDA AI)](/future/tech/ai-chip-design-automation/)\n- [AI Drug Discovery Platform](/future/tech/ai-drug-discovery-platform/)\n- [Multimodal Foundation Model](/future/tech/multimodal-foundation-model/)\n- [Chain-of-Thought Reasoning Model](/future/tech/reasoning-model-o1-class/)\n- [Robotics Foundation Model](/future/tech/robotics-foundation-model/)\n- [RLHF / Constitutional AI Alignment](/future/tech/rlhf-alignment/)\n- [Transformer Architecture](/future/tech/transformer-architecture/)\n\n## Investment Exposure\n\n[MSFT](/future/stocks/msft/)  [GOOGL](/future/stocks/googl/)  [NVDA](/future/stocks/nvda/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "LLM GPT-4 Class (~1T params)",
+    "subtitle": "Dense LLMs at ~1T parameter scale with strong reasoning and code ability",
+    "category": "AI & Cloud",
+    "stage": "mass_production",
+    "confidence_label": "Researching",
+    "est_year": 2023,
+    "est_year_range": "2021\u20132025",
+    "horizon": "Deployed",
+    "source_count": 32,
+    "stocks": [
+      "MSFT",
+      "GOOGL",
+      "NVDA"
+    ],
+    "permalink": "/tech/llm-gpt-4-class-1t-params/"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "mass_production",
+  "confidenceLabel": "Researching",
+  "estimate": "2021\u20132025",
+  "estimateYear": 2023,
+  "sourceCount": 32,
+  "companies": [
+    "msft",
+    "googl",
+    "nvda"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

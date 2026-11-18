@@ -1,0 +1,28 @@
+{
+  "id": "anth.pvt",
+  "title": "Anthropic",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/anth.pvt.md",
+  "sourceHash": "9dc086de9d62c1f4db26fc6e5d35ad6928878327498e006d136c734e53371305",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Anthropic is a leader in AI safety and frontier model research. Their focus on Constitutional AI and structural alignment makes them a key partner for enterprises requiring high-reliability LLMs.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nAnthropic is a leader in AI safety and frontier model research. Their focus on Constitutional AI and structural alignment makes them a key partner for enterprises requiring high-reliability LLMs.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Anthropic",
+    "symbol": "ANTH.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 2
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ANTH.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

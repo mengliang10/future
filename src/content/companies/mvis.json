@@ -1,0 +1,30 @@
+{
+  "id": "mvis",
+  "title": "MicroVision",
+  "summary": "",
+  "sector": "autonomous",
+  "sourceCategory": "Autonomous",
+  "sourcePath": "_stocks/mvis.md",
+  "sourceHash": "53cf3c7b5666cdfa109d99e9fad4ab0d0416a244f5b22d08243e0f34b2097434",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>MEMS-based lidar and augmented reality scanning technology; small-cap exposure to next-generation sensor platforms.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for MVIS is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMEMS-based lidar and augmented reality scanning technology; small-cap exposure to next-generation sensor platforms.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for MVIS is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "MicroVision",
+    "symbol": "MVIS",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Autonomous",
+      "Sensors"
+    ],
+    "timing_action": "AVOID",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "MVIS",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

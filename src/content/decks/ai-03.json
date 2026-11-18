@@ -1,0 +1,25 @@
+{
+  "id": "ai-03",
+  "title": "AI & Computing — Briefing 03",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "ai-accelerators",
+    "ai-adoption-in-schools",
+    "ai-adoption",
+    "ai-advancements",
+    "ai-agent-adoption-in-homes",
+    "ai-agent-persistent-memory",
+    "ai-agent-platform",
+    "ai-agent-swarms",
+    "ai-agentic-lab-systems",
+    "ai-agentic-supply-chain",
+    "ai-assisted-chip-design-eda-ai",
+    "ai-bots"
+  ]
+}

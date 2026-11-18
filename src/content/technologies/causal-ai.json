@@ -1,0 +1,31 @@
+{
+  "id": "causal-ai",
+  "title": "Causal AI",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_tech/causal-ai.md",
+  "sourceHash": "e1b03e4c153f6532fc021185fadf316e1094af42f0622ea0a05108c2ea1fde45",
+  "bodyHtml": "<p>Causal AI is a branch of machine learning that moves beyond pattern recognition (correlation) to understand cause-and-effect relationships. It allows AI systems to reason about &quot;what-if&quot; scenarios (counterfactuals) and interventions.</p>\n<p>Key attributes:</p>\n<ul>\n<li><strong>Structural Causal Models (SCM):</strong> Using graph-based representations to define causal dependencies.</li>\n<li><strong>Explainability:</strong> Inherently provides a rationale for decisions based on causal pathways.</li>\n<li><strong>Robustness:</strong> Better at generalizing to new environments where correlations might change but causal laws remain.</li>\n<li><strong>Unlocks:</strong> Autonomous scientific discovery, more reliable AI agents, and precise policy intervention modeling.</li>\n</ul>\n",
+  "bodyMarkdown": "Causal AI is a branch of machine learning that moves beyond pattern recognition (correlation) to understand cause-and-effect relationships. It allows AI systems to reason about \"what-if\" scenarios (counterfactuals) and interventions.\n\nKey attributes:\n- **Structural Causal Models (SCM):** Using graph-based representations to define causal dependencies.\n- **Explainability:** Inherently provides a rationale for decisions based on causal pathways.\n- **Robustness:** Better at generalizing to new environments where correlations might change but causal laws remain.\n- **Unlocks:** Autonomous scientific discovery, more reliable AI agents, and precise policy intervention modeling.",
+  "sourceMeta": {
+    "layout": "tech",
+    "id": "causal-ai",
+    "name": "Causal AI",
+    "category": "AI & Cloud",
+    "status": "basic_research",
+    "est_year": 2038,
+    "est_year_range": "2036\u20132044",
+    "horizon": "Long-Term (2035+)"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "basic_research",
+  "confidenceLabel": "Not classified",
+  "estimate": "2036\u20132044",
+  "estimateYear": 2038,
+  "sourceCount": null,
+  "companies": [],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

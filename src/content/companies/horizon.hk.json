@@ -1,0 +1,29 @@
+{
+  "id": "horizon.hk",
+  "title": "Horizon Robotics",
+  "summary": "China's leading supplier of automotive AI chips and driving software.",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/horizon.hk.md",
+  "sourceHash": "142bf1e243507b26599b9f9b2608d44dd28c4525ad18b6c7e6c1126c5e06a187",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Horizon designs the Journey series of automotive processors and the accompanying software stack, and listed in Hong Kong in 2024. Its newest generation targets highway and city navigation-assisted driving at volume price points, competing with Nvidia, Mobileye and in-house programmes at Chinese automakers. Revenue depends on a handful of vehicle programmes, so design wins matter more than headline TOPS.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>ADAS and navigation-assisted driving compute.</li>\n<li>Software tooling for automakers building on Journey chips.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Number of production vehicle programmes per chip generation.</li>\n<li>Price pressure from Nvidia's scaled-down China products.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nHorizon designs the Journey series of automotive processors and the accompanying software stack, and listed in Hong Kong in 2024. Its newest generation targets highway and city navigation-assisted driving at volume price points, competing with Nvidia, Mobileye and in-house programmes at Chinese automakers. Revenue depends on a handful of vehicle programmes, so design wins matter more than headline TOPS.\n\n## Technology Exposure\n\n- ADAS and navigation-assisted driving compute.\n- Software tooling for automakers building on Journey chips.\n\n## What To Watch\n\n- Number of production vehicle programmes per chip generation.\n- Price pressure from Nvidia's scaled-down China products.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Horizon Robotics",
+    "symbol": "9660.HK",
+    "exchange": "HKEX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "9660.HK",
+  "exchange": "HKEX",
+  "private": false,
+  "businessMeaning": "For automakers, the chip choice locks in a software stack for a vehicle lifetime; switching costs are the real moat.",
+  "investmentLens": "Design-win backlog is the leading indicator; reported revenue lags it by roughly two years."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ai-06",
+  "title": "AI & Computing — Briefing 06",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "ai-kyc-aml-agents",
+    "ai-materials-discovery",
+    "ai-models",
+    "ai-object-identification",
+    "ai-optimized-electrolyzer-catalysts",
+    "ai-optimized-inverse-design",
+    "ai-payment-fraud-detection",
+    "ai-safety-benchmarks",
+    "ai-software-engineering-agent",
+    "ai-startup-funding",
+    "ai-targeting-system",
+    "ai-technology"
+  ]
+}

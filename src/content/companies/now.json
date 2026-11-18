@@ -1,0 +1,30 @@
+{
+  "id": "now",
+  "title": "ServiceNow Inc.",
+  "summary": "",
+  "sector": "other",
+  "sourceCategory": "AI",
+  "sourcePath": "_stocks/now.md",
+  "sourceHash": "ecbe1cb4f1b0b81144c891e660d689c7c63e6b19bd5b82f1d311ee2c4ba15f63",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>ServiceNow is the enterprise workflow automation platform with the strongest AI monetisation narrative in SaaS. Now Assist (built on generative AI) is embedding LLM-driven automation into ITSM, HR, legal, and finance workflows. Enterprise customers already paying for the platform see Now Assist as an accelerator of existing ROI: not a new budget line: which reduces friction to adoption. Revenue growing 22%+ annually; Rule of 40 score consistently above 50. Largest deals (multi-year, multi-product) are getting larger as ServiceNow expands from IT into cross-enterprise AI workflow. Key risk: premium valuation (45x+ NTM revenue in up cycles) means any guidance miss creates outsized multiple compression. Competition from Microsoft (Power Automate with Copilot) is the primary structural threat.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Personalization Engine</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; ServiceNow Now Assist uses LLMs to personalise workflow automation for enterprise users. AI-driven ticket resolution, virtual agent, and search are live in production across Fortune 500.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Software Engineering Agent</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; ServiceNow is deploying AI agents to automate ITSM resolution without human intervention. Agentic workflows are the next step beyond copilots: autonomous action within defined bounds.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Enterprise AI Applications</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; ServiceNow is the enterprise platform most advanced on AI monetisation. Now Assist is a bundled upsell on existing contracts: high attach rate, low churn risk.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nServiceNow is the enterprise workflow automation platform with the strongest AI monetisation narrative in SaaS. Now Assist (built on generative AI) is embedding LLM-driven automation into ITSM, HR, legal, and finance workflows. Enterprise customers already paying for the platform see Now Assist as an accelerator of existing ROI: not a new budget line: which reduces friction to adoption. Revenue growing 22%+ annually; Rule of 40 score consistently above 50. Largest deals (multi-year, multi-product) are getting larger as ServiceNow expands from IT into cross-enterprise AI workflow. Key risk: premium valuation (45x+ NTM revenue in up cycles) means any guidance miss creates outsized multiple compression. Competition from Microsoft (Power Automate with Copilot) is the primary structural threat.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Personalization Engine</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; ServiceNow Now Assist uses LLMs to personalise workflow automation for enterprise users. AI-driven ticket resolution, virtual agent, and search are live in production across Fortune 500.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Software Engineering Agent</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; ServiceNow is deploying AI agents to automate ITSM resolution without human intervention. Agentic workflows are the next step beyond copilots: autonomous action within defined bounds.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Enterprise AI Applications</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; ServiceNow is the enterprise platform most advanced on AI monetisation. Now Assist is a bundled upsell on existing contracts: high attach rate, low churn risk.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ServiceNow Inc.",
+    "symbol": "NOW",
+    "exchange": "NYSE",
+    "categories": [
+      "AI",
+      "Software"
+    ],
+    "timing_action": "WAIT",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "NOW",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

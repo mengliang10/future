@@ -1,0 +1,8 @@
+---
+import {url, base} from '../../lib/base';
+import {sourceLinks} from '../../lib/source-links';
+import Site from '../../layouts/Site.astro';import {records} from '../../lib/catalogue';
+export async function getStaticPaths(){return (await records('articles')).map(article=>({params:{id:article.id},props:{article}}));}
+const {article}=Astro.props;
+---
+<Site title={article.title} active="Research"><article class="container page readable"><nav class="breadcrumb"><a href={url('/research/')}>Research</a><span>/</span><span>Source page</span></nav><div class="page-heading"><span class="eyebrow">{article.provenance==='editorial'?'Editorial brief · Sources cited':'Preserved source narrative · Not revalidated'}</span><h1>{article.title}</h1>{article.summary&&<p>{article.summary}</p>}</div><div class="data-note">{article.provenance==='editorial'?'Compiled from named public sources in November 2026. Forward dates are announced targets, not verified outcomes. ':'Some original figures and statements may be stale. Dynamic Jekyll widgets have been replaced by the new explorers. '}<a href={url(`/source/${article.sourcePath}`)} download>{article.provenance==='editorial'?'Download the brief as Markdown ↓':'Download the complete original Markdown ↓'}</a></div><div class="prose" set:html={await sourceLinks(article.bodyHtml)}/></article></Site>

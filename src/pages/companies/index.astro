@@ -1,0 +1,6 @@
+---
+import {url, base} from '../../lib/base';
+import Site from '../../layouts/Site.astro';import Browse from '../../components/Browse.astro';import {records} from '../../lib/catalogue';import snapshot from '../../../public/data/market-snapshot.json';
+const [items,sectors]=await Promise.all([records('companies'),records('sectors')]);
+---
+<Site title="Companies" active="Companies"><div class="container page"><div class="page-heading"><h1>Follow the value.</h1><p>Listed and private companies. Research exposure, not recommendations.</p></div><div class="data-note">Market data is an imported snapshot, not live pricing. <a href={url('/markets/')}>View snapshot and timestamp →</a></div><Browse items={items} sectors={sectors} kind="company" title="companies"/></div></Site>

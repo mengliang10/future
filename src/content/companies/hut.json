@@ -1,0 +1,31 @@
+{
+  "id": "hut",
+  "title": "Hut 8 Corp",
+  "summary": "",
+  "sector": "blockchain",
+  "sourceCategory": "Blockchain",
+  "sourcePath": "_stocks/hut.md",
+  "sourceHash": "c72617bf9c21494b80eb6276f7e01bfb7bbe481194862a5c581d3d310260a713",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Hut 8 is executing the most aggressive pivot in public mining: from pure Bitcoin mining to high-performance computing infrastructure. Their American Bitcoin subsidiary continues mining while the parent company builds GPU clusters for AI inference, positioning for both BTC upside and AI infrastructure revenue.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>Dual Revenue Streams:</strong> BTC mining + HPC hosting hedges crypto price volatility.</li>\n<li><strong>American Bitcoin JV:</strong> Majority stake in separate mining entity preserves BTC exposure.</li>\n<li><strong>GPU Infrastructure:</strong> Early mover in AI inference hosting using existing data centre assets.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Execution Risk:</strong> Transitioning business models is complex; both halves may underperform.</li>\n<li><strong>Capital Intensity:</strong> GPU clusters require significant upfront capex.</li>\n</ul>\n",
+  "bodyMarkdown": "## Investment Thesis\nHut 8 is executing the most aggressive pivot in public mining: from pure Bitcoin mining to high-performance computing infrastructure. Their American Bitcoin subsidiary continues mining while the parent company builds GPU clusters for AI inference, positioning for both BTC upside and AI infrastructure revenue.\n\n### Key Drivers\n- **Dual Revenue Streams:** BTC mining + HPC hosting hedges crypto price volatility.\n- **American Bitcoin JV:** Majority stake in separate mining entity preserves BTC exposure.\n- **GPU Infrastructure:** Early mover in AI inference hosting using existing data centre assets.\n\n### Risk Factors\n- **Execution Risk:** Transitioning business models is complex; both halves may underperform.\n- **Capital Intensity:** GPU clusters require significant upfront capex.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Hut 8 Corp",
+    "symbol": "HUT",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Blockchain",
+      "Mining",
+      "HPC"
+    ],
+    "timing_action": "WAIT",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "HUT",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

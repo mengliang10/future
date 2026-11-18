@@ -1,0 +1,25 @@
+{
+  "id": "xr-01",
+  "title": "Spatial Computing — Briefing 01",
+  "sector": "xr",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "ar-smart-glasses-consumer-daily",
+    "ar-smart-glasses-industrial",
+    "eye-tracking-headset",
+    "full-immersion-vr-all-5-senses",
+    "hand-gesture-tracking",
+    "haptic-feedback-glove",
+    "neural-radiance-field-nerf-3dgs",
+    "oled-display-panel",
+    "open-interoperable-metaverse",
+    "real-time-ai-3d-rendering",
+    "spatial-computing-os",
+    "vr-headset-consumer"
+  ]
+}

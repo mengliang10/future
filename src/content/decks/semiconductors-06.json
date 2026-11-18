@@ -1,0 +1,25 @@
+{
+  "id": "semiconductors-06",
+  "title": "Semiconductors — Briefing 06",
+  "sector": "semiconductors",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "pfib-sem-metrology",
+    "quantum-computing",
+    "quantum-dot-display",
+    "quantum-enhanced-semiconductor-design",
+    "quantum-simulation-semiconductor-native",
+    "semiconductor-advanced-packaging",
+    "semiconductor-advances",
+    "semiconductor-demand",
+    "semiconductor-design",
+    "semiconductor-devices",
+    "semiconductor-fabrication",
+    "semiconductor-manufacturing-cost"
+  ]
+}

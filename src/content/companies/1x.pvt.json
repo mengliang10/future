@@ -1,0 +1,24 @@
+{
+  "id": "1x.pvt",
+  "title": "1X Technologies",
+  "summary": "",
+  "sector": "robotics",
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/1x.pvt.md",
+  "sourceHash": "f53967089b70d4270281160759c1faefa861eadbb7ce85fe21cf48acd8e7de21",
+  "bodyHtml": "<p>1X (formerly Halodi Robotics) is an OpenAI-backed humanoid robotics company based in Norway. Their primary platforms are &quot;EVE&quot; (wheeled) and &quot;NEO&quot; (bipedal). 1X distinguishes itself with high-torque, low-gear-ratio motors that allow for safe human interaction and compliant physical behavior.</p>\n<p>Key technical advantages:</p>\n<ul>\n<li><strong>Compliance &amp; Safety:</strong> Direct-drive-like actuators allow the robot to be physically pushed and moved by humans without damage.</li>\n<li><strong>Neo Biped:</strong> Focus on home-use bipedal robots with soft, human-like aesthetics.</li>\n<li><strong>Learning from Demonstration:</strong> Heavy use of teleoperation and neural network training for task mastery.</li>\n</ul>\n",
+  "bodyMarkdown": "1X (formerly Halodi Robotics) is an OpenAI-backed humanoid robotics company based in Norway. Their primary platforms are \"EVE\" (wheeled) and \"NEO\" (bipedal). 1X distinguishes itself with high-torque, low-gear-ratio motors that allow for safe human interaction and compliant physical behavior.\n\nKey technical advantages:\n- **Compliance & Safety:** Direct-drive-like actuators allow the robot to be physically pushed and moved by humans without damage.\n- **Neo Biped:** Focus on home-use bipedal robots with soft, human-like aesthetics.\n- **Learning from Demonstration:** Heavy use of teleoperation and neural network training for task mastery.",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "1X.PVT",
+    "name": "1X Technologies",
+    "sector": "Robotics"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "1X.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

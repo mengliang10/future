@@ -1,0 +1,29 @@
+{
+  "id": "reliance.in",
+  "title": "Reliance Industries",
+  "summary": "Indian conglomerate building telecom, retail and domestic AI data-centre capacity.",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/reliance.in.md",
+  "sourceHash": "b4e4596ea551098841f272565d5afecd1c9358e978aedc97c5f15aec6e6ccf9e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Reliance's Jio transformed Indian mobile data through low prices and scale, and the group is now investing in AI data centres and domestic compute to serve Indian enterprises. Energy and petrochemicals still provide most cash flow, which funds the digital build-out. India's data-sovereignty rules favour domestic capacity.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Telecom network and data centres.</li>\n<li>Retail and digital services.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Data-centre commissioning and utilisation.</li>\n<li>Energy segment cash flow.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nReliance's Jio transformed Indian mobile data through low prices and scale, and the group is now investing in AI data centres and domestic compute to serve Indian enterprises. Energy and petrochemicals still provide most cash flow, which funds the digital build-out. India's data-sovereignty rules favour domestic capacity.\n\n## Technology Exposure\n\n- Telecom network and data centres.\n- Retail and digital services.\n\n## What To Watch\n\n- Data-centre commissioning and utilisation.\n- Energy segment cash flow.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Reliance Industries",
+    "symbol": "RELIANCE.NS",
+    "exchange": "NSE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "RELIANCE.NS",
+  "exchange": "NSE",
+  "private": false,
+  "businessMeaning": "Domestic compute capacity is becoming a procurement requirement in India, not just a cost decision.",
+  "investmentLens": "A conglomerate where the digital asset is underappreciated; watch capex disclosures."
+}

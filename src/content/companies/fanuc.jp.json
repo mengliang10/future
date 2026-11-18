@@ -1,0 +1,29 @@
+{
+  "id": "fanuc.jp",
+  "title": "Fanuc",
+  "summary": "Japanese industrial robot and CNC maker with a large installed base and service annuity.",
+  "sector": "robotics",
+  "sourceCategory": "Robotics & Automation",
+  "sourcePath": "_stocks/fanuc.jp.md",
+  "sourceHash": "da9964ce9287b468f6c9e5e660a5d2c31ac632797027fb4bcea50e2c815b95ac",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Fanuc supplies factory automation — robots, controllers and CNC systems — and earns a substantial share of revenue from service and spare parts on its installed base. It is vertically integrated, building its own components, which supports reliability but slows cost reduction. Chinese competitors are closing the gap on low-payload robots, squeezing the entry segment.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Industrial robots and CNC controls.</li>\n<li>Service and maintenance annuity.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Price competition from Chinese robot makers.</li>\n<li>Robotics orders from automotive and electronics.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nFanuc supplies factory automation — robots, controllers and CNC systems — and earns a substantial share of revenue from service and spare parts on its installed base. It is vertically integrated, building its own components, which supports reliability but slows cost reduction. Chinese competitors are closing the gap on low-payload robots, squeezing the entry segment.\n\n## Technology Exposure\n\n- Industrial robots and CNC controls.\n- Service and maintenance annuity.\n\n## What To Watch\n\n- Price competition from Chinese robot makers.\n- Robotics orders from automotive and electronics.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Fanuc",
+    "symbol": "6954.T",
+    "exchange": "TSE",
+    "categories": [
+      "Robotics & Automation"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "6954.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Reliability and uptime dominate robot purchasing decisions; the cheapest arm is rarely the lowest cost per hour.",
+  "investmentLens": "A quality compounder facing real price pressure at the low end; service mix protects margins."
+}

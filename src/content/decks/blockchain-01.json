@@ -1,0 +1,25 @@
+{
+  "id": "blockchain-01",
+  "title": "Blockchain — Briefing 01",
+  "sector": "blockchain",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "bitcoin-etf",
+    "bitcoin-proof-of-work-blockchain",
+    "cross-chain-interoperability-protocol",
+    "cryptographic-hash-sha-256",
+    "decentralized-identity-did-ssi",
+    "defi-ecosystem",
+    "ethereum-smart-contract-platform",
+    "global-token-consumption",
+    "layer2-rollup",
+    "next-generation-dual-band-antenna-methodology",
+    "programmable-money",
+    "proof-of-stake-consensus"
+  ]
+}

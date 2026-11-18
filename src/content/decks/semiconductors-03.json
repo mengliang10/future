@@ -1,0 +1,25 @@
+{
+  "id": "semiconductors-03",
+  "title": "Semiconductors — Briefing 03",
+  "sector": "semiconductors",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "custom-asic-demand",
+    "digital-twin",
+    "dram-and-hbm-demand",
+    "ecci-compound-semiconductor",
+    "embedded-cooling-elements-within-hbm-die-to-die-interface",
+    "euv-lithography-135nm",
+    "fib-sem-semiconductor",
+    "finfet-transistor-3d-gate",
+    "gan-power-semiconductors",
+    "gate-all-around-fet-mbcfetnsfet",
+    "gate-all-around",
+    "global-semiconductor-demand"
+  ]
+}

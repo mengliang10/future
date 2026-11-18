@@ -1,0 +1,30 @@
+{
+  "id": "oust",
+  "title": "Ouster",
+  "summary": "",
+  "sector": "autonomous",
+  "sourceCategory": "Autonomous",
+  "sourcePath": "_stocks/oust.md",
+  "sourceHash": "b51dc96ad7a202007c103d0f3fcd8561d9260dbbec37f5f606753f33dc2fd343",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Lidar sensor manufacturer serving robotics, infrastructure, and industrial markets.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for OUST is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLidar sensor manufacturer serving robotics, infrastructure, and industrial markets.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for OUST is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Ouster",
+    "symbol": "OUST",
+    "exchange": "NYSE",
+    "categories": [
+      "Autonomous",
+      "Sensors"
+    ],
+    "timing_action": "AVOID",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "OUST",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

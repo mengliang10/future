@@ -1,0 +1,29 @@
+{
+  "id": "beigene.hk",
+  "title": "BeOne Medicines (BeiGene)",
+  "summary": "China-founded oncology company that became a global commercial-stage biopharma.",
+  "sector": "biotech",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/beigene.hk.md",
+  "sourceHash": "e3ed2c00eb02ae34cf68c23233edc7715ffa187128a1186631d6444c4ea658f0",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>BeiGene built a portfolio of oncology drugs, including the BTK inhibitor zanubrutinib, and expanded into US and European markets with its own commercial organisation. It renamed itself BeOne Medicines in 2025 and has been reducing losses as product revenue scales. It is the clearest example of a Chinese biotech crossing into global commercial operations rather than licensing assets out.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Global oncology commercial platform.</li>\n<li>Clinical development capacity in China and the West.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Product revenue growth and path to profitability.</li>\n<li>US pricing and reimbursement pressure.</li>\n<li>Pipeline readouts beyond the lead drug.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nBeiGene built a portfolio of oncology drugs, including the BTK inhibitor zanubrutinib, and expanded into US and European markets with its own commercial organisation. It renamed itself BeOne Medicines in 2025 and has been reducing losses as product revenue scales. It is the clearest example of a Chinese biotech crossing into global commercial operations rather than licensing assets out.\n\n## Technology Exposure\n\n- Global oncology commercial platform.\n- Clinical development capacity in China and the West.\n\n## What To Watch\n\n- Product revenue growth and path to profitability.\n- US pricing and reimbursement pressure.\n- Pipeline readouts beyond the lead drug.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "BeOne Medicines (BeiGene)",
+    "symbol": "6160.HK",
+    "exchange": "HKEX",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "6160.HK",
+  "exchange": "HKEX",
+  "private": false,
+  "businessMeaning": "For pharma partners, a China-founded firm with Western commercial infrastructure is a different counterparty from a pure licensor.",
+  "investmentLens": "A commercial-stage biotech re-rating on profitability; watch operating leverage."
+}

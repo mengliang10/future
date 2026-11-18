@@ -1,0 +1,13 @@
+{
+  "id": "sectors--intelligence--infrastructure--networking-optics",
+  "title": "AI Networking & Optics",
+  "summary": "",
+  "sourcePath": "sectors/intelligence/infrastructure/networking-optics.md",
+  "sourceHash": "da278157b36be220c335d25433593236e3b1079ec3868defc4b7d5dba0657fe8",
+  "bodyHtml": "<div class=\"callout callout-info\">\n  <span class=\"callout-icon\">&#8594;</span>\n  <span>This content has been merged into <a href=\"/sectors/semiconductors/\">Advanced Semiconductors</a>.</span>\n</div>",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "AI Networking & Optics",
+    "permalink": "/sectors/intelligence/infrastructure/networking-optics/"
+  }
+}

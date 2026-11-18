@@ -1,0 +1,29 @@
+{
+  "id": "mediatek.tw",
+  "title": "MediaTek",
+  "summary": "Taiwanese fabless designer strong in smartphone chips and custom AI silicon.",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/mediatek.tw.md",
+  "sourceHash": "e999cd54b79c3f1d112d79cd8dcc6cf803c27768f35f239528b3ce8110975989",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>MediaTek designs smartphone processors, connectivity chips and custom application-specific silicon for cloud customers. It competes with Qualcomm in premium phones and has won AI accelerator work that uses Taiwan's advanced packaging capacity. Its position illustrates how value in AI hardware spreads beyond the GPU vendor to custom silicon and connectivity.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Smartphone and connectivity chips.</li>\n<li>Custom AI ASICs.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Custom silicon programme wins.</li>\n<li>Smartphone cycle and Chinese handset share.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMediaTek designs smartphone processors, connectivity chips and custom application-specific silicon for cloud customers. It competes with Qualcomm in premium phones and has won AI accelerator work that uses Taiwan's advanced packaging capacity. Its position illustrates how value in AI hardware spreads beyond the GPU vendor to custom silicon and connectivity.\n\n## Technology Exposure\n\n- Smartphone and connectivity chips.\n- Custom AI ASICs.\n\n## What To Watch\n\n- Custom silicon programme wins.\n- Smartphone cycle and Chinese handset share.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "MediaTek",
+    "symbol": "2454.TW",
+    "exchange": "TWSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "2454.TW",
+  "exchange": "TWSE",
+  "private": false,
+  "businessMeaning": "Custom silicon is how hyperscalers escape single-supplier pricing; the design partner matters as much as the fab.",
+  "investmentLens": "A cyclical phone business with an emerging AI ASIC option; watch design-win disclosures."
+}

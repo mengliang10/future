@@ -1,0 +1,30 @@
+{
+  "id": "dell",
+  "title": "Dell Technologies",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/dell.md",
+  "sourceHash": "3c7c6d25497f9cbb14783594485b326bcf1ab8220566dcefc27dd63b4e346e9c",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Dell AI servers (PowerEdge XE9680) are a primary delivery vehicle for NVIDIA GPU infrastructure into enterprise; strong AI PC refresh cycle exposure.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for DELL is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nDell AI servers (PowerEdge XE9680) are a primary delivery vehicle for NVIDIA GPU infrastructure into enterprise; strong AI PC refresh cycle exposure.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for DELL is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Dell Technologies",
+    "symbol": "DELL",
+    "exchange": "NYSE",
+    "categories": [
+      "AI & Cloud",
+      "Hardware"
+    ],
+    "timing_action": "AVOID",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "DELL",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

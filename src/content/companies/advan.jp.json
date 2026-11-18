@@ -1,0 +1,24 @@
+{
+  "id": "advan.jp",
+  "title": "Advantest",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/advan.jp.md",
+  "sourceHash": "2f9656b69357312fd6f444449ba09616f2bbf60fc96ace6392fb72d89fb54c7a",
+  "bodyHtml": "<p>Advantest is the world's leading manufacturer of automatic test equipment (ATE) for the semiconductor industry. As chips become more complex (e.g., NVIDIA's Blackwell), the cost and time of testing increase significantly, making Advantest a direct beneficiary of the AI hardware boom.</p>\n<p>Key technical advantages:</p>\n<ul>\n<li><strong>V93000 Platform:</strong> The industry standard for high-end SoC and memory testing.</li>\n<li><strong>HBM Testing:</strong> Critical equipment for validating HBM3e/HBM4 stacks at high speed and thermal load.</li>\n<li><strong>System-Level Test (SLT):</strong> Growing segment as hyperscalers demand exhaustive testing of custom silicon.</li>\n</ul>\n",
+  "bodyMarkdown": "Advantest is the world's leading manufacturer of automatic test equipment (ATE) for the semiconductor industry. As chips become more complex (e.g., NVIDIA's Blackwell), the cost and time of testing increase significantly, making Advantest a direct beneficiary of the AI hardware boom.\n\nKey technical advantages:\n- **V93000 Platform:** The industry standard for high-end SoC and memory testing.\n- **HBM Testing:** Critical equipment for validating HBM3e/HBM4 stacks at high speed and thermal load.\n- **System-Level Test (SLT):** Growing segment as hyperscalers demand exhaustive testing of custom silicon.",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "ADVAN.JP",
+    "name": "Advantest",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ADVAN.JP",
+  "exchange": "Not recorded",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

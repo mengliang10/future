@@ -1,0 +1,29 @@
+{
+  "id": "ericsson.se",
+  "title": "Ericsson",
+  "summary": "Swedish radio-access vendor whose research agenda is set by 6G.",
+  "sector": "cyber",
+  "sourceCategory": "Cybersecurity",
+  "sourcePath": "_stocks/ericsson.se.md",
+  "sourceHash": "a153eea0f9095ee03eb885ac437cd51076f0bcb2bc193d271fe1a32ba4c918d3",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Ericsson supplies mobile network infrastructure and derives most revenue from a handful of large operators. Its research spend is directed at 6G, AI-native radio and network APIs, bets that pay off only if operators find new revenue. The business is cyclical and geographically concentrated, with US and Indian operators driving volume.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Radio access networks.</li>\n<li>Network APIs and 6G research.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Operator capex recovery.</li>\n<li>Conversion of network APIs into revenue.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nEricsson supplies mobile network infrastructure and derives most revenue from a handful of large operators. Its research spend is directed at 6G, AI-native radio and network APIs, bets that pay off only if operators find new revenue. The business is cyclical and geographically concentrated, with US and Indian operators driving volume.\n\n## Technology Exposure\n\n- Radio access networks.\n- Network APIs and 6G research.\n\n## What To Watch\n\n- Operator capex recovery.\n- Conversion of network APIs into revenue.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Ericsson",
+    "symbol": "ERIC-B.ST",
+    "exchange": "OMX",
+    "categories": [
+      "Cybersecurity"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "ERIC-B.ST",
+  "exchange": "OMX",
+  "private": false,
+  "businessMeaning": "Telecom equipment is a scale business; the strategic question is whether APIs create a second revenue line.",
+  "investmentLens": "A cyclical with a research option; not an AI beneficiary in the near term."
+}

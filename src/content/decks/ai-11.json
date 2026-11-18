@@ -1,0 +1,25 @@
+{
+  "id": "ai-11",
+  "title": "AI & Computing — Briefing 11",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "chemo-mechanical-stability-research",
+    "chronic-disease-monitoring",
+    "chronic-genetic-disease-treatment",
+    "circuit-level-optimization",
+    "circular-economy-production",
+    "claude-mythos-preview",
+    "claude-mythos",
+    "cleanable-laser-release-layer",
+    "climate-change-solutions",
+    "clinical-trials",
+    "closed-loop-physical-digital-systems",
+    "cloud-hyperscaler-infrastructure"
+  ]
+}

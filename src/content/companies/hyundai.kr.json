@@ -1,0 +1,29 @@
+{
+  "id": "hyundai.kr",
+  "title": "Hyundai Motor",
+  "summary": "Global automaker scaling EVs, hydrogen and robotics from a Korean manufacturing base.",
+  "sector": "autonomous",
+  "sourceCategory": "Autonomous",
+  "sourcePath": "_stocks/hyundai.kr.md",
+  "sourceHash": "83a70ad1ea831cd3123dcd7bb52ddf5383ca82ac542b7b83fe403a7334ddd5eb",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Hyundai sells more electric vehicles than most legacy automakers and has paired that with hydrogen fuel-cell programmes and majority ownership of Boston Dynamics. Its US plant in Georgia began production to qualify for local-content incentives. The company is a test of whether a fast-following automaker can hold margin while funding three expensive transitions at once.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>EV platforms and batteries.</li>\n<li>Hydrogen fuel cells and robotics through Boston Dynamics.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>EV margin after incentives.</li>\n<li>Progress on hydrogen infrastructure economics.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nHyundai sells more electric vehicles than most legacy automakers and has paired that with hydrogen fuel-cell programmes and majority ownership of Boston Dynamics. Its US plant in Georgia began production to qualify for local-content incentives. The company is a test of whether a fast-following automaker can hold margin while funding three expensive transitions at once.\n\n## Technology Exposure\n\n- EV platforms and batteries.\n- Hydrogen fuel cells and robotics through Boston Dynamics.\n\n## What To Watch\n\n- EV margin after incentives.\n- Progress on hydrogen infrastructure economics.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Hyundai Motor",
+    "symbol": "005380.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Autonomous"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "005380.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "For fleet buyers, total cost per vehicle including energy and residual value matters more than powertrain label.",
+  "investmentLens": "A cyclical automaker with credible technology optionality; the robotics stake is the wildcard."
+}

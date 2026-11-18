@@ -1,0 +1,29 @@
+{
+  "id": "smr",
+  "title": "NuScale Power Corporation",
+  "summary": "",
+  "sector": "other",
+  "sourceCategory": "Nuclear Energy",
+  "sourcePath": "_stocks/smr.md",
+  "sourceHash": "34a53c7298486d577e502e83b8ddc0945541b44c3b0e91aa28505da30dbe3e2d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>NuScale Power is developing the world's first NRC-approved small modular reactor design. SMRs are the answer to the AI era's power problem: data centres need reliable, carbon-free baseload that wind and solar cannot provide. NuScale's VOYGR plant design can be factory-built and deployed in 3 years vs 10+ for traditional nuclear: changing the economics entirely.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>NRC Approval:</strong> Only SMR design with full NRC design certification: a multi-year regulatory moat.</li>\n<li><strong>AI Data Centre Demand:</strong> Microsoft, Google, and Amazon all exploring nuclear for data centre baseload power.</li>\n<li><strong>Export Potential:</strong> Romania, Poland, and Philippines are evaluating NuScale deployments.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Project Cancellations:</strong> UAMPS Carbon Free Power Project cancellation (2023) highlights commercial risk.</li>\n<li><strong>Pre-Revenue:</strong> No deployed plants; revenue is licensing and services: cash burn until first deployment.</li>\n</ul>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Small Modular Reactor (<300MWe)</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2029</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">Factory-built modular reactors: NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; GE Vernova's BWRX-300 is among the most commercially advanced SMR designs. Multiple purchase agreements are signed. First commercial operation targeted 2029-2031.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nNuScale Power is developing the world's first NRC-approved small modular reactor design. SMRs are the answer to the AI era's power problem: data centres need reliable, carbon-free baseload that wind and solar cannot provide. NuScale's VOYGR plant design can be factory-built and deployed in 3 years vs 10+ for traditional nuclear: changing the economics entirely.\n\n### Key Drivers\n- **NRC Approval:** Only SMR design with full NRC design certification: a multi-year regulatory moat.\n- **AI Data Centre Demand:** Microsoft, Google, and Amazon all exploring nuclear for data centre baseload power.\n- **Export Potential:** Romania, Poland, and Philippines are evaluating NuScale deployments.\n\n### Risk Factors\n- **Project Cancellations:** UAMPS Carbon Free Power Project cancellation (2023) highlights commercial risk.\n- **Pre-Revenue:** No deployed plants; revenue is licensing and services: cash burn until first deployment.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Small Modular Reactor (<300MWe)</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2029</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">Factory-built modular reactors: NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; GE Vernova's BWRX-300 is among the most commercially advanced SMR designs. Multiple purchase agreements are signed. First commercial operation targeted 2029-2031.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "NuScale Power Corporation",
+    "symbol": "SMR",
+    "exchange": "NYSE",
+    "categories": [
+      "Nuclear Energy",
+      "Future Energy"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "SMR",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

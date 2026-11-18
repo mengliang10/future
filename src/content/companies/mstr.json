@@ -1,0 +1,29 @@
+{
+  "id": "mstr",
+  "title": "MicroStrategy Inc. (Strategy)",
+  "summary": "",
+  "sector": "blockchain",
+  "sourceCategory": "Blockchain",
+  "sourcePath": "_stocks/mstr.md",
+  "sourceHash": "4401c11ed504c3eb1ff3db57b1486b78359b6d962335842e59710a29eccddf44",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>MicroStrategy is a leveraged Bitcoin holding vehicle with a software business attached. CEO Michael Saylor's thesis: borrow at low fixed rates, buy Bitcoin, hold forever. The premium-to-NAV is a feature, not a bug: it reflects equity holders' conviction in the strategy. MSTR is the only way to get levered Bitcoin exposure inside a regulated equity account.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>BTC Accumulation:</strong> 214,000+ BTC on balance sheet (May 2025). Every equity raise = more BTC.</li>\n<li><strong>Institutional Wrapper:</strong> S&amp;P 500 / Nasdaq-100 inclusion = passive fund buying = price support.</li>\n<li><strong>Leverage Amplification:</strong> 2–3× Bitcoin beta in bull markets as premium expands.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Forced Liquidation Risk:</strong> If BTC falls below debt covenants, selling pressure compounds.</li>\n<li><strong>Premium Collapse:</strong> In bear markets the NAV premium inverts: massive drawdowns.</li>\n</ul>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Bitcoin Proof-of-Work Blockchain</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">First decentralized permissionless monetary ledger; 15+ years continuous uptime</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Marathon is a Bitcoin miner. Revenue is direct function of Bitcoin price and network hashrate. Margin depends on energy cost per hash. This is a leveraged Bitcoin position with operational execution risk.</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-lead\">&#9650; LEADING · 95%</span> <span class=\"roadmap-rivals-sep\">vs <a href=\"/companies/coin/\">COIN</a> 88% · <a href=\"/companies/mara/\">MARA</a> 85%</span></div>\n</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-lead\">↑ LEADING · 95%</span> <span class=\"roadmap-rivals-sep\">vs <a href=\"/companies/coin/\">COIN</a> 88% · <a href=\"/companies/mara/\">MARA</a> 85%</span></div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nMicroStrategy is a leveraged Bitcoin holding vehicle with a software business attached. CEO Michael Saylor's thesis: borrow at low fixed rates, buy Bitcoin, hold forever. The premium-to-NAV is a feature, not a bug: it reflects equity holders' conviction in the strategy. MSTR is the only way to get levered Bitcoin exposure inside a regulated equity account.\n\n### Key Drivers\n- **BTC Accumulation:** 214,000+ BTC on balance sheet (May 2025). Every equity raise = more BTC.\n- **Institutional Wrapper:** S&P 500 / Nasdaq-100 inclusion = passive fund buying = price support.\n- **Leverage Amplification:** 2–3× Bitcoin beta in bull markets as premium expands.\n\n### Risk Factors\n- **Forced Liquidation Risk:** If BTC falls below debt covenants, selling pressure compounds.\n- **Premium Collapse:** In bear markets the NAV premium inverts: massive drawdowns.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Bitcoin Proof-of-Work Blockchain</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">First decentralized permissionless monetary ledger; 15+ years continuous uptime</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Marathon is a Bitcoin miner. Revenue is direct function of Bitcoin price and network hashrate. Margin depends on energy cost per hash. This is a leveraged Bitcoin position with operational execution risk.</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-lead\">&#9650; LEADING · 95%</span> <span class=\"roadmap-rivals-sep\">vs <a href=\"/future/stocks/coin/\">COIN</a> 88% · <a href=\"/future/stocks/mara/\">MARA</a> 85%</span></div>\n</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-lead\">↑ LEADING · 95%</span> <span class=\"roadmap-rivals-sep\">vs <a href=\"/future/stocks/coin/\">COIN</a> 88% · <a href=\"/future/stocks/mara/\">MARA</a> 85%</span></div>\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "MicroStrategy Inc. (Strategy)",
+    "symbol": "MSTR",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Blockchain",
+      "Bitcoin"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "MSTR",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

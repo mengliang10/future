@@ -1,0 +1,30 @@
+{
+  "id": "lazr",
+  "title": "Luminar Technologies",
+  "summary": "",
+  "sector": "other",
+  "sourceCategory": "Robotics & Auto",
+  "sourcePath": "_stocks/lazr.md",
+  "sourceHash": "76128f586115f8ee7adaa7ab5e41906b7485293610c5b3dc18b59801df3467b9",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Detailed fundamental analysis and growth catalysts for Luminar Technologies (LAZR) are currently under review.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Solid-State LiDAR</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2025</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">Compact, low-cost LiDAR without spinning parts: Luminar Iris, Innoviz One</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Luminar Iris is the solid-state LiDAR product targeting automotive OEM integration. Volvo, Mercedes, and Airbus are customers. Transition from spinning to solid-state is the structural catalyst.</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY · 88%</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nDetailed fundamental analysis and growth catalysts for Luminar Technologies (LAZR) are currently under review.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Solid-State LiDAR</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2025</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">Compact, low-cost LiDAR without spinning parts: Luminar Iris, Innoviz One</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Luminar Iris is the solid-state LiDAR product targeting automotive OEM integration. Volvo, Mercedes, and Airbus are customers. Transition from spinning to solid-state is the structural catalyst.</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY · 88%</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Luminar Technologies",
+    "symbol": "LAZR",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Robotics & Auto"
+    ],
+    "node_count": 1,
+    "timing_action": "N/A",
+    "regime": "N/A"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "LAZR",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

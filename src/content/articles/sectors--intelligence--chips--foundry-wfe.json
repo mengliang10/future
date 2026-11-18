@@ -1,0 +1,13 @@
+{
+  "id": "sectors--intelligence--chips--foundry-wfe",
+  "title": "Foundry & WFE",
+  "summary": "",
+  "sourcePath": "sectors/intelligence/chips/foundry-wfe.md",
+  "sourceHash": "9394bf10c241ff40c559a6e867588b425bc6faa869c075449a1101ff5c0458fe",
+  "bodyHtml": "<div class=\"callout callout-info\">\n  <span class=\"callout-icon\">&#8594;</span>\n  <span>This content has been merged into <a href=\"/sectors/semiconductors/\">Advanced Semiconductors</a>.</span>\n</div>",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "Foundry & WFE",
+    "permalink": "/sectors/intelligence/chips/foundry-wfe/"
+  }
+}

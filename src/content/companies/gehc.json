@@ -1,0 +1,28 @@
+{
+  "id": "gehc",
+  "title": "GE HealthCare Technologies Inc.",
+  "summary": "",
+  "sector": "biotech",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/gehc.md",
+  "sourceHash": "3454caf7361c74c4d8b3856cac7be808b7e5e0a225c38251db400dd9a1196b99",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>GE HealthCare is a global leader in medical imaging and diagnostics. They are aggressively integrating AI into their scanners (MRI, CT) to improve image quality and diagnostic speed. The use of &quot;Synthetic Medical Data&quot; allows them to train more robust and unbiased models, particularly in rare diseases or underrepresented patient populations.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Synthetic Medical Data Generation</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Using generative AI to fill data gaps enables GEHC to deliver higher diagnostic accuracy and more personalized patient care.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Inference at Edge</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Local AI processing on imaging hardware reduces latency and ensures patient data privacy during real-time diagnostics.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nGE HealthCare is a global leader in medical imaging and diagnostics. They are aggressively integrating AI into their scanners (MRI, CT) to improve image quality and diagnostic speed. The use of \"Synthetic Medical Data\" allows them to train more robust and unbiased models, particularly in rare diseases or underrepresented patient populations.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Synthetic Medical Data Generation</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Using generative AI to fill data gaps enables GEHC to deliver higher diagnostic accuracy and more personalized patient care.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">AI Inference at Edge</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Local AI processing on imaging hardware reduces latency and ensures patient data privacy during real-time diagnostics.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "GE HealthCare Technologies Inc.",
+    "symbol": "GEHC",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech",
+      "AI"
+    ]
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "GEHC",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

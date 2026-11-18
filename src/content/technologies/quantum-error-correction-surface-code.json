@@ -1,0 +1,43 @@
+{
+  "id": "quantum-error-correction-surface-code",
+  "title": "Quantum Error Correction (Surface Code)",
+  "summary": "Logical qubit from many physical; ~1000 physical per logical qubit needed",
+  "sector": "quantum",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_tech/quantum-error-correction-surface-code.md",
+  "sourceHash": "f3953944992d1a8b08b279cf72653f716280812a17a43d64ede621329abb326a",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Logical qubit from many physical; ~1000 physical per logical qubit needed.</p>\n<p>Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks <strong>63 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Synthesis and Optimization of Encoding Circuits for Fault-Tolerant Qua | rel=0.72 | uid:d19725afe11a70b2</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Prototype</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.16</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2026–2032</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (2027–2028)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>63</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/fault-tolerant-quantum-1000q/\">Fault-Tolerant QC (1000 Logical Qubits)</a></li>\n<li><a href=\"/tech/nvidia-ising-models/\">Nvidia Ising Models</a></li>\n<li><a href=\"/tech/superconducting-qubit/\">Superconducting Qubit</a></li>\n<li><a href=\"/tech/topological-qubit/\">Topological Qubit (Majorana Fermion)</a></li>\n<li><a href=\"/tech/trapped-ion-qubit/\">Trapped Ion Qubit</a></li>\n</ul>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/post-quantum-crypto-deployed/\">PQC Enterprise Deployment</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/ibm/\">IBM</a>  <a href=\"/companies/msft/\">MSFT</a>  <a href=\"/companies/nvda/\">NVDA</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nLogical qubit from many physical; ~1000 physical per logical qubit needed.\n\nWorking prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **63 independent sources** on this technology.\n\n> RSS:Synthesis and Optimization of Encoding Circuits for Fault-Tolerant Qua | rel=0.72 | uid:d19725afe11a70b2\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Prototype** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.16** |\n| Estimated Deployment | **2026–2032** |\n| Horizon | Near-Term (2027–2028) |\n| Independent Sources Tracked | 63 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Fault-Tolerant QC (1000 Logical Qubits)](/future/tech/fault-tolerant-quantum-1000q/)\n- [Nvidia Ising Models](/future/tech/nvidia-ising-models/)\n- [Superconducting Qubit](/future/tech/superconducting-qubit/)\n- [Topological Qubit (Majorana Fermion)](/future/tech/topological-qubit/)\n- [Trapped Ion Qubit](/future/tech/trapped-ion-qubit/)\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [PQC Enterprise Deployment](/future/tech/post-quantum-crypto-deployed/)\n\n## Investment Exposure\n\n[IBM](/future/stocks/ibm/)  [MSFT](/future/stocks/msft/)  [NVDA](/future/stocks/nvda/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Quantum Error Correction (Surface Code)",
+    "subtitle": "Logical qubit from many physical; ~1000 physical per logical qubit needed",
+    "category": "Quantum",
+    "stage": "prototype",
+    "confidence_label": "Speculative",
+    "est_year": 2028,
+    "est_year_range": "2026–2032",
+    "horizon": "Near-Term (2027–2028)",
+    "source_count": 63,
+    "stocks": [
+      "IBM",
+      "MSFT",
+      "NVDA"
+    ],
+    "permalink": "/tech/quantum-error-correction-surface-code/"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "prototype",
+  "confidenceLabel": "Speculative",
+  "estimate": "2026–2032",
+  "estimateYear": 2028,
+  "sourceCount": 63,
+  "companies": [
+    "ibm",
+    "msft",
+    "nvda"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

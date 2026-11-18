@@ -1,0 +1,29 @@
+{
+  "id": "plug",
+  "title": "Plug Power",
+  "summary": "",
+  "sector": "energy",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_stocks/plug.md",
+  "sourceHash": "97a26618347cced0b45974fde066355376d184b892837485f2fbceaa8e0deb0a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Green hydrogen and fuel cell infrastructure; long-duration storage and hard-to-electrify sectors.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for PLUG is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nGreen hydrogen and fuel cell infrastructure; long-duration storage and hard-to-electrify sectors.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for PLUG is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Plug Power",
+    "symbol": "PLUG",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Energy Tech"
+    ],
+    "timing_action": "HALF",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "PLUG",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "china-generative-ai-measures",
+  "title": "China's generative AI measures",
+  "summary": "The filing and content regime that governs public generative AI services in China.",
+  "sector": "policy",
+  "sourceCategory": "Regulatory & Policy",
+  "sourcePath": "_tech/china-generative-ai-measures.md",
+  "sourceHash": "5045c3bf7ebdb99c60c1e24a918fbbc40e3701a1eea50bcc2f319fbc8b63d908",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Interim Measures for the Management of Generative AI Services took effect on 15 August 2023. They require providers of services to the Chinese public to file algorithms, undergo a security assessment where required, and ensure training data and outputs comply with content rules. A labelling regime for AI-generated content took effect on 1 September 2025. The practical effect is that consumer-facing model services operate under licence, while enterprise and open-weight distribution sit in a greyer zone.</p>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development stage</td>\n<td><strong>Mass production</strong></td>\n</tr>\n<tr>\n<td>Estimated window</td>\n<td><strong>2023–2026</strong></td>\n</tr>\n<tr>\n<td>Confidence label</td>\n<td>Confirmed</td>\n</tr>\n<tr>\n<td>Evidence</td>\n<td>Editorial synthesis of company, agency and press reporting</td>\n</tr>\n<tr>\n<td>Compiled</td>\n<td>18 November 2026</td>\n</tr>\n</tbody>\n</table>\n<h2>Related records</h2>\n<h2>Investment Exposure</h2>\n<p>For foreign firms, the regime makes China a separate product line with its own model, data and content review, not an extension of a global API.</p>\n<h2>What Would Change The View</h2>\n<ul>\n<li>Enforcement against open-weight redistribution.</li>\n<li>Whether filing becomes a de facto market-entry barrier.</li>\n<li>Cross-border data rules for enterprise deployments.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nInterim Measures for the Management of Generative AI Services took effect on 15 August 2023. They require providers of services to the Chinese public to file algorithms, undergo a security assessment where required, and ensure training data and outputs comply with content rules. A labelling regime for AI-generated content took effect on 1 September 2025. The practical effect is that consumer-facing model services operate under licence, while enterprise and open-weight distribution sit in a greyer zone.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development stage | **Mass production** |\n| Estimated window | **2023–2026** |\n| Confidence label | Confirmed |\n| Evidence | Editorial synthesis of company, agency and press reporting |\n| Compiled | 18 November 2026 |\n\n## Related records\n\n\n## Investment Exposure\n\nFor foreign firms, the regime makes China a separate product line with its own model, data and content review, not an extension of a global API.\n\n## What Would Change The View\n\n- Enforcement against open-weight redistribution.\n- Whether filing becomes a de facto market-entry barrier.\n- Cross-border data rules for enterprise deployments.\n\n## Record Notes\n\nEditorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "China's generative AI measures",
+    "subtitle": "The filing and content regime that governs public generative AI services in China.",
+    "category": "Regulatory & Policy",
+    "stage": "mass_production",
+    "confidence_label": "Confirmed",
+    "est_year": 2023,
+    "est_year_range": "2023–2026",
+    "horizon": "Near-Term (through 2028)",
+    "source_count": 0,
+    "stocks": [],
+    "permalink": "/tech/china-generative-ai-measures/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "stage": "mass_production",
+  "confidenceLabel": "Confirmed",
+  "estimate": "2023–2026",
+  "estimateYear": 2023,
+  "companies": [
+    "alibaba.hk",
+    "deepseek.pvt",
+    "moonshot.pvt"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

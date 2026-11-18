@@ -1,0 +1,13 @@
+{
+  "id": "sectors--intelligence--chips--chipbook",
+  "title": "ChipBook & Core Research",
+  "summary": "",
+  "sourcePath": "sectors/intelligence/chips/chipbook.md",
+  "sourceHash": "59b18a65b8fc90574b00ce69bf574812dc92f2692bcb398962c3118b51025378",
+  "bodyHtml": "<div class=\"callout callout-info\">\n  <span class=\"callout-icon\">&#8594;</span>\n  <span>This content has been merged into <a href=\"/sectors/semiconductors/\">Advanced Semiconductors</a>.</span>\n</div>",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "ChipBook & Core Research",
+    "permalink": "/sectors/intelligence/chips/chipbook/"
+  }
+}

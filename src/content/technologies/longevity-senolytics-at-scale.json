@@ -1,0 +1,31 @@
+{
+  "id": "longevity-senolytics-at-scale",
+  "title": "Longevity (Senolytics at Scale)",
+  "summary": "",
+  "sector": "biotech",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_tech/longevity-senolytics-at-scale.md",
+  "sourceHash": "a65baa59d831a07cb2305584af4ffcfbcbcae2ce8fb90a6c7674e5d24c89f146",
+  "bodyHtml": "<p>Senolytics is a class of small molecules or therapies that selectively induce death in &quot;senescent&quot; cells (zombie cells that stop dividing but don't die). As we age, these cells accumulate and drive chronic inflammation and tissue degeneration.</p>\n<p>Key attributes:</p>\n<ul>\n<li><strong>Selective Clearance:</strong> Targeting specific metabolic pathways unique to senescent cells (e.g., Bcl-2 inhibitors).</li>\n<li><strong>Systemic Rejuvenation:</strong> Potential to treat multiple age-related diseases simultaneously by addressing a root cause of aging.</li>\n<li><strong>Implementation:</strong> Moving from niche supplements to FDA-approved clinical protocols for specific indications (e.g., osteoarthritis, kidney disease).</li>\n<li><strong>Unlocks:</strong> Extension of healthy human lifespan and reduction in global healthcare burden.</li>\n</ul>\n",
+  "bodyMarkdown": "Senolytics is a class of small molecules or therapies that selectively induce death in \"senescent\" cells (zombie cells that stop dividing but don't die). As we age, these cells accumulate and drive chronic inflammation and tissue degeneration.\n\nKey attributes:\n- **Selective Clearance:** Targeting specific metabolic pathways unique to senescent cells (e.g., Bcl-2 inhibitors).\n- **Systemic Rejuvenation:** Potential to treat multiple age-related diseases simultaneously by addressing a root cause of aging.\n- **Implementation:** Moving from niche supplements to FDA-approved clinical protocols for specific indications (e.g., osteoarthritis, kidney disease).\n- **Unlocks:** Extension of healthy human lifespan and reduction in global healthcare burden.",
+  "sourceMeta": {
+    "layout": "tech",
+    "id": "longevity-senolytics-at-scale",
+    "name": "Longevity (Senolytics at Scale)",
+    "category": "Biotech",
+    "status": "pilot",
+    "est_year": 2026,
+    "est_year_range": "2026\u20132030",
+    "horizon": "Near-Term (2026\u20132030)"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "pilot",
+  "confidenceLabel": "Not classified",
+  "estimate": "2026\u20132030",
+  "estimateYear": 2026,
+  "sourceCount": null,
+  "companies": [],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

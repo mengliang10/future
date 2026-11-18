@@ -1,0 +1,29 @@
+{
+  "id": "astroscale.jp",
+  "title": "Astroscale",
+  "summary": "In-orbit servicing company that inspects and removes defunct satellites.",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/astroscale.jp.md",
+  "sourceHash": "6cb97e9c079379ecd76de4d3902cb21268e0b02efb022608da6841d512753dd5",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Astroscale flew a demonstration mission in 2024 that rendezvoused with and inspected a derelict upper stage, a prerequisite for docking and removal. Governments and insurers are the natural customers, since debris risk is a shared cost that no single operator will pay to solve alone. Revenue depends on institutional contracts.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Debris inspection and removal services.</li>\n<li>Life-extension and servicing spacecraft.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Government contract awards.</li>\n<li>Technical readiness for docking with tumbling objects.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAstroscale flew a demonstration mission in 2024 that rendezvoused with and inspected a derelict upper stage, a prerequisite for docking and removal. Governments and insurers are the natural customers, since debris risk is a shared cost that no single operator will pay to solve alone. Revenue depends on institutional contracts.\n\n## Technology Exposure\n\n- Debris inspection and removal services.\n- Life-extension and servicing spacecraft.\n\n## What To Watch\n\n- Government contract awards.\n- Technical readiness for docking with tumbling objects.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Astroscale",
+    "symbol": "186A.T",
+    "exchange": "TSE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "186A.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Debris is a commons problem; the paying customer is a regulator or insurer, not the satellite owner.",
+  "investmentLens": "Policy-backed revenue with long sales cycles; track contract announcements, not launch dates."
+}

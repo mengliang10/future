@@ -1,0 +1,29 @@
+{
+  "id": "bksy",
+  "title": "BlackSky Technology",
+  "summary": "",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/bksy.md",
+  "sourceHash": "54d9f2489958928082004cf8ae7ed88c7c7c77e3752d56b2608b1e81e55d8996",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Real-time geospatial intelligence from low-latency satellite constellation; defence and analytics customer base.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for BKSY is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nReal-time geospatial intelligence from low-latency satellite constellation; defence and analytics customer base.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for BKSY is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "BlackSky Technology",
+    "symbol": "BKSY",
+    "exchange": "NYSE",
+    "categories": [
+      "Space Tech"
+    ],
+    "timing_action": "FULL",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "BKSY",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

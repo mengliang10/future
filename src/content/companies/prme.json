@@ -1,0 +1,24 @@
+{
+  "id": "prme",
+  "title": "Prime Medicine",
+  "summary": "",
+  "sector": "biotech",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/prme.md",
+  "sourceHash": "f9a9de6ea43f2e812c32ff600811acbf5d5aff4c5355b204ff69d98fb56e1e49",
+  "bodyHtml": "<p>Prime Medicine is pioneering &quot;Prime Editing,&quot; a precise gene-editing technology often called &quot;search-and-replace&quot; for the genome. Unlike traditional CRISPR-Cas9 which makes double-strand breaks, Prime Editing can make any type of base substitution, insertion, or deletion without breaking the DNA backbone, significantly reducing off-target risks.</p>\n<p>Key technical advantages:</p>\n<ul>\n<li><strong>Prime Editing IP:</strong> Foundational IP for the next generation of gene editing beyond Cas9.</li>\n<li><strong>Versatility:</strong> Capable of correcting ~90% of known disease-causing genetic mutations.</li>\n<li><strong>Precision:</strong> Minimal unintended insertions or deletions (indels) compared to earlier technologies.</li>\n</ul>\n",
+  "bodyMarkdown": "Prime Medicine is pioneering \"Prime Editing,\" a precise gene-editing technology often called \"search-and-replace\" for the genome. Unlike traditional CRISPR-Cas9 which makes double-strand breaks, Prime Editing can make any type of base substitution, insertion, or deletion without breaking the DNA backbone, significantly reducing off-target risks.\n\nKey technical advantages:\n- **Prime Editing IP:** Foundational IP for the next generation of gene editing beyond Cas9.\n- **Versatility:** Capable of correcting ~90% of known disease-causing genetic mutations.\n- **Precision:** Minimal unintended insertions or deletions (indels) compared to earlier technologies.",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "PRME",
+    "name": "Prime Medicine",
+    "sector": "Biotech"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "PRME",
+  "exchange": "Not recorded",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

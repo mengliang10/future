@@ -1,0 +1,29 @@
+{
+  "id": "qubt",
+  "title": "Quantum Computing Inc.",
+  "summary": "",
+  "sector": "quantum",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/qubt.md",
+  "sourceHash": "fbe33656b4a9a00b7530d444ac9c70011060092283fa76c26276adbf16934957",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Quantum Computing Inc. develops quantum-ready software and hardware acceleration.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for QUBT is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nQuantum Computing Inc. develops quantum-ready software and hardware acceleration.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for QUBT is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Quantum Computing Inc.",
+    "symbol": "QUBT",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Quantum"
+    ],
+    "timing_action": "HALF",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "QUBT",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

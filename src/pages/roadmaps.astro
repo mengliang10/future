@@ -1,0 +1,5 @@
+---
+import Site from '../layouts/Site.astro';import TimelineMap from '../components/TimelineMap.astro';import {records} from '../lib/catalogue';
+const [technologies,sectors]=await Promise.all([records('technologies'),records('sectors')]);const dated=technologies.filter(t=>t.estimateYear!==null).length;
+---
+<Site title="Technology horizons" active="Roadmaps"><div class="container page"><header class="timeline-intro"><span class="visual-kicker">The horizon explorer</span><h1>Explore when.<br/><em>Question why.</em></h1><p>Trace the technology landscape through source-estimated years. Select a sector and horizon to uncover the research behind the number.</p><div class="timeline-totals"><span><b>{dated}</b> records with a year</span><span><b>{technologies.length-dated}</b> without a recorded year</span></div><span class="visual-caption">Estimates describe source assumptions, not verified milestones or forecasts.</span></header><TimelineMap technologies={technologies} sectors={sectors}/></div></Site>

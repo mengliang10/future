@@ -1,0 +1,14 @@
+{
+  "id": "cyber-02",
+  "title": "Cybersecurity — Briefing 02",
+  "sector": "cyber",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "zero-trust-security-architecture"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "unitree.pvt",
+  "title": "Unitree Robotics",
+  "summary": "Low-cost quadruped and humanoid robot maker that set the price benchmark for embodied AI hardware.",
+  "sector": "robotics",
+  "sourceCategory": "Robotics & Automation",
+  "sourcePath": "_stocks/unitree.pvt.md",
+  "sourceHash": "dee2a7a54d0682f51e435b3e31da42870326f843a086399045b8083532569848",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Unitree sells quadruped robots and humanoids at prices that undercut Western and Japanese alternatives by an order of magnitude, with its G1 humanoid launched at roughly US$16,000. The company began a domestic listing process in 2025. Its robots are widely used in research labs, which makes it the de facto hardware standard for embodied-AI experiments outside the largest corporate labs.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Affordable humanoid and quadruped platforms for research.</li>\n<li>Actuators and control stacks for embodied AI.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Durability and safety in commercial deployment.</li>\n<li>Whether low prices survive component and tariff pressure.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nUnitree sells quadruped robots and humanoids at prices that undercut Western and Japanese alternatives by an order of magnitude, with its G1 humanoid launched at roughly US$16,000. The company began a domestic listing process in 2025. Its robots are widely used in research labs, which makes it the de facto hardware standard for embodied-AI experiments outside the largest corporate labs.\n\n## Technology Exposure\n\n- Affordable humanoid and quadruped platforms for research.\n- Actuators and control stacks for embodied AI.\n\n## What To Watch\n\n- Durability and safety in commercial deployment.\n- Whether low prices survive component and tariff pressure.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Unitree Robotics",
+    "symbol": "UNITREE.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Robotics & Automation"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "UNITREE.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Cheap hardware changes the research economics: more labs can run physical experiments, which accelerates the software layer.",
+  "investmentLens": "Watch commercial deployment beyond labs; research units are a narrow market with limited repeat demand."
+}

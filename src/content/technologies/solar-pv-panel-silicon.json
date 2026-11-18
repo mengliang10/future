@@ -1,0 +1,39 @@
+{
+  "id": "solar-pv-panel-silicon",
+  "title": "Solar PV Panel (Silicon)",
+  "summary": "Photovoltaic conversion of sunlight; ~25% commercial efficiency, <$0.20/W",
+  "sector": "energy",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_tech/solar-pv-panel-silicon.md",
+  "sourceHash": "bd07a8ce665af85dcd820681b61cede071fcb5645c33e02df9287a86876ff904",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Photovoltaic conversion of sunlight; ~25% commercial efficiency, &lt;$0.20/W. <strong>Achieved.</strong></p>\n<p>Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks <strong>6 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>Global installed solar capacity surpassed 2 TW (2025); annual installations 500+ GW/year led by China. Monocrystalline PERC and TOPCon panels at 22-25% module efficiency manufactured at $0.10-0.15/W in China. Fully mature technology deployed in 190+ countries.</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Mass Production</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-researching\">Researching</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.50</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>Ongoing / Deployed</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Deployed</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>6</td>\n</tr>\n</tbody>\n</table>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/solar-below-1cent-kwh/\">Solar &lt;$0.01/kWh LCOE</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/fslr/\">FSLR</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nPhotovoltaic conversion of sunlight; ~25% commercial efficiency, <$0.20/W. **Achieved.**\n\nDeployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **6 independent sources** on this technology.\n\n> Global installed solar capacity surpassed 2 TW (2025); annual installations 500+ GW/year led by China. Monocrystalline PERC and TOPCon panels at 22-25% module efficiency manufactured at $0.10-0.15/W in China. Fully mature technology deployed in 190+ countries.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Mass Production** |\n| Confidence Level | <span class=\"conf-badge conf-researching\">Researching</span> |\n| Confidence Score | **+0.50** |\n| Estimated Deployment | **Ongoing / Deployed** |\n| Horizon | Deployed |\n| Independent Sources Tracked | 6 |\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [Solar <$0.01/kWh LCOE](/future/tech/solar-below-1cent-kwh/)\n\n## Investment Exposure\n\n[FSLR](/future/stocks/fslr/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Solar PV Panel (Silicon)",
+    "subtitle": "Photovoltaic conversion of sunlight; ~25% commercial efficiency, <$0.20/W",
+    "category": "Energy Tech",
+    "stage": "mass_production",
+    "confidence_label": "Researching",
+    "est_year": 2024,
+    "est_year_range": "2022\u20132026",
+    "horizon": "Deployed",
+    "source_count": 6,
+    "stocks": [
+      "FSLR"
+    ],
+    "permalink": "/tech/solar-pv-panel-silicon/"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "mass_production",
+  "confidenceLabel": "Researching",
+  "estimate": "2022\u20132026",
+  "estimateYear": 2024,
+  "sourceCount": 6,
+  "companies": [
+    "fslr"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

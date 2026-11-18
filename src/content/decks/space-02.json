@@ -1,0 +1,19 @@
+{
+  "id": "space-02",
+  "title": "Space — Briefing 02",
+  "sector": "space",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "liquid-rocket-propulsion-rp-1lox",
+    "nuclear-thermal-propulsion",
+    "permanent-lunar-surface-base",
+    "rocket-first-stage-reusability",
+    "small-satellite-rideshare-launch",
+    "space-based-solar-power-sbsp"
+  ]
+}

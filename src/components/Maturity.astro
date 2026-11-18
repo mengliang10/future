@@ -1,0 +1,8 @@
+---
+import {stageGroup} from '../lib/visuals';
+const {technologies}=Astro.props;
+const groups=[{id:'research',label:'Research & proof of concept',color:'#8f82c9'},{id:'development',label:'Prototype & pilot',color:'#55a5b2'},{id:'commercial',label:'Commercial stages',color:'#cc9a50'}];
+let offset=0;
+const segments=groups.map(g=>{const count=technologies.filter(t=>stageGroup(t.stage)===g.id).length;const length=count/technologies.length*100;const segment={...g,count,length,offset};offset+=length;return segment;});
+---
+<section class="maturity-panel"><h2>Where the research stands</h2><div class="maturity-chart"><svg viewBox="0 0 120 120" role="img" aria-label={segments.map(s=>`${s.label}: ${s.count} records`).join('. ')}><circle cx="60" cy="60" r="45" fill="none" stroke="var(--line)" stroke-width="11"/>{segments.map(s=><circle cx="60" cy="60" r="45" fill="none" stroke={s.color} stroke-width="11" pathLength="100" stroke-dasharray={`${s.length} ${100-s.length}`} stroke-dashoffset={-s.offset} transform="rotate(-90 60 60)"/>)}<text x="60" y="59" text-anchor="middle" class="donut-total">{technologies.length}</text><text x="60" y="75" text-anchor="middle" class="donut-label">RECORDS</text></svg></div><ul class="maturity-legend">{segments.map(s=><li><span style={`--dot:${s.color}`} aria-hidden="true"></span><span>{s.label}</span><b>{s.count}</b></li>)}</ul><p>Grouped from source stage labels. Maturity is not a measure of investment merit.</p></section>

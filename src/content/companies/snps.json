@@ -1,0 +1,28 @@
+{
+  "id": "snps",
+  "title": "Synopsys, Inc.",
+  "summary": "",
+  "sector": "other",
+  "sourceCategory": "AI",
+  "sourcePath": "_stocks/snps.md",
+  "sourceHash": "233e1add2d852e998d854dc54e05a8301313ffd6a3c856b3ed37840f08513233",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Synopsys is the largest EDA vendor by revenue, holding a near-duopoly with Cadence. Their acquisition of ANSYS deepens their exposure to system-level simulation (electronics + physical). They are a primary beneficiary of the custom silicon trend, as companies like Microsoft, Amazon, and Meta use Synopsys tools to design their in-house AI chips.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Agentic RTL Verification</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Synopsys.ai is the industry's first full-stack AI-driven EDA suite, directly tackling verification bottlenecks.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Chiplet / Disaggregated Architecture</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Synopsys provides the UCIe IP and simulation tools required for the massive industry shift toward chiplet-based designs.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nSynopsys is the largest EDA vendor by revenue, holding a near-duopoly with Cadence. Their acquisition of ANSYS deepens their exposure to system-level simulation (electronics + physical). They are a primary beneficiary of the custom silicon trend, as companies like Microsoft, Amazon, and Meta use Synopsys tools to design their in-house AI chips.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Agentic RTL Verification</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">2026</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Synopsys.ai is the industry's first full-stack AI-driven EDA suite, directly tackling verification bottlenecks.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Chiplet / Disaggregated Architecture</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Synopsys provides the UCIe IP and simulation tools required for the massive industry shift toward chiplet-based designs.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Synopsys, Inc.",
+    "symbol": "SNPS",
+    "exchange": "NASDAQ",
+    "categories": [
+      "AI",
+      "Semiconductors"
+    ]
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "SNPS",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "beam",
+  "title": "Beam Therapeutics Inc.",
+  "summary": "",
+  "sector": "biotech",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/beam.md",
+  "sourceHash": "6027ec80bb2f02408a009c37f41e4982d94ff7b1901f5cd97d889a486286de9b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Beam Therapeutics uses base editing: a more precise version of CRISPR that makes single-letter DNA changes without cutting the double helix. This dramatically reduces off-target effects and opens a wider range of disease targets. Beam's technology was developed from the Broad Institute's foundational research; their partnership with Pfizer validates the platform.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>Base Editing Precision:</strong> Targets single base pairs without DNA double-strand breaks: safer, more precise than classical CRISPR.</li>\n<li><strong>Pfizer Partnership:</strong> $300M+ collaboration provides validation, capital, and potential milestone payments.</li>\n<li><strong>Sickle Cell + Liver Disease Pipeline:</strong> Multiple programs targeting high-unmet-need diseases with clear regulatory precedent.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Clinical Stage Risk:</strong> No approved products; every IND filing is a binary event.</li>\n<li><strong>Cash Runway:</strong> Pre-revenue company managing burn across multiple clinical programs.</li>\n</ul>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">CRISPR Base Editing</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">Single base pair correction without double-strand breaks: David Liu, Beam Tx</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Beam's base editing technology makes single-nucleotide corrections without cutting DNA: potentially safer than traditional CRISPR. Multiple pipeline programs in development.</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY · 95%</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nBeam Therapeutics uses base editing: a more precise version of CRISPR that makes single-letter DNA changes without cutting the double helix. This dramatically reduces off-target effects and opens a wider range of disease targets. Beam's technology was developed from the Broad Institute's foundational research; their partnership with Pfizer validates the platform.\n\n### Key Drivers\n- **Base Editing Precision:** Targets single base pairs without DNA double-strand breaks: safer, more precise than classical CRISPR.\n- **Pfizer Partnership:** $300M+ collaboration provides validation, capital, and potential milestone payments.\n- **Sickle Cell + Liver Disease Pipeline:** Multiple programs targeting high-unmet-need diseases with clear regulatory precedent.\n\n### Risk Factors\n- **Clinical Stage Risk:** No approved products; every IND filing is a binary event.\n- **Cash Runway:** Pre-revenue company managing burn across multiple clinical programs.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">CRISPR Base Editing</span>\n<span class=\"conf-badge conf-confident\">Confident</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-desc\">Single base pair correction without double-strand breaks: David Liu, Beam Tx</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; Beam's base editing technology makes single-nucleotide corrections without cutting DNA: potentially safer than traditional CRISPR. Multiple pipeline programs in development.</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY · 95%</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>\n\n\n<div class=\"roadmap-stock-item-race\"><span class=\"race-badge race-mono\">MONOPOLY</span> <span class=\"roadmap-rivals-sep\">no direct rivals identified</span></div>\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Beam Therapeutics Inc.",
+    "symbol": "BEAM",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech",
+      "Gene Editing"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "BEAM",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

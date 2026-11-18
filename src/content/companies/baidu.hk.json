@@ -1,0 +1,29 @@
+{
+  "id": "baidu.hk",
+  "title": "Baidu",
+  "summary": "China's search incumbent, running the largest robotaxi fleet and an open-weight ERNIE model line.",
+  "sector": "autonomous",
+  "sourceCategory": "Autonomous",
+  "sourcePath": "_stocks/baidu.hk.md",
+  "sourceHash": "f1b8584a8535909d73563c59f011a31d28cd396d3807eeb375796748b5ce0d45",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Baidu funds autonomous driving from a search and advertising business that AI assistants are steadily eroding. Apollo Go operates paid driverless rides in Wuhan and other cities, giving Baidu the largest robotaxi footprint in China, while ERNIE models were partially open-sourced in 2025 to defend developer relevance. The tension is structural: the cash engine is shrinking while the autonomy and model bets consume it.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Robotaxi operations and fleet partnerships.</li>\n<li>ERNIE models and Baidu Cloud AI infrastructure.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Apollo Go ride volume and cost per ride excluding subsidies.</li>\n<li>Search advertising decline versus AI cloud growth.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nBaidu funds autonomous driving from a search and advertising business that AI assistants are steadily eroding. Apollo Go operates paid driverless rides in Wuhan and other cities, giving Baidu the largest robotaxi footprint in China, while ERNIE models were partially open-sourced in 2025 to defend developer relevance. The tension is structural: the cash engine is shrinking while the autonomy and model bets consume it.\n\n## Technology Exposure\n\n- Robotaxi operations and fleet partnerships.\n- ERNIE models and Baidu Cloud AI infrastructure.\n\n## What To Watch\n\n- Apollo Go ride volume and cost per ride excluding subsidies.\n- Search advertising decline versus AI cloud growth.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Baidu",
+    "symbol": "9888.HK",
+    "exchange": "HKEX",
+    "categories": [
+      "Autonomous"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "9888.HK",
+  "exchange": "HKEX",
+  "private": false,
+  "businessMeaning": "Robotaxi economics hinge on safety-driver removal and vehicle cost, not on demo mileage; ask for both.",
+  "investmentLens": "The autonomy option is real but funded by a declining core; the market will re-rate on evidence of unit economics."
+}

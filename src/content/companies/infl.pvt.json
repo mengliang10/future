@@ -1,0 +1,28 @@
+{
+  "id": "infl.pvt",
+  "title": "Inflection AI",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/infl.pvt.md",
+  "sourceHash": "ea5f6d599fe24b9b1db6da0c32ba8b859746b90513dc5a691f0bf7569d9f8b8d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Inflection focuses on high-end personal AI models, leveraging massive compute clusters to push the boundaries of human-AI interaction.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nInflection focuses on high-end personal AI models, leveraging massive compute clusters to push the boundaries of human-AI interaction.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Inflection AI",
+    "symbol": "INFL.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "INFL.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

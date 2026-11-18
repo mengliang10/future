@@ -1,0 +1,29 @@
+{
+  "id": "cambricon.sh",
+  "title": "Cambricon",
+  "summary": "Chinese AI accelerator designer on the US entity list, selling mostly to state-linked buyers.",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/cambricon.sh.md",
+  "sourceHash": "4525cb391e57e7c5350021d92e0418fd3207b7c68435ea528de8a4df6e2dba18",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Cambricon designs machine-learning accelerators for cloud and edge inference. It was added to the US entity list in 2022, which cut access to advanced foundry and EDA tools, and its revenue is concentrated in government, telecom and research procurement. The company is a useful proxy for how far domestic AI silicon has progressed without access to the leading process nodes.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Domestic inference accelerators for public-sector workloads.</li>\n<li>Software stack for Chinese framework compatibility.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Revenue concentration and collection periods.</li>\n<li>Software maturity relative to CUDA.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nCambricon designs machine-learning accelerators for cloud and edge inference. It was added to the US entity list in 2022, which cut access to advanced foundry and EDA tools, and its revenue is concentrated in government, telecom and research procurement. The company is a useful proxy for how far domestic AI silicon has progressed without access to the leading process nodes.\n\n## Technology Exposure\n\n- Domestic inference accelerators for public-sector workloads.\n- Software stack for Chinese framework compatibility.\n\n## What To Watch\n\n- Revenue concentration and collection periods.\n- Software maturity relative to CUDA.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Cambricon",
+    "symbol": "688256.SH",
+    "exchange": "HKEX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "688256.SH",
+  "exchange": "HKEX",
+  "private": false,
+  "businessMeaning": "Domestic accelerators are viable for inference at moderate scale; assume a migration cost for any CUDA-dependent workload.",
+  "investmentLens": "A policy-driven revenue base with lumpy recognition; treat it as strategic exposure, not a growth compounder."
+}

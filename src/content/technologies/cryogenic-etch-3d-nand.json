@@ -1,0 +1,37 @@
+{
+  "id": "cryogenic-etch-3d-nand",
+  "title": "Cryogenic etching for 3D NAND",
+  "summary": "Etching memory holes at very low temperature to reach higher layer counts.",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_tech/cryogenic-etch-3d-nand.md",
+  "sourceHash": "94379bdde4aedb9e5c7d3f3e3c7bb3b26c937cb2c3d6b2972a1d5215d586677c",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Cryogenic etch cools the wafer far below room temperature during deep reactive-ion etching, improving profile control and throughput for the high-aspect-ratio channels in 3D NAND. Tokyo Electron has positioned the technique as a route to more than 400 layers, where conventional etch struggles to reach the bottom uniformly. The approach matters because NAND scaling now happens vertically, not laterally.</p>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development stage</td>\n<td><strong>Early commercial</strong></td>\n</tr>\n<tr>\n<td>Estimated window</td>\n<td><strong>2024–2028</strong></td>\n</tr>\n<tr>\n<td>Confidence label</td>\n<td>Confident</td>\n</tr>\n<tr>\n<td>Evidence</td>\n<td>Editorial synthesis of company, agency and press reporting</td>\n</tr>\n<tr>\n<td>Compiled</td>\n<td>18 November 2026</td>\n</tr>\n</tbody>\n</table>\n<h2>Related records</h2>\n<h2>Investment Exposure</h2>\n<p>NAND density is an etch and deposition problem as much as a lithography one, which shifts value to back-end toolmakers.</p>\n<h2>What Would Change The View</h2>\n<ul>\n<li>Adoption at major NAND makers.</li>\n<li>Cost per wafer versus conventional etch.</li>\n<li>Equipment throughput in production.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nCryogenic etch cools the wafer far below room temperature during deep reactive-ion etching, improving profile control and throughput for the high-aspect-ratio channels in 3D NAND. Tokyo Electron has positioned the technique as a route to more than 400 layers, where conventional etch struggles to reach the bottom uniformly. The approach matters because NAND scaling now happens vertically, not laterally.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development stage | **Early commercial** |\n| Estimated window | **2024–2028** |\n| Confidence label | Confident |\n| Evidence | Editorial synthesis of company, agency and press reporting |\n| Compiled | 18 November 2026 |\n\n## Related records\n\n\n## Investment Exposure\n\nNAND density is an etch and deposition problem as much as a lithography one, which shifts value to back-end toolmakers.\n\n## What Would Change The View\n\n- Adoption at major NAND makers.\n- Cost per wafer versus conventional etch.\n- Equipment throughput in production.\n\n## Record Notes\n\nEditorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Cryogenic etching for 3D NAND",
+    "subtitle": "Etching memory holes at very low temperature to reach higher layer counts.",
+    "category": "Semiconductors",
+    "stage": "early_commercial",
+    "confidence_label": "Confident",
+    "est_year": 2024,
+    "est_year_range": "2024–2028",
+    "horizon": "Near-Term (through 2028)",
+    "source_count": 0,
+    "stocks": [],
+    "permalink": "/tech/cryogenic-etch-3d-nand/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "stage": "early_commercial",
+  "confidenceLabel": "Confident",
+  "estimate": "2024–2028",
+  "estimateYear": 2024,
+  "companies": [
+    "tel.jp",
+    "hxscl"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ai-22",
+  "title": "AI & Computing — Briefing 22",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "inductor-coupling-optimization",
+    "industrial-applications",
+    "industrial-manufacturing-challenge",
+    "inference-time-compute-scaling-test-time-rl",
+    "inference-time-compute-scaling",
+    "infrastructure-monitoring",
+    "intel-amd-competitive-position",
+    "intel-classification-time",
+    "intel-foundry-18a-process",
+    "intelligence-classification-speed",
+    "intelligent-sensor-systems",
+    "interface-engineering-breakthroughs"
+  ]
+}

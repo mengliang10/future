@@ -1,0 +1,16 @@
+{
+  "id": "biotech-05",
+  "title": "Biotech & Health — Briefing 05",
+  "sector": "biotech",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "synthetic-medical-data",
+    "targeted-drug-delivery",
+    "whole-genome-sequencing-1000"
+  ]
+}

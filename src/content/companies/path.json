@@ -1,0 +1,30 @@
+{
+  "id": "path",
+  "title": "UiPath",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/path.md",
+  "sourceHash": "2f277c9d88f1ccc522abbe7e147b4a407b3b89fce4176375f6d5fbb7b909d0aa",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>UiPath is the enterprise robotic process automation (RPA) leader now pivoting to AI agent orchestration; strong installed base in regulated industries.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for PATH is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nUiPath is the enterprise robotic process automation (RPA) leader now pivoting to AI agent orchestration; strong installed base in regulated industries.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for PATH is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "UiPath",
+    "symbol": "PATH",
+    "exchange": "NYSE",
+    "categories": [
+      "AI & Cloud",
+      "Software"
+    ],
+    "timing_action": "HALF",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "PATH",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

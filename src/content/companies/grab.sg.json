@@ -1,0 +1,29 @@
+{
+  "id": "grab.sg",
+  "title": "Grab",
+  "summary": "Southeast Asian superapp combining ride-hailing, delivery and financial services.",
+  "sector": "marketing",
+  "sourceCategory": "Marketing Tech",
+  "sourcePath": "_stocks/grab.sg.md",
+  "sourceHash": "497306a658618a7d26fcc8599746e0b6415c87549dba0f2ed5ce5a51d1ba0267",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Grab operates ride-hailing, food delivery and payments across eight Southeast Asian markets, and reached adjusted profitability in 2024 after years of subsidy-driven growth. Its advantage is local density and a multi-service app that spreads acquisition cost. The constraint is that each market has strong local competitors and low consumer loyalty.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Ride-hailing and delivery marketplaces.</li>\n<li>Digital financial services.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Incentive spend as a share of gross merchandise value.</li>\n<li>Financial-services credit losses.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nGrab operates ride-hailing, food delivery and payments across eight Southeast Asian markets, and reached adjusted profitability in 2024 after years of subsidy-driven growth. Its advantage is local density and a multi-service app that spreads acquisition cost. The constraint is that each market has strong local competitors and low consumer loyalty.\n\n## Technology Exposure\n\n- Ride-hailing and delivery marketplaces.\n- Digital financial services.\n\n## What To Watch\n\n- Incentive spend as a share of gross merchandise value.\n- Financial-services credit losses.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Grab",
+    "symbol": "GRAB",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Marketing Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "GRAB",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Superapp economics depend on cross-selling; measure revenue per active user, not gross merchandise value.",
+  "investmentLens": "A marketplace at the profitability inflection; watch incentive normalisation."
+}

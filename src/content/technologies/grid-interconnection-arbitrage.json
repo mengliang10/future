@@ -1,0 +1,45 @@
+{
+  "id": "grid-interconnection-arbitrage",
+  "title": "Grid Interconnection Arbitrage",
+  "summary": "Monetizing existing baseload power and queue positions for AI data centers",
+  "sector": "energy",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_tech/grid-interconnection-arbitrage.md",
+  "sourceHash": "0cdb07156915aceda6bc31e29d06cfbe4ce3d53361ef7ef473aca9e21d4f80f5",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>The &quot;Grid Lockout&quot; of 2026 has created a massive premium for companies with existing baseload power and approved interconnection queue positions. As US grid interconnection wait times exceed 36-60 months in key regions (PJM, ERCOT), the &quot;Physical Wall&quot; of AI has turned electricity into a de-facto infrastructure asset class.</p>\n<blockquote>\n<p>&quot;Eventually the cost of intelligence, the cost of AI, will converge to the cost of energy.&quot; - Sam Altman, 2025. Today, we see this manifest as hyperscalers pay 2x national averages to restart retired nuclear plants (e.g., Three Mile Island).</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Early Adoption</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-high\">High</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.85</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2024–2028</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Immediate (2026)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>14</td>\n</tr>\n</tbody>\n</table>\n<h2>Investment Exposure</h2>\n<p>Key beneficiaries are the &quot;Grid Lords&quot; — independent power producers with surplus nuclear and natural gas capacity:</p>\n<ul>\n<li><a href=\"/companies/vst/\">Vistra Corp (VST)</a></li>\n<li><a href=\"/companies/ceg/\">Constellation Energy (CEG)</a></li>\n<li><a href=\"/companies/nee/\">NextEra Energy (NEE)</a></li>\n</ul>\n",
+  "bodyMarkdown": "## What This Is\n\nThe \"Grid Lockout\" of 2026 has created a massive premium for companies with existing baseload power and approved interconnection queue positions. As US grid interconnection wait times exceed 36-60 months in key regions (PJM, ERCOT), the \"Physical Wall\" of AI has turned electricity into a de-facto infrastructure asset class.\n\n> \"Eventually the cost of intelligence, the cost of AI, will converge to the cost of energy.\" - Sam Altman, 2025. Today, we see this manifest as hyperscalers pay 2x national averages to restart retired nuclear plants (e.g., Three Mile Island).\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Early Adoption** |\n| Confidence Level | <span class=\"conf-badge conf-high\">High</span> |\n| Confidence Score | **+0.85** |\n| Estimated Deployment | **2024–2028** |\n| Horizon | Immediate (2026) |\n| Independent Sources Tracked | 14 |\n\n## Investment Exposure\n\nKey beneficiaries are the \"Grid Lords\" — independent power producers with surplus nuclear and natural gas capacity:\n\n- [Vistra Corp (VST)](/future/stocks/vst/)\n- [Constellation Energy (CEG)](/future/stocks/ceg/)\n- [NextEra Energy (NEE)](/future/stocks/nee/)",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Grid Interconnection Arbitrage",
+    "subtitle": "Monetizing existing baseload power and queue positions for AI data centers",
+    "category": "Energy Tech",
+    "stage": "early_adoption",
+    "confidence_label": "High",
+    "est_year": 2026,
+    "est_year_range": "2024–2028",
+    "horizon": "Immediate (2026)",
+    "source_count": 14,
+    "stocks": [
+      "VST",
+      "CEG",
+      "NRG",
+      "NEE"
+    ],
+    "permalink": "/tech/grid-interconnection-arbitrage/"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "early_adoption",
+  "confidenceLabel": "High",
+  "estimate": "2024–2028",
+  "estimateYear": 2026,
+  "sourceCount": 14,
+  "companies": [
+    "vst",
+    "ceg",
+    "nrg",
+    "nee"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

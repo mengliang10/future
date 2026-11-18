@@ -1,0 +1,25 @@
+{
+  "id": "quantum-03",
+  "title": "Quantum Computing — Briefing 03",
+  "sector": "quantum",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "quantum-electronics",
+    "quantum-error-correction-advances",
+    "quantum-error-correction-surface-code",
+    "quantum-geometry-condensed-matter",
+    "quantum-gravity-sensor",
+    "quantum-hardware-architecture",
+    "quantum-information",
+    "quantum-materials",
+    "quantum-network-entanglement-dist",
+    "quantum-network-entanglement-distribution",
+    "quantum-network-infrastructure",
+    "quantum-oscillator-platforms"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "be",
+  "title": "Bloom Energy",
+  "summary": "",
+  "sector": "energy",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_stocks/be.md",
+  "sourceHash": "2f9b0a581285d5eaaef1b3289977c45a352efb9334e84fff5d75747deaef7cca",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Solid oxide fuel cell systems for on-site industrial and data centre power; beneficiary of the grid reliability premium in the AI era.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for BE is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSolid oxide fuel cell systems for on-site industrial and data centre power; beneficiary of the grid reliability premium in the AI era.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for BE is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Bloom Energy",
+    "symbol": "BE",
+    "exchange": "NYSE",
+    "categories": [
+      "Energy Tech"
+    ],
+    "timing_action": "FULL",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "BE",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sectors--intelligence--infrastructure--fab-maps-clusters",
+  "title": "Fab Maps & Clusters",
+  "summary": "",
+  "sourcePath": "sectors/intelligence/infrastructure/fab-maps-clusters.md",
+  "sourceHash": "304bc7c6854c138bd980d7e81afda1ced2ba2a391886efdea36f5f60a0ec868d",
+  "bodyHtml": "<div class=\"callout callout-info\">\n  <span class=\"callout-icon\">&#8594;</span>\n  <span>This content has been merged into <a href=\"/sectors/semiconductors/\">Advanced Semiconductors</a>.</span>\n</div>",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "Fab Maps & Clusters",
+    "permalink": "/sectors/intelligence/infrastructure/fab-maps-clusters/"
+  }
+}

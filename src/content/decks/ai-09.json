@@ -1,0 +1,25 @@
+{
+  "id": "ai-09",
+  "title": "AI & Computing — Briefing 09",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "bank-gpt-conversational-interface",
+    "battery-safety",
+    "battery-technology",
+    "behavioral-addiction-and-cognitive-damage",
+    "bepc-development-activity",
+    "beyond-lithium-alternatives",
+    "bidirectional-bci-closed-loop",
+    "big-data-analytics",
+    "biology-foundation-model",
+    "blood-brain-barrier-penetrating-nano",
+    "boundary-aware-intervention",
+    "brain-computer-interface"
+  ]
+}

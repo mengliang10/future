@@ -1,0 +1,24 @@
+{
+  "id": "dna",
+  "title": "Ginkgo Bioworks",
+  "summary": "",
+  "sector": "biotech",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/dna.md",
+  "sourceHash": "544efbb2a13e8cc5faea0409f51f9c0dee66c56867e42fe9cd62bb45831c6005",
+  "bodyHtml": "<p>Ginkgo Bioworks is the &quot;foundry for biology.&quot; They provide a horizontal platform for synthetic biology, allowing companies across agriculture, pharma, and materials to &quot;program&quot; cells as if they were software. Ginkgo's massive codebase of biological parts and automated &quot;Foundries&quot; reduce the cost and risk of biological engineering.</p>\n<p>Key technical advantages:</p>\n<ul>\n<li><strong>Biological Codebase:</strong> Largest proprietary library of genetic parts and optimized metabolic pathways.</li>\n<li><strong>Foundry Automation:</strong> High-throughput automated labs that run millions of experiments per year.</li>\n<li><strong>AI for Biology:</strong> Integration of large language models to design novel proteins and genetic circuits.</li>\n</ul>\n",
+  "bodyMarkdown": "Ginkgo Bioworks is the \"foundry for biology.\" They provide a horizontal platform for synthetic biology, allowing companies across agriculture, pharma, and materials to \"program\" cells as if they were software. Ginkgo's massive codebase of biological parts and automated \"Foundries\" reduce the cost and risk of biological engineering.\n\nKey technical advantages:\n- **Biological Codebase:** Largest proprietary library of genetic parts and optimized metabolic pathways.\n- **Foundry Automation:** High-throughput automated labs that run millions of experiments per year.\n- **AI for Biology:** Integration of large language models to design novel proteins and genetic circuits.",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "DNA",
+    "name": "Ginkgo Bioworks",
+    "sector": "Biotech"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "DNA",
+  "exchange": "Not recorded",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

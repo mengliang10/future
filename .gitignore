@@ -1,21 +1,10 @@
-# === RESEARCH DIRECTORY (local-only, never push to GitHub) ===
-research/
-
-# === System files ===
+node_modules/
+dist/
+.astro/
+source/original/
+source/edit-history/
+qa/*.png
+qa/*build.log
+reference/chirping/theme-source/
 .DS_Store
-Thumbs.db
-
-# === Jekyll build output ===
-_site/
-.jekyll-cache/
-.jekyll-metadata
-
-# === Python ===
-__pycache__/
-*.py[cod]
-*.egg-info/
-_config.yml.before-ingestion
-scripts/INGESTION.md
-scripts/ingest-private.sh
-scripts/ingestion.py
-research/
+*.log

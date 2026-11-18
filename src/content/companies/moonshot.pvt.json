@@ -1,0 +1,29 @@
+{
+  "id": "moonshot.pvt",
+  "title": "Moonshot AI",
+  "summary": "Chinese model lab known for long-context assistants and open-weight mixture-of-experts models.",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/moonshot.pvt.md",
+  "sourceHash": "9ed369a53f0a79752169cb9852b47e1e8c29bb02deec147b4e5d083e8b87cda7",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Moonshot AI built the Kimi assistant around long-context reading and then released open-weight mixture-of-experts models, including a trillion-parameter system with a small active parameter count per token. That design keeps inference affordable while remaining competitive on reasoning and coding tasks. The company is venture-funded and competes with DeepSeek and Alibaba for talent and compute rather than for consumer distribution.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Long-context document and code understanding.</li>\n<li>Open-weight mixture-of-experts models for cost-efficient serving.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Talent retention and funding runway.</li>\n<li>Serving cost at long context lengths.</li>\n<li>Enterprise adoption outside consumer chat.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMoonshot AI built the Kimi assistant around long-context reading and then released open-weight mixture-of-experts models, including a trillion-parameter system with a small active parameter count per token. That design keeps inference affordable while remaining competitive on reasoning and coding tasks. The company is venture-funded and competes with DeepSeek and Alibaba for talent and compute rather than for consumer distribution.\n\n## Technology Exposure\n\n- Long-context document and code understanding.\n- Open-weight mixture-of-experts models for cost-efficient serving.\n\n## What To Watch\n\n- Talent retention and funding runway.\n- Serving cost at long context lengths.\n- Enterprise adoption outside consumer chat.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Moonshot AI",
+    "symbol": "MOONSHOT.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "MOONSHOT.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Long context changes document-heavy workflows first: contract review, research synthesis and codebase understanding.",
+  "investmentLens": "Private and capital-intensive; treat model releases as evidence of capability, not of a business model."
+}

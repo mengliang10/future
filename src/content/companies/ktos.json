@@ -1,0 +1,31 @@
+{
+  "id": "ktos",
+  "title": "Kratos Defence & Security Solutions",
+  "summary": "",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/ktos.md",
+  "sourceHash": "ec8bbfa9547e3c102827485a883f1478ca77402319c00197ddb55d48773ddadc",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Kratos builds the affordable end of the US defence supply chain: drone targets, tactical unmanned systems, satellite ground equipment, and hypersonic test vehicles. The Ukraine war proved the strategic importance of cheap, attritable drones. Kratos's Valkyrie UCAS and Gremlins concepts are designed specifically for the high-volume, low-cost warfare doctrine.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>Tactical Drones:</strong> Low-cost attritable drones are the fastest-growing segment of defence procurement.</li>\n<li><strong>Space Ground Systems:</strong> Satellite command and control infrastructure for government and commercial constellations.</li>\n<li><strong>Hypersonics:</strong> Testing infrastructure for the hypersonic race between US, Russia, and China.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Contract Concentration:</strong> A few large programmes drive most revenue; cancellation is material.</li>\n<li><strong>Competition:</strong> Boeing, Northrop, and agile startups compete for drone contracts.</li>\n</ul>\n",
+  "bodyMarkdown": "## Investment Thesis\nKratos builds the affordable end of the US defence supply chain: drone targets, tactical unmanned systems, satellite ground equipment, and hypersonic test vehicles. The Ukraine war proved the strategic importance of cheap, attritable drones. Kratos's Valkyrie UCAS and Gremlins concepts are designed specifically for the high-volume, low-cost warfare doctrine.\n\n### Key Drivers\n- **Tactical Drones:** Low-cost attritable drones are the fastest-growing segment of defence procurement.\n- **Space Ground Systems:** Satellite command and control infrastructure for government and commercial constellations.\n- **Hypersonics:** Testing infrastructure for the hypersonic race between US, Russia, and China.\n\n### Risk Factors\n- **Contract Concentration:** A few large programmes drive most revenue; cancellation is material.\n- **Competition:** Boeing, Northrop, and agile startups compete for drone contracts.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Kratos Defence & Security Solutions",
+    "symbol": "KTOS",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Space Tech",
+      "Defence",
+      "Drones"
+    ],
+    "timing_action": "HALF",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "KTOS",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

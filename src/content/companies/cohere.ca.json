@@ -1,0 +1,29 @@
+{
+  "id": "cohere.ca",
+  "title": "Cohere",
+  "summary": "Canadian enterprise-model company focused on private deployment and retrieval.",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/cohere.ca.md",
+  "sourceHash": "d995cccdba74d36a69867fb7a9c775b00400c09889a4a605bab88c5e6499e40f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Cohere sells language models for enterprise use, with an emphasis on deployment inside a customer's own environment and on retrieval over private documents. That positioning competes with open-weight self-hosting rather than with consumer chatbots. Its challenge is that open models keep improving, compressing the premium for a proprietary mid-size model.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Enterprise language models and retrieval.</li>\n<li>Private and sovereign deployments.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Enterprise contract growth.</li>\n<li>Price pressure from open-weight models.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nCohere sells language models for enterprise use, with an emphasis on deployment inside a customer's own environment and on retrieval over private documents. That positioning competes with open-weight self-hosting rather than with consumer chatbots. Its challenge is that open models keep improving, compressing the premium for a proprietary mid-size model.\n\n## Technology Exposure\n\n- Enterprise language models and retrieval.\n- Private and sovereign deployments.\n\n## What To Watch\n\n- Enterprise contract growth.\n- Price pressure from open-weight models.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Cohere",
+    "symbol": "COHERE.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "COHERE.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Enterprises want model capability inside their own perimeter; deployment flexibility can matter more than benchmark rank.",
+  "investmentLens": "A venture-scale software bet in a commoditising layer; watch retention and pricing."
+}

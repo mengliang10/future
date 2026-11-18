@@ -1,0 +1,25 @@
+{
+  "id": "markets-01",
+  "title": "Financial Infrastructure — Briefing 01",
+  "sector": "markets",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "accelerated-crystal-search",
+    "accelerated-hydrogen-research",
+    "ai-accelerated-materials-discovery",
+    "ai-chatbot-market",
+    "ai-enterprise-adoption-rate",
+    "ai-enterprise-market",
+    "ai-generated-content-detection",
+    "ai-initiative-abandonment-rate",
+    "ai-personal-computer-market",
+    "chatbot-market-share",
+    "current-market-state",
+    "cxl-market-growth"
+  ]
+}

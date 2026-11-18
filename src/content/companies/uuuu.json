@@ -1,0 +1,31 @@
+{
+  "id": "uuuu",
+  "title": "Energy Fuels Inc.",
+  "summary": "",
+  "sector": "other",
+  "sourceCategory": "Nuclear Energy",
+  "sourcePath": "_stocks/uuuu.md",
+  "sourceHash": "f6d67bc1594b0210d8436cad92eb033404e0f0bcbf3bcb1b7274b299d7055756",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Energy Fuels is the largest uranium producer in the US: the only domestic producer with both conventional and ISR mining capacity. More uniquely, they are pivoting into rare earth element (REE) processing: their White Mesa Mill is the only licensed conventional uranium mill in the US and can process monazite sands to extract uranium AND rare earths simultaneously.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>US Uranium Supply Security:</strong> Domestic uranium production is a national security priority; government offtake agreements.</li>\n<li><strong>Rare Earth Pivot:</strong> Dual uranium-rare earth processing is a structural moat: no comparable facility exists in the US.</li>\n<li><strong>Vanadium By-Product:</strong> Vanadium for battery storage is a third revenue stream from existing operations.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Small Cap Volatility:</strong> Sub-$1B market cap amplifies all commodity price moves.</li>\n<li><strong>REE Processing Complexity:</strong> Rare earth separation chemistry is technically demanding; execution risk is real.</li>\n</ul>\n",
+  "bodyMarkdown": "## Investment Thesis\nEnergy Fuels is the largest uranium producer in the US: the only domestic producer with both conventional and ISR mining capacity. More uniquely, they are pivoting into rare earth element (REE) processing: their White Mesa Mill is the only licensed conventional uranium mill in the US and can process monazite sands to extract uranium AND rare earths simultaneously.\n\n### Key Drivers\n- **US Uranium Supply Security:** Domestic uranium production is a national security priority; government offtake agreements.\n- **Rare Earth Pivot:** Dual uranium-rare earth processing is a structural moat: no comparable facility exists in the US.\n- **Vanadium By-Product:** Vanadium for battery storage is a third revenue stream from existing operations.\n\n### Risk Factors\n- **Small Cap Volatility:** Sub-$1B market cap amplifies all commodity price moves.\n- **REE Processing Complexity:** Rare earth separation chemistry is technically demanding; execution risk is real.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Energy Fuels Inc.",
+    "symbol": "UUUU",
+    "exchange": "NYSE",
+    "categories": [
+      "Nuclear Energy",
+      "Uranium",
+      "Rare Earth"
+    ],
+    "timing_action": "FULL",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "UUUU",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

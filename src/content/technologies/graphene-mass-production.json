@@ -1,0 +1,31 @@
+{
+  "id": "graphene-mass-production",
+  "title": "Graphene Mass Production",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_tech/graphene-mass-production.md",
+  "sourceHash": "99a65b6dca087627d12dc92a6eba84412e822bd0b20a29c6afdfff49e73a75b4",
+  "bodyHtml": "<p>Graphene is a single layer of carbon atoms in a hexagonal lattice. It is 200 times stronger than steel, highly conductive, and transparent. While its properties are well-known, mass-producing high-quality, large-area graphene at low cost has been the primary barrier.</p>\n<p>Key attributes:</p>\n<ul>\n<li><strong>Chemical Vapor Deposition (CVD):</strong> The leading method for producing large-area, high-quality graphene films.</li>\n<li><strong>Roll-to-Roll Processing:</strong> Scaling manufacturing to industrial throughput.</li>\n<li><strong>Applications:</strong> High-frequency transistors (terahertz computing), ultra-efficient batteries, and advanced composite materials.</li>\n<li><strong>Unlocks:</strong> Post-silicon electronics and revolutionary material strength-to-weight ratios.</li>\n</ul>\n",
+  "bodyMarkdown": "Graphene is a single layer of carbon atoms in a hexagonal lattice. It is 200 times stronger than steel, highly conductive, and transparent. While its properties are well-known, mass-producing high-quality, large-area graphene at low cost has been the primary barrier.\n\nKey attributes:\n- **Chemical Vapor Deposition (CVD):** The leading method for producing large-area, high-quality graphene films.\n- **Roll-to-Roll Processing:** Scaling manufacturing to industrial throughput.\n- **Applications:** High-frequency transistors (terahertz computing), ultra-efficient batteries, and advanced composite materials.\n- **Unlocks:** Post-silicon electronics and revolutionary material strength-to-weight ratios.",
+  "sourceMeta": {
+    "layout": "tech",
+    "id": "graphene-mass-production",
+    "name": "Graphene Mass Production",
+    "category": "Semiconductors",
+    "status": "pilot",
+    "est_year": 2026,
+    "est_year_range": "2026\u20132030",
+    "horizon": "Near-Term (2026\u20132030)"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "pilot",
+  "confidenceLabel": "Not classified",
+  "estimate": "2026\u20132030",
+  "estimateYear": 2026,
+  "sourceCount": null,
+  "companies": [],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

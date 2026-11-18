@@ -1,0 +1,24 @@
+{
+  "id": "ren.jp",
+  "title": "Renesas Electronics",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/ren.jp.md",
+  "sourceHash": "32be42a942c31fc0cf124002933ea1594c521d29bc39ca49f1cdaf92a6ff1b71",
+  "bodyHtml": "<p>Renesas is a global leader in microcontrollers (MCUs) and power semiconductors, primarily serving the automotive and industrial markets. It is the dominant supplier of MCUs for automotive electronic control units (ECUs) and is pivoting toward AI at the edge.</p>\n<p>Key technical advantages:</p>\n<ul>\n<li><strong>Automotive MCU Dominance:</strong> Trusted partner for major global OEMs (Toyota, Volkswagen).</li>\n<li><strong>Edge AI (DRP):</strong> Proprietary Dynamically Reconfigurable Processor architecture for low-power AI inference.</li>\n<li><strong>Power Management:</strong> Highly integrated PMICs for data centers and electric vehicles.</li>\n</ul>\n",
+  "bodyMarkdown": "Renesas is a global leader in microcontrollers (MCUs) and power semiconductors, primarily serving the automotive and industrial markets. It is the dominant supplier of MCUs for automotive electronic control units (ECUs) and is pivoting toward AI at the edge.\n\nKey technical advantages:\n- **Automotive MCU Dominance:** Trusted partner for major global OEMs (Toyota, Volkswagen).\n- **Edge AI (DRP):** Proprietary Dynamically Reconfigurable Processor architecture for low-power AI inference.\n- **Power Management:** Highly integrated PMICs for data centers and electric vehicles.",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "REN.JP",
+    "name": "Renesas Electronics",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "REN.JP",
+  "exchange": "Not recorded",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

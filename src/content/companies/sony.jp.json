@@ -1,0 +1,29 @@
+{
+  "id": "sony.jp",
+  "title": "Sony Group",
+  "summary": "Image-sensor leader whose chips sit in most high-end cameras and phones.",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/sony.jp.md",
+  "sourceHash": "6ef7713b9406185179be1371b3a2e1105e77f6762fb60c36adfb2ec5210eaf1c",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Sony supplies roughly half of the global CMOS image sensor market and designs the sensors that feed advanced driver assistance and robotics vision systems. Games, music and pictures provide cash flow that funds semiconductor capex. The company's edge is process and packaging know-how in stacked sensors, a niche where scale in consumer electronics compounds.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>CMOS image sensors for phones, cars and robots.</li>\n<li>Entertainment and gaming cash flow.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Sensor share in automotive and robotics.</li>\n<li>Capex intensity of new sensor fabs.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSony supplies roughly half of the global CMOS image sensor market and designs the sensors that feed advanced driver assistance and robotics vision systems. Games, music and pictures provide cash flow that funds semiconductor capex. The company's edge is process and packaging know-how in stacked sensors, a niche where scale in consumer electronics compounds.\n\n## Technology Exposure\n\n- CMOS image sensors for phones, cars and robots.\n- Entertainment and gaming cash flow.\n\n## What To Watch\n\n- Sensor share in automotive and robotics.\n- Capex intensity of new sensor fabs.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Sony Group",
+    "symbol": "6758.T",
+    "exchange": "TSE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "6758.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Machine vision starts with the sensor; optical quality sets the ceiling for any perception stack.",
+  "investmentLens": "A conglomerate with a hidden monopoly; sensor margins are the part the market underrates."
+}

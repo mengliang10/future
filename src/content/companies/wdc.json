@@ -1,0 +1,27 @@
+{
+  "id": "wdc",
+  "title": "Western Digital Corp.",
+  "summary": "",
+  "sector": "ai",
+  "sourceCategory": "Hardware",
+  "sourcePath": "_stocks/wdc.md",
+  "sourceHash": "be094e8e429bc70c072c0050d40e319aed61383691dd7b920f04f095d46dc191",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Western Digital is a leader in data storage, benefiting from the massive demand for NAND flash and high-capacity HDDs in AI data centers.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nWestern Digital is a leader in data storage, benefiting from the massive demand for NAND flash and high-capacity HDDs in AI data centers.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Western Digital Corp.",
+    "symbol": "WDC",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Hardware"
+    ]
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "WDC",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

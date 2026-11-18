@@ -1,0 +1,29 @@
+{
+  "id": "zeiss.pvt",
+  "title": "Carl Zeiss AG",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/zeiss.pvt.md",
+  "sourceHash": "8a974426e050687b4d075e48bec036b0bcb5d4fc1347b39628e26e0d56ceef75",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Carl Zeiss SMT is the sole provider of the optics required for ASML's EUV and High-NA EUV lithography systems. They are the ultimate bottleneck in the global semiconductor roadmap.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nCarl Zeiss SMT is the sole provider of the optics required for ASML's EUV and High-NA EUV lithography systems. They are the ultimate bottleneck in the global semiconductor roadmap.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Carl Zeiss AG",
+    "symbol": "ZEISS.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 2,
+    "bottleneck_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ZEISS.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

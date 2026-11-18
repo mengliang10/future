@@ -1,0 +1,25 @@
+{
+  "id": "robotics-01",
+  "title": "Robotics & Automation — Briefing 01",
+  "sector": "robotics",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "2d-machine-vision-camera-inspection",
+    "3d-machine-vision-point-cloud",
+    "autonomous-drone-delivery",
+    "chinese-robotics-industry",
+    "collaborative-robot-cobot",
+    "collaborative-robot-evolution",
+    "collaborative-robotic-workflows",
+    "cv-via-deep-learning-yolovit",
+    "dexterous-robot-hand",
+    "full-warehouse-automation",
+    "general-purpose-humanoid-robot",
+    "global-humanoid-market"
+  ]
+}

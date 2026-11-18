@@ -1,0 +1,29 @@
+{
+  "id": "airbus.fr",
+  "title": "Airbus",
+  "summary": "European aircraft maker with a space and defence division under strategic review.",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/airbus.fr.md",
+  "sourceHash": "9fcd40e7a23b7500b1cf92163f19905338e0540cc01ba8ea8f3b9fd35a94196a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Airbus builds commercial aircraft in a duopoly with Boeing, and its defence and space units provide counter-cyclical revenue. The company has taken losses on satellite programmes and is restructuring that division, while investing in high-altitude platforms and launcher cooperation. Aircraft delivery slots are sold years ahead, which makes the order book the key asset.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Commercial aircraft and aftermarket services.</li>\n<li>Satellites, launchers and defence electronics.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Space division losses and restructuring.</li>\n<li>Delivery ramp against supply-chain constraints.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAirbus builds commercial aircraft in a duopoly with Boeing, and its defence and space units provide counter-cyclical revenue. The company has taken losses on satellite programmes and is restructuring that division, while investing in high-altitude platforms and launcher cooperation. Aircraft delivery slots are sold years ahead, which makes the order book the key asset.\n\n## Technology Exposure\n\n- Commercial aircraft and aftermarket services.\n- Satellites, launchers and defence electronics.\n\n## What To Watch\n\n- Space division losses and restructuring.\n- Delivery ramp against supply-chain constraints.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Airbus",
+    "symbol": "AIR.PA",
+    "exchange": "EURONEXT",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "AIR.PA",
+  "exchange": "EURONEXT",
+  "private": false,
+  "businessMeaning": "Launch and satellite capacity in Europe is a sovereignty question; institutional demand is the anchor customer.",
+  "investmentLens": "A duopoly with a long backlog; the space segment is the swing factor on returns."
+}

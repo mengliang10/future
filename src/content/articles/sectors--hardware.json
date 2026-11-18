@@ -1,0 +1,14 @@
+{
+  "id": "sectors--hardware",
+  "title": "Hardware",
+  "summary": "",
+  "sourcePath": "sectors/hardware.md",
+  "sourceHash": "fa74d8d3b1bb7f911a8a82a9137f6232a0b41a3355debd6f2be4c087620d25bc",
+  "bodyHtml": "<div class=\"callout callout-info\">\n  <span class=\"callout-icon\">&#8594;</span>\n  <span>Hardware coverage has been consolidated into <a href=\"/sectors/semiconductors/\">Advanced Semiconductors</a>: see the AI Infrastructure Hardware and AI Networking sections.</span>\n</div>",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "Hardware",
+    "permalink": "/sectors/hardware/",
+    "redirect_to": "/future/sectors/semiconductors/"
+  }
+}

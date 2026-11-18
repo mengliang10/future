@@ -1,0 +1,15 @@
+{
+  "id": "roadmap--2050-plus",
+  "title": "2050 and Beyond",
+  "summary": "Post-scarcity economics, mind uploading, and civilisation-scale technology scenarios.",
+  "sourcePath": "roadmap/2050-plus.md",
+  "sourceHash": "64c73fe30e6bb100bd90097907ae10619b22dccda53d3d49a83fa31e7ea6bfec",
+  "bodyHtml": "<div class=\"callout callout-warning\">\n  <span class=\"callout-icon\">&#9888;</span>\n  <span>Highly speculative. These scenarios are grounded in current research but involve compounding uncertainties. Treat as horizon-scanning, not forecasts.</span>\n</div>\n<h2>What We Can Reason About</h2>\n<p>By 2050, if the trajectories of the previous decades hold, we may inhabit a world where:</p>\n<ul>\n<li><strong>Energy is effectively post-scarcity</strong> via fusion, advanced solar, and orbital power collection</li>\n<li><strong>Intelligence is no longer the scarce resource</strong>: AI systems far exceed human cognitive capability across all domains</li>\n<li><strong>Biology is programmable</strong>: disease, aging, and human physical limits are engineering problems with known solutions</li>\n<li><strong>Manufacturing is molecular</strong>: the cost of physical goods approaches the cost of information</li>\n</ul>\n<h2>Scenarios</h2>\n<p><strong>Scenario A: Managed Transition:</strong> AI and human civilisation coexist in a high-technology equilibrium. Abundance increases, inequality is managed, and the Fermi Paradox remains unsolved.</p>\n<p><strong>Scenario B: Singularity:</strong> Intelligence explosion leads to a technological singularity event around 2045–2060. Post-singularity outcomes are, by definition, difficult to reason about from this vantage point.</p>\n<p><strong>Scenario C: Stagnation or Catastrophe:</strong> A major setback: pandemic, war, climate tipping point, or AI misalignment: delays or reverses the trajectory. Recovery timelines depend on the nature of the disruption.</p>\n<hr />\n<p><a href=\"/roadmap/far-future/\" class=\"btn btn-outline\">Next: The Very Far Future (Sci-Fi) →</a></p>\n",
+  "sourceMeta": {
+    "layout": "page",
+    "title": "2050 and Beyond",
+    "subtitle": "Post-scarcity economics, mind uploading, and civilisation-scale technology scenarios.",
+    "category": "Roadmap",
+    "permalink": "/roadmap/2050-plus/"
+  }
+}

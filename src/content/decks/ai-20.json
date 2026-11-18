@@ -1,0 +1,25 @@
+{
+  "id": "ai-20",
+  "title": "AI & Computing — Briefing 20",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "grounded-knowledge-access",
+    "gut-brain-axis-therapeutics",
+    "harsh-environment-monitoring",
+    "heterogeneous-iii-v-silicon",
+    "hierarchical-nano-architecture",
+    "high-capacity-lithium-batteries",
+    "high-dimensional-communication",
+    "high-fidelity-video-generation",
+    "high-performance-graphics-devices",
+    "high-strength-flexible-components",
+    "high-temperature-superconducting-fusion",
+    "high-throughput-combinatorial-screening"
+  ]
+}

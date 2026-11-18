@@ -1,0 +1,28 @@
+{
+  "id": "abb",
+  "title": "ABB Ltd",
+  "summary": "",
+  "sector": "robotics",
+  "sourceCategory": "Robotics & Automation",
+  "sourcePath": "_stocks/abb.md",
+  "sourceHash": "93a06b1816f98de03ca704c5c1bfea19e95a144998ca12974032569f9ace4156",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Industrial automation leader with the installed base and integration expertise to deploy humanoid robots at enterprise scale.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for ABB is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nIndustrial automation leader with the installed base and integration expertise to deploy humanoid robots at enterprise scale.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for ABB is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ABB Ltd",
+    "symbol": "ABB",
+    "exchange": "NYSE",
+    "categories": [
+      "Robotics & Automation",
+      "Industrials"
+    ]
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "ABB",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

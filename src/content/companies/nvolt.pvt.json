@@ -1,0 +1,28 @@
+{
+  "id": "nvolt.pvt",
+  "title": "Northvolt",
+  "summary": "",
+  "sector": "energy",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_stocks/nvolt.pvt.md",
+  "sourceHash": "4021c8a046e08036391185f24a9801fdf53bfa83bbaf3b6a59776c4976400198",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Northvolt is the cornerstone of European battery sovereignty, building sustainable, large-scale cell manufacturing for the EV transition.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nNorthvolt is the cornerstone of European battery sovereignty, building sustainable, large-scale cell manufacturing for the EV transition.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Northvolt",
+    "symbol": "NVOLT.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Energy Tech"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "NVOLT.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

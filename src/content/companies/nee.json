@@ -1,0 +1,29 @@
+{
+  "id": "nee",
+  "title": "NextEra Energy Inc.",
+  "summary": "",
+  "sector": "energy",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_stocks/nee.md",
+  "sourceHash": "829d4c3896e0d7b27dcfb2c986d8102fe11167729f2aa61cb33a525d17279a25",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>NextEra is the world's largest producer of wind and solar power, and the parent of Florida Power &amp; Light (regulated utility). The combination of regulated utility cash flows and a massive renewable development pipeline (NextEra Energy Resources) creates a uniquely durable growth profile. AI data centre load growth is a structural multi-year tailwind: hyperscalers are signing 15-20 year PPAs directly with renewable developers, and NextEra is the counterparty on multiple large-scale deals. Key risk: interest rate sensitivity: long-duration utility with significant debt load. Rising rates compress the utility multiple even when the fundamental business is strong.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Solar PV Panel (Silicon)</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; NextEra is one of the largest utility-scale solar developers in the US. Solar installations are core to its NextEra Energy Resources growth strategy.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Onshore Wind Turbine</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; NextEra holds more wind capacity than any other independent power producer globally. Wind contracts with hyperscalers are a multi-year recurring revenue stream.</div>\n</div>\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Grid-Scale Battery Storage (GWh)</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2027</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; NextEra is deploying battery storage alongside solar to firm up intermittent supply. Storage is a growing portion of its development pipeline and PPA mix.</div>\n</div>\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nNextEra is the world's largest producer of wind and solar power, and the parent of Florida Power & Light (regulated utility). The combination of regulated utility cash flows and a massive renewable development pipeline (NextEra Energy Resources) creates a uniquely durable growth profile. AI data centre load growth is a structural multi-year tailwind: hyperscalers are signing 15-20 year PPAs directly with renewable developers, and NextEra is the counterparty on multiple large-scale deals. Key risk: interest rate sensitivity: long-duration utility with significant debt load. Rising rates compress the utility multiple even when the fundamental business is strong.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Solar PV Panel (Silicon)</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; NextEra is one of the largest utility-scale solar developers in the US. Solar installations are core to its NextEra Energy Resources growth strategy.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Onshore Wind Turbine</span>\n<span class=\"conf-badge conf-confirmed\">Confirmed</span>\n<span class=\"roadmap-stock-item-year\">Ongoing</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; NextEra holds more wind capacity than any other independent power producer globally. Wind contracts with hyperscalers are a multi-year recurring revenue stream.</div>\n</div>\n\n<div class=\"roadmap-stock-item\">\n<div class=\"roadmap-stock-item-header\">\n<span class=\"roadmap-stock-item-name\">Grid-Scale Battery Storage (GWh)</span>\n<span class=\"conf-badge conf-researching\">Researching</span>\n<span class=\"roadmap-stock-item-year\">2027</span>\n</div>\n<div class=\"roadmap-stock-item-impact\">&#128200; NextEra is deploying battery storage alongside solar to firm up intermittent supply. Storage is a growing portion of its development pipeline and PPA mix.</div>\n</div>\n\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "NextEra Energy Inc.",
+    "symbol": "NEE",
+    "exchange": "NYSE",
+    "categories": [
+      "Energy Tech"
+    ],
+    "timing_action": "FULL",
+    "regime": "LOW_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "NEE",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

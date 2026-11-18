@@ -1,0 +1,29 @@
+{
+  "id": "tm",
+  "title": "Toyota Motor",
+  "summary": "",
+  "sector": "other",
+  "sourceCategory": "Robotics & Auto",
+  "sourcePath": "_stocks/tm.md",
+  "sourceHash": "46de81ffe6780c298cf3b34c321fd70daecf7a2deb95f19b488e4daebc78e35b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Toyota is a strategic leader in the transition to hybrids and hydrogen, with a massive R&amp;D focus on solid-state batteries for the next decade.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nToyota is a strategic leader in the transition to hybrids and hydrogen, with a massive R&D focus on solid-state batteries for the next decade.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Toyota Motor",
+    "symbol": "TM",
+    "exchange": "NYSE",
+    "categories": [
+      "Robotics & Auto"
+    ],
+    "node_count": 1,
+    "bottleneck_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "TM",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ai-25",
+  "title": "AI & Computing — Briefing 25",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "lightweight-cnn-transformer-hybrid-architecture",
+    "liquid-neural-networks",
+    "lithium-ion-batteries",
+    "living-sensor-therapeutics",
+    "llm-100t-parameter-model",
+    "llm-agent-zero-shot-decision",
+    "llm-code-generation-accuracy",
+    "llm-computational-cost",
+    "llm-gpt-4-class-1t-params",
+    "local-ai-agent-capability",
+    "local-data-processing-autonomy",
+    "local-language-model"
+  ]
+}

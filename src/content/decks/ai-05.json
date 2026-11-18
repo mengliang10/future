@@ -1,0 +1,25 @@
+{
+  "id": "ai-05",
+  "title": "AI & Computing — Briefing 05",
+  "sector": "ai",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "ai-fraud-detection",
+    "ai-funding-round",
+    "ai-hallucination-risk",
+    "ai-hallucination",
+    "ai-hardware-asic-tpunputrainium",
+    "ai-inference-at-edge",
+    "ai-inference-cost-collapse",
+    "ai-infrastructure-demand",
+    "ai-infrastructure-spending",
+    "ai-interview-behavioral-question",
+    "ai-interview-behavioral-questions",
+    "ai-investment-vs-return"
+  ]
+}

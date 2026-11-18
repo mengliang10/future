@@ -1,0 +1,29 @@
+{
+  "id": "ispace.jp",
+  "title": "ispace",
+  "summary": "Japanese lunar lander company commercialising payload delivery to the Moon.",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/ispace.jp.md",
+  "sourceHash": "f6ae5fb21d16f5e6116d04f2efcf3c5c5f3be42ea8e5e3e261b608b5fe2cd611",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>ispace attempted the first private lunar landing in 2023; the lander crashed in the final descent, and the company has since raised and rebuilt for further missions. It sells payload capacity to governments and companies rather than running its own science programme. The business is a bet that lunar delivery becomes a routine service with recurring customers.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Commercial lunar landers and payload services.</li>\n<li>Micro-rover delivery for national space agencies.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Landing success and schedule.</li>\n<li>Signed payload backlog versus cash burn.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nispace attempted the first private lunar landing in 2023; the lander crashed in the final descent, and the company has since raised and rebuilt for further missions. It sells payload capacity to governments and companies rather than running its own science programme. The business is a bet that lunar delivery becomes a routine service with recurring customers.\n\n## Technology Exposure\n\n- Commercial lunar landers and payload services.\n- Micro-rover delivery for national space agencies.\n\n## What To Watch\n\n- Landing success and schedule.\n- Signed payload backlog versus cash burn.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ispace",
+    "symbol": "9348.T",
+    "exchange": "TSE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "9348.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Lunar delivery is a logistics business: reliability and price per kilogram decide who wins repeat contracts.",
+  "investmentLens": "Binary risk on mission success; position for optionality, not for near-term cash flow."
+}

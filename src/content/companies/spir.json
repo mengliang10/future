@@ -1,0 +1,29 @@
+{
+  "id": "spir",
+  "title": "Spire Global",
+  "summary": "",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/spir.md",
+  "sourceHash": "dff38eb7383689986b7c1be313f1db111ae737d573119e72d525fe5fd244337a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Spire Global operates a large nanosatellite constellation for weather, maritime, and aviation data services.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for SPIR is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSpire Global operates a large nanosatellite constellation for weather, maritime, and aviation data services.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for SPIR is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Spire Global",
+    "symbol": "SPIR",
+    "exchange": "NYSE",
+    "categories": [
+      "Space Tech"
+    ],
+    "timing_action": "FULL",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "SPIR",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

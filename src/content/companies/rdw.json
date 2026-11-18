@@ -1,0 +1,29 @@
+{
+  "id": "rdw",
+  "title": "Redwire Corp",
+  "summary": "",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/rdw.md",
+  "sourceHash": "2e5907c3e36cb64b5c1695d2ea000941189a9ab1c620b4044b86e3630e85e711",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Redwire provides space infrastructure manufacturing and in-space servicing capabilities.</p>\n<h2>Future Tech Exposure</h2>\n<p>Research pipeline analysis for RDW is ongoing. Check back for updated node exposure and conviction scores.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nRedwire provides space infrastructure manufacturing and in-space servicing capabilities.\n\n## Future Tech Exposure\n\nResearch pipeline analysis for RDW is ongoing. Check back for updated node exposure and conviction scores.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Redwire Corp",
+    "symbol": "RDW",
+    "exchange": "NYSE",
+    "categories": [
+      "Space Tech"
+    ],
+    "timing_action": "AVOID",
+    "regime": "HIGH_VOL"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "RDW",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

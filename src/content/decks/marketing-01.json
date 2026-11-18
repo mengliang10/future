@@ -1,0 +1,24 @@
+{
+  "id": "marketing-01",
+  "title": "Marketing Technology — Briefing 01",
+  "sector": "marketing",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "ai-ad-creative-generation",
+    "ai-personalization-engine",
+    "connected-tv-programmatic",
+    "cookieless-tracking-privacy-sandbox",
+    "customer-data-platform-cdp",
+    "neuro-personalised-advertising",
+    "programmatic-display-advertising",
+    "real-time-bidding-rtb-openrtb",
+    "retail-media-network-rmn",
+    "search-engine-advertising-semppc",
+    "social-media-advertising"
+  ]
+}

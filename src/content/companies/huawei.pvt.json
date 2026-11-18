@@ -1,0 +1,29 @@
+{
+  "id": "huawei.pvt",
+  "title": "Huawei Technologies",
+  "summary": "",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/huawei.pvt.md",
+  "sourceHash": "c824d5b6a672cf10255dc3c92f599734a69089d704e1081fac5dfc639268f337",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Huawei is the national champion of China's semiconductor and networking stack. Their vertical integration from chip design (HiSilicon) to infrastructure makes them the primary vector for China's technological sovereignty.</p>\n<h2>Future Tech Roadmap</h2>\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "bodyMarkdown": "## Investment Thesis\nHuawei is the national champion of China's semiconductor and networking stack. Their vertical integration from chip design (HiSilicon) to infrastructure makes them the primary vector for China's technological sovereignty.\n\n## Future Tech Roadmap\n\n<div class=\"roadmap-stock\">\n<!-- Automated content will be inserted here by generate_site.py -->\n</div>",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Huawei Technologies",
+    "symbol": "HUAWEI.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "HUAWEI.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "",
+  "investmentLens": ""
+}

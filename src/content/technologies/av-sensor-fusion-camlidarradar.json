@@ -1,0 +1,39 @@
+{
+  "id": "av-sensor-fusion-camlidarradar",
+  "title": "AV Sensor Fusion (Cam+LiDAR+Radar)",
+  "summary": "Fusing multiple sensor modalities for robust environmental perception",
+  "sector": "autonomous",
+  "sourceCategory": "Autonomous",
+  "sourcePath": "_tech/av-sensor-fusion-camlidarradar.md",
+  "sourceHash": "af37d84c943cc9a6fe9a69361a43ad72f9af791f3ca6a845de20138baa3923fa",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Fusing multiple sensor modalities for robust environmental perception. <strong>Achieved.</strong></p>\n<p>Deployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks <strong>32 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Diffusion Policy for Coordinated Control of a Nonholonomic Mobile Base | rel=0.44 | uid:5aed3f90b6b71514</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Mass Production</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-researching\">Researching</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.50</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>Ongoing / Deployed</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Deployed</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>32</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/autonomous-trucking-highway/\">Autonomous Trucking (Highway ODD)</a></li>\n<li><a href=\"/tech/robotaxi-geofenced/\">Robotaxi (Geofenced Operation)</a></li>\n<li><a href=\"/tech/computer-vision-deep-learning/\">CV via Deep Learning (YOLO/ViT)</a></li>\n<li><a href=\"/tech/lidar-solid-state/\">Solid-State LiDAR</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/mbly/\">MBLY</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nFusing multiple sensor modalities for robust environmental perception. **Achieved.**\n\nDeployed at commercial scale with multiple competing vendors. Revenue-generating across the industry. Our research database tracks **32 independent sources** on this technology.\n\n> RSS:Diffusion Policy for Coordinated Control of a Nonholonomic Mobile Base | rel=0.44 | uid:5aed3f90b6b71514\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Mass Production** |\n| Confidence Level | <span class=\"conf-badge conf-researching\">Researching</span> |\n| Confidence Score | **+0.50** |\n| Estimated Deployment | **Ongoing / Deployed** |\n| Horizon | Deployed |\n| Independent Sources Tracked | 32 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Autonomous Trucking (Highway ODD)](/future/tech/autonomous-trucking-highway/)\n- [Robotaxi (Geofenced Operation)](/future/tech/robotaxi-geofenced/)\n- [CV via Deep Learning (YOLO/ViT)](/future/tech/computer-vision-deep-learning/)\n- [Solid-State LiDAR](/future/tech/lidar-solid-state/)\n\n## Investment Exposure\n\n[MBLY](/future/stocks/mbly/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "AV Sensor Fusion (Cam+LiDAR+Radar)",
+    "subtitle": "Fusing multiple sensor modalities for robust environmental perception",
+    "category": "Autonomous",
+    "stage": "mass_production",
+    "confidence_label": "Researching",
+    "est_year": 2023,
+    "est_year_range": "2021\u20132025",
+    "horizon": "Deployed",
+    "source_count": 32,
+    "stocks": [
+      "MBLY"
+    ],
+    "permalink": "/tech/av-sensor-fusion-camlidarradar/"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "mass_production",
+  "confidenceLabel": "Researching",
+  "estimate": "2021\u20132025",
+  "estimateYear": 2023,
+  "sourceCount": 32,
+  "companies": [
+    "mbly"
+  ],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "policy-01",
+  "title": "Policy & Society — Briefing 01",
+  "sector": "policy",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "agent-safety-governance",
+    "augmented-worker-collaboration",
+    "collaborative-ai-swarm-intelligence",
+    "eu-mica-stablecoin-regulation",
+    "labor-market-disruption",
+    "regulatory-sustainability-standard",
+    "tech-sector-employment",
+    "us-china-neurotechnology-collaboration",
+    "us-genius-act"
+  ]
+}

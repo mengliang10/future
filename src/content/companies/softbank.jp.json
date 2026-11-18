@@ -1,0 +1,29 @@
+{
+  "id": "softbank.jp",
+  "title": "SoftBank Group",
+  "summary": "Holding company that owns most of Arm and is financing large-scale AI infrastructure.",
+  "sector": "ai",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/softbank.jp.md",
+  "sourceHash": "c29da1145b24da573441f72370b1410db9ec909d84e4dad6e619d25c2c9dbcd6",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>SoftBank controls roughly 90% of Arm, whose instruction set underpins most mobile and embedded processors, and has become one of the largest financial backers of AI infrastructure, including the Stargate data-centre programme announced in 2025. Its value is a leveraged bet on AI compute demand, navigated through a holding-company discount and a heavy debt load.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Arm architecture licensing and royalties.</li>\n<li>AI data-centre investment vehicles.</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Arm royalty growth from data-centre chips.</li>\n<li>Leverage and mark-to-market volatility of the portfolio.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSoftBank controls roughly 90% of Arm, whose instruction set underpins most mobile and embedded processors, and has become one of the largest financial backers of AI infrastructure, including the Stargate data-centre programme announced in 2025. Its value is a leveraged bet on AI compute demand, navigated through a holding-company discount and a heavy debt load.\n\n## Technology Exposure\n\n- Arm architecture licensing and royalties.\n- AI data-centre investment vehicles.\n\n## What To Watch\n\n- Arm royalty growth from data-centre chips.\n- Leverage and mark-to-market volatility of the portfolio.\n\n## Record Notes\n\nEditorial brief compiled 18 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "SoftBank Group",
+    "symbol": "9984.T",
+    "exchange": "TSE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-18",
+  "symbol": "9984.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Arm's licensing model is the quiet toll booth of edge computing; AI infrastructure is the louder, riskier bet.",
+  "investmentLens": "This is a leveraged fund with an operating asset inside; size positions to net asset value and debt."
+}

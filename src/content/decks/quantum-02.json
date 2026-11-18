@@ -1,0 +1,25 @@
+{
+  "id": "quantum-02",
+  "title": "Quantum Computing — Briefing 02",
+  "sector": "quantum",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "quantum-bound-state-relaxation",
+    "quantum-communication-networks",
+    "quantum-communication",
+    "quantum-computer-1m-logical-qubits",
+    "quantum-computer-error-correction",
+    "quantum-computing-advancement",
+    "quantum-computing-hardware",
+    "quantum-computing-risk",
+    "quantum-computing-sector",
+    "quantum-dot-2d-hybrid-optoelectronics",
+    "quantum-dot-superlattice-thermoelectrics",
+    "quantum-drug-molecular-simulation"
+  ]
+}

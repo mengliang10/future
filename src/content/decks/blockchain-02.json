@@ -1,0 +1,20 @@
+{
+  "id": "blockchain-02",
+  "title": "Blockchain — Briefing 02",
+  "sector": "blockchain",
+  "mode": "evergreen",
+  "added": "2026-11-16",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "retail-cbdc-central-bank-digital",
+    "stablecoin-payments",
+    "tokenized-bank-deposits",
+    "tokenized-real-world-assets",
+    "web3-mass-consumer-adoption",
+    "zero-knowledge-proof-zkp",
+    "zk-evm-zk-rollup-evm-compatible"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "insitu-resource-utilization-isru",
+  "title": "In-Situ Resource Utilization (ISRU)",
+  "summary": "",
+  "sector": "space",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_tech/insitu-resource-utilization-isru.md",
+  "sourceHash": "a35c57a096ec1073dc56df23f8df61d0d04d447de54530219cbc9df10ad6bb11",
+  "bodyHtml": "<p>ISRU is the practice of collecting, processing, and using materials found on other planetary bodies (the Moon, Mars, asteroids) to replace materials that would otherwise be brought from Earth.</p>\n<p>Key attributes:</p>\n<ul>\n<li><strong>Oxygen Production:</strong> Extracting O2 from Martian CO2 or Lunar regolith.</li>\n<li><strong>Propellant Synthesis:</strong> Using the Sabatier reaction to create methane and oxygen from Martian atmosphere and ice.</li>\n<li><strong>3D Printing Regolith:</strong> Using local soil to print habitats and landing pads.</li>\n<li><strong>Unlocks:</strong> Sustainable long-term presence on the Moon and Mars by &quot;living off the land.&quot;</li>\n</ul>\n",
+  "bodyMarkdown": "ISRU is the practice of collecting, processing, and using materials found on other planetary bodies (the Moon, Mars, asteroids) to replace materials that would otherwise be brought from Earth.\n\nKey attributes:\n- **Oxygen Production:** Extracting O2 from Martian CO2 or Lunar regolith.\n- **Propellant Synthesis:** Using the Sabatier reaction to create methane and oxygen from Martian atmosphere and ice.\n- **3D Printing Regolith:** Using local soil to print habitats and landing pads.\n- **Unlocks:** Sustainable long-term presence on the Moon and Mars by \"living off the land.\"",
+  "sourceMeta": {
+    "layout": "tech",
+    "id": "insitu-resource-utilization-isru",
+    "name": "In-Situ Resource Utilization (ISRU)",
+    "category": "Space Tech",
+    "status": "prototype",
+    "est_year": 2029,
+    "est_year_range": "2029\u20132033",
+    "horizon": "Near-Term (2026\u20132030)"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "stage": "prototype",
+  "confidenceLabel": "Not classified",
+  "estimate": "2029\u20132033",
+  "estimateYear": 2029,
+  "sourceCount": null,
+  "companies": [],
+  "businessMeaning": "",
+  "investmentLens": ""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cybr",
+  "title": "CyberArk Software Ltd.",
+  "summary": "",
+  "sector": "cyber",
+  "sourceCategory": "Cybersecurity",
+  "sourcePath": "_stocks/cybr.md",
+  "sourceHash": "7a9543061549006bde0d93d6dcbb3f482e40adcf7bd52d61117343ccb048188d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>CyberArk owns privileged access management: the security layer protecting the most powerful credentials in any enterprise (admin accounts, service accounts, machine identities). Every breach analysis traces back to credential misuse. CyberArk is the last line of defence, making them a mandated purchase in regulated industries. Machine identity management is the growth frontier: billions of cloud workloads each need a secure identity.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>Machine Identity Explosion:</strong> Cloud-native workloads create billions of non-human identities that must be secured: the fastest-growing PAM segment.</li>\n<li><strong>Regulatory Mandates:</strong> Cyber insurance requirements and government frameworks increasingly mandate PAM deployment.</li>\n<li><strong>SaaS Transition:</strong> Shifting from on-prem to subscription SaaS improves revenue visibility and margins.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>High Valuation:</strong> Trades at a premium; misses on ARR growth are punished.</li>\n<li><strong>Competition:</strong> Sailpoint, Thales, and BeyondTrust compete in adjacent identity segments.</li>\n</ul>\n",
+  "bodyMarkdown": "## Investment Thesis\nCyberArk owns privileged access management: the security layer protecting the most powerful credentials in any enterprise (admin accounts, service accounts, machine identities). Every breach analysis traces back to credential misuse. CyberArk is the last line of defence, making them a mandated purchase in regulated industries. Machine identity management is the growth frontier: billions of cloud workloads each need a secure identity.\n\n### Key Drivers\n- **Machine Identity Explosion:** Cloud-native workloads create billions of non-human identities that must be secured: the fastest-growing PAM segment.\n- **Regulatory Mandates:** Cyber insurance requirements and government frameworks increasingly mandate PAM deployment.\n- **SaaS Transition:** Shifting from on-prem to subscription SaaS improves revenue visibility and margins.\n\n### Risk Factors\n- **High Valuation:** Trades at a premium; misses on ARR growth are punished.\n- **Competition:** Sailpoint, Thales, and BeyondTrust compete in adjacent identity segments.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "CyberArk Software Ltd.",
+    "symbol": "CYBR",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Cybersecurity",
+      "Identity"
+    ],
+    "timing_action": "N/A",
+    "regime": "N/A"
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "CYBR",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "",
+  "investmentLens": ""
+}
