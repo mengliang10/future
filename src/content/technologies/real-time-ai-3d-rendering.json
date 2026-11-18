@@ -2,12 +2,12 @@
   "id": "real-time-ai-3d-rendering",
   "title": "Real-Time AI 3D Rendering",
   "summary": "Neural rendering replacing rasterization for photorealistic real-time graphics",
-  "sector": "xr",
+  "sector": "consumer-discretionary",
   "sourceCategory": "XR",
   "sourcePath": "_tech/real-time-ai-3d-rendering.md",
   "sourceHash": "9311f75693ed10f41896994726c03135759c8cf326855a37b8e46cd49b958714",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Neural rendering replacing rasterization for photorealistic real-time graphics.</p>\n<p>Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks <strong>5 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Hestia: Voxel-Face-Aware Hierarchical Next-Best-View Acquisition for E | rel=0.84 | uid:fd5bcb67b86379fa</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Prototype</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.15</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2026–2032</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (2027–2028)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>5</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/full-immersion-vr/\">Full Immersion VR (All 5 Senses)</a></li>\n<li><a href=\"/tech/nerf-3d-reconstruction/\">Neural Radiance Field (NeRF / 3DGS)</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/u/\">U</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nNeural rendering replacing rasterization for photorealistic real-time graphics.\n\nWorking prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **5 independent sources** on this technology.\n\n> RSS:Hestia: Voxel-Face-Aware Hierarchical Next-Best-View Acquisition for E | rel=0.84 | uid:fd5bcb67b86379fa\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Prototype** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.15** |\n| Estimated Deployment | **2026–2032** |\n| Horizon | Near-Term (2027–2028) |\n| Independent Sources Tracked | 5 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Full Immersion VR (All 5 Senses)](/future/tech/full-immersion-vr/)\n- [Neural Radiance Field (NeRF / 3DGS)](/future/tech/nerf-3d-reconstruction/)\n\n## Investment Exposure\n\n[U](/future/stocks/u/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Neural rendering replacing rasterization for photorealistic real-time graphics.</p>\n<p>Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks <strong>5 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Hestia: Voxel-Face-Aware Hierarchical Next-Best-View Acquisition for E | rel=0.84 | uid:fd5bcb67b86379fa</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Prototype</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.15</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2026\u20132032</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (2027\u20132028)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>5</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/full-immersion-vr/\">Full Immersion VR (All 5 Senses)</a></li>\n<li><a href=\"/tech/nerf-3d-reconstruction/\">Neural Radiance Field (NeRF / 3DGS)</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/u/\">U</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nNeural rendering replacing rasterization for photorealistic real-time graphics.\n\nWorking prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **5 independent sources** on this technology.\n\n> RSS:Hestia: Voxel-Face-Aware Hierarchical Next-Best-View Acquisition for E | rel=0.84 | uid:fd5bcb67b86379fa\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Prototype** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.15** |\n| Estimated Deployment | **2026\u20132032** |\n| Horizon | Near-Term (2027\u20132028) |\n| Independent Sources Tracked | 5 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Full Immersion VR (All 5 Senses)](/future/tech/full-immersion-vr/)\n- [Neural Radiance Field (NeRF / 3DGS)](/future/tech/nerf-3d-reconstruction/)\n\n## Investment Exposure\n\n[U](/future/stocks/u/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Real-Time AI 3D Rendering",
@@ -16,8 +16,8 @@
     "stage": "prototype",
     "confidence_label": "Speculative",
     "est_year": 2028,
-    "est_year_range": "2026–2032",
-    "horizon": "Near-Term (2027–2028)",
+    "est_year_range": "2026\u20132032",
+    "horizon": "Near-Term (2027\u20132028)",
     "source_count": 5,
     "stocks": [
       "U"
@@ -28,7 +28,7 @@
   "reviewedAt": null,
   "stage": "prototype",
   "confidenceLabel": "Speculative",
-  "estimate": "2026–2032",
+  "estimate": "2026\u20132032",
   "estimateYear": 2028,
   "sourceCount": 5,
   "companies": [

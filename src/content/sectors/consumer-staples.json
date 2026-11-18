@@ -1,0 +1,16 @@
+{
+  "id": "consumer-staples",
+  "title": "Consumer Staples",
+  "weight": "6%",
+  "change": "1.06%",
+  "aliases": [
+    "Consumer Staples",
+    "Agriculture",
+    "Food Tech",
+    "Agtech",
+    "Farming",
+    "Synthetic Biology Food"
+  ],
+  "businessQuestion": "How can precision farming, alternative protein synthesis, and autonomous food supply chains protect against climate yield volatility?",
+  "investorQuestion": "Which agricultural biotech and food supply innovations provide defensible IP versus margin pressure from retail consolidation?"
+}

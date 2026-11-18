@@ -2,7 +2,7 @@
   "id": "zero-knowledge-proof-zkp",
   "title": "Zero-Knowledge Proof (ZKP)",
   "summary": "Cryptographic proof of knowledge without revealing the knowledge itself",
-  "sector": "blockchain",
+  "sector": "financials",
   "sourceCategory": "Blockchain",
   "sourcePath": "_tech/zero-knowledge-proof-zkp.md",
   "sourceHash": "e4d72240b07bfacb8f61559171625a5826cdf99f84dd5aa75186c9c78fd07196",

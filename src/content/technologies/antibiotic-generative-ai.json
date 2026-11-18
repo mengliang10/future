@@ -2,7 +2,7 @@
   "id": "antibiotic-generative-ai",
   "title": "Generative AI for Antibiotics",
   "summary": "Using models to discover novel antibacterial compounds against drug-resistant pathogens.",
-  "sector": "biotech",
+  "sector": "health-care",
   "sourceCategory": "Biotech",
   "sourcePath": "_tech/antibiotic-generative-ai.md",
   "sourceHash": "cef850de256339ffc17d2ff579ee8396b4f979630d5d72270d1e5a1c26cb496f",

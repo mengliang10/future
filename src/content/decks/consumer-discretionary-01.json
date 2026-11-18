@@ -1,0 +1,25 @@
+{
+  "id": "consumer-discretionary-01",
+  "title": "Consumer Discretionary \u2014 Official Sector Briefing",
+  "sector": "consumer-discretionary",
+  "mode": "evergreen",
+  "added": "2026-11-18",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "ar-smart-glasses-consumer-daily",
+    "vr-headset-consumer",
+    "open-interoperable-metaverse",
+    "full-immersion-vr-all-5-senses",
+    "haptic-feedback-glove",
+    "spatial-computing-os",
+    "ai-agent-adoption-in-homes",
+    "agentic-ai-applications-in-homes",
+    "consumer-non-invasive-bci-headset",
+    "closed-loop-bio-feedback-wearables",
+    "web3-mass-consumer-adoption",
+    "elder-care-home-healthcare"
+  ]
+}

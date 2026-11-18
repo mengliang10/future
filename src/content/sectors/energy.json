@@ -1,9 +1,16 @@
 {
   "id": "energy",
   "title": "Energy",
+  "weight": "4%",
+  "change": "0.53%",
   "aliases": [
-    "Energy Tech"
+    "Energy",
+    "Energy Tech",
+    "Clean Energy",
+    "Power",
+    "Nuclear",
+    "Oil & Gas"
   ],
-  "businessQuestion": "Which operational constraint could this technology remove, and what would adoption cost?",
-  "investorQuestion": "Who could capture the value, what must be funded first, and what evidence would change the thesis?"
+  "businessQuestion": "Which operational constraint could next-generation clean power and storage remove, and what would grid-scale adoption cost?",
+  "investorQuestion": "Who captures the value in baseload generation and energy storage, and what capital expenditure milestone unlocks profitability?"
 }

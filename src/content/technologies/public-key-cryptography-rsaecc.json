@@ -2,7 +2,7 @@
   "id": "public-key-cryptography-rsaecc",
   "title": "Public Key Cryptography (RSA/ECC)",
   "summary": "Asymmetric encryption enabling secure communication without shared secret",
-  "sector": "cyber",
+  "sector": "information-technology",
   "sourceCategory": "Cybersecurity",
   "sourcePath": "_tech/public-key-cryptography-rsaecc.md",
   "sourceHash": "71ff03f13f68f5f46924c083b608b1d9265e1aa53cce31e9d22cf7e6297aa2f0",

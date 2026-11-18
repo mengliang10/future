@@ -2,7 +2,7 @@
   "id": "deep-brain-stimulation-dbs",
   "title": "Deep Brain Stimulation (DBS)",
   "summary": "Implanted electrodes treating Parkinson's, OCD, depression \u2014 Medtronic, Abbott",
-  "sector": "bci",
+  "sector": "health-care",
   "sourceCategory": "BCI",
   "sourcePath": "_tech/deep-brain-stimulation-dbs.md",
   "sourceHash": "8cd5431bdc70034be55225056a767ceced342128fb8d8f0512f5e1c0d074c83a",

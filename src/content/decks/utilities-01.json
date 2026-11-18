@@ -1,0 +1,25 @@
+{
+  "id": "utilities-01",
+  "title": "Utilities \u2014 Official Sector Briefing",
+  "sector": "utilities",
+  "mode": "evergreen",
+  "added": "2026-11-18",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "ai-managed-smart-grid",
+    "grid-scale-battery-storage-gwh",
+    "grid-energy-storage",
+    "grid-interconnection-reform",
+    "solar-below-1cent-kwh",
+    "perovskite-solar-cell-30-eff",
+    "autonomous-nuclear-plant-operations",
+    "next-gen-nuclear-reactors",
+    "nuclear-reactor-deployment-rate",
+    "nuclear-reactor-deployment-speed",
+    "nuclear-power-deployment-rate",
+    "energy-water-consumption"
+  ]
+}

@@ -1,25 +1,25 @@
 {
   "id": "energy-01",
-  "title": "Energy — Briefing 01",
+  "title": "Energy \u2014 Official Sector Briefing",
   "sector": "energy",
   "mode": "evergreen",
-  "added": "2026-11-16",
+  "added": "2026-11-18",
   "blocks": [
     "reading-framework",
     "evidence-check"
   ],
   "technologies": [
-    "advanced-nuclear-gen-iv-msrsfr",
-    "ai-data-center-energy-efficiency",
-    "ai-data-center-power-demand",
-    "ai-demand-flexibility-grid",
-    "ai-energy-rebound-effect",
-    "ai-managed-smart-grid",
-    "autonomous-nuclear-plant-operations",
-    "behind-the-meter-data-center-generation",
+    "nuclear-fusion-net-energy-gain",
     "commercial-fusion-power-plant",
-    "data-center-energy-demand",
-    "data-center-energy-sustainability",
-    "data-center-power-demand"
+    "scalable-fusion-energy",
+    "grid-scale-battery-storage-gwh",
+    "lithium-ion-battery",
+    "grid-energy-storage",
+    "hydrogen-fuel-cell-pem",
+    "green-hydrogen-2kg-via-electrolysis",
+    "behind-the-meter-data-center-generation",
+    "nuclear-power-deployment-rate",
+    "autonomous-nuclear-plant-operations",
+    "space-based-solar-power-sbsp"
   ]
 }

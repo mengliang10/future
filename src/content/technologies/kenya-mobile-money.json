@@ -2,12 +2,12 @@
   "id": "kenya-mobile-money",
   "title": "Kenya mobile money (M-PESA)",
   "summary": "The original mobile-money system, still the reference model for emerging-market finance.",
-  "sector": "markets",
+  "sector": "financials",
   "sourceCategory": "Financial Markets",
   "sourcePath": "_tech/kenya-mobile-money.md",
   "sourceHash": "8cbf908dd575cc4dc7bdd905f2e48fc169d1bf758ea4be068cfd832a7e914590",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>M-PESA launched in Kenya in 2007 as a way to send money by SMS and became the country's dominant payment and store-of-value system, long before smartphones. It proved that a mobile network, an agent network and simple regulation could bank the unbanked. Newer systems in Africa and Asia copy the agent-based model rather than the app-based one.</p>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development stage</td>\n<td><strong>Mass production</strong></td>\n</tr>\n<tr>\n<td>Estimated window</td>\n<td><strong>2007–2030</strong></td>\n</tr>\n<tr>\n<td>Confidence label</td>\n<td>Confirmed</td>\n</tr>\n<tr>\n<td>Evidence</td>\n<td>Editorial synthesis of company, agency and press reporting</td>\n</tr>\n<tr>\n<td>Compiled</td>\n<td>18 November 2026</td>\n</tr>\n</tbody>\n</table>\n<h2>Related records</h2>\n<h2>Investment Exposure</h2>\n<p>The lesson for fintech is that distribution through local agents beats app elegance where cash is still the alternative.</p>\n<h2>What Would Change The View</h2>\n<ul>\n<li>Interoperability with bank rails.</li>\n<li>Regulatory oversight of agent float.</li>\n<li>Competition from smartphone-based wallets.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nM-PESA launched in Kenya in 2007 as a way to send money by SMS and became the country's dominant payment and store-of-value system, long before smartphones. It proved that a mobile network, an agent network and simple regulation could bank the unbanked. Newer systems in Africa and Asia copy the agent-based model rather than the app-based one.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development stage | **Mass production** |\n| Estimated window | **2007–2030** |\n| Confidence label | Confirmed |\n| Evidence | Editorial synthesis of company, agency and press reporting |\n| Compiled | 18 November 2026 |\n\n## Related records\n\n\n## Investment Exposure\n\nThe lesson for fintech is that distribution through local agents beats app elegance where cash is still the alternative.\n\n## What Would Change The View\n\n- Interoperability with bank rails.\n- Regulatory oversight of agent float.\n- Competition from smartphone-based wallets.\n\n## Record Notes\n\nEditorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>M-PESA launched in Kenya in 2007 as a way to send money by SMS and became the country's dominant payment and store-of-value system, long before smartphones. It proved that a mobile network, an agent network and simple regulation could bank the unbanked. Newer systems in Africa and Asia copy the agent-based model rather than the app-based one.</p>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development stage</td>\n<td><strong>Mass production</strong></td>\n</tr>\n<tr>\n<td>Estimated window</td>\n<td><strong>2007\u20132030</strong></td>\n</tr>\n<tr>\n<td>Confidence label</td>\n<td>Confirmed</td>\n</tr>\n<tr>\n<td>Evidence</td>\n<td>Editorial synthesis of company, agency and press reporting</td>\n</tr>\n<tr>\n<td>Compiled</td>\n<td>18 November 2026</td>\n</tr>\n</tbody>\n</table>\n<h2>Related records</h2>\n<h2>Investment Exposure</h2>\n<p>The lesson for fintech is that distribution through local agents beats app elegance where cash is still the alternative.</p>\n<h2>What Would Change The View</h2>\n<ul>\n<li>Interoperability with bank rails.</li>\n<li>Regulatory oversight of agent float.</li>\n<li>Competition from smartphone-based wallets.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nM-PESA launched in Kenya in 2007 as a way to send money by SMS and became the country's dominant payment and store-of-value system, long before smartphones. It proved that a mobile network, an agent network and simple regulation could bank the unbanked. Newer systems in Africa and Asia copy the agent-based model rather than the app-based one.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development stage | **Mass production** |\n| Estimated window | **2007\u20132030** |\n| Confidence label | Confirmed |\n| Evidence | Editorial synthesis of company, agency and press reporting |\n| Compiled | 18 November 2026 |\n\n## Related records\n\n\n## Investment Exposure\n\nThe lesson for fintech is that distribution through local agents beats app elegance where cash is still the alternative.\n\n## What Would Change The View\n\n- Interoperability with bank rails.\n- Regulatory oversight of agent float.\n- Competition from smartphone-based wallets.\n\n## Record Notes\n\nEditorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Kenya mobile money (M-PESA)",
@@ -16,7 +16,7 @@
     "stage": "mass_production",
     "confidence_label": "Confirmed",
     "est_year": 2007,
-    "est_year_range": "2007–2030",
+    "est_year_range": "2007\u20132030",
     "horizon": "Near-Term (through 2028)",
     "source_count": 0,
     "stocks": [],
@@ -26,7 +26,7 @@
   "reviewedAt": "2026-11-18",
   "stage": "mass_production",
   "confidenceLabel": "Confirmed",
-  "estimate": "2007–2030",
+  "estimate": "2007\u20132030",
   "estimateYear": 2007,
   "companies": [
     "safaricom.ke"

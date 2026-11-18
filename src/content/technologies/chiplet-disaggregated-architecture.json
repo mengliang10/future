@@ -2,7 +2,7 @@
   "id": "chiplet-disaggregated-architecture",
   "title": "Chiplet / Disaggregated Architecture",
   "summary": "Multiple dies integrated in one package; enables yield improvement and specialization",
-  "sector": "semiconductors",
+  "sector": "information-technology",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/chiplet-disaggregated-architecture.md",
   "sourceHash": "3e1898863a77426d666e57d3bb5d63db9c2990dbaa8efa4b77ad0322e211b899",

@@ -1,5 +1,219 @@
 ---
 import {url, base} from '../../lib/base';
-import Site from '../../layouts/Site.astro';import {records} from '../../lib/catalogue';const [sectors,tech]=await Promise.all([records('sectors'),records('technologies')]);
+import Site from '../../layouts/Site.astro';
+import Icon from '../../components/Icon.astro';
+import {records} from '../../lib/catalogue';
+import {visualFor, officialSectorsOrder} from '../../lib/visuals';
+
+const [sectors, tech, companies, decks] = await Promise.all([
+  records('sectors'),
+  records('technologies'),
+  records('companies'),
+  records('decks')
+]);
+
+// Sort sectors by official market weight order
+const sortedSectors = [...sectors].sort((a,b) => {
+  const ia = officialSectorsOrder.indexOf(a.id);
+  const ib = officialSectorsOrder.indexOf(b.id);
+  return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
+});
 ---
-<Site title="Sectors" active="Explore"><div class="container page"><div class="page-heading"><h1>Explore by sector.</h1><p>One consistent taxonomy across research, companies and presentations.</p></div><div class="sector-grid">{sectors.map(s=><a href={url(`/sectors/${s.id}/`)}><span>{s.title}</span><small>{tech.filter(t=>t.sector===s.id).length}</small><i>↗</i></a>)}</div></div></Site>
+<Site title="Official Global Sectors" active="Official Sectors">
+  <div class="container page sectors-overview-page">
+    <header class="page-heading">
+      <div class="heading-kicker">
+        <Icon name="categories" size={16}/>
+        <span>OFFICIAL MARKET CLASSIFICATION & APPLICATION TO FUTURE TECH</span>
+      </div>
+      <h1>Official Sectors.</h1>
+      <p>
+        The 11 official global sectors classified by market weight, daily performance, and technological application.
+        Explore how future technology breakthroughs disrupt each sector or open the dedicated 16:9 Reveal.js briefing.
+      </p>
+    </header>
+
+    <div class="official-sectors-table-wrap">
+      <div class="official-sectors-grid">
+        {sortedSectors.map(s => {
+          const v = visualFor(s.id);
+          const sectorTech = tech.filter(t => t.sector === s.id);
+          const sectorComps = companies.filter(c => c.sector === s.id);
+          const deck = decks.find(d => d.id === `${s.id}-01`) || decks.find(d => d.sector === s.id);
+
+          return (
+            <article class="sector-card" style={`--sector-accent: ${v.color}; --sector-pale: ${v.pale};`}>
+              <div class="sector-top-bar">
+                <span class="sector-emblem-badge" aria-hidden="true">{v.icon}</span>
+                <div class="sector-weights-badge">
+                  <span class="weight-label">Weight: <strong>{s.weight || v.weight || '—'}</strong></span>
+                  <span class="change-label">Day: <strong>{s.change || v.change || '—'}</strong></span>
+                </div>
+              </div>
+
+              <h2>
+                <a href={url(`/sectors/${s.id}/`)}>{s.title}</a>
+              </h2>
+
+              <p class="sector-question">{s.businessQuestion}</p>
+
+              <div class="sector-stats-row">
+                <span><strong>{sectorTech.length}</strong> Technologies</span>
+                <span><strong>{sectorComps.length}</strong> Companies</span>
+              </div>
+
+              <div class="sector-card-actions">
+                <a class="action-explore" href={url(`/sectors/${s.id}/`)}>
+                  Explore Sector Research →
+                </a>
+                <a class="action-presentation" href={url(`/presentations/${deck ? deck.id : s.id + '-01'}/`)} data-astro-reload>
+                  <Icon name="slides" size={13}/>
+                  <span>Slides Briefing</span>
+                </a>
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    </div>
+  </div>
+</Site>
+
+<style>
+.sectors-overview-page {
+  padding-bottom: 60px;
+}
+.heading-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--surface-alt);
+  color: var(--muted);
+  border: 1px solid var(--line);
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin-bottom: 14px;
+}
+.official-sectors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 22px;
+  margin-top: 24px;
+}
+.sector-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--sector-accent);
+  border-radius: 8px;
+  padding: 24px 22px;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.sector-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+.sector-top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 14px;
+}
+.sector-emblem-badge {
+  font-size: 22px;
+  color: var(--sector-accent);
+}
+.sector-weights-badge {
+  display: flex;
+  gap: 8px;
+  font-size: 12px;
+}
+.weight-label, .change-label {
+  padding: 3px 8px;
+  border-radius: 4px;
+}
+.weight-label {
+  background: var(--sector-pale);
+  color: var(--sector-accent);
+}
+.change-label {
+  background: #f0fdf4;
+  color: #166534;
+}
+.sector-card h2 {
+  font-size: 22px;
+  margin: 0 0 10px;
+}
+.sector-card h2 a {
+  color: var(--ink);
+  text-decoration: none;
+}
+.sector-card h2 a:hover {
+  color: var(--sector-accent);
+  text-decoration: underline;
+}
+.sector-question {
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--text);
+  margin: 0 0 20px;
+  flex: 1;
+}
+.sector-stats-row {
+  display: flex;
+  gap: 16px;
+  font-size: 13px;
+  color: var(--muted);
+  padding: 10px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 16px;
+}
+.sector-stats-row strong {
+  color: var(--ink);
+}
+.sector-card-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+.action-explore {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+  text-decoration: none;
+}
+.action-explore:hover {
+  text-decoration: underline;
+  color: var(--sector-accent);
+}
+.action-presentation {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--surface-alt);
+  color: var(--ink);
+  border: 1px solid var(--line);
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.15s ease;
+}
+.action-presentation:hover {
+  background: var(--ink);
+  color: #fff;
+}
+
+@media (max-width: 760px) {
+  .official-sectors-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>

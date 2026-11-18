@@ -2,7 +2,7 @@
   "id": "hardware-security-module-hsm",
   "title": "Hardware Security Module (HSM)",
   "summary": "Dedicated crypto processor for key management \u2014 used in banking, cloud, PKI",
-  "sector": "cyber",
+  "sector": "information-technology",
   "sourceCategory": "Cybersecurity",
   "sourcePath": "_tech/hardware-security-module-hsm.md",
   "sourceHash": "9c2045ce6859f49e3f5184b6ad7327cdec839bf3e14d77832a7a162dc3386aa0",

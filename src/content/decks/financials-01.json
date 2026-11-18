@@ -1,0 +1,25 @@
+{
+  "id": "financials-01",
+  "title": "Financials \u2014 Official Sector Briefing",
+  "sector": "financials",
+  "mode": "evergreen",
+  "added": "2026-11-18",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "programmable-money",
+    "stablecoin-payments",
+    "interoperable-payment-rails",
+    "instant-payment-rails",
+    "brazil-pix",
+    "kenya-mobile-money",
+    "mastercard-ai-intent-cryptogram",
+    "eu-mica-stablecoin-regulation",
+    "bitcoin-etf",
+    "tokenized-bank-deposits",
+    "tokenized-real-world-assets",
+    "defi-ecosystem"
+  ]
+}

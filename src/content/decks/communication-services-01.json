@@ -1,0 +1,25 @@
+{
+  "id": "communication-services-01",
+  "title": "Communication Services \u2014 Official Sector Briefing",
+  "sector": "communication-services",
+  "mode": "evergreen",
+  "added": "2026-11-18",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "social-media-advertising",
+    "social-media-user-demand",
+    "6g-extreme-mimo-x-mimo-7-ghz-network",
+    "real-time-bidding-rtb-openrtb",
+    "search-engine-advertising-semppc",
+    "connected-tv-programmatic",
+    "programmatic-display-advertising",
+    "retail-media-network-rmn",
+    "quantum-network-entanglement-dist",
+    "quantum-network-entanglement-distribution",
+    "leo-satellite-connectivity",
+    "environmental-monitoring-networks"
+  ]
+}

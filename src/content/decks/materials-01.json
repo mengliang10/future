@@ -1,0 +1,25 @@
+{
+  "id": "materials-01",
+  "title": "Materials \u2014 Official Sector Briefing",
+  "sector": "materials",
+  "mode": "evergreen",
+  "added": "2026-11-18",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "in-situ-catalysis-characterization",
+    "ml-superconductor-structure-prediction",
+    "ai-accelerated-materials-discovery",
+    "automated-materials-discovery",
+    "computational-materials-science",
+    "next-gen-materials",
+    "granular-material-simulation",
+    "real-world-catalysis-modeling",
+    "bio-derived-high-performance-materials",
+    "bio-inspired-structural-materials",
+    "low-temperature-cu-polymer-hybrid-bonding",
+    "asteroid-mining-demonstration"
+  ]
+}

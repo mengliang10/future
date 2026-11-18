@@ -2,7 +2,7 @@
   "id": "liquid-rocket-propulsion-rp-1lox",
   "title": "Liquid Rocket Propulsion (RP-1/LOX)",
   "summary": "RP-1/LOX and LH2/LOX engines powering orbital launch vehicles",
-  "sector": "space",
+  "sector": "industrials",
   "sourceCategory": "Space Tech",
   "sourcePath": "_tech/liquid-rocket-propulsion-rp-1lox.md",
   "sourceHash": "1022fd4c9de6a0ed79df1edd798cc76d7bb618a3d34a7a35e99199036c016218",

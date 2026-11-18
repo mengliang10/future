@@ -1,0 +1,25 @@
+{
+  "id": "consumer-staples-01",
+  "title": "Consumer Staples \u2014 Official Sector Briefing",
+  "sector": "consumer-staples",
+  "mode": "evergreen",
+  "added": "2026-11-18",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "cultivated-meat-at-scale",
+    "generative-protein-design",
+    "protein-structure-prediction-ai",
+    "quantum-protein-folding-solver",
+    "advanced-packaging-technologies",
+    "advanced-packaging-adoption",
+    "semiconductor-packaging",
+    "ai-agentic-supply-chain",
+    "multi-source-energy-harvesting",
+    "energy-water-consumption",
+    "waste-heat-recovery-efficiency",
+    "waste-heat-recovery"
+  ]
+}

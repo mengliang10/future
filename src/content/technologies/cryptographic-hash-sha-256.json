@@ -2,7 +2,7 @@
   "id": "cryptographic-hash-sha-256",
   "title": "Cryptographic Hash (SHA-256)",
   "summary": "One-way deterministic hash enabling digital fingerprinting and proof-of-work",
-  "sector": "blockchain",
+  "sector": "financials",
   "sourceCategory": "Blockchain",
   "sourcePath": "_tech/cryptographic-hash-sha-256.md",
   "sourceHash": "5da74d6cbbf68d4ccf44108d6531eea0ccc9c173a7d1e1134a2d51516d7beaac",

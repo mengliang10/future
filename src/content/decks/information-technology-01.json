@@ -1,0 +1,25 @@
+{
+  "id": "information-technology-01",
+  "title": "Information Technology \u2014 Official Sector Briefing",
+  "sector": "information-technology",
+  "mode": "evergreen",
+  "added": "2026-11-18",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "quantum-enhanced-semiconductor-design",
+    "ai-assisted-chip-design-eda-ai",
+    "rain-ai-software",
+    "llm-code-generation-accuracy",
+    "on-chip-photonics-quantum",
+    "integrated-quantum-photonics-chip",
+    "quantum-computing-sector",
+    "quantum-simulation-semiconductor-native",
+    "ai-agent-platform",
+    "local-ai-agent-capability",
+    "angstrom-era-chips-10-gate-length",
+    "neuromorphic-computing-chip"
+  ]
+}

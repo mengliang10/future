@@ -1,0 +1,17 @@
+{
+  "id": "consumer-discretionary",
+  "title": "Consumer Discretionary",
+  "weight": "10%",
+  "change": "0.56%",
+  "aliases": [
+    "Consumer Discretionary",
+    "Automotive",
+    "EV",
+    "Consumer Tech",
+    "Retail",
+    "Gaming",
+    "Spatial Computing"
+  ],
+  "businessQuestion": "How will autonomous electric vehicles, personal AI agents, and immersive consumer devices reshape discretionary spending and consumer loyalty?",
+  "investorQuestion": "Who captures consumer wallet share as hardware shifts to subscription ecosystems and intelligent automated services?"
+}

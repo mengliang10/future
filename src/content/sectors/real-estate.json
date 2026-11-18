@@ -1,0 +1,15 @@
+{
+  "id": "real-estate",
+  "title": "Real Estate",
+  "weight": "2%",
+  "change": "1.40%",
+  "aliases": [
+    "Real Estate",
+    "PropTech",
+    "Smart Buildings",
+    "Construction Tech",
+    "Data Center Facilities"
+  ],
+  "businessQuestion": "How will autonomous construction, intelligent building automation, and high-density computing infrastructure transform real asset yields?",
+  "investorQuestion": "Which real estate asset classes benefit most from power-dense AI data centers and industrialized modular building methods?"
+}

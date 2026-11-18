@@ -2,7 +2,7 @@
   "id": "grid-energy-storage",
   "title": "Grid Energy Storage",
   "summary": "Grid Energy Storage",
-  "sector": "energy",
+  "sector": "utilities",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/grid-energy-storage.md",
   "sourceHash": "7ff5a1edb7df9dd22aecf8c2c8cdbe57451b19fa2d7cd4678d185dd1039667ad",

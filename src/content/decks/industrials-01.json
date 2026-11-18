@@ -1,0 +1,25 @@
+{
+  "id": "industrials-01",
+  "title": "Industrials \u2014 Official Sector Briefing",
+  "sector": "industrials",
+  "mode": "evergreen",
+  "added": "2026-11-18",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "full-warehouse-automation",
+    "robotics-automation",
+    "collaborative-robot-cobot",
+    "robotics-foundation-model",
+    "post-scarcity-robotic-manufacturing",
+    "advanced-manufacturing",
+    "nano-robotics-autonomous-navigation",
+    "small-satellite-rideshare-launch",
+    "autonomous-drone-delivery",
+    "autonomous-lunarmars-rover-fleet",
+    "sustainable-by-design-manufacturing",
+    "3d-machine-vision-point-cloud"
+  ]
+}

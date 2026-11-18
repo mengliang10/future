@@ -1,0 +1,16 @@
+{
+  "id": "materials",
+  "title": "Materials",
+  "weight": "2%",
+  "change": "1.17%",
+  "aliases": [
+    "Materials",
+    "Advanced Materials",
+    "Chemicals",
+    "Nanomaterials",
+    "Superconductors",
+    "Mining"
+  ],
+  "businessQuestion": "How will AI-accelerated materials discovery and room-temperature superconductors lower manufacturing and thermal costs across heavy industry?",
+  "investorQuestion": "Which advanced synthetic material formulations have viable production scaling curves before patent expiration?"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "utilities",
+  "title": "Utilities",
+  "weight": "2%",
+  "change": "1.60%",
+  "aliases": [
+    "Utilities",
+    "Grid Management",
+    "Water Tech",
+    "Power Transmission",
+    "Desalination",
+    "Smart Grid"
+  ],
+  "businessQuestion": "How can transmission networks absorb 10x data center load spikes without catastrophic grid instability or prohibitive rate increases?",
+  "investorQuestion": "Which regulated utility operators and grid-orchestration software providers have guaranteed return-on-equity backing their capex expansion?"
+}

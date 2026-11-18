@@ -2,7 +2,7 @@
   "id": "bci-motor-cortex-decoding",
   "title": "BCI Motor Cortex Decoding",
   "summary": "Decoding intended movement from neural signals to control prosthetics/cursors",
-  "sector": "bci",
+  "sector": "health-care",
   "sourceCategory": "BCI",
   "sourcePath": "_tech/bci-motor-cortex-decoding.md",
   "sourceHash": "c6f954a87fcfaad4f2365923b75334c25a7b0e1b388edeafcea760847f1cf6bb",

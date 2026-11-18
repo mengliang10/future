@@ -1,0 +1,25 @@
+{
+  "id": "health-care-01",
+  "title": "Health Care \u2014 Official Sector Briefing",
+  "sector": "health-care",
+  "mode": "evergreen",
+  "added": "2026-11-18",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "medical-ai-diagnostics",
+    "in-vivo-crispr-therapy",
+    "crispr-cas9-gene-editing",
+    "precision-gene-editing",
+    "precision-cancer-therapy",
+    "cancer-elimination-most-types",
+    "gene-therapy-rare-disease-fda-approved",
+    "personalized-gene-editing-drug-approvals",
+    "mrna-vaccine-therapeutic-platform",
+    "car-t-cell-therapy",
+    "gut-brain-axis-therapeutics",
+    "synthetic-medical-data"
+  ]
+}

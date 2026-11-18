@@ -2,7 +2,7 @@
   "id": "adaptive-cruise-control-acc",
   "title": "Adaptive Cruise Control (ACC)",
   "summary": "Radar-based following distance control; standard on new vehicles globally",
-  "sector": "autonomous",
+  "sector": "industrials",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/adaptive-cruise-control-acc.md",
   "sourceHash": "bf54cce35b45480c81ddf73c24da85ef9e9493c1d349f3084ad77eec1258818d",

@@ -1,0 +1,17 @@
+{
+  "id": "information-technology",
+  "title": "Information Technology",
+  "weight": "34%",
+  "change": "0.77%",
+  "aliases": [
+    "Information Technology",
+    "AI & Computing",
+    "Semiconductors",
+    "Cloud",
+    "Quantum",
+    "Cybersecurity",
+    "Software"
+  ],
+  "businessQuestion": "How will foundational AI models, sub-2nm chip fabrication, quantum computing, and zero-trust security protect or expand enterprise margins?",
+  "investorQuestion": "Will margin capture consolidate in semiconductor foundries and frontier model platforms, or migrate to enterprise application layers?"
+}

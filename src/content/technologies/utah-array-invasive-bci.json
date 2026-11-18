@@ -2,7 +2,7 @@
   "id": "utah-array-invasive-bci",
   "title": "Utah Array Invasive BCI",
   "summary": "96-electrode cortical implant for motor neuron decoding \u2014 BrainGate research",
-  "sector": "bci",
+  "sector": "health-care",
   "sourceCategory": "BCI",
   "sourcePath": "_tech/utah-array-invasive-bci.md",
   "sourceHash": "8852999dde10e401e64b897b52616e67aa662acfa79460994a2cbaf76b5bc378",

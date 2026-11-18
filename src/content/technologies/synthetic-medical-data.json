@@ -2,7 +2,7 @@
   "id": "synthetic-medical-data",
   "title": "Synthetic Medical Data Generation",
   "summary": "Generative AI creating high-fidelity medical images/records to train biased-free models.",
-  "sector": "biotech",
+  "sector": "health-care",
   "sourceCategory": "Biotech",
   "sourcePath": "_tech/synthetic-medical-data.md",
   "sourceHash": "380ed408ce9ca931003a78cc6e3ff2452292e6cc112dd7a581a23bb6d1187352",

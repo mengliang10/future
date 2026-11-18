@@ -2,7 +2,7 @@
   "id": "edr-endpoint-detection-response",
   "title": "EDR (Endpoint Detection & Response)",
   "summary": "Continuous endpoint monitoring and AI threat detection \u2014 CrowdStrike, SentinelOne",
-  "sector": "cyber",
+  "sector": "information-technology",
   "sourceCategory": "Cybersecurity",
   "sourcePath": "_tech/edr-endpoint-detection-response.md",
   "sourceHash": "f92e81cc797843265603b96d9ec0a5399a93fb6c27204d10d2ce19e036c89b3f",

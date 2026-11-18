@@ -1,0 +1,25 @@
+{
+  "id": "real-estate-01",
+  "title": "Real Estate \u2014 Official Sector Briefing",
+  "sector": "real-estate",
+  "mode": "evergreen",
+  "added": "2026-11-18",
+  "blocks": [
+    "reading-framework",
+    "evidence-check"
+  ],
+  "technologies": [
+    "hyperscale-data-center-buildout",
+    "hyperscale-ai-data-centers",
+    "data-center-capacity-doubling",
+    "data-center-liquid-cooling",
+    "nhn-water-cooling-gpu",
+    "behind-the-meter-data-center-generation",
+    "ai-data-center-power-demand",
+    "ai-data-center-energy-efficiency",
+    "tokenized-real-world-assets",
+    "energy-water-consumption",
+    "small-modular-reactor-300mwe",
+    "mems-solid-state-cooling"
+  ]
+}
