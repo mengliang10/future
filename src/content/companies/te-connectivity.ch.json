@@ -1,0 +1,29 @@
+{
+  "id": "te-connectivity.ch",
+  "title": "TE Connectivity",
+  "summary": "Swiss-American connector and sensor group serving aerospace, automotive and data centres.",
+  "sector": "information-technology",
+  "sourceCategory": "Hardware",
+  "sourcePath": "_stocks/te-connectivity.ch.md",
+  "sourceHash": "23ea7cdc685d13e7abd175a3a927cc1689c28f719d44d440563f0752700ce30e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>TE Connectivity makes connectors, relays, sensors and cable assemblies for vehicles, aircraft, satellites and data centres. Its aerospace and defence business supplies harsh-environment interconnects used in launch and satellite systems. The company is also a major supplier of high-speed connectors for AI data-centre hardware.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Aerospace and defence connectors</li>\n<li>High-speed data-centre interconnects</li>\n<li>Automotive sensors and connectors</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Aerospace build rates</li>\n<li>AI data-centre demand</li>\n<li>Automotive production</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTE Connectivity makes connectors, relays, sensors and cable assemblies for vehicles, aircraft, satellites and data centres. Its aerospace and defence business supplies harsh-environment interconnects used in launch and satellite systems. The company is also a major supplier of high-speed connectors for AI data-centre hardware.\n\n## Technology Exposure\n\n- Aerospace and defence connectors\n- High-speed data-centre interconnects\n- Automotive sensors and connectors\n\n## What To Watch\n\n- Aerospace build rates\n- AI data-centre demand\n- Automotive production\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "TE Connectivity",
+    "symbol": "TEL.SW",
+    "exchange": "SIX",
+    "categories": [
+      "Hardware"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "TEL.SW",
+  "exchange": "SIX",
+  "private": false,
+  "businessMeaning": "Harsh-environment qualification is the moat; consumer-grade parts cannot substitute.",
+  "investmentLens": "A diversified interconnect leader with space and AI exposure; watch segment growth."
+}

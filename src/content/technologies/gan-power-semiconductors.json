@@ -29,7 +29,18 @@
   "estimate": "2021\u20132025",
   "estimateYear": 2023,
   "sourceCount": 12,
-  "companies": [],
+  "companies": [
+    "kyocera.jp",
+    "meiko.jp",
+    "mitsubishi-materials.jp",
+    "murata.jp",
+    "tdk.jp",
+    "taiyo-yuden.jp",
+    "yageo.tw",
+    "vicor.us",
+    "aixtron.de",
+    "pva-tepla.de"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

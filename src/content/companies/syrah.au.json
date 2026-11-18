@@ -1,0 +1,29 @@
+{
+  "id": "syrah.au",
+  "title": "Syrah Resources",
+  "summary": "Australian graphite producer with a US anode-material plant.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/syrah.au.md",
+  "sourceHash": "6246fc776d0f16e48c851086843852953c3ed37f140b10af2852b53b98719535",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Syrah Resources mines graphite at Balama in Mozambique and produces anode material at its Vidalia plant in Louisiana. Natural-graphite anode supply is dominated by China, so a non-Chinese integrated source is strategically valuable to US battery supply chains. Ramp-up and financing have been the main risks.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Natural graphite concentrate</li>\n<li>Anode active material</li>\n<li>US anode capacity</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Vidalia ramp and customer qualification</li>\n<li>Graphite pricing</li>\n<li>Financing and ownership changes</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSyrah Resources mines graphite at Balama in Mozambique and produces anode material at its Vidalia plant in Louisiana. Natural-graphite anode supply is dominated by China, so a non-Chinese integrated source is strategically valuable to US battery supply chains. Ramp-up and financing have been the main risks.\n\n## Technology Exposure\n\n- Natural graphite concentrate\n- Anode active material\n- US anode capacity\n\n## What To Watch\n\n- Vidalia ramp and customer qualification\n- Graphite pricing\n- Financing and ownership changes\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Syrah Resources",
+    "symbol": "SYR.AX",
+    "exchange": "ASX",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SYR.AX",
+  "exchange": "ASX",
+  "private": false,
+  "businessMeaning": "Anode is the least diversified part of the battery chain; non-Chinese capacity carries a policy premium.",
+  "investmentLens": "A strategic but capital-hungry producer; watch plant ramp."
+}

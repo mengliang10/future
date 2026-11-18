@@ -1,0 +1,29 @@
+{
+  "id": "uniqure.nl",
+  "title": "uniQure",
+  "summary": "Dutch gene-therapy company focused on central-nervous-system and liver diseases.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/uniqure.nl.md",
+  "sourceHash": "14f18e3a6e10d709760cb43f9155fa54dce8283fe84db61388d6dcf24b6db7fe",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>uniQure develops AAV gene therapies for Huntington's disease, haemophilia and other rare conditions, and has an approved therapy in Europe. It operates its own manufacturing and has partnered programmes with larger companies. Clinical data and financing dominate the story.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>AAV gene therapy</li>\n<li>Huntington's and haemophilia programmes</li>\n<li>Gene-therapy manufacturing</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Clinical data</li>\n<li>Regulatory path</li>\n<li>Cash runway</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nuniQure develops AAV gene therapies for Huntington's disease, haemophilia and other rare conditions, and has an approved therapy in Europe. It operates its own manufacturing and has partnered programmes with larger companies. Clinical data and financing dominate the story.\n\n## Technology Exposure\n\n- AAV gene therapy\n- Huntington's and haemophilia programmes\n- Gene-therapy manufacturing\n\n## What To Watch\n\n- Clinical data\n- Regulatory path\n- Cash runway\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "uniQure",
+    "symbol": "QURE",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "QURE",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "AAV manufacturing capacity and dosing scale are persistent constraints on gene therapy.",
+  "investmentLens": "A clinical-stage gene-therapy company; watch trial data."
+}

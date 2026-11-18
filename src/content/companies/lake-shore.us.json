@@ -1,0 +1,29 @@
+{
+  "id": "lake-shore.us",
+  "title": "Lake Shore Cryotronics",
+  "summary": "US supplier of cryogenic temperature sensors, controllers and probe stations.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/lake-shore.us.md",
+  "sourceHash": "55fd019f1ae4784b75a8bdc844f0f3c164e7a82d69d4e6a5b4b8aabbde98e8d5",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Lake Shore Cryotronics makes temperature sensors, cryogenic controllers and probe stations used to characterise materials and devices at low temperature. Its instruments are standard equipment in quantum and condensed-matter labs. The company also supplies magnetic-field measurement systems.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Cryogenic temperature sensors and controllers</li>\n<li>Probe stations</li>\n<li>Magnetic measurement systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Research and quantum-lab demand</li>\n<li>Semiconductor metrology demand</li>\n<li>Competition from larger instrument groups</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLake Shore Cryotronics makes temperature sensors, cryogenic controllers and probe stations used to characterise materials and devices at low temperature. Its instruments are standard equipment in quantum and condensed-matter labs. The company also supplies magnetic-field measurement systems.\n\n## Technology Exposure\n\n- Cryogenic temperature sensors and controllers\n- Probe stations\n- Magnetic measurement systems\n\n## What To Watch\n\n- Research and quantum-lab demand\n- Semiconductor metrology demand\n- Competition from larger instrument groups\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Lake Shore Cryotronics",
+    "symbol": "LAKE-SHORE.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "LAKE-SHORE.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Accurate thermometry is a precondition for reproducible qubit experiments.",
+  "investmentLens": "Private; a niche cryogenic-instrumentation supplier."
+}

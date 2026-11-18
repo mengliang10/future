@@ -1,0 +1,29 @@
+{
+  "id": "atkinsrealis.ca",
+  "title": "AtkinsRealis",
+  "summary": "Canadian engineering group with Candu reactor and nuclear-services expertise.",
+  "sector": "industrials",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/atkinsrealis.ca.md",
+  "sourceHash": "358f9d551cc439bb03abd958790a14e1918d1192fa0e13ddb898a77d93f3c12f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>AtkinsRealis provides nuclear engineering, reactor life-extension and decommissioning services, and holds Candu reactor technology. It supports utilities in Canada and abroad and is involved in advanced-reactor studies. Its engineering and construction segments also serve infrastructure and power clients.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Candu reactor technology and services</li>\n<li>Nuclear life extension and decommissioning</li>\n<li>Engineering and infrastructure</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Reactor refurbishment programmes</li>\n<li>New-build decisions</li>\n<li>Project execution</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAtkinsRealis provides nuclear engineering, reactor life-extension and decommissioning services, and holds Candu reactor technology. It supports utilities in Canada and abroad and is involved in advanced-reactor studies. Its engineering and construction segments also serve infrastructure and power clients.\n\n## Technology Exposure\n\n- Candu reactor technology and services\n- Nuclear life extension and decommissioning\n- Engineering and infrastructure\n\n## What To Watch\n\n- Reactor refurbishment programmes\n- New-build decisions\n- Project execution\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "AtkinsRealis",
+    "symbol": "ATRL.TO",
+    "exchange": "Toronto",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ATRL.TO",
+  "exchange": "Toronto",
+  "private": false,
+  "businessMeaning": "Reactor refurbishment is a multi-year, sole-source service market.",
+  "investmentLens": "A nuclear-services specialist inside an engineering group; watch refurbishment awards."
+}

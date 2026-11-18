@@ -1,0 +1,29 @@
+{
+  "id": "attocube.de",
+  "title": "attocube systems",
+  "summary": "German maker of cryogenic nanopositioners and microscopy systems for quantum research.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/attocube.de.md",
+  "sourceHash": "2baf59c4be763d988d2936ade385296035908f431cb803ccfe524e5c5cd56742",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>attocube builds nanopositioners, cryogenic scanning microscopes and optical cryostats used to characterise qubits and quantum materials at low temperature. Its piezo-based positioning works at millikelvin temperatures, a niche capability that few companies offer. The company supplies research labs and quantum-hardware developers.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Cryogenic nanopositioners</li>\n<li>Low-temperature microscopes</li>\n<li>Optical cryostats</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Quantum research funding</li>\n<li>Materials-research demand</li>\n<li>Small-market competition</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nattocube builds nanopositioners, cryogenic scanning microscopes and optical cryostats used to characterise qubits and quantum materials at low temperature. Its piezo-based positioning works at millikelvin temperatures, a niche capability that few companies offer. The company supplies research labs and quantum-hardware developers.\n\n## Technology Exposure\n\n- Cryogenic nanopositioners\n- Low-temperature microscopes\n- Optical cryostats\n\n## What To Watch\n\n- Quantum research funding\n- Materials-research demand\n- Small-market competition\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "attocube systems",
+    "symbol": "ATTOCUBE.DE",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ATTOCUBE.DE",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Measuring a single qubit requires motion at cryogenic temperatures; the tooling is specialised.",
+  "investmentLens": "Private; a niche instrumentation supplier to quantum labs."
+}

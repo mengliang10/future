@@ -1,0 +1,29 @@
+{
+  "id": "samsung-biologics.kr",
+  "title": "Samsung Biologics",
+  "summary": "Korean biologics contract manufacturer with very large mammalian-cell capacity.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/samsung-biologics.kr.md",
+  "sourceHash": "5c05a1c1c43f50951acbfa958189845c805157e4d9356bc34162e1973a2f6baf",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Samsung Biologics operates large-scale mammalian-cell manufacturing plants in Incheon and provides contract development and manufacturing for global pharma and biotech customers. It has been adding capacity and moving into antibody-drug conjugates and mRNA. Order backlog and plant utilisation determine results.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Biologics contract manufacturing</li>\n<li>Antibody-drug conjugate capacity</li>\n<li>mRNA and gene-therapy services</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Plant utilisation and new orders</li>\n<li>Capacity additions</li>\n<li>Competition and pricing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSamsung Biologics operates large-scale mammalian-cell manufacturing plants in Incheon and provides contract development and manufacturing for global pharma and biotech customers. It has been adding capacity and moving into antibody-drug conjugates and mRNA. Order backlog and plant utilisation determine results.\n\n## Technology Exposure\n\n- Biologics contract manufacturing\n- Antibody-drug conjugate capacity\n- mRNA and gene-therapy services\n\n## What To Watch\n\n- Plant utilisation and new orders\n- Capacity additions\n- Competition and pricing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Samsung Biologics",
+    "symbol": "207940.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "207940.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Biologic manufacturing scale is a barrier; few CDMOs can offer multi-thousand-litre reactors.",
+  "investmentLens": "A CDMO growth story; watch backlog and utilisation."
+}

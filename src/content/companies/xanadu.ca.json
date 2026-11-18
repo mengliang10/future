@@ -1,0 +1,29 @@
+{
+  "id": "xanadu.ca",
+  "title": "Xanadu",
+  "summary": "Canadian photonic quantum-computing company building squeezed-light processors.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/xanadu.ca.md",
+  "sourceHash": "613befd432ea91f0be04c98bfe8a0d2a0e0be8eee037f49dd11ba35b4ba9eebf",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Xanadu develops photonic quantum computers using squeezed light and integrated photonics, and maintains PennyLane, a widely used open-source quantum-software library. Photonic approaches can operate at room temperature, though they require low-loss detectors and precise interferometers. The company has published boson-sampling results and is working toward fault tolerance.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Photonic quantum processors</li>\n<li>Quantum software and PennyLane</li>\n<li>Photonic components and detectors</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Fault-tolerance milestones</li>\n<li>Photonic chip manufacturing</li>\n<li>Funding and commercial contracts</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nXanadu develops photonic quantum computers using squeezed light and integrated photonics, and maintains PennyLane, a widely used open-source quantum-software library. Photonic approaches can operate at room temperature, though they require low-loss detectors and precise interferometers. The company has published boson-sampling results and is working toward fault tolerance.\n\n## Technology Exposure\n\n- Photonic quantum processors\n- Quantum software and PennyLane\n- Photonic components and detectors\n\n## What To Watch\n\n- Fault-tolerance milestones\n- Photonic chip manufacturing\n- Funding and commercial contracts\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Xanadu",
+    "symbol": "XANADU.CA",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "XANADU.CA",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Photonics avoids cryogenics but pushes difficulty into detectors and loss control.",
+  "investmentLens": "Private; a photonic-platform option with a strong software community."
+}

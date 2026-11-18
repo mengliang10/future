@@ -1,0 +1,29 @@
+{
+  "id": "denison.ca",
+  "title": "Denison Mines",
+  "summary": "Canadian uranium developer with the Wheeler River project.",
+  "sector": "energy",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/denison.ca.md",
+  "sourceHash": "5c0d6b9cd56868129574a99c5ff7fbb6cf3300fa6cd9a7ecac84cab45a8b637b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Denison Mines is developing the Wheeler River uranium project in Saskatchewan and holds exploration and processing interests. Its Phoenix deposit is designed as an in-situ recovery operation, which could lower capital cost. Permitting and uranium prices determine the timeline.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Uranium development</li>\n<li>In-situ recovery project</li>\n<li>Exploration interests</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Permitting and construction</li>\n<li>Uranium prices</li>\n<li>Project economics</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nDenison Mines is developing the Wheeler River uranium project in Saskatchewan and holds exploration and processing interests. Its Phoenix deposit is designed as an in-situ recovery operation, which could lower capital cost. Permitting and uranium prices determine the timeline.\n\n## Technology Exposure\n\n- Uranium development\n- In-situ recovery project\n- Exploration interests\n\n## What To Watch\n\n- Permitting and construction\n- Uranium prices\n- Project economics\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Denison Mines",
+    "symbol": "DNN",
+    "exchange": "NYSE",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "DNN",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "In-situ recovery can be cheaper than conventional mining if geology cooperates.",
+  "investmentLens": "A development-stage uranium play; watch permitting."
+}

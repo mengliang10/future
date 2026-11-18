@@ -1,0 +1,29 @@
+{
+  "id": "jacobs.us",
+  "title": "Jacobs Solutions",
+  "summary": "US engineering group with nuclear, water and advanced-facility design businesses.",
+  "sector": "industrials",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/jacobs.us.md",
+  "sourceHash": "f027cef9ef20aacf20b58f06d13ce0f64235c3e9225f33e6ef14109f0618c076",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Jacobs provides engineering, design and programme-management services for nuclear plants, semiconductor fabs, water systems and government facilities. Its nuclear work covers new-build support, decommissioning and fuel-cycle facilities. The business is people-intensive and tied to government and industrial capex.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Nuclear engineering and programme management</li>\n<li>Advanced manufacturing facility design</li>\n<li>Water and environmental engineering</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Government nuclear budgets</li>\n<li>Semiconductor fab construction</li>\n<li>Contract margins</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nJacobs provides engineering, design and programme-management services for nuclear plants, semiconductor fabs, water systems and government facilities. Its nuclear work covers new-build support, decommissioning and fuel-cycle facilities. The business is people-intensive and tied to government and industrial capex.\n\n## Technology Exposure\n\n- Nuclear engineering and programme management\n- Advanced manufacturing facility design\n- Water and environmental engineering\n\n## What To Watch\n\n- Government nuclear budgets\n- Semiconductor fab construction\n- Contract margins\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Jacobs Solutions",
+    "symbol": "J",
+    "exchange": "NYSE",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "J",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Nuclear construction needs licensed engineers and quality programmes, not just capital.",
+  "investmentLens": "An engineering services play on nuclear and fab build-out; watch backlog."
+}

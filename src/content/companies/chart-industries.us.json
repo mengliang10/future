@@ -1,0 +1,29 @@
+{
+  "id": "chart-industries.us",
+  "title": "Chart Industries",
+  "summary": "US maker of cryogenic tanks, liquefaction equipment and gas-handling systems.",
+  "sector": "industrials",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_stocks/chart-industries.us.md",
+  "sourceHash": "4427fca1b33ca7552171a3931b38339ea7b3cf93696d614c0bad9e9c6436b938",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Chart Industries builds cryogenic storage tanks, liquefiers, pumps and gas-handling equipment for industrial gas, hydrogen, LNG and space customers. Launch sites need large liquid-oxygen and liquid-nitrogen supply, and Chart's tanks and vaporisers sit in that infrastructure. Clean-energy projects add growth and cyclicality.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Cryogenic tanks and vaporisers</li>\n<li>Liquefaction and gas-processing equipment</li>\n<li>Hydrogen and LNG infrastructure</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Hydrogen and LNG project awards</li>\n<li>Industrial gas capex</li>\n<li>Integration and leverage</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nChart Industries builds cryogenic storage tanks, liquefiers, pumps and gas-handling equipment for industrial gas, hydrogen, LNG and space customers. Launch sites need large liquid-oxygen and liquid-nitrogen supply, and Chart's tanks and vaporisers sit in that infrastructure. Clean-energy projects add growth and cyclicality.\n\n## Technology Exposure\n\n- Cryogenic tanks and vaporisers\n- Liquefaction and gas-processing equipment\n- Hydrogen and LNG infrastructure\n\n## What To Watch\n\n- Hydrogen and LNG project awards\n- Industrial gas capex\n- Integration and leverage\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Chart Industries",
+    "symbol": "GTLS",
+    "exchange": "NYSE",
+    "categories": [
+      "Energy Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "GTLS",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Propellant supply is launch infrastructure; tank capacity can limit launch cadence.",
+  "investmentLens": "An energy-equipment cyclical with space-adjacent demand; watch orders."
+}

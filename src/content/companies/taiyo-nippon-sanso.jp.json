@@ -1,0 +1,29 @@
+{
+  "id": "taiyo-nippon-sanso.jp",
+  "title": "Taiyo Nippon Sanso",
+  "summary": "Japanese industrial-gas group with strong electronics and cryogenic capabilities.",
+  "sector": "materials",
+  "sourceCategory": "Industrial Gases",
+  "sourcePath": "_stocks/taiyo-nippon-sanso.jp.md",
+  "sourceHash": "7fc63470182e1fdc05c1bcb5ef72a3a4dc996e7af5fc8b5d4e7f851c5a993f8f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Taiyo Nippon Sanso, part of the Nippon Sanso Holdings group, supplies electronic specialty gases, gas-delivery equipment and cryogenic systems in Japan and overseas. Its electronics business is tied to Japanese and Asian fab capex, while its cryogenic technology serves semiconductor, medical and space applications. The group has been expanding in the US and Europe.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Electronic specialty gases</li>\n<li>Cryogenic equipment and systems</li>\n<li>Industrial and medical gases</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Asian fab capex</li>\n<li>Cryogenic and space-related demand</li>\n<li>Overseas expansion integration</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTaiyo Nippon Sanso, part of the Nippon Sanso Holdings group, supplies electronic specialty gases, gas-delivery equipment and cryogenic systems in Japan and overseas. Its electronics business is tied to Japanese and Asian fab capex, while its cryogenic technology serves semiconductor, medical and space applications. The group has been expanding in the US and Europe.\n\n## Technology Exposure\n\n- Electronic specialty gases\n- Cryogenic equipment and systems\n- Industrial and medical gases\n\n## What To Watch\n\n- Asian fab capex\n- Cryogenic and space-related demand\n- Overseas expansion integration\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Taiyo Nippon Sanso",
+    "symbol": "4091.T",
+    "exchange": "TSE",
+    "categories": [
+      "Industrial Gases"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "4091.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Cryogenics and specialty gases are niche capabilities that few suppliers can combine.",
+  "investmentLens": "A steady gases group with electronics leverage; watch overseas growth."
+}

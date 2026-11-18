@@ -29,7 +29,20 @@
   "estimate": "2030\u20132045",
   "estimateYear": 2037,
   "sourceCount": 14,
-  "companies": [],
+  "companies": [
+    "kolon-industries.kr",
+    "toray.jp",
+    "teijin.jp",
+    "lynas.au",
+    "mp-materials.us",
+    "neo-performance.ca",
+    "iluka.au",
+    "ati.us",
+    "howmet.us",
+    "hexcel.us",
+    "syensqo.be",
+    "materion.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

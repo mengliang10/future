@@ -1,0 +1,29 @@
+{
+  "id": "schott.de",
+  "title": "SCHOTT",
+  "summary": "German specialty-glass maker supplying glass wafers, through-glass vias and pharma packaging.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/schott.de.md",
+  "sourceHash": "0b285edcccd9d785ce9a862f40b19667e0c678ef73b1efc2c40e98af14dd7d53",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>SCHOTT makes specialty glass for displays, optics, pharmaceutical containers and semiconductor applications, including glass wafers and substrates used in MEMS, imaging and advanced packaging. Glass is attractive as a package core and carrier because it is stiff, flat and dimensionally stable at panel scale, and SCHOTT's glass-forming know-how is a barrier to entry. The company is owned by the Carl Zeiss Foundation and reports privately.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Glass wafers and carriers for semiconductor processing</li>\n<li>Specialty glass for optics and displays</li>\n<li>Pharmaceutical packaging and tubing</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Glass-core substrate adoption in advanced packaging</li>\n<li>Panel-level processing demand</li>\n<li>Energy costs at European glass plants</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSCHOTT makes specialty glass for displays, optics, pharmaceutical containers and semiconductor applications, including glass wafers and substrates used in MEMS, imaging and advanced packaging. Glass is attractive as a package core and carrier because it is stiff, flat and dimensionally stable at panel scale, and SCHOTT's glass-forming know-how is a barrier to entry. The company is owned by the Carl Zeiss Foundation and reports privately.\n\n## Technology Exposure\n\n- Glass wafers and carriers for semiconductor processing\n- Specialty glass for optics and displays\n- Pharmaceutical packaging and tubing\n\n## What To Watch\n\n- Glass-core substrate adoption in advanced packaging\n- Panel-level processing demand\n- Energy costs at European glass plants\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "SCHOTT",
+    "symbol": "SCHOTT.DE",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SCHOTT.DE",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Glass carriers and cores solve warpage at large panel sizes, but handling and via formation must be proven in volume.",
+  "investmentLens": "Not directly investable; use its capacity and product announcements as a read on glass-substrate adoption."
+}

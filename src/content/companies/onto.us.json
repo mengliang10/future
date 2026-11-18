@@ -1,0 +1,29 @@
+{
+  "id": "onto.us",
+  "title": "Onto Innovation",
+  "summary": "US supplier of process-control, inspection and packaging metrology.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/onto.us.md",
+  "sourceHash": "32e9a568c0d7ba650b3af81fa7f721b3ffc64b5e2372f85b7ad35fa30a244124",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Onto Innovation makes optical inspection, metrology and lithography systems used to monitor film thickness, defects and overlay, including tools for advanced packaging. As packages become more complex, measuring bump height, warpage and die placement becomes essential to yield. The company has been growing its advanced-packaging exposure.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Optical metrology and inspection</li>\n<li>Advanced-packaging measurement</li>\n<li>Lithography and process control</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Advanced-packaging metrology demand</li>\n<li>Leading-edge logic capex</li>\n<li>Competition in inspection</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nOnto Innovation makes optical inspection, metrology and lithography systems used to monitor film thickness, defects and overlay, including tools for advanced packaging. As packages become more complex, measuring bump height, warpage and die placement becomes essential to yield. The company has been growing its advanced-packaging exposure.\n\n## Technology Exposure\n\n- Optical metrology and inspection\n- Advanced-packaging measurement\n- Lithography and process control\n\n## What To Watch\n\n- Advanced-packaging metrology demand\n- Leading-edge logic capex\n- Competition in inspection\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Onto Innovation",
+    "symbol": "ONTO",
+    "exchange": "NYSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ONTO",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "What cannot be measured cannot be yielded; packaging complexity expands the metrology market.",
+  "investmentLens": "A process-control beneficiary of packaging complexity; watch advanced-packaging revenue."
+}

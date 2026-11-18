@@ -1,0 +1,29 @@
+{
+  "id": "daeduck-electronics.kr",
+  "title": "Daeduck Electronics",
+  "summary": "Korean PCB and package-substrate maker supplying memory and module customers.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/daeduck-electronics.kr.md",
+  "sourceHash": "d52b3dcfd644db4b4b2620f89b4dd125781a8dc2d87131ad0d9c03be87bea0bb",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Daeduck Electronics produces high-density PCBs and package substrates, with a customer base among Korean memory and module makers. It has been adding substrate capacity for advanced packages while managing a mature PCB business exposed to handset and display cycles. Profitability swings with utilisation because fixed costs dominate.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Memory package substrates</li>\n<li>High-density and multilayer PCBs</li>\n<li>Module boards</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Substrate capacity conversion</li>\n<li>Memory customer inventory cycles</li>\n<li>Input-material and energy costs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nDaeduck Electronics produces high-density PCBs and package substrates, with a customer base among Korean memory and module makers. It has been adding substrate capacity for advanced packages while managing a mature PCB business exposed to handset and display cycles. Profitability swings with utilisation because fixed costs dominate.\n\n## Technology Exposure\n\n- Memory package substrates\n- High-density and multilayer PCBs\n- Module boards\n\n## What To Watch\n\n- Substrate capacity conversion\n- Memory customer inventory cycles\n- Input-material and energy costs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Daeduck Electronics",
+    "symbol": "008060.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "008060.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Substrate capacity is only valuable when qualified; unused lines still carry depreciation.",
+  "investmentLens": "A smaller cyclical with memory leverage; track utilisation and product mix."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tempus-ai.us",
+  "title": "Tempus AI",
+  "summary": "US precision-medicine company combining genomic testing with clinical data.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/tempus-ai.us.md",
+  "sourceHash": "a41ea824d67ec95f29eb7b528b4fa3005f759958006031e6e38fadd78af06b01",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Tempus AI provides genomic sequencing and data services to hospitals, pharma and researchers, and has built a large clinical and molecular database for AI-driven drug development. It also sells diagnostic tests and data licences. Path to profitability and data-privacy regulation are the key issues.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Genomic sequencing services</li>\n<li>Clinical data licensing</li>\n<li>AI diagnostics and trial matching</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Revenue growth and margins</li>\n<li>Data licensing contracts</li>\n<li>Privacy regulation</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTempus AI provides genomic sequencing and data services to hospitals, pharma and researchers, and has built a large clinical and molecular database for AI-driven drug development. It also sells diagnostic tests and data licences. Path to profitability and data-privacy regulation are the key issues.\n\n## Technology Exposure\n\n- Genomic sequencing services\n- Clinical data licensing\n- AI diagnostics and trial matching\n\n## What To Watch\n\n- Revenue growth and margins\n- Data licensing contracts\n- Privacy regulation\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Tempus AI",
+    "symbol": "TEM",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "TEM",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Sequencing plus longitudinal clinical data is more valuable than either alone.",
+  "investmentLens": "A data-driven diagnostics company; watch margin improvement."
+}

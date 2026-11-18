@@ -1,0 +1,29 @@
+{
+  "id": "dic.jp",
+  "title": "DIC",
+  "summary": "Japanese chemicals group supplying display materials, pigments and electronic resins.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/dic.jp.md",
+  "sourceHash": "72122ded0eff7bc5e8521937f788c05f6583a8d7dcb801cbc8250c63db20bd3a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>DIC makes pigments, printing inks, display materials and electronic chemicals, including colour resists and polymers used in panels and packaging. Its display materials business is tied to panel makers in Korea, Taiwan and China, while packaging and industrial coatings provide volume. The company has been restructuring to improve returns.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Colour resists and display materials</li>\n<li>Pigments and printing inks</li>\n<li>Electronic and packaging resins</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Panel-maker demand</li>\n<li>Restructuring progress</li>\n<li>Raw-material costs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nDIC makes pigments, printing inks, display materials and electronic chemicals, including colour resists and polymers used in panels and packaging. Its display materials business is tied to panel makers in Korea, Taiwan and China, while packaging and industrial coatings provide volume. The company has been restructuring to improve returns.\n\n## Technology Exposure\n\n- Colour resists and display materials\n- Pigments and printing inks\n- Electronic and packaging resins\n\n## What To Watch\n\n- Panel-maker demand\n- Restructuring progress\n- Raw-material costs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "DIC",
+    "symbol": "4631.T",
+    "exchange": "TSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "4631.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Display materials are formulated per panel process; once qualified, suppliers tend to hold the slot.",
+  "investmentLens": "A restructuring materials play; watch display segment margins."
+}

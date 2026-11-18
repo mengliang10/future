@@ -1,0 +1,29 @@
+{
+  "id": "agc.jp",
+  "title": "AGC",
+  "summary": "Japanese glass and chemicals group that also supplies EUV mask blanks and display glass.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/agc.jp.md",
+  "sourceHash": "564b99f0f0ad79033a0e1b63058c1f7ece271d1b006b8bc7f40e67e12221cc77",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>AGC makes architectural and automotive glass, display glass, fluorochemicals and electronic materials, including mask blanks used in EUV lithography. Its glass and chemical process control gives it a position in several constrained supply chains at once, from display substrates to semiconductor photomasks. The electronics and chemicals segments carry much higher margins than architectural glass.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>EUV mask blanks</li>\n<li>Glass substrates for displays</li>\n<li>Fluorochemicals and specialty chemicals</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>EUV mask-blank demand as leading-edge capacity grows</li>\n<li>Display glass pricing</li>\n<li>Fluorochemical regulation</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAGC makes architectural and automotive glass, display glass, fluorochemicals and electronic materials, including mask blanks used in EUV lithography. Its glass and chemical process control gives it a position in several constrained supply chains at once, from display substrates to semiconductor photomasks. The electronics and chemicals segments carry much higher margins than architectural glass.\n\n## Technology Exposure\n\n- EUV mask blanks\n- Glass substrates for displays\n- Fluorochemicals and specialty chemicals\n\n## What To Watch\n\n- EUV mask-blank demand as leading-edge capacity grows\n- Display glass pricing\n- Fluorochemical regulation\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "AGC",
+    "symbol": "5201.T",
+    "exchange": "TSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "5201.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Mask blanks are a quiet bottleneck: every EUV mask starts with one, and qualification is slow.",
+  "investmentLens": "A diversified materials group where electronic materials provide the margin uplift; watch segment mix."
+}

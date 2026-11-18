@@ -1,0 +1,29 @@
+{
+  "id": "mirion.us",
+  "title": "Mirion Technologies",
+  "summary": "US maker of radiation detection and monitoring systems.",
+  "sector": "industrials",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/mirion.us.md",
+  "sourceHash": "df38d6b1542814f890894540ff8056281744c406484dcf54afd033b38a84fd65",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Mirion Technologies produces radiation detectors, dosimetry and monitoring systems for nuclear plants, hospitals, defence and research labs. Safety and regulatory requirements make its instruments mandatory rather than discretionary. Nuclear plant life extensions and medical imaging growth support demand.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Radiation detection and monitoring</li>\n<li>Dosimetry and personal monitoring</li>\n<li>Nuclear-medicine instrumentation</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Nuclear plant maintenance and upgrades</li>\n<li>Medical imaging demand</li>\n<li>Defence and homeland security budgets</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMirion Technologies produces radiation detectors, dosimetry and monitoring systems for nuclear plants, hospitals, defence and research labs. Safety and regulatory requirements make its instruments mandatory rather than discretionary. Nuclear plant life extensions and medical imaging growth support demand.\n\n## Technology Exposure\n\n- Radiation detection and monitoring\n- Dosimetry and personal monitoring\n- Nuclear-medicine instrumentation\n\n## What To Watch\n\n- Nuclear plant maintenance and upgrades\n- Medical imaging demand\n- Defence and homeland security budgets\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Mirion Technologies",
+    "symbol": "MIR",
+    "exchange": "NYSE",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "MIR",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Radiation monitoring is a regulatory requirement, not a nice-to-have.",
+  "investmentLens": "A niche instrumentation supplier; watch nuclear and medical demand."
+}

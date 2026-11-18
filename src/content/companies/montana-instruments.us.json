@@ -1,0 +1,29 @@
+{
+  "id": "montana-instruments.us",
+  "title": "Montana Instruments",
+  "summary": "US maker of closed-cycle cryostats for quantum and materials research.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/montana-instruments.us.md",
+  "sourceHash": "304a0a6b8fecdda10b3a73a3598dea208dccccaf25f8b400fba9cdbdd8ec0ca6",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Montana Instruments builds closed-cycle cryostats and low-vibration systems for quantum computing, materials science and optics. Its cryostats avoid liquid helium, which lowers operating cost and simplifies lab infrastructure. The company competes with dilution-refrigerator makers in the higher-temperature cryogenic range.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Closed-cycle cryostats</li>\n<li>Low-vibration cryogenic systems</li>\n<li>Optical and electrical measurement setups</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Quantum and materials research demand</li>\n<li>Helium supply and cost</li>\n<li>Competition from dilution-refrigerator vendors</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMontana Instruments builds closed-cycle cryostats and low-vibration systems for quantum computing, materials science and optics. Its cryostats avoid liquid helium, which lowers operating cost and simplifies lab infrastructure. The company competes with dilution-refrigerator makers in the higher-temperature cryogenic range.\n\n## Technology Exposure\n\n- Closed-cycle cryostats\n- Low-vibration cryogenic systems\n- Optical and electrical measurement setups\n\n## What To Watch\n\n- Quantum and materials research demand\n- Helium supply and cost\n- Competition from dilution-refrigerator vendors\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Montana Instruments",
+    "symbol": "MONTANA-INSTRUMENTS.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "MONTANA-INSTRUMENTS.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Helium scarcity makes closed-cycle cooling attractive where millikelvin temperatures are not required.",
+  "investmentLens": "Private; a smaller cryogenics supplier with quantum exposure."
+}

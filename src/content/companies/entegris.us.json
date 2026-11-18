@@ -1,0 +1,29 @@
+{
+  "id": "entegris.us",
+  "title": "Entegris",
+  "summary": "US supplier of filtration, materials handling and process chemicals to fabs.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/entegris.us.md",
+  "sourceHash": "c8999d6261b38136e9eadf29e5ba5e4ec1e57a5d3de8f84cdf6835fde33ef3a2",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Entegris makes filtration systems, high-purity containers, specialty coatings, CMP slurries and deposition materials that keep contamination out of advanced processes. Its products are consumable and specified into fab recipes, so revenue follows wafer starts and node complexity. The acquisition of CMC Materials added CMP slurries and pads.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Filtration and contamination control</li>\n<li>CMP slurries and pads</li>\n<li>Materials handling and specialty coatings</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Fab utilisation</li>\n<li>CMP and filtration content growth per node</li>\n<li>Integration of acquired businesses</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nEntegris makes filtration systems, high-purity containers, specialty coatings, CMP slurries and deposition materials that keep contamination out of advanced processes. Its products are consumable and specified into fab recipes, so revenue follows wafer starts and node complexity. The acquisition of CMC Materials added CMP slurries and pads.\n\n## Technology Exposure\n\n- Filtration and contamination control\n- CMP slurries and pads\n- Materials handling and specialty coatings\n\n## What To Watch\n\n- Fab utilisation\n- CMP and filtration content growth per node\n- Integration of acquired businesses\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Entegris",
+    "symbol": "ENTG",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ENTG",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Contamination control is non-negotiable: a single particle excursion can scrap a lot.",
+  "investmentLens": "A consumables compounder with fab-utilisation cyclicality; watch segment margins."
+}

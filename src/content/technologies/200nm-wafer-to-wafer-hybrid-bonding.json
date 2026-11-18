@@ -29,7 +29,14 @@
   "estimate": "2027\u20132031",
   "estimateYear": 2028,
   "sourceCount": 2,
-  "companies": [],
+  "companies": [
+    "asmpt.hk",
+    "besi.nl",
+    "accretech.jp",
+    "onto.us",
+    "camtek.il",
+    "suess-microtec.de"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

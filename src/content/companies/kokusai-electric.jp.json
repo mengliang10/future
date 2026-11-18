@@ -1,0 +1,29 @@
+{
+  "id": "kokusai-electric.jp",
+  "title": "Kokusai Electric",
+  "summary": "Japanese maker of batch deposition equipment for memory and logic.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/kokusai-electric.jp.md",
+  "sourceHash": "bb509ff0aafd6c9832ef97b2f011a81e81b513520f59727475693a99636fb7aa",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Kokusai Electric builds batch atomic-layer deposition and thermal-processing tools, with a strong position in memory customers where high-throughput batch processing lowers cost per wafer. It was separated from Hitachi and listed independently, and its order book tracks memory capex closely. It competes with larger deposition vendors in single-wafer tools.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Batch ALD and thermal processing</li>\n<li>Deposition for memory and logic</li>\n<li>Service and retrofit</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Memory capex</li>\n<li>Batch-versus-single-wafer adoption</li>\n<li>Customer concentration</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nKokusai Electric builds batch atomic-layer deposition and thermal-processing tools, with a strong position in memory customers where high-throughput batch processing lowers cost per wafer. It was separated from Hitachi and listed independently, and its order book tracks memory capex closely. It competes with larger deposition vendors in single-wafer tools.\n\n## Technology Exposure\n\n- Batch ALD and thermal processing\n- Deposition for memory and logic\n- Service and retrofit\n\n## What To Watch\n\n- Memory capex\n- Batch-versus-single-wafer adoption\n- Customer concentration\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Kokusai Electric",
+    "symbol": "6525.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6525.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Batch tools win on cost per wafer in memory, where high volumes justify the trade-off.",
+  "investmentLens": "A memory-levered equipment maker; watch order trends."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lb-semicon.kr",
+  "title": "LB Semicon",
+  "summary": "Korean OSAT specialising in bumping, wafer-level packaging and test.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/lb-semicon.kr.md",
+  "sourceHash": "53d8df7549d3d223be293cbe32aad3ad8976c2eec7752ae4dda5fa3c8ed70013",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>LB Semicon provides bumping, wafer-level packaging and test for Korean fabless and memory customers. Its scale is modest, so utilisation on a few programmes moves revenue materially. The company has been adding capacity for advanced packages as domestic customers move to finer bump pitch.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Bumping and wafer-level packaging</li>\n<li>Test services</li>\n<li>Advanced package development</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Customer programme ramps</li>\n<li>Utilisation and pricing</li>\n<li>Capex funding</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLB Semicon provides bumping, wafer-level packaging and test for Korean fabless and memory customers. Its scale is modest, so utilisation on a few programmes moves revenue materially. The company has been adding capacity for advanced packages as domestic customers move to finer bump pitch.\n\n## Technology Exposure\n\n- Bumping and wafer-level packaging\n- Test services\n- Advanced package development\n\n## What To Watch\n\n- Customer programme ramps\n- Utilisation and pricing\n- Capex funding\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "LB Semicon",
+    "symbol": "061970.KQ",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "061970.KQ",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Domestic fabless growth creates demand for local packaging capacity, but volumes remain programme-specific.",
+  "investmentLens": "A small, concentrated OSAT; track new customer wins."
+}

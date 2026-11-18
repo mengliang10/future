@@ -6,8 +6,8 @@
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/advanced-nuclear-gen-iv-msrsfr.md",
   "sourceHash": "1251dc7cd0608aee1524fa5bb6b9f401945561f6c77966a9ec3cbc8ae381d508",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Molten salt, sodium fast reactors; use thorium or spent fuel; inherently safe.</p>\n<p>Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks <strong>22 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>China's HTR-PM (pebble-bed high-temperature gas reactor) connected to grid December 2023 — first Gen IV demo reactor operational. Russia BN-800 fast reactor running since 2016. US Natrium (TerraPower) and X-energy Xe-100 in licensing with NRC but no Gen IV commercial plant in the West yet.</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Proof of Concept</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.21</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2030–2045</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Long-Term (2036)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>22</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/small-modular-reactor/\">Small Modular Reactor (&lt;300MWe)</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nMolten salt, sodium fast reactors; use thorium or spent fuel; inherently safe.\n\nLaboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **22 independent sources** on this technology.\n\n> China's HTR-PM (pebble-bed high-temperature gas reactor) connected to grid December 2023 — first Gen IV demo reactor operational. Russia BN-800 fast reactor running since 2016. US Natrium (TerraPower) and X-energy Xe-100 in licensing with NRC but no Gen IV commercial plant in the West yet.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Proof of Concept** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.21** |\n| Estimated Deployment | **2030–2045** |\n| Horizon | Long-Term (2036) |\n| Independent Sources Tracked | 22 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Small Modular Reactor (<300MWe)](/future/tech/small-modular-reactor/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Molten salt, sodium fast reactors; use thorium or spent fuel; inherently safe.</p>\n<p>Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks <strong>22 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>China's HTR-PM (pebble-bed high-temperature gas reactor) connected to grid December 2023 \u2014 first Gen IV demo reactor operational. Russia BN-800 fast reactor running since 2016. US Natrium (TerraPower) and X-energy Xe-100 in licensing with NRC but no Gen IV commercial plant in the West yet.</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Proof of Concept</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.21</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2030\u20132045</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Long-Term (2036)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>22</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/small-modular-reactor/\">Small Modular Reactor (&lt;300MWe)</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nMolten salt, sodium fast reactors; use thorium or spent fuel; inherently safe.\n\nLaboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **22 independent sources** on this technology.\n\n> China's HTR-PM (pebble-bed high-temperature gas reactor) connected to grid December 2023 \u2014 first Gen IV demo reactor operational. Russia BN-800 fast reactor running since 2016. US Natrium (TerraPower) and X-energy Xe-100 in licensing with NRC but no Gen IV commercial plant in the West yet.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Proof of Concept** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.21** |\n| Estimated Deployment | **2030\u20132045** |\n| Horizon | Long-Term (2036) |\n| Independent Sources Tracked | 22 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Small Modular Reactor (<300MWe)](/future/tech/small-modular-reactor/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Advanced Nuclear Gen IV (MSR/SFR)",
@@ -16,7 +16,7 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2036,
-    "est_year_range": "2030–2045",
+    "est_year_range": "2030\u20132045",
     "horizon": "Long-Term (2036)",
     "source_count": 22,
     "stocks": [],
@@ -26,10 +26,17 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2030–2045",
+  "estimate": "2030\u20132045",
   "estimateYear": 2036,
   "sourceCount": 22,
-  "companies": [],
+  "companies": [
+    "bwxt.us",
+    "doosan-enerbility.kr",
+    "centrus.us",
+    "oklo.us",
+    "terrapower.us",
+    "x-energy.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

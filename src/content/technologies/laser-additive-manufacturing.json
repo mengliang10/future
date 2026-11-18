@@ -29,7 +29,12 @@
   "estimate": "2029\u20132033",
   "estimateYear": 2030,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "carpenter.us",
+    "trumpf.de",
+    "jenoptik.de",
+    "relativity.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

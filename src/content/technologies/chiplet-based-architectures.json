@@ -29,7 +29,18 @@
   "estimate": "2031\u20132036",
   "estimateYear": 2032,
   "sourceCount": 4,
-  "companies": [],
+  "companies": [
+    "ibiden.jp",
+    "shinko.jp",
+    "ase.tw",
+    "amkor.us",
+    "jcet.sh",
+    "tongfu.sz",
+    "nepes.kr",
+    "asmpt.hk",
+    "technoprobe.it",
+    "advantest.jp"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

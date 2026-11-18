@@ -1,0 +1,29 @@
+{
+  "id": "enplas.jp",
+  "title": "Enplas",
+  "summary": "Japanese maker of test sockets, optical components and engineering plastics.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/enplas.jp.md",
+  "sourceHash": "105e616b25ac00ce6a270a72b98e3ce3130bc664c2120b1a977b2094ce9b01b4",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Enplas produces IC test sockets, sockets for burn-in and precision plastic components, with customers among chipmakers and test houses. Its sockets must handle fine-pitch packages and high frequencies, and it has been developing sockets for advanced packaging. The company also makes optical and automotive components.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>IC test sockets and burn-in sockets</li>\n<li>Precision engineering plastics</li>\n<li>Optical components</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Advanced-packaging test demand</li>\n<li>Handset and automotive demand</li>\n<li>Competition from Korean and Taiwanese suppliers</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nEnplas produces IC test sockets, sockets for burn-in and precision plastic components, with customers among chipmakers and test houses. Its sockets must handle fine-pitch packages and high frequencies, and it has been developing sockets for advanced packaging. The company also makes optical and automotive components.\n\n## Technology Exposure\n\n- IC test sockets and burn-in sockets\n- Precision engineering plastics\n- Optical components\n\n## What To Watch\n\n- Advanced-packaging test demand\n- Handset and automotive demand\n- Competition from Korean and Taiwanese suppliers\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Enplas",
+    "symbol": "6961.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6961.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "A socket is a consumable contact interface; fine pitch and high frequency raise its value.",
+  "investmentLens": "A niche test-interface supplier; watch advanced-package sockets."
+}

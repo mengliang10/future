@@ -1,0 +1,29 @@
+{
+  "id": "charles-river.us",
+  "title": "Charles River Laboratories",
+  "summary": "US provider of preclinical research models and testing services.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/charles-river.us.md",
+  "sourceHash": "92ce2205571f7adfbcaefe3814a4746c7b7c2372c09591f9ec656861d91e9085",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Charles River supplies research animals, safety-assessment services and manufacturing support to pharma and biotech. Its preclinical testing business is a gatekeeper for IND filings, making it a levered play on biotech funding. Demand normalised sharply after the pandemic research boom.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Preclinical safety assessment</li>\n<li>Research models and services</li>\n<li>Cell and gene therapy testing</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Biotech funding and study starts</li>\n<li>Pricing and competition</li>\n<li>Regulatory changes on animal testing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nCharles River supplies research animals, safety-assessment services and manufacturing support to pharma and biotech. Its preclinical testing business is a gatekeeper for IND filings, making it a levered play on biotech funding. Demand normalised sharply after the pandemic research boom.\n\n## Technology Exposure\n\n- Preclinical safety assessment\n- Research models and services\n- Cell and gene therapy testing\n\n## What To Watch\n\n- Biotech funding and study starts\n- Pricing and competition\n- Regulatory changes on animal testing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Charles River Laboratories",
+    "symbol": "CRL",
+    "exchange": "NYSE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "CRL",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Safety testing is mandatory before human trials; demand follows the pipeline, not the market.",
+  "investmentLens": "A preclinical-services cyclical; watch bookings."
+}

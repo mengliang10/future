@@ -1,0 +1,29 @@
+{
+  "id": "carpenter.us",
+  "title": "Carpenter Technology",
+  "summary": "US producer of specialty alloys, including high-strength steels for aerospace.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/carpenter.us.md",
+  "sourceHash": "be63e10cee662fb2abb4d52b2bb4e6c7b9cb17535f256072d069257c58837941",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Carpenter Technology makes specialty alloys, powder metals and high-strength steels for aerospace, defence, medical and energy applications. Its alloys are used in rocket hardware, landing gear and engine components, and its powder-metal capability serves additive manufacturing. Aerospace and defence demand dominate results.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Specialty alloys and stainless steels</li>\n<li>Powder metals for additive manufacturing</li>\n<li>Aerospace and medical materials</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Aerospace demand</li>\n<li>Additive-manufacturing powder growth</li>\n<li>Alloy pricing and energy costs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nCarpenter Technology makes specialty alloys, powder metals and high-strength steels for aerospace, defence, medical and energy applications. Its alloys are used in rocket hardware, landing gear and engine components, and its powder-metal capability serves additive manufacturing. Aerospace and defence demand dominate results.\n\n## Technology Exposure\n\n- Specialty alloys and stainless steels\n- Powder metals for additive manufacturing\n- Aerospace and medical materials\n\n## What To Watch\n\n- Aerospace demand\n- Additive-manufacturing powder growth\n- Alloy pricing and energy costs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Carpenter Technology",
+    "symbol": "CRS",
+    "exchange": "NYSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "CRS",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Powder-metal quality determines whether a printed part can be certified for flight.",
+  "investmentLens": "A specialty-alloy producer with additive optionality; watch aerospace orders."
+}

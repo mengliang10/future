@@ -1,0 +1,29 @@
+{
+  "id": "skc.kr",
+  "title": "SKC",
+  "summary": "Korean materials group behind the SK Absolics glass-substrate programme.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/skc.kr.md",
+  "sourceHash": "51006126041d5938a339bc50ad16081382c66aa03bc7963b645f6b65e75a3394",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>SKC makes specialty films, chemicals and materials, and its Absolics subsidiary is commercialising glass-core substrates for advanced packaging. The company has been restructuring away from legacy film businesses toward semiconductor and battery materials. Execution on the glass-substrate ramp is the central question.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Glass-core substrates through SK Absolics</li>\n<li>Specialty films and materials</li>\n<li>Battery and semiconductor materials</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Glass-substrate qualification and yield</li>\n<li>Restructuring proceeds</li>\n<li>Funding of the US plant</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSKC makes specialty films, chemicals and materials, and its Absolics subsidiary is commercialising glass-core substrates for advanced packaging. The company has been restructuring away from legacy film businesses toward semiconductor and battery materials. Execution on the glass-substrate ramp is the central question.\n\n## Technology Exposure\n\n- Glass-core substrates through SK Absolics\n- Specialty films and materials\n- Battery and semiconductor materials\n\n## What To Watch\n\n- Glass-substrate qualification and yield\n- Restructuring proceeds\n- Funding of the US plant\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "SKC",
+    "symbol": "011790.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "011790.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Glass cores could reset package scaling, but SKC is carrying the development risk.",
+  "investmentLens": "A restructuring story with a binary advanced-packaging option; watch Absolics milestones."
+}

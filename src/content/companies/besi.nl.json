@@ -1,0 +1,29 @@
+{
+  "id": "besi.nl",
+  "title": "BE Semiconductor Industries",
+  "summary": "Dutch supplier of die-attach and hybrid-bonding equipment.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/besi.nl.md",
+  "sourceHash": "e1fda8e55fffa7812d9217f26b3ddaa2d83b7fadc372ef8f0207992478e5b2d8",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>BE Semiconductor Industries makes die-attach, flip-chip and hybrid-bonding tools used in advanced packaging and chiplet assembly. Hybrid bonding is the key technology for stacking dies with direct copper-to-copper connections, and BESI is the leading tool supplier for it. Its results are a direct read on advanced-packaging capex.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Hybrid-bonding equipment</li>\n<li>Die-attach and flip-chip tools</li>\n<li>Packaging automation</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Hybrid-bonding adoption in memory and logic</li>\n<li>Advanced packaging capex</li>\n<li>Customer concentration</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nBE Semiconductor Industries makes die-attach, flip-chip and hybrid-bonding tools used in advanced packaging and chiplet assembly. Hybrid bonding is the key technology for stacking dies with direct copper-to-copper connections, and BESI is the leading tool supplier for it. Its results are a direct read on advanced-packaging capex.\n\n## Technology Exposure\n\n- Hybrid-bonding equipment\n- Die-attach and flip-chip tools\n- Packaging automation\n\n## What To Watch\n\n- Hybrid-bonding adoption in memory and logic\n- Advanced packaging capex\n- Customer concentration\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "BE Semiconductor Industries",
+    "symbol": "BESI.AS",
+    "exchange": "Amsterdam",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "BESI.AS",
+  "exchange": "Amsterdam",
+  "private": false,
+  "businessMeaning": "Hybrid bonding replaces solder with direct copper joints, enabling finer pitch and better thermal paths.",
+  "investmentLens": "A pure-play on packaging technology transitions; watch hybrid-bonding orders."
+}

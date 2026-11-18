@@ -1,0 +1,29 @@
+{
+  "id": "pfe.us",
+  "title": "Pfizer",
+  "summary": "US pharmaceutical major with vaccines, oncology and internal-medicine franchises.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/pfe.us.md",
+  "sourceHash": "94e2db0aab575d6daaa8e672d5a20d3df5af3ecf8fc93a13b4c3d512e35d1ceb",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Pfizer sells vaccines, antiviral therapies, oncology drugs and internal medicines, and acquired Seagen to add antibody-drug conjugates. The company is working through the post-pandemic revenue decline and integrating large acquisitions while cutting costs. Pipeline execution and debt reduction are the near-term issues.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Vaccines and antiviral therapies</li>\n<li>Oncology and antibody-drug conjugates</li>\n<li>Internal medicine and inflammation</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Post-COVID revenue normalisation</li>\n<li>Oncology pipeline execution</li>\n<li>Cost cuts and debt</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPfizer sells vaccines, antiviral therapies, oncology drugs and internal medicines, and acquired Seagen to add antibody-drug conjugates. The company is working through the post-pandemic revenue decline and integrating large acquisitions while cutting costs. Pipeline execution and debt reduction are the near-term issues.\n\n## Technology Exposure\n\n- Vaccines and antiviral therapies\n- Oncology and antibody-drug conjugates\n- Internal medicine and inflammation\n\n## What To Watch\n\n- Post-COVID revenue normalisation\n- Oncology pipeline execution\n- Cost cuts and debt\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Pfizer",
+    "symbol": "PFE",
+    "exchange": "NYSE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "PFE",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Patent cliffs are the structural risk in pharma; replenishing the pipeline is the only defence.",
+  "investmentLens": "A value pharma with a pipeline question; watch oncology data and cost delivery."
+}

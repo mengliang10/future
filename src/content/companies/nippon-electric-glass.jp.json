@@ -1,0 +1,29 @@
+{
+  "id": "nippon-electric-glass.jp",
+  "title": "Nippon Electric Glass",
+  "summary": "Japanese glass maker supplying display substrates and specialty glass.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/nippon-electric-glass.jp.md",
+  "sourceHash": "cda7d9a14caaa1ceca82e6f8bcf8d2843b033d9ed2a1a49009fcea36e1a57086",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Nippon Electric Glass produces glass substrates for displays, glass for automotive and medical applications, and specialty glass fibres. Display glass is the largest business and is tied to panel capacity and pricing. The company is developing glass compositions for semiconductor and battery applications.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Display glass substrates</li>\n<li>Specialty glass and glass fibre</li>\n<li>Glass for automotive and medical use</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Panel capacity and pricing</li>\n<li>Specialty glass growth</li>\n<li>Energy costs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNippon Electric Glass produces glass substrates for displays, glass for automotive and medical applications, and specialty glass fibres. Display glass is the largest business and is tied to panel capacity and pricing. The company is developing glass compositions for semiconductor and battery applications.\n\n## Technology Exposure\n\n- Display glass substrates\n- Specialty glass and glass fibre\n- Glass for automotive and medical use\n\n## What To Watch\n\n- Panel capacity and pricing\n- Specialty glass growth\n- Energy costs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Nippon Electric Glass",
+    "symbol": "5214.T",
+    "exchange": "TSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "5214.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Glass melting is capital-intensive; utilisation determines unit cost.",
+  "investmentLens": "A display-levered glass maker; watch panel demand and specialty mix."
+}

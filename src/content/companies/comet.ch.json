@@ -1,0 +1,29 @@
+{
+  "id": "comet.ch",
+  "title": "Comet Holding",
+  "summary": "Swiss maker of RF power systems, X-ray modules and vacuum components.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/comet.ch.md",
+  "sourceHash": "d73f12b604cd3fc60242e360cb2b76aa57e4df9bbb5a8222feda75fb9830e6b4",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Comet Holding supplies RF power generators, matching networks and X-ray inspection systems used in semiconductor etch and deposition tools. Its RF generators control plasma, which is central to etch and deposition uniformity. The company also serves industrial X-ray and security markets.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>RF power generators and matching networks</li>\n<li>X-ray inspection modules</li>\n<li>Vacuum components</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Etch and deposition capex</li>\n<li>Semiconductor equipment build rates</li>\n<li>Industrial X-ray demand</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nComet Holding supplies RF power generators, matching networks and X-ray inspection systems used in semiconductor etch and deposition tools. Its RF generators control plasma, which is central to etch and deposition uniformity. The company also serves industrial X-ray and security markets.\n\n## Technology Exposure\n\n- RF power generators and matching networks\n- X-ray inspection modules\n- Vacuum components\n\n## What To Watch\n\n- Etch and deposition capex\n- Semiconductor equipment build rates\n- Industrial X-ray demand\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Comet Holding",
+    "symbol": "COTN.SW",
+    "exchange": "SIX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "COTN.SW",
+  "exchange": "SIX",
+  "private": false,
+  "businessMeaning": "Plasma control is an RF problem; generator stability affects etch yield.",
+  "investmentLens": "A component supplier leveraged to etch and deposition; watch orders."
+}

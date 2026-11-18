@@ -1,0 +1,29 @@
+{
+  "id": "unimicron.tw",
+  "title": "Unimicron Technology",
+  "summary": "Taiwan's largest IC-substrate and PCB maker, a core supplier of ABF substrates.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/unimicron.tw.md",
+  "sourceHash": "e3bd6a8797bc5c4c6d07076e96c5f3e98bf13ee9516a4f9f91bb2cfce35c20a7",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Unimicron is the largest Taiwanese maker of IC substrates and printed circuit boards, supplying ABF substrates into CPU, GPU, networking and consumer packages. Its scale makes it the default second source when a platform ramps, and it has been converting capacity toward thicker, larger AI-server substrates. The business remains cyclical, with profitability tracking utilisation and the substrate-to-PCB mix.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>ABF substrates for processors and accelerators</li>\n<li>PCB and module boards</li>\n<li>Carrier and package substrates</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>AI substrate capacity conversion</li>\n<li>Utilisation through the handset and PC cycle</li>\n<li>Customer concentration among fabless vendors</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nUnimicron is the largest Taiwanese maker of IC substrates and printed circuit boards, supplying ABF substrates into CPU, GPU, networking and consumer packages. Its scale makes it the default second source when a platform ramps, and it has been converting capacity toward thicker, larger AI-server substrates. The business remains cyclical, with profitability tracking utilisation and the substrate-to-PCB mix.\n\n## Technology Exposure\n\n- ABF substrates for processors and accelerators\n- PCB and module boards\n- Carrier and package substrates\n\n## What To Watch\n\n- AI substrate capacity conversion\n- Utilisation through the handset and PC cycle\n- Customer concentration among fabless vendors\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Unimicron Technology",
+    "symbol": "3037.TW",
+    "exchange": "TWSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "3037.TW",
+  "exchange": "TWSE",
+  "private": false,
+  "businessMeaning": "When a platform ramps, substrate capacity is booked months ahead; Unimicron's scale makes it a scheduling buffer for the industry.",
+  "investmentLens": "A volume cyclical with an AI mix upgrade; watch capex conversion and gross-margin spread between substrates and PCB."
+}

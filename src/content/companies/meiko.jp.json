@@ -1,0 +1,29 @@
+{
+  "id": "meiko.jp",
+  "title": "Meiko Electronics",
+  "summary": "Japanese PCB maker focused on automotive, industrial and high-layer boards.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/meiko.jp.md",
+  "sourceHash": "4222fd117159bcd35bcec95322d069d185d9cea67cd2a26406744e6024918a6b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Meiko Electronics produces multilayer and high-density PCBs for automotive, industrial and communications customers, with manufacturing in Japan, China and Vietnam. It is less exposed to leading-edge IC substrates than its Japanese peers but supplies the module and control boards that surround advanced chips. Automotive content growth is its steadiest demand driver.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Multilayer PCBs for automotive and industrial</li>\n<li>High-density interconnect boards</li>\n<li>Module and power boards</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Automotive production volumes</li>\n<li>Capacity utilisation in Vietnam and China</li>\n<li>Copper and laminate costs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMeiko Electronics produces multilayer and high-density PCBs for automotive, industrial and communications customers, with manufacturing in Japan, China and Vietnam. It is less exposed to leading-edge IC substrates than its Japanese peers but supplies the module and control boards that surround advanced chips. Automotive content growth is its steadiest demand driver.\n\n## Technology Exposure\n\n- Multilayer PCBs for automotive and industrial\n- High-density interconnect boards\n- Module and power boards\n\n## What To Watch\n\n- Automotive production volumes\n- Capacity utilisation in Vietnam and China\n- Copper and laminate costs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Meiko Electronics",
+    "symbol": "6787.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6787.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Vehicle electrification adds board area and layer count per car, a slow but durable demand shift.",
+  "investmentLens": "An automotive-levered PCB maker; watch utilisation and currency rather than AI headlines."
+}

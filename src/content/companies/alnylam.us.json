@@ -1,0 +1,29 @@
+{
+  "id": "alnylam.us",
+  "title": "Alnylam Pharmaceuticals",
+  "summary": "US biotech pioneer of RNA interference therapeutics.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/alnylam.us.md",
+  "sourceHash": "6ec6ca92866d95084e5b11693e7c037832c9b6c536e4f4eea3cd24b6b2a83701",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Alnylam develops RNA-interference medicines that silence disease-causing genes, with approved therapies for rare diseases and a pipeline in cardiovascular and metabolic disease. Its GalNAc delivery chemistry allows subcutaneous dosing and is licensed to partners. Broad intellectual property and delivery know-how are its moat.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>RNAi therapeutics for rare disease</li>\n<li>Cardiovascular and metabolic programmes</li>\n<li>Delivery chemistry and licensing</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Pipeline readouts</li>\n<li>Manufacturing and pricing</li>\n<li>Competition from antisense and gene editing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAlnylam develops RNA-interference medicines that silence disease-causing genes, with approved therapies for rare diseases and a pipeline in cardiovascular and metabolic disease. Its GalNAc delivery chemistry allows subcutaneous dosing and is licensed to partners. Broad intellectual property and delivery know-how are its moat.\n\n## Technology Exposure\n\n- RNAi therapeutics for rare disease\n- Cardiovascular and metabolic programmes\n- Delivery chemistry and licensing\n\n## What To Watch\n\n- Pipeline readouts\n- Manufacturing and pricing\n- Competition from antisense and gene editing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Alnylam Pharmaceuticals",
+    "symbol": "ALNY",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ALNY",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Delivery, not the RNA molecule, was the hard problem; solving it unlocked a platform.",
+  "investmentLens": "A platform biotech with multiple shots on goal; watch label expansions."
+}

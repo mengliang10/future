@@ -1,0 +1,29 @@
+{
+  "id": "ase.tw",
+  "title": "ASE Technology Holding",
+  "summary": "The largest outsourced semiconductor assembly and test provider, and a packaging technology leader.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/ase.tw.md",
+  "sourceHash": "3238436926e4fd9377f06177d26c918456779c762dfe4af2d7c3b46e6a9d051b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>ASE assembles and tests a large share of the world's chips and has pushed furthest into advanced packaging with its VIPack platform, fan-out and panel-level processes. As chipmakers move to chiplets and 2.5D integration, the OSAT role shifts from commodity assembly toward co-design of the package. ASE's scale lets it absorb capex that smaller packagers cannot.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Advanced packaging, fan-out and 2.5D integration</li>\n<li>Wire-bond and flip-chip assembly</li>\n<li>Final test and system-in-package</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Panel-level packaging ramp</li>\n<li>Advanced packaging share of revenue</li>\n<li>Utilisation through the handset cycle</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nASE assembles and tests a large share of the world's chips and has pushed furthest into advanced packaging with its VIPack platform, fan-out and panel-level processes. As chipmakers move to chiplets and 2.5D integration, the OSAT role shifts from commodity assembly toward co-design of the package. ASE's scale lets it absorb capex that smaller packagers cannot.\n\n## Technology Exposure\n\n- Advanced packaging, fan-out and 2.5D integration\n- Wire-bond and flip-chip assembly\n- Final test and system-in-package\n\n## What To Watch\n\n- Panel-level packaging ramp\n- Advanced packaging share of revenue\n- Utilisation through the handset cycle\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ASE Technology Holding",
+    "symbol": "3711.TW",
+    "exchange": "TWSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "3711.TW",
+  "exchange": "TWSE",
+  "private": false,
+  "businessMeaning": "Packaging is becoming a design constraint, not a back-end commodity; the OSAT that co-designs wins the socket.",
+  "investmentLens": "A cyclical with a structural advanced-packaging upgrade; watch capex and advanced-services margin."
+}

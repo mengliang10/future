@@ -1,0 +1,29 @@
+{
+  "id": "bwxt.us",
+  "title": "BWX Technologies",
+  "summary": "US manufacturer of nuclear reactors, components and fuel for defence and commercial markets.",
+  "sector": "industrials",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/bwxt.us.md",
+  "sourceHash": "7c4174ab4275927ee989742567d8d6253c303815bf3bf8a829432482fbba7ed1",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>BWX Technologies builds naval nuclear reactors, nuclear components and fuel, and supplies commercial nuclear equipment and services. It is one of very few qualified suppliers of nuclear-grade components, which gives it a strategic position in both defence and civil nuclear. Backlog and government budgets drive results.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Naval nuclear reactors and components</li>\n<li>Nuclear fuel and materials</li>\n<li>Commercial nuclear services</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Defence and naval programme funding</li>\n<li>SMR and advanced-reactor orders</li>\n<li>Nuclear-grade manufacturing capacity</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nBWX Technologies builds naval nuclear reactors, nuclear components and fuel, and supplies commercial nuclear equipment and services. It is one of very few qualified suppliers of nuclear-grade components, which gives it a strategic position in both defence and civil nuclear. Backlog and government budgets drive results.\n\n## Technology Exposure\n\n- Naval nuclear reactors and components\n- Nuclear fuel and materials\n- Commercial nuclear services\n\n## What To Watch\n\n- Defence and naval programme funding\n- SMR and advanced-reactor orders\n- Nuclear-grade manufacturing capacity\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "BWX Technologies",
+    "symbol": "BWXT",
+    "exchange": "NYSE",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "BWXT",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Nuclear-grade qualification is the barrier; few suppliers can enter.",
+  "investmentLens": "A defence-nuclear compounder; watch backlog conversion."
+}

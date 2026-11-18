@@ -1,0 +1,29 @@
+{
+  "id": "nitto-denko.jp",
+  "title": "Nitto Denko",
+  "summary": "Japanese adhesive and film maker supplying semiconductor tapes and display films.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/nitto-denko.jp.md",
+  "sourceHash": "161a7b513ad19431b8c7e59e3d615546e4f21451d200bf3b0c9be83c54afbec1",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Nitto Denko makes adhesive tapes, protective films, polarising films and semiconductor-processing tapes. Its dicing and back-grinding tapes are used in wafer and package assembly, making it a quiet supplier to every advanced package. The company is also expanding in medical and environmental materials.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Semiconductor dicing and process tapes</li>\n<li>Polarising and optical films</li>\n<li>Medical and industrial adhesives</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Advanced-packaging demand</li>\n<li>Display film pricing</li>\n<li>New medical materials</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNitto Denko makes adhesive tapes, protective films, polarising films and semiconductor-processing tapes. Its dicing and back-grinding tapes are used in wafer and package assembly, making it a quiet supplier to every advanced package. The company is also expanding in medical and environmental materials.\n\n## Technology Exposure\n\n- Semiconductor dicing and process tapes\n- Polarising and optical films\n- Medical and industrial adhesives\n\n## What To Watch\n\n- Advanced-packaging demand\n- Display film pricing\n- New medical materials\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Nitto Denko",
+    "symbol": "6988.T",
+    "exchange": "TSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6988.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Process tapes are consumables specified per tool and per package flow.",
+  "investmentLens": "A quality specialty-materials compounder; watch semiconductor and display mix."
+}

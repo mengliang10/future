@@ -29,7 +29,9 @@
   "estimate": "2032\u20132039",
   "estimateYear": 2034,
   "sourceCount": 3,
-  "companies": [],
+  "companies": [
+    "alice-bob.fr"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

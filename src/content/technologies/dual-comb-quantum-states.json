@@ -29,7 +29,9 @@
   "estimate": "2034\u20132041",
   "estimateYear": 2036,
   "sourceCount": 3,
-  "companies": [],
+  "companies": [
+    "menlo-systems.de"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

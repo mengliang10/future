@@ -1,0 +1,29 @@
+{
+  "id": "syensqo.be",
+  "title": "Syensqo",
+  "summary": "Belgian specialty-materials group supplying composites and high-performance polymers.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/syensqo.be.md",
+  "sourceHash": "d48d925ac6747ec33126681eb65f696ee22b4d7a2f898874ec0a8b9607762a44",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Syensqo, spun out of Solvay, makes advanced composites, specialty polymers and battery materials for aerospace, defence and automotive customers. Its composites are used in launch vehicle structures and satellite components, while its polymers serve electronics and healthcare. The company is investing in battery materials and sustainable chemistry.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Composite materials and prepregs</li>\n<li>High-performance polymers</li>\n<li>Battery materials and electrolytes</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Aerospace and defence demand</li>\n<li>Battery-materials ramp</li>\n<li>Portfolio investment</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSyensqo, spun out of Solvay, makes advanced composites, specialty polymers and battery materials for aerospace, defence and automotive customers. Its composites are used in launch vehicle structures and satellite components, while its polymers serve electronics and healthcare. The company is investing in battery materials and sustainable chemistry.\n\n## Technology Exposure\n\n- Composite materials and prepregs\n- High-performance polymers\n- Battery materials and electrolytes\n\n## What To Watch\n\n- Aerospace and defence demand\n- Battery-materials ramp\n- Portfolio investment\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Syensqo",
+    "symbol": "SYENS.BR",
+    "exchange": "Brussels",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SYENS.BR",
+  "exchange": "Brussels",
+  "private": false,
+  "businessMeaning": "Qualified composites are a long-cycle business with strong incumbency.",
+  "investmentLens": "A specialty-materials spin-off with space and battery exposure; watch segment margins."
+}

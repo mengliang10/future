@@ -1,0 +1,29 @@
+{
+  "id": "biogen.us",
+  "title": "Biogen",
+  "summary": "US biotech group focused on neuroscience, including Alzheimer's and multiple sclerosis.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/biogen.us.md",
+  "sourceHash": "1cf4acaef3c2ea667d442fcaec65ea42fc401af34d85db82e76721b4c77ac845",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Biogen sells multiple-sclerosis therapies andneurology products, and launched Alzheimer's antibody treatments that have had limited commercial uptake. It is cutting costs and acquiring assets in immunology and rare disease to diversify beyond a shrinking MS franchise. Execution and cash deployment are the key issues.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Multiple sclerosis therapies</li>\n<li>Alzheimer's antibodies</li>\n<li>Neurology and rare-disease pipeline</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Alzheimer's adoption and reimbursement</li>\n<li>MS franchise erosion</li>\n<li>Acquisition strategy</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nBiogen sells multiple-sclerosis therapies andneurology products, and launched Alzheimer's antibody treatments that have had limited commercial uptake. It is cutting costs and acquiring assets in immunology and rare disease to diversify beyond a shrinking MS franchise. Execution and cash deployment are the key issues.\n\n## Technology Exposure\n\n- Multiple sclerosis therapies\n- Alzheimer's antibodies\n- Neurology and rare-disease pipeline\n\n## What To Watch\n\n- Alzheimer's adoption and reimbursement\n- MS franchise erosion\n- Acquisition strategy\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Biogen",
+    "symbol": "BIIB",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "BIIB",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Neuroscience drug development has the highest failure rate in pharma; success is rare and valuable.",
+  "investmentLens": "A turnaround biotech; watch Alzheimer's uptake and pipeline deals."
+}

@@ -29,7 +29,13 @@
   "estimate": "2025\u20132029",
   "estimateYear": 2026,
   "sourceCount": 9,
-  "companies": [],
+  "companies": [
+    "novartis.ch",
+    "sangamo.us",
+    "serepta.us",
+    "uniqure.nl",
+    "lonza.ch"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

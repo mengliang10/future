@@ -1,0 +1,29 @@
+{
+  "id": "shanshan.cn",
+  "title": "Shanshan",
+  "summary": "Chinese materials group producing anode and cathode materials for batteries.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/shanshan.cn.md",
+  "sourceHash": "4f3b2dfded4d3e687a3c49a48f8a677af0c5b889aee40d2fffc00a72de1d89c8",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Shanshan produces anode materials, cathodes and related battery materials, and has been one of the largest Chinese anode suppliers. It also holds interests in display and other materials businesses. The company's results track cell production and graphite prices.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Anode materials</li>\n<li>Cathode and electrolyte materials</li>\n<li>Display and other materials</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Anode pricing</li>\n<li>Cell-maker demand</li>\n<li>Portfolio restructuring</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nShanshan produces anode materials, cathodes and related battery materials, and has been one of the largest Chinese anode suppliers. It also holds interests in display and other materials businesses. The company's results track cell production and graphite prices.\n\n## Technology Exposure\n\n- Anode materials\n- Cathode and electrolyte materials\n- Display and other materials\n\n## What To Watch\n\n- Anode pricing\n- Cell-maker demand\n- Portfolio restructuring\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Shanshan",
+    "symbol": "600884.SS",
+    "exchange": "Shanghai",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "600884.SS",
+  "exchange": "Shanghai",
+  "private": false,
+  "businessMeaning": "Chinese anode capacity is large; margin comes from cost control and customer mix.",
+  "investmentLens": "A cyclical materials supplier; watch anode volumes and pricing."
+}

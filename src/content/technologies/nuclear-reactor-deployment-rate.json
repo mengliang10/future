@@ -29,7 +29,10 @@
   "estimate": "2032\u20132039",
   "estimateYear": 2034,
   "sourceCount": 14,
-  "companies": [],
+  "companies": [
+    "kazatomprom.kz",
+    "orano.fr"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

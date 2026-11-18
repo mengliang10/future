@@ -1,0 +1,29 @@
+{
+  "id": "pl.us",
+  "title": "Planet Labs",
+  "summary": "Operator of a large earth-observation satellite constellation.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/pl.us.md",
+  "sourceHash": "f9520e802ab29766165df5167d305bf2f9ea92518e8c952d83420ca6b442ed15",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Planet Labs operates hundreds of small imaging satellites and sells imagery, analytics and monitoring subscriptions to governments, agriculture and defence customers. Its daily-revisit dataset is the core asset, and defence and intelligence demand has grown. Constellation refresh capex and customer concentration are the constraints.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Earth-observation imagery</li>\n<li>Analytics and monitoring subscriptions</li>\n<li>Defence and intelligence services</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Government contract growth</li>\n<li>Constellation refresh capex</li>\n<li>Competition from larger imagery providers</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPlanet Labs operates hundreds of small imaging satellites and sells imagery, analytics and monitoring subscriptions to governments, agriculture and defence customers. Its daily-revisit dataset is the core asset, and defence and intelligence demand has grown. Constellation refresh capex and customer concentration are the constraints.\n\n## Technology Exposure\n\n- Earth-observation imagery\n- Analytics and monitoring subscriptions\n- Defence and intelligence services\n\n## What To Watch\n\n- Government contract growth\n- Constellation refresh capex\n- Competition from larger imagery providers\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Planet Labs",
+    "symbol": "PL",
+    "exchange": "NYSE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "PL",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Daily global revisit is a data moat; the value is in analytics, not raw pixels.",
+  "investmentLens": "A data-services space company; watch government bookings."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "photronics.us",
+  "title": "Photronics",
+  "summary": "US photomask maker serving logic, memory and display customers.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/photronics.us.md",
+  "sourceHash": "04def80a42b06bb303bec7971cd133ca83ce8d5ca3adb5dbe4a455721cf2f7ca",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Photronics produces photomasks for semiconductor and flat-panel-display manufacturing, with plants in the US, Europe and Asia. Masks are a design-dependent consumable: every new chip or panel design needs a new set, so revenue follows design activity as well as unit volume. The company is smaller than its Japanese peers but geographically diversified.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Semiconductor photomasks</li>\n<li>Flat-panel-display masks</li>\n<li>High-end and mainstream mask sets</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Design activity at fabless customers</li>\n<li>High-end mask capacity</li>\n<li>Display capex</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPhotronics produces photomasks for semiconductor and flat-panel-display manufacturing, with plants in the US, Europe and Asia. Masks are a design-dependent consumable: every new chip or panel design needs a new set, so revenue follows design activity as well as unit volume. The company is smaller than its Japanese peers but geographically diversified.\n\n## Technology Exposure\n\n- Semiconductor photomasks\n- Flat-panel-display masks\n- High-end and mainstream mask sets\n\n## What To Watch\n\n- Design activity at fabless customers\n- High-end mask capacity\n- Display capex\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Photronics",
+    "symbol": "PLAB",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "PLAB",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Masks are a fixed cost per design; a busy design pipeline fills mask shops even in a chip downturn.",
+  "investmentLens": "A design-cycle play with display exposure; watch high-end mask mix."
+}

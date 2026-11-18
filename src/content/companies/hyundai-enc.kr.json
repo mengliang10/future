@@ -1,0 +1,29 @@
+{
+  "id": "hyundai-enc.kr",
+  "title": "Hyundai Engineering & Construction",
+  "summary": "Korean construction group that builds nuclear plants and large infrastructure.",
+  "sector": "industrials",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/hyundai-enc.kr.md",
+  "sourceHash": "25f89d40bf57706a6f83185c6c3340aaa53edee6a1af2bf9cf20e49f78e6aa83",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Hyundai Engineering &amp; Construction builds nuclear power plants, oil and gas facilities, and infrastructure, and is part of the Korean consortium that exports APR-1400 reactors. Its nuclear experience is a differentiator in emerging-market bids. Construction margins and overseas awards drive results.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Nuclear plant construction</li>\n<li>Oil, gas and industrial facilities</li>\n<li>Infrastructure and housing</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Overseas nuclear awards</li>\n<li>Construction margins</li>\n<li>Middle East and Asia project demand</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nHyundai Engineering & Construction builds nuclear power plants, oil and gas facilities, and infrastructure, and is part of the Korean consortium that exports APR-1400 reactors. Its nuclear experience is a differentiator in emerging-market bids. Construction margins and overseas awards drive results.\n\n## Technology Exposure\n\n- Nuclear plant construction\n- Oil, gas and industrial facilities\n- Infrastructure and housing\n\n## What To Watch\n\n- Overseas nuclear awards\n- Construction margins\n- Middle East and Asia project demand\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Hyundai Engineering & Construction",
+    "symbol": "000720.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "000720.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Exporting a reactor exports a consortium of builders, equipment makers and fuel suppliers.",
+  "investmentLens": "A construction play on nuclear exports; watch awards."
+}

@@ -29,7 +29,16 @@
   "estimate": "2035\u20132042",
   "estimateYear": 2037,
   "sourceCount": 5,
-  "companies": [],
+  "companies": [
+    "formfactor.us",
+    "bluefors.fi",
+    "quantum-machines.il",
+    "toptica.de",
+    "quantinuum.us",
+    "atom-computing.us",
+    "alice-bob.fr",
+    "psiquantum.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

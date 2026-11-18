@@ -1,0 +1,29 @@
+{
+  "id": "tdk.jp",
+  "title": "TDK",
+  "summary": "Japanese electronic-components group supplying MLCCs, batteries and magnetic materials.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/tdk.jp.md",
+  "sourceHash": "7973e574c468f2f3e366811b97eb05dc5aff72c684c69822dad9b5f49428e45b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>TDK makes ceramic capacitors, inductors, magnetic heads, sensors and batteries, with a strong position in power inductors for AI servers and in consumer battery cells. Its magnetic materials and multilayer processes are core competencies that transfer across components. The company also supplies energy-storage and EV components.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Power inductors and MLCCs</li>\n<li>Magnetic materials and sensors</li>\n<li>Consumer and industrial batteries</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>AI-server power-component demand</li>\n<li>Battery-cell competition</li>\n<li>Automotive electronics growth</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTDK makes ceramic capacitors, inductors, magnetic heads, sensors and batteries, with a strong position in power inductors for AI servers and in consumer battery cells. Its magnetic materials and multilayer processes are core competencies that transfer across components. The company also supplies energy-storage and EV components.\n\n## Technology Exposure\n\n- Power inductors and MLCCs\n- Magnetic materials and sensors\n- Consumer and industrial batteries\n\n## What To Watch\n\n- AI-server power-component demand\n- Battery-cell competition\n- Automotive electronics growth\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "TDK",
+    "symbol": "6762.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6762.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Power delivery components are small but numerous; content per AI rack is rising sharply.",
+  "investmentLens": "A components compounder with AI power exposure; watch passive and battery margins."
+}

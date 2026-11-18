@@ -1,0 +1,29 @@
+{
+  "id": "ibiden.jp",
+  "title": "Ibiden",
+  "summary": "Japanese substrate maker and long-standing lead supplier of FC-BGA substrates for high-end processors.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/ibiden.jp.md",
+  "sourceHash": "e98825ba2dbbf90e5f62401dd15ef17c5b6d59c0006de9e99fa63b599a67cdc8",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Ibiden is one of the largest suppliers of flip-chip ball-grid-array substrates and has been a lead partner for Intel and other processor vendors for years. It is investing in larger, higher-layer substrates for AI accelerators, where package size and power delivery push organic substrate technology to its limits. Substrate capacity, not demand, has been the binding constraint in recent cycles.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>FC-BGA substrates for CPUs, GPUs and accelerators</li>\n<li>Ceramic and other electronic components</li>\n<li>Substrate capacity in Japan and overseas</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>AI substrate capacity additions</li>\n<li>Customer concentration and programme ramps</li>\n<li>Capital intensity and depreciation</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nIbiden is one of the largest suppliers of flip-chip ball-grid-array substrates and has been a lead partner for Intel and other processor vendors for years. It is investing in larger, higher-layer substrates for AI accelerators, where package size and power delivery push organic substrate technology to its limits. Substrate capacity, not demand, has been the binding constraint in recent cycles.\n\n## Technology Exposure\n\n- FC-BGA substrates for CPUs, GPUs and accelerators\n- Ceramic and other electronic components\n- Substrate capacity in Japan and overseas\n\n## What To Watch\n\n- AI substrate capacity additions\n- Customer concentration and programme ramps\n- Capital intensity and depreciation\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Ibiden",
+    "symbol": "4062.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "4062.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "The largest packages in the industry are qualified on a handful of substrate lines; Ibiden's capacity is a strategic asset.",
+  "investmentLens": "A high-quality franchise with cyclical orders and heavy capex; the AI substrate ramp is the key variable."
+}

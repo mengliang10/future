@@ -1,0 +1,29 @@
+{
+  "id": "sk-absolics.kr",
+  "title": "SK Absolics",
+  "summary": "SKC subsidiary commercialising glass-core substrates for advanced packaging.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/sk-absolics.kr.md",
+  "sourceHash": "176d4251e31d7134da1e86ad10459690d631e4032a9c30fb6ed2f5e0966f9fa4",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>SK Absolics, a subsidiary of SKC, is building glass-core substrate capacity in Georgia to serve US chip packaging demand. Glass cores promise better flatness and finer routing than organic substrates for large AI packages, and Absolics has been the most visible commercial-scale proponent. The programme is still pre-volume, so qualification and yield are the open questions.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Glass-core substrates for AI and data-centre packages</li>\n<li>Panel-level substrate processing</li>\n<li>SKC's broader film and materials portfolio</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Customer qualification of glass cores</li>\n<li>Yield and cost versus organic ABF substrates</li>\n<li>Ramp timing at the Georgia facility</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSK Absolics, a subsidiary of SKC, is building glass-core substrate capacity in Georgia to serve US chip packaging demand. Glass cores promise better flatness and finer routing than organic substrates for large AI packages, and Absolics has been the most visible commercial-scale proponent. The programme is still pre-volume, so qualification and yield are the open questions.\n\n## Technology Exposure\n\n- Glass-core substrates for AI and data-centre packages\n- Panel-level substrate processing\n- SKC's broader film and materials portfolio\n\n## What To Watch\n\n- Customer qualification of glass cores\n- Yield and cost versus organic ABF substrates\n- Ramp timing at the Georgia facility\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "SK Absolics",
+    "symbol": "ABSOLICS.KR",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ABSOLICS.KR",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Glass cores could relax the size limits of organic substrates, but only if panel handling reaches acceptable yields.",
+  "investmentLens": "Private and early-stage; SKC is the listed proxy for the same programme."
+}

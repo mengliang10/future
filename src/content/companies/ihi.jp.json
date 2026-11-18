@@ -1,0 +1,29 @@
+{
+  "id": "ihi.jp",
+  "title": "IHI",
+  "summary": "Japanese heavy-industry group supplying rocket engines and aerospace components.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/ihi.jp.md",
+  "sourceHash": "a438e01005ba7260b861875186a05ac46e14c50a1bd691e1cd64104e7a8edeac",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>IHI builds rocket engines, turbochargers and aerospace components, and has supplied propulsion for Japanese launch vehicles. Its engine work covers liquid-oxygen and hydrocarbon systems, which are central to modern launchers. The group's broader industrial business spans energy, ships and machinery.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Rocket engines and propulsion</li>\n<li>Aerospace components</li>\n<li>Energy and industrial machinery</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Japanese launch cadence</li>\n<li>Engine development milestones</li>\n<li>Industrial order cycle</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nIHI builds rocket engines, turbochargers and aerospace components, and has supplied propulsion for Japanese launch vehicles. Its engine work covers liquid-oxygen and hydrocarbon systems, which are central to modern launchers. The group's broader industrial business spans energy, ships and machinery.\n\n## Technology Exposure\n\n- Rocket engines and propulsion\n- Aerospace components\n- Energy and industrial machinery\n\n## What To Watch\n\n- Japanese launch cadence\n- Engine development milestones\n- Industrial order cycle\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "IHI",
+    "symbol": "7013.T",
+    "exchange": "TSE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "7013.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Engine manufacturing is a small, specialised capability that few countries retain.",
+  "investmentLens": "A diversified industrial with propulsion exposure; watch space orders."
+}

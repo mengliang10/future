@@ -1,0 +1,29 @@
+{
+  "id": "lly.us",
+  "title": "Eli Lilly",
+  "summary": "US pharmaceutical group leading the obesity and diabetes market with incretin drugs.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/lly.us.md",
+  "sourceHash": "be5354bd6a84e1a40263dfb3623f122336c15d9bf02dd6ed893ef61b886f1c0e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Eli Lilly sells insulin, oncology and neuroscience products and has become the largest pharmaceutical company by market value on the strength of its GLP-1 receptor agonist franchise for diabetes and obesity. It is investing billions in manufacturing capacity because demand exceeds supply, and it is developing oral and next-generation incretins plus Alzheimer's and gene-based medicines. Manufacturing scale and payer access are the constraints.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Incretin therapies for diabetes and obesity</li>\n<li>Oncology and neuroscience pipelines</li>\n<li>Alzheimer's and gene-based medicines</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Manufacturing capacity for incretins</li>\n<li>Payer coverage and pricing pressure</li>\n<li>Competition from Novo Nordisk and generics</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nEli Lilly sells insulin, oncology and neuroscience products and has become the largest pharmaceutical company by market value on the strength of its GLP-1 receptor agonist franchise for diabetes and obesity. It is investing billions in manufacturing capacity because demand exceeds supply, and it is developing oral and next-generation incretins plus Alzheimer's and gene-based medicines. Manufacturing scale and payer access are the constraints.\n\n## Technology Exposure\n\n- Incretin therapies for diabetes and obesity\n- Oncology and neuroscience pipelines\n- Alzheimer's and gene-based medicines\n\n## What To Watch\n\n- Manufacturing capacity for incretins\n- Payer coverage and pricing pressure\n- Competition from Novo Nordisk and generics\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Eli Lilly",
+    "symbol": "LLY",
+    "exchange": "NYSE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "LLY",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Supply, not demand, has limited incretin revenue; manufacturing is the strategic bottleneck.",
+  "investmentLens": "A growth pharma with unprecedented scale; watch capacity additions and oral-incretin data."
+}

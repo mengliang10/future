@@ -29,7 +29,10 @@
   "estimate": "2032\u20132037",
   "estimateYear": 2033,
   "sourceCount": 4,
-  "companies": [],
+  "companies": [
+    "xanadu.ca",
+    "photonic-inc.ca"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

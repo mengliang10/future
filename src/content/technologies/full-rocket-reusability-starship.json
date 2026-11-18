@@ -32,7 +32,25 @@
   "estimateYear": 2026,
   "sourceCount": 4,
   "companies": [
-    "rklb"
+    "rklb",
+    "air-products.us",
+    "taiyo-nippon-sanso.jp",
+    "toray.jp",
+    "teijin.jp",
+    "outokumpu.fi",
+    "ati.us",
+    "howmet.us",
+    "carpenter.us",
+    "spacex.us",
+    "blue-origin.us",
+    "relativity.us",
+    "ariane-group.fr",
+    "hexcel.us",
+    "syensqo.be",
+    "amphenol.us",
+    "te-connectivity.ch",
+    "moog.us",
+    "chart-industries.us"
   ],
   "businessMeaning": "",
   "investmentLens": ""

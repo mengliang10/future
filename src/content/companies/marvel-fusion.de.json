@@ -1,0 +1,29 @@
+{
+  "id": "marvel-fusion.de",
+  "title": "Marvel Fusion",
+  "summary": "German fusion company using laser-driven proton-boron fuel.",
+  "sector": "energy",
+  "sourceCategory": "Fusion",
+  "sourcePath": "_stocks/marvel-fusion.de.md",
+  "sourceHash": "5556b6279d96bf99c1afa331d6012ee6dff93b4a8b64361f8ba6b33cdc251e43",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Marvel Fusion is developing laser-driven fusion with proton-boron fuel, which avoids neutron activation but requires extreme laser intensity. It plans a demonstration facility and has partnered with research institutions. The physics and laser requirements are demanding.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Laser fusion</li>\n<li>Proton-boron fuel</li>\n<li>Demonstration facility</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Laser performance</li>\n<li>Funding</li>\n<li>Physics validation</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMarvel Fusion is developing laser-driven fusion with proton-boron fuel, which avoids neutron activation but requires extreme laser intensity. It plans a demonstration facility and has partnered with research institutions. The physics and laser requirements are demanding.\n\n## Technology Exposure\n\n- Laser fusion\n- Proton-boron fuel\n- Demonstration facility\n\n## What To Watch\n\n- Laser performance\n- Funding\n- Physics validation\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Marvel Fusion",
+    "symbol": "MARVEL-FUSION.DE",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Fusion"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "MARVEL-FUSION.DE",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Aneutronic fuel would simplify shielding and waste handling if ignition can be reached.",
+  "investmentLens": "Private; an early-stage laser-fusion venture."
+}

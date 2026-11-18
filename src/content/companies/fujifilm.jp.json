@@ -1,0 +1,29 @@
+{
+  "id": "fujifilm.jp",
+  "title": "Fujifilm Holdings",
+  "summary": "Diversified Japanese group with a growing semiconductor-materials business.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/fujifilm.jp.md",
+  "sourceHash": "29be98085d4ed217b6de711b994265b9d3a0f1f88e9764e02b47070fbae8299d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Fujifilm supplies photoresists, CMP slurries, process chemicals and image sensors under its electronics business, built from photographic chemistry know-how. Semiconductor materials have become one of its fastest-growing segments, and the company has been investing in US and Japanese production for advanced nodes. Healthcare and imaging provide the base.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Photoresists and CMP slurries</li>\n<li>Process chemicals and lithography materials</li>\n<li>Healthcare, imaging and business solutions</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Semiconductor-materials capacity additions</li>\n<li>Advanced-node qualifications</li>\n<li>Healthcare segment profitability</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nFujifilm supplies photoresists, CMP slurries, process chemicals and image sensors under its electronics business, built from photographic chemistry know-how. Semiconductor materials have become one of its fastest-growing segments, and the company has been investing in US and Japanese production for advanced nodes. Healthcare and imaging provide the base.\n\n## Technology Exposure\n\n- Photoresists and CMP slurries\n- Process chemicals and lithography materials\n- Healthcare, imaging and business solutions\n\n## What To Watch\n\n- Semiconductor-materials capacity additions\n- Advanced-node qualifications\n- Healthcare segment profitability\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Fujifilm Holdings",
+    "symbol": "4901.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "4901.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Photochemical precision transfers directly to semiconductor chemistry; Fujifilm has scaled that adjacency.",
+  "investmentLens": "A diversified group where semiconductor materials are the growth engine; watch segment disclosure."
+}

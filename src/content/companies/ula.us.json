@@ -1,0 +1,29 @@
+{
+  "id": "ula.us",
+  "title": "United Launch Alliance",
+  "summary": "US launch joint venture of Boeing and Lockheed Martin operating Atlas V, Delta IV and Vulcan.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/ula.us.md",
+  "sourceHash": "44bc3bcd7c21afdc979ebc2a11ef53e55fa3f874363b287e0dfa8a46aa4aab9e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>United Launch Alliance provides assured access to space for US government missions with Atlas V, Delta IV Heavy and the new Vulcan Centaur. Vulcan uses Blue Origin BE-4 engines, a dependency that has shaped its schedule. ULA is being reshaped as national-security launch moves to competitive awards.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Vulcan Centaur launch vehicle</li>\n<li>Atlas V and Delta IV missions</li>\n<li>National-security launch services</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Vulcan cadence and certification</li>\n<li>BE-4 engine supply</li>\n<li>Ownership transition</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nUnited Launch Alliance provides assured access to space for US government missions with Atlas V, Delta IV Heavy and the new Vulcan Centaur. Vulcan uses Blue Origin BE-4 engines, a dependency that has shaped its schedule. ULA is being reshaped as national-security launch moves to competitive awards.\n\n## Technology Exposure\n\n- Vulcan Centaur launch vehicle\n- Atlas V and Delta IV missions\n- National-security launch services\n\n## What To Watch\n\n- Vulcan cadence and certification\n- BE-4 engine supply\n- Ownership transition\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "United Launch Alliance",
+    "symbol": "ULA.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ULA.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Assured access contracts value reliability over price, which supports a higher-cost provider.",
+  "investmentLens": "Private; owned by Boeing and Lockheed Martin, which are the listed proxies."
+}

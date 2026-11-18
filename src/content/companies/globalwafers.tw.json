@@ -1,0 +1,29 @@
+{
+  "id": "globalwafers.tw",
+  "title": "GlobalWafers",
+  "summary": "Taiwanese silicon-wafer group built through acquisitions across Asia and Europe.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/globalwafers.tw.md",
+  "sourceHash": "62bd7c4b4e5543a06b477554f03ed645e59b84c2cdd8c772883a1bec11160229",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>GlobalWafers supplies silicon wafers from plants in Taiwan, Japan, Korea, the US and Europe, having assembled a global footprint through acquisitions including SunEdison Semiconductor and, after a long regulatory fight, parts of Siltronic's planned combination. The geographic spread helps customers diversify supply, and long-term agreements underpin revenue. Wafer pricing remains cyclical.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>300mm and 200mm silicon wafers</li>\n<li>Epitaxial and specialty wafers</li>\n<li>Global manufacturing footprint</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Long-term agreement pricing</li>\n<li>Capacity utilisation</li>\n<li>Regulatory outcomes in Europe</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nGlobalWafers supplies silicon wafers from plants in Taiwan, Japan, Korea, the US and Europe, having assembled a global footprint through acquisitions including SunEdison Semiconductor and, after a long regulatory fight, parts of Siltronic's planned combination. The geographic spread helps customers diversify supply, and long-term agreements underpin revenue. Wafer pricing remains cyclical.\n\n## Technology Exposure\n\n- 300mm and 200mm silicon wafers\n- Epitaxial and specialty wafers\n- Global manufacturing footprint\n\n## What To Watch\n\n- Long-term agreement pricing\n- Capacity utilisation\n- Regulatory outcomes in Europe\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "GlobalWafers",
+    "symbol": "6488.TWO",
+    "exchange": "Taipei Exchange",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6488.TWO",
+  "exchange": "Taipei Exchange",
+  "private": false,
+  "businessMeaning": "Wafer supply diversification is now a procurement requirement for fabs in every region.",
+  "investmentLens": "A cyclical wafer producer with a consolidation story; watch pricing and plant loading."
+}

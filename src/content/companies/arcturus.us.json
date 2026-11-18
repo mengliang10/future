@@ -1,0 +1,29 @@
+{
+  "id": "arcturus.us",
+  "title": "Arcturus Therapeutics",
+  "summary": "US clinical-stage mRNA medicines company.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/arcturus.us.md",
+  "sourceHash": "d3826f49210d388d62e8ed48ccbc56cd9a14b37346792e4bd59eed3ba63e5551",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Arcturus develops mRNA vaccines and therapeutics using lipid-nanoparticle delivery, with programmes in infectious disease and rare metabolic disease. It has partnered with vaccine manufacturers and government programmes. Clinical data and funding are the main swing factors.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>mRNA vaccines</li>\n<li>Lipid-nanoparticle delivery</li>\n<li>Rare-disease therapeutics</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Clinical readouts</li>\n<li>Partnership funding</li>\n<li>Cash runway</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nArcturus develops mRNA vaccines and therapeutics using lipid-nanoparticle delivery, with programmes in infectious disease and rare metabolic disease. It has partnered with vaccine manufacturers and government programmes. Clinical data and funding are the main swing factors.\n\n## Technology Exposure\n\n- mRNA vaccines\n- Lipid-nanoparticle delivery\n- Rare-disease therapeutics\n\n## What To Watch\n\n- Clinical readouts\n- Partnership funding\n- Cash runway\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Arcturus Therapeutics",
+    "symbol": "ARCT",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ARCT",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "mRNA manufacturing is now widely available; differentiation comes from delivery and design.",
+  "investmentLens": "A small mRNA platform; watch clinical and partnership news."
+}

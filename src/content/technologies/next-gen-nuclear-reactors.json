@@ -29,7 +29,16 @@
   "estimate": "2031\u20132038",
   "estimateYear": 2033,
   "sourceCount": 4,
-  "companies": [],
+  "companies": [
+    "bwxt.us",
+    "curtiss-wright.us",
+    "jacobs.us",
+    "atkinsrealis.ca",
+    "hitachi.jp",
+    "oklo.us",
+    "terrapower.us",
+    "x-energy.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

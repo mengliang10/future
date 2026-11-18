@@ -1,0 +1,29 @@
+{
+  "id": "vertex.us",
+  "title": "Vertex Pharmaceuticals",
+  "summary": "US biotech group dominant in cystic fibrosis and expanding into pain and diabetes.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/vertex.us.md",
+  "sourceHash": "6d7ee0522ff1b93bd16427883c8753c72fd631ec14c1cec156cd024352627360",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Vertex sells cystic fibrosis modulators that treat most patients with the disease, and is developing non-opioid pain drugs, gene-edited therapies and an encapsulated cell therapy for type 1 diabetes. Its CF franchise funds expansion, but growth depends on successful launches beyond CF. Pricing pressure and trial failures are the main risks.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Cystic fibrosis modulators</li>\n<li>Non-opioid pain medicines</li>\n<li>Cell and gene therapies for diabetes</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Pain programme approval</li>\n<li>CF franchise competition</li>\n<li>Cell-therapy trial results</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nVertex sells cystic fibrosis modulators that treat most patients with the disease, and is developing non-opioid pain drugs, gene-edited therapies and an encapsulated cell therapy for type 1 diabetes. Its CF franchise funds expansion, but growth depends on successful launches beyond CF. Pricing pressure and trial failures are the main risks.\n\n## Technology Exposure\n\n- Cystic fibrosis modulators\n- Non-opioid pain medicines\n- Cell and gene therapies for diabetes\n\n## What To Watch\n\n- Pain programme approval\n- CF franchise competition\n- Cell-therapy trial results\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Vertex Pharmaceuticals",
+    "symbol": "VRTX",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "VRTX",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "A disease-specific monopoly funds optionality, but the next franchise must be large.",
+  "investmentLens": "A high-quality biotech at a transition point; watch pain and diabetes data."
+}

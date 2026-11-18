@@ -1,0 +1,29 @@
+{
+  "id": "ulvac.jp",
+  "title": "ULVAC",
+  "summary": "Japanese vacuum-equipment maker supplying deposition, etch and materials for advanced devices.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/ulvac.jp.md",
+  "sourceHash": "cc4d09de25858753d6d3c20b1c898b9548b54880c098c448260b77d005150798",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>ULVAC builds vacuum pumps, deposition and etch equipment, and also supplies sputtering targets and specialty materials. Its tools serve semiconductor, display and battery manufacturing, giving it exposure to several capex cycles. The combination of equipment and materials is unusual and helps it tune processes jointly with customers.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Sputtering and deposition equipment</li>\n<li>Vacuum pumps and components</li>\n<li>Targets and specialty materials</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Advanced packaging and power-device capex</li>\n<li>Display and battery equipment demand</li>\n<li>Competition from larger toolmakers</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nULVAC builds vacuum pumps, deposition and etch equipment, and also supplies sputtering targets and specialty materials. Its tools serve semiconductor, display and battery manufacturing, giving it exposure to several capex cycles. The combination of equipment and materials is unusual and helps it tune processes jointly with customers.\n\n## Technology Exposure\n\n- Sputtering and deposition equipment\n- Vacuum pumps and components\n- Targets and specialty materials\n\n## What To Watch\n\n- Advanced packaging and power-device capex\n- Display and battery equipment demand\n- Competition from larger toolmakers\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ULVAC",
+    "symbol": "6728.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6728.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Process and consumable supplied together can shorten qualification and lock in the recipe.",
+  "investmentLens": "A mid-sized equipment maker with materials optionality; watch order intake."
+}

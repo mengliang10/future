@@ -29,7 +29,18 @@
   "estimate": "2026\u20132027",
   "estimateYear": 2026,
   "sourceCount": 5,
-  "companies": [],
+  "companies": [
+    "ajinomoto.jp",
+    "hns-hitech.kr",
+    "samsung-electro-mechanics.kr",
+    "simmtech.kr",
+    "powertech.tw",
+    "sk-trichem.kr",
+    "accretech.jp",
+    "hanmi-semiconductor.kr",
+    "camtek.il",
+    "advantest.jp"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

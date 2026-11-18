@@ -1,0 +1,29 @@
+{
+  "id": "ariane-group.fr",
+  "title": "ArianeGroup",
+  "summary": "European launch prime building Ariane 6 and strategic missile systems.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/ariane-group.fr.md",
+  "sourceHash": "7b70335b592a6a40395555980f06445490e23e43a6aabd8a9add92c3c101a584",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>ArianeGroup, a joint venture of Airbus and Safran, builds the Ariane 6 launcher and supplies propulsion and missile systems. Ariane 6 is intended to restore European independent access to space at a lower cost than Ariane 5, though it faces competition from reusable US vehicles. The company is also studying a reusable European launcher.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Ariane 6 launch vehicle</li>\n<li>Propulsion systems</li>\n<li>Strategic and missile systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Ariane 6 cadence and cost</li>\n<li>European institutional demand</li>\n<li>Reusable-launcher studies</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nArianeGroup, a joint venture of Airbus and Safran, builds the Ariane 6 launcher and supplies propulsion and missile systems. Ariane 6 is intended to restore European independent access to space at a lower cost than Ariane 5, though it faces competition from reusable US vehicles. The company is also studying a reusable European launcher.\n\n## Technology Exposure\n\n- Ariane 6 launch vehicle\n- Propulsion systems\n- Strategic and missile systems\n\n## What To Watch\n\n- Ariane 6 cadence and cost\n- European institutional demand\n- Reusable-launcher studies\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ArianeGroup",
+    "symbol": "ARIANEGROUP.FR",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ARIANEGROUP.FR",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Institutional launch demand sustains capability, but commercial competitiveness requires cost reduction.",
+  "investmentLens": "Private; Airbus and Safran are the listed proxies."
+}

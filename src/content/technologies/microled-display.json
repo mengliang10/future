@@ -29,7 +29,13 @@
   "estimate": "2025\u20132030",
   "estimateYear": 2027,
   "sourceCount": 9,
-  "companies": [],
+  "companies": [
+    "chipbond.tw",
+    "dic.jp",
+    "sumitomo-chem.jp",
+    "nippon-electric-glass.jp",
+    "aixtron.de"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

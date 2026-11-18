@@ -1,0 +1,29 @@
+{
+  "id": "siltronic.de",
+  "title": "Siltronic",
+  "summary": "German silicon-wafer maker with a new Singapore plant for leading-edge wafers.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/siltronic.de.md",
+  "sourceHash": "7b93038cfa9daac733ce7b53f51640c715e9d66ea3a6408cf555a5b4b96d911a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Siltronic produces hyperpure silicon wafers for semiconductor fabs, with a new Singapore facility built to serve leading-edge capacity in Asia. Its business is contract-driven and capital-intensive, so utilisation and pricing on long-term agreements determine returns. The failed combination with GlobalWafers left it independent but with a concentrated customer base.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>300mm silicon wafers</li>\n<li>Polished and epitaxial wafers</li>\n<li>Singapore capacity</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Ramp of the Singapore plant</li>\n<li>Wafer pricing and contract renewals</li>\n<li>Customer concentration</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSiltronic produces hyperpure silicon wafers for semiconductor fabs, with a new Singapore facility built to serve leading-edge capacity in Asia. Its business is contract-driven and capital-intensive, so utilisation and pricing on long-term agreements determine returns. The failed combination with GlobalWafers left it independent but with a concentrated customer base.\n\n## Technology Exposure\n\n- 300mm silicon wafers\n- Polished and epitaxial wafers\n- Singapore capacity\n\n## What To Watch\n\n- Ramp of the Singapore plant\n- Wafer pricing and contract renewals\n- Customer concentration\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Siltronic",
+    "symbol": "WAF.DE",
+    "exchange": "Frankfurt",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "WAF.DE",
+  "exchange": "Frankfurt",
+  "private": false,
+  "businessMeaning": "European wafer capacity is strategically valuable but cannot compete on cost alone.",
+  "investmentLens": "A concentrated cyclical; watch the Singapore ramp and contract pricing."
+}

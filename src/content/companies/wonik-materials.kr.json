@@ -1,0 +1,29 @@
+{
+  "id": "wonik-materials.kr",
+  "title": "Wonik Materials",
+  "summary": "Korean specialty-gas maker supplying memory and logic fabs.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/wonik-materials.kr.md",
+  "sourceHash": "f0637b3448ba8ec0202582bab5a8f756b394540cd8536fb34fb7e555937136c9",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Wonik Materials produces specialty gases such as nitrous oxide, tungsten precursors and high-purity chemicals for semiconductor manufacturing. Korean memory fabs are its core customers, so node transitions and fab utilisation drive volume. The company has been broadening its product list to reduce dependence on a few gases.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Specialty gases for deposition and etch</li>\n<li>High-purity precursors</li>\n<li>Industrial gases</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Memory fab utilisation</li>\n<li>New gas qualifications</li>\n<li>Competitor capacity additions</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nWonik Materials produces specialty gases such as nitrous oxide, tungsten precursors and high-purity chemicals for semiconductor manufacturing. Korean memory fabs are its core customers, so node transitions and fab utilisation drive volume. The company has been broadening its product list to reduce dependence on a few gases.\n\n## Technology Exposure\n\n- Specialty gases for deposition and etch\n- High-purity precursors\n- Industrial gases\n\n## What To Watch\n\n- Memory fab utilisation\n- New gas qualifications\n- Competitor capacity additions\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Wonik Materials",
+    "symbol": "104830.KQ",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "104830.KQ",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Gas purity and supply reliability matter more than price when a chamber is down.",
+  "investmentLens": "A concentrated materials supplier; watch product diversification."
+}

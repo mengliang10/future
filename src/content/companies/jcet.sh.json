@@ -1,0 +1,29 @@
+{
+  "id": "jcet.sh",
+  "title": "JCET Group",
+  "summary": "China's largest OSAT, expanding advanced packaging for domestic chip supply chains.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/jcet.sh.md",
+  "sourceHash": "700e8d9ca49dd03fee319ef0dfcb38a5563b1179fa0339a9b5a086cff1b9e75a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>JCET provides assembly and test services from plants in China and Singapore and has been developing fan-out and 2.5D packaging for domestic customers. It benefits from China's push to localise the semiconductor supply chain, though export controls limit access to some leading-edge tools and customers. Scale and state-linked demand underpin the business.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Advanced packaging and fan-out</li>\n<li>Wire-bond and flip-chip assembly</li>\n<li>Test services</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Domestic advanced-packaging demand</li>\n<li>Export-control impact on tools and customers</li>\n<li>Utilisation and pricing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nJCET provides assembly and test services from plants in China and Singapore and has been developing fan-out and 2.5D packaging for domestic customers. It benefits from China's push to localise the semiconductor supply chain, though export controls limit access to some leading-edge tools and customers. Scale and state-linked demand underpin the business.\n\n## Technology Exposure\n\n- Advanced packaging and fan-out\n- Wire-bond and flip-chip assembly\n- Test services\n\n## What To Watch\n\n- Domestic advanced-packaging demand\n- Export-control impact on tools and customers\n- Utilisation and pricing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "JCET Group",
+    "symbol": "600584.SS",
+    "exchange": "Shanghai",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "600584.SS",
+  "exchange": "Shanghai",
+  "private": false,
+  "businessMeaning": "Local packaging capacity is part of China's self-sufficiency plan even where leading-edge tools are restricted.",
+  "investmentLens": "Policy-supported but tool-constrained; watch advanced-packaging qualification and margins."
+}

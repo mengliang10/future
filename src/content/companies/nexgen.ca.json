@@ -1,0 +1,29 @@
+{
+  "id": "nexgen.ca",
+  "title": "NexGen Energy",
+  "summary": "Canadian uranium developer with the high-grade Arrow deposit.",
+  "sector": "energy",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/nexgen.ca.md",
+  "sourceHash": "5a7409d74f3fa8d5917b23abf014399553d3931947138b54e1e84c43b0bdd09d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>NexGen Energy is developing the Arrow uranium deposit in Saskatchewan, one of the highest-grade undeveloped deposits in the world. It has secured permits and offtake interest but still needs construction capital. Uranium prices and project financing determine value.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Uranium development projects</li>\n<li>High-grade uranium resources</li>\n<li>Offtake agreements</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Permitting and construction</li>\n<li>Uranium prices</li>\n<li>Project financing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNexGen Energy is developing the Arrow uranium deposit in Saskatchewan, one of the highest-grade undeveloped deposits in the world. It has secured permits and offtake interest but still needs construction capital. Uranium prices and project financing determine value.\n\n## Technology Exposure\n\n- Uranium development projects\n- High-grade uranium resources\n- Offtake agreements\n\n## What To Watch\n\n- Permitting and construction\n- Uranium prices\n- Project financing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "NexGen Energy",
+    "symbol": "NXE",
+    "exchange": "NYSE",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "NXE",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Grade matters: high-grade deposits can survive low prices that shut marginal mines.",
+  "investmentLens": "A development-stage uranium play; watch financing."
+}

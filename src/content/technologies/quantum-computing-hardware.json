@@ -29,7 +29,24 @@
   "estimate": "2035\u20132042",
   "estimateYear": 2037,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "formfactor.us",
+    "bluefors.fi",
+    "oxford-instruments.uk",
+    "quantum-machines.il",
+    "zurich-instruments.ch",
+    "rohde-schwarz.de",
+    "keysight.us",
+    "attocube.de",
+    "montana-instruments.us",
+    "lake-shore.us",
+    "toptica.de",
+    "menlo-systems.de",
+    "sumitomo-heavy.jp",
+    "quantinuum.us",
+    "alice-bob.fr",
+    "bruker.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

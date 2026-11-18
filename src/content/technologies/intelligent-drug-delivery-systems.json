@@ -29,7 +29,14 @@
   "estimate": "2034\u20132041",
   "estimateYear": 2036,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "west-pharma.us",
+    "stevanato.it",
+    "gerresheimer.de",
+    "aptar.us",
+    "bd.us",
+    "ypsomed.ch"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

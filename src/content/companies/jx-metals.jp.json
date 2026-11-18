@@ -1,0 +1,29 @@
+{
+  "id": "jx-metals.jp",
+  "title": "JX Metals",
+  "summary": "Japanese metals group supplying sputtering targets, copper and semiconductor materials.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/jx-metals.jp.md",
+  "sourceHash": "24561f1a1f5ce6f7e33c669fcf4a58d75845b1adc511a8364d68bbaebc117686",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>JX Metals produces high-purity sputtering targets, bonding wire, copper foil and compound-semiconductor substrates used in chip fabrication and packaging. Its materials sit in deposition and interconnection steps where purity determines yield, and it has been expanding targets for advanced packaging and power devices. The company also retains mining and smelting operations.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Sputtering targets for deposition</li>\n<li>Bonding wire and copper foil</li>\n<li>Compound-semiconductor substrates</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Target demand from advanced nodes</li>\n<li>Copper and precious-metal prices</li>\n<li>Power-device substrate demand</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nJX Metals produces high-purity sputtering targets, bonding wire, copper foil and compound-semiconductor substrates used in chip fabrication and packaging. Its materials sit in deposition and interconnection steps where purity determines yield, and it has been expanding targets for advanced packaging and power devices. The company also retains mining and smelting operations.\n\n## Technology Exposure\n\n- Sputtering targets for deposition\n- Bonding wire and copper foil\n- Compound-semiconductor substrates\n\n## What To Watch\n\n- Target demand from advanced nodes\n- Copper and precious-metal prices\n- Power-device substrate demand\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "JX Metals",
+    "symbol": "5016.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "5016.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Purity at parts-per-billion levels is the product; qualification is long and switching is rare.",
+  "investmentLens": "A metals group with a high-value electronic-materials core; watch segment mix."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "johnson-matthey.uk",
+  "title": "Johnson Matthey",
+  "summary": "British specialty-chemicals group supplying catalysts and precious-metal materials.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/johnson-matthey.uk.md",
+  "sourceHash": "25d98e7af2200a3048a5e93addf32b9f7f2db3461c468d31e95d69adcc790396",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Johnson Matthey makes catalysts for automotive and chemical processes, and supplies precious-metal materials and hydrogen fuel-cell components. Its expertise in platinum-group metals is relevant to electrolysers, fuel cells and emissions control. The company has been reshaping its portfolio toward higher-growth clean-air and hydrogen businesses.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Catalysts and precious-metal chemistry</li>\n<li>Fuel-cell and electrolyser materials</li>\n<li>Emissions-control systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Hydrogen and fuel-cell demand</li>\n<li>Precious-metal prices</li>\n<li>Portfolio restructuring</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nJohnson Matthey makes catalysts for automotive and chemical processes, and supplies precious-metal materials and hydrogen fuel-cell components. Its expertise in platinum-group metals is relevant to electrolysers, fuel cells and emissions control. The company has been reshaping its portfolio toward higher-growth clean-air and hydrogen businesses.\n\n## Technology Exposure\n\n- Catalysts and precious-metal chemistry\n- Fuel-cell and electrolyser materials\n- Emissions-control systems\n\n## What To Watch\n\n- Hydrogen and fuel-cell demand\n- Precious-metal prices\n- Portfolio restructuring\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Johnson Matthey",
+    "symbol": "JMAT.L",
+    "exchange": "London",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "JMAT.L",
+  "exchange": "London",
+  "private": false,
+  "businessMeaning": "Catalyst formulations are tuned per customer and protected by process know-how.",
+  "investmentLens": "A restructuring specialty-chemicals group; watch hydrogen wins."
+}

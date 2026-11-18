@@ -29,7 +29,13 @@
   "estimate": "2032\u20132039",
   "estimateYear": 2034,
   "sourceCount": 34,
-  "companies": [],
+  "companies": [
+    "helion.us",
+    "commonwealth-fusion.us",
+    "general-fusion.ca",
+    "first-light-fusion.uk",
+    "marvel-fusion.de"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

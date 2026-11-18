@@ -29,7 +29,9 @@
   "estimate": "2035\u20132042",
   "estimateYear": 2037,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "bwxt.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

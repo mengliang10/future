@@ -1,0 +1,29 @@
+{
+  "id": "jenoptik.de",
+  "title": "Jenoptik",
+  "summary": "German photonics group supplying optics, lasers and measurement systems.",
+  "sector": "information-technology",
+  "sourceCategory": "Photonics",
+  "sourcePath": "_stocks/jenoptik.de.md",
+  "sourceHash": "d120afd3cf7174e82fe864d4350c706a5c755111f41b6173d98e4057a70d7400",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Jenoptik makes precision optics, laser systems, optical metrology and traffic-safety equipment. Its photonics business supplies semiconductor lithography and inspection customers, and its lasers serve industrial manufacturing. The company has been refocusing on photonics after divesting non-core units.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Precision optics and micro-optics</li>\n<li>Laser systems and metrology</li>\n<li>Traffic and safety systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Semiconductor lithography demand</li>\n<li>Industrial laser demand</li>\n<li>Portfolio focus</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nJenoptik makes precision optics, laser systems, optical metrology and traffic-safety equipment. Its photonics business supplies semiconductor lithography and inspection customers, and its lasers serve industrial manufacturing. The company has been refocusing on photonics after divesting non-core units.\n\n## Technology Exposure\n\n- Precision optics and micro-optics\n- Laser systems and metrology\n- Traffic and safety systems\n\n## What To Watch\n\n- Semiconductor lithography demand\n- Industrial laser demand\n- Portfolio focus\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Jenoptik",
+    "symbol": "JEN.DE",
+    "exchange": "Frankfurt",
+    "categories": [
+      "Photonics"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "JEN.DE",
+  "exchange": "Frankfurt",
+  "private": false,
+  "businessMeaning": "Precision optics are a small part of a lithography tool with a large effect on imaging.",
+  "investmentLens": "A photonics-focused industrial; watch semiconductor orders."
+}

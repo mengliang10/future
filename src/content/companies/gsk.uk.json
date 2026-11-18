@@ -1,0 +1,29 @@
+{
+  "id": "gsk.uk",
+  "title": "GSK",
+  "summary": "British pharmaceutical group focused on vaccines, HIV and specialty medicines.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/gsk.uk.md",
+  "sourceHash": "2d9212f547cfae367ba39b0a987d01c30db2fb56e5c67c1599a1b82441759d77",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>GSK sells vaccines, HIV therapies through ViiV, respiratory and oncology medicines, and consumer-health products. It has been rebuilding its pipeline through acquisitions and is a major vaccine supplier globally. Litigation and patent expiries are recurring issues.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Vaccines</li>\n<li>HIV and antiviral therapies</li>\n<li>Respiratory and oncology medicines</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Vaccine demand and pricing</li>\n<li>HIV franchise competition</li>\n<li>Litigation and patent expiries</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nGSK sells vaccines, HIV therapies through ViiV, respiratory and oncology medicines, and consumer-health products. It has been rebuilding its pipeline through acquisitions and is a major vaccine supplier globally. Litigation and patent expiries are recurring issues.\n\n## Technology Exposure\n\n- Vaccines\n- HIV and antiviral therapies\n- Respiratory and oncology medicines\n\n## What To Watch\n\n- Vaccine demand and pricing\n- HIV franchise competition\n- Litigation and patent expiries\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "GSK",
+    "symbol": "GSK",
+    "exchange": "NYSE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "GSK",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Vaccines are a scale business with long qualification cycles and public-health dependence.",
+  "investmentLens": "A value pharma with vaccine strength; watch pipeline and litigation."
+}

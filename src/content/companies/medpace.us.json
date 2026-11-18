@@ -1,0 +1,29 @@
+{
+  "id": "medpace.us",
+  "title": "Medpace Holdings",
+  "summary": "US clinical-research organisation focused on small and mid-sized biotech sponsors.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/medpace.us.md",
+  "sourceHash": "777c2b71af2021a691ecf387ba9e8319a09fcfaf4752ee14aa9dc6610490e843",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Medpace runs clinical trials for biotech and small pharma, with a focus on oncology, cardiology and metabolic disease. Its customer base is more biotech-heavy than large CROs, making it sensitive to funding conditions. Backlog and cancellations are the key operating metrics.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Clinical trial management</li>\n<li>Oncology and metabolic trials</li>\n<li>Regulatory support</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Biotech funding</li>\n<li>Backlog conversion</li>\n<li>Cancellations</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMedpace runs clinical trials for biotech and small pharma, with a focus on oncology, cardiology and metabolic disease. Its customer base is more biotech-heavy than large CROs, making it sensitive to funding conditions. Backlog and cancellations are the key operating metrics.\n\n## Technology Exposure\n\n- Clinical trial management\n- Oncology and metabolic trials\n- Regulatory support\n\n## What To Watch\n\n- Biotech funding\n- Backlog conversion\n- Cancellations\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Medpace Holdings",
+    "symbol": "MEDP",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "MEDP",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "A CRO's backlog is a leading indicator of revenue but can be cancelled.",
+  "investmentLens": "A high-quality CRO with biotech beta; watch backlog."
+}

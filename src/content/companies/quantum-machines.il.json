@@ -1,0 +1,29 @@
+{
+  "id": "quantum-machines.il",
+  "title": "Quantum Machines",
+  "summary": "Israeli supplier of control electronics and software for quantum computers.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/quantum-machines.il.md",
+  "sourceHash": "aa0d910193773c7f25162732235fe213ddf0a623330abe56e156a85241fcbb29",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Quantum Machines builds the pulse-level control electronics and orchestration software that translate quantum algorithms into signals for qubits. Its controllers work across superconducting, trapped-ion and neutral-atom platforms, making it a platform-neutral supplier. Control hardware scales with qubit count, so it grows with every quantum roadmap.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Quantum control electronics</li>\n<li>Pulse generation and readout systems</li>\n<li>Control software and orchestration</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Qubit-count growth at customers</li>\n<li>Multi-platform adoption</li>\n<li>Competition from instrument incumbents</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nQuantum Machines builds the pulse-level control electronics and orchestration software that translate quantum algorithms into signals for qubits. Its controllers work across superconducting, trapped-ion and neutral-atom platforms, making it a platform-neutral supplier. Control hardware scales with qubit count, so it grows with every quantum roadmap.\n\n## Technology Exposure\n\n- Quantum control electronics\n- Pulse generation and readout systems\n- Control software and orchestration\n\n## What To Watch\n\n- Qubit-count growth at customers\n- Multi-platform adoption\n- Competition from instrument incumbents\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Quantum Machines",
+    "symbol": "QUANTUM-MACHINES.IL",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "QUANTUM-MACHINES.IL",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Every added qubit needs more control channels; the control rack scales with the machine.",
+  "investmentLens": "Private; a platform-neutral way to own quantum hardware growth."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kyocera.jp",
+  "title": "Kyocera",
+  "summary": "Japanese ceramics group supplying packages, substrates and electronic components.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/kyocera.jp.md",
+  "sourceHash": "1deb034dfba0c3680673988256f4f053e390e95b6788a519dd2c78839abf8e98",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Kyocera builds ceramic packages, organic substrates, capacitors and industrial ceramics, and its package business benefits when chips need hermetic or high-reliability housings. It also sells cutting tools, solar modules and document equipment, so the semiconductor segment is diluted by slower businesses. Advanced ceramic packaging is a genuine differentiator in power, RF and automotive applications.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Ceramic packages for power, RF and automotive chips</li>\n<li>Organic substrates and electronic components</li>\n<li>Industrial ceramics and cutting tools</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Automotive and power-semiconductor packaging demand</li>\n<li>Segment profitability outside semiconductors</li>\n<li>Capacity investment in ceramic packaging</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nKyocera builds ceramic packages, organic substrates, capacitors and industrial ceramics, and its package business benefits when chips need hermetic or high-reliability housings. It also sells cutting tools, solar modules and document equipment, so the semiconductor segment is diluted by slower businesses. Advanced ceramic packaging is a genuine differentiator in power, RF and automotive applications.\n\n## Technology Exposure\n\n- Ceramic packages for power, RF and automotive chips\n- Organic substrates and electronic components\n- Industrial ceramics and cutting tools\n\n## What To Watch\n\n- Automotive and power-semiconductor packaging demand\n- Segment profitability outside semiconductors\n- Capacity investment in ceramic packaging\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Kyocera",
+    "symbol": "6971.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6971.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Ceramic packaging is chosen where organic substrates cannot survive heat or moisture; the trade-off is cost and size.",
+  "investmentLens": "A conglomerate with a quality packaging niche; the investment case depends on portfolio focus."
+}

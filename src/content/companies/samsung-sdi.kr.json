@@ -1,0 +1,29 @@
+{
+  "id": "samsung-sdi.kr",
+  "title": "Samsung SDI",
+  "summary": "Korean battery maker supplying EV, energy-storage and consumer cells.",
+  "sector": "energy",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_stocks/samsung-sdi.kr.md",
+  "sourceHash": "9b725fee6b19f1dd72e3069fc929e281c96c8a2d8fe51befcbcb198b2f3fca57",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Samsung SDI produces lithium-ion cells for electric vehicles, energy storage and consumer devices, and is developing solid-state cells. Its prismatic and cylindrical formats serve premium EV programmes, while the energy-storage business is growing with grid investment. Margin depends on cell pricing and raw-material costs.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>EV battery cells</li>\n<li>Energy-storage systems</li>\n<li>Solid-state battery development</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Solid-state pilot-line progress</li>\n<li>EV demand and cell pricing</li>\n<li>Raw-material cost pass-through</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSamsung SDI produces lithium-ion cells for electric vehicles, energy storage and consumer devices, and is developing solid-state cells. Its prismatic and cylindrical formats serve premium EV programmes, while the energy-storage business is growing with grid investment. Margin depends on cell pricing and raw-material costs.\n\n## Technology Exposure\n\n- EV battery cells\n- Energy-storage systems\n- Solid-state battery development\n\n## What To Watch\n\n- Solid-state pilot-line progress\n- EV demand and cell pricing\n- Raw-material cost pass-through\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Samsung SDI",
+    "symbol": "006400.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Energy Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "006400.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Battery makers are squeezed between metal prices and OEM pricing; scale and yield are the defence.",
+  "investmentLens": "A battery major with solid-state optionality; watch utilisation and chemistry mix."
+}

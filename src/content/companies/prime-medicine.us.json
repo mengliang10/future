@@ -1,0 +1,29 @@
+{
+  "id": "prime-medicine.us",
+  "title": "Prime Medicine",
+  "summary": "US biotech commercialising prime editing for genetic disease.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/prime-medicine.us.md",
+  "sourceHash": "ffa8fa8adf56a501bf485241b4fb5def1909d36391f6fcc56ee8bce1294584b2",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Prime Medicine develops therapies based on prime editing, a CRISPR-derived method that can rewrite DNA without double-strand breaks. Its pipeline targets liver, blood and eye diseases, with partnerships supporting delivery and manufacturing. The technology is early and capital-intensive.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Prime editing therapies</li>\n<li>Delivery technology</li>\n<li>Partnership-funded programmes</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>First clinical data</li>\n<li>Delivery and specificity</li>\n<li>Funding</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPrime Medicine develops therapies based on prime editing, a CRISPR-derived method that can rewrite DNA without double-strand breaks. Its pipeline targets liver, blood and eye diseases, with partnerships supporting delivery and manufacturing. The technology is early and capital-intensive.\n\n## Technology Exposure\n\n- Prime editing therapies\n- Delivery technology\n- Partnership-funded programmes\n\n## What To Watch\n\n- First clinical data\n- Delivery and specificity\n- Funding\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Prime Medicine",
+    "symbol": "PRIME-MEDICINE.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "PRIME-MEDICINE.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Prime editing expands the editable genome but remains unproven in patients.",
+  "investmentLens": "Private; an early-stage editing platform."
+}

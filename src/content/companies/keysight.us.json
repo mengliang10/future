@@ -1,0 +1,29 @@
+{
+  "id": "keysight.us",
+  "title": "Keysight Technologies",
+  "summary": "US test-and-measurement leader supplying quantum control and RF design tools.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/keysight.us.md",
+  "sourceHash": "aa36901b42f8da809ee88d3cdf4d02f18828dd654006c620e228f9b03943bd36",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Keysight supplies oscilloscopes, signal sources, network analysers and design software, and has built quantum control systems for superconducting and trapped-ion computers. Its instruments are used across the quantum stack, from cryogenic wiring to room-temperature electronics. The company also serves communications, aerospace and semiconductor customers.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Quantum control systems</li>\n<li>RF and optical test instruments</li>\n<li>Design and simulation software</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Quantum-lab demand</li>\n<li>Communications capex</li>\n<li>Competition and pricing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nKeysight supplies oscilloscopes, signal sources, network analysers and design software, and has built quantum control systems for superconducting and trapped-ion computers. Its instruments are used across the quantum stack, from cryogenic wiring to room-temperature electronics. The company also serves communications, aerospace and semiconductor customers.\n\n## Technology Exposure\n\n- Quantum control systems\n- RF and optical test instruments\n- Design and simulation software\n\n## What To Watch\n\n- Quantum-lab demand\n- Communications capex\n- Competition and pricing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Keysight Technologies",
+    "symbol": "KEYS",
+    "exchange": "NYSE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "KEYS",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Quantum control is an instrumentation problem before it is a software problem.",
+  "investmentLens": "A diversified test leader with quantum optionality; watch quantum orders."
+}

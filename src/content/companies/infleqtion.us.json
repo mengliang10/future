@@ -1,0 +1,29 @@
+{
+  "id": "infleqtion.us",
+  "title": "Infleqtion",
+  "summary": "Neutral-atom quantum company working on computing, sensing and clocks.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/infleqtion.us.md",
+  "sourceHash": "0e3ef7f6b65eebb486ab6829c3ddbd892d2256e749a1af7ee10752cddfc3ee7e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Infleqtion builds neutral-atom quantum computers, atomic clocks and quantum sensors, using laser-cooled atoms as qubits and as precision instruments. Its portfolio spans computing and sensing, which broadens commercial exposure beyond gate-model quantum computing. The company has supplied clocks and sensors to government and defence customers.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Neutral-atom quantum processors</li>\n<li>Optical atomic clocks</li>\n<li>Quantum sensors and RF receivers</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Atom-array scaling</li>\n<li>Government and defence contracts</li>\n<li>Funding runway</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nInfleqtion builds neutral-atom quantum computers, atomic clocks and quantum sensors, using laser-cooled atoms as qubits and as precision instruments. Its portfolio spans computing and sensing, which broadens commercial exposure beyond gate-model quantum computing. The company has supplied clocks and sensors to government and defence customers.\n\n## Technology Exposure\n\n- Neutral-atom quantum processors\n- Optical atomic clocks\n- Quantum sensors and RF receivers\n\n## What To Watch\n\n- Atom-array scaling\n- Government and defence contracts\n- Funding runway\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Infleqtion",
+    "symbol": "INFLEQTION.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "INFLEQTION.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Neutral atoms scale well in arrays; laser control and readout are the engineering constraints.",
+  "investmentLens": "Private; diversified across computing and sensing."
+}

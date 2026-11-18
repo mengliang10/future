@@ -1,0 +1,29 @@
+{
+  "id": "shinko.jp",
+  "title": "Shinko Electric Industries",
+  "summary": "Japanese IC-package and substrate maker taken private in a JIC-led buyout.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/shinko.jp.md",
+  "sourceHash": "54978ea56a1e24fa9ed82b0486b6985bcac64ab96ac6284d2efbfbe2f78ffb66",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Shinko Electric Industries supplies flip-chip substrates, lead frames and package parts, and has long been a key substrate partner for advanced processors. A JIC-led consortium with Fujitsu took the company private, removing it from the Tokyo exchange while leaving its capacity in place. Its technology roadmap centres on finer routing and larger bodies for AI and high-performance computing.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>FC-BGA and flip-chip substrates</li>\n<li>Lead frames and package components</li>\n<li>Advanced package development</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Post-buyout investment and capacity plans</li>\n<li>AI substrate qualification</li>\n<li>Customer relationships under private ownership</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nShinko Electric Industries supplies flip-chip substrates, lead frames and package parts, and has long been a key substrate partner for advanced processors. A JIC-led consortium with Fujitsu took the company private, removing it from the Tokyo exchange while leaving its capacity in place. Its technology roadmap centres on finer routing and larger bodies for AI and high-performance computing.\n\n## Technology Exposure\n\n- FC-BGA and flip-chip substrates\n- Lead frames and package components\n- Advanced package development\n\n## What To Watch\n\n- Post-buyout investment and capacity plans\n- AI substrate qualification\n- Customer relationships under private ownership\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Shinko Electric Industries",
+    "symbol": "SHINKO.JP",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SHINKO.JP",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "A private substrate supplier can invest on a longer horizon, but customers lose the transparency of a listed peer.",
+  "investmentLens": "No longer directly investable after the take-private; relevant as a capacity and technology reference."
+}

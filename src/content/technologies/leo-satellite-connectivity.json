@@ -29,7 +29,14 @@
   "estimate": "2027\u20132031",
   "estimateYear": 2028,
   "sourceCount": 3,
-  "companies": [],
+  "companies": [
+    "firefly.us",
+    "ula.us",
+    "vicor.us",
+    "irdm.us",
+    "viasat.us",
+    "pl.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

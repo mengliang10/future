@@ -1,0 +1,29 @@
+{
+  "id": "wonik-ips.kr",
+  "title": "Wonik IPS",
+  "summary": "Korean maker of deposition and etch equipment for memory fabs.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/wonik-ips.kr.md",
+  "sourceHash": "cfa745f830e4431a65295f434bd9cbadfbe48a67a747f30f3f8a90cd81ed2afc",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Wonik IPS supplies deposition, etch and cleaning equipment to Korean semiconductor manufacturers, with a focus on memory processes. Domestic qualification gives it a cost and service advantage, but its customer base is narrow. The company has been expanding into advanced packaging and overseas customers.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Deposition and etch equipment</li>\n<li>Cleaning and thermal tools</li>\n<li>Advanced packaging equipment</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Korean memory capex</li>\n<li>Customer diversification</li>\n<li>Competition from global toolmakers</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nWonik IPS supplies deposition, etch and cleaning equipment to Korean semiconductor manufacturers, with a focus on memory processes. Domestic qualification gives it a cost and service advantage, but its customer base is narrow. The company has been expanding into advanced packaging and overseas customers.\n\n## Technology Exposure\n\n- Deposition and etch equipment\n- Cleaning and thermal tools\n- Advanced packaging equipment\n\n## What To Watch\n\n- Korean memory capex\n- Customer diversification\n- Competition from global toolmakers\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Wonik IPS",
+    "symbol": "240810.KQ",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "240810.KQ",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Local tool supply shortens service cycles and supports process co-development.",
+  "investmentLens": "A concentrated equipment supplier; watch customer diversification."
+}

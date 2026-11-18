@@ -29,7 +29,13 @@
   "estimate": "2027\u20132031",
   "estimateYear": 2028,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "guardant.us",
+    "revvity.us",
+    "bd.us",
+    "fresenius.de",
+    "mirion.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

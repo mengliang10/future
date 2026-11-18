@@ -16,10 +16,10 @@ Development: `npm run dev`. The website is static and can later be hosted on Git
 
 ## What is included
 
-- 913 technology records and 137 company records, preserved from the downloaded source.
+- 964 technology records and 455 company records, preserved from the downloaded source.
 - 15 normalised sectors, with original category labels retained in each record.
 - Search/filter/pagination explorers, roadmap views, linked companies and original research pages.
-- 85 evergreen HTML briefing manifests, generating 1,168 slides, plus one example fixed snapshot.
+- 96 evergreen HTML briefing manifests, generating 1,333 slides, plus one example fixed snapshot.
 - A common 16:9 Reveal.js slide renderer, responsive reading mode, browser Print/PDF and shared source hooks.
 - Original repository with Git history in `source/original`, original Markdown downloads under `public/source`, and machine-readable import manifest in `qa/import-manifest.json`.
 

@@ -1,0 +1,29 @@
+{
+  "id": "framatome.fr",
+  "title": "Framatome",
+  "summary": "French nuclear-equipment and services group owned by EDF.",
+  "sector": "industrials",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/framatome.fr.md",
+  "sourceHash": "8f3d4a362e0d78556c0fc0d9ecae5a12eecdfd0610fbb346a65ff1b81ce4bb3e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Framatome designs and maintains nuclear reactors, supplies fuel assemblies and components, and services the French and international reactor fleet. It is central to EDF's new-build and life-extension programmes. Ownership by EDF aligns it with French energy policy.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Reactor design and components</li>\n<li>Nuclear fuel assemblies</li>\n<li>Maintenance and life extension</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>EDF new-build programme</li>\n<li>Fuel contracts</li>\n<li>European reactor life extensions</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nFramatome designs and maintains nuclear reactors, supplies fuel assemblies and components, and services the French and international reactor fleet. It is central to EDF's new-build and life-extension programmes. Ownership by EDF aligns it with French energy policy.\n\n## Technology Exposure\n\n- Reactor design and components\n- Nuclear fuel assemblies\n- Maintenance and life extension\n\n## What To Watch\n\n- EDF new-build programme\n- Fuel contracts\n- European reactor life extensions\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Framatome",
+    "symbol": "FRAMATOME.FR",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "FRAMATOME.FR",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "A reactor fleet needs a qualified OEM for its lifetime; substituting one is impractical.",
+  "investmentLens": "Private; EDF is the listed proxy for the French nuclear programme."
+}

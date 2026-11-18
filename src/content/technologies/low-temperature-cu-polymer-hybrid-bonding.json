@@ -29,7 +29,9 @@
   "estimate": "2028\u20132032",
   "estimateYear": 2029,
   "sourceCount": 2,
-  "companies": [],
+  "companies": [
+    "besi.nl"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

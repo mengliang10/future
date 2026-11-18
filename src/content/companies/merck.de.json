@@ -1,0 +1,29 @@
+{
+  "id": "merck.de",
+  "title": "Merck KGaA",
+  "summary": "German science and technology group whose Electronics business is a top-tier chip-materials supplier.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/merck.de.md",
+  "sourceHash": "2a8b1bfcd8d4188e5a875567815ca9ba2830e8c1ef1ff5af37b3c958def83067",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Merck's Electronics division supplies deposition precursors, photoresists, specialty gases, CMP slurries and delivery systems, making it one of the broadest semiconductor-materials portfolios in the industry. It has invested heavily in US, German and Asian capacity to support leading-edge fabs. Healthcare and Life Science provide stability.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Deposition precursors and specialty gases</li>\n<li>Photoresists and patterning materials</li>\n<li>CMP slurries and delivery systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Electronics capacity additions</li>\n<li>Leading-edge node qualifications</li>\n<li>Healthcare and Life Science performance</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMerck's Electronics division supplies deposition precursors, photoresists, specialty gases, CMP slurries and delivery systems, making it one of the broadest semiconductor-materials portfolios in the industry. It has invested heavily in US, German and Asian capacity to support leading-edge fabs. Healthcare and Life Science provide stability.\n\n## Technology Exposure\n\n- Deposition precursors and specialty gases\n- Photoresists and patterning materials\n- CMP slurries and delivery systems\n\n## What To Watch\n\n- Electronics capacity additions\n- Leading-edge node qualifications\n- Healthcare and Life Science performance\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Merck KGaA",
+    "symbol": "MRK.DE",
+    "exchange": "Frankfurt",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "MRK.DE",
+  "exchange": "Frankfurt",
+  "private": false,
+  "businessMeaning": "A single materials partner across many process steps reduces qualification overhead for fabs.",
+  "investmentLens": "A diversified group where Electronics is the highest-growth segment; watch order trends."
+}

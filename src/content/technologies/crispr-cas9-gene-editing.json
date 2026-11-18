@@ -32,7 +32,12 @@
   "estimateYear": 2024,
   "sourceCount": 4,
   "companies": [
-    "crsp"
+    "crsp",
+    "vertex.us",
+    "intellia.us",
+    "precision-biosciences.us",
+    "mammoth-biosciences.us",
+    "caribou.us"
   ],
   "businessMeaning": "",
   "investmentLens": ""

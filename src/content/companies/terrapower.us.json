@@ -1,0 +1,29 @@
+{
+  "id": "terrapower.us",
+  "title": "TerraPower",
+  "summary": "US advanced-reactor company founded by Bill Gates, building a sodium fast reactor.",
+  "sector": "energy",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/terrapower.us.md",
+  "sourceHash": "184e751f2cd5464dfa2f2a13d23ccecd31bfc2aa22945c6593d0c04a010f3119",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>TerraPower is developing the Natrium sodium-cooled fast reactor with molten-salt energy storage, and has begun construction of a demonstration plant in Wyoming. It also works on fuel fabrication and medical isotopes. Regulatory approval and cost control are the main hurdles.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Sodium fast reactor</li>\n<li>Molten-salt storage</li>\n<li>Advanced fuel development</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Demonstration plant construction</li>\n<li>NRC licensing</li>\n<li>Cost and schedule</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTerraPower is developing the Natrium sodium-cooled fast reactor with molten-salt energy storage, and has begun construction of a demonstration plant in Wyoming. It also works on fuel fabrication and medical isotopes. Regulatory approval and cost control are the main hurdles.\n\n## Technology Exposure\n\n- Sodium fast reactor\n- Molten-salt storage\n- Advanced fuel development\n\n## What To Watch\n\n- Demonstration plant construction\n- NRC licensing\n- Cost and schedule\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "TerraPower",
+    "symbol": "TERRAPOWER.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "TERRAPOWER.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Storage plus a fast reactor lets a plant follow load, which matters for grids with renewables.",
+  "investmentLens": "Private; a leading advanced-reactor developer."
+}

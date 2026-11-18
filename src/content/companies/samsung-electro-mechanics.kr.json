@@ -1,0 +1,29 @@
+{
+  "id": "samsung-electro-mechanics.kr",
+  "title": "Samsung Electro-Mechanics",
+  "summary": "Korean components maker supplying FC-BGA substrates, MLCCs and camera modules.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/samsung-electro-mechanics.kr.md",
+  "sourceHash": "5a45269941b45eac7870ae98ff5fcb349786a162f8b23e465fb783d1d6cfb25e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Samsung Electro-Mechanics is one of the few companies able to produce large flip-chip ball-grid-array substrates for server CPUs and AI accelerators, alongside MLCCs and camera modules. It has been adding substrate capacity in Korea and Southeast Asia for AI-server demand, where layer counts and body sizes are rising faster than conventional PCB capacity can absorb. Substrate mix within the Components division is the swing factor for margins.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>FC-BGA substrates for servers and accelerators</li>\n<li>MLCCs for handsets, servers and vehicles</li>\n<li>Camera modules and mobile package substrates</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Large-body substrate yields and capacity ramps</li>\n<li>AI-server customer wins</li>\n<li>MLCC pricing cycle</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSamsung Electro-Mechanics is one of the few companies able to produce large flip-chip ball-grid-array substrates for server CPUs and AI accelerators, alongside MLCCs and camera modules. It has been adding substrate capacity in Korea and Southeast Asia for AI-server demand, where layer counts and body sizes are rising faster than conventional PCB capacity can absorb. Substrate mix within the Components division is the swing factor for margins.\n\n## Technology Exposure\n\n- FC-BGA substrates for servers and accelerators\n- MLCCs for handsets, servers and vehicles\n- Camera modules and mobile package substrates\n\n## What To Watch\n\n- Large-body substrate yields and capacity ramps\n- AI-server customer wins\n- MLCC pricing cycle\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Samsung Electro-Mechanics",
+    "symbol": "009150.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "009150.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Large-body substrates are scarce; securing capacity early is cheaper than redesigning a package later.",
+  "investmentLens": "A components group where the substrate business carries the AI narrative; track capex and utilisation by division."
+}

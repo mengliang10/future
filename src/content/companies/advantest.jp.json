@@ -1,0 +1,29 @@
+{
+  "id": "advantest.jp",
+  "title": "Advantest",
+  "summary": "Japanese leader in semiconductor automated test equipment.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/advantest.jp.md",
+  "sourceHash": "1fb6faf0332c0df5a020d2f0a83981da2051589be181ba2b427d3b23a37cc4bf",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Advantest builds automated test equipment for logic, memory and system-level test, including the high-pin-count testers used for AI accelerators and HBM. Test time and pin count rise with package complexity, so AI demand increases tester content per device. The company also supplies test handlers and measurement instruments.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Automated test equipment</li>\n<li>Memory and HBM test</li>\n<li>System-level test and handlers</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>AI accelerator test demand</li>\n<li>Memory test capacity</li>\n<li>Cyclical order swings</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAdvantest builds automated test equipment for logic, memory and system-level test, including the high-pin-count testers used for AI accelerators and HBM. Test time and pin count rise with package complexity, so AI demand increases tester content per device. The company also supplies test handlers and measurement instruments.\n\n## Technology Exposure\n\n- Automated test equipment\n- Memory and HBM test\n- System-level test and handlers\n\n## What To Watch\n\n- AI accelerator test demand\n- Memory test capacity\n- Cyclical order swings\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Advantest",
+    "symbol": "6857.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6857.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Every die is tested; more complex packages need longer test time and more pins.",
+  "investmentLens": "A high-quality test leader with AI leverage; watch order momentum."
+}

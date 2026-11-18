@@ -32,7 +32,11 @@
   "estimateYear": 2026,
   "sourceCount": 7,
   "companies": [
-    "crsp"
+    "crsp",
+    "intellia.us",
+    "precision-biosciences.us",
+    "prime-medicine.us",
+    "mammoth-biosciences.us"
   ],
   "businessMeaning": "",
   "investmentLens": ""

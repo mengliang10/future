@@ -1,0 +1,29 @@
+{
+  "id": "moog.us",
+  "title": "Moog",
+  "summary": "US maker of precision motion-control and actuation systems for aerospace and defence.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/moog.us.md",
+  "sourceHash": "9799c7a7360bcf872caa632d54884085f6994ffb5647ce9b1d1c497749bf2090",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Moog produces actuators, servo valves and motion-control systems for aircraft, satellites, launch vehicles and industrial machinery. Its components steer thrust vector control and deploy structures, making it a quiet supplier to launch programmes. Defence and space demand has been growing faster than commercial aircraft.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Thrust-vector and flight-control actuation</li>\n<li>Satellite mechanisms and components</li>\n<li>Industrial motion control</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Launch and satellite demand</li>\n<li>Defence budgets</li>\n<li>Commercial aircraft production</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMoog produces actuators, servo valves and motion-control systems for aircraft, satellites, launch vehicles and industrial machinery. Its components steer thrust vector control and deploy structures, making it a quiet supplier to launch programmes. Defence and space demand has been growing faster than commercial aircraft.\n\n## Technology Exposure\n\n- Thrust-vector and flight-control actuation\n- Satellite mechanisms and components\n- Industrial motion control\n\n## What To Watch\n\n- Launch and satellite demand\n- Defence budgets\n- Commercial aircraft production\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Moog",
+    "symbol": "MOG.A",
+    "exchange": "NYSE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "MOG.A",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Actuation is flight-critical; qualification is long and replacement is rare.",
+  "investmentLens": "A precision-engineering supplier with space leverage; watch order book."
+}

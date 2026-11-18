@@ -1,0 +1,29 @@
+{
+  "id": "mp-materials.us",
+  "title": "MP Materials",
+  "summary": "US rare-earth miner and magnet producer at Mountain Pass.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/mp-materials.us.md",
+  "sourceHash": "318870e72c2f98ac62656a91fbecb230e9e84006192352e8c1ec7c3aedb649bf",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>MP Materials mines and processes rare earths at Mountain Pass, California, and is building magnet manufacturing in the US with automotive and defence customers. It is the most visible attempt to rebuild a domestic rare-earth-to-magnet chain. Ramp-up, pricing and policy support determine the outcome.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Rare-earth concentrate and oxides</li>\n<li>Neodymium-iron-boron magnets</li>\n<li>US magnet manufacturing</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Magnet plant ramp</li>\n<li>Rare-earth pricing</li>\n<li>Government offtake and funding</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMP Materials mines and processes rare earths at Mountain Pass, California, and is building magnet manufacturing in the US with automotive and defence customers. It is the most visible attempt to rebuild a domestic rare-earth-to-magnet chain. Ramp-up, pricing and policy support determine the outcome.\n\n## Technology Exposure\n\n- Rare-earth concentrate and oxides\n- Neodymium-iron-boron magnets\n- US magnet manufacturing\n\n## What To Watch\n\n- Magnet plant ramp\n- Rare-earth pricing\n- Government offtake and funding\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "MP Materials",
+    "symbol": "MP",
+    "exchange": "NYSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "MP",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "A domestic magnet supply is a defence requirement; commercial competitiveness depends on scale.",
+  "investmentLens": "A strategic build-out with execution risk; watch magnet production milestones."
+}

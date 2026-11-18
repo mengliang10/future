@@ -29,7 +29,14 @@
   "estimate": "2023\u20132027",
   "estimateYear": 2025,
   "sourceCount": 7,
-  "companies": [],
+  "companies": [
+    "linde.us",
+    "air-products.us",
+    "outokumpu.fi",
+    "ihi.jp",
+    "lhx.us",
+    "chart-industries.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

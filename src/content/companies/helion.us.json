@@ -1,0 +1,29 @@
+{
+  "id": "helion.us",
+  "title": "Helion Energy",
+  "summary": "US fusion company building a pulsed field-reversed-configuration reactor.",
+  "sector": "energy",
+  "sourceCategory": "Fusion",
+  "sourcePath": "_stocks/helion.us.md",
+  "sourceHash": "ad560dc97a8bb3ae8ee55876ffe631088902c5cec08dd05093542b93dc148d59",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Helion Energy is developing a compact fusion reactor using field-reversed configuration and direct energy recovery, with a power-purchase agreement with Microsoft for a future plant. Its approach targets electricity directly rather than steam turbines. Technical milestones and funding determine credibility.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Fusion reactor development</li>\n<li>Direct energy recovery</li>\n<li>Power-purchase agreements</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Net-electricity demonstration</li>\n<li>Plant construction</li>\n<li>Funding</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nHelion Energy is developing a compact fusion reactor using field-reversed configuration and direct energy recovery, with a power-purchase agreement with Microsoft for a future plant. Its approach targets electricity directly rather than steam turbines. Technical milestones and funding determine credibility.\n\n## Technology Exposure\n\n- Fusion reactor development\n- Direct energy recovery\n- Power-purchase agreements\n\n## What To Watch\n\n- Net-electricity demonstration\n- Plant construction\n- Funding\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Helion Energy",
+    "symbol": "HELION.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Fusion"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "HELION.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "A fusion company is a science project with a construction schedule attached.",
+  "investmentLens": "Private; a high-risk fusion venture with a commercial offtake."
+}

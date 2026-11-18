@@ -29,7 +29,11 @@
   "estimate": "2028\u20132035",
   "estimateYear": 2031,
   "sourceCount": 17,
-  "companies": [],
+  "companies": [
+    "blue-origin.us",
+    "lmt.us",
+    "ba.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

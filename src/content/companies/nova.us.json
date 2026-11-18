@@ -1,0 +1,29 @@
+{
+  "id": "nova.us",
+  "title": "Nova",
+  "summary": "Israeli supplier of optical and materials metrology for chip manufacturing.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/nova.us.md",
+  "sourceHash": "05d557ebe63b1502e87c9e70b947fa53fcf970b66d147ffe49fd586154ab56e4",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Nova provides optical critical-dimension metrology and materials analysis used to control lithography, deposition and etch processes. Its tools measure structures at the nanometre scale, where small drifts cost yield. The company has been expanding into packaging and memory applications.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Optical CD metrology</li>\n<li>Materials and film metrology</li>\n<li>Advanced packaging metrology</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Leading-edge node capex</li>\n<li>Metrology intensity per node</li>\n<li>Competition and pricing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNova provides optical critical-dimension metrology and materials analysis used to control lithography, deposition and etch processes. Its tools measure structures at the nanometre scale, where small drifts cost yield. The company has been expanding into packaging and memory applications.\n\n## Technology Exposure\n\n- Optical CD metrology\n- Materials and film metrology\n- Advanced packaging metrology\n\n## What To Watch\n\n- Leading-edge node capex\n- Metrology intensity per node\n- Competition and pricing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Nova",
+    "symbol": "NVMI",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "NVMI",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Metrology intensity rises with complexity; every new material needs a measurement recipe.",
+  "investmentLens": "A quality metrology grower; watch leading-edge and packaging demand."
+}

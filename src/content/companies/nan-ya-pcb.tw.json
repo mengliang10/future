@@ -1,0 +1,29 @@
+{
+  "id": "nan-ya-pcb.tw",
+  "title": "Nan Ya PCB",
+  "summary": "Taiwanese PCB and IC-substrate maker within the Nan Ya plastics group.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/nan-ya-pcb.tw.md",
+  "sourceHash": "0b54cb882f9f4730f2e6ecdfb39a694517e1ae6cc4d418dfcbf92149f10afa3d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Nan Ya PCB produces printed circuit boards and IC substrates, with a focus on flip-chip and ball-grid-array packages for processors and networking. It is part of the Formosa Plastics group, which gives it materials integration and balance-sheet depth. Its capacity is a meaningful part of the Taiwanese substrate supply that AI customers rely on.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>IC substrates for processors and networking</li>\n<li>Multilayer and high-density PCBs</li>\n<li>Group materials integration</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>AI substrate capacity conversion</li>\n<li>PCB pricing cycle</li>\n<li>Group capital allocation</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNan Ya PCB produces printed circuit boards and IC substrates, with a focus on flip-chip and ball-grid-array packages for processors and networking. It is part of the Formosa Plastics group, which gives it materials integration and balance-sheet depth. Its capacity is a meaningful part of the Taiwanese substrate supply that AI customers rely on.\n\n## Technology Exposure\n\n- IC substrates for processors and networking\n- Multilayer and high-density PCBs\n- Group materials integration\n\n## What To Watch\n\n- AI substrate capacity conversion\n- PCB pricing cycle\n- Group capital allocation\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Nan Ya PCB",
+    "symbol": "8046.TW",
+    "exchange": "TWSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "8046.TW",
+  "exchange": "TWSE",
+  "private": false,
+  "businessMeaning": "Group backing lets Nan Ya add substrate capacity through a downturn, which matters when customers want supply assurance.",
+  "investmentLens": "A cyclical substrate and PCB producer; track utilisation and the substrate share of revenue."
+}

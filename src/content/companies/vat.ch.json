@@ -1,0 +1,29 @@
+{
+  "id": "vat.ch",
+  "title": "VAT Group",
+  "summary": "Swiss maker of ultra-high-vacuum valves, a critical component in chip tools.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/vat.ch.md",
+  "sourceHash": "6e2bf8b069bbc778eee73c91903281729a05e6d1340a982a98bcfcfebe284154",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>VAT Group produces vacuum valves and seals used in deposition, etch, lithography and inspection equipment. Its valves control gas flow and isolation in ultra-high-vacuum chambers, and the company holds a leading share of the market. Every new tool needs several valves, making it a leveraged play on equipment builds.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Ultra-high-vacuum valves</li>\n<li>Vacuum components and seals</li>\n<li>Service and spares</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Semiconductor equipment build rates</li>\n<li>EUV and advanced-node capex</li>\n<li>Market-share defence</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nVAT Group produces vacuum valves and seals used in deposition, etch, lithography and inspection equipment. Its valves control gas flow and isolation in ultra-high-vacuum chambers, and the company holds a leading share of the market. Every new tool needs several valves, making it a leveraged play on equipment builds.\n\n## Technology Exposure\n\n- Ultra-high-vacuum valves\n- Vacuum components and seals\n- Service and spares\n\n## What To Watch\n\n- Semiconductor equipment build rates\n- EUV and advanced-node capex\n- Market-share defence\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "VAT Group",
+    "symbol": "VACN.SW",
+    "exchange": "SIX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "VACN.SW",
+  "exchange": "SIX",
+  "private": false,
+  "businessMeaning": "A valve failure stops a multi-million-dollar tool; reliability is worth a premium.",
+  "investmentLens": "A high-quality component monopoly; watch equipment order trends."
+}

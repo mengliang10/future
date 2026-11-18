@@ -29,7 +29,9 @@
   "estimate": "2025\u20132030",
   "estimateYear": 2027,
   "sourceCount": 16,
-  "companies": [],
+  "companies": [
+    "prime-medicine.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

@@ -32,7 +32,13 @@
   "estimateYear": 2025,
   "sourceCount": 8,
   "companies": [
-    "asts"
+    "asts",
+    "spacex.us",
+    "irdm.us",
+    "pl.us",
+    "ohb.de",
+    "lmt.us",
+    "materion.us"
   ],
   "businessMeaning": "",
   "investmentLens": ""

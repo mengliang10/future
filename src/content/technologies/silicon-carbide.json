@@ -29,7 +29,21 @@
   "estimate": "2038\u20132046",
   "estimateYear": 2040,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "kyocera.jp",
+    "tokuyama.jp",
+    "jx-metals.jp",
+    "mitsubishi-materials.jp",
+    "ulvac.jp",
+    "murata.jp",
+    "lynas.au",
+    "mp-materials.us",
+    "neo-performance.ca",
+    "iluka.au",
+    "heraeus.de",
+    "aixtron.de",
+    "pva-tepla.de"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

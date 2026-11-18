@@ -1,0 +1,29 @@
+{
+  "id": "lintec.jp",
+  "title": "Lintec",
+  "summary": "Japanese adhesive-products maker supplying semiconductor and display process films.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/lintec.jp.md",
+  "sourceHash": "348fdd7a4ba9619505ceee833f156c694dae4012f62f14f8db0186a4bd8ae965",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Lintec produces adhesive films, release papers and semiconductor-processing tapes, including dicing and die-attach films. Its materials are used in wafer thinning, dicing and package assembly, and it has been developing films for panel-level packaging. The business is tied to semiconductor and display production volumes.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Dicing and die-attach films</li>\n<li>Release films and adhesives</li>\n<li>Panel-level packaging materials</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Advanced-packaging material demand</li>\n<li>Display production</li>\n<li>Raw-material costs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLintec produces adhesive films, release papers and semiconductor-processing tapes, including dicing and die-attach films. Its materials are used in wafer thinning, dicing and package assembly, and it has been developing films for panel-level packaging. The business is tied to semiconductor and display production volumes.\n\n## Technology Exposure\n\n- Dicing and die-attach films\n- Release films and adhesives\n- Panel-level packaging materials\n\n## What To Watch\n\n- Advanced-packaging material demand\n- Display production\n- Raw-material costs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Lintec",
+    "symbol": "7966.T",
+    "exchange": "TSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "7966.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Die-attach and dicing films are qualified per package; replacement requires requalification.",
+  "investmentLens": "A niche materials supplier with packaging leverage; watch new film qualifications."
+}

@@ -32,7 +32,19 @@
   "estimateYear": 2025,
   "sourceCount": 34,
   "companies": [
-    "rxrx"
+    "rxrx",
+    "lly.us",
+    "novo-nordisk.dk",
+    "regeneron.us",
+    "biogen.us",
+    "tempus-ai.us",
+    "thermo-fisher.us",
+    "agilent.us",
+    "waters.us",
+    "bruker.us",
+    "revvity.us",
+    "wuxi-apptec.hk",
+    "charles-river.us"
   ],
   "businessMeaning": "",
   "investmentLens": ""

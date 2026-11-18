@@ -1,0 +1,29 @@
+{
+  "id": "irdm.us",
+  "title": "Iridium Communications",
+  "summary": "Operator of a low-earth-orbit satellite constellation for voice and data.",
+  "sector": "communication-services",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/irdm.us.md",
+  "sourceHash": "229039b252cda67db8e17e7ec02b1cef31f60a62d0a0d549188a5f1fda7f95e4",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Iridium operates a cross-linked LEO constellation providing voice, data and IoT connectivity, including safety services and government communications. Its network is fully deployed, so capital intensity is lower than for constellation builders. Subscriber growth in IoT and aviation is the main value driver.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Satellite voice and data services</li>\n<li>IoT connectivity</li>\n<li>Government and aviation communications</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>IoT subscriber growth</li>\n<li>Government contract renewals</li>\n<li>Competition from direct-to-cell services</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nIridium operates a cross-linked LEO constellation providing voice, data and IoT connectivity, including safety services and government communications. Its network is fully deployed, so capital intensity is lower than for constellation builders. Subscriber growth in IoT and aviation is the main value driver.\n\n## Technology Exposure\n\n- Satellite voice and data services\n- IoT connectivity\n- Government and aviation communications\n\n## What To Watch\n\n- IoT subscriber growth\n- Government contract renewals\n- Competition from direct-to-cell services\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Iridium Communications",
+    "symbol": "IRDM",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "IRDM",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "A deployed constellation is an annuity; the risk is technology substitution, not launch.",
+  "investmentLens": "A cash-generative satellite operator; watch IoT net adds."
+}

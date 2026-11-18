@@ -1,0 +1,29 @@
+{
+  "id": "hns-hitech.kr",
+  "title": "HNS HiTech",
+  "summary": "Korean precursor specialist supplying high-purity organometallics to memory fabs.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/hns-hitech.kr.md",
+  "sourceHash": "dc79086812f885669d5af733a805c5fe6ca953c87cd766939a6b0e4a0c877879",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>HNS HiTech produces organometallic precursors used in chemical vapour deposition and atomic layer deposition of electrodes and dielectrics, a segment where purity and batch consistency decide yield. Its customer base is concentrated in Korean memory manufacturing, so node transitions that add deposition steps raise its content per wafer. The company has also been expanding capacity for next-generation precursors.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Precursors for DRAM capacitor and electrode deposition</li>\n<li>ALD and CVD chemistries</li>\n<li>Specialty industrial chemicals</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Adoption of new high-k and electrode stacks</li>\n<li>Customer concentration</li>\n<li>Precursor plant utilisation</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nHNS HiTech produces organometallic precursors used in chemical vapour deposition and atomic layer deposition of electrodes and dielectrics, a segment where purity and batch consistency decide yield. Its customer base is concentrated in Korean memory manufacturing, so node transitions that add deposition steps raise its content per wafer. The company has also been expanding capacity for next-generation precursors.\n\n## Technology Exposure\n\n- Precursors for DRAM capacitor and electrode deposition\n- ALD and CVD chemistries\n- Specialty industrial chemicals\n\n## What To Watch\n\n- Adoption of new high-k and electrode stacks\n- Customer concentration\n- Precursor plant utilisation\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "HNS HiTech",
+    "symbol": "036640.KQ",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "036640.KQ",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Every added deposition step is a recurring materials annuity; precursor suppliers earn most when a new stack is qualified.",
+  "investmentLens": "Small-cap with customer concentration; the thesis rests on content growth per wafer rather than wafer-volume growth."
+}

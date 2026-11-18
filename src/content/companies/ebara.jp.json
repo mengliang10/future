@@ -1,0 +1,29 @@
+{
+  "id": "ebara.jp",
+  "title": "Ebara",
+  "summary": "Japanese maker of CMP and cleaning equipment and vacuum pumps.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/ebara.jp.md",
+  "sourceHash": "b0eee16278b8aa33dbd2fa98dc5d7f6650e48c0e950a983ebf02324ddadc335c",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Ebara supplies chemical-mechanical polishing tools, wafer-cleaning systems and vacuum pumps, with CMP becoming more important as nodes add layers and packaging adds planarisation steps. Its pumps are also used in deposition and etch tools. The company's diversified industrial pumps business smooths cycles.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>CMP tools</li>\n<li>Wafer cleaning systems</li>\n<li>Vacuum pumps and industrial machinery</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>CMP step growth per node</li>\n<li>Advanced packaging planarisation</li>\n<li>Competition from larger toolmakers</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nEbara supplies chemical-mechanical polishing tools, wafer-cleaning systems and vacuum pumps, with CMP becoming more important as nodes add layers and packaging adds planarisation steps. Its pumps are also used in deposition and etch tools. The company's diversified industrial pumps business smooths cycles.\n\n## Technology Exposure\n\n- CMP tools\n- Wafer cleaning systems\n- Vacuum pumps and industrial machinery\n\n## What To Watch\n\n- CMP step growth per node\n- Advanced packaging planarisation\n- Competition from larger toolmakers\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Ebara",
+    "symbol": "6361.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6361.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Every additional metal layer needs planarisation; CMP intensity rises with complexity.",
+  "investmentLens": "A steady equipment maker with CMP leverage; watch order intake."
+}

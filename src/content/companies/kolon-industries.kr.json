@@ -1,0 +1,29 @@
+{
+  "id": "kolon-industries.kr",
+  "title": "Kolon Industries",
+  "summary": "Korean chemical and film group supplying aramid, films and electronic materials.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/kolon-industries.kr.md",
+  "sourceHash": "a73388c3b46c06df3920d56e24a76e628d733f47c4208bfe37c97aeb4e6964d2",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Kolon Industries produces aramid fibre, specialty films, resins and electronic materials, with applications in aerospace, batteries and displays. Its aramid business is one of the few non-US sources of high-strength fibre for ballistic and composite use. The group also has fashion and chemical businesses.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Aramid fibre and composites</li>\n<li>Specialty films for displays and batteries</li>\n<li>Resins and industrial materials</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Aramid capacity and aerospace demand</li>\n<li>Film pricing</li>\n<li>Group debt and restructuring</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nKolon Industries produces aramid fibre, specialty films, resins and electronic materials, with applications in aerospace, batteries and displays. Its aramid business is one of the few non-US sources of high-strength fibre for ballistic and composite use. The group also has fashion and chemical businesses.\n\n## Technology Exposure\n\n- Aramid fibre and composites\n- Specialty films for displays and batteries\n- Resins and industrial materials\n\n## What To Watch\n\n- Aramid capacity and aerospace demand\n- Film pricing\n- Group debt and restructuring\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Kolon Industries",
+    "symbol": "120110.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "120110.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Aramid supply is concentrated; qualification for aerospace and defence is slow and sticky.",
+  "investmentLens": "A diversified materials group with a defence-aerospace niche; watch aramid growth."
+}

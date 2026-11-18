@@ -1,0 +1,29 @@
+{
+  "id": "l-and-f.kr",
+  "title": "L&F",
+  "summary": "Korean cathode-material producer supplying battery makers.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/l-and-f.kr.md",
+  "sourceHash": "0dc46cd98ba69fc998c0db1ee61a213497087d9bac8dd28890685751ca8cb5ff",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>L&amp;F makes cathode active materials for lithium-ion batteries, with a focus on high-nickel products and a customer base among Korean cell makers. It has been expanding capacity and developing precursors and recycling to improve cost control. The business is exposed to EV demand and metal prices.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Cathode active materials</li>\n<li>Precursor development</li>\n<li>Battery recycling</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>EV demand</li>\n<li>Cathode pricing and metal costs</li>\n<li>Capacity utilisation</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nL&F makes cathode active materials for lithium-ion batteries, with a focus on high-nickel products and a customer base among Korean cell makers. It has been expanding capacity and developing precursors and recycling to improve cost control. The business is exposed to EV demand and metal prices.\n\n## Technology Exposure\n\n- Cathode active materials\n- Precursor development\n- Battery recycling\n\n## What To Watch\n\n- EV demand\n- Cathode pricing and metal costs\n- Capacity utilisation\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "L&F",
+    "symbol": "066970.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "066970.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Cathode supply contracts are multi-year but reprice with metals, so volume is the profit driver.",
+  "investmentLens": "A cyclical battery-materials supplier; watch utilisation and customer mix."
+}

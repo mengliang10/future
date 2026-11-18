@@ -29,7 +29,25 @@
   "estimate": "2023\u20132027",
   "estimateYear": 2025,
   "sourceCount": 4,
-  "companies": [],
+  "companies": [
+    "agc.jp",
+    "chipbond.tw",
+    "dic.jp",
+    "corning.us",
+    "dnp.jp",
+    "ulvac.jp",
+    "soulbrain.kr",
+    "enf-tech.kr",
+    "kolon-industries.kr",
+    "mitsubishi-chem.jp",
+    "sumitomo-chem.jp",
+    "zeon.jp",
+    "kuraray.jp",
+    "mitsui-chem.jp",
+    "nitto-denko.jp",
+    "nippon-electric-glass.jp",
+    "avanstrate.tw"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

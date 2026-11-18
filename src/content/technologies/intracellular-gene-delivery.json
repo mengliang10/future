@@ -29,7 +29,11 @@
   "estimate": "2026\u20132030",
   "estimateYear": 2027,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "vertex.us",
+    "alnylam.us",
+    "arrowhead.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

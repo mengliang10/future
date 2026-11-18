@@ -1,0 +1,29 @@
+{
+  "id": "simmtech.kr",
+  "title": "Simmtech",
+  "summary": "Korean package-substrate maker tightly linked to memory module and HBM demand.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/simmtech.kr.md",
+  "sourceHash": "6d84d1d5ed0c396202da9c956e64be791ac113cb070ff841ba3b1ca933c85868",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Simmtech supplies package substrates for memory devices, including the small high-layer boards that sit under DRAM and NAND packages. It has been developing substrates for high-bandwidth memory and for AI-server modules, where signal integrity and layer count rise sharply. Its fortunes track Korean memory capex more closely than the wider semiconductor cycle.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Memory package substrates</li>\n<li>Module and system boards</li>\n<li>Substrates for HBM and advanced memory packages</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>HBM substrate qualification</li>\n<li>Korean memory capex</li>\n<li>Pricing pressure from substrate competitors</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSimmtech supplies package substrates for memory devices, including the small high-layer boards that sit under DRAM and NAND packages. It has been developing substrates for high-bandwidth memory and for AI-server modules, where signal integrity and layer count rise sharply. Its fortunes track Korean memory capex more closely than the wider semiconductor cycle.\n\n## Technology Exposure\n\n- Memory package substrates\n- Module and system boards\n- Substrates for HBM and advanced memory packages\n\n## What To Watch\n\n- HBM substrate qualification\n- Korean memory capex\n- Pricing pressure from substrate competitors\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Simmtech",
+    "symbol": "222800.KQ",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "222800.KQ",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "HBM stacks need more substrate area and better thermal behaviour, which raises content per bit.",
+  "investmentLens": "A concentrated memory-supply-chain play; watch HBM substrate share rather than total revenue."
+}

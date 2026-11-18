@@ -1,0 +1,29 @@
+{
+  "id": "nikon.jp",
+  "title": "Nikon",
+  "summary": "Japanese optics group supplying lithography scanners and precision optical systems.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/nikon.jp.md",
+  "sourceHash": "9901622c23870d1beeb0da3da50ad2dd31b624c7ddeb2299a52f685b9c7658f4",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Nikon builds lithography scanners, inspection systems and precision optics, and also makes cameras and medical equipment. It competes with ASML and Canon in lithography, with strength in older-node and specialty tools, and supplies optical components for advanced manufacturing. The company has been restructuring its camera and industrial businesses.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Lithography scanners</li>\n<li>Precision optics and encoders</li>\n<li>Cameras and medical systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Lithography order recovery</li>\n<li>Advanced packaging lithography demand</li>\n<li>Restructuring progress</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNikon builds lithography scanners, inspection systems and precision optics, and also makes cameras and medical equipment. It competes with ASML and Canon in lithography, with strength in older-node and specialty tools, and supplies optical components for advanced manufacturing. The company has been restructuring its camera and industrial businesses.\n\n## Technology Exposure\n\n- Lithography scanners\n- Precision optics and encoders\n- Cameras and medical systems\n\n## What To Watch\n\n- Lithography order recovery\n- Advanced packaging lithography demand\n- Restructuring progress\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Nikon",
+    "symbol": "7731.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "7731.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Not every chip needs EUV; mature-node and packaging lithography remain large markets.",
+  "investmentLens": "An optics franchise in transition; watch lithography orders."
+}

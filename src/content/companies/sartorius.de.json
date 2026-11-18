@@ -1,0 +1,29 @@
+{
+  "id": "sartorius.de",
+  "title": "Sartorius",
+  "summary": "German supplier of bioprocessing equipment and laboratory instruments.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/sartorius.de.md",
+  "sourceHash": "45997af033dcf135e0ce4ca569c70888e9159f1218cd387ff28df36304772563",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Sartorius sells bioreactors, filters, bags and laboratory balances used to develop and manufacture biologics. Its bioprocessing consumables scale with biologic output, and its lab business follows pharma research spending. The company invested heavily during the pandemic boom and has since faced a demand normalisation.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Bioprocessing consumables</li>\n<li>Bioreactors and filtration systems</li>\n<li>Laboratory instruments</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Biologic production volumes</li>\n<li>Inventory normalisation at customers</li>\n<li>China demand</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSartorius sells bioreactors, filters, bags and laboratory balances used to develop and manufacture biologics. Its bioprocessing consumables scale with biologic output, and its lab business follows pharma research spending. The company invested heavily during the pandemic boom and has since faced a demand normalisation.\n\n## Technology Exposure\n\n- Bioprocessing consumables\n- Bioreactors and filtration systems\n- Laboratory instruments\n\n## What To Watch\n\n- Biologic production volumes\n- Inventory normalisation at customers\n- China demand\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Sartorius",
+    "symbol": "SRT3.DE",
+    "exchange": "Frankfurt",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SRT3.DE",
+  "exchange": "Frankfurt",
+  "private": false,
+  "businessMeaning": "Single-use bioprocessing consumables are the recurring revenue of biologics manufacturing.",
+  "investmentLens": "A quality bioprocessing supplier working through a destocking cycle; watch orders."
+}

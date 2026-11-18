@@ -1,0 +1,29 @@
+{
+  "id": "tianqi.hk",
+  "title": "Tianqi Lithium",
+  "summary": "Chinese lithium producer with major Australian hard-rock and Chilean brine interests.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/tianqi.hk.md",
+  "sourceHash": "74c830aeb0af3d295bd40615641f639f153704aca194ca791799f541f4e40bc5",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Tianqi Lithium owns interests in the Greenbushes hard-rock mine and Kwinana refinery in Australia and in Chilean brine operations, and sells battery-grade lithium products. Its economics are highly sensitive to lithium prices and to the ramp of its refining assets. The balance sheet has been stretched by acquisition debt.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Lithium concentrate and battery-grade chemicals</li>\n<li>Australian and Chilean resource interests</li>\n<li>Lithium refining</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Lithium pricing</li>\n<li>Refinery ramp and costs</li>\n<li>Debt reduction</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTianqi Lithium owns interests in the Greenbushes hard-rock mine and Kwinana refinery in Australia and in Chilean brine operations, and sells battery-grade lithium products. Its economics are highly sensitive to lithium prices and to the ramp of its refining assets. The balance sheet has been stretched by acquisition debt.\n\n## Technology Exposure\n\n- Lithium concentrate and battery-grade chemicals\n- Australian and Chilean resource interests\n- Lithium refining\n\n## What To Watch\n\n- Lithium pricing\n- Refinery ramp and costs\n- Debt reduction\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Tianqi Lithium",
+    "symbol": "9696.HK",
+    "exchange": "Hong Kong",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "9696.HK",
+  "exchange": "Hong Kong",
+  "private": false,
+  "businessMeaning": "Resource quality matters most in a downcycle; low-cost hard rock survives where marginal brine does not.",
+  "investmentLens": "A leveraged commodity play; watch prices and refinery utilisation."
+}

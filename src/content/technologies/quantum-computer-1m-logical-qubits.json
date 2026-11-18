@@ -29,7 +29,9 @@
   "estimate": "2038\u20132060",
   "estimateYear": 2045,
   "sourceCount": 43,
-  "companies": [],
+  "companies": [
+    "psiquantum.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

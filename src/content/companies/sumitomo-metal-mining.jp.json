@@ -1,0 +1,29 @@
+{
+  "id": "sumitomo-metal-mining.jp",
+  "title": "Sumitomo Metal Mining",
+  "summary": "Japanese miner and smelter supplying battery cathode materials and copper.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/sumitomo-metal-mining.jp.md",
+  "sourceHash": "1c5d0baaa8cc64edca996a4848195003d0ef20af6d56d4af9a98bc86fcbc9bf7",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Sumitomo Metal Mining produces nickel, copper, gold and battery cathode materials, with integrated mining and refining. Its nickel and cathode businesses supply Japanese and overseas battery chains, while copper and gold provide commodity exposure. The company is expanding cathode capacity outside Japan.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Cathode active materials</li>\n<li>Nickel and copper mining and refining</li>\n<li>Gold and precious metals</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Cathode capacity and qualification</li>\n<li>Nickel and copper prices</li>\n<li>Mine operating performance</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSumitomo Metal Mining produces nickel, copper, gold and battery cathode materials, with integrated mining and refining. Its nickel and cathode businesses supply Japanese and overseas battery chains, while copper and gold provide commodity exposure. The company is expanding cathode capacity outside Japan.\n\n## Technology Exposure\n\n- Cathode active materials\n- Nickel and copper mining and refining\n- Gold and precious metals\n\n## What To Watch\n\n- Cathode capacity and qualification\n- Nickel and copper prices\n- Mine operating performance\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Sumitomo Metal Mining",
+    "symbol": "5713.T",
+    "exchange": "TSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "5713.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Integrated nickel-to-cathode production is rare and gives cost and traceability advantages.",
+  "investmentLens": "A resource producer with a battery-materials growth arm; watch cathode volumes."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "oklo.us",
+  "title": "Oklo",
+  "summary": "US developer of small fast reactors for data-centre and industrial power.",
+  "sector": "energy",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/oklo.us.md",
+  "sourceHash": "9c14c37a674fc449b03c2222b178b552d1ad87bf9b7f7207f26767b8c04537f6",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Oklo is developing sodium-cooled fast reactors and a fuel-recycling business, targeting off-grid power for data centres and industrial customers. It has received site permits and design work but not yet a commercial operating licence. Regulatory progress and customer agreements drive the story.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Small fast reactors</li>\n<li>Fuel recycling</li>\n<li>Data-centre power agreements</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>NRC licensing progress</li>\n<li>First customer deployments</li>\n<li>Fuel supply</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nOklo is developing sodium-cooled fast reactors and a fuel-recycling business, targeting off-grid power for data centres and industrial customers. It has received site permits and design work but not yet a commercial operating licence. Regulatory progress and customer agreements drive the story.\n\n## Technology Exposure\n\n- Small fast reactors\n- Fuel recycling\n- Data-centre power agreements\n\n## What To Watch\n\n- NRC licensing progress\n- First customer deployments\n- Fuel supply\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Oklo",
+    "symbol": "OKLO",
+    "exchange": "NYSE",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "OKLO",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Data-centre demand for firm clean power has revived interest in small reactors.",
+  "investmentLens": "A pre-revenue nuclear developer with high execution risk; watch licensing."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "curtiss-wright.us",
+  "title": "Curtiss-Wright",
+  "summary": "US maker of nuclear-reactor components, valves and defence electronics.",
+  "sector": "industrials",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/curtiss-wright.us.md",
+  "sourceHash": "8f3d8819fbf98ad5bb08bd9b42a0a9ce2718a27fb8ea9601f0a2e647fd66cfc7",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Curtiss-Wright supplies reactor coolant pumps, valves, actuators and instrumentation to commercial and naval nuclear programmes, along with defence electronics and industrial equipment. Its nuclear business benefits from life-extension work at existing plants and from new reactor designs. Defence and energy budgets both matter.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Reactor coolant pumps and valves</li>\n<li>Nuclear instrumentation and controls</li>\n<li>Defence electronics and sensors</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Plant life extensions</li>\n<li>New reactor orders</li>\n<li>Defence budgets</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nCurtiss-Wright supplies reactor coolant pumps, valves, actuators and instrumentation to commercial and naval nuclear programmes, along with defence electronics and industrial equipment. Its nuclear business benefits from life-extension work at existing plants and from new reactor designs. Defence and energy budgets both matter.\n\n## Technology Exposure\n\n- Reactor coolant pumps and valves\n- Nuclear instrumentation and controls\n- Defence electronics and sensors\n\n## What To Watch\n\n- Plant life extensions\n- New reactor orders\n- Defence budgets\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Curtiss-Wright",
+    "symbol": "CW",
+    "exchange": "NYSE",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "CW",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Existing reactors need replacement parts for decades; the installed base is an annuity.",
+  "investmentLens": "A nuclear supplier with defence support; watch nuclear orders."
+}

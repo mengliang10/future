@@ -1,0 +1,29 @@
+{
+  "id": "novartis.ch",
+  "title": "Novartis",
+  "summary": "Swiss pharmaceutical group focused on innovative medicines after spinning off Sandoz.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/novartis.ch.md",
+  "sourceHash": "c73b8881462b831595ea7bd4ad9254187b57c6608d1fd433b35cd517a7313fe4",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Novartis sells oncology, cardiovascular, immunology, neuroscience and ophthalmology medicines, and has narrowed its portfolio to innovative drugs since the Sandoz spin-off. It is investing in radioligand therapy, gene therapy and targeted protein degradation through acquisitions and partnerships. Growth depends on launching new medicines as older ones lose exclusivity.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Oncology and radioligand therapy</li>\n<li>Immunology and neuroscience</li>\n<li>Gene therapy and targeted protein degradation</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Launch execution for new medicines</li>\n<li>Patent expiries</li>\n<li>Acquisition integration</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNovartis sells oncology, cardiovascular, immunology, neuroscience and ophthalmology medicines, and has narrowed its portfolio to innovative drugs since the Sandoz spin-off. It is investing in radioligand therapy, gene therapy and targeted protein degradation through acquisitions and partnerships. Growth depends on launching new medicines as older ones lose exclusivity.\n\n## Technology Exposure\n\n- Oncology and radioligand therapy\n- Immunology and neuroscience\n- Gene therapy and targeted protein degradation\n\n## What To Watch\n\n- Launch execution for new medicines\n- Patent expiries\n- Acquisition integration\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Novartis",
+    "symbol": "NVS",
+    "exchange": "NYSE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "NVS",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Radioligand therapy is a manufacturing-constrained modality with high barriers.",
+  "investmentLens": "A focused innovator; watch launch uptake and pipeline conversion."
+}

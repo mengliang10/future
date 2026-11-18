@@ -29,7 +29,16 @@
   "estimate": "2035\u20132060",
   "estimateYear": 2045,
   "sourceCount": 3,
-  "companies": [],
+  "companies": [
+    "lly.us",
+    "pfe.us",
+    "mrk.us",
+    "azn.uk",
+    "novartis.ch",
+    "roche.ch",
+    "abbvie.us",
+    "guardant.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

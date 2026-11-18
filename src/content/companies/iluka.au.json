@@ -1,0 +1,29 @@
+{
+  "id": "iluka.au",
+  "title": "Iluka Resources",
+  "summary": "Australian mineral-sands producer building a rare-earth refinery.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/iluka.au.md",
+  "sourceHash": "d2ffbaf8a6864a4afd7228e1760b69b22e4b4d31a50d9971c176d81a1e5ff369",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Iluka produces zircon and titanium dioxide feedstocks and is developing a rare-earth refinery in Western Australia to separate neodymium, praseodymium and heavier elements. The project would add non-Chinese separation capacity for magnet supply chains. Mineral-sands pricing and project delivery drive the stock.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Zircon and titanium feedstocks</li>\n<li>Rare-earth separation project</li>\n<li>Mineral sands mining</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Rare-earth refinery construction</li>\n<li>Mineral-sands pricing</li>\n<li>Project funding</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nIluka produces zircon and titanium dioxide feedstocks and is developing a rare-earth refinery in Western Australia to separate neodymium, praseodymium and heavier elements. The project would add non-Chinese separation capacity for magnet supply chains. Mineral-sands pricing and project delivery drive the stock.\n\n## Technology Exposure\n\n- Zircon and titanium feedstocks\n- Rare-earth separation project\n- Mineral sands mining\n\n## What To Watch\n\n- Rare-earth refinery construction\n- Mineral-sands pricing\n- Project funding\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Iluka Resources",
+    "symbol": "ILU.AX",
+    "exchange": "ASX",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ILU.AX",
+  "exchange": "ASX",
+  "private": false,
+  "businessMeaning": "Separation is the hard part of the rare-earth chain, not mining.",
+  "investmentLens": "A mineral-sands producer with a strategic option; watch refinery milestones."
+}

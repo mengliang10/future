@@ -29,7 +29,22 @@
   "estimate": "2031\u20132036",
   "estimateYear": 2032,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "zhen-ding.tw",
+    "daeduck-electronics.kr",
+    "korea-circuit.kr",
+    "meiko.jp",
+    "jcet.sh",
+    "tongfu.sz",
+    "chipbond.tw",
+    "lb-semicon.kr",
+    "sfa-semicon.kr",
+    "dupont.us",
+    "mitsubishi-chem.jp",
+    "nitto-denko.jp",
+    "lintec.jp",
+    "enplas.jp"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

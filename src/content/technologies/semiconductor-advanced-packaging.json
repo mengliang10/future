@@ -29,7 +29,22 @@
   "estimate": "2030\u20132035",
   "estimateYear": 2031,
   "sourceCount": 6,
-  "companies": [],
+  "companies": [
+    "ajinomoto.jp",
+    "samsung-electro-mechanics.kr",
+    "kinsus.tw",
+    "unimicron.tw",
+    "ats.at",
+    "schott.de",
+    "sk-absolics.kr",
+    "ibiden.jp",
+    "shinko.jp",
+    "nan-ya-pcb.tw",
+    "ase.tw",
+    "amkor.us",
+    "nepes.kr",
+    "skc.kr"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

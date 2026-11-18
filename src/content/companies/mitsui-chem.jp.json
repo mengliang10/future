@@ -1,0 +1,29 @@
+{
+  "id": "mitsui-chem.jp",
+  "title": "Mitsui Chemicals",
+  "summary": "Japanese chemical group supplying battery materials, films and semiconductor chemicals.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/mitsui-chem.jp.md",
+  "sourceHash": "96909237f2a36a773213a75a7bb902145f9df0f6dbda85af1014fcbe862d15df",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Mitsui Chemicals produces battery separators, electrolyte additives, optical films and semiconductor process materials. Its separator coatings and additives target safety and fast-charge performance in lithium-ion cells. The group also has a large petrochemical base exposed to spreads.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Battery separators and electrolyte additives</li>\n<li>Optical films and specialty resins</li>\n<li>Petrochemicals and industrial chemicals</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Battery-materials qualification</li>\n<li>Petrochemical spreads</li>\n<li>Capacity investment</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMitsui Chemicals produces battery separators, electrolyte additives, optical films and semiconductor process materials. Its separator coatings and additives target safety and fast-charge performance in lithium-ion cells. The group also has a large petrochemical base exposed to spreads.\n\n## Technology Exposure\n\n- Battery separators and electrolyte additives\n- Optical films and specialty resins\n- Petrochemicals and industrial chemicals\n\n## What To Watch\n\n- Battery-materials qualification\n- Petrochemical spreads\n- Capacity investment\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Mitsui Chemicals",
+    "symbol": "4183.T",
+    "exchange": "TSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "4183.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Additives are formulated per cell design; suppliers who co-develop keep the business.",
+  "investmentLens": "A chemical group with battery options; watch materials mix."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "korea-circuit.kr",
+  "title": "Korea Circuit",
+  "summary": "Korean PCB maker with package-substrate capacity for memory and mobile.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/korea-circuit.kr.md",
+  "sourceHash": "0ab84f43a9beffc847a046760ece0d6238804023fa34c4d6749e065441f415ff",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Korea Circuit makes printed circuit boards and package substrates, serving memory, handset and display customers. The company has been shifting mix toward semiconductor substrates as the PCB business matures, but it remains smaller than the leading Japanese and Taiwanese substrate makers. Execution on yield and qualification is the main variable.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Package substrates for memory and mobile</li>\n<li>High-density PCBs</li>\n<li>Flexible circuit boards</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Substrate qualification progress</li>\n<li>Memory and handset demand</li>\n<li>Competitive pricing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nKorea Circuit makes printed circuit boards and package substrates, serving memory, handset and display customers. The company has been shifting mix toward semiconductor substrates as the PCB business matures, but it remains smaller than the leading Japanese and Taiwanese substrate makers. Execution on yield and qualification is the main variable.\n\n## Technology Exposure\n\n- Package substrates for memory and mobile\n- High-density PCBs\n- Flexible circuit boards\n\n## What To Watch\n\n- Substrate qualification progress\n- Memory and handset demand\n- Competitive pricing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Korea Circuit",
+    "symbol": "007810.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "007810.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Korean memory fabs prefer local substrate sources when quality allows, which gives domestic suppliers a structural opening.",
+  "investmentLens": "A small-cap supplier with turnaround characteristics; watch substrate revenue share."
+}

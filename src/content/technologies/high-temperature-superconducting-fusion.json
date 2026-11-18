@@ -29,7 +29,10 @@
   "estimate": "2029\u20132033",
   "estimateYear": 2030,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "commonwealth-fusion.us",
+    "type-one-energy.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

@@ -1,0 +1,29 @@
+{
+  "id": "umicore.be",
+  "title": "Umicore",
+  "summary": "Belgian materials group supplying battery cathode materials and recycling.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/umicore.be.md",
+  "sourceHash": "dd7037938c0ee9e3e45064270f72eedd7efed5e76720b4faf7f458d1dac7b2f8",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Umicore makes cathode active materials, catalysts and recycling services, with battery materials at the centre of its growth plan. It operates cathode plants in Europe and Asia and recovers metals from battery scrap and industrial residues. The company has warned on battery-materials demand timing, making execution the key issue.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Cathode active materials</li>\n<li>Catalysts and precious-metal chemistry</li>\n<li>Battery and metals recycling</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Cathode plant utilisation</li>\n<li>European battery demand</li>\n<li>Recycling economics</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nUmicore makes cathode active materials, catalysts and recycling services, with battery materials at the centre of its growth plan. It operates cathode plants in Europe and Asia and recovers metals from battery scrap and industrial residues. The company has warned on battery-materials demand timing, making execution the key issue.\n\n## Technology Exposure\n\n- Cathode active materials\n- Catalysts and precious-metal chemistry\n- Battery and metals recycling\n\n## What To Watch\n\n- Cathode plant utilisation\n- European battery demand\n- Recycling economics\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Umicore",
+    "symbol": "UMI.BR",
+    "exchange": "Brussels",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "UMI.BR",
+  "exchange": "Brussels",
+  "private": false,
+  "businessMeaning": "Closed-loop recycling is a differentiator only when collection volumes arrive.",
+  "investmentLens": "A materials transition story with execution risk; watch battery-materials contracts."
+}

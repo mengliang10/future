@@ -29,7 +29,9 @@
   "estimate": "2026\u20132030",
   "estimateYear": 2027,
   "sourceCount": 2,
-  "companies": [],
+  "companies": [
+    "ngk-insulators.jp"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

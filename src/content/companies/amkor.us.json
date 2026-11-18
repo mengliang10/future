@@ -1,0 +1,29 @@
+{
+  "id": "amkor.us",
+  "title": "Amkor Technology",
+  "summary": "US-headquartered OSAT building advanced packaging capacity in Arizona.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/amkor.us.md",
+  "sourceHash": "e80a8baec1b5687d177f2366678785d1b472b76fbd6d25e2d7e196494728efc5",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Amkor is the largest US-listed outsourced packager, with a broad assembly and test footprint in Asia and a new Arizona plant intended to co-locate advanced packaging with US fabs. It serves automotive, communications and computing customers, and its advanced-packaging business is the growth engine as packages become more complex. Customer concentration and capex timing are the main risks.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Advanced packaging and system-in-package</li>\n<li>Automotive and industrial assembly and test</li>\n<li>US advanced packaging capacity</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Arizona plant ramp and customer commitments</li>\n<li>Advanced packaging revenue mix</li>\n<li>Automotive demand</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAmkor is the largest US-listed outsourced packager, with a broad assembly and test footprint in Asia and a new Arizona plant intended to co-locate advanced packaging with US fabs. It serves automotive, communications and computing customers, and its advanced-packaging business is the growth engine as packages become more complex. Customer concentration and capex timing are the main risks.\n\n## Technology Exposure\n\n- Advanced packaging and system-in-package\n- Automotive and industrial assembly and test\n- US advanced packaging capacity\n\n## What To Watch\n\n- Arizona plant ramp and customer commitments\n- Advanced packaging revenue mix\n- Automotive demand\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Amkor Technology",
+    "symbol": "AMKR",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "AMKR",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Regional packaging capacity is becoming a policy priority; co-location with fabs reduces logistics and cycle time.",
+  "investmentLens": "A structural grower with cyclical automotive exposure; watch the US capacity ramp."
+}

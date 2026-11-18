@@ -29,7 +29,11 @@
   "estimate": "2026\u20132032",
   "estimateYear": 2028,
   "sourceCount": 76,
-  "companies": [],
+  "companies": [
+    "xanadu.ca",
+    "photonic-inc.ca",
+    "psiquantum.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

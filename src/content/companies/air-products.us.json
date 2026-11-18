@@ -1,0 +1,29 @@
+{
+  "id": "air-products.us",
+  "title": "Air Products",
+  "summary": "US industrial-gas group with electronics, hydrogen and cryogenic supply businesses.",
+  "sector": "materials",
+  "sourceCategory": "Industrial Gases",
+  "sourcePath": "_stocks/air-products.us.md",
+  "sourceHash": "f32747ffca4ab400c1ec6f46747ac56486b12dedd780b0dc2b12002e98b918a8",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Air Products supplies industrial and specialty gases, including the cryogenic gases used in launch vehicles and the ultra-high-purity gases used in fabs. It has committed heavily to large clean-hydrogen projects, which add execution risk alongside the steadier gases business. Electronics is a smaller but high-margin segment.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Industrial and specialty gases</li>\n<li>Liquid hydrogen and cryogenic supply</li>\n<li>Electronics gases and delivery</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Hydrogen project execution and offtake</li>\n<li>Electronics demand</li>\n<li>Capital allocation and activist pressure</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAir Products supplies industrial and specialty gases, including the cryogenic gases used in launch vehicles and the ultra-high-purity gases used in fabs. It has committed heavily to large clean-hydrogen projects, which add execution risk alongside the steadier gases business. Electronics is a smaller but high-margin segment.\n\n## Technology Exposure\n\n- Industrial and specialty gases\n- Liquid hydrogen and cryogenic supply\n- Electronics gases and delivery\n\n## What To Watch\n\n- Hydrogen project execution and offtake\n- Electronics demand\n- Capital allocation and activist pressure\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Air Products",
+    "symbol": "APD",
+    "exchange": "NYSE",
+    "categories": [
+      "Industrial Gases"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "APD",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Cryogenic supply is a hard constraint for launch cadence; long-term contracts are the norm.",
+  "investmentLens": "A gases major with hydrogen execution risk; watch project milestones."
+}

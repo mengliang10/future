@@ -1,0 +1,29 @@
+{
+  "id": "relativity.us",
+  "title": "Relativity Space",
+  "summary": "US company developing largely 3D-printed launch vehicles.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/relativity.us.md",
+  "sourceHash": "12ec8c1260ce05215ce7238345080e52c6be17a386079c510a7ab71d56f1bfb4",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Relativity Space aims to build rockets with a high proportion of additively manufactured parts, using large-format metal printers to reduce part count and lead time. Its Terran R medium-lift vehicle is intended to be reusable. The company has shifted focus and timelines, making execution and funding the central questions.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Terran R reusable launch vehicle</li>\n<li>Large-format additive manufacturing</li>\n<li>Aerospace structures and engines</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Terran R first flight</li>\n<li>Funding and cash runway</li>\n<li>Additive-manufacturing yields</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nRelativity Space aims to build rockets with a high proportion of additively manufactured parts, using large-format metal printers to reduce part count and lead time. Its Terran R medium-lift vehicle is intended to be reusable. The company has shifted focus and timelines, making execution and funding the central questions.\n\n## Technology Exposure\n\n- Terran R reusable launch vehicle\n- Large-format additive manufacturing\n- Aerospace structures and engines\n\n## What To Watch\n\n- Terran R first flight\n- Funding and cash runway\n- Additive-manufacturing yields\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Relativity Space",
+    "symbol": "RELATIVITY.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "RELATIVITY.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Printing a rocket trades tooling for machine time; the economics depend on utilisation and yield.",
+  "investmentLens": "Private; a technology bet on additive manufacturing at vehicle scale."
+}

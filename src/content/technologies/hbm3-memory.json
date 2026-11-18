@@ -32,7 +32,14 @@
   "estimateYear": 2023,
   "sourceCount": 3,
   "companies": [
-    "mu"
+    "mu",
+    "simmtech.kr",
+    "daeduck-electronics.kr",
+    "korea-circuit.kr",
+    "powertech.tw",
+    "sfa-semicon.kr",
+    "hanmi-semiconductor.kr",
+    "isc.kr"
   ],
   "businessMeaning": "",
   "investmentLens": ""

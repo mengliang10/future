@@ -1,0 +1,29 @@
+{
+  "id": "firefly.us",
+  "title": "Firefly Aerospace",
+  "summary": "US small-and-medium launch company with lunar and defence ambitions.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/firefly.us.md",
+  "sourceHash": "77538300c4c89faa14c0f9f920ddd80b120dca6dbc39dc87a553e840f0de5b33",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Firefly Aerospace operates the Alpha small launcher and is developing the Medium Launch Vehicle, along with lunar landers and orbital services. It serves commercial, civil and defence customers, and has won NASA lunar payload contracts. The company has moved toward public markets, giving investors a rare listed-comparable small launcher.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Alpha small launch vehicle</li>\n<li>Medium Launch Vehicle development</li>\n<li>Lunar landers and orbital services</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Launch cadence and reliability</li>\n<li>Medium-launch development</li>\n<li>Government contract awards</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nFirefly Aerospace operates the Alpha small launcher and is developing the Medium Launch Vehicle, along with lunar landers and orbital services. It serves commercial, civil and defence customers, and has won NASA lunar payload contracts. The company has moved toward public markets, giving investors a rare listed-comparable small launcher.\n\n## Technology Exposure\n\n- Alpha small launch vehicle\n- Medium Launch Vehicle development\n- Lunar landers and orbital services\n\n## What To Watch\n\n- Launch cadence and reliability\n- Medium-launch development\n- Government contract awards\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Firefly Aerospace",
+    "symbol": "FIREFLY.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "FIREFLY.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Small launch is a reliability business first; cadence follows a proven record.",
+  "investmentLens": "A venture-stage launch provider; watch certification and contracts."
+}

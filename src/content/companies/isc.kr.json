@@ -1,0 +1,29 @@
+{
+  "id": "isc.kr",
+  "title": "ISC",
+  "summary": "Korean maker of IC test sockets and connectors.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/isc.kr.md",
+  "sourceHash": "f004d8a0817bd1864b0e3d2cce5f485f35f1f736131251b1dbb38cc578816122",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>ISC supplies test sockets and connectors for semiconductor test, including sockets for high-speed and fine-pitch packages. Its products are qualified with Korean and international chipmakers and benefit from rising test complexity. The company has been expanding into advanced-package and system-level test sockets.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>IC test sockets</li>\n<li>Connectors and contactors</li>\n<li>Advanced-package test interfaces</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>AI and HBM test demand</li>\n<li>Customer qualifications</li>\n<li>Pricing competition</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nISC supplies test sockets and connectors for semiconductor test, including sockets for high-speed and fine-pitch packages. Its products are qualified with Korean and international chipmakers and benefit from rising test complexity. The company has been expanding into advanced-package and system-level test sockets.\n\n## Technology Exposure\n\n- IC test sockets\n- Connectors and contactors\n- Advanced-package test interfaces\n\n## What To Watch\n\n- AI and HBM test demand\n- Customer qualifications\n- Pricing competition\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ISC",
+    "symbol": "095340.KQ",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "095340.KQ",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Sockets are a small cost with a large impact on test yield and uptime.",
+  "investmentLens": "A niche test-interface supplier; watch advanced-package wins."
+}

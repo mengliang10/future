@@ -1,0 +1,29 @@
+{
+  "id": "stevanato.it",
+  "title": "Stevanato Group",
+  "summary": "Italian maker of glass vials, syringes and inspection systems for injectables.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/stevanato.it.md",
+  "sourceHash": "332fcf33dc9369b85f2d589a2730c6790c0951e581d5d8b42b5327e5dcb3086f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Stevanato produces glass primary packaging, syringes and automated inspection machines for pharmaceutical fill-finish lines. Its glass converting and device capabilities serve biologics and GLP-1 customers, and it is expanding US capacity. Utilisation of new plants is the near-term issue.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Glass vials and syringes</li>\n<li>Inspection and assembly machines</li>\n<li>Drug-delivery devices</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Capacity ramp</li>\n<li>Biologic and GLP-1 demand</li>\n<li>Energy costs in Europe</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nStevanato produces glass primary packaging, syringes and automated inspection machines for pharmaceutical fill-finish lines. Its glass converting and device capabilities serve biologics and GLP-1 customers, and it is expanding US capacity. Utilisation of new plants is the near-term issue.\n\n## Technology Exposure\n\n- Glass vials and syringes\n- Inspection and assembly machines\n- Drug-delivery devices\n\n## What To Watch\n\n- Capacity ramp\n- Biologic and GLP-1 demand\n- Energy costs in Europe\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Stevanato Group",
+    "symbol": "STVN",
+    "exchange": "NYSE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "STVN",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Primary packaging is qualified with the drug; changing it requires regulatory work.",
+  "investmentLens": "A packaging supplier with GLP-1 leverage; watch plant utilisation."
+}

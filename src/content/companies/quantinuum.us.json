@@ -1,0 +1,29 @@
+{
+  "id": "quantinuum.us",
+  "title": "Quantinuum",
+  "summary": "Trapped-ion quantum-computing company formed from Honeywell Quantum Solutions and Cambridge Quantum.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/quantinuum.us.md",
+  "sourceHash": "e7ab4ff7be9400463f3e2db0f19c1588038af55684e9e3daa2b01dafbe92968e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Quantinuum builds trapped-ion quantum computers and develops quantum software and cybersecurity products, with Honeywell as majority owner. Trapped ions offer high gate fidelity and all-to-all connectivity, and the company has published repeated improvements in error rates and qubit count. Its commercial model combines hardware access with software and encryption services.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Trapped-ion quantum processors</li>\n<li>Quantum software and compilers</li>\n<li>Post-quantum cryptography services</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Logical-qubit demonstrations</li>\n<li>Error-correction progress</li>\n<li>Hardware access revenue</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nQuantinuum builds trapped-ion quantum computers and develops quantum software and cybersecurity products, with Honeywell as majority owner. Trapped ions offer high gate fidelity and all-to-all connectivity, and the company has published repeated improvements in error rates and qubit count. Its commercial model combines hardware access with software and encryption services.\n\n## Technology Exposure\n\n- Trapped-ion quantum processors\n- Quantum software and compilers\n- Post-quantum cryptography services\n\n## What To Watch\n\n- Logical-qubit demonstrations\n- Error-correction progress\n- Hardware access revenue\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Quantinuum",
+    "symbol": "QUANTINUUM.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "QUANTINUUM.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "High-fidelity gates matter more than raw qubit count for useful algorithms.",
+  "investmentLens": "Private; Honeywell is the listed proxy for the same business."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hoya.jp",
+  "title": "Hoya",
+  "summary": "Japanese optics group that is a leading supplier of EUV mask blanks and photomask substrates.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/hoya.jp.md",
+  "sourceHash": "494f7db3c23fba8d11a3568f23f99c9fefe03fcee03f297549a1db1cfe785109",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Hoya makes mask blanks and glass substrates for photomasks, along with optical lenses, medical endoscopes and hard-drive substrates. Mask blanks are a genuine bottleneck: every advanced photomask starts from a low-defect blank, and qualification takes years. The company's optics and medical businesses provide balance through semiconductor cycles.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>EUV and DUV mask blanks</li>\n<li>Photomask glass substrates</li>\n<li>Optical lenses and medical endoscopes</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>EUV mask-blank demand</li>\n<li>Mask-shop capex</li>\n<li>Medical segment growth</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nHoya makes mask blanks and glass substrates for photomasks, along with optical lenses, medical endoscopes and hard-drive substrates. Mask blanks are a genuine bottleneck: every advanced photomask starts from a low-defect blank, and qualification takes years. The company's optics and medical businesses provide balance through semiconductor cycles.\n\n## Technology Exposure\n\n- EUV and DUV mask blanks\n- Photomask glass substrates\n- Optical lenses and medical endoscopes\n\n## What To Watch\n\n- EUV mask-blank demand\n- Mask-shop capex\n- Medical segment growth\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Hoya",
+    "symbol": "7741.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "7741.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Mask blanks are a hidden single point of failure in the lithography chain.",
+  "investmentLens": "A high-quality optics franchise with a strategic materials niche; watch mask-blank capacity."
+}

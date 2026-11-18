@@ -1,0 +1,29 @@
+{
+  "id": "sumitomo-chem.jp",
+  "title": "Sumitomo Chemical",
+  "summary": "Japanese chemical group supplying display materials, battery materials and electronic chemicals.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/sumitomo-chem.jp.md",
+  "sourceHash": "22cfd53c2610937380190e33dd87e621654df2601449fc471a23b2c85d06cbb7",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Sumitomo Chemical produces display materials, photoresists, battery materials and agricultural chemicals through its subsidiaries. Its OLED and touch-panel materials serve Korean and Chinese panel makers, while semiconductor materials serve fabs. The group has been restructuring to improve returns.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>OLED and display materials</li>\n<li>Photoresists and electronic chemicals</li>\n<li>Battery and agricultural materials</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Display-material demand</li>\n<li>Restructuring progress</li>\n<li>Petrochemical spreads</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSumitomo Chemical produces display materials, photoresists, battery materials and agricultural chemicals through its subsidiaries. Its OLED and touch-panel materials serve Korean and Chinese panel makers, while semiconductor materials serve fabs. The group has been restructuring to improve returns.\n\n## Technology Exposure\n\n- OLED and display materials\n- Photoresists and electronic chemicals\n- Battery and agricultural materials\n\n## What To Watch\n\n- Display-material demand\n- Restructuring progress\n- Petrochemical spreads\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Sumitomo Chemical",
+    "symbol": "4005.T",
+    "exchange": "TSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "4005.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Display materials are co-developed with panel makers, which makes replacement slow.",
+  "investmentLens": "A restructuring chemicals group; watch electronics margins."
+}

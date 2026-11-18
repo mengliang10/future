@@ -1,0 +1,29 @@
+{
+  "id": "agilent.us",
+  "title": "Agilent Technologies",
+  "summary": "US maker of analytical instruments, chromatography and diagnostics.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/agilent.us.md",
+  "sourceHash": "e06f12d2aa2925af2f57abc7373b4d74cfb457e46c49151ec072479d220d810a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Agilent sells liquid and gas chromatography, mass spectrometry, spectroscopy and genomics products to pharma, environmental and industrial labs. Its instruments are used to characterise drug substances and to run quality control in manufacturing. Instrument demand tracks lab capex and biotech funding.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Chromatography and mass spectrometry</li>\n<li>Genomics and pathology</li>\n<li>Laboratory services and consumables</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Lab capex</li>\n<li>Biotech funding</li>\n<li>China demand</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAgilent sells liquid and gas chromatography, mass spectrometry, spectroscopy and genomics products to pharma, environmental and industrial labs. Its instruments are used to characterise drug substances and to run quality control in manufacturing. Instrument demand tracks lab capex and biotech funding.\n\n## Technology Exposure\n\n- Chromatography and mass spectrometry\n- Genomics and pathology\n- Laboratory services and consumables\n\n## What To Watch\n\n- Lab capex\n- Biotech funding\n- China demand\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Agilent Technologies",
+    "symbol": "A",
+    "exchange": "NYSE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "A",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Quality control instruments are specified into manufacturing processes and replaced slowly.",
+  "investmentLens": "A quality instrument supplier; watch order trends."
+}

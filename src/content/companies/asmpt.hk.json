@@ -1,0 +1,29 @@
+{
+  "id": "asmpt.hk",
+  "title": "ASMPT",
+  "summary": "Hong Kong-listed packaging-equipment and surface-mount group.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/asmpt.hk.md",
+  "sourceHash": "92995d81b251a2689300866fe038898f85be017c481b2d8ad08a3b201580ba83",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>ASMPT supplies die-attach, wire-bonding, thermocompression and surface-mount equipment, and its advanced packaging tools are used for flip-chip and chiplet assembly. It is one of the few equipment vendors covering both mainstream and advanced packaging, giving it a wide view of package roadmaps. The company has been investing in hybrid bonding and panel-level tools.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Thermocompression and die-attach bonders</li>\n<li>Wire-bonding and surface-mount equipment</li>\n<li>Advanced packaging and hybrid bonding tools</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Hybrid-bonding adoption</li>\n<li>Advanced packaging capex</li>\n<li>SMT demand cycle</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nASMPT supplies die-attach, wire-bonding, thermocompression and surface-mount equipment, and its advanced packaging tools are used for flip-chip and chiplet assembly. It is one of the few equipment vendors covering both mainstream and advanced packaging, giving it a wide view of package roadmaps. The company has been investing in hybrid bonding and panel-level tools.\n\n## Technology Exposure\n\n- Thermocompression and die-attach bonders\n- Wire-bonding and surface-mount equipment\n- Advanced packaging and hybrid bonding tools\n\n## What To Watch\n\n- Hybrid-bonding adoption\n- Advanced packaging capex\n- SMT demand cycle\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ASMPT",
+    "symbol": "0522.HK",
+    "exchange": "Hong Kong",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "0522.HK",
+  "exchange": "Hong Kong",
+  "private": false,
+  "businessMeaning": "Packaging equipment decides whether a new package format can be manufactured at yield.",
+  "investmentLens": "A packaging-equipment leader with hybrid-bonding optionality; watch order trends."
+}

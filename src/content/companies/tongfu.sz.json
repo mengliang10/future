@@ -1,0 +1,29 @@
+{
+  "id": "tongfu.sz",
+  "title": "Tongfu Microelectronics",
+  "summary": "Chinese OSAT with a large AMD assembly and test relationship.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/tongfu.sz.md",
+  "sourceHash": "aae48c8e12500390c0218452174fe873d478ac78294b7f6e33e5add13d0a262e",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Tongfu Microelectronics assembles and tests processors and other chips, with a substantial portion of revenue tied to AMD through a joint venture in China. It has been expanding advanced packaging capability for domestic and multinational customers, supported by China's localisation agenda. Customer concentration is high and tool access is a constraint.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Flip-chip and advanced assembly</li>\n<li>Processor and graphics assembly and test</li>\n<li>Domestic packaging capacity</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>AMD programme volumes</li>\n<li>Advanced packaging qualification</li>\n<li>Export-control exposure</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTongfu Microelectronics assembles and tests processors and other chips, with a substantial portion of revenue tied to AMD through a joint venture in China. It has been expanding advanced packaging capability for domestic and multinational customers, supported by China's localisation agenda. Customer concentration is high and tool access is a constraint.\n\n## Technology Exposure\n\n- Flip-chip and advanced assembly\n- Processor and graphics assembly and test\n- Domestic packaging capacity\n\n## What To Watch\n\n- AMD programme volumes\n- Advanced packaging qualification\n- Export-control exposure\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Tongfu Microelectronics",
+    "symbol": "002156.SZ",
+    "exchange": "Shenzhen",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "002156.SZ",
+  "exchange": "Shenzhen",
+  "private": false,
+  "businessMeaning": "A single large customer can anchor an OSAT for years, but it also concentrates risk.",
+  "investmentLens": "A customer-concentrated OSAT with policy support; watch AMD volumes and packaging mix."
+}

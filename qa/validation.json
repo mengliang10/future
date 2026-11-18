@@ -1,10 +1,8 @@
 {
   "technologyRecords": 964,
-  "companyRecords": 194,
-  "sectors": 15,
-  "decks": 86,
-  "generatedSlides": 1183,
-  "unresolvedCompanyReferences": [
-    "nrg"
-  ]
+  "companyRecords": 456,
+  "sectors": 11,
+  "decks": 96,
+  "generatedSlides": 1333,
+  "unresolvedCompanyReferences": []
 }

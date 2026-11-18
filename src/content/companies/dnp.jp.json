@@ -1,0 +1,29 @@
+{
+  "id": "dnp.jp",
+  "title": "Dai Nippon Printing",
+  "summary": "Japanese group supplying photomasks, display films and packaging materials.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/dnp.jp.md",
+  "sourceHash": "28d01876ea4bfc12b7aab92ed3e87eec6ac574b6a392f216268ec590e4dc99c1",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Dai Nippon Printing makes photomasks for semiconductor and display lithography, along with optical films, battery pouches and packaging. Its mask business serves leading-edge logic and memory customers, where defect control is critical. The broader portfolio is being reshaped toward electronics materials.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Photomasks and imprint templates</li>\n<li>Optical films for displays</li>\n<li>Battery pouches and packaging</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Advanced mask demand</li>\n<li>Display film pricing</li>\n<li>Portfolio restructuring</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nDai Nippon Printing makes photomasks for semiconductor and display lithography, along with optical films, battery pouches and packaging. Its mask business serves leading-edge logic and memory customers, where defect control is critical. The broader portfolio is being reshaped toward electronics materials.\n\n## Technology Exposure\n\n- Photomasks and imprint templates\n- Optical films for displays\n- Battery pouches and packaging\n\n## What To Watch\n\n- Advanced mask demand\n- Display film pricing\n- Portfolio restructuring\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Dai Nippon Printing",
+    "symbol": "7912.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "7912.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Mask and template supply is a narrow gate that receives little attention until it tightens.",
+  "investmentLens": "A restructuring story with electronics-materials upside; watch segment disclosure."
+}

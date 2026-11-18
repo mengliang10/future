@@ -1,0 +1,29 @@
+{
+  "id": "yageo.tw",
+  "title": "Yageo",
+  "summary": "Taiwanese passive-components group supplying resistors, capacitors and inductors.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/yageo.tw.md",
+  "sourceHash": "d05630df942d37582990386a68aea77543f9a4a129702c0f677e6a7b5df94948",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Yageo is one of the largest passive-component makers, with resistors, MLCCs, inductors and sensors serving industrial, automotive and consumer customers. It has grown through acquisitions, including KEMET, to broaden its portfolio and geographic reach. Pricing and utilisation in commodity passives remain cyclical.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Chip resistors and MLCCs</li>\n<li>Inductors and sensors</li>\n<li>Industrial and automotive passives</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Passive pricing cycle</li>\n<li>Automotive and industrial demand</li>\n<li>Acquisition integration</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nYageo is one of the largest passive-component makers, with resistors, MLCCs, inductors and sensors serving industrial, automotive and consumer customers. It has grown through acquisitions, including KEMET, to broaden its portfolio and geographic reach. Pricing and utilisation in commodity passives remain cyclical.\n\n## Technology Exposure\n\n- Chip resistors and MLCCs\n- Inductors and sensors\n- Industrial and automotive passives\n\n## What To Watch\n\n- Passive pricing cycle\n- Automotive and industrial demand\n- Acquisition integration\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Yageo",
+    "symbol": "2327.TW",
+    "exchange": "TWSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "2327.TW",
+  "exchange": "TWSE",
+  "private": false,
+  "businessMeaning": "Commodity passives are a scale game with periodic shortages that spike margins.",
+  "investmentLens": "A cyclical consolidator; watch pricing and utilisation."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ngk-insulators.jp",
+  "title": "NGK Insulators",
+  "summary": "Japanese ceramics maker supplying battery, semiconductor and environmental components.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/ngk-insulators.jp.md",
+  "sourceHash": "d6df33de4d2b9a5d97b41e09eeaee5ca4e1f9316839055b7a939ab85134248d6",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>NGK Insulators produces ceramic products for automotive emissions control, power transmission, battery components and semiconductor manufacturing equipment. Its ceramics appear in battery separators and in plasma-resistant parts for etch tools, tying it to both electrification and fab capex. The company is also developing sodium-sulfur and solid-state battery materials.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Ceramic battery components and separators</li>\n<li>Plasma-resistant ceramic parts for etch equipment</li>\n<li>Environmental and power-grid ceramics</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Solid-state and sodium-based battery programmes</li>\n<li>Semiconductor equipment demand</li>\n<li>Automotive ceramics cycle</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNGK Insulators produces ceramic products for automotive emissions control, power transmission, battery components and semiconductor manufacturing equipment. Its ceramics appear in battery separators and in plasma-resistant parts for etch tools, tying it to both electrification and fab capex. The company is also developing sodium-sulfur and solid-state battery materials.\n\n## Technology Exposure\n\n- Ceramic battery components and separators\n- Plasma-resistant ceramic parts for etch equipment\n- Environmental and power-grid ceramics\n\n## What To Watch\n\n- Solid-state and sodium-based battery programmes\n- Semiconductor equipment demand\n- Automotive ceramics cycle\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "NGK Insulators",
+    "symbol": "5333.T",
+    "exchange": "TSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "5333.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Ceramic parts inside etch chambers are consumables with demanding qualification; supply is concentrated.",
+  "investmentLens": "A steady industrial with optionality in battery ceramics; watch the semiconductor and battery segments."
+}

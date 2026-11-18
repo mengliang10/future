@@ -1,0 +1,29 @@
+{
+  "id": "hanmi-semiconductor.kr",
+  "title": "Hanmi Semiconductor",
+  "summary": "Korean maker of thermocompression and memory-packaging bonders.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/hanmi-semiconductor.kr.md",
+  "sourceHash": "7b92c05a8226cf69e4953427c0b829845ddc9850fd590c76597f109f5a468909",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Hanmi Semiconductor supplies thermocompression bonders, sawing and packaging equipment used to stack and attach memory dies, including HBM assembly. Its tools are qualified with Korean memory makers, so HBM capacity additions translate into orders. Competition from larger packaging-equipment vendors is intensifying.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Thermocompression bonders</li>\n<li>Sawing and die-attach equipment</li>\n<li>HBM packaging tools</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>HBM capacity additions</li>\n<li>Customer concentration</li>\n<li>Competitive pricing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nHanmi Semiconductor supplies thermocompression bonders, sawing and packaging equipment used to stack and attach memory dies, including HBM assembly. Its tools are qualified with Korean memory makers, so HBM capacity additions translate into orders. Competition from larger packaging-equipment vendors is intensifying.\n\n## Technology Exposure\n\n- Thermocompression bonders\n- Sawing and die-attach equipment\n- HBM packaging tools\n\n## What To Watch\n\n- HBM capacity additions\n- Customer concentration\n- Competitive pricing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Hanmi Semiconductor",
+    "symbol": "042700.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "042700.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "HBM stacking is a specialised thermocompression process; tool availability gates capacity.",
+  "investmentLens": "A direct HBM-tooling play; watch memory capex and order share."
+}

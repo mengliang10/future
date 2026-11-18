@@ -1,0 +1,29 @@
+{
+  "id": "lynas.au",
+  "title": "Lynas Rare Earths",
+  "summary": "The largest rare-earth producer outside China, supplying magnets and heavy rare earths.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/lynas.au.md",
+  "sourceHash": "00e43fce1445fc769f8620aadd8fa28496e0252a934c1f8c3831ed8669a5a00a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Lynas mines and processes rare earths in Australia and Malaysia and is building heavy-rare-earth separation capacity to reduce dependence on China. Its neodymium and praseodymium oxides feed magnet makers used in motors, wind turbines and defence. Price and policy exposure are both high.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Neodymium and praseodymium oxides</li>\n<li>Heavy rare-earth separation</li>\n<li>Rare-earth mining and processing</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Heavy-rare-earth plant ramp</li>\n<li>Rare-earth pricing</li>\n<li>Malaysia licensing and regulation</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLynas mines and processes rare earths in Australia and Malaysia and is building heavy-rare-earth separation capacity to reduce dependence on China. Its neodymium and praseodymium oxides feed magnet makers used in motors, wind turbines and defence. Price and policy exposure are both high.\n\n## Technology Exposure\n\n- Neodymium and praseodymium oxides\n- Heavy rare-earth separation\n- Rare-earth mining and processing\n\n## What To Watch\n\n- Heavy-rare-earth plant ramp\n- Rare-earth pricing\n- Malaysia licensing and regulation\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Lynas Rare Earths",
+    "symbol": "LYC.AX",
+    "exchange": "ASX",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "LYC.AX",
+  "exchange": "ASX",
+  "private": false,
+  "businessMeaning": "Magnet supply is a defence and electrification chokepoint; non-Chinese separation capacity is strategic.",
+  "investmentLens": "A policy-supported commodity producer; watch separation capacity and pricing."
+}

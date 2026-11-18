@@ -1,0 +1,29 @@
+{
+  "id": "arrowhead.us",
+  "title": "Arrowhead Pharmaceuticals",
+  "summary": "US biotech developing RNA-interference medicines with a proprietary delivery platform.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/arrowhead.us.md",
+  "sourceHash": "38d955173840981c95f15c46d70b76ae566eede257927ec8705ce233283267ca",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Arrowhead develops RNAi therapies for liver, lung and central-nervous-system targets, using its TRiM delivery platform. It has partnered programmes with large pharmaceutical companies and is advancing its own metabolic and cardiovascular candidates. Clinical readouts and partnership economics drive the stock.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>RNAi therapies</li>\n<li>TRiM delivery platform</li>\n<li>Metabolic and cardiovascular programmes</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Clinical data</li>\n<li>Partner milestones</li>\n<li>Financing needs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nArrowhead develops RNAi therapies for liver, lung and central-nervous-system targets, using its TRiM delivery platform. It has partnered programmes with large pharmaceutical companies and is advancing its own metabolic and cardiovascular candidates. Clinical readouts and partnership economics drive the stock.\n\n## Technology Exposure\n\n- RNAi therapies\n- TRiM delivery platform\n- Metabolic and cardiovascular programmes\n\n## What To Watch\n\n- Clinical data\n- Partner milestones\n- Financing needs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Arrowhead Pharmaceuticals",
+    "symbol": "ARWR",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ARWR",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Targeted delivery to extrahepatic tissues is the next frontier for RNA medicines.",
+  "investmentLens": "A clinical-stage platform with binary readouts; watch trial data."
+}

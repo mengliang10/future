@@ -32,7 +32,13 @@
   "estimateYear": 2025,
   "sourceCount": 11,
   "companies": [
-    "ilmn"
+    "ilmn",
+    "roche.ch",
+    "tempus-ai.us",
+    "guardant.us",
+    "thermo-fisher.us",
+    "danaher.us",
+    "agilent.us"
   ],
   "businessMeaning": "",
   "investmentLens": ""

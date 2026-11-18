@@ -1,0 +1,29 @@
+{
+  "id": "toptica.de",
+  "title": "TOPTICA Photonics",
+  "summary": "German maker of diode lasers and frequency combs for quantum and scientific applications.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/toptica.de.md",
+  "sourceHash": "7d810b7d22d96f9dadda69e4ec0d57f54e610e0c18c4deb354181aa0f8b66124",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>TOPTICA builds tunable diode lasers, frequency combs and terahertz systems used in quantum computing, atomic clocks and spectroscopy. Trapped-ion and neutral-atom quantum computers rely on precise laser systems for cooling and manipulation. The company sells to research labs and quantum-hardware developers.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Tunable diode lasers</li>\n<li>Optical frequency combs</li>\n<li>Terahertz and spectroscopy systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Quantum-computing laser demand</li>\n<li>Research funding</li>\n<li>Competition from photonics majors</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTOPTICA builds tunable diode lasers, frequency combs and terahertz systems used in quantum computing, atomic clocks and spectroscopy. Trapped-ion and neutral-atom quantum computers rely on precise laser systems for cooling and manipulation. The company sells to research labs and quantum-hardware developers.\n\n## Technology Exposure\n\n- Tunable diode lasers\n- Optical frequency combs\n- Terahertz and spectroscopy systems\n\n## What To Watch\n\n- Quantum-computing laser demand\n- Research funding\n- Competition from photonics majors\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "TOPTICA Photonics",
+    "symbol": "TOPTICA.DE",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "TOPTICA.DE",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Atom-based qubits are manipulated with light; laser stability sets gate fidelity.",
+  "investmentLens": "Private; a laser supplier leveraged to atom-based quantum computing."
+}

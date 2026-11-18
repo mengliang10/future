@@ -1,0 +1,29 @@
+{
+  "id": "linde.us",
+  "title": "Linde",
+  "summary": "The largest industrial-gas supplier, providing ultra-high-purity gases to fabs and launch sites.",
+  "sector": "materials",
+  "sourceCategory": "Industrial Gases",
+  "sourcePath": "_stocks/linde.us.md",
+  "sourceHash": "344b782beeb2a56633c75284a9d3af52ed83eea03406f52ff19abf6022358cc1",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Linde supplies nitrogen, oxygen, argon, hydrogen and specialty gases through on-site plants and pipelines, including the ultra-high-purity gases fabs cannot operate without. Long-term take-or-pay contracts make revenue stable, while electronics and clean-energy projects add growth. Gas supply is a quiet precondition for both semiconductor capacity and rocket launch operations.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Ultra-high-purity gases for semiconductor fabs</li>\n<li>Hydrogen and industrial gases for refining and industry</li>\n<li>Cryogenic and launch-site gas supply</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Electronics project wins</li>\n<li>Hydrogen project economics</li>\n<li>Contract renewals and pricing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLinde supplies nitrogen, oxygen, argon, hydrogen and specialty gases through on-site plants and pipelines, including the ultra-high-purity gases fabs cannot operate without. Long-term take-or-pay contracts make revenue stable, while electronics and clean-energy projects add growth. Gas supply is a quiet precondition for both semiconductor capacity and rocket launch operations.\n\n## Technology Exposure\n\n- Ultra-high-purity gases for semiconductor fabs\n- Hydrogen and industrial gases for refining and industry\n- Cryogenic and launch-site gas supply\n\n## What To Watch\n\n- Electronics project wins\n- Hydrogen project economics\n- Contract renewals and pricing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Linde",
+    "symbol": "LIN",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Industrial Gases"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "LIN",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "A fab cannot run without gas; supply contracts are signed years before the first wafer.",
+  "investmentLens": "A defensive compounder with electronics and hydrogen optionality; watch project backlog."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dongjin-semichem.kr",
+  "title": "Dongjin Semichem",
+  "summary": "Korean maker of photoresists, wet chemicals and deposition precursors for memory and logic fabs.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/dongjin-semichem.kr.md",
+  "sourceHash": "410752dfd4dda54337e835895aff36dea6cba8dd0db59839136c800bdd73fb26",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Dongjin Semichem supplies photoresists, etchants and precursors to Korean memory fabs and has been localising materials historically imported from Japan. Its portfolio spans i-line and KrF resists, spin-on dielectrics and high-purity precursors, placing it close to the DRAM and 3D NAND roadmaps that drive Korean capex. Domestic fab expansion and supply-chain localisation are the main demand levers.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Photoresists and ancillary lithography chemicals</li>\n<li>Precursors for thin-film deposition</li>\n<li>Wet etch and cleaning chemistries</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Qualification at leading-edge DRAM and NAND nodes</li>\n<li>Korean materials localisation policy</li>\n<li>Raw-material import dependence</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nDongjin Semichem supplies photoresists, etchants and precursors to Korean memory fabs and has been localising materials historically imported from Japan. Its portfolio spans i-line and KrF resists, spin-on dielectrics and high-purity precursors, placing it close to the DRAM and 3D NAND roadmaps that drive Korean capex. Domestic fab expansion and supply-chain localisation are the main demand levers.\n\n## Technology Exposure\n\n- Photoresists and ancillary lithography chemicals\n- Precursors for thin-film deposition\n- Wet etch and cleaning chemistries\n\n## What To Watch\n\n- Qualification at leading-edge DRAM and NAND nodes\n- Korean materials localisation policy\n- Raw-material import dependence\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Dongjin Semichem",
+    "symbol": "005290.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "005290.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Materials qualification is sticky: once a chemistry is qualified at a node, switching costs are high and supply continuity matters more than unit price.",
+  "investmentLens": "Levered to Korean memory capex; margin depends on mix shifting from commodity wet chemicals to advanced resists."
+}

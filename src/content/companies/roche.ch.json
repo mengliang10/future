@@ -1,0 +1,29 @@
+{
+  "id": "roche.ch",
+  "title": "Roche",
+  "summary": "Swiss pharmaceutical and diagnostics group, the largest in-market diagnostics supplier.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/roche.ch.md",
+  "sourceHash": "ca277ccd54ede44a37a054753a916b72840035731bb65125990e301119bb36b8",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Roche sells oncology, immunology, neuroscience and ophthalmology medicines and is the world's largest in-vitro diagnostics company. Diagnostics and pharmaceuticals reinforce each other in companion testing, and the group has a deep pipeline in oncology and haemophilia. Currency and pricing pressure weigh on results.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Oncology and haematology medicines</li>\n<li>In-vitro diagnostics</li>\n<li>Companion diagnostics and sequencing</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Diagnostics reimbursement</li>\n<li>Oncology pipeline readouts</li>\n<li>Currency and pricing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nRoche sells oncology, immunology, neuroscience and ophthalmology medicines and is the world's largest in-vitro diagnostics company. Diagnostics and pharmaceuticals reinforce each other in companion testing, and the group has a deep pipeline in oncology and haemophilia. Currency and pricing pressure weigh on results.\n\n## Technology Exposure\n\n- Oncology and haematology medicines\n- In-vitro diagnostics\n- Companion diagnostics and sequencing\n\n## What To Watch\n\n- Diagnostics reimbursement\n- Oncology pipeline readouts\n- Currency and pricing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Roche",
+    "symbol": "ROG.SW",
+    "exchange": "SIX",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ROG.SW",
+  "exchange": "SIX",
+  "private": false,
+  "businessMeaning": "Diagnostics and drugs sold together create a clinical lock-in that pure pharma lacks.",
+  "investmentLens": "A defensive pharma-diagnostics combination; watch diagnostics growth."
+}

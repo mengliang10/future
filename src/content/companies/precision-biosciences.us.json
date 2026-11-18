@@ -1,0 +1,29 @@
+{
+  "id": "precision-biosciences.us",
+  "title": "Precision BioSciences",
+  "summary": "US gene-editing company developing ARCUS nuclease therapies.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/precision-biosciences.us.md",
+  "sourceHash": "06b4c531a0e88b6f0038f1704a2172f9268bfe43a86c9dc37a982199f8512c40",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Precision BioSciences develops gene-editing therapies using its ARCUS nuclease, with programmes in oncology, rare disease and in-vivo editing. It licenses the platform to partners and has narrowed its own pipeline to conserve cash. Clinical milestones and partnering are the value drivers.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>ARCUS gene editing</li>\n<li>Allogeneic cell therapies</li>\n<li>In-vivo gene editing</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Clinical data</li>\n<li>Partnering</li>\n<li>Financing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPrecision BioSciences develops gene-editing therapies using its ARCUS nuclease, with programmes in oncology, rare disease and in-vivo editing. It licenses the platform to partners and has narrowed its own pipeline to conserve cash. Clinical milestones and partnering are the value drivers.\n\n## Technology Exposure\n\n- ARCUS gene editing\n- Allogeneic cell therapies\n- In-vivo gene editing\n\n## What To Watch\n\n- Clinical data\n- Partnering\n- Financing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Precision BioSciences",
+    "symbol": "PRECISION-BIOSCIENCES.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "PRECISION-BIOSCIENCES.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Nuclease size and specificity determine which tissues can be edited in vivo.",
+  "investmentLens": "Private; a small gene-editing platform with partnership risk."
+}

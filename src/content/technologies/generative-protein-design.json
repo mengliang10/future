@@ -29,7 +29,12 @@
   "estimate": "2027\u20132031",
   "estimateYear": 2028,
   "sourceCount": 3,
-  "companies": [],
+  "companies": [
+    "amgen.us",
+    "regeneron.us",
+    "celltrion.kr",
+    "biocon.in"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

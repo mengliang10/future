@@ -1,0 +1,29 @@
+{
+  "id": "shin-etsu.jp",
+  "title": "Shin-Etsu Chemical",
+  "summary": "The world's largest silicon-wafer maker and a leading supplier of photoresists and specialty chemicals.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/shin-etsu.jp.md",
+  "sourceHash": "8c931b3cffbb4170d23f99c12288967375631f3b9dd5ac2066a18265ad037531",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Shin-Etsu produces silicon wafers, photoresists, synthetic quartz, silicones, PVC and rare-earth magnets, giving it exposure to several constrained supply chains at once. Its wafer and resist positions are built on process control rather than patents alone, and it has stayed profitable through semiconductor downturns. The group's breadth makes it a proxy for materials intensity across the industry.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Silicon wafers for logic and memory</li>\n<li>Photoresists and lithography materials</li>\n<li>Silicones, PVC and rare-earth magnets</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Wafer pricing and capacity</li>\n<li>EUV resist qualification</li>\n<li>Rare-earth and energy costs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nShin-Etsu produces silicon wafers, photoresists, synthetic quartz, silicones, PVC and rare-earth magnets, giving it exposure to several constrained supply chains at once. Its wafer and resist positions are built on process control rather than patents alone, and it has stayed profitable through semiconductor downturns. The group's breadth makes it a proxy for materials intensity across the industry.\n\n## Technology Exposure\n\n- Silicon wafers for logic and memory\n- Photoresists and lithography materials\n- Silicones, PVC and rare-earth magnets\n\n## What To Watch\n\n- Wafer pricing and capacity\n- EUV resist qualification\n- Rare-earth and energy costs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Shin-Etsu Chemical",
+    "symbol": "4063.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "4063.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Materials breadth is a hedge: when one segment prices down, another is usually tightening.",
+  "investmentLens": "The highest-quality diversified materials franchise; watch wafer pricing and resist share."
+}

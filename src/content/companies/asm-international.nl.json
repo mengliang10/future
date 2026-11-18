@@ -1,0 +1,29 @@
+{
+  "id": "asm-international.nl",
+  "title": "ASM International",
+  "summary": "Dutch supplier of atomic-layer deposition and epitaxy equipment.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/asm-international.nl.md",
+  "sourceHash": "294dee188cde9bdf9aaa4b9f5cc1cfe0586c39d1b95ae016f81a494d92e84636",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>ASM International builds atomic-layer deposition and epitaxy tools used to form the thin films in advanced logic, memory and power devices. ALD intensity rises at each node as films get thinner and more conformal, making the company a structural beneficiary of leading-edge capex. It competes with larger deposition vendors but leads in several ALD niches.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Atomic-layer deposition tools</li>\n<li>Epitaxy equipment</li>\n<li>Deposition for power and memory devices</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Leading-edge logic capex</li>\n<li>ALD intensity per node</li>\n<li>Competitive wins at gate-all-around</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nASM International builds atomic-layer deposition and epitaxy tools used to form the thin films in advanced logic, memory and power devices. ALD intensity rises at each node as films get thinner and more conformal, making the company a structural beneficiary of leading-edge capex. It competes with larger deposition vendors but leads in several ALD niches.\n\n## Technology Exposure\n\n- Atomic-layer deposition tools\n- Epitaxy equipment\n- Deposition for power and memory devices\n\n## What To Watch\n\n- Leading-edge logic capex\n- ALD intensity per node\n- Competitive wins at gate-all-around\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ASM International",
+    "symbol": "ASM.AS",
+    "exchange": "Amsterdam",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ASM.AS",
+  "exchange": "Amsterdam",
+  "private": false,
+  "businessMeaning": "Every new node adds thin-film steps; deposition intensity is a better demand proxy than wafer starts.",
+  "investmentLens": "A focused toolmaker with structural growth; watch gate-all-around adoption."
+}

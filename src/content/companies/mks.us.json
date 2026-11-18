@@ -1,0 +1,29 @@
+{
+  "id": "mks.us",
+  "title": "MKS Instruments",
+  "summary": "US supplier of vacuum, photonics and process-control subsystems for chip equipment.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/mks.us.md",
+  "sourceHash": "a438f32e71e2d5ac9487a79ae34e452be248f4f4c49ee22543e174d6fbb30790",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>MKS Instruments makes vacuum components, gas-delivery systems, lasers, optics and process-control instrumentation used inside semiconductor tools. Its products are specified into equipment from multiple OEMs, so revenue follows fab capex with a lag. The company has been reducing debt after large acquisitions.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Vacuum and gas-delivery subsystems</li>\n<li>Lasers, optics and photonics</li>\n<li>Process-control instrumentation</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Fab capex</li>\n<li>Advanced packaging and power-device demand</li>\n<li>Debt reduction and integration</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMKS Instruments makes vacuum components, gas-delivery systems, lasers, optics and process-control instrumentation used inside semiconductor tools. Its products are specified into equipment from multiple OEMs, so revenue follows fab capex with a lag. The company has been reducing debt after large acquisitions.\n\n## Technology Exposure\n\n- Vacuum and gas-delivery subsystems\n- Lasers, optics and photonics\n- Process-control instrumentation\n\n## What To Watch\n\n- Fab capex\n- Advanced packaging and power-device demand\n- Debt reduction and integration\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "MKS Instruments",
+    "symbol": "MKSI",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "MKSI",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Subsystem suppliers see demand earlier than wafer output because tools are built ahead of installation.",
+  "investmentLens": "A capex-levered supplier with photonics optionality; watch orders and leverage."
+}

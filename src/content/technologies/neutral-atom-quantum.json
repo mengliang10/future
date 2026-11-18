@@ -29,7 +29,11 @@
   "estimate": "2030\u20132037",
   "estimateYear": 2032,
   "sourceCount": 2,
-  "companies": [],
+  "companies": [
+    "toptica.de",
+    "infleqtion.us",
+    "atom-computing.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

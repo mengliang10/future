@@ -29,7 +29,10 @@
   "estimate": "2025\u20132029",
   "estimateYear": 2026,
   "sourceCount": 18,
-  "companies": [],
+  "companies": [
+    "caribou.us",
+    "lonza.ch"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

@@ -1,0 +1,29 @@
+{
+  "id": "ohb.de",
+  "title": "OHB",
+  "summary": "German space-systems group building satellites and launcher components.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/ohb.de.md",
+  "sourceHash": "46de453a236c37db8f68a16a2286ea6d30b91ba309df0bd2a8ef01aff391efc6",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>OHB builds satellites, payloads and space systems for institutional and commercial customers, and supplies structures for European launchers through MT Aerospace. Its order book is dominated by European Space Agency and national programmes. The company has been restructuring and exploring partnerships to improve scale.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Satellite systems and payloads</li>\n<li>Launcher structures and components</li>\n<li>Space science and navigation</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>ESA and institutional budgets</li>\n<li>Satellite programme execution</li>\n<li>Restructuring progress</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nOHB builds satellites, payloads and space systems for institutional and commercial customers, and supplies structures for European launchers through MT Aerospace. Its order book is dominated by European Space Agency and national programmes. The company has been restructuring and exploring partnerships to improve scale.\n\n## Technology Exposure\n\n- Satellite systems and payloads\n- Launcher structures and components\n- Space science and navigation\n\n## What To Watch\n\n- ESA and institutional budgets\n- Satellite programme execution\n- Restructuring progress\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "OHB",
+    "symbol": "OHB.DE",
+    "exchange": "Frankfurt",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "OHB.DE",
+  "exchange": "Frankfurt",
+  "private": false,
+  "businessMeaning": "Institutional budgets set the rhythm; commercial constellations add upside but also price pressure.",
+  "investmentLens": "A listed European space systems integrator; watch order intake."
+}

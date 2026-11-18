@@ -29,7 +29,12 @@
   "estimate": "2035\u20132042",
   "estimateYear": 2037,
   "sourceCount": 5,
-  "companies": [],
+  "companies": [
+    "quantum-machines.il",
+    "zurich-instruments.ch",
+    "rohde-schwarz.de",
+    "keysight.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

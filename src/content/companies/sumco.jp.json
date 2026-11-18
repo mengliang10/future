@@ -1,0 +1,29 @@
+{
+  "id": "sumco.jp",
+  "title": "SUMCO",
+  "summary": "Pure-play silicon-wafer producer serving logic and memory fabs.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/sumco.jp.md",
+  "sourceHash": "930038be25ad4d52ae076a63afdba79cd174505370c8c6f497bea72c65a02eb2",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>SUMCO makes the polished and epitaxial silicon wafers on which nearly every chip is built, and its fortunes track global wafer starts and pricing. Long-term contracts cover much of its volume, but spot pricing and capacity additions still swing margins. The company is investing in larger-diameter and higher-quality wafers for leading-edge nodes.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>300mm polished and epitaxial wafers</li>\n<li>200mm and smaller wafers</li>\n<li>Wafer reclaim and specialty substrates</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Wafer contract pricing</li>\n<li>Fab utilisation and inventory</li>\n<li>Capacity additions across the industry</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSUMCO makes the polished and epitaxial silicon wafers on which nearly every chip is built, and its fortunes track global wafer starts and pricing. Long-term contracts cover much of its volume, but spot pricing and capacity additions still swing margins. The company is investing in larger-diameter and higher-quality wafers for leading-edge nodes.\n\n## Technology Exposure\n\n- 300mm polished and epitaxial wafers\n- 200mm and smaller wafers\n- Wafer reclaim and specialty substrates\n\n## What To Watch\n\n- Wafer contract pricing\n- Fab utilisation and inventory\n- Capacity additions across the industry\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "SUMCO",
+    "symbol": "3436.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "3436.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Wafers are a commodity with a qualification moat; supply discipline matters more than technology headlines.",
+  "investmentLens": "A cyclical pure-play; the investment case is pricing and utilisation, not AI branding."
+}

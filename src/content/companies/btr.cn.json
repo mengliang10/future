@@ -1,0 +1,29 @@
+{
+  "id": "btr.cn",
+  "title": "BTR New Material",
+  "summary": "Chinese anode-material leader supplying natural and synthetic graphite.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/btr.cn.md",
+  "sourceHash": "00aae28182dca1a17ffd9a60130e5408c93d0f5f9066ee8942e256ae44df5451",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>BTR New Material produces anode materials, including natural and synthetic graphite and silicon-carbon composites, for lithium-ion cells. It is one of the largest anode suppliers globally and has been expanding overseas to serve non-Chinese battery plants. Customer concentration and graphite pricing shape results.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Natural and synthetic graphite anode</li>\n<li>Silicon-carbon anode materials</li>\n<li>Overseas anode capacity</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Silicon-anode adoption</li>\n<li>Graphite pricing and export rules</li>\n<li>Overseas plant ramp</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nBTR New Material produces anode materials, including natural and synthetic graphite and silicon-carbon composites, for lithium-ion cells. It is one of the largest anode suppliers globally and has been expanding overseas to serve non-Chinese battery plants. Customer concentration and graphite pricing shape results.\n\n## Technology Exposure\n\n- Natural and synthetic graphite anode\n- Silicon-carbon anode materials\n- Overseas anode capacity\n\n## What To Watch\n\n- Silicon-anode adoption\n- Graphite pricing and export rules\n- Overseas plant ramp\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "BTR New Material",
+    "symbol": "835185.BJ",
+    "exchange": "Beijing",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "835185.BJ",
+  "exchange": "Beijing",
+  "private": false,
+  "businessMeaning": "Anode technology is shifting toward silicon blends for energy density; incumbent suppliers are racing to qualify.",
+  "investmentLens": "A scale anode supplier with technology optionality; watch overseas expansion."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mhi.jp",
+  "title": "Mitsubishi Heavy Industries",
+  "summary": "Japanese industrial group that builds the H3 launch vehicle and space station hardware.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/mhi.jp.md",
+  "sourceHash": "414242e38da585fe921af341b2c0aa88f9cbca65b49d8801706e616756f304b5",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Mitsubishi Heavy Industries builds the H3 launcher, rocket engines and components for the International Space Station, alongside power plants, aircraft and defence equipment. Its space business is strategically important to Japan's independent access to space. The group's scale means space is a small but high-profile segment.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>H3 launch vehicle</li>\n<li>Rocket engines and space structures</li>\n<li>Power, defence and industrial machinery</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>H3 cadence and cost</li>\n<li>Japanese government space budget</li>\n<li>Energy and defence orders</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMitsubishi Heavy Industries builds the H3 launcher, rocket engines and components for the International Space Station, alongside power plants, aircraft and defence equipment. Its space business is strategically important to Japan's independent access to space. The group's scale means space is a small but high-profile segment.\n\n## Technology Exposure\n\n- H3 launch vehicle\n- Rocket engines and space structures\n- Power, defence and industrial machinery\n\n## What To Watch\n\n- H3 cadence and cost\n- Japanese government space budget\n- Energy and defence orders\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Mitsubishi Heavy Industries",
+    "symbol": "7011.T",
+    "exchange": "TSE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "7011.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "National launch capability is funded for autonomy, not just commercial return.",
+  "investmentLens": "A diversified industrial where space is a strategic option; watch H3 cadence."
+}

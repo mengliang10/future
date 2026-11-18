@@ -1,0 +1,29 @@
+{
+  "id": "ajinomoto.jp",
+  "title": "Ajinomoto",
+  "summary": "Japanese food and fine-chemicals group whose ABF build-up film is a critical insulator in high-end IC substrates.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/ajinomoto.jp.md",
+  "sourceHash": "579bbb82f12f3db7cc65d3c5ee5a47ea1bcebb4d2c8472673338dcd9857ae914",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Ajinomoto is best known for seasonings, but its electronic-materials business supplies Ajinomoto Build-up Film, the dielectric used in flip-chip ball-grid-array substrates for CPUs, GPUs and networking chips. Very few materials combine fine-pitch fill, low thermal expansion and reliability at the layer counts now demanded, which has kept the film a reference choice as substrate bodies grow larger and denser. Substrate capacity additions at Ibiden, Unimicron, Samsung Electro-Mechanics and their peers convert directly into ABF volume.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>ABF build-up film for FC-BGA substrates</li>\n<li>Fine chemicals and amino-acid derivatives</li>\n<li>Seasonings and frozen foods as a cash-generative base</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>ABF film capacity additions and qualification</li>\n<li>Substrate-makers' capex plans</li>\n<li>Any qualified alternative dielectric</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAjinomoto is best known for seasonings, but its electronic-materials business supplies Ajinomoto Build-up Film, the dielectric used in flip-chip ball-grid-array substrates for CPUs, GPUs and networking chips. Very few materials combine fine-pitch fill, low thermal expansion and reliability at the layer counts now demanded, which has kept the film a reference choice as substrate bodies grow larger and denser. Substrate capacity additions at Ibiden, Unimicron, Samsung Electro-Mechanics and their peers convert directly into ABF volume.\n\n## Technology Exposure\n\n- ABF build-up film for FC-BGA substrates\n- Fine chemicals and amino-acid derivatives\n- Seasonings and frozen foods as a cash-generative base\n\n## What To Watch\n\n- ABF film capacity additions and qualification\n- Substrate-makers' capex plans\n- Any qualified alternative dielectric\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Ajinomoto",
+    "symbol": "2802.T",
+    "exchange": "TSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "2802.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Substrate supply gates advanced processor shipments; qualifying a second dielectric source takes years, so buyers treat film availability as a strategic risk.",
+  "investmentLens": "A high-margin electronic-materials niche inside a food company; the electronic-materials segment margin matters more than group revenue."
+}

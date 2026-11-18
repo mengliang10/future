@@ -1,0 +1,29 @@
+{
+  "id": "gerresheimer.de",
+  "title": "Gerresheimer",
+  "summary": "German maker of glass and plastic packaging and delivery devices for drugs.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/gerresheimer.de.md",
+  "sourceHash": "0f306832742e5a5c308a76cc86b9fb0172ef64460b01431c125dd1f9dda1dc3a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Gerresheimer supplies vials, syringes, inhalers and injection devices to pharma and biotech, with a growing focus on high-value delivery systems for biologics and GLP-1 therapies. It has been expanding moulded-glass and device capacity. Energy costs and customer concentration affect margins.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Moulded and tubular glass packaging</li>\n<li>Injection and inhalation devices</li>\n<li>Medical plastic systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>GLP-1 device demand</li>\n<li>Energy costs</li>\n<li>Capacity utilisation</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nGerresheimer supplies vials, syringes, inhalers and injection devices to pharma and biotech, with a growing focus on high-value delivery systems for biologics and GLP-1 therapies. It has been expanding moulded-glass and device capacity. Energy costs and customer concentration affect margins.\n\n## Technology Exposure\n\n- Moulded and tubular glass packaging\n- Injection and inhalation devices\n- Medical plastic systems\n\n## What To Watch\n\n- GLP-1 device demand\n- Energy costs\n- Capacity utilisation\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Gerresheimer",
+    "symbol": "GXI.DE",
+    "exchange": "Frankfurt",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "GXI.DE",
+  "exchange": "Frankfurt",
+  "private": false,
+  "businessMeaning": "Device and packaging co-development locks in revenue for the life of a drug.",
+  "investmentLens": "A packaging and device supplier with obesity leverage; watch contract wins."
+}

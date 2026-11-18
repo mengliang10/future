@@ -1,0 +1,29 @@
+{
+  "id": "technoprobe.it",
+  "title": "Technoprobe",
+  "summary": "Italian maker of advanced probe cards for semiconductor test.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/technoprobe.it.md",
+  "sourceHash": "9f348aecfe8efacc24fa28df460bd413f38a97ea51c2e34f90967cca24f6a4fb",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Technoprobe designs and builds probe cards for wafer-level and final test, with a focus on high-pin-count, fine-pitch applications such as processors and advanced packaging. It has been expanding into MEMS probes and testing for chiplets. Customer concentration among large chipmakers is significant.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Probe cards for wafer test</li>\n<li>MEMS probe technology</li>\n<li>Advanced packaging test</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Leading-edge chip test demand</li>\n<li>Customer concentration</li>\n<li>Capacity expansion</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTechnoprobe designs and builds probe cards for wafer-level and final test, with a focus on high-pin-count, fine-pitch applications such as processors and advanced packaging. It has been expanding into MEMS probes and testing for chiplets. Customer concentration among large chipmakers is significant.\n\n## Technology Exposure\n\n- Probe cards for wafer test\n- MEMS probe technology\n- Advanced packaging test\n\n## What To Watch\n\n- Leading-edge chip test demand\n- Customer concentration\n- Capacity expansion\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Technoprobe",
+    "symbol": "TPRO.MI",
+    "exchange": "Milan",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "TPRO.MI",
+  "exchange": "Milan",
+  "private": false,
+  "businessMeaning": "Probe cards are consumables that wear out, so test volume creates recurring revenue.",
+  "investmentLens": "A focused test supplier; watch leading-edge programme wins."
+}

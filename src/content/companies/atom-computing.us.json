@@ -1,0 +1,29 @@
+{
+  "id": "atom-computing.us",
+  "title": "Atom Computing",
+  "summary": "US neutral-atom quantum-computing developer using strontium atom arrays.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/atom-computing.us.md",
+  "sourceHash": "2a507f04523462b6b461af76e15b3d4d39978cc65240a77ec2c1843e98b30de2",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Atom Computing builds neutral-atom quantum computers with large arrays of strontium atoms addressed by lasers. Its approach targets scale through atom-array size and reconfigurable connectivity, and the company has demonstrated arrays of hundreds of atoms. Error correction and system reliability remain the development focus.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Neutral-atom quantum processors</li>\n<li>Laser and optical control systems</li>\n<li>Atom-array technology</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Error-correction demonstrations</li>\n<li>Array scaling</li>\n<li>Commercial access agreements</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAtom Computing builds neutral-atom quantum computers with large arrays of strontium atoms addressed by lasers. Its approach targets scale through atom-array size and reconfigurable connectivity, and the company has demonstrated arrays of hundreds of atoms. Error correction and system reliability remain the development focus.\n\n## Technology Exposure\n\n- Neutral-atom quantum processors\n- Laser and optical control systems\n- Atom-array technology\n\n## What To Watch\n\n- Error-correction demonstrations\n- Array scaling\n- Commercial access agreements\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Atom Computing",
+    "symbol": "ATOM-COMPUTING.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ATOM-COMPUTING.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Large atom arrays are easier to build than large superconducting chips, but readout is harder.",
+  "investmentLens": "Private; a scaling-oriented neutral-atom platform."
+}

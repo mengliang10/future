@@ -1,0 +1,29 @@
+{
+  "id": "commonwealth-fusion.us",
+  "title": "Commonwealth Fusion Systems",
+  "summary": "US fusion company using high-temperature superconducting magnets.",
+  "sector": "energy",
+  "sourceCategory": "Fusion",
+  "sourcePath": "_stocks/commonwealth-fusion.us.md",
+  "sourceHash": "399e8974e87965b754c6214fe59b07fe8b55fd9de516c5a3f1f75b19d29e73eb",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Commonwealth Fusion Systems is building the SPARC tokamak to demonstrate net energy gain using high-temperature superconducting magnets, with a planned ARC power plant. It has raised large private rounds and partners with MIT. Magnet performance and plasma physics are the key risks.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Tokamak fusion development</li>\n<li>High-temperature superconducting magnets</li>\n<li>Power-plant design</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>SPARC net-energy demonstration</li>\n<li>ARC financing</li>\n<li>Magnet manufacturing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nCommonwealth Fusion Systems is building the SPARC tokamak to demonstrate net energy gain using high-temperature superconducting magnets, with a planned ARC power plant. It has raised large private rounds and partners with MIT. Magnet performance and plasma physics are the key risks.\n\n## Technology Exposure\n\n- Tokamak fusion development\n- High-temperature superconducting magnets\n- Power-plant design\n\n## What To Watch\n\n- SPARC net-energy demonstration\n- ARC financing\n- Magnet manufacturing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Commonwealth Fusion Systems",
+    "symbol": "CFS.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Fusion"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "CFS.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "HTS magnets are the enabling technology that made compact tokamaks plausible.",
+  "investmentLens": "Private; the best-funded private fusion venture."
+}

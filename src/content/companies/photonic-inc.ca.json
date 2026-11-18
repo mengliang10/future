@@ -1,0 +1,29 @@
+{
+  "id": "photonic-inc.ca",
+  "title": "Photonic",
+  "summary": "Canadian company building silicon-photonic quantum computers and networking.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/photonic-inc.ca.md",
+  "sourceHash": "0a90be7f4c096737ab77ae1cce755cb1df507dd8e90d0353b1f60dd8776c3437",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Photonic develops silicon-based photonic quantum processors and quantum interconnects, aiming to combine telecom-band photonics with spin qubits in silicon. The platform leverages existing semiconductor manufacturing, which could make scaling cheaper than bespoke cryogenic hardware. The company is also working on quantum networking for distributed systems.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Silicon-photonic quantum processors</li>\n<li>Quantum interconnects and networking</li>\n<li>Spin-photon interfaces</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Manufacturability in silicon fabs</li>\n<li>Entanglement and networking demonstrations</li>\n<li>Funding</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPhotonic develops silicon-based photonic quantum processors and quantum interconnects, aiming to combine telecom-band photonics with spin qubits in silicon. The platform leverages existing semiconductor manufacturing, which could make scaling cheaper than bespoke cryogenic hardware. The company is also working on quantum networking for distributed systems.\n\n## Technology Exposure\n\n- Silicon-photonic quantum processors\n- Quantum interconnects and networking\n- Spin-photon interfaces\n\n## What To Watch\n\n- Manufacturability in silicon fabs\n- Entanglement and networking demonstrations\n- Funding\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Photonic",
+    "symbol": "PHOTONIC.CA",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "PHOTONIC.CA",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Reusing CMOS photonics is the only credible path to quantum hardware at semiconductor volumes.",
+  "investmentLens": "Private; a manufacturing-oriented photonic platform."
+}

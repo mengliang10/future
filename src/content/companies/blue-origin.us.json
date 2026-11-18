@@ -1,0 +1,29 @@
+{
+  "id": "blue-origin.us",
+  "title": "Blue Origin",
+  "summary": "US launch and space-systems company developing New Glenn and lunar landers.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/blue-origin.us.md",
+  "sourceHash": "722ccd716f8ee3cd5de8f67da7e9de823abeec0eb9849cdb898be5dcad65f1a3",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Blue Origin builds the New Glenn heavy-lift rocket, BE-4 engines, New Shepard suborbital vehicle and lunar-landing systems. It supplies BE-4 engines to United Launch Alliance as well as using them internally, making it both a competitor and a supplier to other launch providers. The company is also developing orbital infrastructure and commercial space-station concepts.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>New Glenn launch vehicle</li>\n<li>BE-4 and BE-7 engines</li>\n<li>Lunar landers and space systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>New Glenn cadence</li>\n<li>BE-4 engine deliveries</li>\n<li>Lunar programme milestones</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nBlue Origin builds the New Glenn heavy-lift rocket, BE-4 engines, New Shepard suborbital vehicle and lunar-landing systems. It supplies BE-4 engines to United Launch Alliance as well as using them internally, making it both a competitor and a supplier to other launch providers. The company is also developing orbital infrastructure and commercial space-station concepts.\n\n## Technology Exposure\n\n- New Glenn launch vehicle\n- BE-4 and BE-7 engines\n- Lunar landers and space systems\n\n## What To Watch\n\n- New Glenn cadence\n- BE-4 engine deliveries\n- Lunar programme milestones\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Blue Origin",
+    "symbol": "BLUE-ORIGIN.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "BLUE-ORIGIN.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Engine supply to a rival launch provider makes Blue Origin a chokepoint in US launch capacity.",
+  "investmentLens": "Private; a vertically integrated launch and systems company."
+}

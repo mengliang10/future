@@ -1,0 +1,29 @@
+{
+  "id": "lmt.us",
+  "title": "Lockheed Martin",
+  "summary": "US defence prime with major space, missile and satellite businesses.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/lmt.us.md",
+  "sourceHash": "23f0b51ed28cda0a5ac85edfc5e60fc122c24fd84e5942d89cd3d7c46419c9d0",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Lockheed Martin builds satellites, missile systems, aircraft and space sensors, and co-owns United Launch Alliance with Boeing. Its space business spans national-security satellites, hypersonic tracking and Orion crew systems. Defence budgets and programme execution dominate results.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>National-security satellites and sensors</li>\n<li>Missile and missile-defence systems</li>\n<li>Orion and space exploration systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Defence budget and continuing resolutions</li>\n<li>Satellite programme execution</li>\n<li>ULA ownership transition</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLockheed Martin builds satellites, missile systems, aircraft and space sensors, and co-owns United Launch Alliance with Boeing. Its space business spans national-security satellites, hypersonic tracking and Orion crew systems. Defence budgets and programme execution dominate results.\n\n## Technology Exposure\n\n- National-security satellites and sensors\n- Missile and missile-defence systems\n- Orion and space exploration systems\n\n## What To Watch\n\n- Defence budget and continuing resolutions\n- Satellite programme execution\n- ULA ownership transition\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Lockheed Martin",
+    "symbol": "LMT",
+    "exchange": "NYSE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "LMT",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "National-security space is procured for capability and resilience, not lowest cost.",
+  "investmentLens": "A defence prime with space exposure; watch programme margins and budget cycles."
+}

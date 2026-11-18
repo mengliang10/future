@@ -1,0 +1,29 @@
+{
+  "id": "lonza.ch",
+  "title": "Lonza",
+  "summary": "Swiss contract manufacturer of biologics and small molecules.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/lonza.ch.md",
+  "sourceHash": "543f748df64baccec98fe01169d94ac665f1eb775d483ef1fc1faea0ed630b24",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Lonza provides contract development and manufacturing for biologics, cell and gene therapies, and small molecules. It operates mammalian-cell and microbial facilities worldwide, and its capsules and nutrition business supplies the pharmaceutical and consumer industries. Utilization of large-scale biologic capacity drives margins.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Biologics contract manufacturing</li>\n<li>Cell and gene therapy manufacturing</li>\n<li>Capsules and specialty ingredients</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Capacity utilisation</li>\n<li>CDMO competition from Samsung Biologics and WuXi</li>\n<li>Capex and debt</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLonza provides contract development and manufacturing for biologics, cell and gene therapies, and small molecules. It operates mammalian-cell and microbial facilities worldwide, and its capsules and nutrition business supplies the pharmaceutical and consumer industries. Utilization of large-scale biologic capacity drives margins.\n\n## Technology Exposure\n\n- Biologics contract manufacturing\n- Cell and gene therapy manufacturing\n- Capsules and specialty ingredients\n\n## What To Watch\n\n- Capacity utilisation\n- CDMO competition from Samsung Biologics and WuXi\n- Capex and debt\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Lonza",
+    "symbol": "LONN.SW",
+    "exchange": "SIX",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "LONN.SW",
+  "exchange": "SIX",
+  "private": false,
+  "businessMeaning": "Outsourcing lets biotech avoid building plants; capacity and quality determine who wins the contract.",
+  "investmentLens": "A CDMO leader facing new competition; watch utilisation and contract wins."
+}

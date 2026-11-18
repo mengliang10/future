@@ -1,0 +1,29 @@
+{
+  "id": "viasat.us",
+  "title": "Viasat",
+  "summary": "Satellite communications operator and defence-network supplier.",
+  "sector": "communication-services",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/viasat.us.md",
+  "sourceHash": "d9349a9c5129d3a8afb868a6bfc3f9351aaf7e188bfe12be0d9c8fc5a24a29bd",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Viasat provides satellite broadband, in-flight connectivity and secure government communications, and acquired Inmarsat to expand its global network. The business carries high capital intensity and integration risk, while aviation and defence demand provide growth. Competition from LEO constellations is intensifying.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Satellite broadband</li>\n<li>In-flight and maritime connectivity</li>\n<li>Government and defence networks</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Aviation connectivity growth</li>\n<li>Inmarsat integration and leverage</li>\n<li>LEO competition</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nViasat provides satellite broadband, in-flight connectivity and secure government communications, and acquired Inmarsat to expand its global network. The business carries high capital intensity and integration risk, while aviation and defence demand provide growth. Competition from LEO constellations is intensifying.\n\n## Technology Exposure\n\n- Satellite broadband\n- In-flight and maritime connectivity\n- Government and defence networks\n\n## What To Watch\n\n- Aviation connectivity growth\n- Inmarsat integration and leverage\n- LEO competition\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Viasat",
+    "symbol": "VSAT",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "VSAT",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Geostationary capacity is expensive per bit; utilisation and contract mix decide returns.",
+  "investmentLens": "A leveraged satellite operator; watch integration and free cash flow."
+}

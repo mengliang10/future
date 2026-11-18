@@ -1,0 +1,29 @@
+{
+  "id": "paladin.au",
+  "title": "Paladin Energy",
+  "summary": "Australian uranium producer restarting the Langer Heinrich mine.",
+  "sector": "energy",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/paladin.au.md",
+  "sourceHash": "3e59de51d9ecb65129d41d43c77b844deab7f9d83acfd67335dd630e07370f19",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Paladin Energy restarted uranium production at Langer Heinrich in Namibia and holds development assets in Canada and Australia. It sells concentrate to utilities under long-term contracts, and its economics depend on realised prices and ramp-up. Namibian operations carry country and water risks.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Uranium mining and concentrate</li>\n<li>Restart and expansion projects</li>\n<li>Utility sales contracts</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Production ramp</li>\n<li>Uranium prices</li>\n<li>Namibian operating conditions</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPaladin Energy restarted uranium production at Langer Heinrich in Namibia and holds development assets in Canada and Australia. It sells concentrate to utilities under long-term contracts, and its economics depend on realised prices and ramp-up. Namibian operations carry country and water risks.\n\n## Technology Exposure\n\n- Uranium mining and concentrate\n- Restart and expansion projects\n- Utility sales contracts\n\n## What To Watch\n\n- Production ramp\n- Uranium prices\n- Namibian operating conditions\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Paladin Energy",
+    "symbol": "PDN.AX",
+    "exchange": "ASX",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "PDN.AX",
+  "exchange": "ASX",
+  "private": false,
+  "businessMeaning": "Restarting a mine is cheaper than building one, but ramp-up rarely goes to plan.",
+  "investmentLens": "A uranium producer with operational risk; watch output."
+}

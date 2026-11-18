@@ -1,0 +1,29 @@
+{
+  "id": "type-one-energy.us",
+  "title": "Type One Energy",
+  "summary": "US fusion company developing stellarator reactors.",
+  "sector": "energy",
+  "sourceCategory": "Fusion",
+  "sourcePath": "_stocks/type-one-energy.us.md",
+  "sourceHash": "8414f7392957e7c2520474584efb2725fcbf0d51d6529135f3e77a0dcc9710e7",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Type One Energy designs stellarators, a fusion configuration that uses complex twisted magnets to confine plasma steadily. It is working with utilities on siting and has government support. Stellarator construction is difficult, but steady-state operation is attractive.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Stellarator fusion reactors</li>\n<li>Magnet design</li>\n<li>Utility partnerships</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Magnet fabrication</li>\n<li>Demonstration schedule</li>\n<li>Funding</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nType One Energy designs stellarators, a fusion configuration that uses complex twisted magnets to confine plasma steadily. It is working with utilities on siting and has government support. Stellarator construction is difficult, but steady-state operation is attractive.\n\n## Technology Exposure\n\n- Stellarator fusion reactors\n- Magnet design\n- Utility partnerships\n\n## What To Watch\n\n- Magnet fabrication\n- Demonstration schedule\n- Funding\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Type One Energy",
+    "symbol": "TYPE-ONE.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Fusion"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "TYPE-ONE.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Stellarators trade plasma instability for manufacturing complexity.",
+  "investmentLens": "Private; a stellarator fusion developer."
+}

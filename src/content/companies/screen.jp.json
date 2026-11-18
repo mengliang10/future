@@ -1,0 +1,29 @@
+{
+  "id": "screen.jp",
+  "title": "SCREEN Holdings",
+  "summary": "Japanese supplier of wafer-cleaning and coating/developing equipment.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/screen.jp.md",
+  "sourceHash": "2fb946058dd102579199c8092dae69dbae171d15fe356e457ea5d48a8ba04974",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>SCREEN Holdings makes batch and single-wafer cleaning tools and coat/develop tracks that apply and develop photoresist. Cleaning steps multiply at advanced nodes, and its tracks are paired with leading-edge scanners. The company also has graphic-arts and display equipment businesses.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Single-wafer and batch cleaning</li>\n<li>Coat and develop tracks</li>\n<li>Display and graphic-arts equipment</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Cleaning intensity per node</li>\n<li>Leading-edge fab capex</li>\n<li>Display equipment demand</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSCREEN Holdings makes batch and single-wafer cleaning tools and coat/develop tracks that apply and develop photoresist. Cleaning steps multiply at advanced nodes, and its tracks are paired with leading-edge scanners. The company also has graphic-arts and display equipment businesses.\n\n## Technology Exposure\n\n- Single-wafer and batch cleaning\n- Coat and develop tracks\n- Display and graphic-arts equipment\n\n## What To Watch\n\n- Cleaning intensity per node\n- Leading-edge fab capex\n- Display equipment demand\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "SCREEN Holdings",
+    "symbol": "7735.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "7735.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "More process steps mean more cleans; cleaning is a recurring equipment and chemistry market.",
+  "investmentLens": "A quality equipment supplier; watch cleaning-tool share."
+}

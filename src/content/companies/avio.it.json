@@ -1,0 +1,29 @@
+{
+  "id": "avio.it",
+  "title": "Avio",
+  "summary": "Italian propulsion and launch company building Vega and Ariane 6 boosters.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/avio.it.md",
+  "sourceHash": "f984080a3c9c26f2872af4b9d2af1003baf8d3363f3a8f5306126b31446059cb",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Avio produces solid rocket motors, liquid propulsion and the Vega launch vehicle, and supplies boosters and stages to Ariane 6. Its solid-propulsion expertise is also relevant to defence applications. Revenue depends on European institutional launch programmes and their cadence.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Vega launch vehicle</li>\n<li>Solid rocket motors and boosters</li>\n<li>Liquid propulsion and tactical systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Ariane 6 and Vega cadence</li>\n<li>European Space Agency funding</li>\n<li>Defence propulsion demand</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAvio produces solid rocket motors, liquid propulsion and the Vega launch vehicle, and supplies boosters and stages to Ariane 6. Its solid-propulsion expertise is also relevant to defence applications. Revenue depends on European institutional launch programmes and their cadence.\n\n## Technology Exposure\n\n- Vega launch vehicle\n- Solid rocket motors and boosters\n- Liquid propulsion and tactical systems\n\n## What To Watch\n\n- Ariane 6 and Vega cadence\n- European Space Agency funding\n- Defence propulsion demand\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Avio",
+    "symbol": "AVIO.MI",
+    "exchange": "Milan",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "AVIO.MI",
+  "exchange": "Milan",
+  "private": false,
+  "businessMeaning": "Solid motors are a strategic capability with few European suppliers.",
+  "investmentLens": "A listed European launch supplier; watch programme funding and cadence."
+}

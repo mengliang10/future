@@ -1,0 +1,29 @@
+{
+  "id": "aixtron.de",
+  "title": "AIXTRON",
+  "summary": "German maker of metal-organic chemical vapour deposition tools for compound semiconductors.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/aixtron.de.md",
+  "sourceHash": "2678a1d7ff42c217cb86f672a52fe500ed74714de190849b3cfc42952a218529",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>AIXTRON builds MOCVD and deposition equipment used to make compound semiconductors such as gallium nitride, silicon carbide and microLEDs. Its tools are central to power electronics, RF devices and display manufacturing. Order intake is lumpy and tied to a few large capacity programmes.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>MOCVD and deposition equipment</li>\n<li>Power and RF compound-semiconductor tools</li>\n<li>MicroLED and display equipment</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>SiC and GaN capacity additions</li>\n<li>MicroLED adoption</li>\n<li>Order timing and concentration</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAIXTRON builds MOCVD and deposition equipment used to make compound semiconductors such as gallium nitride, silicon carbide and microLEDs. Its tools are central to power electronics, RF devices and display manufacturing. Order intake is lumpy and tied to a few large capacity programmes.\n\n## Technology Exposure\n\n- MOCVD and deposition equipment\n- Power and RF compound-semiconductor tools\n- MicroLED and display equipment\n\n## What To Watch\n\n- SiC and GaN capacity additions\n- MicroLED adoption\n- Order timing and concentration\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "AIXTRON",
+    "symbol": "AIXA.DE",
+    "exchange": "Frankfurt",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "AIXA.DE",
+  "exchange": "Frankfurt",
+  "private": false,
+  "businessMeaning": "Compound semiconductors need different deposition chemistry; tool leaders hold process knowledge.",
+  "investmentLens": "A focused deposition-equipment supplier; watch SiC and GaN orders."
+}

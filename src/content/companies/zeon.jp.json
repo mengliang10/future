@@ -1,0 +1,29 @@
+{
+  "id": "zeon.jp",
+  "title": "Zeon",
+  "summary": "Japanese specialty-polymer maker supplying battery binders, resins and optical films.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/zeon.jp.md",
+  "sourceHash": "059cc874b1b1320e6f716b301ccc718f03ed4138783ae52d5f1678f039b0b6b8",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Zeon produces specialty elastomers, battery binders, cyclo-olefin polymers and optical films. Its binders and dispersants are used in battery electrodes, while its transparent polymers serve displays and medical devices. The company has been expanding battery-materials capacity outside Japan.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Battery binders and dispersants</li>\n<li>Cyclo-olefin polymers and optical films</li>\n<li>Synthetic rubber and specialty elastomers</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Battery-binder demand</li>\n<li>Optical-film pricing</li>\n<li>Raw-material costs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nZeon produces specialty elastomers, battery binders, cyclo-olefin polymers and optical films. Its binders and dispersants are used in battery electrodes, while its transparent polymers serve displays and medical devices. The company has been expanding battery-materials capacity outside Japan.\n\n## Technology Exposure\n\n- Battery binders and dispersants\n- Cyclo-olefin polymers and optical films\n- Synthetic rubber and specialty elastomers\n\n## What To Watch\n\n- Battery-binder demand\n- Optical-film pricing\n- Raw-material costs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Zeon",
+    "symbol": "4205.T",
+    "exchange": "TSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "4205.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "A binder is a tiny fraction of cell cost but determines cycle life and safety.",
+  "investmentLens": "A niche polymer supplier with battery upside; watch capacity additions."
+}

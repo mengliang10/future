@@ -1,0 +1,29 @@
+{
+  "id": "mrk.us",
+  "title": "Merck & Co.",
+  "summary": "US pharmaceutical group built around the Keytruda oncology franchise.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/mrk.us.md",
+  "sourceHash": "bce75abe27fe02614ea97d001b3b8a2f7ad9523fea2ad1f1b6955276cab3e0e8",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Merck sells oncology, vaccine, animal-health and hospital products, with Keytruda as the largest revenue contributor. The company is preparing for Keytruda's patent expiry by developing subcutaneous formulations and combination therapies, and it has been acquiring pipeline assets. Vaccine demand and litigation add variability.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Oncology and immuno-oncology</li>\n<li>Vaccines including HPV and pneumococcal</li>\n<li>Animal health and hospital products</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Keytruda patent cliff and subcutaneous launch</li>\n<li>Pipeline and acquisition returns</li>\n<li>Vaccine demand</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMerck sells oncology, vaccine, animal-health and hospital products, with Keytruda as the largest revenue contributor. The company is preparing for Keytruda's patent expiry by developing subcutaneous formulations and combination therapies, and it has been acquiring pipeline assets. Vaccine demand and litigation add variability.\n\n## Technology Exposure\n\n- Oncology and immuno-oncology\n- Vaccines including HPV and pneumococcal\n- Animal health and hospital products\n\n## What To Watch\n\n- Keytruda patent cliff and subcutaneous launch\n- Pipeline and acquisition returns\n- Vaccine demand\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Merck & Co.",
+    "symbol": "MRK",
+    "exchange": "NYSE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "MRK",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Concentration in one drug is a strategic vulnerability even when the drug is excellent.",
+  "investmentLens": "A quality franchise facing a known cliff; watch pipeline replenishment."
+}

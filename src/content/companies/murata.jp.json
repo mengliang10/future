@@ -1,0 +1,29 @@
+{
+  "id": "murata.jp",
+  "title": "Murata Manufacturing",
+  "summary": "The largest maker of multilayer ceramic capacitors and RF components.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/murata.jp.md",
+  "sourceHash": "ffeafddbcf15584ff2c7619eebe7ef8c56232557311e94416c47f81bfb391c37",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Murata dominates the multilayer ceramic capacitor market and supplies RF filters, modules and sensors for handsets, vehicles and data centres. MLCCs are the invisible passives that stabilise power delivery in every advanced package, and AI servers use far more of them per board. The company's ceramic and materials expertise underpins its cost and miniaturisation lead.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Multilayer ceramic capacitors</li>\n<li>RF filters and front-end modules</li>\n<li>Sensors and battery materials</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>AI-server MLCC content</li>\n<li>Handset and automotive demand</li>\n<li>Capacity utilisation and pricing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMurata dominates the multilayer ceramic capacitor market and supplies RF filters, modules and sensors for handsets, vehicles and data centres. MLCCs are the invisible passives that stabilise power delivery in every advanced package, and AI servers use far more of them per board. The company's ceramic and materials expertise underpins its cost and miniaturisation lead.\n\n## Technology Exposure\n\n- Multilayer ceramic capacitors\n- RF filters and front-end modules\n- Sensors and battery materials\n\n## What To Watch\n\n- AI-server MLCC content\n- Handset and automotive demand\n- Capacity utilisation and pricing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Murata Manufacturing",
+    "symbol": "6981.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6981.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Power delivery for AI accelerators needs many more capacitors; content grows faster than unit volumes.",
+  "investmentLens": "A high-quality passive leader with AI content growth; watch MLCC utilisation."
+}

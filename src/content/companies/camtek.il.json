@@ -1,0 +1,29 @@
+{
+  "id": "camtek.il",
+  "title": "Camtek",
+  "summary": "Israeli maker of inspection and metrology systems for advanced packaging.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/camtek.il.md",
+  "sourceHash": "acbacca87cf2bda47ecb0ca7375de2dfbd1660880bcd2911503bf75b4d342881",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Camtek supplies optical inspection and metrology tools for semiconductor packaging, including bump, TSV and panel-level inspection. Its systems are used to catch defects before die stacking and bonding, where rework is impossible. Advanced packaging and HBM capacity are its main growth drivers.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Advanced-packaging inspection</li>\n<li>Bump and TSV metrology</li>\n<li>Panel-level inspection</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>HBM and advanced-packaging capex</li>\n<li>Panel-level adoption</li>\n<li>Competition from larger inspection vendors</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nCamtek supplies optical inspection and metrology tools for semiconductor packaging, including bump, TSV and panel-level inspection. Its systems are used to catch defects before die stacking and bonding, where rework is impossible. Advanced packaging and HBM capacity are its main growth drivers.\n\n## Technology Exposure\n\n- Advanced-packaging inspection\n- Bump and TSV metrology\n- Panel-level inspection\n\n## What To Watch\n\n- HBM and advanced-packaging capex\n- Panel-level adoption\n- Competition from larger inspection vendors\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Camtek",
+    "symbol": "CAMT",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "CAMT",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Stacked-die packages cannot be reworked easily, so inspection moves earlier and grows in value.",
+  "investmentLens": "A focused packaging-inspection play; watch HBM-related orders."
+}

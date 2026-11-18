@@ -32,7 +32,9 @@
   "estimateYear": 2025,
   "sourceCount": 9,
   "companies": [
-    "tsla"
+    "tsla",
+    "samsung-sdi.kr",
+    "johnson-matthey.uk"
   ],
   "businessMeaning": "",
   "investmentLens": ""

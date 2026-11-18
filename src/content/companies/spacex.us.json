@@ -1,0 +1,29 @@
+{
+  "id": "spacex.us",
+  "title": "SpaceX",
+  "summary": "Operator of Falcon 9, Falcon Heavy and Starship, and the anchor customer for much of the launch supply chain.",
+  "sector": "industrials",
+  "sourceCategory": "Space Tech",
+  "sourcePath": "_stocks/spacex.us.md",
+  "sourceHash": "bf496c41fad12d3331983b77a76048829b9d65d67fe4cc74cc32223de90140f0",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>SpaceX designs and builds Falcon 9, Falcon Heavy and Starship, and operates the Starlink constellation. Its vertical integration is unusual: engines, avionics, structures and much of the ground equipment are made in-house, so external suppliers are concentrated in materials, components and machine tools. Starship's stainless-steel architecture and rapid reflight cadence are reshaping demand for cryogenic materials and propulsion test infrastructure.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Falcon 9 and Falcon Heavy launch services</li>\n<li>Starship heavy-lift development</li>\n<li>Starlink satellite broadband</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Starship flight-test cadence</li>\n<li>Starlink subscriber growth and capex</li>\n<li>Launch pricing and competition</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSpaceX designs and builds Falcon 9, Falcon Heavy and Starship, and operates the Starlink constellation. Its vertical integration is unusual: engines, avionics, structures and much of the ground equipment are made in-house, so external suppliers are concentrated in materials, components and machine tools. Starship's stainless-steel architecture and rapid reflight cadence are reshaping demand for cryogenic materials and propulsion test infrastructure.\n\n## Technology Exposure\n\n- Falcon 9 and Falcon Heavy launch services\n- Starship heavy-lift development\n- Starlink satellite broadband\n\n## What To Watch\n\n- Starship flight-test cadence\n- Starlink subscriber growth and capex\n- Launch pricing and competition\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "SpaceX",
+    "symbol": "SPACEX.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Space Tech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SPACEX.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Reusability turns launch from a manufacturing business into an operations business, changing supplier demand.",
+  "investmentLens": "Private; the most important single buyer in the launch supply chain."
+}

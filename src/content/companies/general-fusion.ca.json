@@ -1,0 +1,29 @@
+{
+  "id": "general-fusion.ca",
+  "title": "General Fusion",
+  "summary": "Canadian fusion company using magnetised target compression.",
+  "sector": "energy",
+  "sourceCategory": "Fusion",
+  "sourcePath": "_stocks/general-fusion.ca.md",
+  "sourceHash": "746f53c6a24c7c15b41c5d10e407750b9644e72eb23b52aac0629f51a57e5b61",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>General Fusion is developing a magnetised-target fusion approach that compresses plasma with liquid-metal pistons, and has built a demonstration facility in the UK. The design avoids solid first walls and uses liquid metal for heat extraction. Technical validation and funding are the risks.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Magnetised-target fusion</li>\n<li>Liquid-metal components</li>\n<li>Demonstration facility</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Plasma compression results</li>\n<li>Funding</li>\n<li>Plant design</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nGeneral Fusion is developing a magnetised-target fusion approach that compresses plasma with liquid-metal pistons, and has built a demonstration facility in the UK. The design avoids solid first walls and uses liquid metal for heat extraction. Technical validation and funding are the risks.\n\n## Technology Exposure\n\n- Magnetised-target fusion\n- Liquid-metal components\n- Demonstration facility\n\n## What To Watch\n\n- Plasma compression results\n- Funding\n- Plant design\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "General Fusion",
+    "symbol": "GENERAL-FUSION.CA",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Fusion"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "GENERAL-FUSION.CA",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Mechanical compression is a different bet from magnetic confinement or laser ignition.",
+  "investmentLens": "Private; an early-stage fusion approach."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "enf-tech.kr",
+  "title": "ENF Technology",
+  "summary": "Korean supplier of photoresist ancillaries and high-purity process chemicals.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/enf-tech.kr.md",
+  "sourceHash": "4d4f7a2ba6feca30f382c33e365140c191a29bc795211c9c213a98859f1451f8",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>ENF Technology produces developers, thinners, etchants and cleaning chemicals used alongside photoresists in semiconductor and display fabs. These ancillary materials scale with lithography steps and are qualified together with the resist, giving incumbents an advantage. The customer base is Korean and concentrated.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Photoresist developers and thinners</li>\n<li>Etchants and cleaning chemicals</li>\n<li>Display process materials</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Lithography intensity per node</li>\n<li>Korean fab utilisation</li>\n<li>Raw-material costs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nENF Technology produces developers, thinners, etchants and cleaning chemicals used alongside photoresists in semiconductor and display fabs. These ancillary materials scale with lithography steps and are qualified together with the resist, giving incumbents an advantage. The customer base is Korean and concentrated.\n\n## Technology Exposure\n\n- Photoresist developers and thinners\n- Etchants and cleaning chemicals\n- Display process materials\n\n## What To Watch\n\n- Lithography intensity per node\n- Korean fab utilisation\n- Raw-material costs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ENF Technology",
+    "symbol": "102710.KQ",
+    "exchange": "KRX",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "102710.KQ",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Ancillary chemistry is small in value but stops the line if it is missing.",
+  "investmentLens": "A niche materials supplier with lithography leverage; watch customer capex."
+}

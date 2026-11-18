@@ -29,7 +29,18 @@
   "estimate": "2034\u20132041",
   "estimateYear": 2036,
   "sourceCount": 20,
-  "companies": [],
+  "companies": [
+    "mirion.us",
+    "kazatomprom.kz",
+    "uranium-energy.us",
+    "centrus.us",
+    "nexgen.ca",
+    "denison.ca",
+    "paladin.au",
+    "framatome.fr",
+    "orano.fr",
+    "urenco.nl"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

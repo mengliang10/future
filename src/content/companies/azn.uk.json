@@ -1,0 +1,29 @@
+{
+  "id": "azn.uk",
+  "title": "AstraZeneca",
+  "summary": "Anglo-Swedish pharmaceutical group with oncology, respiratory and cardiovascular franchises.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/azn.uk.md",
+  "sourceHash": "538288a205ebd2ae65769226d17903d22cc563e98c92ee965378c8ae8547bc7f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>AstraZeneca sells oncology, respiratory, cardiovascular and rare-disease medicines, with a growing China business and a large pipeline of antibody-drug conjugates and bispecifics. It has expanded through acquisitions and partnerships, and its manufacturing footprint spans the UK, Europe, the US and Asia. China exposure and patent expiries are the main risks.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Oncology and antibody-drug conjugates</li>\n<li>Respiratory and cardiovascular medicines</li>\n<li>Rare disease and China operations</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>China revenue and policy</li>\n<li>Oncology pipeline readouts</li>\n<li>Patent expiries</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAstraZeneca sells oncology, respiratory, cardiovascular and rare-disease medicines, with a growing China business and a large pipeline of antibody-drug conjugates and bispecifics. It has expanded through acquisitions and partnerships, and its manufacturing footprint spans the UK, Europe, the US and Asia. China exposure and patent expiries are the main risks.\n\n## Technology Exposure\n\n- Oncology and antibody-drug conjugates\n- Respiratory and cardiovascular medicines\n- Rare disease and China operations\n\n## What To Watch\n\n- China revenue and policy\n- Oncology pipeline readouts\n- Patent expiries\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "AstraZeneca",
+    "symbol": "AZN",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "AZN",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Emerging-market revenue diversifies growth but adds policy and currency risk.",
+  "investmentLens": "A growth pharma with China leverage; watch pipeline and regional performance."
+}

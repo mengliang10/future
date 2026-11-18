@@ -1,0 +1,29 @@
+{
+  "id": "alice-bob.fr",
+  "title": "Alice & Bob",
+  "summary": "French startup developing cat-qubit superconducting processors.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/alice-bob.fr.md",
+  "sourceHash": "a00f35dde90346726061680dd9f5e06300ac6dfca6498807b8d7d543190244f8",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Alice &amp; Bob designs superconducting cat qubits that are intrinsically biased toward bit-flip protection, aiming to reduce error-correction overhead. The approach trades more complex hardware for simpler codes, and the company has published progress on cat-qubit lifetimes. It is one of several European quantum-hardware startups betting on a differentiated qubit modality.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Cat-qubit processors</li>\n<li>Quantum error-correction design</li>\n<li>Cryogenic hardware integration</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Cat-qubit fidelity and lifetime</li>\n<li>Error-correction overhead reduction</li>\n<li>Funding and partnerships</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAlice & Bob designs superconducting cat qubits that are intrinsically biased toward bit-flip protection, aiming to reduce error-correction overhead. The approach trades more complex hardware for simpler codes, and the company has published progress on cat-qubit lifetimes. It is one of several European quantum-hardware startups betting on a differentiated qubit modality.\n\n## Technology Exposure\n\n- Cat-qubit processors\n- Quantum error-correction design\n- Cryogenic hardware integration\n\n## What To Watch\n\n- Cat-qubit fidelity and lifetime\n- Error-correction overhead reduction\n- Funding and partnerships\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Alice & Bob",
+    "symbol": "ALICE-BOB.FR",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ALICE-BOB.FR",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "If hardware-level bias works, software error correction becomes dramatically cheaper.",
+  "investmentLens": "Private; a differentiated superconducting approach with technical risk."
+}

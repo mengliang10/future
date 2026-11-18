@@ -1,0 +1,29 @@
+{
+  "id": "oxford-instruments.uk",
+  "title": "Oxford Instruments",
+  "summary": "British supplier of cryogenic systems, superconducting magnets and scientific instruments.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/oxford-instruments.uk.md",
+  "sourceHash": "bd157392eeeea80542c35345545af13222b5852a2b4c22d7d662eb4c1146b284",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Oxford Instruments makes dilution refrigerators, superconducting magnets, X-ray and plasma systems for research and industry. Its cryogenics business supplies quantum-computing labs, and its magnets serve physics, medical and semiconductor applications. The company has a long record in low-temperature instrumentation.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Dilution refrigerators and cryostats</li>\n<li>Superconducting magnets</li>\n<li>Scientific and analytical instruments</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Quantum research funding</li>\n<li>Semiconductor and materials-analysis demand</li>\n<li>Order timing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nOxford Instruments makes dilution refrigerators, superconducting magnets, X-ray and plasma systems for research and industry. Its cryogenics business supplies quantum-computing labs, and its magnets serve physics, medical and semiconductor applications. The company has a long record in low-temperature instrumentation.\n\n## Technology Exposure\n\n- Dilution refrigerators and cryostats\n- Superconducting magnets\n- Scientific and analytical instruments\n\n## What To Watch\n\n- Quantum research funding\n- Semiconductor and materials-analysis demand\n- Order timing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Oxford Instruments",
+    "symbol": "OXIG.L",
+    "exchange": "London",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "OXIG.L",
+  "exchange": "London",
+  "private": false,
+  "businessMeaning": "Low-temperature instrumentation is a small, specialised market with few credible suppliers.",
+  "investmentLens": "A diversified instrumentation supplier with quantum exposure; watch cryogenics orders."
+}

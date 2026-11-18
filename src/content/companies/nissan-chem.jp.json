@@ -1,0 +1,29 @@
+{
+  "id": "nissan-chem.jp",
+  "title": "Nissan Chemical",
+  "summary": "Japanese chemical maker supplying resist underlayers, CMP materials and display chemicals.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/nissan-chem.jp.md",
+  "sourceHash": "8f608073a8fb6476504330082cc75f42ee7a9ce557944aebdbfd9a0389590c56",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Nissan Chemical produces anti-reflective coatings, resist underlayers, CMP slurries and specialty chemicals for semiconductor and display manufacturing. These materials are less visible than photoresists but sit in every advanced patterning flow, and qualification is sticky once established. Agrochemicals and pharmaceuticals add balance.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Anti-reflective coatings and resist underlayers</li>\n<li>CMP slurries and specialty chemicals</li>\n<li>Agrochemicals and pharmaceuticals</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Advanced patterning adoption</li>\n<li>Display materials demand</li>\n<li>Agrochemical pricing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNissan Chemical produces anti-reflective coatings, resist underlayers, CMP slurries and specialty chemicals for semiconductor and display manufacturing. These materials are less visible than photoresists but sit in every advanced patterning flow, and qualification is sticky once established. Agrochemicals and pharmaceuticals add balance.\n\n## Technology Exposure\n\n- Anti-reflective coatings and resist underlayers\n- CMP slurries and specialty chemicals\n- Agrochemicals and pharmaceuticals\n\n## What To Watch\n\n- Advanced patterning adoption\n- Display materials demand\n- Agrochemical pricing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Nissan Chemical",
+    "symbol": "4021.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "4021.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Underlayers and slurries are consumables that scale with layer count, not with wafer price.",
+  "investmentLens": "A quiet materials compounder; watch semiconductor-materials growth and margin."
+}

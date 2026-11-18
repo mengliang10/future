@@ -1,0 +1,29 @@
+{
+  "id": "sangamo.us",
+  "title": "Sangamo Therapeutics",
+  "summary": "US biotech developing zinc-finger gene therapies and genome editing.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/sangamo.us.md",
+  "sourceHash": "38775db271c1bd3bda549c044cf646fa68e6e6d96088fc818b8854f3946df25d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Sangamo develops gene therapies using zinc-finger nucleases and AAV delivery, with programmes in haemophilia, lysosomal storage disease and neurology. It licenses its editing technology to partners and has faced funding constraints. Clinical and partnership progress determines survival.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Zinc-finger gene editing</li>\n<li>AAV gene therapy</li>\n<li>Technology licensing</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Clinical trial funding</li>\n<li>Partner deals</li>\n<li>Cash runway</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSangamo develops gene therapies using zinc-finger nucleases and AAV delivery, with programmes in haemophilia, lysosomal storage disease and neurology. It licenses its editing technology to partners and has faced funding constraints. Clinical and partnership progress determines survival.\n\n## Technology Exposure\n\n- Zinc-finger gene editing\n- AAV gene therapy\n- Technology licensing\n\n## What To Watch\n\n- Clinical trial funding\n- Partner deals\n- Cash runway\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Sangamo Therapeutics",
+    "symbol": "SGMO",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SGMO",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Older editing platforms still have advantages in precision and size.",
+  "investmentLens": "A distressed platform with technology value; watch partnerships."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pva-tepla.de",
+  "title": "PVA TePla",
+  "summary": "German maker of vacuum furnaces, plasma systems and crystal-growing equipment.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/pva-tepla.de.md",
+  "sourceHash": "dfef0a083fe4f6f0b55ec3ad0026efeb860a720015725354385ab50e2f34ba43",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>PVA TePla builds vacuum furnaces, plasma treatment systems and crystal-growth equipment for semiconductor, industrial and medical customers. Its systems are used in silicon carbide crystal growth, wafer processing and materials analysis. The company benefits from compound-semiconductor capacity additions.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Crystal-growth furnaces</li>\n<li>Plasma and vacuum systems</li>\n<li>Metrology and analysis equipment</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>SiC capacity additions</li>\n<li>Industrial demand</li>\n<li>Order timing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPVA TePla builds vacuum furnaces, plasma treatment systems and crystal-growth equipment for semiconductor, industrial and medical customers. Its systems are used in silicon carbide crystal growth, wafer processing and materials analysis. The company benefits from compound-semiconductor capacity additions.\n\n## Technology Exposure\n\n- Crystal-growth furnaces\n- Plasma and vacuum systems\n- Metrology and analysis equipment\n\n## What To Watch\n\n- SiC capacity additions\n- Industrial demand\n- Order timing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "PVA TePla",
+    "symbol": "TPE.DE",
+    "exchange": "Frankfurt",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "TPE.DE",
+  "exchange": "Frankfurt",
+  "private": false,
+  "businessMeaning": "Growing a crystal is the first step in the compound-semiconductor chain; furnace supply gates capacity.",
+  "investmentLens": "A small equipment supplier with SiC leverage; watch orders."
+}

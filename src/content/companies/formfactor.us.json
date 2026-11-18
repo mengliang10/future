@@ -1,0 +1,29 @@
+{
+  "id": "formfactor.us",
+  "title": "FormFactor",
+  "summary": "US maker of probe cards and cryogenic test systems.",
+  "sector": "information-technology",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/formfactor.us.md",
+  "sourceHash": "f89070b9c34e33963473cd6c7b7f7b0aabefbf669bbb57fb8d5141039865ac4a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>FormFactor supplies probe cards used to test wafers and known-good dies, and cryogenic systems used in quantum-computing research and physics. Its probe cards must contact ever-finer pads on advanced packages, and its cryostats are part of the quantum-computing supply chain. Both segments benefit from rising test complexity.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Probe cards for wafer and die test</li>\n<li>Cryogenic test systems</li>\n<li>Measurement systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Advanced-packaging test complexity</li>\n<li>Quantum-computing demand</li>\n<li>Probe-card competition</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nFormFactor supplies probe cards used to test wafers and known-good dies, and cryogenic systems used in quantum-computing research and physics. Its probe cards must contact ever-finer pads on advanced packages, and its cryostats are part of the quantum-computing supply chain. Both segments benefit from rising test complexity.\n\n## Technology Exposure\n\n- Probe cards for wafer and die test\n- Cryogenic test systems\n- Measurement systems\n\n## What To Watch\n\n- Advanced-packaging test complexity\n- Quantum-computing demand\n- Probe-card competition\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "FormFactor",
+    "symbol": "FORM",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Semiconductors"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "FORM",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Test is the last chance to catch a bad die; finer pads and stacked dies raise probe-card value.",
+  "investmentLens": "A test-and-cryogenics supplier with quantum optionality; watch segment growth."
+}

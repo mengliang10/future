@@ -1,0 +1,29 @@
+{
+  "id": "heraeus.de",
+  "title": "Heraeus",
+  "summary": "German precious-metals and technology group supplying materials to electronics and industry.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/heraeus.de.md",
+  "sourceHash": "6b6d27cbd78226f1f516cb164cfb590c7c19b515ab3a4260f176abcfd4ae3de2",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Heraeus processes precious metals into pastes, targets, sensors and medical components, and supplies quartz glass and specialty light sources. Its electronic-materials business provides conductive pastes and bonding materials used in chips and solar cells. The company is family- and foundation-owned and reports privately.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Precious-metal pastes and targets</li>\n<li>Quartz glass and specialty materials</li>\n<li>Sensors and medical components</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Electronic-materials demand</li>\n<li>Precious-metal prices</li>\n<li>Solar and industrial demand</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nHeraeus processes precious metals into pastes, targets, sensors and medical components, and supplies quartz glass and specialty light sources. Its electronic-materials business provides conductive pastes and bonding materials used in chips and solar cells. The company is family- and foundation-owned and reports privately.\n\n## Technology Exposure\n\n- Precious-metal pastes and targets\n- Quartz glass and specialty materials\n- Sensors and medical components\n\n## What To Watch\n\n- Electronic-materials demand\n- Precious-metal prices\n- Solar and industrial demand\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Heraeus",
+    "symbol": "HERAEUS.DE",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "HERAEUS.DE",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Precious-metal recycling and refining give integrated suppliers a cost edge.",
+  "investmentLens": "Private; relevant as a critical electronics-materials supplier."
+}

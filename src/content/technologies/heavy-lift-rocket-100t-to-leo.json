@@ -29,7 +29,22 @@
   "estimate": "2026",
   "estimateYear": 2026,
   "sourceCount": 3,
-  "companies": [],
+  "companies": [
+    "spacex.us",
+    "blue-origin.us",
+    "firefly.us",
+    "relativity.us",
+    "ula.us",
+    "ariane-group.fr",
+    "avio.it",
+    "ohb.de",
+    "mhi.jp",
+    "ihi.jp",
+    "lmt.us",
+    "ba.us",
+    "lhx.us",
+    "moog.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

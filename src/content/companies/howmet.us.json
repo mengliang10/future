@@ -1,0 +1,29 @@
+{
+  "id": "howmet.us",
+  "title": "Howmet Aerospace",
+  "summary": "US maker of aerospace fasteners, engine components and engineered structures.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/howmet.us.md",
+  "sourceHash": "209b94a933a232c4060da2642218ebb644bc0a46f7dacb4b92e5f83ebc05280f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Howmet Aerospace produces fasteners, investment-cast turbine components and engineered structures for aircraft and launch vehicles. Its fasteners and structural parts are used throughout airframes and rocket assemblies, where weight and reliability are critical. The company benefits from aerospace build rates and aftermarket demand.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Aerospace fasteners</li>\n<li>Investment-cast engine components</li>\n<li>Engineered structures</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Aircraft build rates</li>\n<li>Defence and space demand</li>\n<li>Titanium and nickel costs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nHowmet Aerospace produces fasteners, investment-cast turbine components and engineered structures for aircraft and launch vehicles. Its fasteners and structural parts are used throughout airframes and rocket assemblies, where weight and reliability are critical. The company benefits from aerospace build rates and aftermarket demand.\n\n## Technology Exposure\n\n- Aerospace fasteners\n- Investment-cast engine components\n- Engineered structures\n\n## What To Watch\n\n- Aircraft build rates\n- Defence and space demand\n- Titanium and nickel costs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Howmet Aerospace",
+    "symbol": "HWM",
+    "exchange": "NYSE",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "HWM",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Fasteners are low-value but flight-critical, and qualification is aircraft-specific.",
+  "investmentLens": "A quality aerospace supplier; watch commercial build rates."
+}

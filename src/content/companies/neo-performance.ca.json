@@ -1,0 +1,29 @@
+{
+  "id": "neo-performance.ca",
+  "title": "Neo Performance Materials",
+  "summary": "Canadian rare-earth processor supplying magnets and specialty materials.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/neo-performance.ca.md",
+  "sourceHash": "79741a13faadd30e80b0f02f2106aca10ae545c07e00f832cd7f7e7616fc66ff",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Neo Performance Materials processes rare earths and produces magnets, rare-earth chemicals and specialty ceramics from facilities in Europe and Asia. It is one of the few non-Chinese magnet producers with established customers in automotive and industrial motors. The company is expanding magnet capacity in Estonia.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Sintered rare-earth magnets</li>\n<li>Rare-earth chemicals and oxides</li>\n<li>Specialty ceramics</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Estonia magnet plant ramp</li>\n<li>Automotive and defence demand</li>\n<li>Feedstock supply</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNeo Performance Materials processes rare earths and produces magnets, rare-earth chemicals and specialty ceramics from facilities in Europe and Asia. It is one of the few non-Chinese magnet producers with established customers in automotive and industrial motors. The company is expanding magnet capacity in Estonia.\n\n## Technology Exposure\n\n- Sintered rare-earth magnets\n- Rare-earth chemicals and oxides\n- Specialty ceramics\n\n## What To Watch\n\n- Estonia magnet plant ramp\n- Automotive and defence demand\n- Feedstock supply\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Neo Performance Materials",
+    "symbol": "NEO.TO",
+    "exchange": "Toronto",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "NEO.TO",
+  "exchange": "Toronto",
+  "private": false,
+  "businessMeaning": "Magnet customers require years of qualification; established non-Chinese capacity is scarce.",
+  "investmentLens": "A small strategic materials producer; watch magnet capacity."
+}

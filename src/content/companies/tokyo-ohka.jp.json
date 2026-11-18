@@ -1,0 +1,29 @@
+{
+  "id": "tokyo-ohka.jp",
+  "title": "Tokyo Ohka Kogyo",
+  "summary": "Japanese photoresist and process-chemical supplier with a broad lithography franchise.",
+  "sector": "materials",
+  "sourceCategory": "Semiconductor Materials",
+  "sourcePath": "_stocks/tokyo-ohka.jp.md",
+  "sourceHash": "251fb43866d39e7dbadcff6583549d85ad06b863d6795455f6a5593056c7b137",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Tokyo Ohka Kogyo supplies photoresists, developers and high-purity process chemicals for semiconductor and display manufacturing. It has a long record in advanced lithography and has been qualifying EUV and high-NA resists with scanner and fab partners. The business is tied to wafer starts but benefits from rising resist intensity per wafer.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Photoresists for advanced lithography</li>\n<li>Developers and process chemicals</li>\n<li>Display materials</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>EUV and high-NA resist qualification</li>\n<li>Wafer-start volumes</li>\n<li>Raw-material and energy costs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTokyo Ohka Kogyo supplies photoresists, developers and high-purity process chemicals for semiconductor and display manufacturing. It has a long record in advanced lithography and has been qualifying EUV and high-NA resists with scanner and fab partners. The business is tied to wafer starts but benefits from rising resist intensity per wafer.\n\n## Technology Exposure\n\n- Photoresists for advanced lithography\n- Developers and process chemicals\n- Display materials\n\n## What To Watch\n\n- EUV and high-NA resist qualification\n- Wafer-start volumes\n- Raw-material and energy costs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Tokyo Ohka Kogyo",
+    "symbol": "4186.T",
+    "exchange": "TSE",
+    "categories": [
+      "Semiconductor Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "4186.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Every lithography step consumes resist and developer; more layers mean more recurring chemistry.",
+  "investmentLens": "A quality materials franchise; watch advanced-resist share and fab utilisation."
+}

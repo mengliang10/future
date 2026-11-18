@@ -29,7 +29,11 @@
   "estimate": "2031\u20132038",
   "estimateYear": 2033,
   "sourceCount": 4,
-  "companies": [],
+  "companies": [
+    "roche.ch",
+    "tempus-ai.us",
+    "iqvia.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

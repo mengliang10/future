@@ -29,7 +29,23 @@
   "estimate": "2013\u20132016",
   "estimateYear": 2015,
   "sourceCount": 32,
-  "companies": [],
+  "companies": [
+    "dongjin-semichem.kr",
+    "hns-hitech.kr",
+    "ngk-insulators.jp",
+    "sumco.jp",
+    "nissan-chem.jp",
+    "sk-trichem.kr",
+    "wonik-materials.kr",
+    "foosung.kr",
+    "soulbrain.kr",
+    "hansol-chem.kr",
+    "ebara.jp",
+    "kokusai-electric.jp",
+    "wonik-ips.kr",
+    "jusung.kr",
+    "comet.ch"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

@@ -29,7 +29,10 @@
   "estimate": "2033\u20132040",
   "estimateYear": 2035,
   "sourceCount": 2,
-  "companies": [],
+  "companies": [
+    "menlo-systems.de",
+    "photonic-inc.ca"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

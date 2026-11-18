@@ -29,7 +29,13 @@
   "estimate": "2034\u20132041",
   "estimateYear": 2036,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "alnylam.us",
+    "ionis.us",
+    "arrowhead.us",
+    "bachem.ch",
+    "polypeptide.ch"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

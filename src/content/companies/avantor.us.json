@@ -1,0 +1,29 @@
+{
+  "id": "avantor.us",
+  "title": "Avantor",
+  "summary": "US supplier of laboratory consumables, chemicals and bioprocessing materials.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/avantor.us.md",
+  "sourceHash": "2e8ab99a8c62a8f827ed5191d619a31e8362f600205de8a7d19ddb749034136d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Avantor distributes laboratory chemicals, consumables and equipment, and supplies high-purity materials to bioprocessing and semiconductor customers. Its broad catalogue makes it a one-stop procurement channel for labs. Leverage and low margins are structural features.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Laboratory chemicals and consumables</li>\n<li>Bioprocessing raw materials</li>\n<li>Distribution services</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Lab spending</li>\n<li>Biotech funding</li>\n<li>Debt reduction</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAvantor distributes laboratory chemicals, consumables and equipment, and supplies high-purity materials to bioprocessing and semiconductor customers. Its broad catalogue makes it a one-stop procurement channel for labs. Leverage and low margins are structural features.\n\n## Technology Exposure\n\n- Laboratory chemicals and consumables\n- Bioprocessing raw materials\n- Distribution services\n\n## What To Watch\n\n- Lab spending\n- Biotech funding\n- Debt reduction\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Avantor",
+    "symbol": "AVTR",
+    "exchange": "NYSE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "AVTR",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Procurement consolidation saves labs time, but distribution is a low-margin business.",
+  "investmentLens": "A distribution play with bioprocessing exposure; watch organic growth."
+}

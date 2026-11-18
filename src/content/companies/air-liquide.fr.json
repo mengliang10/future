@@ -1,0 +1,29 @@
+{
+  "id": "air-liquide.fr",
+  "title": "Air Liquide",
+  "summary": "French industrial-gas group with a large electronics and hydrogen business.",
+  "sector": "materials",
+  "sourceCategory": "Industrial Gases",
+  "sourcePath": "_stocks/air-liquide.fr.md",
+  "sourceHash": "c25bf710a36caded464f1b4c45c2044858461647d62c3868a3b17cb991067482",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Air Liquide supplies ultra-high-purity gases, precursors and gas-delivery systems to semiconductor fabs, and is a major hydrogen and industrial-gas producer. Its electronics business grows with fab capex, while long-term contracts underpin cash flow. The company is also investing in hydrogen electrolysis and carbon capture.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Electronic specialty gases and precursors</li>\n<li>Hydrogen and industrial gases</li>\n<li>Gas delivery and abatement systems</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Electronics project awards</li>\n<li>Hydrogen investment returns</li>\n<li>Energy costs in Europe</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAir Liquide supplies ultra-high-purity gases, precursors and gas-delivery systems to semiconductor fabs, and is a major hydrogen and industrial-gas producer. Its electronics business grows with fab capex, while long-term contracts underpin cash flow. The company is also investing in hydrogen electrolysis and carbon capture.\n\n## Technology Exposure\n\n- Electronic specialty gases and precursors\n- Hydrogen and industrial gases\n- Gas delivery and abatement systems\n\n## What To Watch\n\n- Electronics project awards\n- Hydrogen investment returns\n- Energy costs in Europe\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Air Liquide",
+    "symbol": "AI.PA",
+    "exchange": "Paris",
+    "categories": [
+      "Industrial Gases"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "AI.PA",
+  "exchange": "Paris",
+  "private": false,
+  "businessMeaning": "Gas and precursor supply is embedded in fab design, so it is decided at the plant level.",
+  "investmentLens": "A defensive industrial with electronics growth; watch the electronics segment."
+}

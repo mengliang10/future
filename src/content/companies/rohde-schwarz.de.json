@@ -1,0 +1,29 @@
+{
+  "id": "rohde-schwarz.de",
+  "title": "Rohde & Schwarz",
+  "summary": "German test-and-measurement group supplying quantum control, RF and secure communications equipment.",
+  "sector": "information-technology",
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/rohde-schwarz.de.md",
+  "sourceHash": "4d50a12cac67acdf5735a316d0203b288b8bb7e07151a0f764fcb593b43dbd84",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Rohde &amp; Schwarz makes signal generators, spectrum analysers, oscilloscopes and secure communications systems, and has extended into quantum control through Zurich Instruments. Its RF expertise maps directly onto qubit control and readout, where signal purity matters. The company is family-owned and also supplies defence electronics.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Signal generators and analysers</li>\n<li>Quantum control instrumentation</li>\n<li>Secure communications and defence electronics</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Quantum instrumentation growth</li>\n<li>Defence and communications demand</li>\n<li>Competition from US instrument makers</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nRohde & Schwarz makes signal generators, spectrum analysers, oscilloscopes and secure communications systems, and has extended into quantum control through Zurich Instruments. Its RF expertise maps directly onto qubit control and readout, where signal purity matters. The company is family-owned and also supplies defence electronics.\n\n## Technology Exposure\n\n- Signal generators and analysers\n- Quantum control instrumentation\n- Secure communications and defence electronics\n\n## What To Watch\n\n- Quantum instrumentation growth\n- Defence and communications demand\n- Competition from US instrument makers\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Rohde & Schwarz",
+    "symbol": "ROHDE-SCHWARZ.DE",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Quantum"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ROHDE-SCHWARZ.DE",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "RF purity and timing jitter are decisive in quantum control, a natural extension of test expertise.",
+  "investmentLens": "Private; a broad test-and-defence group with a quantum option."
+}

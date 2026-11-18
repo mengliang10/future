@@ -1,0 +1,29 @@
+{
+  "id": "nrg",
+  "title": "NRG Energy, Inc.",
+  "summary": "Major independent power producer and retail energy supplier benefiting from escalating power demand and grid reliability needs.",
+  "sector": "utilities",
+  "sourceCategory": "Energy Tech",
+  "sourcePath": "_stocks/nrg.md",
+  "sourceHash": "",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>NRG Energy is one of the largest retail energy providers and independent power producers in the US, with significant generation presence in ERCOT and PJM. As data center expansion drives structural growth in electricity demand, power producers with existing baseload and flexible generation assets command substantial pricing power and capacity contract premiums.</p>",
+  "bodyMarkdown": "## Investment Thesis\nNRG Energy is one of the largest retail energy providers and independent power producers in the US, with significant generation presence in ERCOT and PJM. As data center expansion drives structural growth in electricity demand, power producers with existing baseload and flexible generation assets command substantial pricing power and capacity contract premiums.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "NRG Energy, Inc.",
+    "symbol": "NRG",
+    "exchange": "NYSE",
+    "categories": [
+      "Energy Tech",
+      "Power Generation"
+    ],
+    "node_count": 1
+  },
+  "evidenceStatus": "imported-unreviewed",
+  "reviewedAt": null,
+  "symbol": "NRG",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "What practical constraint could this address, and what must change before adoption?",
+  "investmentLens": "Where could value accrue, and what evidence would weaken the thesis?"
+}

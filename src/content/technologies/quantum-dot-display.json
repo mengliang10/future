@@ -29,7 +29,9 @@
   "estimate": "2013\u20132017",
   "estimateYear": 2015,
   "sourceCount": 60,
-  "companies": [],
+  "companies": [
+    "corning.us"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

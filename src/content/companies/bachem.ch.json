@@ -1,0 +1,29 @@
+{
+  "id": "bachem.ch",
+  "title": "Bachem",
+  "summary": "Swiss manufacturer of peptides and complex organic molecules for pharma.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/bachem.ch.md",
+  "sourceHash": "1fa3c91be1fdfe75401ebc15f0428c34d56a1bf926cef7db8e18c6545bd07cd9",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Bachem produces peptides for clinical trials and commercial drugs, including the long-acting incretin peptides behind obesity therapies. Its solid-phase and liquid-phase synthesis capacity is a constraint on the GLP-1 supply chain. The company has been expanding plants in Switzerland and the US.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Peptide active pharmaceutical ingredients</li>\n<li>Clinical-trial peptide supply</li>\n<li>Oligonucleotide and complex chemistry</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Peptide capacity expansion</li>\n<li>GLP-1 demand</li>\n<li>Customer concentration</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nBachem produces peptides for clinical trials and commercial drugs, including the long-acting incretin peptides behind obesity therapies. Its solid-phase and liquid-phase synthesis capacity is a constraint on the GLP-1 supply chain. The company has been expanding plants in Switzerland and the US.\n\n## Technology Exposure\n\n- Peptide active pharmaceutical ingredients\n- Clinical-trial peptide supply\n- Oligonucleotide and complex chemistry\n\n## What To Watch\n\n- Peptide capacity expansion\n- GLP-1 demand\n- Customer concentration\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Bachem",
+    "symbol": "BANB.SW",
+    "exchange": "SIX",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "BANB.SW",
+  "exchange": "SIX",
+  "private": false,
+  "businessMeaning": "Peptide manufacturing is a chemical-scale bottleneck; capacity is sold years ahead.",
+  "investmentLens": "A picks-and-shovels supplier to incretin drugs; watch capacity additions."
+}

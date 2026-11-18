@@ -32,7 +32,17 @@
   "estimateYear": 2025,
   "sourceCount": 3,
   "companies": [
-    "tsm"
+    "tsm",
+    "ajinomoto.jp",
+    "samsung-electro-mechanics.kr",
+    "kinsus.tw",
+    "unimicron.tw",
+    "ats.at",
+    "sk-absolics.kr",
+    "ibiden.jp",
+    "nan-ya-pcb.tw",
+    "ase.tw",
+    "skc.kr"
   ],
   "businessMeaning": "",
   "investmentLens": ""

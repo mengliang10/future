@@ -1,0 +1,29 @@
+{
+  "id": "posco-future-m.kr",
+  "title": "POSCO Future M",
+  "summary": "Korean maker of cathode and anode materials for batteries, backed by POSCO.",
+  "sector": "materials",
+  "sourceCategory": "Advanced Materials",
+  "sourcePath": "_stocks/posco-future-m.kr.md",
+  "sourceHash": "d93016e744386f08e05ed5aa9f20fc2a8afe4c84da05533a489713074d5e5c23",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>POSCO Future M produces cathode and anode materials and refractory materials, with integrated access to POSCO's lithium and nickel investments. It is building cathode capacity in Korea and North America to serve US battery plants and local-content rules. Utilisation and customer qualification determine returns.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Cathode active materials</li>\n<li>Anode materials</li>\n<li>Refractories and industrial materials</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Cathode plant ramp</li>\n<li>US local-content rules</li>\n<li>Lithium and nickel feedstock</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPOSCO Future M produces cathode and anode materials and refractory materials, with integrated access to POSCO's lithium and nickel investments. It is building cathode capacity in Korea and North America to serve US battery plants and local-content rules. Utilisation and customer qualification determine returns.\n\n## Technology Exposure\n\n- Cathode active materials\n- Anode materials\n- Refractories and industrial materials\n\n## What To Watch\n\n- Cathode plant ramp\n- US local-content rules\n- Lithium and nickel feedstock\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "POSCO Future M",
+    "symbol": "003670.KS",
+    "exchange": "KRX",
+    "categories": [
+      "Advanced Materials"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "003670.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "Vertical integration into feedstock is a structural cost advantage if the upstream projects deliver.",
+  "investmentLens": "A battery-materials play with upstream optionality; watch plant utilisation."
+}

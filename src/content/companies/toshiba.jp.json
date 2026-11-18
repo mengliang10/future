@@ -1,0 +1,29 @@
+{
+  "id": "toshiba.jp",
+  "title": "Toshiba",
+  "summary": "Japanese industrial group with nuclear, power and semiconductor businesses.",
+  "sector": "industrials",
+  "sourceCategory": "Nuclear",
+  "sourcePath": "_stocks/toshiba.jp.md",
+  "sourceHash": "ae62042934588644357945d62762f51959f3ccc78b6b9bbfaf6b745ce6f6d078",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Toshiba builds nuclear reactors and power equipment, and retains semiconductor and storage businesses. Its nuclear unit supplies boiling-water reactor technology and maintenance, while its power business serves grid and industrial customers. The group has been reshaped after years of restructuring.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Nuclear reactors and services</li>\n<li>Power generation and grid equipment</li>\n<li>Semiconductor and storage products</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Nuclear maintenance demand</li>\n<li>Power-equipment orders</li>\n<li>Restructuring progress</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nToshiba builds nuclear reactors and power equipment, and retains semiconductor and storage businesses. Its nuclear unit supplies boiling-water reactor technology and maintenance, while its power business serves grid and industrial customers. The group has been reshaped after years of restructuring.\n\n## Technology Exposure\n\n- Nuclear reactors and services\n- Power generation and grid equipment\n- Semiconductor and storage products\n\n## What To Watch\n\n- Nuclear maintenance demand\n- Power-equipment orders\n- Restructuring progress\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Toshiba",
+    "symbol": "6502.T",
+    "exchange": "TSE",
+    "categories": [
+      "Nuclear"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "6502.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "Installed reactor fleets generate decades of maintenance revenue.",
+  "investmentLens": "A restructured industrial with nuclear exposure; watch power orders."
+}

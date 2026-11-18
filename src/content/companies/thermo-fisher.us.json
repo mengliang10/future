@@ -1,0 +1,29 @@
+{
+  "id": "thermo-fisher.us",
+  "title": "Thermo Fisher Scientific",
+  "summary": "The largest supplier of life-science tools, reagents and laboratory equipment.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/thermo-fisher.us.md",
+  "sourceHash": "0b8a3b8bd703674c02a0181c7d99751b86f1dbacf91b205b7cb44b90976a6ed2",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Thermo Fisher sells instruments, reagents, consumables and services to pharma, biotech, academia and clinical labs, and provides clinical-trial logistics and manufacturing services. Its scale and installed base create recurring revenue, and it supplies much of the equipment used to develop and produce biologics. Biotech funding and pharma R&amp;D budgets drive growth.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Laboratory instruments and reagents</li>\n<li>Biologics manufacturing and CDMO services</li>\n<li>Clinical-trial logistics</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Pharma and biotech R&amp;D spending</li>\n<li>Biotech funding environment</li>\n<li>China and tariff exposure</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nThermo Fisher sells instruments, reagents, consumables and services to pharma, biotech, academia and clinical labs, and provides clinical-trial logistics and manufacturing services. Its scale and installed base create recurring revenue, and it supplies much of the equipment used to develop and produce biologics. Biotech funding and pharma R&D budgets drive growth.\n\n## Technology Exposure\n\n- Laboratory instruments and reagents\n- Biologics manufacturing and CDMO services\n- Clinical-trial logistics\n\n## What To Watch\n\n- Pharma and biotech R&D spending\n- Biotech funding environment\n- China and tariff exposure\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Thermo Fisher Scientific",
+    "symbol": "TMO",
+    "exchange": "NYSE",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "TMO",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Picks-and-shovels suppliers earn whether or not a drug succeeds.",
+  "investmentLens": "A quality compounder with broad exposure; watch biotech funding."
+}

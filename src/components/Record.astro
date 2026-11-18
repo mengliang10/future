@@ -1,13 +1,19 @@
 ---
 import {url, base} from '../lib/base';
 import {visualFor,horizonFor} from '../lib/visuals';
-import Site from '../layouts/Site.astro';import {records,label,provenanceLabel} from '../lib/catalogue';
+import Site from '../layouts/Site.astro';
+import {records,label,provenanceLabel} from '../lib/catalogue';
+import {sourceLinks} from '../lib/source-links';
+
 const {record,kind}=Astro.props;
 const [sectors,tech,companies]=await Promise.all([records('sectors'),records('technologies'),records('companies')]);
 const sector=sectors.find(s=>s.id===record.sector);
 const isTech=kind==='technology';
-const norm=v=>String(v).toLowerCase().replace(/[^a-z0-9]/g,'');const same=(a,b)=>a===b||norm(a)===norm(b);const related=isTech?record.companies.map(id=>companies.find(c=>same(c.id,id))).filter(Boolean):tech.filter(t=>t.companies.some(id=>same(id,record.id)));
-const body=record.bodyHtml.replaceAll('href="/tech/', `href="${base}/tech/`).replaceAll('href="/companies/', `href="${base}/companies/`).replaceAll('href="/future/tech/', `href="${base}/tech/`).replaceAll('href="/future/companies/', `href="${base}/companies/`).replace(/href="\/tech\/([^"/]+)\/?"/g,(whole,id)=>tech.some(t=>t.id===id)?whole:`data-unresolved-link="/tech/${id}/"`).replace(/href="\/companies\/([^"/]+)\/?"/g,(whole,id)=>companies.some(c=>c.id===id)?whole:`data-unresolved-link="/companies/${id}/"`);
+const norm=v=>String(v).toLowerCase().replace(/[^a-z0-9]/g,'');
+const same=(a,b)=>a===b||norm(a)===norm(b);
+const related=isTech?record.companies.map(id=>companies.find(c=>same(c.id,id))).filter(Boolean):tech.filter(t=>t.companies.some(id=>same(id,record.id)));
+
+const body = await sourceLinks(record.bodyHtml);
 ---
 <Site title={record.title} active={isTech?'Explore':'Companies'}><article class="container record" style={`--sector:${visualFor(record.sector).color}`} data-record-id={record.id} data-collection={isTech?'technologies':'companies'}>
 <nav class="breadcrumb" aria-label="Breadcrumb"><a href={url(isTech?'/explore/':'/companies/')}>{isTech?'Explore':'Companies'}</a><span>/</span>{sector&&<a href={url(`/sectors/${sector.id}/`)}>{sector.title}</a>}</nav>

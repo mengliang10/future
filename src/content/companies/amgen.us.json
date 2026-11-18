@@ -1,0 +1,29 @@
+{
+  "id": "amgen.us",
+  "title": "Amgen",
+  "summary": "US biotechnology group with biologics, biosimilars and an obesity pipeline.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/amgen.us.md",
+  "sourceHash": "912ef53edf00ba47d316d91b9e6cddd37f5780ad1f124262ef7e67f605b7ba18",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Amgen sells erythropoietin, immunology, oncology and bone-health biologics, and acquired Horizon to add rare-disease therapies. It is developing obesity drugs, including an injectable candidate acquired from a Chinese biotech. Patent expiries on legacy products and debt from acquisitions constrain flexibility.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Biologic medicines for immunology and oncology</li>\n<li>Biosimilars</li>\n<li>Rare disease and obesity pipeline</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Obesity pipeline data</li>\n<li>Patent expiries</li>\n<li>Debt reduction</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAmgen sells erythropoietin, immunology, oncology and bone-health biologics, and acquired Horizon to add rare-disease therapies. It is developing obesity drugs, including an injectable candidate acquired from a Chinese biotech. Patent expiries on legacy products and debt from acquisitions constrain flexibility.\n\n## Technology Exposure\n\n- Biologic medicines for immunology and oncology\n- Biosimilars\n- Rare disease and obesity pipeline\n\n## What To Watch\n\n- Obesity pipeline data\n- Patent expiries\n- Debt reduction\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Amgen",
+    "symbol": "AMGN",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "AMGN",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Biosimilar competition erodes legacy revenue; new modalities must replace it.",
+  "investmentLens": "A mature biotech with a pipeline option; watch obesity data."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sanofi.fr",
+  "title": "Sanofi",
+  "summary": "French pharmaceutical group with vaccines, immunology and rare-disease franchises.",
+  "sector": "health-care",
+  "sourceCategory": "Biotech",
+  "sourcePath": "_stocks/sanofi.fr.md",
+  "sourceHash": "c495dc60cd949480d4fc7cae7f38cb82b196746cfbb93986f4a91e137fd3e055",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Sanofi sells vaccines, immunology medicines, rare-disease therapies and consumer health products, and has been spinning off consumer health to focus on innovative biopharma. Its Dupixent franchise is a major growth driver, and it is expanding in vaccines and neurology. Pipeline setbacks have weighed on sentiment.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Immunology and inflammation</li>\n<li>Vaccines</li>\n<li>Rare disease and neurology</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Dupixent growth and competition</li>\n<li>Vaccine demand</li>\n<li>Pipeline execution</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSanofi sells vaccines, immunology medicines, rare-disease therapies and consumer health products, and has been spinning off consumer health to focus on innovative biopharma. Its Dupixent franchise is a major growth driver, and it is expanding in vaccines and neurology. Pipeline setbacks have weighed on sentiment.\n\n## Technology Exposure\n\n- Immunology and inflammation\n- Vaccines\n- Rare disease and neurology\n\n## What To Watch\n\n- Dupixent growth and competition\n- Vaccine demand\n- Pipeline execution\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Sanofi",
+    "symbol": "SAN.PA",
+    "exchange": "Paris",
+    "categories": [
+      "Biotech"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SAN.PA",
+  "exchange": "Paris",
+  "private": false,
+  "businessMeaning": "One large immunology franchise funds the rest of the pipeline; concentration cuts both ways.",
+  "investmentLens": "A restructuring pharma; watch Dupixent and vaccine trends."
+}
