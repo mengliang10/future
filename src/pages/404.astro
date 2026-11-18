@@ -2,4 +2,4 @@
 import {url, base} from '../lib/base';
 import Site from '../layouts/Site.astro';
 ---
-<Site title="Not found"><div class="container page readable"><h1>Let’s find another path.</h1><p>This page is not in the imported research catalogue.</p><a href="/explore/">Search technologies →</a><br/><a href="/companies/">Browse companies →</a></div></Site>
+<Site title="Not found"><div class="container page readable"><h1>Let’s find another path.</h1><p>This page is not in the imported research catalogue.</p><a href={url("/explore/")}>Search technologies →</a><br/><a href={url("/companies/")}>Browse companies →</a></div></Site>

@@ -114,43 +114,43 @@ def main():
         rel = file_path.relative_to(dist_dir)
         if rel.name == "index.html":
             parent = rel.parent.as_posix()
-            url_path = "/" if parent == "." else f"/{parent}/"
+            url_path = "/future/" if parent == "." else f"/future/{parent}/"
         elif rel.name == "404.html":
-            url_path = "/404.html"
+            url_path = "/future/404.html"
         else:
-            url_path = f"/{rel.as_posix()}"
+            url_path = f"/future/{rel.as_posix()}"
 
         # Classify page type
         page_type = "misc"
         entity_id = None
-        if url_path == "/":
+        if url_path == "/future/":
             page_type = "home"
-        elif url_path.startswith("/tech/"):
+        elif url_path.startswith("/future/tech/"):
             page_type = "technology"
-            parts = [p for p in url_path.split("/") if p]
+            parts = [p for p in url_path.replace("/future", "").split("/") if p]
             if len(parts) >= 2:
                 entity_id = parts[1]
-        elif url_path.startswith("/companies/"):
-            parts = [p for p in url_path.split("/") if p]
+        elif url_path.startswith("/future/companies/"):
+            parts = [p for p in url_path.replace("/future", "").split("/") if p]
             page_type = "company" if len(parts) >= 2 else "company_hub"
             if len(parts) >= 2:
                 entity_id = parts[1]
-        elif url_path.startswith("/sectors/"):
-            parts = [p for p in url_path.split("/") if p]
+        elif url_path.startswith("/future/sectors/"):
+            parts = [p for p in url_path.replace("/future", "").split("/") if p]
             page_type = "sector" if len(parts) >= 2 else "sector_hub"
             if len(parts) >= 2:
                 entity_id = parts[1]
-        elif url_path.startswith("/presentations/"):
-            parts = [p for p in url_path.split("/") if p]
+        elif url_path.startswith("/future/presentations/"):
+            parts = [p for p in url_path.replace("/future", "").split("/") if p]
             page_type = "deck" if len(parts) >= 2 else "deck_hub"
             if len(parts) >= 2:
                 entity_id = parts[1]
-        elif url_path.startswith("/read/"):
+        elif url_path.startswith("/future/read/"):
             page_type = "article"
-            parts = [p for p in url_path.split("/") if p]
+            parts = [p for p in url_path.replace("/future", "").split("/") if p]
             if len(parts) >= 2:
                 entity_id = parts[1]
-        elif url_path in ["/explore/", "/roadmaps/", "/research/", "/markets/"]:
+        elif url_path in ["/future/explore/", "/future/roadmaps/", "/future/research/", "/future/markets/"]:
             page_type = "hub"
 
         # Read HTML to get title
@@ -235,13 +235,14 @@ def main():
                 target_page = page_by_url.get(clean_path)
                 target_page_id = target_page["id"] if target_page else None
 
-                # Check if target file exists on disk
-                target_disk_path = dist_dir / clean_path.lstrip("/")
+                # Check if target file exists on disk (stripping /future/ prefix if present)
+                disk_relative = clean_path.replace("/future/", "", 1) if clean_path.startswith("/future/") else clean_path.lstrip("/")
+                target_disk_path = dist_dir / disk_relative
                 is_broken = 0
                 error_reason = None
 
                 if not target_disk_path.exists():
-                    if not (dist_dir / (clean_path.lstrip("/") + "index.html")).exists():
+                    if not (dist_dir / (disk_relative + "index.html")).exists():
                         is_broken = 1
                         error_reason = "Page or file does not exist"
                         broken_links += 1

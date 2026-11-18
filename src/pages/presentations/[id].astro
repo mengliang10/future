@@ -10,7 +10,7 @@ const blocks=snap?.blocks||await Promise.all(deck.blocks.map(async id=>{const en
 const total=technologies.length+3;
 ---
 <!doctype html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>{deck.title} | The Future Tomorrow</title><link rel="stylesheet" href={url('/vendor/reveal.min.css')}/></head><body class="presentation" data-deck-id={deck.id} data-mode={deck.mode}>
-<nav class="deck-toolbar" aria-label="Presentation controls"><a href="/presentations/">← Library</a><span>{deck.mode==='snapshot'?'Fixed snapshot':'Shared-source briefing'}</span><div><button type="button" id="reading-mode">Reading view</button><button type="button" id="print-deck">Print / PDF</button><button type="button" id="fullscreen">Fullscreen</button></div></nav>
+<nav class="deck-toolbar" aria-label="Presentation controls"><a href={url("/presentations/")}>← Library</a><span>{deck.mode==='snapshot'?'Fixed snapshot':'Shared-source briefing'}</span><div><button type="button" id="reading-mode">Reading view</button><button type="button" id="print-deck">Print / PDF</button><button type="button" id="fullscreen">Fullscreen</button></div></nav>
 <div class="reveal"><div class="slides"><Slide type="cover" title={deck.title} sector={sector} number={1} total={total}/><Slide type="block" block={blocks[0]} sector={sector} number={2} total={total}/>{technologies.map((record,i)=><Slide type="technology" record={record} sector={sector} number={i+3} total={total}/>)}<Slide type="block" block={blocks[1]} sector={sector} number={total} total={total}/></div></div>
 <script is:inline src="/vendor/reveal.min.js"></script>
 <script is:inline>
