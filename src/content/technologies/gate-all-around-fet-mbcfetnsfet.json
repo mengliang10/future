@@ -2,7 +2,7 @@
   "id": "gate-all-around-fet-mbcfetnsfet",
   "title": "Gate-All-Around FET (MBCFET/NSFET)",
   "summary": "Gate surrounding channel on all sides; successor to FinFET at 2\u20133nm",
-  "sector": "information-technology",
+  "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/gate-all-around-fet-mbcfetnsfet.md",
   "sourceHash": "e5e5106a0432f3be69e51b112e8fcad30d4bf548aaf5f60b1ad7eaff4bd54f22",

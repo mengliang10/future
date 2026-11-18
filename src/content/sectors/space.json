@@ -1,0 +1,11 @@
+{
+  "id": "space",
+  "title": "Space Economy & Aerospace",
+  "short": "Space",
+  "aliases": [
+    "Space",
+    "Space Economy & Aerospace"
+  ],
+  "businessQuestion": "How does sub-$100/kg launch pricing unlock manufacturing and orbital compute?",
+  "investorQuestion": "Which satellite constellations generate recurring terrestrial connectivity revenues?"
+}

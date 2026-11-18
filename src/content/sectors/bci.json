@@ -1,0 +1,11 @@
+{
+  "id": "bci",
+  "title": "Brain\u2013Computer Interfaces",
+  "short": "BCI",
+  "aliases": [
+    "BCI",
+    "Brain\u2013Computer Interfaces"
+  ],
+  "businessQuestion": "What medical indications clear regulatory pathways before consumer neural telemetry arrives?",
+  "investorQuestion": "Can non-invasive signal acquisition achieve clinical fidelity without implant risk?"
+}

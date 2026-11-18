@@ -2,7 +2,7 @@
   "id": "3d-machine-vision-point-cloud",
   "title": "3D Machine Vision / Point Cloud",
   "summary": "Depth perception via structured light, ToF, or stereo for bin picking",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/3d-machine-vision-point-cloud.md",
   "sourceHash": "4417d44b22f6ec5cc8b7ac8467edfbcc85c81bd794a3d7ea00024c39b0504799",

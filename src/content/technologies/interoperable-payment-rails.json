@@ -2,7 +2,7 @@
   "id": "interoperable-payment-rails",
   "title": "Interoperable Payment Rails",
   "summary": "Shared payment infrastructure enabling different systems (blockchain, card networks, FX platforms...",
-  "sector": "financials",
+  "sector": "blockchain",
   "sourceCategory": "Financial Markets",
   "sourcePath": "_tech/interoperable-payment-rails.md",
   "sourceHash": "2ef926af5eeb97fccd9c9951873370bbd73fb32420c5904fa0c1186726a29df0",

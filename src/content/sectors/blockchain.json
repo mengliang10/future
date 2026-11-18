@@ -1,0 +1,11 @@
+{
+  "id": "blockchain",
+  "title": "Blockchain & Web3",
+  "short": "Blockchain",
+  "aliases": [
+    "Blockchain",
+    "Blockchain & Web3"
+  ],
+  "businessQuestion": "What settlement efficiency gains justify moving physical assets and bank deposits on-chain?",
+  "investorQuestion": "Where does value accrue: base settlement layers, execution rollups, or regulated issuers?"
+}

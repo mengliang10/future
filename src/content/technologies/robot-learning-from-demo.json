@@ -2,7 +2,7 @@
   "id": "robot-learning-from-demo",
   "title": "Robot Learning from Demonstration",
   "summary": "Robot learns new skills by watching human demonstration (imitation learning)",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/robot-learning-from-demo.md",
   "sourceHash": "2f0f2d71adf9c6ba734469200efc065e20b53b157022cdbfe98de75f1550c2df",

@@ -1,0 +1,11 @@
+{
+  "id": "ai-infrastructure",
+  "title": "AI Infrastructure & Compute",
+  "short": "AI Infrastructure",
+  "aliases": [
+    "AI Infrastructure",
+    "AI Infrastructure & Compute"
+  ],
+  "businessQuestion": "What thermal density and cluster networking limits dictate gigawatt-scale data center design?",
+  "investorQuestion": "Who captures sustained margin: custom accelerator designers, server integrators, or optical transceivers?"
+}

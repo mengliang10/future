@@ -2,7 +2,7 @@
   "id": "industrial-robot-arm",
   "title": "Industrial Robot Arm",
   "summary": "Programmable multi-axis manipulators for manufacturing \u2014 Fanuc, ABB, KUKA",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/industrial-robot-arm.md",
   "sourceHash": "f1e986f374fed684a573a6ad9dc1d8b35069c3b9f2a6ab3573e33b2e66feb072",

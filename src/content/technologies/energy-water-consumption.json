@@ -2,7 +2,7 @@
   "id": "energy-water-consumption",
   "title": "Energy Water Consumption",
   "summary": "Energy Water Consumption",
-  "sector": "utilities",
+  "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/energy-water-consumption.md",
   "sourceHash": "ecd29e84936763eaa43417b3692b2795acf551a089875ae56ffbaa664d5b000c",

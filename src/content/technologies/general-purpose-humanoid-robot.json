@@ -2,7 +2,7 @@
   "id": "general-purpose-humanoid-robot",
   "title": "General-Purpose Humanoid Robot",
   "summary": "Humanoid operating across diverse real-world environments without reprogramming",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/general-purpose-humanoid-robot.md",
   "sourceHash": "fb775671ae054c0a63d5bbf644296e93692d0dc4ed0b034d9c0b090f8e7724d4",

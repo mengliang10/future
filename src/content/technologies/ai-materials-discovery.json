@@ -2,7 +2,7 @@
   "id": "ai-materials-discovery",
   "title": "AI Materials Discovery",
   "summary": "ML-guided discovery of novel materials for batteries, semiconductors, drugs",
-  "sector": "materials",
+  "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/ai-materials-discovery.md",
   "sourceHash": "0fd67e87590d60adf35d1d98cf8327a513743f4bdefc30978078690a8ac1498d",

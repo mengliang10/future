@@ -2,7 +2,7 @@
   "id": "compute-in-memory-cim",
   "title": "Compute-in-Memory (CIM)",
   "summary": "Processing data where stored; eliminates memory wall \u2014 SRAM, DRAM, ReRAM CIM",
-  "sector": "information-technology",
+  "sector": "memory",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/compute-in-memory-cim.md",
   "sourceHash": "51d8097edba983229714da5bce35a20203c336ecdf1923ce1d6c16935c430d87",

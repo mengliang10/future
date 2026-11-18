@@ -2,7 +2,7 @@
   "id": "qwen-open-weight-family",
   "title": "Qwen open-weight model family",
   "summary": "Alibaba's model family, widely used as the base for fine-tunes outside China.",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/qwen-open-weight-family.md",
   "sourceHash": "bf4e9763e143186f9b6a966a3480b792b9c0438407d2aa540a59a86943acb559",

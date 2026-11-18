@@ -1,0 +1,11 @@
+{
+  "id": "memory",
+  "title": "Memory & Storage Architectures",
+  "short": "Memory",
+  "aliases": [
+    "Memory",
+    "Memory & Storage Architectures"
+  ],
+  "businessQuestion": "How does memory bandwidth scaling decouple compute performance from cost?",
+  "investorQuestion": "Which memory architectures (HBM, 3D NAND, CXL) capture structural pricing premiums?"
+}

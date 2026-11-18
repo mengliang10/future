@@ -2,7 +2,7 @@
   "id": "3d-nand-channel-metrology",
   "title": "3D NAND Channel Critical Dimension Metrology",
   "summary": "Specialised FIB/PFIB methods (diagonal mill, delayering, 3D reconstruction) to measure channel ho...",
-  "sector": "information-technology",
+  "sector": "memory",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/3d-nand-channel-metrology.md",
   "sourceHash": "2c76829ef024b75db8630f5a66156b488aaf483c80ee989010835fab7120de09",

@@ -2,7 +2,7 @@
   "id": "sim-to-real-transfer",
   "title": "Sim-to-Real Transfer",
   "summary": "Training in simulation and deploying to physical robots with minimal domain gap",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/sim-to-real-transfer.md",
   "sourceHash": "d88835459de67d3dd55f5404679d37b57fbd4bebcfe508baffde1526d72685e4",

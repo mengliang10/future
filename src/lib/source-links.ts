@@ -2,20 +2,33 @@ import {url} from "./base";
 import {records} from './catalogue';
 
 const SECTOR_MIGRATION: Record<string, string> = {
-  'ai': 'information-technology',
-  'semiconductors': 'information-technology',
-  'hardware': 'information-technology',
-  'cyber': 'information-technology',
-  'blockchain': 'financials',
-  'biotech': 'health-care',
-  'bci': 'health-care',
-  'robotics': 'industrials',
-  'autonomous': 'consumer-discretionary',
-  'space': 'industrials',
-  'xr': 'information-technology',
-  'quantum': 'information-technology',
-  'software': 'information-technology',
-  'marketing': 'communication-services'
+  'ai': 'applied-ai',
+  'semiconductors': 'semiconductors',
+  'hardware': 'semiconductors',
+  'cyber': 'cybersecurity',
+  'blockchain': 'blockchain',
+  'biotech': 'drugs-biotech',
+  'bci': 'bci',
+  'robotics': 'robotics',
+  'autonomous': 'autonomous',
+  'space': 'space',
+  'xr': 'spatial-computing',
+  'quantum': 'quantum',
+  'energy': 'energy',
+  'software': 'ai-agents-software',
+  'marketing': 'applied-ai',
+  'memory': 'memory',
+  'materials': 'materials-physics',
+  // Map old official sectors if linked
+  'information-technology': 'semiconductors',
+  'financials': 'blockchain',
+  'health-care': 'drugs-biotech',
+  'consumer-discretionary': 'spatial-computing',
+  'communication-services': 'applied-ai',
+  'industrials': 'robotics',
+  'consumer-staples': 'applied-ai',
+  'real-estate': 'applied-ai',
+  'utilities': 'energy'
 };
 
 export async function sourceLinks(html: string): Promise<string> {
@@ -27,14 +40,6 @@ export async function sourceLinks(html: string): Promise<string> {
   const techIds = new Set(tech.map(t => t.id));
   const companyIds = new Set(companies.map(c => c.id));
   const sectorIds = new Set(sectors.map(s => s.id));
-
-  // Build title lookup for intelligent tech link resolution
-  const techTitleMap = new Map<string, string>();
-  for (const t of tech) {
-    if (t.title) {
-      techTitleMap.set(t.title.trim().toLowerCase(), t.id);
-    }
-  }
 
   html = html
     .replace(/<form\b[^>]*action="[^"]*REPLACE_WITH_YOUR_FORM_ID"[\s\S]*?<\/form>/gi, '<p><a href="mailto:mengliang.online@gmail.com">Email the author ↗</a></p>')
@@ -72,7 +77,6 @@ export async function sourceLinks(html: string): Promise<string> {
       if (techIds.has(id)) {
         dest = `/tech/${id}/`;
       } else {
-        // Try to find if there's a close candidate with prefixes/suffixes
         const candidates = tech.filter(t => t.id.startsWith(id + '-') || t.id.endsWith('-' + id) || t.id.includes(id));
         if (candidates.length === 1) {
           dest = `/tech/${candidates[0].id}/`;

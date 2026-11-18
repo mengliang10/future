@@ -2,7 +2,7 @@
   "id": "robotaxi-geofenced-operation",
   "title": "Robotaxi (Geofenced Operation)",
   "summary": "Driverless taxi in limited mapped area \u2014 Waymo One SF, Baidu Apollo Go",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/robotaxi-geofenced-operation.md",
   "sourceHash": "683bd1e9dd61a5883f7bbe1b647f506b2582352ee7b1687d249bd53b44f0e23c",

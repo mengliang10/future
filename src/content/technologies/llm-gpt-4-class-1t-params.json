@@ -2,7 +2,7 @@
   "id": "llm-gpt-4-class-1t-params",
   "title": "LLM GPT-4 Class (~1T params)",
   "summary": "Dense LLMs at ~1T parameter scale with strong reasoning and code ability",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/llm-gpt-4-class-1t-params.md",
   "sourceHash": "3797eb6816ecdf73f676388b7daf497c8ae39f2a38a2f5d48263ec95e66c252e",

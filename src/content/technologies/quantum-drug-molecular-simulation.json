@@ -2,7 +2,7 @@
   "id": "quantum-drug-molecular-simulation",
   "title": "Quantum Drug Molecular Simulation",
   "summary": "Quantum simulation of protein folding and binding beyond AlphaFold scope",
-  "sector": "information-technology",
+  "sector": "quantum",
   "sourceCategory": "Quantum",
   "sourcePath": "_tech/quantum-drug-molecular-simulation.md",
   "sourceHash": "d7e0e4827519e8cd0b648d518efc3fb26ce6c4b00b69c19567df4d5624287bd0",

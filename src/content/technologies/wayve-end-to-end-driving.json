@@ -2,7 +2,7 @@
   "id": "wayve-end-to-end-driving",
   "title": "Wayve end-to-end driving",
   "summary": "A driving stack learned from data rather than written as explicit rules.",
-  "sector": "industrials",
+  "sector": "autonomous",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/wayve-end-to-end-driving.md",
   "sourceHash": "8f39d07731028ad37c85345d45fd199afa9ed9b4f524448d1d28376bec987af4",

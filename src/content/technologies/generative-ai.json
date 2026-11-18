@@ -2,7 +2,7 @@
   "id": "generative-ai",
   "title": "Generative AI",
   "summary": "AI models capable of generating novel text, images, code, and data",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/generative-ai.md",
   "sourceHash": "8c9bbff7078ff9ccff50632798bc93cef6e6122f0caa42969a393e544c741b2a",

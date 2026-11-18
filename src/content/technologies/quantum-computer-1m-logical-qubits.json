@@ -2,7 +2,7 @@
   "id": "quantum-computer-1m-logical-qubits",
   "title": "Quantum Computer: 1M Logical Qubits",
   "summary": "Scale needed for breaking RSA-2048 and full chemistry simulation",
-  "sector": "information-technology",
+  "sector": "quantum",
   "sourceCategory": "Quantum",
   "sourcePath": "_tech/quantum-computer-1m-logical-qubits.md",
   "sourceHash": "ac21a3a4e1bdeb872125744af1fd2a231ccdf8972f2140a3466d3d91066e9776",

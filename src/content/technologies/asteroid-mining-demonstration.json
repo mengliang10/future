@@ -2,7 +2,7 @@
   "id": "asteroid-mining-demonstration",
   "title": "Asteroid Mining Demonstration",
   "summary": "First retrieval of material from near-Earth asteroid for in-space use",
-  "sector": "materials",
+  "sector": "space",
   "sourceCategory": "Space Tech",
   "sourcePath": "_tech/asteroid-mining-demonstration.md",
   "sourceHash": "bbaa196ad3a39e73e522d6ef9d0d4f92a1c654c5b8403e7c08267bb3bd5f0b14",

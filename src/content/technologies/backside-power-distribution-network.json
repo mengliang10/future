@@ -2,7 +2,7 @@
   "id": "backside-power-distribution-network",
   "title": "Backside Power Distribution Network (BSPDN)",
   "summary": "Power rails routed on the backside of the wafer (below active devices) to reduce IR drop and free...",
-  "sector": "information-technology",
+  "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/backside-power-distribution-network.md",
   "sourceHash": "b183b0add4bbba8a26f7b840975fdea794e3e00a33b1c4ee7042c8312ec9d652",

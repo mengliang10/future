@@ -2,7 +2,7 @@
   "id": "evtol-air-taxi",
   "title": "eVTOL Air Taxi",
   "summary": "Electric vertical takeoff aircraft for urban air mobility \u2014 Joby, Archer",
-  "sector": "industrials",
+  "sector": "autonomous",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/evtol-air-taxi.md",
   "sourceHash": "6d1ff6dc5e2123730f2f784c8ade6d2e01dbb6c96d6f583ad7311647e950e2ea",

@@ -2,7 +2,7 @@
   "id": "fault-tolerant-qc-1000-logical-qubits",
   "title": "Fault-Tolerant QC (1000 Logical Qubits)",
   "summary": "Threshold for running Shor's algorithm and drug simulation at useful scale",
-  "sector": "information-technology",
+  "sector": "quantum",
   "sourceCategory": "Quantum",
   "sourcePath": "_tech/fault-tolerant-qc-1000-logical-qubits.md",
   "sourceHash": "087faed046d13f5413e8866815ec112931e877f67ba02f972f93f33afe945c6c",

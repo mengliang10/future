@@ -2,7 +2,7 @@
   "id": "automated-wafer-defect-analysis",
   "title": "Automated Wafer-Level Defect Root Cause Analysis",
   "summary": "Automated FIB-SEM workflows operating directly on 300mm production wafers; eliminates manual lab ...",
-  "sector": "information-technology",
+  "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/automated-wafer-defect-analysis.md",
   "sourceHash": "45e49b6b6c64893ad9a2044ea15f4287abf8c94fceed34322f47d76b0a38999f",

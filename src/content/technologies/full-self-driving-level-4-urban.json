@@ -2,7 +2,7 @@
   "id": "full-self-driving-level-4-urban",
   "title": "Full Self-Driving Level 4 (Urban)",
   "summary": "Urban driving with no human available, approved for general public roads",
-  "sector": "industrials",
+  "sector": "autonomous",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/full-self-driving-level-4-urban.md",
   "sourceHash": "34aab01b3b105e5c7903ddb63f8486f15a503e832d2b726516017bbe00de30de",

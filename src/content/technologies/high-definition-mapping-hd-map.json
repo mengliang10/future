@@ -2,7 +2,7 @@
   "id": "high-definition-mapping-hd-map",
   "title": "High-Definition Mapping (HD Map)",
   "summary": "Centimeter-accurate 3D maps of road network enabling AV localization",
-  "sector": "financials",
+  "sector": "autonomous",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/high-definition-mapping-hd-map.md",
   "sourceHash": "4998d3d8f771e8729669cc39a59750f734c3b3d0f262c6c0494d739f9a7be781",

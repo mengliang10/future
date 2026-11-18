@@ -2,7 +2,7 @@
   "id": "transformer-architecture",
   "title": "Transformer Architecture",
   "summary": "Attention-based neural network (Vaswani 2017) underlying all modern LLMs",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/transformer-architecture.md",
   "sourceHash": "e6c2230cb06e5bcb9062987bb4bd84ad35bc84e66e0599889c97a08f87cddcd2",

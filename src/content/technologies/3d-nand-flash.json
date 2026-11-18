@@ -2,7 +2,7 @@
   "id": "3d-nand-flash",
   "title": "3D NAND Flash Memory",
   "summary": "Vertically stacked flash memory cells replacing planar NAND; enables terabyte-scale solid-state s...",
-  "sector": "information-technology",
+  "sector": "memory",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/3d-nand-flash.md",
   "sourceHash": "6e30abda8efa04545d3a2923d9d4745a61f37a69a16027d49daa610c9b5b52b9",

@@ -2,7 +2,7 @@
   "id": "humanoid-robot-factory-deployment",
   "title": "Humanoid Robot (Factory Deployment)",
   "summary": "Humanoids performing real production tasks commercially \u2014 Tesla Giga 2026 target",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/humanoid-robot-factory-deployment.md",
   "sourceHash": "912a70c1ab21d06cf0b84d82dbf3aff03d5edd28f84525c25d00dc2a7feca7ad",

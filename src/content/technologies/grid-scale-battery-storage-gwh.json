@@ -2,7 +2,7 @@
   "id": "grid-scale-battery-storage-gwh",
   "title": "Grid-Scale Battery Storage (GWh)",
   "summary": "Multi-GWh battery installations balancing grids \u2014 CATL, Tesla Megapack",
-  "sector": "utilities",
+  "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/grid-scale-battery-storage-gwh.md",
   "sourceHash": "3b2b2ae1599aad93d7c9f6b50220969cb39c5bc39059d06e44c2dd74e357824b",

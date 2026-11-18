@@ -1,0 +1,11 @@
+{
+  "id": "robotics",
+  "title": "Robotics & Embodied AI",
+  "short": "Robotics",
+  "aliases": [
+    "Robotics",
+    "Robotics & Embodied AI"
+  ],
+  "businessQuestion": "When do general-purpose humanoid actuators achieve payback against human wage parity?",
+  "investorQuestion": "Which hardware subsystem (actuators, harmonics, sensors, vision-language-action models) holds pricing power?"
+}

@@ -2,7 +2,7 @@
   "id": "confidential-computing-tee",
   "title": "Confidential Computing (TEE)",
   "summary": "Trusted Execution Environments \u2014 Intel SGX, AMD SEV, Arm CCA for data-in-use",
-  "sector": "information-technology",
+  "sector": "cybersecurity",
   "sourceCategory": "Cybersecurity",
   "sourcePath": "_tech/confidential-computing-tee.md",
   "sourceHash": "627c916c9b8c4af3f9cf944035b49692797603c5c7cdb3f93b6405c5c1ae5702",

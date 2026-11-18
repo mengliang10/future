@@ -2,7 +2,7 @@
   "id": "nist-post-quantum-crypto-standard",
   "title": "NIST Post-Quantum Crypto Standard",
   "summary": "CRYSTALS-Kyber/Dilithium standardized 2024; quantum-resistant baseline",
-  "sector": "information-technology",
+  "sector": "quantum",
   "sourceCategory": "Quantum",
   "sourcePath": "_tech/nist-post-quantum-crypto-standard.md",
   "sourceHash": "1b42394a63dcd8c737e317ce1bdefc9058b226df9ac7c89411074ad7abf3e0a6",

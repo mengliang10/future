@@ -2,7 +2,7 @@
   "id": "quantum-error-correction-surface-code",
   "title": "Quantum Error Correction (Surface Code)",
   "summary": "Logical qubit from many physical; ~1000 physical per logical qubit needed",
-  "sector": "information-technology",
+  "sector": "quantum",
   "sourceCategory": "Quantum",
   "sourcePath": "_tech/quantum-error-correction-surface-code.md",
   "sourceHash": "f3953944992d1a8b08b279cf72653f716280812a17a43d64ede621329abb326a",

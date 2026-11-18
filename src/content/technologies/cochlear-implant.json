@@ -2,7 +2,7 @@
   "id": "cochlear-implant",
   "title": "Cochlear Implant",
   "summary": "Electrical stimulation of auditory nerve restoring hearing; widespread globally",
-  "sector": "health-care",
+  "sector": "bci",
   "sourceCategory": "BCI",
   "sourcePath": "_tech/cochlear-implant.md",
   "sourceHash": "715c677b062c4f690140a39be3a0a10fda0bddf41d051a1f62f6b18fff43ec40",

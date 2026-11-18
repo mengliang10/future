@@ -1,0 +1,11 @@
+{
+  "id": "semiconductors",
+  "title": "Semiconductors & Process Nodes",
+  "short": "Semiconductors",
+  "aliases": [
+    "Semiconductors",
+    "Semiconductors & Process Nodes"
+  ],
+  "businessQuestion": "Which foundry constraints and packaging bottlenecks limit the next silicon generation?",
+  "investorQuestion": "Where does gross margin accrue between lithography monopolies, fabs, and fabless designers?"
+}

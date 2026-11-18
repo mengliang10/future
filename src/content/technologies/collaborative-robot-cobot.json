@@ -2,7 +2,7 @@
   "id": "collaborative-robot-cobot",
   "title": "Collaborative Robot (Cobot)",
   "summary": "Force-limited robots working alongside humans safely \u2014 Universal Robots, Fanuc CRX",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/collaborative-robot-cobot.md",
   "sourceHash": "9beaf245d3badbcc374c2e2d729e6e443618e67487aede3706d89fc4892a4e49",

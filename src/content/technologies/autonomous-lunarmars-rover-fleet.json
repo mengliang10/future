@@ -2,7 +2,7 @@
   "id": "autonomous-lunarmars-rover-fleet",
   "title": "Autonomous Lunar/Mars Rover Fleet",
   "summary": "Self-directing robot fleets operating in extraterrestrial environments without Earth-based real-t...",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Space Tech",
   "sourcePath": "_tech/autonomous-lunarmars-rover-fleet.md",
   "sourceHash": "25fae6d801491add5da8331f82e5ff6dd9334c2e8a7cb1c792fd3db2fea6578e",

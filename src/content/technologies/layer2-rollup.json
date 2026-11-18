@@ -2,7 +2,7 @@
   "id": "layer2-rollup",
   "title": "Layer-2 Rollup Scaling",
   "summary": "Off-chain transaction batching with on-chain proof \u2014 Arbitrum, Optimism, zkSync",
-  "sector": "financials",
+  "sector": "blockchain",
   "sourceCategory": "Blockchain",
   "sourcePath": "_tech/layer2-rollup.md",
   "sourceHash": "8171f0e3319f061807b1ea87faae0560696f1a4a3e98e425ca455149a64655d8",

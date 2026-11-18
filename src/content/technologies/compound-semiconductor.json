@@ -2,7 +2,7 @@
   "id": "compound-semiconductor",
   "title": "Compound Semiconductor (III-V / II-VI)",
   "summary": "Semiconductors formed from two or more elements (GaN, GaAs, InP, SiC, AlGaN); superior electron m...",
-  "sector": "information-technology",
+  "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/compound-semiconductor.md",
   "sourceHash": "0698c14458de801ffb2c78491a0341d57c7a8e32260686d2d1b8c8010fe3e614",

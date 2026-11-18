@@ -2,7 +2,7 @@
   "id": "adas-level-3-conditional-highway",
   "title": "ADAS Level 3 (Conditional Highway)",
   "summary": "Driver can disengage in defined conditions \u2014 Mercedes DRIVE PILOT (legal in DE/NV)",
-  "sector": "financials",
+  "sector": "autonomous",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/adas-level-3-conditional-highway.md",
   "sourceHash": "745e4df6fc64cc36bac2ad9f821b250e395442cdc7d20981e6f91e3c6ef61460",

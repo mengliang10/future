@@ -2,7 +2,7 @@
   "id": "photonic-qubit",
   "title": "Photonic Qubit",
   "summary": "Quantum info in photon states; room temp, network-friendly \u2014 PsiQuantum",
-  "sector": "information-technology",
+  "sector": "quantum",
   "sourceCategory": "Quantum",
   "sourcePath": "_tech/photonic-qubit.md",
   "sourceHash": "e31208d0aa8d67bd4968497f195090ba88d22cf5773f30848ad39c3461ae0fe7",

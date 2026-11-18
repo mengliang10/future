@@ -2,7 +2,7 @@
   "id": "protein-structure-prediction-ai",
   "title": "Protein Structure Prediction (AI)",
   "summary": "AlphaFold2/3 predicts folding from sequence; entire UniProt solved 2022",
-  "sector": "health-care",
+  "sector": "drugs-biotech",
   "sourceCategory": "Biotech",
   "sourcePath": "_tech/protein-structure-prediction-ai.md",
   "sourceHash": "5b07828eab43b2a1a10783e875afb88cae40b153a54764f51e29ec9900668047",

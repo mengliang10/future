@@ -2,7 +2,7 @@
   "id": "pqc-enterprise-deployment",
   "title": "PQC Enterprise Deployment",
   "summary": "Enterprises migrated from RSA/ECC to PQC \u2014 TLS, VPNs, PKI infrastructure",
-  "sector": "information-technology",
+  "sector": "quantum",
   "sourceCategory": "Quantum",
   "sourcePath": "_tech/pqc-enterprise-deployment.md",
   "sourceHash": "c4e7e627ec96d9f26ff1593312371732e378ea072479bb63b575a35721f2f6b2",

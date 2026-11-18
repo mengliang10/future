@@ -2,7 +2,7 @@
   "id": "bank-gpt-conversational-interface",
   "title": "Bank-owned GPT Conversational Interface",
   "summary": "Proprietary GPT models designed by banks from the 'outside-in', following customers across channe...",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/bank-gpt-conversational-interface.md",
   "sourceHash": "d55685a81f15ddff31c7c41d7e9ebb39258657c87b604c60fb2748d0aab44e9d",

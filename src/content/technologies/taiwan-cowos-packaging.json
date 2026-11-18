@@ -2,7 +2,7 @@
   "id": "taiwan-cowos-packaging",
   "title": "TSMC CoWoS advanced packaging",
   "summary": "The packaging technology that attaches HBM to AI accelerators, and a hard capacity limit.",
-  "sector": "information-technology",
+  "sector": "memory",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/taiwan-cowos-packaging.md",
   "sourceHash": "6f756bf42ddb7844a8623f0681dfe0d871ec436a18f1c2773392b1821cf05da6",

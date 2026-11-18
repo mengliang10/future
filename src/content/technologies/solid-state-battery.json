@@ -2,7 +2,7 @@
   "id": "solid-state-battery",
   "title": "Solid-State Battery",
   "summary": "Solid electrolyte replacing liquid; higher density, safer \u2014 Toyota, QuantumScape",
-  "sector": "energy",
+  "sector": "quantum",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/solid-state-battery.md",
   "sourceHash": "093625cc05584059d8972857c8c7dda4e53aafc76d8663ae6b8b3f79a41e4ae8",

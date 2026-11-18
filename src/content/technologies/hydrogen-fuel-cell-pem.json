@@ -2,7 +2,7 @@
   "id": "hydrogen-fuel-cell-pem",
   "title": "Hydrogen Fuel Cell (PEM)",
   "summary": "Converting H2 to electricity electrochemically \u2014 vehicles, stationary power",
-  "sector": "financials",
+  "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/hydrogen-fuel-cell-pem.md",
   "sourceHash": "315fca82f5e81f474f49bfcd1101daabb120cce9f3b778d6498befad3b1b99b3",

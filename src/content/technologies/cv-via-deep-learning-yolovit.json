@@ -2,7 +2,7 @@
   "id": "cv-via-deep-learning-yolovit",
   "title": "CV via Deep Learning (YOLO/ViT)",
   "summary": "Real-time object detection and segmentation via neural networks",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/cv-via-deep-learning-yolovit.md",
   "sourceHash": "963821f21ce153b795bb7f0108231165f5f46cc77b8e0a643fddba01577132a3",

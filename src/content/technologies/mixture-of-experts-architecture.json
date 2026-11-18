@@ -2,7 +2,7 @@
   "id": "mixture-of-experts-architecture",
   "title": "Mixture-of-Experts Architecture",
   "summary": "Sparse expert activation \u2014 enables massive param counts at lower compute cost",
-  "sector": "information-technology",
+  "sector": "ai-infrastructure",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/mixture-of-experts-architecture.md",
   "sourceHash": "21a91489a88283520c45408fafd0954a932caac067046f868659e6be6e384217",

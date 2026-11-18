@@ -2,7 +2,7 @@
   "id": "ai-inference-at-edge",
   "title": "AI Inference at Edge",
   "summary": "Running LLM/CV models on-device without cloud round-trip \u2014 phones, cars, robots",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/ai-inference-at-edge.md",
   "sourceHash": "11f052b4a0de131076034566ce27040a70b5183bac459aedda63049e49ba8621",

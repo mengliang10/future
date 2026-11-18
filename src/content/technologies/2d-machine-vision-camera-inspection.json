@@ -2,7 +2,7 @@
   "id": "2d-machine-vision-camera-inspection",
   "title": "2D Machine Vision (Camera Inspection)",
   "summary": "Camera-based part detection and inspection in factory settings",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/2d-machine-vision-camera-inspection.md",
   "sourceHash": "62e9c9435d6c916352f62e56efd60ef397782cb41a917714833793550ad20530",

@@ -2,7 +2,7 @@
   "id": "hyperclova-x",
   "title": "NAVER HyperCLOVA X",
   "summary": "A Korean-language foundation model positioned as national AI infrastructure.",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/hyperclova-x.md",
   "sourceHash": "c410f8b50a64177da426b8677a3cda7647b2c633b53ed3649fec106778e8f095",

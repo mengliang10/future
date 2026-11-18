@@ -2,7 +2,7 @@
   "id": "ai-neural-signal-decoder",
   "title": "AI Neural Signal Decoder",
   "summary": "Deep learning models translating high-dimensional neural spikes to intent",
-  "sector": "health-care",
+  "sector": "bci",
   "sourceCategory": "BCI",
   "sourcePath": "_tech/ai-neural-signal-decoder.md",
   "sourceHash": "1fc9e86596d2413f61ae91d3c328a0c575ad89f6d9d4b7c6d94e0548cb1de0e1",

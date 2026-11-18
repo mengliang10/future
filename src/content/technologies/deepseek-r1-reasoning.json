@@ -2,7 +2,7 @@
   "id": "deepseek-r1-reasoning",
   "title": "DeepSeek R1 and open reasoning models",
   "summary": "Open-weight reasoning models that made frontier-adjacent capability downloadable.",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/deepseek-r1-reasoning.md",
   "sourceHash": "c3b38477213e165945bc320c429e43f43a540408ed5ab4747e6f2c0d8cc53e72",

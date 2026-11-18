@@ -2,7 +2,7 @@
   "id": "solid-state-lidar",
   "title": "Solid-State LiDAR",
   "summary": "Compact, low-cost LiDAR without spinning parts \u2014 Luminar Iris, Innoviz One",
-  "sector": "industrials",
+  "sector": "autonomous",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/solid-state-lidar.md",
   "sourceHash": "9d94de6060e7accac75ba87d6921bacb9b30d6d0855833c8366b4d46b9978cba",

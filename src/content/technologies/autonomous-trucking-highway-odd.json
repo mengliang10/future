@@ -2,7 +2,7 @@
   "id": "autonomous-trucking-highway-odd",
   "title": "Autonomous Trucking (Highway ODD)",
   "summary": "Driverless freight on interstate highways \u2014 Aurora, Waymo Via, Plus.ai",
-  "sector": "industrials",
+  "sector": "autonomous",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/autonomous-trucking-highway-odd.md",
   "sourceHash": "be1d8c09824c532d0b851714b2e4e4b0a1f20844f4f38939bd979da69cf1baf5",

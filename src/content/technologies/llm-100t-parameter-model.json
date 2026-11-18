@@ -2,7 +2,7 @@
   "id": "llm-100t-parameter-model",
   "title": "LLM 100T+ Parameter Model",
   "summary": "Next-gen dense or MoE models exceeding 100T parameters requiring new infra",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/llm-100t-parameter-model.md",
   "sourceHash": "adc85a98ac34153c19f209cf069cb86d58a070cd5d459dda1f9a3ca97d33a156",

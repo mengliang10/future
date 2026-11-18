@@ -2,7 +2,7 @@
   "id": "bidirectional-bci-read-write",
   "title": "Bidirectional BCI (Read + Write)",
   "summary": "Simultaneous neural recording and targeted stimulation for sensation feedback",
-  "sector": "health-care",
+  "sector": "bci",
   "sourceCategory": "BCI",
   "sourcePath": "_tech/bidirectional-bci-read-write.md",
   "sourceHash": "d7b56a4c2c4dc564c1ff361a84c3693c44f01c7885aee6621dcba2e84d7384af",

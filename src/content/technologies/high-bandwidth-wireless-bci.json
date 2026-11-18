@@ -2,7 +2,7 @@
   "id": "high-bandwidth-wireless-bci",
   "title": "High-Bandwidth Wireless BCI (1024ch)",
   "summary": "Fully wireless implant with 1000+ electrode channels \u2014 Neuralink N1 chip",
-  "sector": "health-care",
+  "sector": "bci",
   "sourceCategory": "BCI",
   "sourcePath": "_tech/high-bandwidth-wireless-bci.md",
   "sourceHash": "8c8302a24f98052f82f70ea6d7af019c37e850ce5753baa4b68886ab40f2ccb5",

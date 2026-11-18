@@ -2,7 +2,7 @@
   "id": "dexterous-robot-hand",
   "title": "Dexterous Robot Hand",
   "summary": "Multi-fingered hand with near-human manipulation \u2014 assembly, surgery, daily tasks",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/dexterous-robot-hand.md",
   "sourceHash": "bd4ff49f6bd38f36c3a6e217acee85bc2b42c1e8561c72b7c03c473be755feef",

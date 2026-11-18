@@ -2,7 +2,7 @@
   "id": "hbm4-memory",
   "title": "HBM4 Memory",
   "summary": "Next-gen HBM with 2x bandwidth and tighter integration; Samsung/SK Hynix 2026",
-  "sector": "information-technology",
+  "sector": "memory",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/hbm4-memory.md",
   "sourceHash": "edab15cdae1755c498cec7e7507a48fe557d753746ed577a526d18e9062cd5f2",

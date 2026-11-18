@@ -2,7 +2,7 @@
   "id": "cryogenic-etch-3d-nand",
   "title": "Cryogenic etching for 3D NAND",
   "summary": "Etching memory holes at very low temperature to reach higher layer counts.",
-  "sector": "information-technology",
+  "sector": "memory",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/cryogenic-etch-3d-nand.md",
   "sourceHash": "94379bdde4aedb9e5c7d3f3e3c7bb3b26c937cb2c3d6b2972a1d5215d586677c",

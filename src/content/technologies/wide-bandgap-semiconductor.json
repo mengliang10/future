@@ -2,7 +2,7 @@
   "id": "wide-bandgap-semiconductor",
   "title": "Wide Bandgap Semiconductor (GaN/SiC)",
   "summary": "Semiconductors with bandgap >2 eV (GaN ~3.4 eV, SiC ~3.3 eV) enabling higher voltage, frequency, ...",
-  "sector": "information-technology",
+  "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/wide-bandgap-semiconductor.md",
   "sourceHash": "ad1d13b9e3862a90e06dd6c993a058cdd9bf70fe0cdae3eb00482b1c45b40efb",

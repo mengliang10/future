@@ -1,0 +1,11 @@
+{
+  "id": "llms-models",
+  "title": "LLM Models & Generative AI",
+  "short": "LLMs & Models",
+  "aliases": [
+    "LLMs & Models",
+    "LLM Models & Generative AI"
+  ],
+  "businessQuestion": "How do reasoning models and synthetic data generation alter enterprise software cost?",
+  "investorQuestion": "Where does economic rent settle: foundational model weights, specialized fine-tunes, or apps?"
+}

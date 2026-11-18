@@ -2,7 +2,7 @@
   "id": "av-sensor-fusion-camlidarradar",
   "title": "AV Sensor Fusion (Cam+LiDAR+Radar)",
   "summary": "Fusing multiple sensor modalities for robust environmental perception",
-  "sector": "industrials",
+  "sector": "autonomous",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/av-sensor-fusion-camlidarradar.md",
   "sourceHash": "af37d84c943cc9a6fe9a69361a43ad72f9af791f3ca6a845de20138baa3923fa",

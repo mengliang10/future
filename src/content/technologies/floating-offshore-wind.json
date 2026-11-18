@@ -6,8 +6,8 @@
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/floating-offshore-wind.md",
   "sourceHash": "5934319d7b84178cf92ff254073d482979fcb1caee7e2b9e5a13e33046bc53b7",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Turbines on floating platforms for deep-water offshore deployment.</p>\n<p>Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks <strong>9 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Generating Realistic Safety-Critical Scenarios for Vehicle-Pedestrian  | rel=0.59 | uid:2e3326d6876296f5</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Pilot / Limited Deployment</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.15</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2026–2034</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Medium-Term (2029–2030)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>9</td>\n</tr>\n</tbody>\n</table>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/gev/\">GEV</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nTurbines on floating platforms for deep-water offshore deployment.\n\nPilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **9 independent sources** on this technology.\n\n> RSS:Generating Realistic Safety-Critical Scenarios for Vehicle-Pedestrian  | rel=0.59 | uid:2e3326d6876296f5\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Pilot / Limited Deployment** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.15** |\n| Estimated Deployment | **2026–2034** |\n| Horizon | Medium-Term (2029–2030) |\n| Independent Sources Tracked | 9 |\n\n## Investment Exposure\n\n[GEV](/future/stocks/gev/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Turbines on floating platforms for deep-water offshore deployment.</p>\n<p>Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks <strong>9 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Generating Realistic Safety-Critical Scenarios for Vehicle-Pedestrian  | rel=0.59 | uid:2e3326d6876296f5</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Pilot / Limited Deployment</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.15</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2026\u20132034</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Medium-Term (2029\u20132030)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>9</td>\n</tr>\n</tbody>\n</table>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/gev/\">GEV</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nTurbines on floating platforms for deep-water offshore deployment.\n\nPilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **9 independent sources** on this technology.\n\n> RSS:Generating Realistic Safety-Critical Scenarios for Vehicle-Pedestrian  | rel=0.59 | uid:2e3326d6876296f5\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Pilot / Limited Deployment** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.15** |\n| Estimated Deployment | **2026\u20132034** |\n| Horizon | Medium-Term (2029\u20132030) |\n| Independent Sources Tracked | 9 |\n\n## Investment Exposure\n\n[GEV](/future/stocks/gev/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Floating Offshore Wind",
@@ -16,8 +16,8 @@
     "stage": "pilot",
     "confidence_label": "Speculative",
     "est_year": 2029,
-    "est_year_range": "2026–2034",
-    "horizon": "Medium-Term (2029–2030)",
+    "est_year_range": "2026\u20132034",
+    "horizon": "Medium-Term (2029\u20132030)",
     "source_count": 9,
     "stocks": [
       "GEV"
@@ -28,7 +28,7 @@
   "reviewedAt": null,
   "stage": "pilot",
   "confidenceLabel": "Speculative",
-  "estimate": "2026–2034",
+  "estimate": "2026\u20132034",
   "estimateYear": 2029,
   "sourceCount": 9,
   "companies": [

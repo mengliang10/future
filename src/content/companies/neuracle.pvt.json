@@ -2,7 +2,7 @@
   "id": "neuracle.pvt",
   "title": "Neuracle",
   "summary": "Chinese neural-interface company running wireless epidural BCI trials with Tsinghua University.",
-  "sector": "consumer-discretionary",
+  "sector": "bci",
   "sourceCategory": "BCI",
   "sourcePath": "_stocks/neuracle.pvt.md",
   "sourceHash": "4b6317436b70c64195248828583754228379ce0e6f12ef0fb2673dd3c750e9b3",

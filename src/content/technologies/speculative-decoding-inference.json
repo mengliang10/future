@@ -2,7 +2,7 @@
   "id": "speculative-decoding-inference",
   "title": "Speculative Decoding",
   "summary": "Inference technique using a small draft model to propose tokens verified in parallel by a larger ...",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/speculative-decoding-inference.md",
   "sourceHash": "8344fcfb23649a268d1bbb53e897a445e43b07c3a52079349f63fc3895b20c19",

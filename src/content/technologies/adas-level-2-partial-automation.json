@@ -2,7 +2,7 @@
   "id": "adas-level-2-partial-automation",
   "title": "ADAS Level 2 (Partial Automation)",
   "summary": "Combined steering + acceleration automation with driver supervision \u2014 Tesla AP",
-  "sector": "industrials",
+  "sector": "autonomous",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/adas-level-2-partial-automation.md",
   "sourceHash": "d987a97836d3457147dbc8178757a1012697920028ff126b466d186efe9b127a",

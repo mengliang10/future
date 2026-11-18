@@ -2,7 +2,7 @@
   "id": "trapped-ion-qubit",
   "title": "Trapped Ion Qubit",
   "summary": "Individual ions in EM field as high-fidelity qubits; IonQ, Quantinuum",
-  "sector": "information-technology",
+  "sector": "quantum",
   "sourceCategory": "Quantum",
   "sourcePath": "_tech/trapped-ion-qubit.md",
   "sourceHash": "e0586524e517e053f3b46fd7c68eca2cdfb4a9a6e210f9e285861b06660e6257",

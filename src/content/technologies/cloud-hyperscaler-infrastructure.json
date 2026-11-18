@@ -2,7 +2,7 @@
   "id": "cloud-hyperscaler-infrastructure",
   "title": "Cloud Hyperscaler Infrastructure",
   "summary": "Massive data center networks: AWS, Azure, GCP serving global AI workloads",
-  "sector": "information-technology",
+  "sector": "ai-infrastructure",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/cloud-hyperscaler-infrastructure.md",
   "sourceHash": "38bc2d8a42be2e7bd7e63a4e17ee06253ee5fbac7cff2fc92f97e37e4e9b2f77",

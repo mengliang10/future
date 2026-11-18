@@ -2,7 +2,7 @@
   "id": "robotics-foundation-model",
   "title": "Robotics Foundation Model",
   "summary": "General-purpose model controlling diverse robot morphologies via language/vision",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/robotics-foundation-model.md",
   "sourceHash": "161d61030465d4c79d513242fcebab3eff569d5bf4cbcfc71c33e63e0d4dd3fc",

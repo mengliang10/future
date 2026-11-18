@@ -2,7 +2,7 @@
   "id": "data-center-liquid-cooling",
   "title": "Data Center Liquid Cooling",
   "summary": "Direct liquid cooling of GPU racks enabling higher power density for AI clusters",
-  "sector": "real-estate",
+  "sector": "ai-infrastructure",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/data-center-liquid-cooling.md",
   "sourceHash": "2316054845dd750877cc35ccc065db6eaf29545bd5730ccb86dfb2c01fdb97b2",

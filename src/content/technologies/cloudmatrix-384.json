@@ -2,7 +2,7 @@
   "id": "cloudmatrix-384",
   "title": "CloudMatrix 384 supernode",
   "summary": "Huawei's rack-scale system that links 384 accelerators to compete with Nvidia's rack designs.",
-  "sector": "information-technology",
+  "sector": "ai-infrastructure",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/cloudmatrix-384.md",
   "sourceHash": "e7a757a9c7c7aa51c4432f2e6f105e6a6d0f46cb429cdae649e87642fa797b6a",

@@ -2,7 +2,7 @@
   "id": "zk-evm-zk-rollup-evm-compatible",
   "title": "ZK-EVM (ZK-Rollup + EVM Compatible)",
   "summary": "EVM-compatible ZK rollup enabling Ethereum compatibility at 100x lower cost",
-  "sector": "financials",
+  "sector": "blockchain",
   "sourceCategory": "Blockchain",
   "sourcePath": "_tech/zk-evm-zk-rollup-evm-compatible.md",
   "sourceHash": "325e55231e098bfa1d90342e91e311dcc67516c0be2882a582f8eefe90414d62",

@@ -2,7 +2,7 @@
   "id": "superconducting-qubit",
   "title": "Superconducting Qubit",
   "summary": "Josephson junction qubit at millikelvin; IBM Eagle/Heron, Google Willow",
-  "sector": "information-technology",
+  "sector": "quantum",
   "sourceCategory": "Quantum",
   "sourcePath": "_tech/superconducting-qubit.md",
   "sourceHash": "18faa2e98c404f19533114319bfff8ccc895330b7dcf37ab87d73ee04b7d1308",

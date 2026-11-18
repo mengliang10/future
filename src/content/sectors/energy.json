@@ -1,16 +1,11 @@
 {
   "id": "energy",
-  "title": "Energy",
-  "weight": "4%",
-  "change": "0.53%",
+  "title": "Energy & Power Systems",
+  "short": "Energy & Power",
   "aliases": [
-    "Energy",
-    "Energy Tech",
-    "Clean Energy",
-    "Power",
-    "Nuclear",
-    "Oil & Gas"
+    "Energy & Power",
+    "Energy & Power Systems"
   ],
-  "businessQuestion": "Which operational constraint could next-generation clean power and storage remove, and what would grid-scale adoption cost?",
-  "investorQuestion": "Who captures the value in baseload generation and energy storage, and what capital expenditure milestone unlocks profitability?"
+  "businessQuestion": "How quickly can baseload clean energy (SMRs, fusion, grid batteries) meet data center load growth?",
+  "investorQuestion": "Which energy producers command premium long-term power purchase agreements (PPAs)?"
 }

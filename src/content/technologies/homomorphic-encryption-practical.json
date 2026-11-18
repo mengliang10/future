@@ -2,7 +2,7 @@
   "id": "homomorphic-encryption-practical",
   "title": "Homomorphic Encryption (Practical)",
   "summary": "Computing on encrypted data without decryption \u2014 FHE reaching usable speeds",
-  "sector": "information-technology",
+  "sector": "cybersecurity",
   "sourceCategory": "Cybersecurity",
   "sourcePath": "_tech/homomorphic-encryption-practical.md",
   "sourceHash": "397c801ad21dc19ff882987bced2ecf409ce9bcf9eadaf3d4d7cda9a5014f5eb",

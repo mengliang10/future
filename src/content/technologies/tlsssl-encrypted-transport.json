@@ -2,7 +2,7 @@
   "id": "tlsssl-encrypted-transport",
   "title": "TLS/SSL Encrypted Transport",
   "summary": "Transport Layer Security encrypting all web, API, and application traffic",
-  "sector": "information-technology",
+  "sector": "cybersecurity",
   "sourceCategory": "Cybersecurity",
   "sourcePath": "_tech/tlsssl-encrypted-transport.md",
   "sourceHash": "f574a0e2bf5c9e18379b3a5f5febaa53b4db4621acef9a499308a0270b8d810a",

@@ -2,7 +2,7 @@
   "id": "inference-time-compute-scaling-test-time-rl",
   "title": "Inference-Time Compute Scaling (Test-Time RL)",
   "summary": "Scaling compute at inference time rather than (only) at training time. Models think longer on hard problems via chain...",
-  "sector": "information-technology",
+  "sector": "ai-infrastructure",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/inference-time-compute-scaling-test-time-rl.md",
   "sourceHash": "4859f211f927eebae4c9ef62e8a1fe2ede157ba7215cd818181bc97d19aeb229",

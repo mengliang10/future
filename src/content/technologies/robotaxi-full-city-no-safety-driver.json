@@ -2,7 +2,7 @@
   "id": "robotaxi-full-city-no-safety-driver",
   "title": "Robotaxi (Full City, No Safety Driver)",
   "summary": "Driverless taxi across entire metro without geofencing or safety driver",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/robotaxi-full-city-no-safety-driver.md",
   "sourceHash": "352a8e1f8c59f5c3cee5e64b3002d176dd1acbe524521662c9595b820914114c",

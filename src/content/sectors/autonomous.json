@@ -1,0 +1,11 @@
+{
+  "id": "autonomous",
+  "title": "Autonomous Vehicles & Mobility",
+  "short": "Autonomous & AV",
+  "aliases": [
+    "Autonomous & AV",
+    "Autonomous Vehicles & Mobility"
+  ],
+  "businessQuestion": "What sensor fusion mix delivers commercial safety verification at mass scale?",
+  "investorQuestion": "How does robotaxi fleet economics reshape automotive OEM unit sales and software subscriptions?"
+}

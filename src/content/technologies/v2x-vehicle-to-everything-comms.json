@@ -2,7 +2,7 @@
   "id": "v2x-vehicle-to-everything-comms",
   "title": "V2X Vehicle-to-Everything Comms",
   "summary": "Direct vehicle-infrastructure communication for cooperative driving safety",
-  "sector": "industrials",
+  "sector": "autonomous",
   "sourceCategory": "Autonomous",
   "sourcePath": "_tech/v2x-vehicle-to-everything-comms.md",
   "sourceHash": "7e824c9f6ea7a4d34be16a9adf01fd3791c29ea71333974014a2c90923a4cc48",

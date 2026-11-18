@@ -2,7 +2,7 @@
   "id": "nanosheet-transistor",
   "title": "Nanosheet Transistor (GAA architecture)",
   "summary": "Horizontal nanosheet stacks replacing FinFET fins in gate-all-around transistors; TSMC/Samsung 3n...",
-  "sector": "information-technology",
+  "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/nanosheet-transistor.md",
   "sourceHash": "8af637fde26c3d29a499f0e5cbbec6f477a7c7203ce6fb03cebe0b75d5082833",

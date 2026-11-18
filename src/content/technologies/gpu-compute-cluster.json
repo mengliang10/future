@@ -2,7 +2,7 @@
   "id": "gpu-compute-cluster",
   "title": "GPU Compute Cluster",
   "summary": "Large-scale GPU arrays enabling parallel matrix ops for deep learning training",
-  "sector": "information-technology",
+  "sector": "ai-infrastructure",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/gpu-compute-cluster.md",
   "sourceHash": "1c94d689917f5851b658a100a573d2349a6346ec234e1d3c46261a0ddddd2e4d",

@@ -2,7 +2,7 @@
   "id": "biology-foundation-model",
   "title": "Biology Foundation Model",
   "summary": "LLM-scale model trained on genomic, proteomic, and clinical data",
-  "sector": "information-technology",
+  "sector": "drugs-biotech",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/biology-foundation-model.md",
   "sourceHash": "e2b7e78b050a6630ec019392c5794aec701ee50c83d3f81c94359f87f94439dd",

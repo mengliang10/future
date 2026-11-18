@@ -2,7 +2,7 @@
   "id": "next-generation-sequencing-ngs",
   "title": "Next-Generation Sequencing (NGS)",
   "summary": "High-throughput parallel DNA sequencing \u2014 Illumina NovaSeq, PacBio, Nanopore",
-  "sector": "health-care",
+  "sector": "drugs-biotech",
   "sourceCategory": "Biotech",
   "sourcePath": "_tech/next-generation-sequencing-ngs.md",
   "sourceHash": "ef30c59da59ea1aa026452aea4e3374a29362b4b1bebceec7fa95eeeac302558",

@@ -2,7 +2,7 @@
   "id": "eeg-non-invasive-brain-recording",
   "title": "EEG (Non-Invasive Brain Recording)",
   "summary": "Scalp electrodes recording brain rhythms; consumer headsets available",
-  "sector": "health-care",
+  "sector": "bci",
   "sourceCategory": "BCI",
   "sourcePath": "_tech/eeg-non-invasive-brain-recording.md",
   "sourceHash": "22fcb6c11ac514226e0270685d0691a284dcea3ccc612c4f0ec4c9924a1b80d1",

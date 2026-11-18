@@ -2,7 +2,7 @@
   "id": "hbm3-memory",
   "title": "HBM3 / HBM3e Stacked Memory",
   "summary": "High-bandwidth memory stacked on interposer; 1TB/s+ bandwidth for AI training",
-  "sector": "information-technology",
+  "sector": "memory",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/hbm3-memory.md",
   "sourceHash": "a933742ed47ba8ce231153548ed5f4d8c7847c8183a97ac2976f71a0ce751e9d",

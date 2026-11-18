@@ -2,7 +2,7 @@
   "id": "quantum-network-entanglement-dist",
   "title": "Quantum Network (Entanglement Dist.)",
   "summary": "Distributed entangled qubits over fiber/satellite for QKD and compute networks",
-  "sector": "information-technology",
+  "sector": "quantum",
   "sourceCategory": "Quantum",
   "sourcePath": "_tech/quantum-network-entanglement-dist.md",
   "sourceHash": "145dcfb770b95aadb73a838a631fe521875c400bedc4c11c254137808641aa03",

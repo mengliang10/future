@@ -2,7 +2,7 @@
   "id": "cowos-advanced-packaging",
   "title": "CoWoS Advanced Packaging",
   "summary": "Chip-on-Wafer-on-Substrate integrating GPU+HBM on interposer; TSMC monopoly for AI",
-  "sector": "information-technology",
+  "sector": "memory",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/cowos-advanced-packaging.md",
   "sourceHash": "c0b3f2c9ce85f0a5ffd892c82c28525762acf5729bd2766b78144559a50508ae",

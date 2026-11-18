@@ -2,7 +2,7 @@
   "id": "finfet-transistor-3d-gate",
   "title": "FinFET Transistor (3D Gate)",
   "summary": "3D fin-shaped FET enabling scaling below 22nm; used at 5\u201314nm nodes",
-  "sector": "information-technology",
+  "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/finfet-transistor-3d-gate.md",
   "sourceHash": "407caa4872dfb958d965df4011345ebd6ebe1e7e03a15777364fd4db8b0cadc7",

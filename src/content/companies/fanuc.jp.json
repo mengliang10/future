@@ -2,7 +2,7 @@
   "id": "fanuc.jp",
   "title": "Fanuc",
   "summary": "Japanese industrial robot and CNC maker with a large installed base and service annuity.",
-  "sector": "industrials",
+  "sector": "robotics",
   "sourceCategory": "Robotics & Automation",
   "sourcePath": "_stocks/fanuc.jp.md",
   "sourceHash": "da9964ce9287b468f6c9e5e660a5d2c31ac632797027fb4bcea50e2c815b95ac",

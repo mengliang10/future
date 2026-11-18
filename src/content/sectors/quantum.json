@@ -1,0 +1,11 @@
+{
+  "id": "quantum",
+  "title": "Quantum Computing & Sensing",
+  "short": "Quantum",
+  "aliases": [
+    "Quantum",
+    "Quantum Computing & Sensing"
+  ],
+  "businessQuestion": "What computational problems achieve genuine quantum utility before full error correction?",
+  "investorQuestion": "Which qubit modality and cryogenic stack offers the lowest cost per logical qubit?"
+}

@@ -2,7 +2,7 @@
   "id": "linde.us",
   "title": "Linde",
   "summary": "The largest industrial-gas supplier, providing ultra-high-purity gases to fabs and launch sites.",
-  "sector": "materials",
+  "sector": "materials-physics",
   "sourceCategory": "Industrial Gases",
   "sourcePath": "_stocks/linde.us.md",
   "sourceHash": "344b782beeb2a56633c75284a9d3af52ed83eea03406f52ff19abf6022358cc1",

@@ -2,7 +2,7 @@
   "id": "heavy-lift-rocket-100t-to-leo",
   "title": "Heavy Lift Rocket (100t to LEO)",
   "summary": "Rockets lifting 100+ metric tons to LEO \u2014 Starship (150t), SLS (95t)",
-  "sector": "industrials",
+  "sector": "space",
   "sourceCategory": "Space Tech",
   "sourcePath": "_tech/heavy-lift-rocket-100t-to-leo.md",
   "sourceHash": "57a695fc7f710254702014a8df5d433638390be7d592e54fae21c19209409466",

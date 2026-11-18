@@ -2,7 +2,7 @@
   "id": "spacex.us",
   "title": "SpaceX",
   "summary": "Operator of Falcon 9, Falcon Heavy and Starship, and the anchor customer for much of the launch supply chain.",
-  "sector": "industrials",
+  "sector": "space",
   "sourceCategory": "Space Tech",
   "sourcePath": "_stocks/spacex.us.md",
   "sourceHash": "bf496c41fad12d3331983b77a76048829b9d65d67fe4cc74cc32223de90140f0",

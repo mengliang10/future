@@ -2,7 +2,7 @@
   "id": "cohere.ca",
   "title": "Cohere",
   "summary": "Canadian enterprise-model company focused on private deployment and retrieval.",
-  "sector": "information-technology",
+  "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_stocks/cohere.ca.md",
   "sourceHash": "d995cccdba74d36a69867fb7a9c775b00400c09889a4a605bab88c5e6499e40f",

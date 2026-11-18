@@ -2,7 +2,7 @@
   "id": "autonomous-nuclear-plant-operations",
   "title": "Autonomous Nuclear Plant Operations",
   "summary": "Humanoid and specialised robots performing maintenance, inspection, and operation of nuclear faci...",
-  "sector": "energy",
+  "sector": "robotics",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/autonomous-nuclear-plant-operations.md",
   "sourceHash": "99da64bfe66640324384b5b46c2879f9bae7f9d75ad81e74a41e5a9889676bb2",

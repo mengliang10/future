@@ -2,7 +2,7 @@
   "id": "mastercard-ai-intent-cryptogram",
   "title": "Mastercard AI Payment Intent Cryptogram",
   "summary": "Mastercard's cryptographic token that validates AI agent payment intent before execution, enablin...",
-  "sector": "financials",
+  "sector": "ai-agents-software",
   "sourceCategory": "Financial Markets",
   "sourcePath": "_tech/mastercard-ai-intent-cryptogram.md",
   "sourceHash": "9b9ed85ac81c371fb1c49f7df2f5fae7d01e5da87775aa5fd87f402649d4dc2f",

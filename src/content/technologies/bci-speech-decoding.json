@@ -2,7 +2,7 @@
   "id": "bci-speech-decoding",
   "title": "BCI Speech Decoding",
   "summary": "Reconstructing intended speech from neural signals at conversational speed",
-  "sector": "health-care",
+  "sector": "llms-models",
   "sourceCategory": "BCI",
   "sourcePath": "_tech/bci-speech-decoding.md",
   "sourceHash": "2bb074252fc58f43da3f7c15476d6b653648f372a407bd97d7f6f212a2207961",

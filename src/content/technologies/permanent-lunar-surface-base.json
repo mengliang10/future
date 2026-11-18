@@ -2,7 +2,7 @@
   "id": "permanent-lunar-surface-base",
   "title": "Permanent Lunar Surface Base",
   "summary": "Sustained human presence on Moon with ISRU \u2014 NASA Artemis, Gateway station",
-  "sector": "industrials",
+  "sector": "space",
   "sourceCategory": "Space Tech",
   "sourcePath": "_tech/permanent-lunar-surface-base.md",
   "sourceHash": "2a43615d2a61bc065562021c395f307b136a8a0b9d6e32dc38c58fe4315c9047",

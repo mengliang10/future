@@ -2,7 +2,7 @@
   "id": "vr-headset-consumer",
   "title": "Consumer VR Headset (6DOF Standalone)",
   "summary": "6DOF standalone VR headsets \u2014 Meta Quest 3, PlayStation VR2, ByteDance Pico",
-  "sector": "consumer-discretionary",
+  "sector": "spatial-computing",
   "sourceCategory": "XR",
   "sourcePath": "_tech/vr-headset-consumer.md",
   "sourceHash": "fc37bf59ccc2fe8252dfd68a4d8e3adb565c5b50594b7d521870878b44458de6",
