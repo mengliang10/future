@@ -4,6 +4,7 @@ import {visualFor,horizonFor} from '../lib/visuals';
 import Site from '../layouts/Site.astro';
 import TechAnatomy from './TechAnatomy.astro';
 import TechSignal from './TechSignal.astro';
+import CompanySignal from './CompanySignal.astro';
 import {records,label,provenanceLabel,displayTitle} from '../lib/catalogue';
 import {sourceLinks} from '../lib/source-links';
 
@@ -41,6 +42,9 @@ const sections = body
 const showToc = sections.length > 2;
 
 const sectorTechCount = isTech ? 0 : tech.filter(t => t.sector === record.sector).length;
+const signalSectors = new Set(
+  [record.sector, ...(record.sectors || []), ...related.flatMap((t: any) => [t.sector, ...(t.sectors || [])])].filter(Boolean)
+).size;
 ---
 <Site title={record.title} active={isTech?'Explore':'Companies'}><article class="container record" style={`--sector:${accent}`} data-record-id={record.id} data-collection={isTech?'technologies':'companies'}>
 <nav class="breadcrumb" aria-label="Breadcrumb"><a href={url(isTech?'/explore/':'/companies/')}>{isTech?'Explore':'Companies'}</a><span>/</span>{sector&&<a href={url(`/sectors/${sector.id}/`)}>{sector.title}</a>}</nav>
@@ -59,6 +63,8 @@ const sectorTechCount = isTech ? 0 : tech.filter(t => t.sector === record.sector
     <div><span>Linked technologies</span><strong>{related.length}</strong></div>
   </>}
 </div>
+
+{!isTech && related.length > 0 && <CompanySignal technologies={related} sectorCount={signalSectors} accent={accent}/>}
 
 {isTech && (prereqs.length > 0 || enables.length > 0) && <TechAnatomy record={record} prereqs={prereqs} enables={enables} companies={related} accent={accent}/>}
 {isTech && prereqs.length === 0 && enables.length === 0 && <section class="record-signal"><span class="eyebrow">Development signal</span><TechSignal record={record} accent={accent}/><p>This source record does not list explicit prerequisites or downstream links. The stage and window below come from the imported metadata.</p></section>}

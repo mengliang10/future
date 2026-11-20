@@ -7,5 +7,6 @@
     "AI Infrastructure & Compute"
   ],
   "businessQuestion": "What thermal density and cluster networking limits dictate gigawatt-scale data center design?",
-  "investorQuestion": "Who captures sustained margin: custom accelerator designers, server integrators, or optical transceivers?"
+  "investorQuestion": "Who captures sustained margin: custom accelerator designers, server integrators, or optical transceivers?",
+  "overview": "The record set splits into optics, packaging, cooling and power delivery — the physical constraints on scaling accelerator clusters. Only a handful of entries reach mass production, which means the sector rewards suppliers already qualified into accelerator supply chains; the rest are option value on a broader re-architecture of the data centre."
 }

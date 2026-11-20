@@ -7,5 +7,6 @@
     "Memory & Storage Architectures"
   ],
   "businessQuestion": "How does memory bandwidth scaling decouple compute performance from cost?",
-  "investorQuestion": "Which memory architectures (HBM, 3D NAND, CXL) capture structural pricing premiums?"
+  "investorQuestion": "Which memory architectures (HBM, 3D NAND, CXL) capture structural pricing premiums?",
+  "overview": "A compact set dominated by HBM, 3D stacking and packaging-adjacent memory. Several records are already in mass production, making this one of the few sectors where the constraint is capacity and yield rather than demand. The remaining entries are bets on replacing part of the DRAM hierarchy, and they depend on the same packaging capacity as the incumbents."
 }

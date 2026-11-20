@@ -7,5 +7,6 @@
     "Energy & Power Systems"
   ],
   "businessQuestion": "How quickly can baseload clean energy (SMRs, fusion, grid batteries) meet data center load growth?",
-  "investorQuestion": "Which energy producers command premium long-term power purchase agreements (PPAs)?"
+  "investorQuestion": "Which energy producers command premium long-term power purchase agreements (PPAs)?",
+  "overview": "Energy shows the widest deployment gap on the site: many records describe storage, grid and generation concepts still at proof of concept, while a smaller set — inverters, lithium cells, solar — is already at mass production. The business question is which concepts survive interconnection queues, permitting and the cost of capital, because technical feasibility alone rarely decides the outcome."
 }

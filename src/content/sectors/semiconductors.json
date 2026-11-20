@@ -7,5 +7,6 @@
     "Semiconductors & Process Nodes"
   ],
   "businessQuestion": "Which foundry constraints and packaging bottlenecks limit the next silicon generation?",
-  "investorQuestion": "Where does gross margin accrue between lithography monopolies, fabs, and fabless designers?"
+  "investorQuestion": "Where does gross margin accrue between lithography monopolies, fabs, and fabless designers?",
+  "overview": "The largest and most heavily covered sector, from process nodes and lithography to packaging and specialty materials. Maturity is bimodal — leading-edge records are commercial while exploratory ones remain research — so the useful lens is each record's position in the supply chain and its exposure to capex cycles. Concentration among a few fabs and tool vendors shapes every adjacent bet."
 }

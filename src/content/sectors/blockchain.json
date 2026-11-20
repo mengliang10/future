@@ -7,5 +7,6 @@
     "Blockchain & Web3"
   ],
   "businessQuestion": "What settlement efficiency gains justify moving physical assets and bank deposits on-chain?",
-  "investorQuestion": "Where does value accrue: base settlement layers, execution rollups, or regulated issuers?"
+  "investorQuestion": "Where does value accrue: base settlement layers, execution rollups, or regulated issuers?",
+  "overview": "Half of these records are already in production, mostly payments, stablecoins and tokenisation infrastructure rather than speculative applications. The useful split is between regulated rails — custody, settlement, compliance — and decentralised protocols whose economics remain unproven outside crypto-native users. Regulation is the binding constraint in both cases."
 }

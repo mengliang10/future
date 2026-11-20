@@ -7,5 +7,6 @@
     "AI Agents & Software Engineering"
   ],
   "businessQuestion": "How does autonomous code generation and verification compress software engineering overhead?",
-  "investorQuestion": "Do developer tools convert seat-based software licences into work-completed compute billings?"
+  "investorQuestion": "Do developer tools convert seat-based software licences into work-completed compute billings?",
+  "overview": "Most of this sector is still at proof of concept: agents that plan, call tools and write code exist, but reliability, evaluation and permissioning remain unsolved. The companies here cluster around developer tooling rather than end-user products, so the near-term bet is on other software businesses adopting agents — not on consumer demand arriving on schedule."
 }

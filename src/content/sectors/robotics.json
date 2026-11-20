@@ -7,5 +7,6 @@
     "Robotics & Embodied AI"
   ],
   "businessQuestion": "When do general-purpose humanoid actuators achieve payback against human wage parity?",
-  "investorQuestion": "Which hardware subsystem (actuators, harmonics, sensors, vision-language-action models) holds pricing power?"
+  "investorQuestion": "Which hardware subsystem (actuators, harmonics, sensors, vision-language-action models) holds pricing power?",
+  "overview": "Records span industrial automation through humanoids, with a growing cluster at pilot stage. Hardware maturity runs ahead of software generalisation: the companies to watch are those selling actuators, sensors and manipulation stacks into existing plants rather than promising general-purpose labour. Deployment evidence, not demo footage, is the differentiator."
 }

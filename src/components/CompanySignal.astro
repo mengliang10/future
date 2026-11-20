@@ -1,0 +1,98 @@
+---
+/** Research signal for a company: how many records it touches, at what stage, and when. */
+import {stageGroup} from '../lib/visuals';
+
+const {technologies = [], sectorCount = 0, accent = '#5365d9'} = Astro.props;
+
+const bins = [
+  {id: 'commercial', label: 'Commercial', color: accent},
+  {id: 'development', label: 'Pilot / prototype', color: '#7a90c4'},
+  {id: 'research', label: 'Research', color: '#a9b2c6'},
+  {id: 'other', label: 'Unlabelled', color: '#d7dbe4'},
+];
+const counts = bins.map((bin) => ({
+  ...bin,
+  count: technologies.filter((t: any) => stageGroup(t.stage) === bin.id).length,
+}));
+const total = Math.max(1, technologies.length);
+
+const years = technologies
+  .map((t: any) => Number(t.estimateYear))
+  .filter((year: number) => Number.isFinite(year) && year >= 2024 && year <= 2055)
+  .sort((a: number, b: number) => a - b);
+const undated = technologies.length - years.length;
+
+const x0 = 452;
+const x1 = 828;
+const minYear = 2024;
+const maxYear = 2052;
+const px = (year: number) => x0 + ((Math.min(maxYear, Math.max(minYear, year)) - minYear) / (maxYear - minYear)) * (x1 - x0);
+const ticks = [2025, 2030, 2035, 2040, 2045, 2050];
+
+let barX = 212;
+const segments = counts
+  .filter((bin) => bin.count > 0)
+  .map((bin) => {
+    const width = (bin.count / total) * 220;
+    const segment = {...bin, x: barX, width};
+    barX += width;
+    return segment;
+  });
+
+const yearLabel = years.length ? `${years[0]}–${years[years.length - 1]}` : 'No dated window';
+---
+
+<figure class="company-signal" style={`--signal-accent:${accent}`}>
+  <figcaption>
+    <span class="eyebrow">Research signal</span>
+    <span class="signal-note">Derived from linked technology records</span>
+  </figcaption>
+
+  <svg viewBox="0 0 860 196" role="img" aria-label={`${technologies.length} linked technologies across ${sectorCount} sectors`}>
+    <text x="0" y="38" class="signal-value">{technologies.length}</text>
+    <text x="0" y="58" class="signal-unit">linked technologies</text>
+    <text x="0" y="84" class="signal-meta">{sectorCount} {sectorCount === 1 ? 'sector' : 'sectors'} of exposure</text>
+
+    <text x="212" y="22" class="signal-label">Stage mix</text>
+    <rect x="212" y="34" width="220" height="14" rx="7" fill="#eceff5"/>
+    {segments.map((segment) => (
+      <rect x={segment.x} y="34" width={segment.width} height="14" fill={segment.color}/>
+    ))}
+    {counts.map((bin, i) => (
+      <g transform={`translate(${212 + (i % 2) * 118}, ${64 + Math.floor(i / 2) * 20})`}>
+        <circle cx="4" cy="-3" r="3.5" fill={bin.color}/>
+        <text x="11" y="0" class="signal-tick">{bin.count}</text>
+        <text x="24" y="0" class="signal-tick-label">{bin.label}</text>
+      </g>
+    ))}
+
+    <text x={x0} y="22" class="signal-label">Deployment window</text>
+    <line x1={x0} y1="96" x2={x1} y2="96" stroke="#dfe3ea"/>
+    {ticks.map((tick) => (
+      <g>
+        <line x1={px(tick)} y1="92" x2={px(tick)} y2="100" stroke="#c6ccd8"/>
+        <text x={px(tick)} y="114" text-anchor="middle" class="signal-tick-label">{tick}</text>
+      </g>
+    ))}
+    {years.map((year: number, i: number) => (
+      <circle cx={px(year)} cy={80 - (i % 4) * 7} r="4" fill={accent} opacity="0.85"/>
+    ))}
+    <text x={x0} y="140" class="signal-meta">
+      {yearLabel}{undated > 0 ? ` · ${undated} record${undated === 1 ? '' : 's'} without a dated window` : ''}
+    </text>
+    <text x={x0} y="160" class="signal-meta">Higher position means later deployment estimate.</text>
+  </svg>
+</figure>
+
+<style>
+.company-signal{margin:26px 0 6px;padding:18px 22px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+.company-signal figcaption{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:2px}
+.signal-note{font-size:12px;color:var(--muted)}
+.company-signal svg{display:block;width:100%;height:auto;margin-top:4px}
+.signal-value{font:700 34px/1 var(--sans,inherit);fill:var(--ink)}
+.signal-unit{font:600 12px/1 var(--sans,inherit);fill:var(--text);text-transform:uppercase;letter-spacing:.06em}
+.signal-meta{font:400 11.5px/1 var(--sans,inherit);fill:var(--muted)}
+.signal-label{font:700 10.5px/1 var(--sans,inherit);fill:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.signal-tick{font:600 11px/1 var(--sans,inherit);fill:var(--ink)}
+.signal-tick-label{font:400 10.5px/1 var(--sans,inherit);fill:var(--muted)}
+</style>

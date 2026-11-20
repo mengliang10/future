@@ -1,11 +1,12 @@
 {
   "id": "bci",
-  "title": "Brain\u2013Computer Interfaces",
+  "title": "Brain–Computer Interfaces",
   "short": "BCI",
   "aliases": [
     "BCI",
-    "Brain\u2013Computer Interfaces"
+    "Brain–Computer Interfaces"
   ],
   "businessQuestion": "What medical indications clear regulatory pathways before consumer neural telemetry arrives?",
-  "investorQuestion": "Can non-invasive signal acquisition achieve clinical fidelity without implant risk?"
+  "investorQuestion": "Can non-invasive signal acquisition achieve clinical fidelity without implant risk?",
+  "overview": "A small, bifurcated field: implantable clinical systems with long regulatory paths, and non-invasive headsets already shipping at low volume. The records track both, but commercial evidence is concentrated in neuro-rehabilitation and research use, not consumer control. Clinical milestones, not hardware demos, are the signal to watch."
 }

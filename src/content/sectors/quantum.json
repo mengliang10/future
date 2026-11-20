@@ -7,5 +7,6 @@
     "Quantum Computing & Sensing"
   ],
   "businessQuestion": "What computational problems achieve genuine quantum utility before full error correction?",
-  "investorQuestion": "Which qubit modality and cryogenic stack offers the lowest cost per logical qubit?"
+  "investorQuestion": "Which qubit modality and cryogenic stack offers the lowest cost per logical qubit?",
+  "overview": "Quantum records are mostly research and proof of concept, with error correction and hardware modalities dominating. Commercial entries concentrate in sensing and post-quantum cryptography — nearer-term businesses with current buyers — rather than fault-tolerant computing. Read the sector as several distinct markets sharing a vocabulary."
 }

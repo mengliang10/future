@@ -72,6 +72,13 @@ const sectorCompanies = companies.filter(c=>c.sector===sector.id || (c.sectors||
       <SectorPortrait technologies={sectorTech} companies={sectorCompanies} accent={v.color}/>
     </section>
 
+    {sector.overview && (
+      <section class="sector-overview" style={`--sector-accent: ${v.color};`} aria-label={`Editorial overview of ${sector.title}`}>
+        <span class="lens-label">Editorial overview</span>
+        <p>{sector.overview}</p>
+      </section>
+    )}
+
     <section class="sector-content-section">
       <div class="section-heading-row">
         <h2>Technology Roadmaps & Records in {sector.title}</h2>
@@ -198,6 +205,21 @@ const sectorCompanies = companies.filter(c=>c.sector===sector.id || (c.sectors||
 }
 .deck-cta-btn:hover {
   background: var(--sector-accent);
+}
+.sector-overview {
+  margin: 0 0 38px;
+  padding: 22px 26px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--sector-accent);
+  border-radius: 6px;
+  max-width: 960px;
+}
+.sector-overview p {
+  margin: 8px 0 0;
+  font-size: 16px;
+  line-height: 1.72;
+  color: var(--text);
 }
 .sector-content-section {
   margin-top: 40px;

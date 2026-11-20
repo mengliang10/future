@@ -7,5 +7,6 @@
     "LLM Models & Generative AI"
   ],
   "businessQuestion": "How do reasoning models and synthetic data generation alter enterprise software cost?",
-  "investorQuestion": "Where does economic rent settle: foundational model weights, specialized fine-tunes, or apps?"
+  "investorQuestion": "Where does economic rent settle: foundational model weights, specialized fine-tunes, or apps?",
+  "overview": "Model records turn over faster than any other sector, with capability claims ageing in months. The durable questions are distribution, inference cost and proprietary data, not benchmark leadership. Company coverage is heavy on labs and light on the application layer that actually pays for tokens, which is where margin is most likely to settle."
 }
