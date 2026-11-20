@@ -1,7 +1,7 @@
 {
   "id": "optical-computing-photonic-logic",
   "title": "Optical Computing (Photonic Logic)",
-  "summary": "",
+  "summary": "Performing logic with light rather than electrons, explored for low-energy matrix operations.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/optical-computing-photonic-logic.md",
@@ -15,17 +15,17 @@
     "category": "Semiconductors",
     "status": "basic_research",
     "est_year": 2039,
-    "est_year_range": "2037\u20132045",
+    "est_year_range": "2037–2045",
     "horizon": "Long-Term (2035+)"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
   "stage": "basic_research",
   "confidenceLabel": "Not classified",
-  "estimate": "2037\u20132045",
+  "estimate": "2037–2045",
   "estimateYear": 2039,
   "sourceCount": null,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Optical logic promises energy savings but lacks manufacturable components and a programming model, so it remains research.",
+  "investmentLens": "Long-horizon and fragmented; photonic component vendors are the only near-term exposure."
 }

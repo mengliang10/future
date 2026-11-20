@@ -1,7 +1,7 @@
 {
   "id": "data-center-interconnects",
   "title": "Data-Center-Interconnects",
-  "summary": "Data-Center-Interconnects",
+  "summary": "High-speed links connecting servers, switches and accelerators inside and between data centres.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/data-center-interconnects.md",
@@ -32,6 +32,6 @@
   "companies": [
     "eqix"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Bandwidth and latency per watt decide cluster efficiency, so buyers should evaluate the full fabric rather than a single link's headline speed.",
+  "investmentLens": "Optics, retimers and switch silicon benefit from scale-out; copper retains short-reach niches, making the mix shift the key variable."
 }

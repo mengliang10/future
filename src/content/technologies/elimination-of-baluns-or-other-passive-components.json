@@ -1,7 +1,7 @@
 {
   "id": "elimination-of-baluns-or-other-passive-components",
   "title": "Elimination Of Baluns Or Other Passive Components",
-  "summary": "Elimination Of Baluns Or Other Passive Components",
+  "summary": "It builds on Modified Ladder-Lattice Filter Topology; Proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/elimination-of-baluns-or-other-passive-components.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2029,
-    "est_year_range": "2028\u20132032",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2028–2032",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 1,
     "stocks": [],
     "permalink": "/tech/eliminationofbalunsorotherpassivecomponents/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2028\u20132032",
+  "estimate": "2028–2032",
   "estimateYear": 2029,
   "sourceCount": 1,
   "companies": [],

@@ -1,7 +1,7 @@
 {
   "id": "semiconductor-supercycle",
   "title": "Semiconductor Supercycle",
-  "summary": "Semiconductor Supercycle",
+  "summary": "The thesis that AI, electrification and reshoring create a prolonged chip upcycle.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/semiconductor-supercycle.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2029,
-    "est_year_range": "2028\u20132033",
-    "horizon": "Medium-Term (2029\u20132033)",
+    "est_year_range": "2028–2033",
+    "horizon": "Medium-Term (2029–2033)",
     "source_count": 1,
     "stocks": [],
     "permalink": "/tech/semiconductorsupercycle/"
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2028\u20132033",
+  "estimate": "2028–2033",
   "estimateYear": 2029,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "A supercycle claim is only useful if it changes capacity decisions; buyers should still plan for inventory corrections.",
+  "investmentLens": "Treat as a narrative, not a forecast; watch actual utilisation and lead times for confirmation."
 }

@@ -1,7 +1,7 @@
 {
   "id": "secure-multi-party-computation",
   "title": "Secure Multi-Party Computation",
-  "summary": "Joint computation on private data without any party revealing inputs",
+  "summary": "Protocols that let parties compute on joint data without revealing their inputs.",
   "sector": "semiconductors",
   "sourceCategory": "Cybersecurity",
   "sourcePath": "_tech/secure-multi-party-computation.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2030,
   "sourceCount": 14,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Privacy-preserving computation is valuable in finance and health, but performance overhead limits it to high-value queries.",
+  "investmentLens": "Early-stage software with few pure plays; adoption depends on regulation and integration into data platforms."
 }

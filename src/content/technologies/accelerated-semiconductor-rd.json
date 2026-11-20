@@ -1,7 +1,7 @@
 {
   "id": "accelerated-semiconductor-rd",
   "title": "Accelerated-Semiconductor-Rd",
-  "summary": "Accelerated-Semiconductor-Rd",
+  "summary": "Using AI and simulation to compress chip R&D cycles, from materials screening to design-space exploration.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/accelerated-semiconductor-rd.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2031,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Faster iteration matters most where each learning cycle costs a fab run; buyers should measure cycle-time reduction on real tape-outs rather than model benchmarks.",
+  "investmentLens": "EDA and simulation vendors capture the spend, but the durable advantage belongs to fabs with proprietary process data, not to generic model providers."
 }

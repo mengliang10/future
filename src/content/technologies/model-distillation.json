@@ -1,7 +1,7 @@
 {
   "id": "model-distillation",
   "title": "Model Distillation",
-  "summary": "Training a smaller student model to replicate a larger teacher model's outputs, enabling deployme...",
+  "summary": "Training smaller models to reproduce the behaviour of larger teacher models for cheaper inference.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/model-distillation.md",
@@ -16,7 +16,7 @@
     "stage": "mass_production",
     "confidence_label": "Confident",
     "est_year": 2025,
-    "est_year_range": "2022\u20132025",
+    "est_year_range": "2022–2025",
     "horizon": "Deployed",
     "source_count": 1,
     "stocks": [],
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "mass_production",
   "confidenceLabel": "Confident",
-  "estimate": "2022\u20132025",
+  "estimate": "2022–2025",
   "estimateYear": 2025,
   "sourceCount": 1,
   "companies": [
@@ -35,6 +35,6 @@
     "nous-research.us",
     "arcee.ai"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Distillation lowers serving cost and latency, which matters more as usage grows than as model quality improves.",
+  "investmentLens": "It compresses value toward application owners and inference providers, weakening the pricing power of frontier labs."
 }

@@ -1,7 +1,7 @@
 {
   "id": "gate-all-around",
   "title": "gate-all-around",
-  "summary": "7 sources from SemiEngineering.com",
+  "summary": "Transistor architecture in which the gate surrounds the channel on all sides to improve electrostatic control.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/gate-all-around.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2042,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Gate-all-around is the industry's next device step, but it only pays off when fabs can pattern and contact stacked channels at yield.",
+  "investmentLens": "The enabling spend is in deposition, etch and metrology, so equipment vendors capture value before chip designers see gains."
 }

@@ -1,7 +1,7 @@
 {
   "id": "single-chip-quantum-systems",
   "title": "Single-Chip-Quantum-Systems",
-  "summary": "Single-Chip-Quantum-Systems",
+  "summary": "It builds on Quantum-On-Chip-Integration; Proof of concept record tracked across 7 sources.",
   "sector": "quantum",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/single-chip-quantum-systems.md",

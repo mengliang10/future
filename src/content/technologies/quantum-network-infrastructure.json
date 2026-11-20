@@ -1,7 +1,7 @@
 {
   "id": "quantum-network-infrastructure",
   "title": "Quantum-Network-Infrastructure",
-  "summary": "Quantum-Network-Infrastructure",
+  "summary": "It builds on On-Chip-Photonics-Quantum; Proof of concept record tracked across 3 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-network-infrastructure.md",

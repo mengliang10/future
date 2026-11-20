@@ -1,7 +1,7 @@
 {
   "id": "low-cost-model-adaptation",
   "title": "Low-Cost-Model-Adaptation",
-  "summary": "Low-Cost-Model-Adaptation",
+  "summary": "It builds on Parameter-Efficient-Finetuning; Proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/low-cost-model-adaptation.md",

@@ -1,7 +1,7 @@
 {
   "id": "gate-all-around-fet-mbcfetnsfet",
   "title": "Gate-All-Around FET (MBCFET/NSFET)",
-  "summary": "Gate surrounding channel on all sides; successor to FinFET at 2–3nm",
+  "summary": "Gate-all-around devices in nanosheet and multi-bridge forms, the successor to FinFET at 2–3nm.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/gate-all-around-fet-mbcfetnsfet.md",
@@ -35,6 +35,6 @@
     "tsm",
     "asm-international.nl"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "The architecture allows continued density scaling, but design teams must rework libraries and parasitic models to use it.",
+  "investmentLens": "Foundries and their equipment suppliers benefit first; design-tool vendors see demand as customers migrate libraries."
 }

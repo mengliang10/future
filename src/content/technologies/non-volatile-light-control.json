@@ -1,7 +1,7 @@
 {
   "id": "non-volatile-light-control",
   "title": "Non-Volatile-Light-Control",
-  "summary": "Non-Volatile-Light-Control",
+  "summary": "It builds on Phase-Change-Reconfigurable; Proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/non-volatile-light-control.md",

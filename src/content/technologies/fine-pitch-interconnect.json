@@ -1,7 +1,7 @@
 {
   "id": "fine-pitch-interconnect",
   "title": "Fine-Pitch-Interconnect",
-  "summary": "Fine-Pitch-Interconnect",
+  "summary": "Interconnect pitches shrinking toward a few microns to connect dies and package layers.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/fine-pitch-interconnect.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2029,
   "sourceCount": 2,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Finer pitch raises bandwidth density but tightens alignment and cleanliness requirements, shifting cost into bonding and inspection.",
+  "investmentLens": "Bonders, inspection and substrates capture the value; customers should expect qualification cycles to stretch as pitch shrinks."
 }

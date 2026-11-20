@@ -1,7 +1,7 @@
 {
   "id": "advanced-node-soc-complexity",
   "title": "Advanced-Node-Soc-Complexity",
-  "summary": "Advanced-Node-Soc-Complexity",
+  "summary": "The design and verification burden of integrating CPU, GPU, NPU and I/O blocks on leading-edge system-on-chip dies.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/advanced-node-soc-complexity.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2033,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Complexity pushes teams toward reusable IP and chiplets; the question is whether design teams can absorb rising verification cost without slipping schedules.",
+  "investmentLens": "EDA, IP licensing and verification services grow with complexity; the risk is that consolidation among customers compresses the number of seats."
 }

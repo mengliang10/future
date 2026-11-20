@@ -1,7 +1,7 @@
 {
   "id": "scalable-quantum-operations",
   "title": "Scalable-Quantum-Operations",
-  "summary": "Scalable-Quantum-Operations",
+  "summary": "It builds on Room-Temp-Quantum-On-Chip; Proof of concept record tracked across 2 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/scalable-quantum-operations.md",

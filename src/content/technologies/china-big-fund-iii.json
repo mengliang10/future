@@ -1,13 +1,13 @@
 {
   "id": "china-big-fund-iii",
   "title": "China Big Fund III",
-  "summary": "The third state semiconductor fund, capitalised at RMB 344bn and aimed at equipment and materials.",
+  "summary": "China's third state semiconductor fund, capitalised around RMB 344bn and focused on equipment and materials.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/china-big-fund-iii.md",
   "sourceHash": "d26e1d56bc31fd09d7cbdee326d1cf68ef84b658f15f0d406c2bde98ce6fac86",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>The National Integrated Circuit Industry Investment Fund's third phase was registered in May 2024 with RMB 344bn, larger than the first two phases combined. Its stated focus is on equipment, materials and advanced packaging \u2014 the bottlenecks that export controls made visible \u2014 rather than on fab construction alone. State capital of this size changes the cost of failure for domestic toolmakers.</p>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development stage</td>\n<td><strong>Mass production</strong></td>\n</tr>\n<tr>\n<td>Estimated window</td>\n<td><strong>2024\u20132030</strong></td>\n</tr>\n<tr>\n<td>Confidence label</td>\n<td>Confirmed</td>\n</tr>\n<tr>\n<td>Evidence</td>\n<td>Editorial synthesis of company, agency and press reporting</td>\n</tr>\n<tr>\n<td>Compiled</td>\n<td>18 November 2026</td>\n</tr>\n</tbody>\n</table>\n<h2>Related records</h2>\n<h2>Investment Exposure</h2>\n<p>Subsidised capacity can run at a loss for years, which means import substitution may happen faster than cost curves alone would predict.</p>\n<h2>What Would Change The View</h2>\n<ul>\n<li>Disbursement pace versus announcements.</li>\n<li>Which equipment segments receive allocations.</li>\n<li>Whether funded capacity finds customers.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nThe National Integrated Circuit Industry Investment Fund's third phase was registered in May 2024 with RMB 344bn, larger than the first two phases combined. Its stated focus is on equipment, materials and advanced packaging \u2014 the bottlenecks that export controls made visible \u2014 rather than on fab construction alone. State capital of this size changes the cost of failure for domestic toolmakers.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development stage | **Mass production** |\n| Estimated window | **2024\u20132030** |\n| Confidence label | Confirmed |\n| Evidence | Editorial synthesis of company, agency and press reporting |\n| Compiled | 18 November 2026 |\n\n## Related records\n\n\n## Investment Exposure\n\nSubsidised capacity can run at a loss for years, which means import substitution may happen faster than cost curves alone would predict.\n\n## What Would Change The View\n\n- Disbursement pace versus announcements.\n- Which equipment segments receive allocations.\n- Whether funded capacity finds customers.\n\n## Record Notes\n\nEditorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>The National Integrated Circuit Industry Investment Fund's third phase was registered in May 2024 with RMB 344bn, larger than the first two phases combined. Its stated focus is on equipment, materials and advanced packaging — the bottlenecks that export controls made visible — rather than on fab construction alone. State capital of this size changes the cost of failure for domestic toolmakers.</p>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development stage</td>\n<td><strong>Mass production</strong></td>\n</tr>\n<tr>\n<td>Estimated window</td>\n<td><strong>2024–2030</strong></td>\n</tr>\n<tr>\n<td>Confidence label</td>\n<td>Confirmed</td>\n</tr>\n<tr>\n<td>Evidence</td>\n<td>Editorial synthesis of company, agency and press reporting</td>\n</tr>\n<tr>\n<td>Compiled</td>\n<td>18 November 2026</td>\n</tr>\n</tbody>\n</table>\n<h2>Related records</h2>\n<h2>Investment Exposure</h2>\n<p>Subsidised capacity can run at a loss for years, which means import substitution may happen faster than cost curves alone would predict.</p>\n<h2>What Would Change The View</h2>\n<ul>\n<li>Disbursement pace versus announcements.</li>\n<li>Which equipment segments receive allocations.</li>\n<li>Whether funded capacity finds customers.</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nThe National Integrated Circuit Industry Investment Fund's third phase was registered in May 2024 with RMB 344bn, larger than the first two phases combined. Its stated focus is on equipment, materials and advanced packaging — the bottlenecks that export controls made visible — rather than on fab construction alone. State capital of this size changes the cost of failure for domestic toolmakers.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development stage | **Mass production** |\n| Estimated window | **2024–2030** |\n| Confidence label | Confirmed |\n| Evidence | Editorial synthesis of company, agency and press reporting |\n| Compiled | 18 November 2026 |\n\n## Related records\n\n\n## Investment Exposure\n\nSubsidised capacity can run at a loss for years, which means import substitution may happen faster than cost curves alone would predict.\n\n## What Would Change The View\n\n- Disbursement pace versus announcements.\n- Which equipment segments receive allocations.\n- Whether funded capacity finds customers.\n\n## Record Notes\n\nEditorial brief, not an imported source note. Named milestones are drawn from company, agency and press reporting; forward dates are announced targets, not verified outcomes. No figure here is an audited statistic.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "China Big Fund III",
@@ -16,7 +16,7 @@
     "stage": "mass_production",
     "confidence_label": "Confirmed",
     "est_year": 2024,
-    "est_year_range": "2024\u20132030",
+    "est_year_range": "2024–2030",
     "horizon": "Near-Term (through 2028)",
     "source_count": 0,
     "stocks": [],
@@ -26,13 +26,13 @@
   "reviewedAt": "2026-11-18",
   "stage": "mass_production",
   "confidenceLabel": "Confirmed",
-  "estimate": "2024\u20132030",
+  "estimate": "2024–2030",
   "estimateYear": 2024,
   "companies": [
     "smic.hk",
     "naura.sz",
     "huawei.pvt"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "The fund is a demand signal for domestic tool and material vendors; its practical effect depends on whether recipients can qualify products at usable yields.",
+  "investmentLens": "Benefits Chinese equipment makers and their suppliers; non-Chinese vendors face both opportunity in components and risk from export controls."
 }

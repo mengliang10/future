@@ -1,13 +1,13 @@
 {
   "id": "backside-power-distribution-network",
   "title": "Backside Power Distribution Network (BSPDN)",
-  "summary": "Power rails routed on the backside of the wafer (below active devices) to reduce IR drop and free...",
+  "summary": "Backside power delivery networks (BSPDN) that move the power grid beneath the transistor layer.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/backside-power-distribution-network.md",
   "sourceHash": "b183b0add4bbba8a26f7b840975fdea794e3e00a33b1c4ee7042c8312ec9d652",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Power rails routed on the backside of the wafer (below active devices) to reduce IR drop and free frontside routing tracks; enables density and power efficiency at 2nm and below; Intel/TSMC active development..</p>\n<p>Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks <strong>19 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>Thermo Fisher advanced logic white paper identifies backside metal layers for power distribution as a new challenge for failure analysis labs; adoption of new FA processes required at advanced nodes.</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Pilot / Limited Deployment</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.18</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2024\u20132028</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (Now\u20132026)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>19</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/advanced-logic-failure-analysis/\">Advanced Logic Failure Analysis Workflows</a></li>\n<li><a href=\"/tech/nanosheet-transistor/\">Nanosheet Transistor (GAA architecture)</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nPower rails routed on the backside of the wafer (below active devices) to reduce IR drop and free frontside routing tracks; enables density and power efficiency at 2nm and below; Intel/TSMC active development..\n\nPilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **19 independent sources** on this technology.\n\n> Thermo Fisher advanced logic white paper identifies backside metal layers for power distribution as a new challenge for failure analysis labs; adoption of new FA processes required at advanced nodes.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Pilot / Limited Deployment** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.18** |\n| Estimated Deployment | **2024\u20132028** |\n| Horizon | Near-Term (Now\u20132026) |\n| Independent Sources Tracked | 19 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Advanced Logic Failure Analysis Workflows](/future/tech/advanced-logic-failure-analysis/)\n- [Nanosheet Transistor (GAA architecture)](/future/tech/nanosheet-transistor/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Power rails routed on the backside of the wafer (below active devices) to reduce IR drop and free frontside routing tracks; enables density and power efficiency at 2nm and below; Intel/TSMC active development..</p>\n<p>Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks <strong>19 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>Thermo Fisher advanced logic white paper identifies backside metal layers for power distribution as a new challenge for failure analysis labs; adoption of new FA processes required at advanced nodes.</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Pilot / Limited Deployment</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.18</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2024–2028</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (Now–2026)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>19</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/advanced-logic-failure-analysis/\">Advanced Logic Failure Analysis Workflows</a></li>\n<li><a href=\"/tech/nanosheet-transistor/\">Nanosheet Transistor (GAA architecture)</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nPower rails routed on the backside of the wafer (below active devices) to reduce IR drop and free frontside routing tracks; enables density and power efficiency at 2nm and below; Intel/TSMC active development..\n\nPilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **19 independent sources** on this technology.\n\n> Thermo Fisher advanced logic white paper identifies backside metal layers for power distribution as a new challenge for failure analysis labs; adoption of new FA processes required at advanced nodes.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Pilot / Limited Deployment** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.18** |\n| Estimated Deployment | **2024–2028** |\n| Horizon | Near-Term (Now–2026) |\n| Independent Sources Tracked | 19 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Advanced Logic Failure Analysis Workflows](/future/tech/advanced-logic-failure-analysis/)\n- [Nanosheet Transistor (GAA architecture)](/future/tech/nanosheet-transistor/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Backside Power Distribution Network (BSPDN)",
@@ -16,8 +16,8 @@
     "stage": "pilot",
     "confidence_label": "Speculative",
     "est_year": 2026,
-    "est_year_range": "2024\u20132028",
-    "horizon": "Near-Term (Now\u20132026)",
+    "est_year_range": "2024–2028",
+    "horizon": "Near-Term (Now–2026)",
     "source_count": 19,
     "stocks": [],
     "permalink": "/tech/backsidepowerdistributionnetwork/"
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "pilot",
   "confidenceLabel": "Speculative",
-  "estimate": "2024\u20132028",
+  "estimate": "2024–2028",
   "estimateYear": 2026,
   "sourceCount": 19,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "The approach eases front-side congestion and IR drop, but demands wafer bonding, thinning and new design rules, so it is a multi-year platform decision.",
+  "investmentLens": "Beneficiaries are the wafer-bonding, CMP and lithography vendors plus the foundries first to production; customers see the benefit only at full node adoption."
 }

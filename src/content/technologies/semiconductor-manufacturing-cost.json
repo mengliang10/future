@@ -1,7 +1,7 @@
 {
   "id": "semiconductor-manufacturing-cost",
   "title": "Semiconductor Manufacturing Cost",
-  "summary": "Semiconductor Manufacturing Cost",
+  "summary": "The rising cost of fabs, tools and design at each new node.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/semiconductor-manufacturing-cost.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2031,
-    "est_year_range": "2030\u20132035",
-    "horizon": "Medium-Term (2029\u20132033)",
+    "est_year_range": "2030–2035",
+    "horizon": "Medium-Term (2029–2033)",
     "source_count": 3,
     "stocks": [],
     "permalink": "/tech/semiconductormanufacturingcost/"
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2030\u20132035",
+  "estimate": "2030–2035",
   "estimateYear": 2031,
   "sourceCount": 3,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Cost per transistor no longer falls automatically, which pushes customers to stay on older nodes or adopt chiplets.",
+  "investmentLens": "Watch capex per wafer and foundry pricing; the beneficiaries of cost pressure are mature-node and packaging suppliers."
 }

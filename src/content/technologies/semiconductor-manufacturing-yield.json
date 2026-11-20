@@ -1,7 +1,7 @@
 {
   "id": "semiconductor-manufacturing-yield",
   "title": "Semiconductor Manufacturing Yield",
-  "summary": "Semiconductor Manufacturing Yield",
+  "summary": "The share of good dies per wafer, the main driver of fab profitability.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/semiconductor-manufacturing-yield.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2032,
-    "est_year_range": "2031\u20132036",
-    "horizon": "Medium-Term (2029\u20132033)",
+    "est_year_range": "2031–2036",
+    "horizon": "Medium-Term (2029–2033)",
     "source_count": 8,
     "stocks": [],
     "permalink": "/tech/semiconductormanufacturingyield/"
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2031\u20132036",
+  "estimate": "2031–2036",
   "estimateYear": 2032,
   "sourceCount": 8,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Yield learning is the difference between a paper node and a profitable one, so customers should ask for ramp evidence.",
+  "investmentLens": "Metrology and inspection vendors benefit from every yield problem; foundry margins hinge on the learning curve."
 }

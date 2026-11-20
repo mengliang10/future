@@ -1,7 +1,7 @@
 {
   "id": "fib-sem-semiconductor",
   "title": "FIB-SEM DualBeam Semiconductor Analysis",
-  "summary": "Combined focused ion beam + scanning electron microscope for site-specific cross-section, TEM sam...",
+  "summary": "Focused ion beam combined with scanning electron microscopy for site-specific cross-sections and failure analysis.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/fib-sem-semiconductor.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2000,
   "sourceCount": 32,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "FIB-SEM is a workhorse for yield learning and reverse engineering; demand follows new nodes and package types rather than unit shipments.",
+  "investmentLens": "A concentrated capital-equipment niche where the installed base and service contracts matter as much as new tool sales."
 }

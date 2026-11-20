@@ -1,7 +1,7 @@
 {
   "id": "3d-chip-stacking-wow",
   "title": "Wafer-on-Wafer 3D Integration",
-  "summary": "Full wafer stacking with micron-pitch vertical interconnects; TSMC SoIC-X",
+  "summary": "Wafer-on-wafer stacking with micron-pitch vertical interconnects, used to bond memory and logic dies into one stack.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/3d-chip-stacking-wow.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2028,
   "sourceCount": 6,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Stacking trades package complexity for bandwidth and area, so adoption depends on whether the system-level gain beats the cost of known-good-die testing and thermal design.",
+  "investmentLens": "Hybrid bonding and wafer-level test tooling are the picks-and-shovels; the memory makers with captive stacking capacity hold the strongest position."
 }

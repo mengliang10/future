@@ -1,7 +1,7 @@
 {
   "id": "multiple-compute-generations",
   "title": "Multiple-Compute-Generations",
-  "summary": "Multiple-Compute-Generations",
+  "summary": "It builds on Io-Chiplet-Reuse; Proof of concept record tracked across 1 source.",
   "sector": "ai-infrastructure",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/multiple-compute-generations.md",

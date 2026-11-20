@@ -1,7 +1,7 @@
 {
   "id": "small-satellite-power",
   "title": "Small-Satellite-Power",
-  "summary": "Small-Satellite-Power",
+  "summary": "It builds on Perovskite-Space-Solar; Proof of concept record tracked across 2 sources.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/small-satellite-power.md",

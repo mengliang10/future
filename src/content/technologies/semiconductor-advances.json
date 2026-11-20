@@ -1,7 +1,7 @@
 {
   "id": "semiconductor-advances",
   "title": "Semiconductor-Advances",
-  "summary": "Semiconductor-Advances",
+  "summary": "A broad imported record aggregating incremental progress across chip design and manufacturing.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/semiconductor-advances.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2031,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Too broad to size directly; use it as an index and drill into the named technology records.",
+  "investmentLens": "Not an investable theme on its own; the specific process and packaging records carry the evidence."
 }

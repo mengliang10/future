@@ -1,7 +1,7 @@
 {
   "id": "elder-care-home-healthcare",
   "title": "Elder Care Home Healthcare",
-  "summary": "Elder Care Home Healthcare",
+  "summary": "It builds on Stretch Robot; Proof of concept record tracked across 13 sources.",
   "sector": "drugs-biotech",
   "sourceCategory": "Biotech & Healthcare",
   "sourcePath": "_tech/elder-care-home-healthcare.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2032,
-    "est_year_range": "2030\u20132037",
-    "horizon": "Long-Term (2030\u20132040)",
+    "est_year_range": "2030–2037",
+    "horizon": "Long-Term (2030–2040)",
     "source_count": 13,
     "stocks": [],
     "permalink": "/tech/eldercarehomehealthcare/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2030\u20132037",
+  "estimate": "2030–2037",
   "estimateYear": 2032,
   "sourceCount": 13,
   "companies": [],

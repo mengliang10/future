@@ -1,7 +1,7 @@
 {
   "id": "custom-asic-demand",
   "title": "Custom-Asic-Demand",
-  "summary": "Custom-Asic-Demand",
+  "summary": "Growing demand for application-specific silicon tailored to AI, networking and automotive workloads.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/custom-asic-demand.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2030,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Custom ASICs make sense when volume and power constraints justify non-recurring engineering; everyone else should buy merchant silicon.",
+  "investmentLens": "Foundries, packaging and IP vendors benefit from each design win; the design services firms see lumpy revenue tied to customer programmes."
 }

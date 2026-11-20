@@ -1,7 +1,7 @@
 {
   "id": "robotic-foundation-models",
   "title": "Robotic-Foundation-Models",
-  "summary": "Robotic-Foundation-Models",
+  "summary": "It builds on Vision-Language-Action-Models; Proof of concept record tracked across 3 sources.",
   "sector": "robotics",
   "sourceCategory": "Robotics & Automation",
   "sourcePath": "_tech/robotic-foundation-models.md",

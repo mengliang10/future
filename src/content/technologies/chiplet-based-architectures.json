@@ -1,7 +1,7 @@
 {
   "id": "chiplet-based-architectures",
   "title": "Chiplet-Based-Architectures",
-  "summary": "Chiplet-Based-Architectures",
+  "summary": "Systems assembled from smaller dies — chiplets — instead of one large monolithic chip.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/chiplet-based-architectures.md",
@@ -41,6 +41,6 @@
     "technoprobe.it",
     "advantest.jp"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Chiplets improve yield and let teams mix process nodes, but they shift cost into packaging, test and interconnect standards.",
+  "investmentLens": "Substrate, assembly and test suppliers capture the new value; watch UCIe adoption and which foundries offer chiplet-friendly packaging."
 }

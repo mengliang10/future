@@ -1,7 +1,7 @@
 {
   "id": "solid-state-batteries",
   "title": "Solid-State-Batteries",
-  "summary": "Solid-State-Batteries",
+  "summary": "It builds on Molecular-Crystal-Electrolyte; Proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/solid-state-batteries.md",

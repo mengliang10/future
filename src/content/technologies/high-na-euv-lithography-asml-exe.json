@@ -1,7 +1,7 @@
 {
   "id": "high-na-euv-lithography-asml-exe",
   "title": "High-NA EUV Lithography (ASML EXE)",
-  "summary": "Next-gen EUV with higher numerical aperture for <2nm patterning",
+  "summary": "ASML's EXE platform, the commercial High-NA EUV tool for sub-2nm patterning.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/high-na-euv-lithography-asml-exe.md",
@@ -34,6 +34,6 @@
   "companies": [
     "asml"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Tool availability sets the roadmap for leading-edge fabs; the economic question is cost per wafer against multi-patterning with existing EUV.",
+  "investmentLens": "A single-vendor monopoly with a long order book; watch customer acceptance and throughput improvements."
 }

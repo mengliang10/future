@@ -1,7 +1,7 @@
 {
   "id": "intel-foundry-18a-process",
   "title": "Intel-Foundry-18A-Process",
-  "summary": "Intel-Foundry-18A-Process",
+  "summary": "Intel's 18A node, combining gate-all-around transistors with backside power delivery.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/intel-foundry-18a-process.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2027,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "18A is Intel's bid to win external foundry customers; the commercial test is whether yields and PDKs satisfy fabless design teams.",
+  "investmentLens": "A turnaround story with high execution risk; equipment suppliers benefit regardless of who wins the customer."
 }

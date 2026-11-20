@@ -1,7 +1,7 @@
 {
   "id": "chiplet-disaggregated-architecture",
   "title": "Chiplet / Disaggregated Architecture",
-  "summary": "Multiple dies integrated in one package; enables yield improvement and specialization",
+  "summary": "Breaking a system into independently fabricated dies connected through a package-level fabric.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/chiplet-disaggregated-architecture.md",
@@ -16,7 +16,7 @@
     "stage": "mass_production",
     "confidence_label": "Researching",
     "est_year": 2021,
-    "est_year_range": "2019\u20132023",
+    "est_year_range": "2019–2023",
     "horizon": "Deployed",
     "source_count": 21,
     "stocks": [],
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "mass_production",
   "confidenceLabel": "Researching",
-  "estimate": "2019\u20132023",
+  "estimate": "2019–2023",
   "estimateYear": 2021,
   "sourceCount": 21,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Disaggregation lets each function use its optimal node, but it requires die-to-die interfaces and known-good-die test that many teams lack.",
+  "investmentLens": "Interconnect IP and advanced packaging capacity are the constrained layers; merchant chiplet vendors remain a niche."
 }

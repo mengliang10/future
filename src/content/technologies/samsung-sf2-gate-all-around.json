@@ -1,7 +1,7 @@
 {
   "id": "samsung-sf2-gate-all-around",
   "title": "Samsung SF2 gate-all-around node",
-  "summary": "Samsung's 2nm-class process, the first commercial gate-all-around node.",
+  "summary": "Samsung's 2nm-class gate-all-around node, the first commercial GAA process.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/samsung-sf2-gate-all-around.md",
@@ -32,6 +32,6 @@
     "samsung.kr",
     "hxscl"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Being first matters only if yield and design support let customers ramp; Samsung's challenge is winning anchor clients.",
+  "investmentLens": "Watch customer tape-outs and yield reports; equipment suppliers benefit from any leading-edge capacity."
 }

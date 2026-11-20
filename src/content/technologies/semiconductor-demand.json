@@ -1,7 +1,7 @@
 {
   "id": "semiconductor-demand",
   "title": "Semiconductor Demand",
-  "summary": "Semiconductor Demand",
+  "summary": "Imported demand record covering chip consumption across end markets.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/semiconductor-demand.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2032,
-    "est_year_range": "2031\u20132036",
-    "horizon": "Medium-Term (2029\u20132033)",
+    "est_year_range": "2031–2036",
+    "horizon": "Medium-Term (2029–2033)",
     "source_count": 13,
     "stocks": [],
     "permalink": "/tech/semiconductordemand/"
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2031\u20132036",
+  "estimate": "2031–2036",
   "estimateYear": 2032,
   "sourceCount": 13,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Segment the demand: data-centre accelerators, automotive and industrial chips have different cycles and margins.",
+  "investmentLens": "Track inventory and utilisation by end market rather than a single aggregate number."
 }

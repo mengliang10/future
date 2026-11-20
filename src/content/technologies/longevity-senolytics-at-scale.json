@@ -1,7 +1,7 @@
 {
   "id": "longevity-senolytics-at-scale",
   "title": "Longevity (Senolytics at Scale)",
-  "summary": "",
+  "summary": "Imported Pilot record tracked across 0 sources, with no linked records or descriptive notes in the source.",
   "sector": "drugs-biotech",
   "sourceCategory": "Biotech",
   "sourcePath": "_tech/longevity-senolytics-at-scale.md",
@@ -15,14 +15,14 @@
     "category": "Biotech",
     "status": "pilot",
     "est_year": 2026,
-    "est_year_range": "2026\u20132030",
-    "horizon": "Near-Term (2026\u20132030)"
+    "est_year_range": "2026–2030",
+    "horizon": "Near-Term (2026–2030)"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
   "stage": "pilot",
   "confidenceLabel": "Not classified",
-  "estimate": "2026\u20132030",
+  "estimate": "2026–2030",
   "estimateYear": 2026,
   "sourceCount": null,
   "companies": [],

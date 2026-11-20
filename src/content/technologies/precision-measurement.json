@@ -1,7 +1,7 @@
 {
   "id": "precision-measurement",
   "title": "Precision-Measurement",
-  "summary": "Precision-Measurement",
+  "summary": "It builds on Instrumentation; Proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/precision-measurement.md",

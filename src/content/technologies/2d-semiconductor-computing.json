@@ -1,7 +1,7 @@
 {
   "id": "2d-semiconductor-computing",
   "title": "2D-Semiconductor-Computing",
-  "summary": "2D-Semiconductor-Computing",
+  "summary": "Computing built on two-dimensional materials such as MoS2, proposed as a channel replacement when silicon scaling ends.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/2d-semiconductor-computing.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2031,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Two-dimensional channels promise lower leakage at tiny gate lengths, but no one has demonstrated manufacturable wafer-scale processes, so this is a research option rather than a procurement decision.",
+  "investmentLens": "Exposure is indirect through materials and deposition tool vendors funding R&D; treat any near-term revenue claim as premature."
 }

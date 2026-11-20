@@ -1,7 +1,7 @@
 {
   "id": "memory-semiconductor-market",
   "title": "Memory Semiconductor Market",
-  "summary": "Memory Semiconductor Market",
+  "summary": "It builds on Cxl Market Growth; Proof of concept record tracked across 6 sources.",
   "sector": "memory",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/memory-semiconductor-market.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2032,
-    "est_year_range": "2031\u20132036",
-    "horizon": "Medium-Term (2029\u20132033)",
+    "est_year_range": "2031–2036",
+    "horizon": "Medium-Term (2029–2033)",
     "source_count": 6,
     "stocks": [],
     "permalink": "/tech/memorysemiconductormarket/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2031\u20132036",
+  "estimate": "2031–2036",
   "estimateYear": 2032,
   "sourceCount": 6,
   "companies": [

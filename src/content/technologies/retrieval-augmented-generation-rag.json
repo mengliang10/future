@@ -1,7 +1,7 @@
 {
   "id": "retrieval-augmented-generation-rag",
   "title": "Retrieval-Augmented Generation (RAG)",
-  "summary": "Retrieval-Augmented Generation (RAG)",
+  "summary": "Dominant enterprise AI deployment pattern; LangChain, LlamaIndex, all major LLM APIs support it",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/retrieval-augmented-generation-rag.md",

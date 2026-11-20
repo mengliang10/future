@@ -1,7 +1,7 @@
 {
   "id": "humanoid-robot",
   "title": "humanoid robot",
-  "summary": "4 sources from SemiEngineering.com",
+  "summary": "General-purpose bipedal robots intended for logistics, manufacturing and service tasks.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/humanoid-robot.md",
@@ -38,6 +38,6 @@
     "galbot.cn",
     "fourier-intelligence.cn"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Humanoids sell against fixed automation on flexibility, so buyers should compare uptime and maintenance cost, not demo dexterity.",
+  "investmentLens": "The nearer-term exposure is in actuators, sensors and harmonic drives rather than in robot makers yet to ship at volume."
 }

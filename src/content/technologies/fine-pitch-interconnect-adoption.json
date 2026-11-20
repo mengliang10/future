@@ -1,7 +1,7 @@
 {
   "id": "fine-pitch-interconnect-adoption",
   "title": "Fine-Pitch-Interconnect-Adoption",
-  "summary": "Fine-Pitch-Interconnect-Adoption",
+  "summary": "The spread of fine-pitch interconnect from research into mainstream advanced packages.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/fine-pitch-interconnect-adoption.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2028,
   "sourceCount": 3,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Adoption is gated by yield and test, not by the availability of a bonding tool, so package designers should model rework costs.",
+  "investmentLens": "Watch capacity additions in bonding and substrate supply as the practical indicator of adoption."
 }

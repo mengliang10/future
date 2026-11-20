@@ -1,7 +1,7 @@
 {
   "id": "semiconductor-devices",
   "title": "Semiconductor-Devices",
-  "summary": "Semiconductor-Devices",
+  "summary": "Discrete and integrated semiconductor devices, from power transistors to sensors.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/semiconductor-devices.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2033,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Device markets are application-specific; buyers should evaluate reliability and qualification support, not just specs.",
+  "investmentLens": "Broad exposure through analog and power vendors; growth tracks industrial and automotive electrification."
 }

@@ -16,7 +16,7 @@
     "stage": "mass_production",
     "confidence_label": "Researching",
     "est_year": 2015,
-    "est_year_range": "2013\u20132017",
+    "est_year_range": "2013–2017",
     "horizon": "Deployed",
     "source_count": 60,
     "stocks": [],
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "mass_production",
   "confidenceLabel": "Researching",
-  "estimate": "2013\u20132017",
+  "estimate": "2013–2017",
   "estimateYear": 2015,
   "sourceCount": 60,
   "companies": [

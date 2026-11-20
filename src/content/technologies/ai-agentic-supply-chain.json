@@ -1,13 +1,13 @@
 {
   "id": "ai-agentic-supply-chain",
   "title": "Ai Agentic Supply Chain",
-  "summary": "Ai Agentic Supply Chain",
+  "summary": "It is cited as an enabler for Ai Enterprise Market; Proof of concept record tracked across 2 sources.",
   "sector": "ai-agents-software",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/ai-agentic-supply-chain.md",
   "sourceHash": "9c9526fc026adb276806cf7e8637ae319e72376fe702d5dbb35d9ab81282ef88",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Ai Agentic Supply Chain.</p>\n<p>Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks <strong>2 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Taiwan\u2019s Industry Titans Turbocharge World\u2019s AI Infrastructure Buildou | rel=0.56 | uid:3041ae5e998fa877</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Proof of Concept</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.15</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>TBD</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Timeline TBD</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>2</td>\n</tr>\n</tbody>\n</table>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/ai-enterprise-market/\">Ai Enterprise Market</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nAi Agentic Supply Chain.\n\nLaboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **2 independent sources** on this technology.\n\n> RSS:Taiwan\u2019s Industry Titans Turbocharge World\u2019s AI Infrastructure Buildou | rel=0.56 | uid:3041ae5e998fa877\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Proof of Concept** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.15** |\n| Estimated Deployment | **TBD** |\n| Horizon | Timeline TBD |\n| Independent Sources Tracked | 2 |\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [Ai Enterprise Market](/future/tech/ai-enterprise-market/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Ai Agentic Supply Chain.</p>\n<p>Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks <strong>2 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildou | rel=0.56 | uid:3041ae5e998fa877</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Proof of Concept</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.15</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>TBD</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Timeline TBD</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>2</td>\n</tr>\n</tbody>\n</table>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/ai-enterprise-market/\">Ai Enterprise Market</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nAi Agentic Supply Chain.\n\nLaboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **2 independent sources** on this technology.\n\n> RSS:Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildou | rel=0.56 | uid:3041ae5e998fa877\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Proof of Concept** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.15** |\n| Estimated Deployment | **TBD** |\n| Horizon | Timeline TBD |\n| Independent Sources Tracked | 2 |\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [Ai Enterprise Market](/future/tech/ai-enterprise-market/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Ai Agentic Supply Chain",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2029,
-    "est_year_range": "2028\u20132032",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2028–2032",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 2,
     "stocks": [],
     "permalink": "/tech/aiagenticsupplychain/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2028\u20132032",
+  "estimate": "2028–2032",
   "estimateYear": 2029,
   "sourceCount": 2,
   "companies": [

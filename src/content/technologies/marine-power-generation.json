@@ -1,7 +1,7 @@
 {
   "id": "marine-power-generation",
   "title": "Marine-Power-Generation",
-  "summary": "Marine-Power-Generation",
+  "summary": "It builds on Nano-Energy-Harvesting-Ocean; Proof of concept record tracked across 6 sources.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/marine-power-generation.md",

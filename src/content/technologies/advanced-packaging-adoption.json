@@ -1,7 +1,7 @@
 {
   "id": "advanced-packaging-adoption",
   "title": "Advanced-Packaging-Adoption",
-  "summary": "Advanced-Packaging-Adoption",
+  "summary": "The spread of advanced packaging from flagship accelerators into networking, automotive and consumer silicon.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/advanced-packaging-adoption.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2028,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Adoption depends on cost per unit of bandwidth; once interposer and bridge pricing falls, mid-range products can justify multi-die designs.",
+  "investmentLens": "Watch packaging capacity announcements and substrate lead times as leading indicators; equipment vendors benefit before volume products ship."
 }

@@ -1,13 +1,13 @@
 {
   "id": "silicon-carbide",
   "title": "silicon carbide",
-  "summary": "7 sources from SemiEngineering.com",
+  "summary": "Silicon carbide as a wide-bandgap material for power devices and high-temperature electronics.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/silicon-carbide.md",
   "sourceHash": "57717e7353ed7c632606491204229fba9ed9baeb668db014fa2779ee6e748ee2",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>7 sources from SemiEngineering.com.</p>\n<p>Fundamental research phase \u2014 concept established, practical implementation remains unsolved. Our research database tracks <strong>1 independent source</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Purdue, GCCS Partner to Scale the Future of Silicon Carbide | rel=1.00 | uid:c3003c6ef46f3ef2</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Basic Research</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.32</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>TBD</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Timeline TBD</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
-  "bodyMarkdown": "## What This Is\n\n7 sources from SemiEngineering.com.\n\nFundamental research phase \u2014 concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.\n\n> RSS:Purdue, GCCS Partner to Scale the Future of Silicon Carbide | rel=1.00 | uid:c3003c6ef46f3ef2\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Basic Research** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.32** |\n| Estimated Deployment | **TBD** |\n| Horizon | Timeline TBD |\n| Independent Sources Tracked | 1 |\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>7 sources from SemiEngineering.com.</p>\n<p>Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks <strong>1 independent source</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Purdue, GCCS Partner to Scale the Future of Silicon Carbide | rel=1.00 | uid:c3003c6ef46f3ef2</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Basic Research</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.32</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>TBD</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Timeline TBD</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
+  "bodyMarkdown": "## What This Is\n\n7 sources from SemiEngineering.com.\n\nFundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **1 independent source** on this technology.\n\n> RSS:Purdue, GCCS Partner to Scale the Future of Silicon Carbide | rel=1.00 | uid:c3003c6ef46f3ef2\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Basic Research** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.32** |\n| Estimated Deployment | **TBD** |\n| Horizon | Timeline TBD |\n| Independent Sources Tracked | 1 |\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "silicon carbide",
@@ -16,7 +16,7 @@
     "stage": "basic_research",
     "confidence_label": "Speculative",
     "est_year": 2040,
-    "est_year_range": "2038\u20132046",
+    "est_year_range": "2038–2046",
     "horizon": "Long-Term (2035+)",
     "source_count": 1,
     "stocks": [],
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "basic_research",
   "confidenceLabel": "Speculative",
-  "estimate": "2038\u20132046",
+  "estimate": "2038–2046",
   "estimateYear": 2040,
   "sourceCount": 1,
   "companies": [
@@ -44,6 +44,6 @@
     "aixtron.de",
     "pva-tepla.de"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Material quality determines device yield, so substrate supply is the practical constraint on growth.",
+  "investmentLens": "Substrate producers hold pricing power while capacity is tight; module makers compete on integration."
 }

@@ -1,7 +1,7 @@
 {
   "id": "semiconductor-manufacturing",
   "title": "Semiconductor-Manufacturing",
-  "summary": "Semiconductor-Manufacturing",
+  "summary": "The full manufacturing chain, including lithography, deposition, etch, packaging and test.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/semiconductor-manufacturing.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2032,
   "sourceCount": 11,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Geographic concentration creates supply risk, so buyers increasingly ask for second sources and local capacity.",
+  "investmentLens": "Diversified equipment exposure; policy subsidies distort where capacity is built but not who can run it."
 }

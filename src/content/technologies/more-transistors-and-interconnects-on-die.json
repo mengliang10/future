@@ -1,7 +1,7 @@
 {
   "id": "more-transistors-and-interconnects-on-die",
   "title": "More Transistors And Interconnects On Die",
-  "summary": "More Transistors And Interconnects On Die",
+  "summary": "Continued density scaling through more transistors and denser wiring on each die.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/more-transistors-and-interconnects-on-die.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2030,
-    "est_year_range": "2029\u20132033",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2029–2033",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 1,
     "stocks": [],
     "permalink": "/tech/moretransistorsandinterconnectsondie/"
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2029\u20132033",
+  "estimate": "2029–2033",
   "estimateYear": 2030,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Density gains now come with higher mask and power costs, so the economic benefit depends on the workload's parallelism.",
+  "investmentLens": "The beneficiaries remain the tool and materials supply chain; the risk is that scaling returns no longer justify the capex."
 }

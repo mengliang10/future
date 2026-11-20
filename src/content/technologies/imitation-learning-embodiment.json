@@ -1,7 +1,7 @@
 {
   "id": "imitation-learning-embodiment",
   "title": "Imitation-Learning-Embodiment",
-  "summary": "Imitation-Learning-Embodiment",
+  "summary": "It builds on Robot-Learning-From-Demonstration; Proof of concept record tracked across 2 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/imitation-learning-embodiment.md",

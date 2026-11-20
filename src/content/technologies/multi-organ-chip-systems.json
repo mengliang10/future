@@ -1,7 +1,7 @@
 {
   "id": "multi-organ-chip-systems",
   "title": "Multi-Organ-Chip-Systems",
-  "summary": "Multi-Organ-Chip-Systems",
+  "summary": "Microfluidic platforms that link several organ models to test drug effects across systems.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/multi-organ-chip-systems.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2030,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Better preclinical models could cut late-stage failures, but adoption requires regulators and pharma to trust the results.",
+  "investmentLens": "A small tools and services market; validation contracts with pharma are the proof point to watch."
 }

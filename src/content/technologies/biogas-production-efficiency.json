@@ -1,7 +1,7 @@
 {
   "id": "biogas-production-efficiency",
   "title": "Biogas-Production-Efficiency",
-  "summary": "Biogas-Production-Efficiency",
+  "summary": "It builds on Iot-Monitoring-System; Proof of concept record tracked across 1 source.",
   "sector": "drugs-biotech",
   "sourceCategory": "Biotech & Healthcare",
   "sourcePath": "_tech/biogas-production-efficiency.md",

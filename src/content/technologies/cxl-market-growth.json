@@ -1,7 +1,7 @@
 {
   "id": "cxl-market-growth",
   "title": "Cxl Market Growth",
-  "summary": "Cxl Market Growth",
+  "summary": "It is cited as an enabler for Memory Semiconductor Market; Proof of concept record tracked across 6 sources.",
   "sector": "applied-ai",
   "sourceCategory": "Financial Markets",
   "sourcePath": "_tech/cxl-market-growth.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2028,
-    "est_year_range": "2027\u20132031",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2027–2031",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 6,
     "stocks": [],
     "permalink": "/tech/cxlmarketgrowth/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2027\u20132031",
+  "estimate": "2027–2031",
   "estimateYear": 2028,
   "sourceCount": 6,
   "companies": [],

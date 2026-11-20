@@ -1,7 +1,7 @@
 {
   "id": "photonic-computing",
   "title": "Photonic Computing",
-  "summary": "Using light instead of electrons to perform computation, with early traction in inference and quantum systems.",
+  "summary": "Using light for computation, with early traction in inference and optical interconnects.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/photonic-computing.md",
@@ -42,6 +42,6 @@
     "xanadu.ca",
     "psiquantum.us"
   ],
-  "businessMeaning": "Treat photonic compute as an accelerator decision, not a platform replacement. The near-term question is whether it reduces power per token; the long-term question is software support.",
-  "investmentLens": "The listed beneficiaries today are laser, photonics packaging and optical component suppliers. Pure photonic compute remains private and early."
+  "businessMeaning": "Photonics can move data with less energy, but general-purpose optical logic still lacks the ecosystem of electronic design.",
+  "investmentLens": "Near-term revenue is in interconnect rather than compute; watch design wins at hyperscalers."
 }

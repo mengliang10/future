@@ -1,7 +1,7 @@
 {
   "id": "ecci-compound-semiconductor",
   "title": "ECCI Crystalline Defect Characterisation",
-  "summary": "Electron Channeling Contrast Imaging in SEM reveals threading dislocations, stacking faults, and ...",
+  "summary": "Electron channelling contrast imaging used to reveal dislocations and stacking faults in compound semiconductors.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/ecci-compound-semiconductor.md",
@@ -16,7 +16,7 @@
     "stage": "early_commercial",
     "confidence_label": "Researching",
     "est_year": 2015,
-    "est_year_range": "2010\u20132018",
+    "est_year_range": "2010–2018",
     "horizon": "Deployed",
     "source_count": 10,
     "stocks": [],
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "early_commercial",
   "confidenceLabel": "Researching",
-  "estimate": "2010\u20132018",
+  "estimate": "2010–2018",
   "estimateYear": 2015,
   "sourceCount": 10,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Defect characterisation determines yield for GaN and SiC devices, so the technique supports qualification rather than volume production.",
+  "investmentLens": "Small instrument and service market; demand tracks compound-semiconductor fab expansions."
 }

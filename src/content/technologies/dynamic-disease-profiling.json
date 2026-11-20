@@ -1,7 +1,7 @@
 {
   "id": "dynamic-disease-profiling",
   "title": "Dynamic-Disease-Profiling",
-  "summary": "Dynamic-Disease-Profiling",
+  "summary": "It builds on Longitudinal-Multi-Omic-Monitoring; Proof of concept record tracked across 1 source.",
   "sector": "drugs-biotech",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/dynamic-disease-profiling.md",

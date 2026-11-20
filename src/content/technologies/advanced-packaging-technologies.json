@@ -1,7 +1,7 @@
 {
   "id": "advanced-packaging-technologies",
   "title": "Advanced-Packaging-Technologies",
-  "summary": "Advanced-Packaging-Technologies",
+  "summary": "A cluster of options — interposers, bridges, fan-out and hybrid bonding — used to connect dies inside a package.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/advanced-packaging-technologies.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2029,
   "sourceCount": 13,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "The right choice depends on bandwidth density, thermal budget and test strategy, so buyers should compare total yield loss rather than headline interconnect pitch.",
+  "investmentLens": "Diversified exposure through substrate and assembly suppliers; single-technology bets carry qualification risk at each customer."
 }

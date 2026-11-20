@@ -1,7 +1,7 @@
 {
   "id": "ai-hardware-asic-tpunputrainium",
   "title": "AI Hardware ASIC (TPU/NPU/Trainium)",
-  "summary": "Custom silicon optimized for matrix multiply and AI inference",
+  "summary": "Custom accelerators such as TPUs, NPUs and Trainium, designed for matrix-heavy training and inference workloads.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/ai-hardware-asic-tpunputrainium.md",
@@ -16,7 +16,7 @@
     "stage": "mass_production",
     "confidence_label": "Researching",
     "est_year": 2024,
-    "est_year_range": "2022\u20132026",
+    "est_year_range": "2022–2026",
     "horizon": "Deployed",
     "source_count": 3,
     "stocks": [
@@ -32,7 +32,7 @@
   "reviewedAt": null,
   "stage": "mass_production",
   "confidenceLabel": "Researching",
-  "estimate": "2022\u20132026",
+  "estimate": "2022–2026",
   "estimateYear": 2024,
   "sourceCount": 3,
   "companies": [
@@ -42,6 +42,6 @@
     "nvda",
     "amd"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Custom silicon only pays off at very large volume or when it escapes a vendor's pricing; the rest of the market should treat it as a benchmark, not a purchase option.",
+  "investmentLens": "Exposure sits with the hyperscalers designing them and the foundries and packaging vendors building them, not with merchant chip vendors."
 }

@@ -1,7 +1,7 @@
 {
   "id": "ai-cluster-interconnect",
   "title": "Ai-Cluster-Interconnect",
-  "summary": "Ai-Cluster-Interconnect",
+  "summary": "Networking fabrics and optical links that tie thousands of accelerators into a single training cluster.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/ai-cluster-interconnect.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2030,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "At cluster scale, interconnect determines effective utilisation; buyers should model fabric cost and failure recovery, not just per-port bandwidth.",
+  "investmentLens": "Switch silicon, optics and cabling suppliers benefit from cluster scale-out; the risk is architectural shifts toward optical or custom fabrics."
 }

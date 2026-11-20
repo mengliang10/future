@@ -1,7 +1,7 @@
 {
   "id": "chip-scale-atomic-clocks",
   "title": "Chip-Scale-Atomic-Clocks",
-  "summary": "Chip-Scale-Atomic-Clocks",
+  "summary": "Atomic clocks miniaturised onto chips for precise timing in navigation and communications.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/chip-scale-atomic-clocks.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2032,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Chip-scale clocks reduce dependence on satellite timing, which matters for defence, data centres and telecom synchronisation.",
+  "investmentLens": "A defence- and infrastructure-led market with few qualified suppliers; watch programme awards rather than consumer launches."
 }

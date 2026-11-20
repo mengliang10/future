@@ -1,7 +1,7 @@
 {
   "id": "automated-wafer-defect-analysis",
   "title": "Automated Wafer-Level Defect Root Cause Analysis",
-  "summary": "Automated FIB-SEM workflows operating directly on 300mm production wafers; eliminates manual lab ...",
+  "summary": "Automated FIB-SEM workflows that section and image defects directly on 300mm production wafers.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/automated-wafer-defect-analysis.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2022,
   "sourceCount": 16,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Cutting manual sample preparation shortens yield-learning loops, which matters most during node ramps and new package introductions.",
+  "investmentLens": "Concentrated among a few metrology vendors; attach rates rise with node complexity and advanced packaging, making it a steady capex line."
 }

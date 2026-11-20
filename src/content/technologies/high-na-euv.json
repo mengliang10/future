@@ -1,7 +1,7 @@
 {
   "id": "high-na-euv",
   "title": "High-NA EUV lithography",
-  "summary": "The next lithography generation, with larger optics and finer resolution.",
+  "summary": "The next EUV generation, using larger optics and a higher numerical aperture to pattern below 2nm.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/high-na-euv.md",
@@ -42,6 +42,6 @@
     "jenoptik.de",
     "canon.jp"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "High-NA promises finer features but at higher tool cost and lower throughput, so fabs must justify it with designs that need the resolution.",
+  "investmentLens": "ASML and its optics supply chain are the direct beneficiaries; adoption timing is the key risk for the wider ecosystem."
 }

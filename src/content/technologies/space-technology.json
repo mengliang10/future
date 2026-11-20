@@ -1,7 +1,7 @@
 {
   "id": "space-technology",
   "title": "Space-Technology",
-  "summary": "Space-Technology",
+  "summary": "It builds on Astronautics-Aeronautics; Proof of concept record tracked across 3 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/space-technology.md",

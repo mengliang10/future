@@ -1,7 +1,7 @@
 {
   "id": "chip-scale-precision",
   "title": "Chip-Scale-Precision",
-  "summary": "Chip-Scale-Precision",
+  "summary": "Precision sensing and actuation built at chip scale, including timing, inertial and optical functions.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/chip-scale-precision.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2033,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Integration lowers size, power and cost, opening applications where rack-mounted instruments were previously too bulky.",
+  "investmentLens": "Diversified MEMS and photonics suppliers are the exposure; adoption is gradual and tied to qualification in industrial and defence systems."
 }

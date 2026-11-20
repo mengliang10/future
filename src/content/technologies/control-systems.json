@@ -1,7 +1,7 @@
 {
   "id": "control-systems",
   "title": "Control-Systems",
-  "summary": "Control-Systems",
+  "summary": "It builds on Multi-Physics-Flow; Proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/control-systems.md",

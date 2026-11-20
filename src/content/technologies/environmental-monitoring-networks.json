@@ -1,7 +1,7 @@
 {
   "id": "environmental-monitoring-networks",
   "title": "Environmental-Monitoring-Networks",
-  "summary": "Environmental-Monitoring-Networks",
+  "summary": "It builds on Real-Time-Nanosensors-Iot; Proof of concept record tracked across 7 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/environmental-monitoring-networks.md",

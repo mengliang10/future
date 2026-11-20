@@ -1,7 +1,7 @@
 {
   "id": "ai-personal-computer-market",
   "title": "Ai Personal Computer Market",
-  "summary": "Ai Personal Computer Market",
+  "summary": "It builds on Nvda Rtx Spark Superchip; Proof of concept record tracked across 2 sources.",
   "sector": "ai-infrastructure",
   "sourceCategory": "Financial Markets",
   "sourcePath": "_tech/ai-personal-computer-market.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2028,
-    "est_year_range": "2027\u20132031",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2027–2031",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 2,
     "stocks": [],
     "permalink": "/tech/aipersonalcomputermarket/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2027\u20132031",
+  "estimate": "2027–2031",
   "estimateYear": 2028,
   "sourceCount": 2,
   "companies": [],

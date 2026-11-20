@@ -1,7 +1,7 @@
 {
   "id": "us-china-neurotechnology-collaboration",
   "title": "Us China Neurotechnology Collaboration",
-  "summary": "Us China Neurotechnology Collaboration",
+  "summary": "It is cited as an enabler for Ongoing Despite Geopolitical Tensions; Proof of concept record tracked across 12 sources.",
   "sector": "bci",
   "sourceCategory": "Societal & Labour",
   "sourcePath": "_tech/us-china-neurotechnology-collaboration.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2027,
-    "est_year_range": "2026\u20132030",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2026–2030",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 12,
     "stocks": [],
     "permalink": "/tech/uschinaneurotechnologycollaboration/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2026\u20132030",
+  "estimate": "2026–2030",
   "estimateYear": 2027,
   "sourceCount": 12,
   "companies": [],

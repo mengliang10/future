@@ -1,13 +1,13 @@
 {
   "id": "autonomous-ai-agent",
   "title": "Autonomous AI Agent",
-  "summary": "AI that plans, uses tools, and executes multi-step tasks with minimal human input",
+  "summary": "Software agents that plan and execute multi-step tasks with tools and limited human input.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/autonomous-ai-agent.md",
   "sourceHash": "771237d0b28ecda329488adbc7e9ad9a5a436e598073658f45d16244e30cb314",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>AI that plans, uses tools, and executes multi-step tasks with minimal human input.</p>\n<p>Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks <strong>42 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State | rel=0.47 | uid:cb3e80117bcba38d</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Early Commercial</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.13</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2025\u20132028</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (Now\u20132026)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>42</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/autonomous-drone-delivery/\">Autonomous Drone Delivery</a></li>\n<li><a href=\"/tech/multimodal-foundation-model/\">Multimodal Foundation Model</a></li>\n<li><a href=\"/tech/reasoning-model-o1-class/\">Chain-of-Thought Reasoning Model</a></li>\n</ul>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/ai-agent-swarms/\">AI Agent Swarms</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/msft/\">MSFT</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nAI that plans, uses tools, and executes multi-step tasks with minimal human input.\n\nEarly commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **42 independent sources** on this technology.\n\n> RSS:SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State | rel=0.47 | uid:cb3e80117bcba38d\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Early Commercial** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.13** |\n| Estimated Deployment | **2025\u20132028** |\n| Horizon | Near-Term (Now\u20132026) |\n| Independent Sources Tracked | 42 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Autonomous Drone Delivery](/future/tech/autonomous-drone-delivery/)\n- [Multimodal Foundation Model](/future/tech/multimodal-foundation-model/)\n- [Chain-of-Thought Reasoning Model](/future/tech/reasoning-model-o1-class/)\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [AI Agent Swarms](/future/tech/ai-agent-swarms/)\n\n## Investment Exposure\n\n[MSFT](/future/stocks/msft/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>AI that plans, uses tools, and executes multi-step tasks with minimal human input.</p>\n<p>Early commercial products exist. Market is forming with limited but growing deployment. Our research database tracks <strong>42 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State | rel=0.47 | uid:cb3e80117bcba38d</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Early Commercial</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.13</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2025–2028</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (Now–2026)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>42</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/autonomous-drone-delivery/\">Autonomous Drone Delivery</a></li>\n<li><a href=\"/tech/multimodal-foundation-model/\">Multimodal Foundation Model</a></li>\n<li><a href=\"/tech/reasoning-model-o1-class/\">Chain-of-Thought Reasoning Model</a></li>\n</ul>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/ai-agent-swarms/\">AI Agent Swarms</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/msft/\">MSFT</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nAI that plans, uses tools, and executes multi-step tasks with minimal human input.\n\nEarly commercial products exist. Market is forming with limited but growing deployment. Our research database tracks **42 independent sources** on this technology.\n\n> RSS:SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State | rel=0.47 | uid:cb3e80117bcba38d\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Early Commercial** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.13** |\n| Estimated Deployment | **2025–2028** |\n| Horizon | Near-Term (Now–2026) |\n| Independent Sources Tracked | 42 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Autonomous Drone Delivery](/future/tech/autonomous-drone-delivery/)\n- [Multimodal Foundation Model](/future/tech/multimodal-foundation-model/)\n- [Chain-of-Thought Reasoning Model](/future/tech/reasoning-model-o1-class/)\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [AI Agent Swarms](/future/tech/ai-agent-swarms/)\n\n## Investment Exposure\n\n[MSFT](/future/stocks/msft/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Autonomous AI Agent",
@@ -16,8 +16,8 @@
     "stage": "early_commercial",
     "confidence_label": "Speculative",
     "est_year": 2026,
-    "est_year_range": "2025\u20132028",
-    "horizon": "Near-Term (Now\u20132026)",
+    "est_year_range": "2025–2028",
+    "horizon": "Near-Term (Now–2026)",
     "source_count": 42,
     "stocks": [
       "MSFT"
@@ -28,12 +28,12 @@
   "reviewedAt": null,
   "stage": "early_commercial",
   "confidenceLabel": "Speculative",
-  "estimate": "2025\u20132028",
+  "estimate": "2025–2028",
   "estimateYear": 2026,
   "sourceCount": 42,
   "companies": [
     "msft"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "The commercial question is contained failure: buyers need audit trails and permissioning before agents touch production systems.",
+  "investmentLens": "Application-layer revenue is growing faster than defensibility; watch which vendors own workflow data and can charge per completed task."
 }

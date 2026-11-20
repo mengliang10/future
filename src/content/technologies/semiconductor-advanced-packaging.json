@@ -1,7 +1,7 @@
 {
   "id": "semiconductor-advanced-packaging",
   "title": "Semiconductor-Advanced-Packaging",
-  "summary": "Semiconductor-Advanced-Packaging",
+  "summary": "Imported record covering advanced packaging as a whole, from interposers to hybrid bonding.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/semiconductor-advanced-packaging.md",
@@ -45,6 +45,6 @@
     "nepes.kr",
     "skc.kr"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Packaging is now a strategic constraint on accelerator supply; buyers should secure capacity alongside wafer allocation.",
+  "investmentLens": "Diversified exposure through substrate, assembly and test vendors; capacity additions are the key indicator."
 }

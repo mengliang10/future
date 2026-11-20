@@ -1,7 +1,7 @@
 {
   "id": "quantum-sensor-integration",
   "title": "Quantum-Sensor-Integration",
-  "summary": "Quantum-Sensor-Integration",
+  "summary": "It builds on Cryo-Electronics; Proof of concept record tracked across 1 source.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-sensor-integration.md",

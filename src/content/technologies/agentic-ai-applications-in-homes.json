@@ -1,7 +1,7 @@
 {
   "id": "agentic-ai-applications-in-homes",
   "title": "Agentic Ai Applications In Homes",
-  "summary": "Agentic Ai Applications In Homes",
+  "summary": "It builds on Nvda Rtx Spark Superchip; Proof of concept record tracked across 6 sources.",
   "sector": "ai-agents-software",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/agentic-ai-applications-in-homes.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2027,
-    "est_year_range": "2026\u20132030",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2026–2030",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 6,
     "stocks": [],
     "permalink": "/tech/agenticaiapplicationsinhomes/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2026\u20132030",
+  "estimate": "2026–2030",
   "estimateYear": 2027,
   "sourceCount": 6,
   "companies": [],

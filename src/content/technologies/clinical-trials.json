@@ -1,7 +1,7 @@
 {
   "id": "clinical-trials",
   "title": "Clinical Trials",
-  "summary": "Clinical Trials",
+  "summary": "It builds on Bundibugyo Vaccine Development; Proof of concept record tracked across 5 sources.",
   "sector": "drugs-biotech",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/clinical-trials.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2027,
-    "est_year_range": "2026\u20132030",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2026–2030",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 5,
     "stocks": [],
     "permalink": "/tech/clinicaltrials/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2026\u20132030",
+  "estimate": "2026–2030",
   "estimateYear": 2027,
   "sourceCount": 5,
   "companies": [

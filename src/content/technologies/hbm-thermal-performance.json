@@ -1,7 +1,7 @@
 {
   "id": "hbm-thermal-performance",
   "title": "Hbm-Thermal-Performance",
-  "summary": "Hbm-Thermal-Performance",
+  "summary": "It builds on Embedded-Cooling-Elements-In-Hbm; Proof of concept record tracked across 1 source.",
   "sector": "memory",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/hbm-thermal-performance.md",

@@ -1,7 +1,7 @@
 {
   "id": "har-structure-metrology",
   "title": "High Aspect Ratio Structure Metrology",
-  "summary": "Measurement techniques (FIB diagonal mill, PFIB, TEM) for characterising deep, narrow features in...",
+  "summary": "Measurement of deep, narrow structures using FIB diagonal milling, PFIB and TEM cross-sections.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/har-structure-metrology.md",
@@ -16,7 +16,7 @@
     "stage": "early_commercial",
     "confidence_label": "Researching",
     "est_year": 2020,
-    "est_year_range": "2018\u20132022",
+    "est_year_range": "2018–2022",
     "horizon": "Deployed",
     "source_count": 28,
     "stocks": [],
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "early_commercial",
   "confidenceLabel": "Researching",
-  "estimate": "2018\u20132022",
+  "estimate": "2018–2022",
   "estimateYear": 2020,
   "sourceCount": 28,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "High-aspect-ratio features are central to 3D NAND and advanced packaging, so metrology throughput directly gates yield learning.",
+  "investmentLens": "A specialised equipment and services market with steady demand from memory makers and packaging houses."
 }

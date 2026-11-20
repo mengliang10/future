@@ -1,7 +1,7 @@
 {
   "id": "vertical-power-delivery",
   "title": "Vertical-Power-Delivery",
-  "summary": "Vertical-Power-Delivery",
+  "summary": "It builds on Package-Embedded-Inductor-Topology; Proof of concept record tracked across 1 source.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/vertical-power-delivery.md",

@@ -1,7 +1,7 @@
 {
   "id": "silicon-transistor-planar-mosfet",
   "title": "Silicon Transistor (Planar MOSFET)",
-  "summary": "Foundational switching element of all digital electronics since 1947",
+  "summary": "The planar MOSFET, the foundational switching device of digital electronics.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/silicon-transistor-planar-mosfet.md",
@@ -16,7 +16,7 @@
     "stage": "mass_production",
     "confidence_label": "Researching",
     "est_year": 2020,
-    "est_year_range": "2018\u20132022",
+    "est_year_range": "2018–2022",
     "horizon": "Deployed",
     "source_count": 6,
     "stocks": [],
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "mass_production",
   "confidenceLabel": "Researching",
-  "estimate": "2018\u20132022",
+  "estimate": "2018–2022",
   "estimateYear": 2020,
   "sourceCount": 6,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Mature and cheap, planar devices remain the right choice for many analog and power functions even at advanced nodes.",
+  "investmentLens": "Revenue follows mature-node capacity and analog demand rather than leading-edge cycles."
 }

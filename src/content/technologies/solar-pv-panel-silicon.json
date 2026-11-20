@@ -16,7 +16,7 @@
     "stage": "mass_production",
     "confidence_label": "Researching",
     "est_year": 2024,
-    "est_year_range": "2022\u20132026",
+    "est_year_range": "2022–2026",
     "horizon": "Deployed",
     "source_count": 6,
     "stocks": [
@@ -28,7 +28,7 @@
   "reviewedAt": null,
   "stage": "mass_production",
   "confidenceLabel": "Researching",
-  "estimate": "2022\u20132026",
+  "estimate": "2022–2026",
   "estimateYear": 2024,
   "sourceCount": 6,
   "companies": [

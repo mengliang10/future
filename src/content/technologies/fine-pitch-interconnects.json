@@ -1,7 +1,7 @@
 {
   "id": "fine-pitch-interconnects",
   "title": "Fine-Pitch-Interconnects",
-  "summary": "Fine-Pitch-Interconnects",
+  "summary": "Micro-bump and hybrid-bond interconnect families used to join dies at fine pitch.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/fine-pitch-interconnects.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2028,
   "sourceCount": 2,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "The choice between micro-bump and hybrid bonding depends on pitch, thermal budget and whether known-good-die test is practical.",
+  "investmentLens": "Equipment vendors with both bonding technologies hedged are safer than single-approach start-ups."
 }

@@ -1,7 +1,7 @@
 {
   "id": "hydrogen-production",
   "title": "Hydrogen-Production",
-  "summary": "Hydrogen-Production",
+  "summary": "It builds on Electrolysis; Proof of concept record tracked across 3 sources.",
   "sector": "energy",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/hydrogen-production.md",

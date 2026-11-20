@@ -1,7 +1,7 @@
 {
   "id": "empirical-alignment-evaluation",
   "title": "Empirical-Alignment-Evaluation",
-  "summary": "Empirical-Alignment-Evaluation",
+  "summary": "It builds on Ai-Safety-Benchmarks; Proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/empirical-alignment-evaluation.md",

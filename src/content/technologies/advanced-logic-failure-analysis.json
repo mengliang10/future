@@ -1,7 +1,7 @@
 {
   "id": "advanced-logic-failure-analysis",
   "title": "Advanced Logic Failure Analysis Workflows",
-  "summary": "Combined electrical fault isolation (e-beam probing, photon emission) + physical failure analysis...",
+  "summary": "Workflows combining e-beam probing, photon emission and physical cross-sectioning to localise defects in advanced logic.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/advanced-logic-failure-analysis.md",
@@ -16,7 +16,7 @@
     "stage": "early_commercial",
     "confidence_label": "Researching",
     "est_year": 2020,
-    "est_year_range": "2018\u20132022",
+    "est_year_range": "2018–2022",
     "horizon": "Deployed",
     "source_count": 18,
     "stocks": [],
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "early_commercial",
   "confidenceLabel": "Researching",
-  "estimate": "2018\u20132022",
+  "estimate": "2018–2022",
   "estimateYear": 2020,
   "sourceCount": 18,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Failure analysis is a yield-learning service: its value rises with node complexity and is paid for per investigation, so demand tracks new tape-outs rather than unit volumes.",
+  "investmentLens": "A concentrated services and tools market; look for attach rates of e-beam and PFIB systems at leading-edge fabs during node ramps."
 }

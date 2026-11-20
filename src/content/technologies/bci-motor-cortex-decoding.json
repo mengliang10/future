@@ -16,7 +16,7 @@
     "stage": "early_commercial",
     "confidence_label": "Researching",
     "est_year": 2027,
-    "est_year_range": "2026\u20132030",
+    "est_year_range": "2026–2030",
     "horizon": "Deployed",
     "source_count": 10,
     "stocks": [],
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "early_commercial",
   "confidenceLabel": "Researching",
-  "estimate": "2026\u20132030",
+  "estimate": "2026–2030",
   "estimateYear": 2027,
   "sourceCount": 10,
   "companies": [

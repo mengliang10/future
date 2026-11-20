@@ -1,7 +1,7 @@
 {
   "id": "social-media-user-demand",
   "title": "Social-Media-User-Demand",
-  "summary": "Social-Media-User-Demand",
+  "summary": "Imported demand record for social-media usage, unrelated to semiconductor manufacturing.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/social-media-user-demand.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2030,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "It belongs with platform economics, not chip supply; use it only as a demand signal for consumer hardware.",
+  "investmentLens": "No direct semiconductor exposure; misclassification makes it unsafe for sector analysis."
 }

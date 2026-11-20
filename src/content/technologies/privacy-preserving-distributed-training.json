@@ -1,7 +1,7 @@
 {
   "id": "privacy-preserving-distributed-training",
   "title": "Privacy-Preserving-Distributed-Training",
-  "summary": "Privacy-Preserving-Distributed-Training",
+  "summary": "It builds on Federated-Edge-Learning; Proof of concept record tracked across 2 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/privacy-preserving-distributed-training.md",

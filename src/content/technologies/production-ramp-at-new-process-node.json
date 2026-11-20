@@ -1,7 +1,7 @@
 {
   "id": "production-ramp-at-new-process-node",
   "title": "Production-Ramp-At-New-Process-Node",
-  "summary": "Production-Ramp-At-New-Process-Node",
+  "summary": "It builds on Pre-Validation-Of-Third-Party-Ip; Proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/production-ramp-at-new-process-node.md",

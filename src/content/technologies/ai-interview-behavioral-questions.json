@@ -1,7 +1,7 @@
 {
   "id": "ai-interview-behavioral-questions",
   "title": "Ai Interview Behavioral Questions",
-  "summary": "Ai Interview Behavioral Questions",
+  "summary": "It is cited as an enabler for Candidate Need For Quantified Answers; Proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/ai-interview-behavioral-questions.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2029,
-    "est_year_range": "2028\u20132032",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2028–2032",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 1,
     "stocks": [],
     "permalink": "/tech/aiinterviewbehavioralquestions/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2028\u20132032",
+  "estimate": "2028–2032",
   "estimateYear": 2029,
   "sourceCount": 1,
   "companies": [],

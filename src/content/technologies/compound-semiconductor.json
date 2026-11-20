@@ -1,7 +1,7 @@
 {
   "id": "compound-semiconductor",
   "title": "Compound Semiconductor (III-V / II-VI)",
-  "summary": "Semiconductors formed from two or more elements (GaN, GaAs, InP, SiC, AlGaN); superior electron m...",
+  "summary": "Semiconductors built from two or more elements, such as GaN, GaAs, InP and SiC, rather than silicon alone.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/compound-semiconductor.md",
@@ -30,6 +30,6 @@
   "estimateYear": 1970,
   "sourceCount": 28,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Compound materials win where voltage, frequency or light emission beats silicon, so the business case is application-specific rather than a general replacement.",
+  "investmentLens": "Exposure through specialty foundries and substrate suppliers; growth is tied to EV, RF and photonics demand rather than compute cycles."
 }

@@ -1,7 +1,7 @@
 {
   "id": "next-generation",
   "title": "next-generation",
-  "summary": "19 sources from SemiEngineering.com",
+  "summary": "Another imported catch-all covering unspecified next-generation chip technologies.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/next-generation.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2036,
   "sourceCount": 21,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "The record has no defined scope, so it is useful only as a pointer to more specific entries.",
+  "investmentLens": "Avoid treating the label as an investable theme; the named records carry the actual evidence."
 }

@@ -1,7 +1,7 @@
 {
   "id": "granular-material-simulation",
   "title": "Granular-Material-Simulation",
-  "summary": "Granular-Material-Simulation",
+  "summary": "It builds on Rigid-Body-Contact-Dynamics; Proof of concept record tracked across 1 source.",
   "sector": "materials-physics",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/granular-material-simulation.md",

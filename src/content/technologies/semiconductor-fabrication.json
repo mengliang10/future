@@ -1,7 +1,7 @@
 {
   "id": "semiconductor-fabrication",
   "title": "Semiconductor-Fabrication",
-  "summary": "Semiconductor-Fabrication",
+  "summary": "Wafer fabrication: the process steps that turn designs into working chips.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/semiconductor-fabrication.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2032,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Fab economics are driven by utilisation and yield; a new process only pays off when volume fills the line.",
+  "investmentLens": "Equipment and materials suppliers capture spend during build-outs; fab operators carry cyclical risk."
 }

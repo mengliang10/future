@@ -1,7 +1,7 @@
 {
   "id": "ai-assisted-chip-design-eda-ai",
   "title": "AI-Assisted Chip Design (EDA AI)",
-  "summary": "AI automating RTL, floorplan, and verification steps in semiconductor design",
+  "summary": "Machine learning applied to RTL generation, floorplanning and verification inside commercial EDA flows.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/ai-assisted-chip-design-eda-ai.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2026,
   "sourceCount": 42,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "The value is engineer-hours saved per tape-out; adoption follows trust and integration with existing sign-off tools rather than raw model quality.",
+  "investmentLens": "EDA incumbents own the distribution and data, making them the safer exposure; watch pricing uplift from AI features in renewals."
 }

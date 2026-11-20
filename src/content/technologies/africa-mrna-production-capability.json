@@ -1,7 +1,7 @@
 {
   "id": "africa-mrna-production-capability",
   "title": "Africa Mrna Production Capability",
-  "summary": "Africa Mrna Production Capability",
+  "summary": "It builds on Mrna Platform Transfer; Proof of concept record tracked across 2 sources.",
   "sector": "drugs-biotech",
   "sourceCategory": "Biotech & Healthcare",
   "sourcePath": "_tech/africa-mrna-production-capability.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2033,
-    "est_year_range": "2031\u20132038",
-    "horizon": "Long-Term (2030\u20132040)",
+    "est_year_range": "2031–2038",
+    "horizon": "Long-Term (2030–2040)",
     "source_count": 2,
     "stocks": [],
     "permalink": "/tech/africamrnaproductioncapability/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2031\u20132038",
+  "estimate": "2031–2038",
   "estimateYear": 2033,
   "sourceCount": 2,
   "companies": [],

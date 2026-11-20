@@ -1,7 +1,7 @@
 {
   "id": "sic-chip-embedded-power-packaging",
   "title": "Sic-Chip-Embedded-Power-Packaging",
-  "summary": "Sic-Chip-Embedded-Power-Packaging",
+  "summary": "Embedding silicon carbide dies directly into power modules to cut inductance and improve cooling.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/sic-chip-embedded-power-packaging.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2031,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Embedding improves power density, but rework and reliability qualification remain obstacles for automotive customers.",
+  "investmentLens": "Exposure through packaging and substrate suppliers; adoption follows EV powertrain design cycles."
 }

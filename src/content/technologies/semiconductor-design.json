@@ -1,7 +1,7 @@
 {
   "id": "semiconductor-design",
   "title": "Semiconductor Design",
-  "summary": "Semiconductor Design",
+  "summary": "The design side of the chip industry, from architecture and IP to verification and tape-out.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/semiconductor-design.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2033,
-    "est_year_range": "2032\u20132037",
-    "horizon": "Medium-Term (2029\u20132033)",
+    "est_year_range": "2032–2037",
+    "horizon": "Medium-Term (2029–2033)",
     "source_count": 5,
     "stocks": [],
     "permalink": "/tech/semiconductordesign/"
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2032\u20132037",
+  "estimate": "2032–2037",
   "estimateYear": 2033,
   "sourceCount": 5,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Design cost and schedule risk dominate decisions at leading edge, pushing teams toward IP reuse and chiplets.",
+  "investmentLens": "EDA and IP vendors earn per project regardless of which chip wins; fabless designers carry product risk."
 }

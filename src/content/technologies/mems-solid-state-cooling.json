@@ -1,7 +1,7 @@
 {
   "id": "mems-solid-state-cooling",
   "title": "Piezoelectric MEMS Micro-Cooling",
-  "summary": "Active micro-jets at the chip level to solve edge AI thermal throttling.",
+  "summary": "Piezoelectric micro-jets that cool chips at the die level to limit thermal throttling.",
   "sector": "semiconductors",
   "sourceCategory": "Hardware",
   "sourcePath": "_tech/mems-solid-state-cooling.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2036,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "On-die cooling addresses heat density that fans and cold plates cannot reach, but adds a moving-part reliability question.",
+  "investmentLens": "An early-stage component market; exposure is through MEMS foundries and thermal-module vendors if designs are adopted."
 }

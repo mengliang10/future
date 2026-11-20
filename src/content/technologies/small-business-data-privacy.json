@@ -1,7 +1,7 @@
 {
   "id": "small-business-data-privacy",
   "title": "Small Business Data Privacy",
-  "summary": "Small Business Data Privacy",
+  "summary": "It builds on Local Llm Deployment, Local Open Source Llm; Proof of concept record tracked across 3 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/small-business-data-privacy.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2028,
-    "est_year_range": "2027\u20132031",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2027–2031",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 3,
     "stocks": [],
     "permalink": "/tech/smallbusinessdataprivacy/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2027\u20132031",
+  "estimate": "2027–2031",
   "estimateYear": 2028,
   "sourceCount": 3,
   "companies": [],

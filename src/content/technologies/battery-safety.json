@@ -1,7 +1,7 @@
 {
   "id": "battery-safety",
   "title": "Battery-Safety",
-  "summary": "Battery-Safety",
+  "summary": "It builds on Solid-State-Architectures; Proof of concept record tracked across 1 source.",
   "sector": "energy",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/battery-safety.md",

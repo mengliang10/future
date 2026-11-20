@@ -1,7 +1,7 @@
 {
   "id": "minor-data-collection-without-consent",
   "title": "Minor Data Collection Without Consent",
-  "summary": "Minor Data Collection Without Consent",
+  "summary": "It builds on Openai Chatgpt; Proof of concept record tracked across 2 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/minor-data-collection-without-consent.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2027,
-    "est_year_range": "2026\u20132030",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2026–2030",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 2,
     "stocks": [],
     "permalink": "/tech/minordatacollectionwithoutconsent/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2026\u20132030",
+  "estimate": "2026–2030",
   "estimateYear": 2027,
   "sourceCount": 2,
   "companies": [],

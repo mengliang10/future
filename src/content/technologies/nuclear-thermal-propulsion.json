@@ -1,7 +1,7 @@
 {
   "id": "nuclear-thermal-propulsion",
   "title": "Nuclear Thermal Propulsion (NTP)",
-  "summary": "",
+  "summary": "Imported Prototype record tracked across 0 sources, with no linked records or descriptive notes in the source.",
   "sector": "energy",
   "sourceCategory": "Space Tech",
   "sourcePath": "_tech/nuclear-thermal-propulsion.md",
@@ -15,14 +15,14 @@
     "category": "Space Tech",
     "status": "prototype",
     "est_year": 2028,
-    "est_year_range": "2028\u20132032",
-    "horizon": "Near-Term (2026\u20132030)"
+    "est_year_range": "2028–2032",
+    "horizon": "Near-Term (2026–2030)"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
   "stage": "prototype",
   "confidenceLabel": "Not classified",
-  "estimate": "2028\u20132032",
+  "estimate": "2028–2032",
   "estimateYear": 2028,
   "sourceCount": null,
   "companies": [],

@@ -1,7 +1,7 @@
 {
   "id": "large-language-model-inner-workings-understanding",
   "title": "Large Language Model Inner Workings Understanding",
-  "summary": "Large Language Model Inner Workings Understanding",
+  "summary": "It builds on Mechanistic Interpretability Research; Proof of concept record tracked across 33 sources.",
   "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/large-language-model-inner-workings-understanding.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2027,
-    "est_year_range": "2026\u20132030",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2026–2030",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 33,
     "stocks": [],
     "permalink": "/tech/largelanguagemodelinnerworkingsunderstanding/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2026\u20132030",
+  "estimate": "2026–2030",
   "estimateYear": 2027,
   "sourceCount": 33,
   "companies": [],

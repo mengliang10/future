@@ -1,7 +1,7 @@
 {
   "id": "quantum-technologies",
   "title": "Quantum-Technologies",
-  "summary": "Quantum-Technologies",
+  "summary": "It builds on quantum computing; Proof of concept record tracked across 6 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-technologies.md",

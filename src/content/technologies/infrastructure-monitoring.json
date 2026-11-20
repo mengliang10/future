@@ -1,7 +1,7 @@
 {
   "id": "infrastructure-monitoring",
   "title": "Infrastructure-Monitoring",
-  "summary": "Infrastructure-Monitoring",
+  "summary": "It builds on Fiber-Distributed-Sensing; Proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/infrastructure-monitoring.md",

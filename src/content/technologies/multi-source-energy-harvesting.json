@@ -1,7 +1,7 @@
 {
   "id": "multi-source-energy-harvesting",
   "title": "Multi-Source-Energy-Harvesting",
-  "summary": "Multi-Source-Energy-Harvesting",
+  "summary": "It builds on Triboelectric-Nanogenerators-Hybrid; Proof of concept record tracked across 2 sources.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/multi-source-energy-harvesting.md",

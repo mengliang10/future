@@ -1,7 +1,7 @@
 {
   "id": "computational-fluid-dynamics",
   "title": "Computational-Fluid-Dynamics",
-  "summary": "Computational-Fluid-Dynamics",
+  "summary": "It builds on Ml-Super-Resolution-Fluids; Proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/computational-fluid-dynamics.md",

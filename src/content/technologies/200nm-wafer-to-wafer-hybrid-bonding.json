@@ -1,7 +1,7 @@
 {
   "id": "200nm-wafer-to-wafer-hybrid-bonding",
   "title": "200Nm-Wafer-To-Wafer-Hybrid-Bonding",
-  "summary": "200Nm-Wafer-To-Wafer-Hybrid-Bonding",
+  "summary": "Fine-pitch wafer-to-wafer hybrid bonding at roughly 200nm interconnect pitch, aimed at dense 3D integration.",
   "sector": "semiconductors",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/200nm-wafer-to-wafer-hybrid-bonding.md",
@@ -37,6 +37,6 @@
     "camtek.il",
     "suess-microtec.de"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Hybrid bonding is the enabling step for stacking logic and memory without microbumps; the commercial gate is defect density and particle control, not the bonding concept.",
+  "investmentLens": "Bonding, CMP and inspection vendors benefit before their customers do; watch qualification wins at memory makers and foundries rather than headline pitch numbers."
 }

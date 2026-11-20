@@ -6,8 +6,8 @@
   "sourceCategory": "Marketing Tech",
   "sourcePath": "_tech/cookieless-tracking-privacy-sandbox.md",
   "sourceHash": "46ae6bfe8efe39bbcb4f4bf1be89812dd3200dee8c73323f58f136bb23323e0c",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Post-cookie measurement via cohorts, on-device ML, server-side tagging.</p>\n<p>Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks <strong>6 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:In-situ correlative SEM/KPFM for semiconductor devices and 2D heterost | rel=0.53 | uid:b5fb6784e41f1410</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Pilot / Limited Deployment</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.13</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2025\u20132028</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (Now\u20132026)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>6</td>\n</tr>\n</tbody>\n</table>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/customer-data-platform/\">Customer Data Platform (CDP)</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/ttd/\">TTD</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nPost-cookie measurement via cohorts, on-device ML, server-side tagging.\n\nPilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **6 independent sources** on this technology.\n\n> RSS:In-situ correlative SEM/KPFM for semiconductor devices and 2D heterost | rel=0.53 | uid:b5fb6784e41f1410\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Pilot / Limited Deployment** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.13** |\n| Estimated Deployment | **2025\u20132028** |\n| Horizon | Near-Term (Now\u20132026) |\n| Independent Sources Tracked | 6 |\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [Customer Data Platform (CDP)](/future/tech/customer-data-platform/)\n\n## Investment Exposure\n\n[TTD](/future/stocks/ttd/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Post-cookie measurement via cohorts, on-device ML, server-side tagging.</p>\n<p>Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks <strong>6 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:In-situ correlative SEM/KPFM for semiconductor devices and 2D heterost | rel=0.53 | uid:b5fb6784e41f1410</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Pilot / Limited Deployment</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.13</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2025–2028</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (Now–2026)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>6</td>\n</tr>\n</tbody>\n</table>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/customer-data-platform/\">Customer Data Platform (CDP)</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/ttd/\">TTD</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nPost-cookie measurement via cohorts, on-device ML, server-side tagging.\n\nPilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **6 independent sources** on this technology.\n\n> RSS:In-situ correlative SEM/KPFM for semiconductor devices and 2D heterost | rel=0.53 | uid:b5fb6784e41f1410\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Pilot / Limited Deployment** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.13** |\n| Estimated Deployment | **2025–2028** |\n| Horizon | Near-Term (Now–2026) |\n| Independent Sources Tracked | 6 |\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [Customer Data Platform (CDP)](/future/tech/customer-data-platform/)\n\n## Investment Exposure\n\n[TTD](/future/stocks/ttd/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Cookieless Tracking / Privacy Sandbox",
@@ -16,8 +16,8 @@
     "stage": "pilot",
     "confidence_label": "Speculative",
     "est_year": 2026,
-    "est_year_range": "2025\u20132028",
-    "horizon": "Near-Term (Now\u20132026)",
+    "est_year_range": "2025–2028",
+    "horizon": "Near-Term (Now–2026)",
     "source_count": 6,
     "stocks": [
       "TTD"
@@ -28,7 +28,7 @@
   "reviewedAt": null,
   "stage": "pilot",
   "confidenceLabel": "Speculative",
-  "estimate": "2025\u20132028",
+  "estimate": "2025–2028",
   "estimateYear": 2026,
   "sourceCount": 6,
   "companies": [

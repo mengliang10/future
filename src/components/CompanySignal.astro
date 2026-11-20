@@ -82,6 +82,14 @@ const yearLabel = years.length ? `${years[0]}–${years[years.length - 1]}` : 'N
     </text>
     <text x={x0} y="160" class="signal-meta">Higher position means later deployment estimate.</text>
   </svg>
+
+  <ul class="signal-compact">
+    <li><strong>{technologies.length}</strong> linked technologies across {sectorCount} {sectorCount === 1 ? 'sector' : 'sectors'}</li>
+    {counts.filter((bin) => bin.count > 0).map((bin) => (
+      <li><span class="dot" style={`background:${bin.color}`}></span>{bin.label}: <strong>{bin.count}</strong></li>
+    ))}
+    <li>Deployment window: <strong>{yearLabel}</strong>{undated > 0 ? ` · ${undated} undated` : ''}</li>
+  </ul>
 </figure>
 
 <style>
@@ -95,4 +103,12 @@ const yearLabel = years.length ? `${years[0]}–${years[years.length - 1]}` : 'N
 .signal-label{font:700 10.5px/1 var(--sans,inherit);fill:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 .signal-tick{font:600 11px/1 var(--sans,inherit);fill:var(--ink)}
 .signal-tick-label{font:400 10.5px/1 var(--sans,inherit);fill:var(--muted)}
+.signal-compact{display:none;margin:6px 0 0;padding:0;list-style:none;gap:7px;font-size:13.5px}
+.signal-compact li{display:flex;align-items:center;gap:7px;color:var(--text)}
+.signal-compact .dot{width:8px;height:8px;border-radius:2px;flex:none}
+@media (max-width:720px){
+  .company-signal{padding:16px 16px 12px}
+  .company-signal svg{display:none}
+  .signal-compact{display:grid}
+}
 </style>

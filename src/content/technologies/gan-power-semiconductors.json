@@ -1,7 +1,7 @@
 {
   "id": "gan-power-semiconductors",
   "title": "GaN Power Semiconductors",
-  "summary": "Wide-bandgap GaN for efficient high-frequency power conversion in EVs and PSUs",
+  "summary": "Gallium nitride power devices for efficient high-frequency conversion in chargers, EVs and data-centre supplies.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/gan-power-semiconductors.md",
@@ -16,7 +16,7 @@
     "stage": "mass_production",
     "confidence_label": "Researching",
     "est_year": 2023,
-    "est_year_range": "2021\u20132025",
+    "est_year_range": "2021–2025",
     "horizon": "Deployed",
     "source_count": 12,
     "stocks": [],
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "mass_production",
   "confidenceLabel": "Researching",
-  "estimate": "2021\u20132025",
+  "estimate": "2021–2025",
   "estimateYear": 2023,
   "sourceCount": 12,
   "companies": [
@@ -41,6 +41,6 @@
     "aixtron.de",
     "pva-tepla.de"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "GaN wins where switching frequency and size matter; the commercial gate is qualification and reliability data at system level.",
+  "investmentLens": "Growth is tied to power-adapter and EV demand; substrate and epitaxy suppliers are the constrained layer."
 }

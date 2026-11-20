@@ -1,7 +1,7 @@
 {
   "id": "africa-first-end-to-end-mrna-platform",
   "title": "Africa First End To End Mrna Platform",
-  "summary": "Africa First End To End Mrna Platform",
+  "summary": "It builds on Rwanda Mrna Facility; Proof of concept record tracked across 4 sources.",
   "sector": "drugs-biotech",
   "sourceCategory": "Biotech & Healthcare",
   "sourcePath": "_tech/africa-first-end-to-end-mrna-platform.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2035,
-    "est_year_range": "2033\u20132040",
-    "horizon": "Long-Term (2030\u20132040)",
+    "est_year_range": "2033–2040",
+    "horizon": "Long-Term (2030–2040)",
     "source_count": 4,
     "stocks": [],
     "permalink": "/tech/africafirstendtoendmrnaplatform/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2033\u20132040",
+  "estimate": "2033–2040",
   "estimateYear": 2035,
   "sourceCount": 4,
   "companies": [],

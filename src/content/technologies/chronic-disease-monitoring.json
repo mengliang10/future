@@ -1,7 +1,7 @@
 {
   "id": "chronic-disease-monitoring",
   "title": "Chronic-Disease-Monitoring",
-  "summary": "Chronic-Disease-Monitoring",
+  "summary": "It builds on Implantable-Nano-Sensors; Proof of concept record tracked across 9 sources.",
   "sector": "drugs-biotech",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/chronic-disease-monitoring.md",

@@ -1,7 +1,7 @@
 {
   "id": "brain-to-text-communication",
   "title": "Brain-To-Text-Communication",
-  "summary": "Brain-To-Text-Communication",
+  "summary": "It builds on Neural-Decoding-Speech; Proof of concept record tracked across 2 sources.",
   "sector": "bci",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/brain-to-text-communication.md",

@@ -90,6 +90,30 @@ const barGap = 16;
       );
     })}
   </svg>
+
+  <div class="sp-compact">
+    <div>
+      <span class="sp-compact-title">Stage</span>
+      <ul>
+        {stageCounts.map((bin) => (
+          <li><span class="sp-dot" style={`background:${bin.color}`}></span>{bin.label}: <strong>{bin.count}</strong></li>
+        ))}
+      </ul>
+    </div>
+    <div>
+      <span class="sp-compact-title">Deployment window</span>
+      <ul>
+        {horizonCounts.filter((bin) => bin.count > 0).map((bin) => (
+          <li><span class="sp-dot" style={`background:${bin.color}`}></span>{bin.short}: <strong>{bin.count}</strong></li>
+        ))}
+      </ul>
+    </div>
+    <div>
+      <span class="sp-compact-title">Company records</span>
+      <p class="sp-compact-figure">{companies.length}</p>
+      {depth.length > 0 && <ul>{depth.slice(0, 3).map((c: any) => <li>{c.title}: <strong>{c.links}</strong></li>)}</ul>}
+    </div>
+  </div>
   <figcaption>Counts are derived from the imported records. Stage labels and estimated years are source-supplied, not independently verified.</figcaption>
 </figure>
 
@@ -105,8 +129,14 @@ const barGap = 16;
   .sp-big { font-size: 30px; font-weight: 700; fill: var(--accent); }
   .sp-empty { font-size: 12px; fill: var(--muted, #767b84); }
   figcaption { font-size: 12px; color: var(--muted, #767b84); }
+  .sp-compact { display: none; }
+  .sp-compact-title { display: block; font-size: 10.5px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted, #767b84); margin-bottom: 6px; }
+  .sp-compact ul { list-style: none; margin: 0 0 14px; padding: 0; display: grid; gap: 5px; font-size: 13px; }
+  .sp-compact li { display: flex; align-items: center; gap: 7px; }
+  .sp-dot { width: 8px; height: 8px; border-radius: 2px; flex: none; }
+  .sp-compact-figure { margin: 0 0 10px; font-size: 26px; font-weight: 700; color: var(--accent); line-height: 1; }
   @media (max-width: 760px) {
-    .sector-portrait { overflow-x: auto; }
-    .sector-portrait svg { min-width: 820px; }
+    .sector-portrait svg { display: none; }
+    .sp-compact { display: block; margin-bottom: 4px; }
   }
 </style>

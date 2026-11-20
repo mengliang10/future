@@ -1,7 +1,7 @@
 {
   "id": "controllable-multi-agent-deployment",
   "title": "Controllable-Multi-Agent-Deployment",
-  "summary": "Controllable-Multi-Agent-Deployment",
+  "summary": "It builds on Agent-Safety-Governance; Proof of concept record tracked across 2 sources.",
   "sector": "ai-agents-software",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/controllable-multi-agent-deployment.md",

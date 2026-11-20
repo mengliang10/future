@@ -1,7 +1,7 @@
 {
   "id": "smic-n-2-process",
   "title": "SMIC N+2 (7nm-class) process",
-  "summary": "China's leading-edge logic process, achieved with older lithography and multi-patterning.",
+  "summary": "SMIC's 7nm-class N+2 process, produced using older lithography and multi-patterning.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/smic-n-2-process.md",
@@ -32,6 +32,6 @@
     "smic.hk",
     "huawei.pvt"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "The process shows how far multi-patterning can stretch DUV, but cost and yield limit it to strategic domestic products.",
+  "investmentLens": "Exposure is to SMIC's domestic equipment chain; export controls shape both capability and cost."
 }

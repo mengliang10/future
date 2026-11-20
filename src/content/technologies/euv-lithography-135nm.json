@@ -1,7 +1,7 @@
 {
   "id": "euv-lithography-135nm",
   "title": "EUV Lithography (13.5nm)",
-  "summary": "Extreme ultraviolet patterning enabling sub-7nm chip production; ASML monopoly",
+  "summary": "Extreme ultraviolet lithography at 13.5nm wavelength, the patterning step behind sub-7nm production.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/euv-lithography-135nm.md",
@@ -16,7 +16,7 @@
     "stage": "mass_production",
     "confidence_label": "Confident",
     "est_year": 2023,
-    "est_year_range": "2021\u20132025",
+    "est_year_range": "2021–2025",
     "horizon": "Deployed",
     "source_count": 2,
     "stocks": [
@@ -28,7 +28,7 @@
   "reviewedAt": null,
   "stage": "mass_production",
   "confidenceLabel": "Confident",
-  "estimate": "2021\u20132025",
+  "estimate": "2021–2025",
   "estimateYear": 2023,
   "sourceCount": 2,
   "companies": [
@@ -60,6 +60,6 @@
     "dongjin-semichem.kr",
     "agc.jp"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "EUV is a single-supplier bottleneck, so access to tool time shapes which products can be built at leading edge.",
+  "investmentLens": "ASML holds the monopoly, with Zeiss and Cymer in the supply chain; the risk is demand timing around fab construction cycles."
 }

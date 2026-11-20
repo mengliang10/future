@@ -1,7 +1,7 @@
 {
   "id": "graphene-mass-production",
   "title": "Graphene Mass Production",
-  "summary": "",
+  "summary": "Efforts to produce graphene at industrial volume and quality for electronics and composites.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/graphene-mass-production.md",
@@ -15,17 +15,17 @@
     "category": "Semiconductors",
     "status": "pilot",
     "est_year": 2026,
-    "est_year_range": "2026\u20132030",
-    "horizon": "Near-Term (2026\u20132030)"
+    "est_year_range": "2026–2030",
+    "horizon": "Near-Term (2026–2030)"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
   "stage": "pilot",
   "confidenceLabel": "Not classified",
-  "estimate": "2026\u20132030",
+  "estimate": "2026–2030",
   "estimateYear": 2026,
   "sourceCount": null,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Quality consistency across batches is the blocker; buyers should specify the application and required defect level before sourcing.",
+  "investmentLens": "Commoditisation risk is high; defensibility depends on a proprietary production route or a qualified application."
 }

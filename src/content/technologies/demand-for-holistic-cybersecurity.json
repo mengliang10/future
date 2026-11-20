@@ -1,7 +1,7 @@
 {
   "id": "demand-for-holistic-cybersecurity",
   "title": "Demand For Holistic Cybersecurity",
-  "summary": "Demand For Holistic Cybersecurity",
+  "summary": "It builds on Ai Cyber Threats; Proof of concept record tracked across 4 sources.",
   "sector": "cybersecurity",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/demand-for-holistic-cybersecurity.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2027,
-    "est_year_range": "2026\u20132030",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2026–2030",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 4,
     "stocks": [],
     "permalink": "/tech/demandforholisticcybersecurity/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2026\u20132030",
+  "estimate": "2026–2030",
   "estimateYear": 2027,
   "sourceCount": 4,
   "companies": [],

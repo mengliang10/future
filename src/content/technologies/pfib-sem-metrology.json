@@ -1,7 +1,7 @@
 {
   "id": "pfib-sem-metrology",
   "title": "Plasma FIB-SEM (PFIB) Wafer Metrology",
-  "summary": "Xenon or argon plasma ion beam replaces Ga in FIB-SEM, enabling 50-100× faster milling for large-...",
+  "summary": "Plasma FIB-SEM using xenon or argon beams for faster milling of large semiconductor features.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/pfib-sem-metrology.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2020,
   "sourceCount": 10,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Faster milling shortens failure-analysis and metrology cycles, which matters most for 3D structures and packages.",
+  "investmentLens": "A specialised tool upgrade cycle within the existing FIB-SEM installed base."
 }

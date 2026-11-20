@@ -1,7 +1,7 @@
 {
   "id": "ai-coding-agents",
   "title": "Ai Coding Agents",
-  "summary": "Ai Coding Agents",
+  "summary": "It builds on Ai Adoption Rate and is cited as an enabler for Data Center Capex, Enterprise Ai Spending; Proof of concept record tracked across 10 sources.",
   "sector": "ai-agents-software",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/ai-coding-agents.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2028,
-    "est_year_range": "2027\u20132031",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2027–2031",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 10,
     "stocks": [],
     "permalink": "/tech/aicodingagents/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2027\u20132031",
+  "estimate": "2027–2031",
   "estimateYear": 2028,
   "sourceCount": 10,
   "companies": [],

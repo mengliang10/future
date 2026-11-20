@@ -1,7 +1,7 @@
 {
   "id": "advanced-node-socs",
   "title": "Advanced-Node-Socs",
-  "summary": "Advanced-Node-Socs",
+  "summary": "System-on-chip designs at 3nm and below, where mask costs and verification effort rise sharply per design.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/advanced-node-socs.md",
@@ -30,6 +30,6 @@
   "estimateYear": 2029,
   "sourceCount": 1,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Only high-volume products can amortise leading-edge design cost, which pushes smaller players to older nodes or chiplets and reshapes who can compete.",
+  "investmentLens": "Beneficiaries are the foundries and EDA vendors that collect revenue per tape-out; the losers are custom silicon start-ups that cannot reach volume."
 }

@@ -1,7 +1,7 @@
 {
   "id": "tem-metrology-semiconductor",
   "title": "TEM Metrology for Semiconductor Structures",
-  "summary": "Transmission electron microscopy workflows for atomic-resolution imaging and dimensional metrolog...",
+  "summary": "Transmission electron microscopy workflows for atomic-resolution imaging and dimension measurement.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/tem-metrology-semiconductor.md",
@@ -16,7 +16,7 @@
     "stage": "mass_production",
     "confidence_label": "Researching",
     "est_year": 1995,
-    "est_year_range": "1990\u20132000",
+    "est_year_range": "1990–2000",
     "horizon": "Deployed",
     "source_count": 39,
     "stocks": [],
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "mass_production",
   "confidenceLabel": "Researching",
-  "estimate": "1990\u20132000",
+  "estimate": "1990–2000",
   "estimateYear": 1995,
   "sourceCount": 39,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "TEM is the reference method for defect and structure analysis, so it anchors qualification even when slower than inline metrology.",
+  "investmentLens": "A high-end, service-heavy niche with steady demand from leading-edge fabs and labs."
 }

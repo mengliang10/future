@@ -1,7 +1,7 @@
 {
   "id": "silicon-photonics-interconnect",
   "title": "Silicon Photonics Interconnect",
-  "summary": "Optical signaling on-chip or chip-to-chip; eliminates copper bandwidth bottleneck",
+  "summary": "Optical links built in silicon photonics for chip-to-chip and intra-data-centre communication.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/silicon-photonics-interconnect.md",
@@ -37,6 +37,6 @@
     "ayar-labs.us",
     "celestial-ai.us"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Optics remove the copper bandwidth-distance limit, but packaging and laser integration still drive cost.",
+  "investmentLens": "Transceiver and laser suppliers benefit from AI cluster build-outs; watch co-packaged optics adoption."
 }

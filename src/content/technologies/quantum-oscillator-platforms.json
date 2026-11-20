@@ -1,7 +1,7 @@
 {
   "id": "quantum-oscillator-platforms",
   "title": "Quantum-Oscillator-Platforms",
-  "summary": "Quantum-Oscillator-Platforms",
+  "summary": "It builds on Topological-Semimetals; Proof of concept record tracked across 2 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-oscillator-platforms.md",

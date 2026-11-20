@@ -1,7 +1,7 @@
 {
   "id": "nuclear-reactor-deployment-speed",
   "title": "Nuclear Reactor Deployment Speed",
-  "summary": "Nuclear Reactor Deployment Speed",
+  "summary": "It builds on Next-Gen Nuclear Reactors; Proof of concept record tracked across 12 sources.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/nuclear-reactor-deployment-speed.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2037,
-    "est_year_range": "2035\u20132042",
-    "horizon": "Long-Term (2030\u20132040)",
+    "est_year_range": "2035–2042",
+    "horizon": "Long-Term (2030–2040)",
     "source_count": 12,
     "stocks": [],
     "permalink": "/tech/nuclearreactordeploymentspeed/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2035\u20132042",
+  "estimate": "2035–2042",
   "estimateYear": 2037,
   "sourceCount": 12,
   "companies": [],

@@ -1,7 +1,7 @@
 {
   "id": "photonic-ai-synchronization",
   "title": "Photonic-Ai-Synchronization",
-  "summary": "Photonic-Ai-Synchronization",
+  "summary": "It builds on Optical-Injection-Locking; Proof of concept record tracked across 2 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/photonic-ai-synchronization.md",

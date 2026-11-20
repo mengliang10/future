@@ -1,7 +1,7 @@
 {
   "id": "global-semiconductor-demand",
   "title": "Global Semiconductor Demand",
-  "summary": "Global Semiconductor Demand",
+  "summary": "Aggregate demand across compute, memory, automotive and industrial chips, tracked as a cycle indicator.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/global-semiconductor-demand.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2031,
-    "est_year_range": "2030\u20132035",
-    "horizon": "Medium-Term (2029\u20132033)",
+    "est_year_range": "2030–2035",
+    "horizon": "Medium-Term (2029–2033)",
     "source_count": 7,
     "stocks": [],
     "permalink": "/tech/globalsemiconductordemand/"
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2030\u20132035",
+  "estimate": "2030–2035",
   "estimateYear": 2031,
   "sourceCount": 7,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Demand is segmented by end market, so an aggregate forecast is less useful than the mix between consumer, data centre and industrial.",
+  "investmentLens": "Use leading indicators such as fab utilisation and inventory days rather than headline revenue forecasts."
 }

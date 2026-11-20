@@ -1,7 +1,7 @@
 {
   "id": "quantum-computing-risk",
   "title": "Quantum Computing Risk",
-  "summary": "Quantum Computing Risk",
+  "summary": "It is cited as an enabler for Encryption Integrity Premium; Proof of concept record tracked across 9 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-computing-risk.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2035,
-    "est_year_range": "2033\u20132040",
-    "horizon": "Long-Term (2030\u20132040)",
+    "est_year_range": "2033–2040",
+    "horizon": "Long-Term (2030–2040)",
     "source_count": 9,
     "stocks": [],
     "permalink": "/tech/quantumcomputingrisk/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2033\u20132040",
+  "estimate": "2033–2040",
   "estimateYear": 2035,
   "sourceCount": 9,
   "companies": [],

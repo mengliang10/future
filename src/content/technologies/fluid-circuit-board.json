@@ -1,13 +1,13 @@
 {
   "id": "fluid-circuit-board",
   "title": "Reconfigurable Fluid Circuit Board",
-  "summary": "Liquid metal on glass substrates for real-time PCB prototyping.",
+  "summary": "Liquid metal channels on glass substrates explored for rapid, reconfigurable circuit prototyping.",
   "sector": "semiconductors",
   "sourceCategory": "Hardware",
   "sourcePath": "_tech/fluid-circuit-board.md",
   "sourceHash": "4f481fe26e1138206758b7146c561c697f913f64395981b6c4fa54dddb1f6af3",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Liquid metal on glass substrates for real-time PCB prototyping..</p>\n<p>Fundamental research phase \u2014 concept established, practical implementation remains unsolved. Our research database tracks <strong>3 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Glass Substrates Are Breaking Through the AI Chip Packaging Bottleneck | rel=0.47 | uid:8dc7711d66d0511b</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Basic Research</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-researching\">Researching</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.45</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>TBD</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Timeline TBD</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>3</td>\n</tr>\n</tbody>\n</table>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nLiquid metal on glass substrates for real-time PCB prototyping..\n\nFundamental research phase \u2014 concept established, practical implementation remains unsolved. Our research database tracks **3 independent sources** on this technology.\n\n> RSS:Glass Substrates Are Breaking Through the AI Chip Packaging Bottleneck | rel=0.47 | uid:8dc7711d66d0511b\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Basic Research** |\n| Confidence Level | <span class=\"conf-badge conf-researching\">Researching</span> |\n| Confidence Score | **+0.45** |\n| Estimated Deployment | **TBD** |\n| Horizon | Timeline TBD |\n| Independent Sources Tracked | 3 |\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Liquid metal on glass substrates for real-time PCB prototyping..</p>\n<p>Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks <strong>3 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Glass Substrates Are Breaking Through the AI Chip Packaging Bottleneck | rel=0.47 | uid:8dc7711d66d0511b</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Basic Research</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-researching\">Researching</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.45</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>TBD</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Timeline TBD</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>3</td>\n</tr>\n</tbody>\n</table>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nLiquid metal on glass substrates for real-time PCB prototyping..\n\nFundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **3 independent sources** on this technology.\n\n> RSS:Glass Substrates Are Breaking Through the AI Chip Packaging Bottleneck | rel=0.47 | uid:8dc7711d66d0511b\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Basic Research** |\n| Confidence Level | <span class=\"conf-badge conf-researching\">Researching</span> |\n| Confidence Score | **+0.45** |\n| Estimated Deployment | **TBD** |\n| Horizon | Timeline TBD |\n| Independent Sources Tracked | 3 |\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Reconfigurable Fluid Circuit Board",
@@ -16,7 +16,7 @@
     "stage": "basic_research",
     "confidence_label": "Researching",
     "est_year": 2039,
-    "est_year_range": "2037\u20132045",
+    "est_year_range": "2037–2045",
     "horizon": "Long-Term (2035+)",
     "source_count": 3,
     "stocks": [],
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "basic_research",
   "confidenceLabel": "Researching",
-  "estimate": "2037\u20132045",
+  "estimate": "2037–2045",
   "estimateYear": 2039,
   "sourceCount": 3,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Reconfigurability is attractive for prototyping and education, but reliability and contamination make production use unlikely.",
+  "investmentLens": "A research curiosity with no clear commercial exposure; treat as an indicator of interest in adaptive hardware, not an investable category."
 }

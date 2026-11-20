@@ -1,7 +1,7 @@
 {
   "id": "quantum-computing-sector",
   "title": "Quantum Computing Sector",
-  "summary": "Quantum Computing Sector",
+  "summary": "It builds on Quantum Technology Market; Proof of concept record tracked across 1 source.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-computing-sector.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2035,
-    "est_year_range": "2033\u20132040",
-    "horizon": "Long-Term (2030\u20132040)",
+    "est_year_range": "2033–2040",
+    "horizon": "Long-Term (2030–2040)",
     "source_count": 1,
     "stocks": [],
     "permalink": "/tech/quantumcomputingsector/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2033\u20132040",
+  "estimate": "2033–2040",
   "estimateYear": 2035,
   "sourceCount": 1,
   "companies": [],

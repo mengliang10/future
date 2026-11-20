@@ -1,7 +1,7 @@
 {
   "id": "mission-critical-power",
   "title": "Mission-Critical-Power",
-  "summary": "Mission-Critical-Power",
+  "summary": "It builds on Fuel-Cell-System-Integration; Proof of concept record tracked across 2 sources.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/mission-critical-power.md",

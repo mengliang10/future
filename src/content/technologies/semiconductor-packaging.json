@@ -1,7 +1,7 @@
 {
   "id": "semiconductor-packaging",
   "title": "Semiconductor-Packaging",
-  "summary": "Semiconductor-Packaging",
+  "summary": "Assembling and enclosing dies, including wire-bond, flip-chip, fan-out and 3D packages.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/semiconductor-packaging.md",
@@ -45,6 +45,6 @@
     "lintec.jp",
     "enplas.jp"
   ],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "Packaging choice affects thermal, electrical and cost performance; it should be designed alongside the chip, not after.",
+  "investmentLens": "Assembly and substrate suppliers see growing value as packaging becomes performance-critical."
 }

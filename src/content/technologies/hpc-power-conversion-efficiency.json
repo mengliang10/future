@@ -1,7 +1,7 @@
 {
   "id": "hpc-power-conversion-efficiency",
   "title": "Hpc-Power-Conversion-Efficiency",
-  "summary": "Hpc-Power-Conversion-Efficiency",
+  "summary": "It builds on Coupled-Inductor-Array; Proof of concept record tracked across 1 source.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/hpc-power-conversion-efficiency.md",

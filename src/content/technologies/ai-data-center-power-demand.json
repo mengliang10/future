@@ -1,7 +1,7 @@
 {
   "id": "ai-data-center-power-demand",
   "title": "Ai Data Center Power Demand",
-  "summary": "Ai Data Center Power Demand",
+  "summary": "It builds on Hyperscaler Ai Capex and is cited as an enabler for Bepc Development Activity; Proof of concept record tracked across 4 sources.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/ai-data-center-power-demand.md",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2033,
-    "est_year_range": "2031\u20132038",
-    "horizon": "Long-Term (2030\u20132040)",
+    "est_year_range": "2031–2038",
+    "horizon": "Long-Term (2030–2040)",
     "source_count": 4,
     "stocks": [],
     "permalink": "/tech/aidatacenterpowerdemand/"
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2031\u20132038",
+  "estimate": "2031–2038",
   "estimateYear": 2033,
   "sourceCount": 4,
   "companies": [

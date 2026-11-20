@@ -1,7 +1,7 @@
 {
   "id": "integrated-quantum-systems",
   "title": "Integrated-Quantum-Systems",
-  "summary": "Integrated-Quantum-Systems",
+  "summary": "It builds on Quantum-On-A-Chip; Proof of concept record tracked across 8 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/integrated-quantum-systems.md",

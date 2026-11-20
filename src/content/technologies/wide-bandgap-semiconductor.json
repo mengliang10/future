@@ -1,7 +1,7 @@
 {
   "id": "wide-bandgap-semiconductor",
   "title": "Wide Bandgap Semiconductor (GaN/SiC)",
-  "summary": "Semiconductors with bandgap >2 eV (GaN ~3.4 eV, SiC ~3.3 eV) enabling higher voltage, frequency, ...",
+  "summary": "Wide-bandgap materials such as GaN and SiC that tolerate higher voltage, temperature and frequency than silicon.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/wide-bandgap-semiconductor.md",
@@ -16,7 +16,7 @@
     "stage": "early_commercial",
     "confidence_label": "Researching",
     "est_year": 2018,
-    "est_year_range": "2010\u20132020",
+    "est_year_range": "2010–2020",
     "horizon": "Deployed",
     "source_count": 19,
     "stocks": [],
@@ -26,10 +26,10 @@
   "reviewedAt": null,
   "stage": "early_commercial",
   "confidenceLabel": "Researching",
-  "estimate": "2010\u20132020",
+  "estimate": "2010–2020",
   "estimateYear": 2018,
   "sourceCount": 19,
   "companies": [],
-  "businessMeaning": "",
-  "investmentLens": ""
+  "businessMeaning": "The business case is efficiency and thermal headroom in power electronics, not a replacement for logic silicon.",
+  "investmentLens": "Growth tracks EV, grid and data-centre power demand; substrate supply remains the key constraint."
 }

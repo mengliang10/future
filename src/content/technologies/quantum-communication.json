@@ -1,7 +1,7 @@
 {
   "id": "quantum-communication",
   "title": "Quantum-Communication",
-  "summary": "Quantum-Communication",
+  "summary": "It builds on Dual-Comb-Sampling, Quantum-Dot-Single-Photon; Proof of concept record tracked across 5 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-communication.md",
