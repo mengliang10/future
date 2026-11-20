@@ -1,7 +1,7 @@
 {
   "id": "synthetic-training-data-generation",
   "title": "Synthetic Training Data Generation",
-  "summary": "It is cited as an enabler for Inference-Time Compute Scaling (Test-Time RL), AI Formal Mathematical Reasoning (Lean/Coq Proof Systems); Basic research record tracked across 12 sources.",
+  "summary": "It is cited as an enabler for Inference-Time Compute Scaling (Test-Time RL), AI Formal Mathematical Reasoning (Lean/Coq Proof Systems); basic research record tracked across 12 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/synthetic-training-data-generation.md",
