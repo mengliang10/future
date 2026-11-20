@@ -1,0 +1,29 @@
+{
+  "id": "replicate.com",
+  "title": "Replicate",
+  "summary": "US model-hosting service that runs open-source image, video and language models behind one API.",
+  "sector": "llms-models",
+  "sourceCategory": "Generative AI",
+  "sourcePath": "_stocks/replicate.com.md",
+  "sourceHash": "17132eb36eb5f5d11278463fca9b1032d84bc3f070b5dffc5283bd01741026f1",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Replicate hosts community models and bills by usage, which made it a default way for developers to try open image and video generation without managing GPUs. The catalogue breadth is the differentiator, but hosting commodity weights is easy to undercut once a cloud offers the same endpoint. Its future depends on moving customers from experimentation to production workloads.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Hosted open-source model catalogue</li>\n<li>Usage-based inference API</li>\n<li>Fine-tuning and custom deployments</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Conversion from trials to production</li>\n<li>Commoditisation of model hosting</li>\n<li>Margin on bursty GPU demand</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nReplicate hosts community models and bills by usage, which made it a default way for developers to try open image and video generation without managing GPUs. The catalogue breadth is the differentiator, but hosting commodity weights is easy to undercut once a cloud offers the same endpoint. Its future depends on moving customers from experimentation to production workloads.\n\n## Technology Exposure\n\n- Hosted open-source model catalogue\n- Usage-based inference API\n- Fine-tuning and custom deployments\n\n## What To Watch\n\n- Conversion from trials to production\n- Commoditisation of model hosting\n- Margin on bursty GPU demand\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Replicate",
+    "symbol": "REPLICATE.COM",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Generative AI"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "REPLICATE.COM",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Trying a model should cost nothing but a request; whoever removes the setup step captures the developer's first production deployment.",
+  "investmentLens": "Private; a thin-margin hosting business whose value is the developer habit, not the weights."
+}

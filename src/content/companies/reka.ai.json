@@ -1,0 +1,29 @@
+{
+  "id": "reka.ai",
+  "title": "Reka AI",
+  "summary": "US multimodal model company selling video, audio and language models to enterprises and governments.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/reka.ai.md",
+  "sourceHash": "bd9dbc66b137330daffcd038d72bee69c5d1efa114a4fa8595183080870066b0",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Reka builds natively multimodal models that accept video, audio, images and text, and sells them to organisations that need to reason over media rather than documents. Its founders came from DeepMind and its positioning is applied: content moderation, media analysis and sovereign deployments. It competes with far larger labs on a narrow capability frontier.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Multimodal foundation models</li>\n<li>Video and audio understanding APIs</li>\n<li>On-premise and sovereign deployments</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Differentiation against larger multimodal labs</li>\n<li>Enterprise and government contract wins</li>\n<li>Funding runway</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nReka builds natively multimodal models that accept video, audio, images and text, and sells them to organisations that need to reason over media rather than documents. Its founders came from DeepMind and its positioning is applied: content moderation, media analysis and sovereign deployments. It competes with far larger labs on a narrow capability frontier.\n\n## Technology Exposure\n\n- Multimodal foundation models\n- Video and audio understanding APIs\n- On-premise and sovereign deployments\n\n## What To Watch\n\n- Differentiation against larger multimodal labs\n- Enterprise and government contract wins\n- Funding runway\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Reka AI",
+    "symbol": "REKA.AI",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "REKA.AI",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Most enterprise media is video and audio; a model that reads it directly avoids a pipeline of brittle transcriptions.",
+  "investmentLens": "Private; a capability niche rather than a scale play."
+}

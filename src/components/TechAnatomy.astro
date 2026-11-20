@@ -1,0 +1,174 @@
+---
+/** Relationship map for a technology record: prerequisites -> technology -> what it enables. */
+const {record, prereqs = [], enables = [], companies = [], accent = '#5365d9'} = Astro.props;
+
+const wrap = (text = '', max = 26, limit = 3) => {
+  const words = String(text).split(/\s+/).filter(Boolean);
+  const lines: string[] = [];
+  let line = '';
+  for (const word of words) {
+    if ((line + ' ' + word).trim().length > max) {
+      if (line) lines.push(line.trim());
+      line = word;
+    } else {
+      line = (line + ' ' + word).trim();
+    }
+    if (lines.length === limit) break;
+  }
+  if (line && lines.length < limit) lines.push(line.trim());
+  if (lines.length === limit) lines[limit - 1] = lines[limit - 1].slice(0, max - 1).trimEnd() + '…';
+  return lines;
+};
+
+const stageIndex = (stage: string) => {
+  const s = String(stage || '');
+  if (['basic_research', 'proof_of_concept'].includes(s)) return 0;
+  if (['prototype', 'prototyping'].includes(s)) return 1;
+  if (['pilot'].includes(s)) return 2;
+  if (['early_commercial', 'early_adoption'].includes(s)) return 3;
+  return 4;
+};
+
+const stageLabels = ['Research', 'Prototype', 'Pilot', 'Commercial', 'Scale'];
+const activeStage = stageIndex(record.stage);
+
+const year = Number(record.estimateYear);
+const timelineStart = 2025;
+const timelineEnd = 2045;
+const tx = (y: number) => 430 + ((y - timelineStart) / (timelineEnd - timelineStart)) * 340;
+const hasYear = Number.isFinite(year) && year > 0;
+const clamped = hasYear ? Math.min(timelineEnd, Math.max(timelineStart, year)) : null;
+
+const left = (prereqs || []).slice(0, 3);
+const right = (enables || []).slice(0, 3);
+const linked = (companies || []).slice(0, 3);
+const confidence = record.confidenceLabel || 'Not classified';
+---
+
+<figure class="tech-anatomy" style={`--accent:${accent}`}>
+  <svg viewBox="0 0 1200 440" role="img" aria-label={`Relationship map for ${record.title}: what it depends on, what it enables, and where it sits on the development path`}>
+    <defs>
+      <marker id="anatomy-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 0 L 10 5 L 0 10 z" fill="#9aa3b5"/>
+      </marker>
+      <linearGradient id="anatomy-core" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="var(--accent)" stop-opacity=".14"/>
+        <stop offset="100%" stop-color="var(--accent)" stop-opacity=".04"/>
+      </linearGradient>
+    </defs>
+
+    <text x="40" y="26" class="an-cap">Depends on</text>
+    <text x="430" y="26" class="an-cap">This record</text>
+    <text x="850" y="26" class="an-cap">Enables</text>
+
+    {left.length === 0 && <text x="40" y="96" class="an-empty">No prerequisites recorded</text>}
+    {left.map((item: any, i: number) => {
+      const y = 56 + i * 74;
+      return (
+        <g>
+          <rect x="40" y={y} width="300" height="58" rx="8" class="an-node"/>
+          {wrap(item.title, 30, 2).map((line, j) => (
+            <text x="58" y={y + 24 + j * 17} class="an-node-text">{line}</text>
+          ))}
+          <path d={`M 340 ${y + 29} C 380 ${y + 29}, 390 149, 430 149`} class="an-link" marker-end="url(#anatomy-arrow)"/>
+        </g>
+      );
+    })}
+
+    <rect x="430" y="54" width="340" height="196" rx="12" fill="url(#anatomy-core)" stroke="var(--accent)" stroke-opacity=".45"/>
+    {wrap(record.title, 30, 2).map((line, j) => (
+      <text x="456" y={88 + j * 24} class="an-title">{line}</text>
+    ))}
+    <line x1="456" y1="140" x2="744" y2="140" stroke="var(--accent)" stroke-opacity=".25"/>
+
+    <text x="456" y="164" class="an-label">Development stage</text>
+    <g>
+      {stageLabels.map((label, i) => (
+        <g>
+          <circle cx={470 + i * 62} cy="184" r="7" class={i === activeStage ? 'an-dot-on' : 'an-dot'} />
+          {i < stageLabels.length - 1 && <line x1={477 + i * 62} y1="184" x2={525 + i * 62} y2="184" stroke="#c9cfdb"/>}
+          <text x={470 + i * 62} y="206" text-anchor="middle" class={i === activeStage ? 'an-step-on' : 'an-step'}>{label}</text>
+        </g>
+      ))}
+    </g>
+
+    <text x="456" y="232" class="an-label">Confidence label</text>
+    <rect x="556" y="217" width="150" height="22" rx="11" class="an-pill"/>
+    <text x="631" y="232" text-anchor="middle" class="an-pill-text">{wrap(confidence, 20, 1)[0]}</text>
+
+    {right.length === 0 && <text x="850" y="96" class="an-empty">No downstream links recorded</text>}
+    {right.map((item: any, i: number) => {
+      const y = 56 + i * 74;
+      return (
+        <g>
+          <rect x="850" y={y} width="300" height="58" rx="8" class="an-node"/>
+          {wrap(item.title, 30, 2).map((line, j) => (
+            <text x="868" y={y + 24 + j * 17} class="an-node-text">{line}</text>
+          ))}
+          <path d={`M 770 149 C 810 149, 820 ${y + 29}, 850 ${y + 29}`} class="an-link" marker-end="url(#anatomy-arrow)"/>
+        </g>
+      );
+    })}
+
+    <text x="40" y="300" class="an-cap">Estimated deployment window</text>
+    <line x1="430" y1="330" x2="770" y2="330" class="an-rail"/>
+    {[2025, 2030, 2035, 2040, 2045].map((tick) => (
+      <g>
+        <line x1={tx(tick)} y1="325" x2={tx(tick)} y2="335" class="an-rail"/>
+        <text x={tx(tick)} y="352" text-anchor="middle" class="an-axis">{tick}</text>
+      </g>
+    ))}
+    {hasYear && (
+      <g>
+        <line x1={tx(clamped)} y1="300" x2={tx(clamped)} y2="330" class="an-marker-line"/>
+        <circle cx={tx(clamped)} cy="330" r="6" fill="var(--accent)"/>
+        <text x={tx(clamped)} y="290" text-anchor="middle" class="an-marker">{record.estimate}</text>
+      </g>
+    )}
+    {!hasYear && <text x="598" y="300" text-anchor="middle" class="an-empty">No numeric year in the source record</text>}
+
+    <text x="40" y="404" class="an-cap">Linked companies</text>
+    {linked.length === 0 ? (
+      <text x="210" y="404" class="an-empty">None linked yet</text>
+    ) : (
+      <g>
+        {linked.map((company: any, i: number) => (
+          <g>
+            <rect x={210 + i * 250} y="386" width="236" height="28" rx="14" class="an-pill-wide"/>
+            <text x={328 + i * 250} y="404" text-anchor="middle" class="an-company">{wrap(company.title, 26, 1)[0]}</text>
+          </g>
+        ))}
+      </g>
+    )}
+  </svg>
+  <figcaption>Relationships are taken from the imported research notes. Arrows are dependency links, not proof of causality.</figcaption>
+</figure>
+
+<style>
+  .tech-anatomy { margin: 0 0 26px; }
+  .tech-anatomy svg { width: 100%; height: auto; }
+  .an-cap { font-size: 11px; letter-spacing: .12em; text-transform: uppercase; fill: var(--muted, #767b84); font-weight: 700; }
+  .an-node { fill: var(--white, #fff); stroke: #d8dde8; }
+  .an-node-text { font-size: 14px; fill: var(--ink, #191c23); }
+  .an-link { fill: none; stroke: #9aa3b5; stroke-width: 1.4; }
+  .an-title { font-size: 20px; font-weight: 700; fill: var(--ink, #191c23); }
+  .an-label { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; fill: var(--muted, #767b84); }
+  .an-dot { fill: #d8dde8; }
+  .an-dot-on { fill: var(--accent); }
+  .an-step { font-size: 10px; fill: var(--muted, #767b84); }
+  .an-step-on { font-size: 10px; font-weight: 700; fill: var(--accent); }
+  .an-pill { fill: color-mix(in srgb, var(--accent) 12%, var(--white, #fff)); stroke: color-mix(in srgb, var(--accent) 35%, transparent); }
+  .an-pill-text { font-size: 11px; fill: var(--accent); }
+  .an-pill-wide { fill: var(--soft, #f7f8fa); stroke: #dde2ec; }
+  .an-company { font-size: 12px; fill: var(--ink, #191c23); }
+  .an-rail { stroke: #c9cfdb; }
+  .an-axis { font-size: 11px; fill: var(--muted, #767b84); }
+  .an-marker-line { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 4; }
+  .an-marker { font-size: 12px; font-weight: 700; fill: var(--accent); }
+  .an-empty { font-size: 13px; fill: var(--muted, #767b84); }
+  figcaption { font-size: 12px; color: var(--muted, #767b84); margin-top: 6px; }
+  @media (max-width: 760px) {
+    .tech-anatomy { overflow-x: auto; }
+    .tech-anatomy svg { min-width: 700px; }
+  }
+</style>

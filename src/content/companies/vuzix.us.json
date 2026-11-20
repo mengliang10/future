@@ -1,0 +1,29 @@
+{
+  "id": "vuzix.us",
+  "title": "Vuzix",
+  "summary": "US maker of enterprise smart glasses and waveguide optics.",
+  "sector": "spatial-computing",
+  "sourceCategory": "XR",
+  "sourcePath": "_stocks/vuzix.us.md",
+  "sourceHash": "8b64f0571d35790e06b821a111bbd0b984fc891f3ffc251ecd72aefef9462e8d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Vuzix sells rugged smart glasses to warehouse, field-service and medical customers, and supplies waveguides and display engines to other manufacturers. Its M400 and M4000 lines are used for hands-free picking, remote assistance and telemedicine, where the value is workflow and durability rather than consumer design. The company has repeatedly promised a consumer product and repeatedly found that enterprise buyers and defence budgets pay first. Cash burn and dilution are the recurring constraint.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Enterprise smart glasses and support contracts</li>\n<li>Waveguide and display-engine supply</li>\n<li>Defence and public-sector wearables</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Enterprise order flow outside pilot programmes</li>\n<li>Cash runway and dilution</li>\n<li>Competition from phone-tethered consumer glasses</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nVuzix sells rugged smart glasses to warehouse, field-service and medical customers, and supplies waveguides and display engines to other manufacturers. Its M400 and M4000 lines are used for hands-free picking, remote assistance and telemedicine, where the value is workflow and durability rather than consumer design. The company has repeatedly promised a consumer product and repeatedly found that enterprise buyers and defence budgets pay first. Cash burn and dilution are the recurring constraint.\n\n## Technology Exposure\n\n- Enterprise smart glasses and support contracts\n- Waveguide and display-engine supply\n- Defence and public-sector wearables\n\n## What To Watch\n\n- Enterprise order flow outside pilot programmes\n- Cash runway and dilution\n- Competition from phone-tethered consumer glasses\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Vuzix",
+    "symbol": "VUZI",
+    "exchange": "NASDAQ",
+    "categories": [
+      "XR"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "VUZI",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "The enterprise buyer pays for hands-free access to a system of record; the hardware is the vehicle, not the product.",
+  "investmentLens": "Micro-cap with binary execution risk; watch unit volumes and gross margin, not product announcements."
+}

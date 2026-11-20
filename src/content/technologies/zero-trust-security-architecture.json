@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Zero Trust Security Architecture",
-    "subtitle": "Never trust, always verify \u2014 identity-based access replacing perimeter models",
+    "subtitle": "Never trust, always verify \u2014 identitybased access replacing perimeter models",
     "category": "Cybersecurity",
     "stage": "early_commercial",
     "confidence_label": "Speculative",
@@ -23,7 +23,7 @@
       "NET",
       "PANW"
     ],
-    "permalink": "/tech/zero-trust-security-architecture/"
+    "permalink": "/tech/zerotrustsecurityarchitecture/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

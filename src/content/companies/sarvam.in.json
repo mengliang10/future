@@ -1,0 +1,29 @@
+{
+  "id": "sarvam.in",
+  "title": "Sarvam AI",
+  "summary": "Indian lab building language and voice models for Indian languages and public services.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/sarvam.in.md",
+  "sourceHash": "d2bb1f2c796b67e36cbc3e57fe1946f9ecfc0dc5d8463de9d2c043c3ce88f88f",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Sarvam trains models for India's language diversity, where English-centric assistants fail on script, code-switching and dialect, and pairs them with voice interfaces for low-literacy users. Government-backed programmes and Indian enterprise deployments are the initial market. The bet is that localisation is a moat that global labs under-serve.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Indic language models</li>\n<li>Speech recognition and synthesis</li>\n<li>Public-service and enterprise deployments</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Government contract conversion</li>\n<li>Funding against compute costs</li>\n<li>Coverage and quality across many languages</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSarvam trains models for India's language diversity, where English-centric assistants fail on script, code-switching and dialect, and pairs them with voice interfaces for low-literacy users. Government-backed programmes and Indian enterprise deployments are the initial market. The bet is that localisation is a moat that global labs under-serve.\n\n## Technology Exposure\n\n- Indic language models\n- Speech recognition and synthesis\n- Public-service and enterprise deployments\n\n## What To Watch\n\n- Government contract conversion\n- Funding against compute costs\n- Coverage and quality across many languages\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Sarvam AI",
+    "symbol": "SARVAM.IN",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SARVAM.IN",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Serving twenty languages well is a different product from serving English and hoping translation covers the rest.",
+  "investmentLens": "Private; the thesis depends on Indian public digital infrastructure spending."
+}

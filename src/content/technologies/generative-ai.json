@@ -32,7 +32,7 @@
     ],
     "lead_stock": "MSFT",
     "lead_stock_confidence": 95,
-    "permalink": "/tech/generative-ai/"
+    "permalink": "/tech/generativeai/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -46,7 +46,16 @@
     "googl",
     "nvda",
     "amzn",
-    "meta"
+    "meta",
+    "bytedance.pvt",
+    "mistral.fr",
+    "zhipu.hk",
+    "ai21.il",
+    "aleph-alpha.de",
+    "tii.ae",
+    "kakao.kr",
+    "sarvam.in",
+    "reka.ai"
   ],
   "businessMeaning": "",
   "investmentLens": ""

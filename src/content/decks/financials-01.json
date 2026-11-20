@@ -1,6 +1,6 @@
 {
   "id": "financials-01",
-  "title": "Financials \u2014 Official Sector Briefing",
+  "title": "Financials — How future technology reshapes the sector",
   "sector": "blockchain",
   "mode": "evergreen",
   "added": "2026-11-18",
@@ -21,5 +21,526 @@
     "tokenized-bank-deposits",
     "tokenized-real-world-assets",
     "defi-ecosystem"
+  ],
+  "slides": [
+    {
+      "kind": "statement",
+      "eyebrow": "01 · The thesis",
+      "title": "The technology is not the story. The cost line is.",
+      "body": "Banks, insurers and asset managers are information processors with a licence. AI attacks the cost of processing and the value of intermediation at the same time. The near-term prize is a lower cost/income ratio; the strategic risk is that payments, advice and underwriting get embedded in someone else's agent interface."
+    },
+    {
+      "kind": "points",
+      "eyebrow": "02 · Sector economics",
+      "title": "What this sector actually sells",
+      "body": "Revenue comes from spread, fees and float; cost comes from people, legacy systems and regulation. Small changes in either line move returns on equity enormously.",
+      "bullets": [
+        "Net interest income is a spread business: deposit beta and loan pricing matter more than volume.",
+        "Fee pools — payments, advisory, asset management, insurance underwriting — carry higher multiples than spread income.",
+        "Cost/income ratios of 50–65% leave large absolute cost bases exposed to automation.",
+        "Capital and liquidity rules cap leverage, so efficiency and fee mix drive returns.",
+        "Trust, distribution and licences are the moat; neither is easily automated."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "03 · Impact map",
+      "title": "Where the impact lands",
+      "body": "Two axes matter: how soon the effect reaches reported numbers, and whether it lands on revenue or on cost and capital.",
+      "diagram": {
+        "kind": "impact",
+        "quadrants": [
+          {
+            "label": "New revenue, contested",
+            "items": [
+              "Embedded finance inside agent interfaces",
+              "Tokenised funds and private credit wrappers",
+              "Usage-priced risk and compliance APIs"
+            ]
+          },
+          {
+            "label": "New revenue, durable",
+            "items": [
+              "Proprietary data sold as underwriting signals",
+              "Wealth advice for mass-affluent segments",
+              "Cross-border payment rails with FX spread"
+            ]
+          },
+          {
+            "label": "Cost takeout, fast",
+            "items": [
+              "Contact-centre deflection and agent assist",
+              "KYC, reconciliation and reporting automation",
+              "Claims triage and document extraction"
+            ]
+          },
+          {
+            "label": "Structural cost shift",
+            "items": [
+              "Legacy core replacement becomes urgent",
+              "Model risk and audit costs rise",
+              "Fraud and deepfake defence spending"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "04 · Exposure",
+      "title": "How much of the sector is actually exposed",
+      "diagram": {
+        "kind": "bars",
+        "caption": "Directional share of each pool exposed to automation or disintermediation",
+        "bars": [
+          {
+            "label": "Back-office processing cost",
+            "pct": 55
+          },
+          {
+            "label": "Retail payments fee pool",
+            "pct": 40
+          },
+          {
+            "label": "Underwriting and claims handling",
+            "pct": 50
+          },
+          {
+            "label": "Advisory and asset-management fees",
+            "pct": 30
+          },
+          {
+            "label": "Compliance and reporting cost",
+            "pct": 45
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "05 · Supply chain",
+      "title": "The future products in the chain",
+      "body": "Each stage is a product family that has to exist for the next one to work. This is where the spend lands.",
+      "diagram": {
+        "kind": "chain",
+        "caption": "Deposits and data → risk engines → products → rails → client interface",
+        "stages": [
+          {
+            "label": "Deposits & data",
+            "products": [
+              "Core ledger",
+              "Transaction data",
+              "KYC profiles",
+              "Collateral records"
+            ]
+          },
+          {
+            "label": "Risk & pricing",
+            "products": [
+              "Credit models",
+              "Fraud scoring",
+              "Actuarial engines",
+              "Market risk"
+            ]
+          },
+          {
+            "label": "Products",
+            "products": [
+              "Cards and loans",
+              "Deposits and funds",
+              "Insurance policies",
+              "Tokenised assets"
+            ]
+          },
+          {
+            "label": "Rails",
+            "products": [
+              "Card networks",
+              "ACH and RTP",
+              "Stablecoin settlement",
+              "Tokenised deposits"
+            ]
+          },
+          {
+            "label": "Interface",
+            "products": [
+              "Mobile app",
+              "Advisor desktop",
+              "Embedded partner",
+              "AI assistant"
+            ]
+          }
+        ],
+        "note": "The interface is where margin migrates. If an assistant owns the customer, the bank becomes a licensed balance-sheet utility behind it."
+      }
+    },
+    {
+      "kind": "columns",
+      "eyebrow": "06 · Technology clusters",
+      "title": "Three shifts to underwrite",
+      "columns": [
+        {
+          "title": "Agentic distribution",
+          "body": "Customers delegate shopping and admin to assistants, so products must be discoverable and transactable by machine.",
+          "items": [
+            "Agentic checkout and mandates",
+            "API product catalogues",
+            "Real-time pricing",
+            "Identity and consent"
+          ]
+        },
+        {
+          "title": "Tokenised rails",
+          "body": "Stablecoins and tokenised deposits compress settlement from days to seconds and create new deposit substitutes.",
+          "items": [
+            "Stablecoin regulation",
+            "Tokenised bank deposits",
+            "Tokenised money-market funds",
+            "24/7 settlement"
+          ]
+        },
+        {
+          "title": "Risk automation",
+          "body": "Underwriting and fraud move from annual review to continuous scoring, with model governance as the constraint.",
+          "items": [
+            "Alternative-data credit",
+            "Deepfake and fraud detection",
+            "Claims automation",
+            "Model risk management"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "07 · The stack",
+      "title": "The stack underneath the sector",
+      "diagram": {
+        "kind": "stack",
+        "layers": [
+          {
+            "label": "Core",
+            "note": "Ledgers and capital",
+            "items": [
+              "Core banking",
+              "Policy admin",
+              "Fund accounting",
+              "Capital reporting"
+            ]
+          },
+          {
+            "label": "Data",
+            "note": "Records and signals",
+            "items": [
+              "Transaction data",
+              "Market data",
+              "Alt-data",
+              "Audit trails"
+            ]
+          },
+          {
+            "label": "Models",
+            "note": "Decisioning",
+            "items": [
+              "Credit models",
+              "Fraud models",
+              "Actuarial models",
+              "Advisory agents"
+            ]
+          },
+          {
+            "label": "Interface",
+            "note": "Where clients act",
+            "items": [
+              "Mobile app",
+              "Advisor tools",
+              "Embedded APIs",
+              "Agent endpoints"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "08 · Timing",
+      "title": "When it reaches the numbers",
+      "diagram": {
+        "kind": "timeline",
+        "milestones": [
+          {
+            "year": 2026,
+            "label": "Stablecoin rules bite",
+            "detail": "Licensed issuance and reserve rules",
+            "lane": 0
+          },
+          {
+            "year": 2027,
+            "label": "Tokenised deposits pilot",
+            "detail": "Bank-issued settlement tokens",
+            "lane": 0
+          },
+          {
+            "year": 2028,
+            "label": "Agentic checkout scales",
+            "detail": "Machine-initiated payments with mandates",
+            "lane": 1
+          },
+          {
+            "year": 2029,
+            "label": "Tokenised funds mainstream",
+            "detail": "Same-day settlement for funds",
+            "lane": 1
+          },
+          {
+            "year": 2031,
+            "label": "Continuous underwriting",
+            "detail": "Real-time risk pricing in embedded channels",
+            "lane": 2
+          },
+          {
+            "year": 2033,
+            "label": "Post-quantum migration",
+            "detail": "Cryptography replacement reaches core systems",
+            "lane": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "table",
+      "eyebrow": "09 · Line by line",
+      "title": "Where the money actually moves",
+      "table": {
+        "head": [
+          "P&L line",
+          "Mechanism",
+          "Timing",
+          "Proof point"
+        ],
+        "rows": [
+          [
+            "Operating cost",
+            "Back-office and contact-centre automation",
+            "Now → 2028",
+            "Cost/income trajectory ex-restructuring"
+          ],
+          [
+            "Payment fees",
+            "Stablecoins and agentic rails bypass card economics",
+            "2026 → 2030",
+            "Fee yield per transaction"
+          ],
+          [
+            "Deposit funding",
+            "Tokenised funds compete for idle cash",
+            "2027 → 2030",
+            "Deposit beta and mix"
+          ],
+          [
+            "Credit losses",
+            "Faster data but correlated model behaviour",
+            "Continuous",
+            "Vintage loss curves vs models"
+          ],
+          [
+            "Compliance cost",
+            "More models to validate, more fraud to police",
+            "Now → 2030",
+            "Risk spend as share of revenue"
+          ]
+        ]
+      }
+    },
+    {
+      "kind": "points",
+      "eyebrow": "10 · Winners",
+      "title": "Who gains",
+      "bullets": [
+        "Scaled banks with clean data and the capital to rebuild cores — efficiency gains compound into ROE.",
+        "Networks, exchanges and custodians that own rails and can tokenise settlement.",
+        "Insurers with proprietary claims data that improves pricing faster than peers.",
+        "Asset managers distributing through platforms and agents rather than branches.",
+        "Specialist risk and compliance vendors selling into every institution."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "11 · Exposure",
+      "title": "Who is exposed",
+      "bullets": [
+        "Branch-heavy retail banks with thin fee income and slow core replacement.",
+        "Monoline card issuers and processors if agentic rails reduce interchange.",
+        "Commission-based advisors whose value is product access rather than advice.",
+        "Small insurers with homogeneous underwriting and no data advantage.",
+        "Crypto-native intermediaries that lose the compliance arbitrage."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "12 · Signposts",
+      "title": "What to watch next",
+      "body": "Signposts are chosen so that each one can falsify part of the thesis within four quarters.",
+      "bullets": [
+        "<strong>Deposit beta</strong> as tokenised cash substitutes become usable for payments.",
+        "<strong>Interchange economics</strong> in agent-initiated transactions.",
+        "<strong>Cost/income</strong> net of restructuring and vendor spend.",
+        "<strong>Model inventory</strong> disclosed to regulators — a proxy for real deployment.",
+        "<strong>Quantum migration timelines</strong> for core cryptography."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "13 · The ecosystem",
+      "title": "Who has to deliver for this to work",
+      "diagram": {
+        "kind": "actors",
+        "caption": "Data and core systems → rails → underwriting → risk transfer → digital assets",
+        "groups": [
+          {
+            "label": "Data & core systems",
+            "role": "Reference data, core banking",
+            "names": [
+              "Bloomberg",
+              "S&P Global",
+              "MSCI",
+              "FIS",
+              "Fiserv",
+              "Temenos"
+            ]
+          },
+          {
+            "label": "Payments & rails",
+            "role": "Settlement, cards, stablecoins",
+            "names": [
+              "Visa",
+              "Mastercard",
+              "Stripe",
+              "Adyen",
+              "Block",
+              "Circle"
+            ]
+          },
+          {
+            "label": "Lending & underwriting",
+            "role": "Credit models and distribution",
+            "names": [
+              "JPMorgan",
+              "HSBC",
+              "Experian",
+              "Upstart",
+              "Nubank"
+            ]
+          },
+          {
+            "label": "Insurance & risk",
+            "role": "Underwriting, claims, cat models",
+            "names": [
+              "Munich Re",
+              "Swiss Re",
+              "Verisk",
+              "Guidewire"
+            ]
+          },
+          {
+            "label": "Digital assets",
+            "role": "Custody, exchanges, tokenisation",
+            "names": [
+              "Coinbase",
+              "BlackRock",
+              "Nasdaq",
+              "DTCC",
+              "Fireblocks"
+            ]
+          }
+        ],
+        "note": "AI changes the cost of analysis faster than the cost of trust, so regulated distribution stays valuable."
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "14 · Where the thesis breaks",
+      "title": "Where the thesis could break",
+      "diagram": {
+        "kind": "risk",
+        "caption": "Evidence strength versus P&L impact",
+        "items": [
+          {
+            "label": "Agentic fraud outpaces controls",
+            "evidence": 65,
+            "impact": 80,
+            "note": "Identity and transaction monitoring"
+          },
+          {
+            "label": "Cost per interaction collapses",
+            "evidence": 70,
+            "impact": 60,
+            "note": "Service and back-office margins"
+          },
+          {
+            "label": "Tokenised settlement is approved",
+            "evidence": 30,
+            "impact": 75,
+            "note": "Depends on regulators, not technology"
+          },
+          {
+            "label": "Core replacement cycles accelerate",
+            "evidence": 35,
+            "impact": 70,
+            "note": "Legacy vendors lose pricing power"
+          },
+          {
+            "label": "Credit models fail a new cycle",
+            "evidence": 50,
+            "impact": 85,
+            "note": "Underwriting discipline matters more than model choice"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "15 · The value pool",
+      "title": "From gross spend to defensible profit",
+      "diagram": {
+        "kind": "funnel",
+        "caption": "Where the money narrows",
+        "stages": [
+          {
+            "label": "Financial services revenue",
+            "pct": 100,
+            "note": "Fees, spread and premiums"
+          },
+          {
+            "label": "Transaction and advisory fees",
+            "pct": 45,
+            "note": "Volume-linked"
+          },
+          {
+            "label": "Data, analytics and software",
+            "pct": 22,
+            "note": "Recurring"
+          },
+          {
+            "label": "Licence and subscription",
+            "pct": 14,
+            "note": "Seat or usage"
+          },
+          {
+            "label": "Net margin after compliance",
+            "pct": 8,
+            "note": "Regulated cost base"
+          }
+        ],
+        "note": "Automation compresses processing revenue but raises the value of proprietary data and regulated licences."
+      }
+    },
+    {
+      "kind": "research",
+      "eyebrow": "16 · Evidence",
+      "title": "Read the research behind this deck",
+      "body": "The linked records cover payments, tokenisation, regulation and AI decisioning. Read them before extrapolating any single cost or fee number in this deck.",
+      "footnote": "Scenario synthesis compiled 19 November 2026. Directional shares and timelines are analytical judgements, not measured statistics or forecasts. Each technology record carries its own confidence label and source path."
+    }
   ]
 }

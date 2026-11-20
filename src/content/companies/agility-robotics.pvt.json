@@ -1,0 +1,27 @@
+{
+  "id": "agility-robotics.pvt",
+  "title": "Agility Robotics",
+  "summary": "Oregon builder of the Digit bipedal robot, aimed at repetitive warehouse and logistics work.",
+  "sector": "robotics",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/agility-robotics.pvt.md",
+  "sourceHash": "9769ea10155d5343b7a278f203779bcab8b7b58c0ce38e8e7d8ce180816b2bb3",
+  "bodyHtml": "<p>Agility Robotics was founded in 2015 as a spin-out of Oregon State University research. Its Digit robot is a roughly human-sized biped designed to move totes and cases through warehouse layouts that were built for people rather than machines.</p>\n<p>The company operates a manufacturing facility in Salem, Oregon and has run warehouse pilots with logistics operators including GXO and Amazon. Digit is sold as a service with fleet-management software rather than as a one-off machine.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Bipedal form factor fits existing aisles, stairs and conveyor heights</li></ul>\n<ul><li>Digit handles tote and case movement between fixed automation cells</li></ul>\n<ul><li>Commercial model bundles robot, software and support</li></ul>",
+  "bodyMarkdown": "Agility Robotics was founded in 2015 as a spin-out of Oregon State University research. Its Digit robot is a roughly human-sized biped designed to move totes and cases through warehouse layouts that were built for people rather than machines.\n\nThe company operates a manufacturing facility in Salem, Oregon and has run warehouse pilots with logistics operators including GXO and Amazon. Digit is sold as a service with fleet-management software rather than as a one-off machine.\n\n**Why it matters**\n\n- Bipedal form factor fits existing aisles, stairs and conveyor heights\n\n- Digit handles tote and case movement between fixed automation cells\n\n- Commercial model bundles robot, software and support",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "AGILITY.PVT",
+    "name": "Agility Robotics",
+    "sector": "Robotics"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "AGILITY.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Where a warehouse already automates pallet movement, a biped competes for the remaining manual hand-offs between conveyor, cell and pack station. The test is throughput per hour against a temp worker, not a demo.",
+  "investmentLens": "Private, so the investment read comes through component suppliers, contract manufacturers and the logistics customers that would book the productivity gain."
+}

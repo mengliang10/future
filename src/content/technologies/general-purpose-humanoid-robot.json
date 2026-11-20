@@ -6,8 +6,8 @@
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/general-purpose-humanoid-robot.md",
   "sourceHash": "fb775671ae054c0a63d5bbf644296e93692d0dc4ed0b034d9c0b090f8e7724d4",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Humanoid operating across diverse real-world environments without reprogramming.</p>\n<p>Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks <strong>89 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Deterministic Event-Graph Substrates as World Models for Counterfactua | rel=0.56 | uid:02c930b024a68a23</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Proof of Concept</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.16</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2030\u20132042</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Medium-Term (2031\u20132035)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>89</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/humanoid-robot-factory/\">Humanoid Robot (Factory Deployment)</a></li>\n<li><a href=\"/tech/robotics-foundation-model/\">Robotics Foundation Model</a></li>\n</ul>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/robot-post-scarcity/\">Post-Scarcity Robotic Manufacturing</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nHumanoid operating across diverse real-world environments without reprogramming.\n\nLaboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **89 independent sources** on this technology.\n\n> RSS:Deterministic Event-Graph Substrates as World Models for Counterfactua | rel=0.56 | uid:02c930b024a68a23\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Proof of Concept** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.16** |\n| Estimated Deployment | **2030\u20132042** |\n| Horizon | Medium-Term (2031\u20132035) |\n| Independent Sources Tracked | 89 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory/)\n- [Robotics Foundation Model](/future/tech/robotics-foundation-model/)\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [Post-Scarcity Robotic Manufacturing](/future/tech/robot-post-scarcity/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Humanoid operating across diverse real-world environments without reprogramming.</p>\n<p>Laboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks <strong>89 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Deterministic Event-Graph Substrates as World Models for Counterfactua | rel=0.56 | uid:02c930b024a68a23</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Proof of Concept</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.16</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2030–2042</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Medium-Term (2031–2035)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>89</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/humanoid-robot-factory/\">Humanoid Robot (Factory Deployment)</a></li>\n<li><a href=\"/tech/robotics-foundation-model/\">Robotics Foundation Model</a></li>\n</ul>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/robot-post-scarcity/\">Post-Scarcity Robotic Manufacturing</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nHumanoid operating across diverse real-world environments without reprogramming.\n\nLaboratory or proof-of-concept demonstrations successful. Commercial path is not yet clear. Our research database tracks **89 independent sources** on this technology.\n\n> RSS:Deterministic Event-Graph Substrates as World Models for Counterfactua | rel=0.56 | uid:02c930b024a68a23\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Proof of Concept** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.16** |\n| Estimated Deployment | **2030–2042** |\n| Horizon | Medium-Term (2031–2035) |\n| Independent Sources Tracked | 89 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Humanoid Robot (Factory Deployment)](/future/tech/humanoid-robot-factory/)\n- [Robotics Foundation Model](/future/tech/robotics-foundation-model/)\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [Post-Scarcity Robotic Manufacturing](/future/tech/robot-post-scarcity/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "General-Purpose Humanoid Robot",
@@ -16,8 +16,8 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2035,
-    "est_year_range": "2030\u20132042",
-    "horizon": "Medium-Term (2031\u20132035)",
+    "est_year_range": "2030–2042",
+    "horizon": "Medium-Term (2031–2035)",
     "source_count": 89,
     "stocks": [],
     "permalink": "/tech/general-purpose-humanoid-robot/"
@@ -26,10 +26,15 @@
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2030\u20132042",
+  "estimate": "2030–2042",
   "estimateYear": 2035,
   "sourceCount": 89,
-  "companies": [],
+  "companies": [
+    "physical-intelligence.pvt",
+    "skild-ai.pvt",
+    "apptronik.pvt",
+    "fourier-intelligence.cn"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

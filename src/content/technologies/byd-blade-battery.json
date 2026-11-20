@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "BYD Blade battery",
-    "subtitle": "Long LFP cells arranged as structural pack elements, popularising safer iron-based chemistry.",
+    "subtitle": "Long LFP cells arranged as structural pack elements, popularising safer ironbased chemistry.",
     "category": "Energy Tech",
     "stage": "mass_production",
     "confidence_label": "Confirmed",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (through 2028)",
     "source_count": 0,
     "stocks": [],
-    "permalink": "/tech/byd-blade-battery/"
+    "permalink": "/tech/bydbladebattery/"
   },
   "evidenceStatus": "editorial-brief",
   "reviewedAt": "2026-11-18",

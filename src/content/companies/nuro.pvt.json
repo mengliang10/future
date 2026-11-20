@@ -1,0 +1,27 @@
+{
+  "id": "nuro.pvt",
+  "title": "Nuro",
+  "summary": "Mountain View developer of small autonomous delivery vehicles and the autonomy stack behind them.",
+  "sector": "autonomous",
+  "sectors": [
+    "robotics"
+  ],
+  "sourceCategory": "Autonomous & AV",
+  "sourcePath": "_stocks/nuro.pvt.md",
+  "sourceHash": "59653a95953efcf333c196753d9ccbaa57c4e2aa17d309a55c9330b23c030836",
+  "bodyHtml": "<p>Nuro builds low-speed autonomous delivery vehicles and licenses its autonomy software. Its R3 vehicle is designed around cargo rather than passengers.</p>\n<p>The company has run delivery pilots with grocery and restaurant partners and has shifted toward licensing its driving stack to other vehicle makers.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Purpose-built delivery vehicle</li></ul>\n<ul><li>Autonomy stack licensing</li></ul>\n<ul><li>Low-speed urban operation</li></ul>",
+  "bodyMarkdown": "Nuro builds low-speed autonomous delivery vehicles and licenses its autonomy software. Its R3 vehicle is designed around cargo rather than passengers.\n\nThe company has run delivery pilots with grocery and restaurant partners and has shifted toward licensing its driving stack to other vehicle makers.\n\n**Why it matters**\n\n- Purpose-built delivery vehicle\n\n- Autonomy stack licensing\n\n- Low-speed urban operation",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "NURO.PVT",
+    "name": "Nuro",
+    "sector": "Autonomous & AV"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "NURO.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Nuro's pivot to licensing admits that operating a delivery fleet is a low-margin business. The asset is the validated autonomy stack.",
+  "investmentLens": "Private; a licensing story that needs a large vehicle partner to matter."
+}

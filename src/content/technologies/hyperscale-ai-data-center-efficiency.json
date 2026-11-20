@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Hyperscale AI Data Center Efficiency",
-    "subtitle": "Next-generation AI data centers achieving PUE overhead of 10-20% (vs 40-50% in legacy facilities)...",
+    "subtitle": "Nextgeneration AI data centers achieving PUE overhead of 1020% (vs 4050% in legacy facilities)...",
     "category": "Energy Tech",
     "stage": "early_commercial",
     "confidence_label": "Confident",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 1,
     "stocks": [],
-    "permalink": "/tech/hyperscale-ai-data-center-efficiency/"
+    "permalink": "/tech/hyperscaleaidatacenterefficiency/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

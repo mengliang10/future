@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Edge Inference Efficiency",
-    "subtitle": "Bypassing energy-locked cloud clusters via distributed localized compute",
+    "subtitle": "Bypassing energylocked cloud clusters via distributed localized compute",
     "category": "AI Tech",
     "stage": "prototyping",
     "confidence_label": "Confident",
@@ -26,7 +26,7 @@
       "ARM",
       "AAPL"
     ],
-    "permalink": "/tech/edge-inference-efficiency/"
+    "permalink": "/tech/edgeinferenceefficiency/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

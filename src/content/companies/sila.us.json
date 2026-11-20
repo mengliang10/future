@@ -1,0 +1,27 @@
+{
+  "id": "sila.us",
+  "title": "Sila Nanotechnologies",
+  "summary": "Alameda company making silicon-based anode materials that raise lithium-ion energy density.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/sila.us.md",
+  "sourceHash": "a8a68d8ec56d888c7495e0e568f9dc97ca9595282b78e0c9e03171722f5bbda1",
+  "bodyHtml": "<p>Sila produces silicon anode material, branded Titan Silicon, that replaces some or all of the graphite in a lithium-ion cell. Silicon stores far more lithium by weight, which translates into range.</p>\n<p>The material is designed to drop into existing cell manufacturing, and the company has automotive qualification programmes with major carmakers.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Silicon anode powder</li></ul>\n<ul><li>Drop-in cell compatibility</li></ul>\n<ul><li>Automotive qualification</li></ul>",
+  "bodyMarkdown": "Sila produces silicon anode material, branded Titan Silicon, that replaces some or all of the graphite in a lithium-ion cell. Silicon stores far more lithium by weight, which translates into range.\n\nThe material is designed to drop into existing cell manufacturing, and the company has automotive qualification programmes with major carmakers.\n\n**Why it matters**\n\n- Silicon anode powder\n\n- Drop-in cell compatibility\n\n- Automotive qualification",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "SILA.PVT",
+    "name": "Sila Nanotechnologies",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "SILA.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Anode materials are a rare place where a chemistry improvement reaches customers without rebuilding the gigafactory.",
+  "investmentLens": "Private; anode supply deals are the metric that matters."
+}

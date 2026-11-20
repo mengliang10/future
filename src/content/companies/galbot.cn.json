@@ -1,0 +1,27 @@
+{
+  "id": "galbot.cn",
+  "title": "Galbot",
+  "summary": "Beijing embodied-AI start-up building humanoid robots for retail and logistics tasks.",
+  "sector": "robotics",
+  "sectors": [
+    "applied-ai"
+  ],
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/galbot.cn.md",
+  "sourceHash": "c91508d9d26a2f2a7d5bd6b78316d7b0df00c7c392ef9e4b729cd841c5c863da",
+  "bodyHtml": "<p>Galbot was founded in 2023 and develops wheeled humanoid robots for shelf stocking, picking and retail assistance. It combines a mobile base with arms and a learned manipulation stack.</p>\n<p>The company is part of a dense Chinese ecosystem of humanoid makers competing on cost and fast iteration in real stores and warehouses.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Wheeled humanoid for retail shelves</li></ul>\n<ul><li>Manipulation models trained on store data</li></ul>\n<ul><li>Cost-focused hardware</li></ul>",
+  "bodyMarkdown": "Galbot was founded in 2023 and develops wheeled humanoid robots for shelf stocking, picking and retail assistance. It combines a mobile base with arms and a learned manipulation stack.\n\nThe company is part of a dense Chinese ecosystem of humanoid makers competing on cost and fast iteration in real stores and warehouses.\n\n**Why it matters**\n\n- Wheeled humanoid for retail shelves\n\n- Manipulation models trained on store data\n\n- Cost-focused hardware",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "GALBOT.PVT",
+    "name": "Galbot",
+    "sector": "Robotics"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "GALBOT.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Retail is a demanding test: public-facing robots must be safe, quiet and reliable, and the tasks change by store. Galbot's bet is that Chinese retail density provides the training ground.",
+  "investmentLens": "Private and China-based; public read is through component suppliers and the retail partners running pilots."
+}

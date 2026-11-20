@@ -1,0 +1,27 @@
+{
+  "id": "zap-energy.us",
+  "title": "Zap Energy",
+  "summary": "Seattle company using a sheared-flow z-pinch to confine fusion plasma without superconducting magnets.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/zap-energy.us.md",
+  "sourceHash": "5d75f47510d8f71591068c18d47610b1f424f7eda6f273024c4d4575a525325c",
+  "bodyHtml": "<p>Zap Energy's z-pinch design uses a flowing plasma and its own magnetic field to confine and compress fuel, avoiding the large magnet sets that dominate other fusion approaches.</p>\n<p>The company has built and run prototype devices and is working toward net energy gain.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Sheared-flow z-pinch</li></ul>\n<ul><li>Magnet-free confinement</li></ul>\n<ul><li>Compact device architecture</li></ul>",
+  "bodyMarkdown": "Zap Energy's z-pinch design uses a flowing plasma and its own magnetic field to confine and compress fuel, avoiding the large magnet sets that dominate other fusion approaches.\n\nThe company has built and run prototype devices and is working toward net energy gain.\n\n**Why it matters**\n\n- Sheared-flow z-pinch\n\n- Magnet-free confinement\n\n- Compact device architecture",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "ZAP.PVT",
+    "name": "Zap Energy",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "ZAP.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "If it works, a z-pinch device would be far cheaper to build than a tokamak. The physics risk is correspondingly high.",
+  "investmentLens": "Private; the least capital-intensive fusion path on paper, and the least proven."
+}

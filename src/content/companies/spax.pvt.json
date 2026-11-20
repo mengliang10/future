@@ -1,7 +1,7 @@
 {
   "id": "spax.pvt",
   "title": "SpaceX",
-  "summary": "",
+  "summary": "SpaceX is the dominant force in orbital launch and satellite internet. Starship reusability is the binding constraint on the entire space economy. Success here enables everything from space-based manufacturing to Mars colonization.",
   "sector": "space",
   "sourceCategory": "Space Tech",
   "sourcePath": "_stocks/spax.pvt.md",

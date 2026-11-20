@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2027\u20132030)",
     "source_count": 2,
     "stocks": [],
-    "permalink": "/tech/data-center-capacity-doubling/"
+    "permalink": "/tech/datacentercapacitydoubling/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,9 @@
   "estimate": "2029\u20132033",
   "estimateYear": 2030,
   "sourceCount": 2,
-  "companies": [],
+  "companies": [
+    "stx"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

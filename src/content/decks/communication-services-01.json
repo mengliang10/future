@@ -1,6 +1,6 @@
 {
   "id": "communication-services-01",
-  "title": "Communication Services \u2014 Official Sector Briefing",
+  "title": "Communication Services — How future technology reshapes the sector",
   "sector": "applied-ai",
   "mode": "evergreen",
   "added": "2026-11-18",
@@ -21,5 +21,522 @@
     "quantum-network-entanglement-distribution",
     "leo-satellite-connectivity",
     "environmental-monitoring-networks"
+  ],
+  "slides": [
+    {
+      "kind": "statement",
+      "eyebrow": "01 · The thesis",
+      "title": "The technology is not the story. The cost line is.",
+      "body": "This sector sells connectivity, attention and content. AI lowers the cost of producing content and raises the value of distribution and first-party data. Networks become software-defined and capex-heavy, while the interface to the customer moves from apps to assistants that summarise, recommend and block advertising."
+    },
+    {
+      "kind": "points",
+      "eyebrow": "02 · Sector economics",
+      "title": "What this sector actually sells",
+      "body": "Telecom is a capital-intensive utility with ARPU and churn as the key variables. Media and platforms earn on advertising yield and subscriptions, with content cost as the swing factor.",
+      "bullets": [
+        "Mobile and broadband ARPU grows slowly; churn and acquisition cost decide profitability.",
+        "Network capex is lumpy and regulated returns depend on utilisation.",
+        "Advertising earns on impressions, targeting and measurement.",
+        "Content businesses carry high fixed costs and hit-driven revenue.",
+        "Bundling reduces churn but compresses margin per service."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "03 · Impact map",
+      "title": "Where the impact lands",
+      "body": "Two axes matter: how soon the effect reaches reported numbers, and whether it lands on revenue or on cost and capital.",
+      "diagram": {
+        "kind": "impact",
+        "quadrants": [
+          {
+            "label": "New revenue, contested",
+            "items": [
+              "AI-generated content licensing",
+              "Personalised advertising",
+              "Edge compute and private 5G"
+            ]
+          },
+          {
+            "label": "New revenue, durable",
+            "items": [
+              "Direct-to-device satellite coverage",
+              "Bundled security and identity",
+              "Enterprise connectivity and SASE"
+            ]
+          },
+          {
+            "label": "Cost takeout, fast",
+            "items": [
+              "Network automation and energy optimisation",
+              "AI customer care",
+              "Programmatic ad operations"
+            ]
+          },
+          {
+            "label": "Structural cost shift",
+            "items": [
+              "Spectral and fibre capex rises",
+              "Content production cheapens but discovery tightens",
+              "Trust and safety costs scale with synthetic media"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "04 · Exposure",
+      "title": "How much of the sector is actually exposed",
+      "diagram": {
+        "kind": "bars",
+        "caption": "Directional share of each pool exposed to automation or substitution",
+        "bars": [
+          {
+            "label": "Network operating cost",
+            "pct": 40
+          },
+          {
+            "label": "Content production cost",
+            "pct": 35
+          },
+          {
+            "label": "Advertising inventory and targeting",
+            "pct": 55
+          },
+          {
+            "label": "Customer care cost",
+            "pct": 45
+          },
+          {
+            "label": "Field operations and maintenance",
+            "pct": 50
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "05 · Supply chain",
+      "title": "The future products in the chain",
+      "body": "Each stage is a product family that has to exist for the next one to work. This is where the spend lands.",
+      "diagram": {
+        "kind": "chain",
+        "caption": "Spectrum and fibre → network → content and data → platforms → subscribers and advertisers",
+        "stages": [
+          {
+            "label": "Resources",
+            "products": [
+              "Spectrum",
+              "Fibre",
+              "Data centres",
+              "Satellite capacity"
+            ]
+          },
+          {
+            "label": "Network",
+            "products": [
+              "5G and fixed wireless",
+              "Optical transport",
+              "Edge nodes",
+              "Network software"
+            ]
+          },
+          {
+            "label": "Content & data",
+            "products": [
+              "Studios",
+              "Sports rights",
+              "First-party data",
+              "Ad tech"
+            ]
+          },
+          {
+            "label": "Platforms",
+            "products": [
+              "Streaming apps",
+              "Messaging",
+              "Search and social",
+              "Agent interfaces"
+            ]
+          },
+          {
+            "label": "Customers",
+            "products": [
+              "Subscribers",
+              "Advertisers",
+              "Enterprises",
+              "Wholesale"
+            ]
+          }
+        ],
+        "note": "Connectivity is the commodity; identity, data and the interface carry the margin."
+      }
+    },
+    {
+      "kind": "columns",
+      "eyebrow": "06 · Technology clusters",
+      "title": "Three shifts to underwrite",
+      "columns": [
+        {
+          "title": "Network automation",
+          "body": "Self-optimising networks cut energy and field visits, the two largest opex lines.",
+          "items": [
+            "AI RAN optimisation",
+            "Predictive maintenance",
+            "Energy management",
+            "Private 5G"
+          ]
+        },
+        {
+          "title": "Synthetic media",
+          "body": "Production cost collapses, but rights, provenance and trust become the scarce assets.",
+          "items": [
+            "AI dubbing and localisation",
+            "Virtual production",
+            "Content provenance",
+            "Licensing deal structures"
+          ]
+        },
+        {
+          "title": "Agentic interfaces",
+          "body": "Assistants intermediate search, messaging and shopping, threatening ad inventory and app distribution.",
+          "items": [
+            "AI search summaries",
+            "Agent messaging",
+            "Identity and consent",
+            "Measurement standards"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "07 · The stack",
+      "title": "The stack underneath the sector",
+      "diagram": {
+        "kind": "stack",
+        "layers": [
+          {
+            "label": "Physical",
+            "note": "Spectrum, fibre, towers",
+            "items": [
+              "Macro sites",
+              "Fibre plant",
+              "Submarine cable",
+              "Satellites"
+            ]
+          },
+          {
+            "label": "Network",
+            "note": "Transport and edge",
+            "items": [
+              "5G core",
+              "Optical transport",
+              "Edge compute",
+              "Wi-Fi offload"
+            ]
+          },
+          {
+            "label": "Data",
+            "note": "Audiences and content",
+            "items": [
+              "First-party data",
+              "Content library",
+              "Ad exchanges",
+              "Measurement"
+            ]
+          },
+          {
+            "label": "Products",
+            "note": "What customers buy",
+            "items": [
+              "Mobile plans",
+              "Broadband",
+              "Streaming",
+              "Ad campaigns"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "08 · Timing",
+      "title": "When it reaches the numbers",
+      "diagram": {
+        "kind": "timeline",
+        "milestones": [
+          {
+            "year": 2026,
+            "label": "AI search summaries",
+            "detail": "Referral traffic to publishers falls",
+            "lane": 0
+          },
+          {
+            "year": 2027,
+            "label": "Autonomous network ops",
+            "detail": "Closed-loop optimisation in live networks",
+            "lane": 0
+          },
+          {
+            "year": 2028,
+            "label": "Edge inference",
+            "detail": "Low-latency AI at cell sites",
+            "lane": 1
+          },
+          {
+            "year": 2029,
+            "label": "Direct-to-device satellite",
+            "detail": "Coverage beyond terrestrial networks",
+            "lane": 1
+          },
+          {
+            "year": 2031,
+            "label": "Agent-first interfaces",
+            "detail": "Messaging becomes transaction surface",
+            "lane": 2
+          },
+          {
+            "year": 2033,
+            "label": "6G standards",
+            "detail": "Sensing and AI native air interface",
+            "lane": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "table",
+      "eyebrow": "09 · Line by line",
+      "title": "Where the money actually moves",
+      "table": {
+        "head": [
+          "P&L line",
+          "Mechanism",
+          "Timing",
+          "Proof point"
+        ],
+        "rows": [
+          [
+            "Network opex",
+            "Automation and energy efficiency",
+            "Now → 2028",
+            "Opex per site and per terabyte"
+          ],
+          [
+            "Capex",
+            "Edge and fibre build-out",
+            "2026 → 2030",
+            "Capex-to-sales and utilisation"
+          ],
+          [
+            "Advertising",
+            "Targeting and synthetic creative",
+            "Now → 2029",
+            "CPM and conversion by format"
+          ],
+          [
+            "Content cost",
+            "AI production and localisation",
+            "2026 → 2029",
+            "Cost per hour of original content"
+          ],
+          [
+            "Churn",
+            "Bundling and service quality",
+            "Continuous",
+            "Postpaid churn and ARPU"
+          ]
+        ]
+      }
+    },
+    {
+      "kind": "points",
+      "eyebrow": "10 · Winners",
+      "title": "Who gains",
+      "bullets": [
+        "Fibre and fixed-wireless operators with dense, owned infrastructure.",
+        "Platforms with first-party identity and measured advertising outcomes.",
+        "IP owners whose libraries become training and licensing assets.",
+        "Network software and edge vendors selling automation into every carrier.",
+        "Satellite operators offering direct-to-device coverage."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "11 · Exposure",
+      "title": "Who is exposed",
+      "bullets": [
+        "Linear broadcasters and pay-TV bundles losing reach and pricing.",
+        "Publishers dependent on search referral traffic.",
+        "Mobile virtual network operators without differentiation.",
+        "Ad-tech intermediaries disintermediated by platforms' own agents.",
+        "Content studios without owned IP or production scale."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "12 · Signposts",
+      "title": "What to watch next",
+      "body": "Signposts are chosen so that each one can falsify part of the thesis within four quarters.",
+      "bullets": [
+        "<strong>Search referral traffic</strong> to publisher sites after AI summaries.",
+        "<strong>ARPU and churn</strong> net of bundling discounts.",
+        "<strong>Network energy per terabyte</strong> as a proxy for automation success.",
+        "<strong>Direct-to-device commercial launches</strong> and pricing.",
+        "<strong>Licensing revenue</strong> from content used in model training."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "13 · The ecosystem",
+      "title": "Who has to deliver for this to work",
+      "diagram": {
+        "kind": "actors",
+        "caption": "Networks → content → advertising → gaming → satellite access",
+        "groups": [
+          {
+            "label": "Networks",
+            "role": "Access and transport",
+            "names": [
+              "AT&T",
+              "Verizon",
+              "T-Mobile",
+              "Ericsson",
+              "Nokia"
+            ]
+          },
+          {
+            "label": "Content",
+            "role": "Rights and production",
+            "names": [
+              "Netflix",
+              "Disney",
+              "Spotify",
+              "Warner Bros. Discovery"
+            ]
+          },
+          {
+            "label": "Advertising",
+            "role": "Demand aggregation",
+            "names": [
+              "Google",
+              "Meta",
+              "The Trade Desk",
+              "Amazon Ads"
+            ]
+          },
+          {
+            "label": "Gaming",
+            "role": "Interactive distribution",
+            "names": [
+              "Tencent",
+              "Sony",
+              "Microsoft",
+              "Roblox",
+              "Krafton"
+            ]
+          },
+          {
+            "label": "Satellite",
+            "role": "Coverage beyond fibre",
+            "names": [
+              "SpaceX",
+              "AST SpaceMobile",
+              "Viasat",
+              "Eutelsat"
+            ]
+          }
+        ],
+        "note": "The sector's scarce assets are spectrum, content rights and distribution; AI mainly changes production cost."
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "14 · Where the thesis breaks",
+      "title": "Where the thesis could break",
+      "diagram": {
+        "kind": "risk",
+        "caption": "Evidence strength versus P&L impact",
+        "items": [
+          {
+            "label": "Direct-to-device satellite scales",
+            "evidence": 40,
+            "impact": 70,
+            "note": "Spectrum and constellation capacity"
+          },
+          {
+            "label": "AI search erodes referral traffic",
+            "evidence": 55,
+            "impact": 80,
+            "note": "Publishers and ad-funded sites"
+          },
+          {
+            "label": "Ad pricing holds as content floods",
+            "evidence": 45,
+            "impact": 65,
+            "note": "Premium inventory matters"
+          },
+          {
+            "label": "6G capex cycle begins",
+            "evidence": 30,
+            "impact": 55,
+            "note": "Equipment vendors benefit, operators pay"
+          },
+          {
+            "label": "Bundling reverses churn",
+            "evidence": 60,
+            "impact": 50,
+            "note": "Converged household offers"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "15 · The value pool",
+      "title": "From gross spend to defensible profit",
+      "diagram": {
+        "kind": "funnel",
+        "caption": "Where the money narrows",
+        "stages": [
+          {
+            "label": "Connectivity, media and ad spend",
+            "pct": 100,
+            "note": "Gross"
+          },
+          {
+            "label": "Service revenue",
+            "pct": 55,
+            "note": "Subscriptions and ads"
+          },
+          {
+            "label": "Content and network cost",
+            "pct": 32,
+            "note": "Rights, spectrum, capex"
+          },
+          {
+            "label": "EBITDA",
+            "pct": 20,
+            "note": "Before depreciation"
+          },
+          {
+            "label": "Free cash flow",
+            "pct": 10,
+            "note": "After capex"
+          }
+        ],
+        "note": "Capital intensity separates the sector: networks spend continuously, platforms spend in content cycles."
+      }
+    },
+    {
+      "kind": "research",
+      "eyebrow": "16 · Evidence",
+      "title": "Read the research behind this deck",
+      "body": "The links below are the source records for connectivity, advertising, satellite and synthetic media claims. Timelines are source estimates, not commitments.",
+      "footnote": "Scenario synthesis compiled 19 November 2026. Directional shares and timelines are analytical judgements, not measured statistics or forecasts. Each technology record carries its own confidence label and source path."
+    }
   ]
 }

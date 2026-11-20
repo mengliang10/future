@@ -1,6 +1,6 @@
 {
   "id": "health-care-01",
-  "title": "Health Care \u2014 Official Sector Briefing",
+  "title": "Health Care — How future technology reshapes the sector",
   "sector": "drugs-biotech",
   "mode": "evergreen",
   "added": "2026-11-18",
@@ -21,5 +21,524 @@
     "car-t-cell-therapy",
     "gut-brain-axis-therapeutics",
     "synthetic-medical-data"
+  ],
+  "slides": [
+    {
+      "kind": "statement",
+      "eyebrow": "01 · The thesis",
+      "title": "The technology is not the story. The cost line is.",
+      "body": "Health care is a data-rich, decision-poor industry. The binding constraints are trial cost, regulatory evidence and reimbursement, not ideas. AI and automation shorten the path from target to patient, but only companies that generate defensible clinical evidence convert that speed into margin."
+    },
+    {
+      "kind": "points",
+      "eyebrow": "02 · Sector economics",
+      "title": "What this sector actually sells",
+      "body": "Value accrues at different points: pharma earns on protected pricing and patent life, medtech on installed base and procedures, providers on volume and payer mix, payers on medical loss ratio.",
+      "bullets": [
+        "Pharma gross margins are high, but R&D intensity and patent cliffs set the cycle.",
+        "Medtech earns on procedure volume and consumables attached to capital equipment.",
+        "Providers run thin margins, sensitive to labour cost and payer mix.",
+        "Payers earn on the spread between premiums and medical spend.",
+        "Reimbursement decisions, not technical feasibility, determine commercial timing."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "03 · Impact map",
+      "title": "Where the impact lands",
+      "body": "Two axes matter: how soon the effect reaches reported numbers, and whether it lands on revenue or on cost and capital.",
+      "diagram": {
+        "kind": "impact",
+        "quadrants": [
+          {
+            "label": "New revenue, contested",
+            "items": [
+              "AI-discovered assets entering clinical trials",
+              "Companion diagnostics for targeted therapy",
+              "Consumer wearables and remote monitoring"
+            ]
+          },
+          {
+            "label": "New revenue, durable",
+            "items": [
+              "Biological data platforms licensed to pharma",
+              "Surgical robotics with recurring instruments",
+              "Manufacturing capacity for cell and gene therapy"
+            ]
+          },
+          {
+            "label": "Cost takeout, fast",
+            "items": [
+              "Trial site selection and patient matching",
+              "Prior authorisation and claims automation",
+              "Documentation and coding support"
+            ]
+          },
+          {
+            "label": "Structural cost shift",
+            "items": [
+              "Autonomous labs raise fixed-cost intensity",
+              "Cyber and privacy liability grows",
+              "Personalised manufacturing loses scale economics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "04 · Exposure",
+      "title": "How much of the sector is actually exposed",
+      "diagram": {
+        "kind": "bars",
+        "caption": "Directional share of each cost or revenue pool exposed to the technology shift",
+        "bars": [
+          {
+            "label": "Phase II–III trial cost",
+            "pct": 45
+          },
+          {
+            "label": "Discovery and preclinical chemistry",
+            "pct": 35
+          },
+          {
+            "label": "Manufacturing cost of goods",
+            "pct": 30
+          },
+          {
+            "label": "Claims administration and prior auth",
+            "pct": 50
+          },
+          {
+            "label": "Sales and marketing spend",
+            "pct": 20
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "05 · Supply chain",
+      "title": "The future products in the chain",
+      "body": "Each stage is a product family that has to exist for the next one to work. This is where the spend lands.",
+      "diagram": {
+        "kind": "chain",
+        "caption": "Target discovery → preclinical → clinical → manufacturing → care delivery",
+        "stages": [
+          {
+            "label": "Discovery",
+            "products": [
+              "Biological foundation models",
+              "Protein design",
+              "Perturbation datasets",
+              "Autonomous labs"
+            ]
+          },
+          {
+            "label": "Preclinical",
+            "products": [
+              "Organoids",
+              "In-silico toxicology",
+              "Biomarker panels",
+              "Lab automation"
+            ]
+          },
+          {
+            "label": "Clinical",
+            "products": [
+              "Digital twins",
+              "Decentralised trials",
+              "Adaptive designs",
+              "Real-world evidence"
+            ]
+          },
+          {
+            "label": "Manufacturing",
+            "products": [
+              "Single-use bioreactors",
+              "Cell and gene therapy",
+              "Continuous processing",
+              "Cold chain"
+            ]
+          },
+          {
+            "label": "Delivery",
+            "products": [
+              "Diagnostics",
+              "Surgical robotics",
+              "Remote monitoring",
+              "Care agents"
+            ]
+          }
+        ],
+        "note": "Each stage produces a product the next stage depends on. The weakest link is evidence generation, not molecule generation."
+      }
+    },
+    {
+      "kind": "columns",
+      "eyebrow": "06 · Technology clusters",
+      "title": "Three shifts to underwrite",
+      "columns": [
+        {
+          "title": "Discovery and design",
+          "body": "Models propose molecules and proteins faster than wet labs can validate them; the bottleneck moves downstream.",
+          "items": [
+            "Protein structure and design",
+            "Generative chemistry",
+            "Perturbation atlases",
+            "Autonomous experimentation"
+          ]
+        },
+        {
+          "title": "Clinical and evidence",
+          "body": "Trials get cheaper at the margin but regulatory acceptance of digital endpoints is the gating item.",
+          "items": [
+            "Digital twins in trials",
+            "Decentralised recruitment",
+            "Real-world evidence",
+            "Adaptive trial designs"
+          ]
+        },
+        {
+          "title": "Care delivery",
+          "body": "Automation addresses administrative waste first because it needs no clinical approval.",
+          "items": [
+            "Ambient documentation",
+            "Prior-auth agents",
+            "Remote patient monitoring",
+            "Surgical robotics"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "07 · The stack",
+      "title": "The stack underneath the sector",
+      "diagram": {
+        "kind": "stack",
+        "layers": [
+          {
+            "label": "Biology",
+            "note": "Wet-lab reality",
+            "items": [
+              "Assays",
+              "Organoids",
+              "Bioreactors",
+              "Clinical sites"
+            ]
+          },
+          {
+            "label": "Data",
+            "note": "The raw material",
+            "items": [
+              "Genomics",
+              "Imaging",
+              "EHR records",
+              "Real-world cohorts"
+            ]
+          },
+          {
+            "label": "Models",
+            "note": "Prediction and design",
+            "items": [
+              "Protein models",
+              "Chemistry models",
+              "Risk models",
+              "Care agents"
+            ]
+          },
+          {
+            "label": "Products",
+            "note": "Approved and reimbursed",
+            "items": [
+              "Drugs",
+              "Devices",
+              "Diagnostics",
+              "Care programmes"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "08 · Timing",
+      "title": "When it reaches the numbers",
+      "diagram": {
+        "kind": "timeline",
+        "milestones": [
+          {
+            "year": 2026,
+            "label": "AI-designed molecules in clinic",
+            "detail": "First wave of model-originated candidates",
+            "lane": 0
+          },
+          {
+            "year": 2027,
+            "label": "Protein design enters trials",
+            "detail": "De-novo binders with developable properties",
+            "lane": 0
+          },
+          {
+            "year": 2028,
+            "label": "Autonomous labs scale",
+            "detail": "Closed-loop design-build-test cycles",
+            "lane": 1
+          },
+          {
+            "year": 2029,
+            "label": "Digital twins in trials",
+            "detail": "Control-arm augmentation for select indications",
+            "lane": 1
+          },
+          {
+            "year": 2031,
+            "label": "In-silico evidence accepted",
+            "detail": "Regulators accept modelling for narrow claims",
+            "lane": 2
+          },
+          {
+            "year": 2034,
+            "label": "Personalised manufacturing",
+            "detail": "Point-of-care cell therapy at cost",
+            "lane": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "table",
+      "eyebrow": "09 · Line by line",
+      "title": "Where the money actually moves",
+      "table": {
+        "head": [
+          "P&L line",
+          "Mechanism",
+          "Timing",
+          "Proof point"
+        ],
+        "rows": [
+          [
+            "R&D expense",
+            "Fewer failed programmes per approved asset",
+            "2027 → 2032",
+            "Phase transition rates"
+          ],
+          [
+            "Trial cost",
+            "Better recruitment and remote monitoring",
+            "Now → 2029",
+            "Cost per randomised patient"
+          ],
+          [
+            "COGS",
+            "Higher titre and continuous processing",
+            "Now → 2028",
+            "Gross margin by product"
+          ],
+          [
+            "Administrative cost",
+            "Prior auth and coding automation",
+            "Now → 2027",
+            "Claims denial rate"
+          ],
+          [
+            "Pricing",
+            "Evidence-based contracts and outcomes pricing",
+            "2028 → 2032",
+            "Net price realisation"
+          ]
+        ]
+      }
+    },
+    {
+      "kind": "points",
+      "eyebrow": "10 · Winners",
+      "title": "Who gains",
+      "bullets": [
+        "Biotechs with proprietary datasets and a credible clinical pipeline, not just model access.",
+        "CROs and lab-services firms that industrialise automation and shorten cycle times.",
+        "Medtech with installed bases that can attach software and consumables.",
+        "Manufacturers with capacity in biologics, cell and gene therapy.",
+        "Diagnostics companies that own reimbursement pathways."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "11 · Exposure",
+      "title": "Who is exposed",
+      "bullets": [
+        "Me-too drug portfolios facing price pressure and faster generic entry.",
+        "CROs that sell hours rather than faster enrolment.",
+        "Hospitals reliant on fee-for-service administration without automation.",
+        "Distributors and middlemen whose value is information asymmetry.",
+        "Consumer health apps without clinical evidence or payer coverage."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "12 · Signposts",
+      "title": "What to watch next",
+      "body": "Signposts are chosen so that each one can falsify part of the thesis within four quarters.",
+      "bullets": [
+        "<strong>Phase transition rates</strong> for AI-originated assets, not press releases.",
+        "<strong>Reimbursement decisions</strong> for digital diagnostics and remote monitoring.",
+        "<strong>Trial cycle times</strong> and cost per patient at large sponsors.",
+        "<strong>Manufacturing utilisation</strong> in cell and gene therapy.",
+        "<strong>Regulatory guidance</strong> on model-generated evidence."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "13 · The ecosystem",
+      "title": "Who has to deliver for this to work",
+      "diagram": {
+        "kind": "actors",
+        "caption": "Discovery tools → trials → providers → payers → devices and diagnostics",
+        "groups": [
+          {
+            "label": "Discovery tools",
+            "role": "Design, synthesis, screening",
+            "names": [
+              "Schrödinger",
+              "Recursion",
+              "Insitro",
+              "Ginkgo Bioworks",
+              "Twist Bioscience"
+            ]
+          },
+          {
+            "label": "Clinical trials",
+            "role": "Execution and data capture",
+            "names": [
+              "IQVIA",
+              "Medpace",
+              "Thermo Fisher",
+              "Charles River",
+              "Labcorp"
+            ]
+          },
+          {
+            "label": "Providers",
+            "role": "Hospitals, clinics, diagnostics",
+            "names": [
+              "Mayo Clinic",
+              "HCA",
+              "Kaiser",
+              "NHS",
+              "Tempus AI"
+            ]
+          },
+          {
+            "label": "Payers",
+            "role": "Reimbursement and risk",
+            "names": [
+              "UnitedHealth",
+              "Elevance",
+              "CVS Health",
+              "Centene"
+            ]
+          },
+          {
+            "label": "Medtech",
+            "role": "Devices and surgical systems",
+            "names": [
+              "Intuitive Surgical",
+              "Medtronic",
+              "Siemens Healthineers",
+              "GE HealthCare",
+              "Abbott"
+            ]
+          }
+        ],
+        "note": "AI shortens discovery, but reimbursement and trial outcomes still decide commercial value."
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "14 · Where the thesis breaks",
+      "title": "Where the thesis could break",
+      "diagram": {
+        "kind": "risk",
+        "caption": "Evidence strength versus P&L impact",
+        "items": [
+          {
+            "label": "AI-designed molecules clear Phase II",
+            "evidence": 30,
+            "impact": 90,
+            "note": "The real test of the platform"
+          },
+          {
+            "label": "Digital care is reimbursed",
+            "evidence": 45,
+            "impact": 70,
+            "note": "Coding and coverage decisions"
+          },
+          {
+            "label": "Gene therapy durability at five years",
+            "evidence": 55,
+            "impact": 80,
+            "note": "Long-term follow-up data"
+          },
+          {
+            "label": "Provider labour shortage persists",
+            "evidence": 75,
+            "impact": 60,
+            "note": "Supports automation demand"
+          },
+          {
+            "label": "Pricing reform compresses margins",
+            "evidence": 40,
+            "impact": 85,
+            "note": "Policy risk by market"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "15 · The value pool",
+      "title": "From gross spend to defensible profit",
+      "diagram": {
+        "kind": "funnel",
+        "caption": "Where the money narrows",
+        "stages": [
+          {
+            "label": "Total health spending",
+            "pct": 100,
+            "note": "Gross"
+          },
+          {
+            "label": "Drugs, devices and diagnostics",
+            "pct": 35,
+            "note": "Product spend"
+          },
+          {
+            "label": "Addressable treated population",
+            "pct": 18,
+            "note": "Diagnosis and access"
+          },
+          {
+            "label": "Revenue after rebates",
+            "pct": 11,
+            "note": "Net pricing"
+          },
+          {
+            "label": "Operating margin",
+            "pct": 6,
+            "note": "Before R&D intensity"
+          }
+        ],
+        "note": "Each step is a reminder that clinical evidence, not model accuracy, sets the ceiling."
+      }
+    },
+    {
+      "kind": "research",
+      "eyebrow": "16 · Evidence",
+      "title": "Read the research behind this deck",
+      "body": "The linked records span discovery platforms, trials, manufacturing and care delivery. Confidence labels differ sharply across them; treat speculative records as optionality, not base case.",
+      "footnote": "Scenario synthesis compiled 19 November 2026. Directional shares and timelines are analytical judgements, not measured statistics or forecasts. Each technology record carries its own confidence label and source path."
+    }
   ]
 }

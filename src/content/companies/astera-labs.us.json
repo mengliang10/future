@@ -1,0 +1,27 @@
+{
+  "id": "astera-labs.us",
+  "title": "Astera Labs",
+  "summary": "San Jose connectivity company supplying PCIe, CXL and Ethernet silicon for AI racks.",
+  "sector": "semiconductors",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/astera-labs.us.md",
+  "sourceHash": "1ac9fc99684180c11592ef45d7836786760e094c3bd8d9978f53472d02e8ab75",
+  "bodyHtml": "<p>Astera Labs makes connectivity chips and firmware that let processors, accelerators and memory talk reliably inside AI servers and racks. Its products include PCIe retimers, CXL memory controllers and fabric switches.</p>\n<p>The company listed in 2024 and has become a pure-play way to own the rising connectivity content per AI system.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>PCIe and CXL connectivity</li></ul>\n<ul><li>Rack-scale fabric</li></ul>\n<ul><li>Software for link reliability</li></ul>",
+  "bodyMarkdown": "Astera Labs makes connectivity chips and firmware that let processors, accelerators and memory talk reliably inside AI servers and racks. Its products include PCIe retimers, CXL memory controllers and fabric switches.\n\nThe company listed in 2024 and has become a pure-play way to own the rising connectivity content per AI system.\n\n**Why it matters**\n\n- PCIe and CXL connectivity\n\n- Rack-scale fabric\n\n- Software for link reliability",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "ALAB",
+    "name": "Astera Labs",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "ALAB",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "As clusters get bigger, the number of links grows faster than the number of chips. Connectivity content per rack is one of the cleanest ways to measure AI build-out.",
+  "investmentLens": "A listed pure-play with high exposure to accelerator shipment volumes; cyclical if hyperscaler capex pauses."
+}

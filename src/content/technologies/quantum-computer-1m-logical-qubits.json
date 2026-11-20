@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Quantum Computer: 1M Logical Qubits",
-    "subtitle": "Scale needed for breaking RSA-2048 and full chemistry simulation",
+    "subtitle": "Scale needed for breaking RSA2048 and full chemistry simulation",
     "category": "Quantum",
     "stage": "basic_research",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Long-Term (2045)",
     "source_count": 43,
     "stocks": [],
-    "permalink": "/tech/quantum-computer-1m-logical-qubits/"
+    "permalink": "/tech/quantumcomputer1mlogicalqubits/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

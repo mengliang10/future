@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "AI Personalization Engine",
-    "subtitle": "Real-time ML serving individualized content, offers, and timing at scale",
+    "subtitle": "Realtime ML serving individualized content, offers, and timing at scale",
     "category": "Marketing Tech",
     "stage": "early_commercial",
     "confidence_label": "Researching",
@@ -22,7 +22,7 @@
     "stocks": [
       "BRZE"
     ],
-    "permalink": "/tech/ai-personalization-engine/"
+    "permalink": "/tech/aipersonalizationengine/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

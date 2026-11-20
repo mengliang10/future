@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Onshore Wind Turbine",
-    "subtitle": "Modern 5-6MW onshore turbines; lowest LCOE energy source in many markets",
+    "subtitle": "Modern 56MW onshore turbines; lowest LCOE energy source in many markets",
     "category": "Energy Tech",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 14,
     "stocks": [],
-    "permalink": "/tech/onshore-wind-turbine/"
+    "permalink": "/tech/onshorewindturbine/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

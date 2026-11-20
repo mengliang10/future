@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2029\u20132033)",
     "source_count": 1,
     "stocks": [],
-    "permalink": "/tech/dram-and-hbm-demand/"
+    "permalink": "/tech/dramandhbmdemand/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -50,7 +50,8 @@
     "kokusai-electric.jp",
     "wonik-ips.kr",
     "jusung.kr",
-    "leeno.kr"
+    "leeno.kr",
+    "nanya.tw"
   ],
   "businessMeaning": "",
   "investmentLens": ""

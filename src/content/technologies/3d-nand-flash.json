@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "3D NAND Flash Memory",
-    "subtitle": "Vertically stacked flash memory cells replacing planar NAND; enables terabyte-scale solid-state s...",
+    "subtitle": "Vertically stacked flash memory cells replacing planar NAND; enables terabytescale solidstate s...",
     "category": "Semiconductors",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 32,
     "stocks": [],
-    "permalink": "/tech/3d-nand-flash/"
+    "permalink": "/tech/3dnandflash/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -44,7 +44,9 @@
     "kokusai-electric.jp",
     "wonik-ips.kr",
     "jusung.kr",
-    "comet.ch"
+    "comet.ch",
+    "kioxia.jp",
+    "stx"
   ],
   "businessMeaning": "",
   "investmentLens": ""

@@ -1,0 +1,27 @@
+{
+  "id": "planet-labs.us",
+  "title": "Planet Labs",
+  "summary": "San Francisco operator of the largest commercial Earth-imaging satellite constellation.",
+  "sector": "space",
+  "sectors": [
+    "applied-ai"
+  ],
+  "sourceCategory": "Space",
+  "sourcePath": "_stocks/planet-labs.us.md",
+  "sourceHash": "e47c20cd39bdf69ed24cea27a8c99b76b454a6e5eb2a05fb1d2b081ae12fd126",
+  "bodyHtml": "<p>Planet operates hundreds of small satellites that image the Earth daily, selling imagery and analytics to governments, agriculture, insurance and defence customers.</p>\n<p>Its value is temporal coverage: seeing the same field, port or construction site every day rather than once a year.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Daily global imaging</li></ul>\n<ul><li>Government and defence contracts</li></ul>\n<ul><li>Analytics on top of imagery</li></ul>",
+  "bodyMarkdown": "Planet operates hundreds of small satellites that image the Earth daily, selling imagery and analytics to governments, agriculture, insurance and defence customers.\n\nIts value is temporal coverage: seeing the same field, port or construction site every day rather than once a year.\n\n**Why it matters**\n\n- Daily global imaging\n\n- Government and defence contracts\n\n- Analytics on top of imagery",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "PL",
+    "name": "Planet Labs",
+    "sector": "Space"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "PL",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Earth observation is a data business with high fixed costs and government-anchored demand. Analytics margins matter more than image volume.",
+  "investmentLens": "A listed small-cap with recurring government revenue; sensitive to contract timing."
+}

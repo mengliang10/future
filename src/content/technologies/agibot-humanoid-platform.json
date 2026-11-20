@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "AgiBot humanoid platform",
-    "subtitle": "Chinese general-purpose humanoid maker spun out of a robotics incubator, targeting light assembly.",
+    "subtitle": "Chinese generalpurpose humanoid maker spun out of a robotics incubator, targeting light assembly.",
     "category": "Robotics & Automation",
     "stage": "pilot",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (through 2028)",
     "source_count": 0,
     "stocks": [],
-    "permalink": "/tech/agibot-humanoid-platform/"
+    "permalink": "/tech/agibothumanoidplatform/"
   },
   "evidenceStatus": "editorial-brief",
   "reviewedAt": "2026-11-18",

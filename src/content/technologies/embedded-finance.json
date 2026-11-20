@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Embedded Finance",
-    "subtitle": "Financial services (lending, insurance, payments) embedded invisibly into non-financial digital p...",
+    "subtitle": "Financial services (lending, insurance, payments) embedded invisibly into nonfinancial digital p...",
     "category": "Financial Markets",
     "stage": "early_commercial",
     "confidence_label": "Confident",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (2027\u20132028)",
     "source_count": 2,
     "stocks": [],
-    "permalink": "/tech/embedded-finance/"
+    "permalink": "/tech/embeddedfinance/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

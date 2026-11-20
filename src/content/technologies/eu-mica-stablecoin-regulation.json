@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "EU MiCA Stablecoin Regulation",
-    "subtitle": "EU Markets in Crypto-Assets regulation providing legal framework for stablecoins and digital asse...",
+    "subtitle": "EU Markets in CryptoAssets regulation providing legal framework for stablecoins and digital asse...",
     "category": "Regulatory & Policy",
     "stage": "early_commercial",
     "confidence_label": "Confirmed",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 1,
     "stocks": [],
-    "permalink": "/tech/eu-mica-stablecoin-regulation/"
+    "permalink": "/tech/eumicastablecoinregulation/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 38,
     "stocks": [],
-    "permalink": "/tech/multimodal-foundation-model/"
+    "permalink": "/tech/multimodalfoundationmodel/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,12 @@
   "estimate": "2020\u20132024",
   "estimateYear": 2022,
   "sourceCount": 38,
-  "companies": [],
+  "companies": [
+    "bytedance.pvt",
+    "minimax.hk",
+    "lg-ai.kr",
+    "reka.ai"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

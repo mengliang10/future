@@ -20,7 +20,7 @@
     "horizon": "Near-Term (Now\u20132026)",
     "source_count": 25,
     "stocks": [],
-    "permalink": "/tech/xr-enterprise-workflow-tools/"
+    "permalink": "/tech/xrenterpriseworkflowtools/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,10 @@
   "estimate": "2025",
   "estimateYear": 2025,
   "sourceCount": 25,
-  "companies": [],
+  "companies": [
+    "vuzix.us",
+    "varjo.pvt"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

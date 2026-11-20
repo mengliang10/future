@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "CXMT DDR5 and HBM ambitions",
-    "subtitle": "China's main DRAM challenger, moving from DDR4 into DDR5 and high-bandwidth memory.",
+    "subtitle": "China's main DRAM challenger, moving from DDR4 into DDR5 and highbandwidth memory.",
     "category": "Semiconductors",
     "stage": "pilot",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (through 2028)",
     "source_count": 0,
     "stocks": [],
-    "permalink": "/tech/cxmt-ddr5-dram/"
+    "permalink": "/tech/cxmtddr5dram/"
   },
   "evidenceStatus": "editorial-brief",
   "reviewedAt": "2026-11-18",
@@ -30,7 +30,8 @@
   "estimateYear": 2025,
   "companies": [
     "huawei.pvt",
-    "smic.hk"
+    "smic.hk",
+    "nanya.tw"
   ],
   "businessMeaning": "",
   "investmentLens": ""

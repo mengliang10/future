@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Decentralized Identity (DID / SSI)",
-    "subtitle": "User-controlled identity wallets \u2014 W3C DID standard, ENS, Polygon ID",
+    "subtitle": "Usercontrolled identity wallets \u2014 W3C DID standard, ENS, Polygon ID",
     "category": "Blockchain",
     "stage": "prototype",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2029\u20132030)",
     "source_count": 2,
     "stocks": [],
-    "permalink": "/tech/decentralized-identity-did-ssi/"
+    "permalink": "/tech/decentralizedidentitydidssi/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

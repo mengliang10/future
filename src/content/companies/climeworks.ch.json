@@ -1,0 +1,27 @@
+{
+  "id": "climeworks.ch",
+  "title": "Climeworks",
+  "summary": "Zurich direct-air-capture company operating the largest commercial DAC plants.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/climeworks.ch.md",
+  "sourceHash": "ea3c4635e9a100ba74fdce746624eae458a8361dc17680dcb5b7f8acb492a213",
+  "bodyHtml": "<p>Climeworks builds direct-air-capture plants that pull carbon dioxide from the atmosphere using solid sorbents and geothermal or renewable heat.</p>\n<p>Its Orca and Mammoth plants in Iceland sell removals to corporate buyers, and the company is developing larger modular plants in the United States.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Solid-sorbent DAC</li></ul>\n<ul><li>Geothermal-powered plants</li></ul>\n<ul><li>Corporate removal contracts</li></ul>",
+  "bodyMarkdown": "Climeworks builds direct-air-capture plants that pull carbon dioxide from the atmosphere using solid sorbents and geothermal or renewable heat.\n\nIts Orca and Mammoth plants in Iceland sell removals to corporate buyers, and the company is developing larger modular plants in the United States.\n\n**Why it matters**\n\n- Solid-sorbent DAC\n\n- Geothermal-powered plants\n\n- Corporate removal contracts",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "CLIMEWORKS.PVT",
+    "name": "Climeworks",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "CLIMEWORKS.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "DAC is expensive per tonne, so it depends on voluntary corporate demand or policy support before it can scale. Learning curves and cheap heat are the whole game.",
+  "investmentLens": "Private; the read is through energy suppliers and the voluntary carbon market."
+}

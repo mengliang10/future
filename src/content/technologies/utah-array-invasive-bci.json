@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Utah Array Invasive BCI",
-    "subtitle": "96-electrode cortical implant for motor neuron decoding \u2014 BrainGate research",
+    "subtitle": "96electrode cortical implant for motor neuron decoding \u2014 BrainGate research",
     "category": "BCI",
     "stage": "prototype",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 5,
     "stocks": [],
-    "permalink": "/tech/utah-array-invasive-bci/"
+    "permalink": "/tech/utaharrayinvasivebci/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,9 @@
   "estimate": "2028\u20132032",
   "estimateYear": 2028,
   "sourceCount": 5,
-  "companies": [],
+  "companies": [
+    "blackrock-neurotech.pvt"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

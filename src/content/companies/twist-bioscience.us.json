@@ -1,0 +1,27 @@
+{
+  "id": "twist-bioscience.us",
+  "title": "Twist Bioscience",
+  "summary": "South San Francisco company synthesising DNA at scale for drug discovery and synthetic biology.",
+  "sector": "drugs-biotech",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Drugs & Biotech",
+  "sourcePath": "_stocks/twist-bioscience.us.md",
+  "sourceHash": "5d60253545e47f4c44c95733e1b4973db9b02c1de366fba3792511886064b13d",
+  "bodyHtml": "<p>Twist Bioscience writes DNA using a semiconductor-based synthesis process, selling synthetic genes, oligo pools and antibody libraries to research and pharmaceutical customers.</p>\n<p>Its platform underpins AI-guided protein engineering and synthetic biology workflows that need large numbers of designed sequences.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>High-throughput DNA synthesis</li></ul>\n<ul><li>Synthetic genes and libraries</li></ul>\n<ul><li>Antibody discovery</li></ul>",
+  "bodyMarkdown": "Twist Bioscience writes DNA using a semiconductor-based synthesis process, selling synthetic genes, oligo pools and antibody libraries to research and pharmaceutical customers.\n\nIts platform underpins AI-guided protein engineering and synthetic biology workflows that need large numbers of designed sequences.\n\n**Why it matters**\n\n- High-throughput DNA synthesis\n\n- Synthetic genes and libraries\n\n- Antibody discovery",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "TWST",
+    "name": "Twist Bioscience",
+    "sector": "Drugs & Biotech"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "TWST",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Every generative-biology programme ends in a physical DNA order. Synthesis capacity is a bottleneck that sits upstream of the AI design boom.",
+  "investmentLens": "A listed tool provider whose revenue tracks research budgets and biotech funding."
+}

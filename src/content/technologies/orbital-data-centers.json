@@ -1,0 +1,43 @@
+{
+  "id": "orbital-data-centers",
+  "title": "Orbital Data Centers",
+  "summary": "Proposals to put compute in orbit, using solar power and space cooling to escape terrestrial grid constraints.",
+  "sector": "space",
+  "sourceCategory": "Space",
+  "sourcePath": "_tech/orbital-data-centers.md",
+  "sourceHash": "4096b6c6ebab004e40e11cd7a7af92b2eed0bcbc77b3b49757791d8932e540fb",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>The idea is to launch compute satellites that run AI workloads in orbit, powered by continuous sunlight and cooled by radiating heat into space. Downlinks would carry results rather than raw data.</p>\n<h2>The Physics</h2>\n<p>Space solves solar availability and grid interconnection, but not heat rejection: in vacuum, heat must be radiated, which requires large surfaces. Launch cost and radiation tolerance of chips are the other constraints.</p>\n<h2>Credible Niche</h2>\n<p>Rather than replacing data centres, the first use is likely onboard processing for Earth observation, so only insights are downlinked instead of raw imagery.</p>",
+  "bodyMarkdown": "## What This Is\n\nThe idea is to launch compute satellites that run AI workloads in orbit, powered by continuous sunlight and cooled by radiating heat into space. Downlinks would carry results rather than raw data.\n\n## The Physics\n\nSpace solves solar availability and grid interconnection, but not heat rejection: in vacuum, heat must be radiated, which requires large surfaces. Launch cost and radiation tolerance of chips are the other constraints.\n\n## Credible Niche\n\nRather than replacing data centres, the first use is likely onboard processing for Earth observation, so only insights are downlinked instead of raw imagery.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Orbital Data Centers",
+    "subtitle": "Proposals to put compute in orbit, using solar power and space cooling to escape terrestrial grid constraints.",
+    "category": "Space",
+    "stage": "basic_research",
+    "confidence_label": "Speculative",
+    "est_year": 2036,
+    "est_year_range": "2032-2045",
+    "horizon": "Long-Term (2031–2040)",
+    "source_count": 0,
+    "stocks": [
+      "spacex.us",
+      "planet-labs.us",
+      "varda-space.us"
+    ],
+    "permalink": "/tech/orbital-data-centers/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "stage": "basic_research",
+  "confidenceLabel": "Speculative",
+  "estimate": "2032-2045",
+  "estimateYear": 2036,
+  "sourceCount": 0,
+  "companies": [
+    "spacex.us",
+    "planet-labs.us",
+    "varda-space.us"
+  ],
+  "businessMeaning": "Do not plan around orbital compute for general workloads. It is relevant to satellite operators who can cut downlink costs by processing on orbit.",
+  "investmentLens": "A long-dated option on launch and radiation-hardened electronics rather than a current market."
+}

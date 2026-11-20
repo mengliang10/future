@@ -1,6 +1,6 @@
 {
   "id": "energy-01",
-  "title": "Energy \u2014 Official Sector Briefing",
+  "title": "Energy — How future technology reshapes the sector",
   "sector": "energy",
   "mode": "evergreen",
   "added": "2026-11-18",
@@ -21,5 +21,524 @@
     "nuclear-power-deployment-rate",
     "autonomous-nuclear-plant-operations",
     "space-based-solar-power-sbsp"
+  ],
+  "slides": [
+    {
+      "kind": "statement",
+      "eyebrow": "01 · The thesis",
+      "title": "The technology is not the story. The cost line is.",
+      "body": "Energy is a capital allocation business with commodity price exposure. Technology improves recovery, reduces downtime and shortens the learning curve on new capacity, but it rarely escapes the price cycle. The new demand source is data centres and electrification, which pulls gas, grid and nuclear into the same investment conversation."
+    },
+    {
+      "kind": "points",
+      "eyebrow": "02 · Sector economics",
+      "title": "What this sector actually sells",
+      "body": "Revenue is price times volume; cost is lifting cost, royalties and capex. Reserve life and decline rates determine terminal value, and refining or LNG spreads add a second, cyclical margin.",
+      "bullets": [
+        "Upstream economics depend on lifting cost and decline rates, not headline production.",
+        "Integrated majors smooth the cycle with refining, chemicals and trading.",
+        "LNG earns on contracted spreads and liquefaction utilisation.",
+        "Oilfield services are cyclical, with utilisation and pricing power in tight markets.",
+        "Cost of capital and reserve life drive valuation more than near-term prices."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "03 · Impact map",
+      "title": "Where the impact lands",
+      "body": "Two axes matter: how soon the effect reaches reported numbers, and whether it lands on revenue or on cost and capital.",
+      "diagram": {
+        "kind": "impact",
+        "quadrants": [
+          {
+            "label": "New revenue, contested",
+            "items": [
+              "Gas and LNG for data-centre load",
+              "Geothermal and storage projects",
+              "Carbon-accounting services"
+            ]
+          },
+          {
+            "label": "New revenue, durable",
+            "items": [
+              "Low-cost barrel replacement",
+              "Power and hedging products",
+              "Maintenance and digital services"
+            ]
+          },
+          {
+            "label": "Cost takeout, fast",
+            "items": [
+              "AI seismic interpretation",
+              "Drilling automation",
+              "Predictive maintenance on rotating equipment"
+            ]
+          },
+          {
+            "label": "Structural cost shift",
+            "items": [
+              "Methane monitoring becomes mandatory",
+              "Water and emissions capex rises",
+              "Cyber risk in operational technology"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "04 · Exposure",
+      "title": "How much of the sector is actually exposed",
+      "diagram": {
+        "kind": "bars",
+        "caption": "Directional share of each pool exposed to automation or demand shift",
+        "bars": [
+          {
+            "label": "Drilling and completion cost",
+            "pct": 45
+          },
+          {
+            "label": "Facility downtime",
+            "pct": 40
+          },
+          {
+            "label": "Seismic and subsurface interpretation",
+            "pct": 35
+          },
+          {
+            "label": "Refinery energy cost",
+            "pct": 30
+          },
+          {
+            "label": "Methane leak exposure",
+            "pct": 25
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "05 · Supply chain",
+      "title": "The future products in the chain",
+      "body": "Each stage is a product family that has to exist for the next one to work. This is where the spend lands.",
+      "diagram": {
+        "kind": "chain",
+        "caption": "Subsurface → extraction → processing and LNG → transport → power and industrial demand",
+        "stages": [
+          {
+            "label": "Subsurface",
+            "products": [
+              "Seismic data",
+              "Reservoir models",
+              "Well designs",
+              "Completion fluids"
+            ]
+          },
+          {
+            "label": "Extraction",
+            "products": [
+              "Automated rigs",
+              "Artificial lift",
+              "Sand and chemicals",
+              "Water handling"
+            ]
+          },
+          {
+            "label": "Processing",
+            "products": [
+              "Gas plants",
+              "Refineries",
+              "LNG trains",
+              "Petrochemicals"
+            ]
+          },
+          {
+            "label": "Transport",
+            "products": [
+              "Pipelines",
+              "LNG carriers",
+              "Storage",
+              "Trading desks"
+            ]
+          },
+          {
+            "label": "Demand",
+            "products": [
+              "Data-centre power",
+              "Industrial heat",
+              "Transport fuels",
+              "Grid balancing"
+            ]
+          }
+        ],
+        "note": "The new customer is a data centre signing a long-term power contract; that changes which molecules and assets are strategic."
+      }
+    },
+    {
+      "kind": "columns",
+      "eyebrow": "06 · Technology clusters",
+      "title": "Three shifts to underwrite",
+      "columns": [
+        {
+          "title": "Subsurface intelligence",
+          "body": "Better imaging and faster interpretation lower finding cost in mature basins.",
+          "items": [
+            "AI seismic inversion",
+            "Reservoir simulation",
+            "Well placement",
+            "Core analysis"
+          ]
+        },
+        {
+          "title": "Operational automation",
+          "body": "Autonomous rigs and predictive maintenance cut non-productive time, the largest controllable cost.",
+          "items": [
+            "Automated drilling",
+            "Remote operations",
+            "Digital twins",
+            "Methane monitoring"
+          ]
+        },
+        {
+          "title": "Power convergence",
+          "body": "Gas, geothermal and storage compete to serve firm data-centre load.",
+          "items": [
+            "Gas turbines",
+            "Geothermal",
+            "Battery storage",
+            "Behind-the-meter power"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "07 · The stack",
+      "title": "The stack underneath the sector",
+      "diagram": {
+        "kind": "stack",
+        "layers": [
+          {
+            "label": "Resources",
+            "note": "Rock and molecules",
+            "items": [
+              "Reservoirs",
+              "Gas fields",
+              "Solar and wind",
+              "Uranium"
+            ]
+          },
+          {
+            "label": "Assets",
+            "note": "Where capex lands",
+            "items": [
+              "Rigs",
+              "Refineries",
+              "LNG trains",
+              "Turbines"
+            ]
+          },
+          {
+            "label": "Operations",
+            "note": "How uptime is won",
+            "items": [
+              "Sensors",
+              "Automation",
+              "Digital twins",
+              "Trading"
+            ]
+          },
+          {
+            "label": "Markets",
+            "note": "How value is captured",
+            "items": [
+              "PPAs",
+              "LNG contracts",
+              "Hedging",
+              "Capacity payments"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "08 · Timing",
+      "title": "When it reaches the numbers",
+      "diagram": {
+        "kind": "timeline",
+        "milestones": [
+          {
+            "year": 2026,
+            "label": "AI-assisted drilling",
+            "detail": "Well planning compressed",
+            "lane": 0
+          },
+          {
+            "year": 2027,
+            "label": "Autonomous rigs",
+            "detail": "Remote operations at scale",
+            "lane": 0
+          },
+          {
+            "year": 2028,
+            "label": "Methane rules tighten",
+            "detail": "Monitoring becomes auditable",
+            "lane": 1
+          },
+          {
+            "year": 2030,
+            "label": "Gas-for-data-centre deals",
+            "detail": "Long-term power contracts signed",
+            "lane": 1
+          },
+          {
+            "year": 2032,
+            "label": "Geothermal scale-up",
+            "detail": "Drilling cost curves improve",
+            "lane": 2
+          },
+          {
+            "year": 2035,
+            "label": "Industrial heat decarbonised",
+            "detail": "Electric and hydrogen routes compete",
+            "lane": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "table",
+      "eyebrow": "09 · Line by line",
+      "title": "Where the money actually moves",
+      "table": {
+        "head": [
+          "P&L line",
+          "Mechanism",
+          "Timing",
+          "Proof point"
+        ],
+        "rows": [
+          [
+            "Lifting cost",
+            "Automation and energy efficiency",
+            "Now → 2029",
+            "Cost per barrel ex-royalties"
+          ],
+          [
+            "Uptime",
+            "Predictive maintenance",
+            "Now → 2028",
+            "Non-productive time"
+          ],
+          [
+            "Finding cost",
+            "Better subsurface models",
+            "2026 → 2030",
+            "Reserve replacement cost"
+          ],
+          [
+            "LNG margin",
+            "Contract structure and utilisation",
+            "Continuous",
+            "Contracted vs spot mix"
+          ],
+          [
+            "Emissions cost",
+            "Methane and carbon pricing",
+            "2027 → 2032",
+            "Intensity per barrel"
+          ]
+        ]
+      }
+    },
+    {
+      "kind": "points",
+      "eyebrow": "10 · Winners",
+      "title": "Who gains",
+      "bullets": [
+        "Low-cost operators with long reserve life and disciplined capex.",
+        "Gas and LNG producers positioned for power demand.",
+        "Oilfield services with automation and international exposure.",
+        "Geothermal and storage developers with repeatable cost curves.",
+        "Power marketers and traders who can structure long-dated contracts."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "11 · Exposure",
+      "title": "Who is exposed",
+      "bullets": [
+        "High-cost offshore projects with long paybacks.",
+        "Refiners without feedstock flexibility or low-carbon options.",
+        "Coal-heavy portfolios facing demand and financing pressure.",
+        "Service companies with ageing fleets and no digital offering.",
+        "Operators with weak methane monitoring and regulatory exposure."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "12 · Signposts",
+      "title": "What to watch next",
+      "body": "Signposts are chosen so that each one can falsify part of the thesis within four quarters.",
+      "bullets": [
+        "<strong>Lifting cost per barrel</strong> through the cycle.",
+        "<strong>Gas contract prices</strong> linked to data-centre load.",
+        "<strong>Non-productive time</strong> as automation proof.",
+        "<strong>Methane intensity</strong> disclosures and audits.",
+        "<strong>Reserve replacement</strong> at current finding costs."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "13 · The ecosystem",
+      "title": "Who has to deliver for this to work",
+      "diagram": {
+        "kind": "actors",
+        "caption": "Fuels → equipment → generation → storage → nuclear and fusion",
+        "groups": [
+          {
+            "label": "Fuels",
+            "role": "Oil, gas, coal, uranium",
+            "names": [
+              "ExxonMobil",
+              "Chevron",
+              "Shell",
+              "Saudi Aramco",
+              "Cameco"
+            ]
+          },
+          {
+            "label": "Equipment",
+            "role": "Drilling, turbines, grid gear",
+            "names": [
+              "SLB",
+              "Halliburton",
+              "Baker Hughes",
+              "GE Vernova",
+              "Siemens Energy"
+            ]
+          },
+          {
+            "label": "Generation",
+            "role": "Baseload and renewables",
+            "names": [
+              "NextEra",
+              "Constellation",
+              "Duke Energy",
+              "Vistra"
+            ]
+          },
+          {
+            "label": "Storage",
+            "role": "Short and long duration",
+            "names": [
+              "CATL",
+              "LG Energy Solution",
+              "Fluence",
+              "Form Energy",
+              "ESS Tech"
+            ]
+          },
+          {
+            "label": "Nuclear & fusion",
+            "role": "Firm clean capacity",
+            "names": [
+              "Westinghouse",
+              "NuScale",
+              "Oklo",
+              "Commonwealth Fusion",
+              "Proxima Fusion"
+            ]
+          }
+        ],
+        "note": "The binding constraint has moved from fuel to grid interconnection and firm capacity."
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "14 · Where the thesis breaks",
+      "title": "Where the thesis could break",
+      "diagram": {
+        "kind": "risk",
+        "caption": "Evidence strength versus P&L impact",
+        "items": [
+          {
+            "label": "Grid interconnection reform accelerates",
+            "evidence": 45,
+            "impact": 75,
+            "note": "Queue times and transmission"
+          },
+          {
+            "label": "Battery storage costs fall another 30%",
+            "evidence": 60,
+            "impact": 70,
+            "note": "Cell and pack pricing"
+          },
+          {
+            "label": "A fusion pilot reaches net energy",
+            "evidence": 20,
+            "impact": 60,
+            "note": "Still a long way from commercial"
+          },
+          {
+            "label": "Gas prices stay low",
+            "evidence": 55,
+            "impact": 65,
+            "note": "LNG supply and demand"
+          },
+          {
+            "label": "Data-centre power demand doubles",
+            "evidence": 75,
+            "impact": 90,
+            "note": "The clearest demand signal"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "15 · The value pool",
+      "title": "From gross spend to defensible profit",
+      "diagram": {
+        "kind": "funnel",
+        "caption": "Where the money narrows",
+        "stages": [
+          {
+            "label": "Total energy spending",
+            "pct": 100,
+            "note": "Gross"
+          },
+          {
+            "label": "Power generation revenue",
+            "pct": 55,
+            "note": "Electricity and capacity"
+          },
+          {
+            "label": "Equipment, fuel and network",
+            "pct": 30,
+            "note": "Cost stack"
+          },
+          {
+            "label": "Project margin",
+            "pct": 12,
+            "note": "Before financing"
+          },
+          {
+            "label": "Return on capital",
+            "pct": 7,
+            "note": "The investor test"
+          }
+        ],
+        "note": "Energy is a return-on-capital business: revenue growth without pricing power destroys value."
+      }
+    },
+    {
+      "kind": "research",
+      "eyebrow": "16 · Evidence",
+      "title": "Read the research behind this deck",
+      "body": "Linked records cover drilling, LNG, geothermal, storage and methane. Commodity prices dominate near-term results; technology changes the cost curve slowly.",
+      "footnote": "Scenario synthesis compiled 19 November 2026. Directional shares and timelines are analytical judgements, not measured statistics or forecasts. Each technology record carries its own confidence label and source path."
+    }
   ]
 }

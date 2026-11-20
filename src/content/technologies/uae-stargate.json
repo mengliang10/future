@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "UAE Stargate AI campus",
-    "subtitle": "A planned Gulf AI data-centre campus backed by sovereign and US partners.",
+    "subtitle": "A planned Gulf AI datacentre campus backed by sovereign and US partners.",
     "category": "AI & Cloud",
     "stage": "pilot",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (through 2028)",
     "source_count": 0,
     "stocks": [],
-    "permalink": "/tech/uae-stargate/"
+    "permalink": "/tech/uaestargate/"
   },
   "evidenceStatus": "editorial-brief",
   "reviewedAt": "2026-11-18",

@@ -1,0 +1,29 @@
+{
+  "id": "block",
+  "title": "Block, Inc.",
+  "summary": "US payments group owning Square, Cash App and bitcoin businesses.",
+  "sector": "blockchain",
+  "sourceCategory": "Blockchain",
+  "sourcePath": "_stocks/block.md",
+  "sourceHash": "d843324cc4dd573a80bddc7f428bbde283ce6926355052bae9cb26525f7d35de",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Block monetises small-merchant payments through Square, consumer payments and investing through Cash App, and bitcoin through mining and hardware. Its scale gives it a distribution channel for stablecoin and bitcoin rails that pure crypto companies lack, while its lending and banking ambitions add regulatory complexity. The investment debate is about margin discipline across a portfolio rather than crypto exposure alone.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Square seller payments and software</li>\n<li>Cash App consumer financial services</li>\n<li>Bitcoin mining and hardware</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Cash App monetisation per user</li>\n<li>Stablecoin and bitcoin product adoption</li>\n<li>Credit losses in lending products</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nBlock monetises small-merchant payments through Square, consumer payments and investing through Cash App, and bitcoin through mining and hardware. Its scale gives it a distribution channel for stablecoin and bitcoin rails that pure crypto companies lack, while its lending and banking ambitions add regulatory complexity. The investment debate is about margin discipline across a portfolio rather than crypto exposure alone.\n\n## Technology Exposure\n\n- Square seller payments and software\n- Cash App consumer financial services\n- Bitcoin mining and hardware\n\n## What To Watch\n\n- Cash App monetisation per user\n- Stablecoin and bitcoin product adoption\n- Credit losses in lending products\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Block, Inc.",
+    "symbol": "XYZ",
+    "exchange": "NYSE",
+    "categories": [
+      "Blockchain"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "XYZ",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Payments distribution is the scarce asset; crypto rails are a feature that can be attached to an existing merchant and consumer base.",
+  "investmentLens": "A fintech with optionality on bitcoin and stablecoin rails; watch adjusted operating margin and product attach."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iceye.fi",
+  "title": "ICEYE",
+  "summary": "Finnish company operating synthetic-aperture radar satellites that see through cloud and darkness.",
+  "sector": "space",
+  "sectors": [],
+  "sourceCategory": "Space",
+  "sourcePath": "_stocks/iceye.fi.md",
+  "sourceHash": "f339a99afc3b25649cf9c0248de480a5123780ed1a6a6d9be98bc2eed3902b0e",
+  "bodyHtml": "<p>ICEYE builds and operates small SAR satellites, which use radar rather than visible light, so they can image at night and through cloud cover.</p>\n<p>Customers include insurers, governments and disaster-response agencies that need flood, fire and vessel monitoring.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Small SAR satellites</li></ul>\n<ul><li>All-weather imaging</li></ul>\n<ul><li>Insurance and disaster response</li></ul>",
+  "bodyMarkdown": "ICEYE builds and operates small SAR satellites, which use radar rather than visible light, so they can image at night and through cloud cover.\n\nCustomers include insurers, governments and disaster-response agencies that need flood, fire and vessel monitoring.\n\n**Why it matters**\n\n- Small SAR satellites\n\n- All-weather imaging\n\n- Insurance and disaster response",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "ICEYE.PVT",
+    "name": "ICEYE",
+    "sector": "Space"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "ICEYE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "SAR answers questions optical satellites cannot, which supports premium pricing. The constellation cost is high but falling.",
+  "investmentLens": "Private; a data subscription business with strong public-sector demand."
+}

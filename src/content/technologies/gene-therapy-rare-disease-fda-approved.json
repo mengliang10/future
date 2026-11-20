@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Gene Therapy (Rare Disease, FDA Approved)",
-    "subtitle": "AAV-delivered gene replacement for monogenic disorders \u2014 SMA (Zolgensma), hemophilia",
+    "subtitle": "AAVdelivered gene replacement for monogenic disorders \u2014 SMA (Zolgensma), hemophilia",
     "category": "Biotech",
     "stage": "early_commercial",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 9,
     "stocks": [],
-    "permalink": "/tech/gene-therapy-rare-disease-fda-approved/"
+    "permalink": "/tech/genetherapyrarediseasefdaapproved/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "TEM Metrology for Semiconductor Structures",
-    "subtitle": "Transmission electron microscopy workflows for atomic-resolution imaging and dimensional metrolog...",
+    "subtitle": "Transmission electron microscopy workflows for atomicresolution imaging and dimensional metrolog...",
     "category": "Semiconductors",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 39,
     "stocks": [],
-    "permalink": "/tech/tem-metrology-semiconductor/"
+    "permalink": "/tech/temmetrologysemiconductor/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

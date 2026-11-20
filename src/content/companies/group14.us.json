@@ -1,0 +1,27 @@
+{
+  "id": "group14.us",
+  "title": "Group14 Technologies",
+  "summary": "Woodinville, Washington maker of silicon-carbon composite anode material for lithium-ion cells.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/group14.us.md",
+  "sourceHash": "c5f6db18478ad9e82a36f95d4659071ec9eb064d8095c4bda059a251355c72d3",
+  "bodyHtml": "<p>Group14 produces a silicon-carbon composite anode powder, SCC55, that is blended into conventional graphite anodes to increase capacity.</p>\n<p>The company has built commercial-scale manufacturing and supply agreements with battery makers in Asia and Europe.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Silicon-carbon composite</li></ul>\n<ul><li>Blend with graphite</li></ul>\n<ul><li>Commercial-scale supply</li></ul>",
+  "bodyMarkdown": "Group14 produces a silicon-carbon composite anode powder, SCC55, that is blended into conventional graphite anodes to increase capacity.\n\nThe company has built commercial-scale manufacturing and supply agreements with battery makers in Asia and Europe.\n\n**Why it matters**\n\n- Silicon-carbon composite\n\n- Blend with graphite\n\n- Commercial-scale supply",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "GROUP14.PVT",
+    "name": "Group14 Technologies",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "GROUP14.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Blending silicon into existing anodes is a lower-risk adoption path than a full chemistry change, which shortens qualification cycles.",
+  "investmentLens": "Private; the read is through battery cell makers and their automotive customers."
+}

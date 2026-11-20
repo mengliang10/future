@@ -1,0 +1,41 @@
+{
+  "id": "bio-manufacturing",
+  "title": "Bio-Manufacturing",
+  "summary": "Using engineered cells and enzymes to produce chemicals, materials and food ingredients at industrial scale.",
+  "sector": "drugs-biotech",
+  "sourceCategory": "Drugs & Biotech",
+  "sourcePath": "_tech/bio-manufacturing.md",
+  "sourceHash": "23e65da2806e3839436ff2a47f2891004f5b637e9ac3a5613319bac463da0631",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Bio-manufacturing programmes microbes or enzymes to make molecules that are normally derived from petrochemicals or plants. Products range from flavours and cosmetics to nylon precursors and alternative proteins.</p>\n<h2>The Economic Test</h2>\n<p>Fermentation must beat the incumbent on cost at plant scale, not in a lab. Most failures come from scale-up, contamination and downstream purification rather than from the strain itself.</p>\n<h2>Why It Matters</h2>\n<p>It offers a route to materials that are supply-constrained, geographically concentrated or emissions-intensive, and it uses existing fermentation infrastructure.</p>",
+  "bodyMarkdown": "## What This Is\n\nBio-manufacturing programmes microbes or enzymes to make molecules that are normally derived from petrochemicals or plants. Products range from flavours and cosmetics to nylon precursors and alternative proteins.\n\n## The Economic Test\n\nFermentation must beat the incumbent on cost at plant scale, not in a lab. Most failures come from scale-up, contamination and downstream purification rather than from the strain itself.\n\n## Why It Matters\n\nIt offers a route to materials that are supply-constrained, geographically concentrated or emissions-intensive, and it uses existing fermentation infrastructure.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Bio-Manufacturing",
+    "subtitle": "Using engineered cells and enzymes to produce chemicals, materials and food ingredients at industrial scale.",
+    "category": "Drugs & Biotech",
+    "stage": "early_commercial",
+    "confidence_label": "Confident",
+    "est_year": 2029,
+    "est_year_range": "2026-2035",
+    "horizon": "Medium-Term (2029–2030)",
+    "source_count": 0,
+    "stocks": [
+      "dna",
+      "twist-bioscience.us"
+    ],
+    "permalink": "/tech/bio-manufacturing/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "stage": "early_commercial",
+  "confidenceLabel": "Confident",
+  "estimate": "2026-2035",
+  "estimateYear": 2029,
+  "sourceCount": 0,
+  "companies": [
+    "dna",
+    "twist-bioscience.us"
+  ],
+  "businessMeaning": "Ask for the cost curve at commercial titre and the purification cost, not the titre in a shake flask. The buyer comparison is the petrochemical price, which can be cyclical.",
+  "investmentLens": "Exposure includes synthetic-biology tool providers, fermentation capacity owners and specialty chemical companies."
+}

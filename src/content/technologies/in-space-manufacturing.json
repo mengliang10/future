@@ -1,22 +1,22 @@
 {
   "id": "in-space-manufacturing",
   "title": "In-Space Manufacturing",
-  "summary": "Producing superior materials in microgravity \u2014 fiber optics, pharmaceuticals",
+  "summary": "Producing superior materials in microgravity — fiber optics, pharmaceuticals",
   "sector": "space",
   "sourceCategory": "Space Tech",
   "sourcePath": "_tech/in-space-manufacturing.md",
   "sourceHash": "cbda38da68fbaa13cd03b95aa51807825e033d8b7b81a2a73cc98a15aac0f657",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Producing superior materials in microgravity \u2014 fiber optics, pharmaceuticals.</p>\n<p>Fundamental research phase \u2014 concept established, practical implementation remains unsolved. Our research database tracks <strong>14 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:A Dexterous and Compliant Gripper With Soft Hydraulic Actuation for Mi | rel=0.53 | uid:1b1e1d7f66a2c09a</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Basic Research</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.16</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2030\u20132045</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Long-Term (2037)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>14</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/lunar-surface-base/\">Permanent Lunar Surface Base</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nProducing superior materials in microgravity \u2014 fiber optics, pharmaceuticals.\n\nFundamental research phase \u2014 concept established, practical implementation remains unsolved. Our research database tracks **14 independent sources** on this technology.\n\n> RSS:A Dexterous and Compliant Gripper With Soft Hydraulic Actuation for Mi | rel=0.53 | uid:1b1e1d7f66a2c09a\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Basic Research** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.16** |\n| Estimated Deployment | **2030\u20132045** |\n| Horizon | Long-Term (2037) |\n| Independent Sources Tracked | 14 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Permanent Lunar Surface Base](/future/tech/lunar-surface-base/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Producing superior materials in microgravity — fiber optics, pharmaceuticals.</p>\n<p>Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks <strong>14 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:A Dexterous and Compliant Gripper With Soft Hydraulic Actuation for Mi | rel=0.53 | uid:1b1e1d7f66a2c09a</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Basic Research</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.16</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2030–2045</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Long-Term (2037)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>14</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/lunar-surface-base/\">Permanent Lunar Surface Base</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nProducing superior materials in microgravity — fiber optics, pharmaceuticals.\n\nFundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **14 independent sources** on this technology.\n\n> RSS:A Dexterous and Compliant Gripper With Soft Hydraulic Actuation for Mi | rel=0.53 | uid:1b1e1d7f66a2c09a\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Basic Research** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.16** |\n| Estimated Deployment | **2030–2045** |\n| Horizon | Long-Term (2037) |\n| Independent Sources Tracked | 14 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Permanent Lunar Surface Base](/future/tech/lunar-surface-base/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "In-Space Manufacturing",
-    "subtitle": "Producing superior materials in microgravity \u2014 fiber optics, pharmaceuticals",
+    "subtitle": "Producing superior materials in microgravity — fiber optics, pharmaceuticals",
     "category": "Space Tech",
     "stage": "basic_research",
     "confidence_label": "Speculative",
     "est_year": 2037,
-    "est_year_range": "2030\u20132045",
+    "est_year_range": "2030–2045",
     "horizon": "Long-Term (2037)",
     "source_count": 14,
     "stocks": [],
@@ -26,7 +26,7 @@
   "reviewedAt": null,
   "stage": "basic_research",
   "confidenceLabel": "Speculative",
-  "estimate": "2030\u20132045",
+  "estimate": "2030–2045",
   "estimateYear": 2037,
   "sourceCount": 14,
   "companies": [
@@ -41,7 +41,8 @@
     "howmet.us",
     "hexcel.us",
     "syensqo.be",
-    "materion.us"
+    "materion.us",
+    "varda-space.us"
   ],
   "businessMeaning": "",
   "investmentLens": ""

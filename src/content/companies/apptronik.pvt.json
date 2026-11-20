@@ -1,0 +1,27 @@
+{
+  "id": "apptronik.pvt",
+  "title": "Apptronik",
+  "summary": "Austin humanoid developer behind Apollo, with a design philosophy built around manufacturable actuators.",
+  "sector": "robotics",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/apptronik.pvt.md",
+  "sourceHash": "c1e55d994bbe90535af0a8e6d610863890996636ee596965d9748ef2c1d3ba9f",
+  "bodyHtml": "<p>Apptronik grew out of humanoid research at the University of Texas at Austin and worked with NASA on the Valkyrie robot. Its Apollo humanoid is designed around modular actuators and serviceable joints, with an explicit target of a cost low enough for commercial fleets.</p>\n<p>Mercedes-Benz has trialled Apollo for logistics tasks in its plants. Apptronik positions itself as a hardware and controls supplier that others can program, rather than a vertically integrated operator.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Modular linear and rotary actuators developed in-house</li></ul>\n<ul><li>Apollo targets logistics and light manufacturing first</li></ul>\n<ul><li>Partnership model with industrial customers</li></ul>",
+  "bodyMarkdown": "Apptronik grew out of humanoid research at the University of Texas at Austin and worked with NASA on the Valkyrie robot. Its Apollo humanoid is designed around modular actuators and serviceable joints, with an explicit target of a cost low enough for commercial fleets.\n\nMercedes-Benz has trialled Apollo for logistics tasks in its plants. Apptronik positions itself as a hardware and controls supplier that others can program, rather than a vertically integrated operator.\n\n**Why it matters**\n\n- Modular linear and rotary actuators developed in-house\n\n- Apollo targets logistics and light manufacturing first\n\n- Partnership model with industrial customers",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "APT.PVT",
+    "name": "Apptronik",
+    "sector": "Robotics"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "APT.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "The commercial question is whether a humanoid can be maintained by an existing plant maintenance team. Apptronik's bet is that serviceable, modular joints matter more than peak specification.",
+  "investmentLens": "A private hardware play: watch supplier orders for rare-earth magnets, harmonic drives and high-torque motors as the clearest public-market read."
+}

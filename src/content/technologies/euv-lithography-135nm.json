@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "EUV Lithography (13.5nm)",
-    "subtitle": "Extreme ultraviolet patterning enabling sub-7nm chip production; ASML monopoly",
+    "subtitle": "Extreme ultraviolet patterning enabling sub7nm chip production; ASML monopoly",
     "category": "Semiconductors",
     "stage": "mass_production",
     "confidence_label": "Confident",
@@ -22,7 +22,7 @@
     "stocks": [
       "ASML"
     ],
-    "permalink": "/tech/euv-lithography-135nm/"
+    "permalink": "/tech/euvlithography135nm/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 10,
     "stocks": [],
-    "permalink": "/tech/bci-motor-cortex-decoding/"
+    "permalink": "/tech/bcimotorcortexdecoding/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,11 @@
   "estimate": "2026\u20132030",
   "estimateYear": 2027,
   "sourceCount": 10,
-  "companies": [],
+  "companies": [
+    "neuralink.pvt",
+    "synchron.pvt",
+    "blackrock-neurotech.pvt"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

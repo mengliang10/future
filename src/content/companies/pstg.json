@@ -1,0 +1,29 @@
+{
+  "id": "pstg",
+  "title": "Pure Storage",
+  "summary": "US all-flash enterprise storage company selling arrays and subscription services.",
+  "sector": "memory",
+  "sourceCategory": "Memory",
+  "sourcePath": "_stocks/pstg.md",
+  "sourceHash": "69047f543aef96103526a726c7561c98261c6b01c8902411d739aef45260f177",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Pure Storage sells all-flash arrays and a subscription model that includes hardware refresh, which turns a capex purchase into an operating expense. Its FlashBlade line is used for AI training data and checkpoint storage, and the company has been positioning around energy efficiency and rack density as data-centre power becomes constrained. Competition comes from Dell, NetApp and cloud-native storage.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>All-flash arrays and FlashBlade</li>\n<li>Evergreen subscription and services</li>\n<li>AI data pipeline storage</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Subscription mix and renewal rates</li>\n<li>AI storage win rates against hyperscalers</li>\n<li>Gross margin under hardware cost pressure</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPure Storage sells all-flash arrays and a subscription model that includes hardware refresh, which turns a capex purchase into an operating expense. Its FlashBlade line is used for AI training data and checkpoint storage, and the company has been positioning around energy efficiency and rack density as data-centre power becomes constrained. Competition comes from Dell, NetApp and cloud-native storage.\n\n## Technology Exposure\n\n- All-flash arrays and FlashBlade\n- Evergreen subscription and services\n- AI data pipeline storage\n\n## What To Watch\n\n- Subscription mix and renewal rates\n- AI storage win rates against hyperscalers\n- Gross margin under hardware cost pressure\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Pure Storage",
+    "symbol": "PSTG",
+    "exchange": "NYSE",
+    "categories": [
+      "Memory"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "PSTG",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Storage is bought on cost per gigabyte and power per gigabyte; density and efficiency are the pitch when racks are power-limited.",
+  "investmentLens": "A hardware company with software-like recurring revenue; the key metric is subscription attach and renewal, not units."
+}

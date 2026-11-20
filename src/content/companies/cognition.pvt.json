@@ -1,0 +1,29 @@
+{
+  "id": "cognition.pvt",
+  "title": "Cognition",
+  "summary": "US developer of Devin, an autonomous software-engineering agent.",
+  "sector": "ai-agents-software",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/cognition.pvt.md",
+  "sourceHash": "3ababdb208569c45490062cec10cc7e7becc7af50019fc370de3331fc85c062d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Cognition positioned Devin as an AI teammate that can plan, write, test and debug changes across a codebase, sold as a subscription to engineering organisations. The product pushed the industry from autocomplete toward delegated tasks, and the company has acquired adjacent tooling to broaden its stack. Reliability on large repositories and the trust required to let an agent merge code remain the binding constraints.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Devin autonomous engineering agent</li>\n<li>Enterprise engineering subscriptions</li>\n<li>Agent tooling acquisitions</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Task completion rates on real repositories</li>\n<li>Enterprise retention after pilots</li>\n<li>Competition from incumbent coding platforms</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nCognition positioned Devin as an AI teammate that can plan, write, test and debug changes across a codebase, sold as a subscription to engineering organisations. The product pushed the industry from autocomplete toward delegated tasks, and the company has acquired adjacent tooling to broaden its stack. Reliability on large repositories and the trust required to let an agent merge code remain the binding constraints.\n\n## Technology Exposure\n\n- Devin autonomous engineering agent\n- Enterprise engineering subscriptions\n- Agent tooling acquisitions\n\n## What To Watch\n\n- Task completion rates on real repositories\n- Enterprise retention after pilots\n- Competition from incumbent coding platforms\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Cognition",
+    "symbol": "COGNITION.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "COGNITION.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "The unit of value shifts from suggestions to completed tickets; pricing has to reflect work delivered, not seats.",
+  "investmentLens": "Private and early-revenue; the thesis rests on whether delegated engineering becomes a durable budget line."
+}

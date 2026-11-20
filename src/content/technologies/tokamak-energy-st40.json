@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Tokamak Energy ST40",
-    "subtitle": "A compact spherical tokamak using high-temperature superconducting magnets.",
+    "subtitle": "A compact spherical tokamak using hightemperature superconducting magnets.",
     "category": "Energy Tech",
     "stage": "proof_of_concept",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (through 2028)",
     "source_count": 0,
     "stocks": [],
-    "permalink": "/tech/tokamak-energy-st40/"
+    "permalink": "/tech/tokamakenergyst40/"
   },
   "evidenceStatus": "editorial-brief",
   "reviewedAt": "2026-11-18",

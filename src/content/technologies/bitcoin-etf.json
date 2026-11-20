@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Bitcoin Spot ETF (US Regulated)",
-    "subtitle": "SEC-approved Bitcoin spot ETF enabling institutional allocation \u2014 Jan 2024",
+    "subtitle": "SECapproved Bitcoin spot ETF enabling institutional allocation \u2014 Jan 2024",
     "category": "Blockchain",
     "stage": "mass_production",
     "confidence_label": "Confident",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 2,
     "stocks": [],
-    "permalink": "/tech/bitcoin-etf/"
+    "permalink": "/tech/bitcoinetf/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,9 @@
   "estimate": "2020\u20132024",
   "estimateYear": 2022,
   "sourceCount": 2,
-  "companies": [],
+  "companies": [
+    "block"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

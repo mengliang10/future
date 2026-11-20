@@ -1,0 +1,29 @@
+{
+  "id": "zhipu.hk",
+  "title": "Zhipu AI",
+  "summary": "Chinese lab behind the GLM model family, listed in Hong Kong and focused on enterprise and public-sector AI.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/zhipu.hk.md",
+  "sourceHash": "b17baa017cec329cac247470f5b3ef18c9dedcd1271bb73dc575bedbe9dc55fb",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Zhipu, listed as Knowledge Atlas Technology, builds the GLM family and sells assistants, agents and private deployments into Chinese enterprises and government bodies. Its revenue mix is closer to systems integration than pure API sales, which brings services margin and procurement dependence. The company listed in Hong Kong in January 2026 and has used the market repeatedly to fund training.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>GLM foundation models</li>\n<li>Enterprise agents and private deployments</li>\n<li>Public-sector and state-linked contracts</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Losses against training spend</li>\n<li>Domestic price war with other Chinese labs</li>\n<li>Export-control effects on compute</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nZhipu, listed as Knowledge Atlas Technology, builds the GLM family and sells assistants, agents and private deployments into Chinese enterprises and government bodies. Its revenue mix is closer to systems integration than pure API sales, which brings services margin and procurement dependence. The company listed in Hong Kong in January 2026 and has used the market repeatedly to fund training.\n\n## Technology Exposure\n\n- GLM foundation models\n- Enterprise agents and private deployments\n- Public-sector and state-linked contracts\n\n## What To Watch\n\n- Losses against training spend\n- Domestic price war with other Chinese labs\n- Export-control effects on compute\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Zhipu AI",
+    "symbol": "2513.HK",
+    "exchange": "HKEX",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "2513.HK",
+  "exchange": "HKEX",
+  "private": false,
+  "businessMeaning": "Where procurement is local, a domestic lab with government relationships can win work that a better model cannot.",
+  "investmentLens": "Listed in Hong Kong; the reported losses matter more than benchmark parity."
+}

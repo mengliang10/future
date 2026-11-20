@@ -1,0 +1,27 @@
+{
+  "id": "zipline.us",
+  "title": "Zipline",
+  "summary": "Drone delivery company that began with medical supplies in Africa and now runs retail delivery in the United States.",
+  "sector": "autonomous",
+  "sectors": [
+    "space"
+  ],
+  "sourceCategory": "Autonomous & AV",
+  "sourcePath": "_stocks/zipline.us.md",
+  "sourceHash": "26ba3481bf3ac5a59cbc1d24e31de4836fe32329535b9aba9aa8f0672668992c",
+  "bodyHtml": "<p>Zipline operates autonomous fixed-wing drones that drop packages by parachute or lower them on a tether. It started delivering blood and medicines in Rwanda and Ghana, where road access is slow.</p>\n<p>Its Platform 2 aircraft serves retail and food delivery in the United States, working with partners such as Walmart. Operations combine aircraft, docking stations and air-traffic integration.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Long-range fixed-wing drones</li></ul>\n<ul><li>Medical and retail delivery</li></ul>\n<ul><li>Own logistics and airspace software</li></ul>",
+  "bodyMarkdown": "Zipline operates autonomous fixed-wing drones that drop packages by parachute or lower them on a tether. It started delivering blood and medicines in Rwanda and Ghana, where road access is slow.\n\nIts Platform 2 aircraft serves retail and food delivery in the United States, working with partners such as Walmart. Operations combine aircraft, docking stations and air-traffic integration.\n\n**Why it matters**\n\n- Long-range fixed-wing drones\n\n- Medical and retail delivery\n\n- Own logistics and airspace software",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "ZIPLINE.PVT",
+    "name": "Zipline",
+    "sector": "Autonomous & AV"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "ZIPLINE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Drone delivery works where density and willingness to pay are high, or where roads are bad. The unit economics depend on aircraft utilisation and docking density.",
+  "investmentLens": "Private; the suppliers of batteries, composites and avionics capture spend before the operator earns a margin."
+}

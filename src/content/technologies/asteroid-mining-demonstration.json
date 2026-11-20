@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Asteroid Mining Demonstration",
-    "subtitle": "First retrieval of material from near-Earth asteroid for in-space use",
+    "subtitle": "First retrieval of material from nearEarth asteroid for inspace use",
     "category": "Space Tech",
     "stage": "basic_research",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Long-Term (2040)",
     "source_count": 23,
     "stocks": [],
-    "permalink": "/tech/asteroid-mining-demonstration/"
+    "permalink": "/tech/asteroidminingdemonstration/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

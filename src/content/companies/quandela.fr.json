@@ -1,0 +1,27 @@
+{
+  "id": "quandela.fr",
+  "title": "Quandela",
+  "summary": "Paris photonic quantum computing company building machines that use single photons as qubits.",
+  "sector": "quantum",
+  "sectors": [
+    "semiconductors"
+  ],
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/quandela.fr.md",
+  "sourceHash": "603b1df1a33f5a9ae374bec2671fdf4f37aedbc5ec0260743b7c9dc6afff564f",
+  "bodyHtml": "<p>Quandela builds photonic quantum computers and the single-photon sources that make them possible. Its Prometheus system uses deterministic photon sources and linear optics instead of superconducting circuits.</p>\n<p>Photonic approaches can operate at room temperature for parts of the stack and can reuse semiconductor manufacturing, but they still require very low-loss components and fast detectors.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Deterministic single-photon sources</li></ul>\n<ul><li>Photonic quantum processors</li></ul>\n<ul><li>Cloud access to photonic machines</li></ul>",
+  "bodyMarkdown": "Quandela builds photonic quantum computers and the single-photon sources that make them possible. Its Prometheus system uses deterministic photon sources and linear optics instead of superconducting circuits.\n\nPhotonic approaches can operate at room temperature for parts of the stack and can reuse semiconductor manufacturing, but they still require very low-loss components and fast detectors.\n\n**Why it matters**\n\n- Deterministic single-photon sources\n\n- Photonic quantum processors\n\n- Cloud access to photonic machines",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "QUANDELA.PVT",
+    "name": "Quandela",
+    "sector": "Quantum"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "QUANDELA.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Photonics could borrow more of the semiconductor supply chain than cryogenic approaches. The engineering question is loss and detector efficiency at scale.",
+  "investmentLens": "Private; the read sits with laser, detector and photonic packaging suppliers."
+}

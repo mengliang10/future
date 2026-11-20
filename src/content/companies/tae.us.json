@@ -1,0 +1,27 @@
+{
+  "id": "tae.us",
+  "title": "TAE Technologies",
+  "summary": "California fusion company developing a field-reversed configuration and compact reactor design.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/tae.us.md",
+  "sourceHash": "e96670865c451909b54ee83791c67a937858d917126e3737baa01d630e894af1",
+  "bodyHtml": "<p>TAE Technologies pursues a field-reversed configuration, a compact plasma shape that can be heated and sustained with neutral beams. The company has run a series of prototype machines and is designing a larger demonstration.</p>\n<p>It also develops power-management and beam technology that has applications beyond fusion.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Field-reversed configuration</li></ul>\n<ul><li>Neutral-beam heating</li></ul>\n<ul><li>Compact reactor design</li></ul>",
+  "bodyMarkdown": "TAE Technologies pursues a field-reversed configuration, a compact plasma shape that can be heated and sustained with neutral beams. The company has run a series of prototype machines and is designing a larger demonstration.\n\nIt also develops power-management and beam technology that has applications beyond fusion.\n\n**Why it matters**\n\n- Field-reversed configuration\n\n- Neutral-beam heating\n\n- Compact reactor design",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "TAE.PVT",
+    "name": "TAE Technologies",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "TAE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "TAE's approach is a bet on a simpler magnetic geometry than a tokamak, at the cost of plasma stability challenges.",
+  "investmentLens": "Private; a long-horizon fusion bet with a deep patent portfolio."
+}

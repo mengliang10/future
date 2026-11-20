@@ -1,0 +1,29 @@
+{
+  "id": "paradromics.pvt",
+  "title": "Paradromics",
+  "summary": "US developer of a high-channel-count cortical implant for speech and movement restoration.",
+  "sector": "bci",
+  "sourceCategory": "BCI",
+  "sourcePath": "_stocks/paradromics.pvt.md",
+  "sourceHash": "6e7d8e11390e48866d2733845378ac909aa004511a52113b5f5d41b2b46420cb",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Paradromics is building the Connexus implant, aimed at thousands of recording channels with a fully implantable, wireless design. Its initial target is severe communication loss, where decoding speech from cortical activity could restore faster interaction than eye-tracking systems. The company has FDA breakthrough designation and is working through the preclinical and early clinical steps that precede any commercial claim.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Connexus high-channel implant</li>\n<li>Speech decoding for severe paralysis</li>\n<li>Wireless data and power link</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>First-in-human safety results</li>\n<li>Channel count and signal stability</li>\n<li>Manufacturing yield for implantable electronics</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nParadromics is building the Connexus implant, aimed at thousands of recording channels with a fully implantable, wireless design. Its initial target is severe communication loss, where decoding speech from cortical activity could restore faster interaction than eye-tracking systems. The company has FDA breakthrough designation and is working through the preclinical and early clinical steps that precede any commercial claim.\n\n## Technology Exposure\n\n- Connexus high-channel implant\n- Speech decoding for severe paralysis\n- Wireless data and power link\n\n## What To Watch\n\n- First-in-human safety results\n- Channel count and signal stability\n- Manufacturing yield for implantable electronics\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Paradromics",
+    "symbol": "PARADROMICS.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "BCI"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "PARADROMICS.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Speech restoration has a clearer clinical and economic case than general-purpose augmentation, which is why it is the first target.",
+  "investmentLens": "Private and early; a long-dated option on implantable neurotechnology rather than a current revenue business."
+}

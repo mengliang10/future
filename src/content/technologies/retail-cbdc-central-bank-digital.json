@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Retail CBDC (Central Bank Digital)",
-    "subtitle": "Government-issued digital currency on DLT \u2014 China e-CNY, ECB digital euro",
+    "subtitle": "Governmentissued digital currency on DLT \u2014 China eCNY, ECB digital euro",
     "category": "Blockchain",
     "stage": "pilot",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (2027\u20132028)",
     "source_count": 6,
     "stocks": [],
-    "permalink": "/tech/retail-cbdc-central-bank-digital/"
+    "permalink": "/tech/retailcbdccentralbankdigital/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

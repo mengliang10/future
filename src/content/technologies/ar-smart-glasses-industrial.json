@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 10,
     "stocks": [],
-    "permalink": "/tech/ar-smart-glasses-industrial/"
+    "permalink": "/tech/arsmartglassesindustrial/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,11 @@
   "estimate": "2027\u20132031",
   "estimateYear": 2028,
   "sourceCount": 10,
-  "companies": [],
+  "companies": [
+    "vuzix.us",
+    "magic-leap.pvt",
+    "lumus.pvt"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

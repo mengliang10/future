@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Floating Offshore Wind",
-    "subtitle": "Turbines on floating platforms for deep-water offshore deployment",
+    "subtitle": "Turbines on floating platforms for deepwater offshore deployment",
     "category": "Energy Tech",
     "stage": "pilot",
     "confidence_label": "Speculative",
@@ -22,7 +22,7 @@
     "stocks": [
       "GEV"
     ],
-    "permalink": "/tech/floating-offshore-wind/"
+    "permalink": "/tech/floatingoffshorewind/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

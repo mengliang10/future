@@ -1,0 +1,27 @@
+{
+  "id": "orca-computing.uk",
+  "title": "ORCA Computing",
+  "summary": "London company building photonic quantum computers with a modular, fibre-connected design.",
+  "sector": "quantum",
+  "sectors": [
+    "semiconductors"
+  ],
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/orca-computing.uk.md",
+  "sourceHash": "1d8a6b389a5307e9ac9cbc5f86470615fb2d4080e86437f9966fad73d0285bbc",
+  "bodyHtml": "<p>ORCA Computing develops photonic quantum systems built from modules connected by optical fibre, aiming at a path to scale without a single monolithic cryostat.</p>\n<p>The company has worked with research and enterprise partners on early quantum machine-learning and optimisation experiments.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Modular photonic architecture</li></ul>\n<ul><li>Fibre-linked quantum modules</li></ul>\n<ul><li>Early enterprise access</li></ul>",
+  "bodyMarkdown": "ORCA Computing develops photonic quantum systems built from modules connected by optical fibre, aiming at a path to scale without a single monolithic cryostat.\n\nThe company has worked with research and enterprise partners on early quantum machine-learning and optimisation experiments.\n\n**Why it matters**\n\n- Modular photonic architecture\n\n- Fibre-linked quantum modules\n\n- Early enterprise access",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "ORCA.PVT",
+    "name": "ORCA Computing",
+    "sector": "Quantum"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "ORCA.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Modularity is attractive because it turns a manufacturing problem into a networking problem, but every module adds loss.",
+  "investmentLens": "Private; a long-horizon photonics bet rather than a near-term revenue story."
+}

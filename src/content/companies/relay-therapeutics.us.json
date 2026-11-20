@@ -1,0 +1,27 @@
+{
+  "id": "relay-therapeutics.us",
+  "title": "Relay Therapeutics",
+  "summary": "Cambridge, Massachusetts biotech designing drugs against protein motion rather than static structures.",
+  "sector": "drugs-biotech",
+  "sectors": [
+    "llms-models"
+  ],
+  "sourceCategory": "Drugs & Biotech",
+  "sourcePath": "_stocks/relay-therapeutics.us.md",
+  "sourceHash": "96d0bbe39e64f375e38460a7e24289aff41682eb25e16f57534b623ce2ad85b0",
+  "bodyHtml": "<p>Relay Therapeutics combines computational modelling with experimental techniques to observe how proteins move, then designs molecules that exploit those motions.</p>\n<p>Its pipeline targets oncology and genetic disease, and the platform is meant to reach binding sites that static structure approaches miss.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Protein dynamics modelling</li></ul>\n<ul><li>Structure-based drug design</li></ul>\n<ul><li>Oncology pipeline</li></ul>",
+  "bodyMarkdown": "Relay Therapeutics combines computational modelling with experimental techniques to observe how proteins move, then designs molecules that exploit those motions.\n\nIts pipeline targets oncology and genetic disease, and the platform is meant to reach binding sites that static structure approaches miss.\n\n**Why it matters**\n\n- Protein dynamics modelling\n\n- Structure-based drug design\n\n- Oncology pipeline",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "RLAY",
+    "name": "Relay Therapeutics",
+    "sector": "Drugs & Biotech"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "RLAY",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Protein motion is a genuine source of undruggable targets. The platform is validated only by clinical data, not by software performance.",
+  "investmentLens": "A listed clinical-stage biotech whose value depends on trial readouts and cash runway."
+}

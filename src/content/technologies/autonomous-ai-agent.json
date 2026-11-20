@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Autonomous AI Agent",
-    "subtitle": "AI that plans, uses tools, and executes multi-step tasks with minimal human input",
+    "subtitle": "AI that plans, uses tools, and executes multistep tasks with minimal human input",
     "category": "AI & Cloud",
     "stage": "early_commercial",
     "confidence_label": "Speculative",
@@ -22,7 +22,7 @@
     "stocks": [
       "MSFT"
     ],
-    "permalink": "/tech/autonomous-ai-agent/"
+    "permalink": "/tech/autonomousaiagent/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

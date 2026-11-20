@@ -1,7 +1,7 @@
 {
   "id": "groq.pvt",
   "title": "Groq",
-  "summary": "",
+  "summary": "Groq's LPU (Language Processing Unit) architecture delivers unprecedented speed for real-time AI inference, crucial for agentic workflows.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_stocks/groq.pvt.md",
@@ -25,5 +25,8 @@
   "exchange": "PRIVATE",
   "private": true,
   "businessMeaning": "",
-  "investmentLens": ""
+  "investmentLens": "",
+  "sectors": [
+    "llms-models"
+  ]
 }

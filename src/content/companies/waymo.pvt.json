@@ -1,7 +1,7 @@
 {
   "id": "waymo.pvt",
   "title": "Waymo",
-  "summary": "",
+  "summary": "Waymo is the undisputed leader in autonomous ride-hailing, with thousands of driverless miles logged daily across major US cities.",
   "sector": "autonomous",
   "sourceCategory": "Autonomous Vehicles",
   "sourcePath": "_stocks/waymo.pvt.md",

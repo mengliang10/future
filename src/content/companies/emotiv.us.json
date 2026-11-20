@@ -1,0 +1,27 @@
+{
+  "id": "emotiv.us",
+  "title": "Emotiv",
+  "summary": "San Francisco maker of consumer and research EEG headsets and brain-data software.",
+  "sector": "bci",
+  "sectors": [
+    "applied-ai"
+  ],
+  "sourceCategory": "BCI",
+  "sourcePath": "_stocks/emotiv.us.md",
+  "sourceHash": "397d1b5420366784f3b3fde206942198f35590d457fb791b7da787f22e23a42b",
+  "bodyHtml": "<p>Emotiv sells EEG headsets and an analysis platform used in research, neuro-marketing and consumer applications.</p>\n<p>Its ecosystem of developers and datasets is the main asset, because dry-electrode signal quality is otherwise easy to copy.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Consumer EEG headsets</li></ul>\n<ul><li>Research software platform</li></ul>\n<ul><li>Developer ecosystem</li></ul>",
+  "bodyMarkdown": "Emotiv sells EEG headsets and an analysis platform used in research, neuro-marketing and consumer applications.\n\nIts ecosystem of developers and datasets is the main asset, because dry-electrode signal quality is otherwise easy to copy.\n\n**Why it matters**\n\n- Consumer EEG headsets\n\n- Research software platform\n\n- Developer ecosystem",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "EMOTIV.PVT",
+    "name": "Emotiv",
+    "sector": "BCI"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "EMOTIV.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "The hardware is commoditising; the durable layer is the signal-processing and dataset pipeline.",
+  "investmentLens": "Private; a low-cost way to track non-invasive BCI adoption."
+}

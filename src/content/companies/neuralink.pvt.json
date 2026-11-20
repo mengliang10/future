@@ -1,0 +1,29 @@
+{
+  "id": "neuralink.pvt",
+  "title": "Neuralink",
+  "summary": "US implantable brain-computer interface company founded by Elon Musk.",
+  "sector": "bci",
+  "sourceCategory": "BCI",
+  "sourcePath": "_stocks/neuralink.pvt.md",
+  "sourceHash": "85e40236d7a60c45a2f6e57d808554be14b2621d517ee69c15cf6bbbc84a4993",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Neuralink is developing a high-channel-count implant and a surgical robot designed to place flexible electrode threads without opening the skull widely. Its first human participants have used the device to control a cursor and play games, and the company is pushing toward speech decoding and higher channel counts. The technology is ambitious, but regulatory scrutiny, surgical risk and the long validation path for medical claims are the real constraints.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>N1 implant and R1 surgical robot</li>\n<li>Cursor and speech decoding applications</li>\n<li>Clinical trial expansion</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Trial approvals and adverse events</li>\n<li>Channel count and longevity in humans</li>\n<li>Reimbursement path for implantation</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNeuralink is developing a high-channel-count implant and a surgical robot designed to place flexible electrode threads without opening the skull widely. Its first human participants have used the device to control a cursor and play games, and the company is pushing toward speech decoding and higher channel counts. The technology is ambitious, but regulatory scrutiny, surgical risk and the long validation path for medical claims are the real constraints.\n\n## Technology Exposure\n\n- N1 implant and R1 surgical robot\n- Cursor and speech decoding applications\n- Clinical trial expansion\n\n## What To Watch\n\n- Trial approvals and adverse events\n- Channel count and longevity in humans\n- Reimbursement path for implantation\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Neuralink",
+    "symbol": "NEURALINK.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "BCI"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "NEURALINK.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "A high-bandwidth implant is a platform, not a product; the first medical indication only proves the surgical and signal pathway.",
+  "investmentLens": "Private and pre-revenue; the near-term read-across is to neurosurgical tools and electrode materials, not to a listed BCI pure play."
+}

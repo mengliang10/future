@@ -1,11 +1,25 @@
 ---
 import {url, base} from '../lib/base';
+import TechSignal from './TechSignal.astro';
+import {displayTitle} from '../lib/catalogue';
 const {type,record,block,sector,title,number,total}=Astro.props;
 const field=(key)=>`${record?.id||block?.id}:${key}`;
+const accent=(record&&record.sector)||'#183d33';
 ---
 <section class:list={['slide',`slide-${type}`]} data-slide-id={type==='technology'?`tech:${record.id}`:type==='block'?`block:${block.id}`:type} data-record-id={record?.id||block?.id}>
 <div class="slide-top"><span>The Future Tomorrow</span><span>{sector?.title||'Research briefing'}</span></div>
-{type==='cover'?<div class="cover-content"><span class="slide-eyebrow">Technology / Business / Investment</span><h1>{title}</h1><p>Understand the technology.<br/>Question the commercial story.</p><a href="#/1">Start the briefing →</a></div>:type==='technology'?<div class="tech-content"><span class="slide-eyebrow">Technology record / Imported research</span><h2 data-field="title" data-ref={field('title')}>{record.title}</h2><p class="slide-summary" data-field="summary" data-ref={field('summary')}>{record.summary||'See the research notes for the original technology description.'}</p><div class="slide-facts"><div><span>Source stage</span><strong data-field="stage" data-ref={field('stage')}>{record.stage.replaceAll('_',' ')}</strong></div><div><span>Estimated window</span><strong data-field="estimate" data-ref={field('estimate')}>{record.estimate}</strong></div></div><div class="slide-lenses"><div><span>Business question</span><p data-field="businessMeaning" data-ref={field('businessMeaning')}>{record.businessMeaning||sector.businessQuestion}</p></div><div><span>Investment question</span><p data-field="investmentLens" data-ref={field('investmentLens')}>{record.investmentLens||sector.investorQuestion}</p></div></div><a href={url(`/tech/${record.id}/`)} target="_blank" rel="noopener noreferrer">Read the research & sources ↗</a></div>:<div class="block-content"><span class="slide-eyebrow">A reusable research framework</span><h2 data-field="title" data-ref={field('title')}>{block.title}</h2><ol>{block.points.map((point,i)=><li data-ref={`${block.id}:points.${i}`}>{point}</li>)}</ol></div>}
+{type==='cover'?<div class="cover-content"><span class="slide-eyebrow">Technology / Business / Investment</span><h1>{title}</h1><p>Understand the technology.<br/>Question the commercial story.</p><a href="#/1">Start the briefing →</a></div>:type==='technology'?<div class="tech-content"><span class="slide-eyebrow">Technology record / Imported research</span><h2 data-field="title" data-ref={field('title')}>{displayTitle(record.title)}</h2><p class="slide-summary" data-field="summary" data-ref={field('summary')}>{record.summary||'See the research notes for the original technology description.'}</p><TechSignal record={record} accent={accent}/><div class="slide-facts"><div><span>Source stage</span><strong data-field="stage" data-ref={field('stage')}>{record.stage.replaceAll('_',' ')}</strong></div><div><span>Estimated window</span><strong data-field="estimate" data-ref={field('estimate')}>{record.estimate}</strong></div><div><span>Independent sources</span><strong>{record.sourceCount ?? 0}</strong></div><div><span>Linked companies</span><strong>{record.companies?.length ?? 0}</strong></div></div><div class="slide-lenses"><div><span>Business question</span><p data-field="businessMeaning" data-ref={field('businessMeaning')}>{record.businessMeaning||sector.businessQuestion}</p></div><div><span>Investment question</span><p data-field="investmentLens" data-ref={field('investmentLens')}>{record.investmentLens||sector.investorQuestion}</p></div></div><a href={url(`/tech/${record.id}/`)} target="_blank" rel="noopener noreferrer">Read the research & sources ↗</a></div>:<div class="block-content"><span class="slide-eyebrow">A reusable research framework</span><h2 data-field="title" data-ref={field('title')}>{block.title}</h2><ol>{block.points.map((point,i)=><li data-ref={`${block.id}:points.${i}`}>{point}</li>)}</ol></div>}
 <div class="slide-bottom"><span>Imported evidence · Estimates are not guarantees</span><span>{String(number).padStart(2,'0')} / {total}</span></div>
 <aside class="notes">{type==='technology'?`Stable record: ${record.id}. Source: ${record.sourcePath}. ${record.confidenceLabel}. Read the full record before presenting its commercial implications.`:type==='block'?block.points.join('\n'):title}</aside>
 </section>
+
+<style>
+  .tech-content h2 { font-size: 44px; }
+  .tech-content .slide-summary { font-size: 24px; line-height: 1.4; margin: 14px 0 12px; }
+  .tech-content .slide-facts { padding: 14px 22px; margin-bottom: 16px; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+  .tech-content .slide-facts strong { font-size: 20px; }
+  .tech-content .slide-facts span, .tech-content .slide-lenses span { font-size: 12px; margin-bottom: 6px; }
+  .tech-content .slide-lenses { gap: 28px; }
+  .tech-content .slide-lenses p { font-size: 19px; line-height: 1.4; margin-bottom: 12px; }
+  .tech-content > a { font-size: 17px; }
+</style>

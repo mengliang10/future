@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Partial Epigenetic Reprogramming",
-    "subtitle": "Yamanaka factor-based reset of epigenetic age \u2014 Altos Labs, Calico research",
+    "subtitle": "Yamanaka factorbased reset of epigenetic age \u2014 Altos Labs, Calico research",
     "category": "Biotech",
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2031\u20132035)",
     "source_count": 6,
     "stocks": [],
-    "permalink": "/tech/partial-epigenetic-reprogramming/"
+    "permalink": "/tech/partialepigeneticreprogramming/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

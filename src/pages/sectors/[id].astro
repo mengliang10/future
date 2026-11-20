@@ -3,6 +3,7 @@ import {url, base} from '../../lib/base';
 import {sourceLinks} from '../../lib/source-links';
 import Site from '../../layouts/Site.astro';
 import Browse from '../../components/Browse.astro';
+import SectorPortrait from '../../components/SectorPortrait.astro';
 import Icon from '../../components/Icon.astro';
 import {records} from '../../lib/catalogue';
 import {visualFor} from '../../lib/visuals';
@@ -24,7 +25,7 @@ const v = visualFor(sector.id);
 const sectorDecks = decks.filter(d=>d.sector===sector.id);
 const primaryDeck = sectorDecks.find(d=>d.id===`${sector.id}-01`) || sectorDecks[0];
 const sectorTech = tech.filter(t=>t.sector===sector.id);
-const sectorCompanies = companies.filter(c=>c.sector===sector.id);
+const sectorCompanies = companies.filter(c=>c.sector===sector.id || (c.sectors||[]).includes(sector.id));
 ---
 <Site title={sector.title} active="Future Tech">
   <div class="container page sector-detail-page">
@@ -56,12 +57,20 @@ const sectorCompanies = companies.filter(c=>c.sector===sector.id);
           <div class="sector-banner-actions">
             <a class="deck-cta-btn" href={url(`/presentations/${primaryDeck.id}/`)} data-astro-reload>
               <Icon name="slides" size={15}/>
-              <span>Open Briefing Slides ({primaryDeck.technologies.length + 3} slides) →</span>
+              <span>Open Briefing Slides ({(primaryDeck.slides && primaryDeck.slides.length ? primaryDeck.slides.length + 1 : primaryDeck.technologies.length + 4)} slides) →</span>
             </a>
           </div>
         )}
       </div>
     </header>
+
+    <section class="sector-portrait-section" aria-label={`${sector.title} at a glance`}>
+      <div class="section-heading-row">
+        <h2>{sector.title} at a glance</h2>
+        <span class="records-counter">Derived from imported records</span>
+      </div>
+      <SectorPortrait technologies={sectorTech} companies={sectorCompanies} accent={v.color}/>
+    </section>
 
     <section class="sector-content-section">
       <div class="section-heading-row">
@@ -212,5 +221,12 @@ const sectorCompanies = companies.filter(c=>c.sector===sector.id);
 }
 .companies-section {
   margin-top: 50px;
+}
+.sector-portrait-section {
+  margin: 0 0 34px;
+  padding: 20px 24px 12px;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 8px;
 }
 </style>

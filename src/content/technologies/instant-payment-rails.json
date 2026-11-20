@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Instant Payment Rails",
-    "subtitle": "Real-time, always-on payment settlement infrastructure (PIX, Bizum, UPI, FedNow) projected to han...",
+    "subtitle": "Realtime, alwayson payment settlement infrastructure (PIX, Bizum, UPI, FedNow) projected to han...",
     "category": "Financial Markets",
     "stage": "early_commercial",
     "confidence_label": "Confirmed",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 1,
     "stocks": [],
-    "permalink": "/tech/instant-payment-rails/"
+    "permalink": "/tech/instantpaymentrails/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,9 @@
   "estimate": "2025\u20132027",
   "estimateYear": 2026,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "circle"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

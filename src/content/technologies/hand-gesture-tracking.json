@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Hand / Gesture Tracking",
-    "subtitle": "Controller-free hand tracking via cameras \u2014 Meta Quest, Leap Motion",
+    "subtitle": "Controllerfree hand tracking via cameras \u2014 Meta Quest, Leap Motion",
     "category": "XR",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 7,
     "stocks": [],
-    "permalink": "/tech/hand-gesture-tracking/"
+    "permalink": "/tech/handgesturetracking/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,9 @@
   "estimate": "2018\u20132022",
   "estimateYear": 2020,
   "sourceCount": 7,
-  "companies": [],
+  "companies": [
+    "magic-leap.pvt"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

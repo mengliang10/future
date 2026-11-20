@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "LEO Satellite Internet Constellation",
-    "subtitle": "Low-latency broadband from LEO \u2014 Starlink (6000+ sats), OneWeb, Amazon Kuiper",
+    "subtitle": "Lowlatency broadband from LEO \u2014 Starlink (6000+ sats), OneWeb, Amazon Kuiper",
     "category": "Space Tech",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -22,7 +22,7 @@
     "stocks": [
       "ASTS"
     ],
-    "permalink": "/tech/leo-satellite-internet-constellation/"
+    "permalink": "/tech/leosatelliteinternetconstellation/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

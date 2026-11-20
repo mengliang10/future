@@ -1,0 +1,27 @@
+{
+  "id": "natron-energy.us",
+  "title": "Natron Energy",
+  "summary": "Santa Clara company commercialising sodium-ion batteries for industrial and grid applications.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/natron-energy.us.md",
+  "sourceHash": "fd5f4eccd62df5ff36226f6b02d72d0f2550fd311a55cb9719dd5166b094a81a",
+  "bodyHtml": "<p>Natron builds sodium-ion cells using Prussian-blue electrode materials, avoiding lithium, cobalt and nickel. The chemistry trades energy density for cost, safety and fast charging.</p>\n<p>Its first market is data-centre and industrial backup, where space is less constrained than in vehicles.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Prussian-blue chemistry</li></ul>\n<ul><li>Sodium-ion cells</li></ul>\n<ul><li>Industrial and data-centre backup</li></ul>",
+  "bodyMarkdown": "Natron builds sodium-ion cells using Prussian-blue electrode materials, avoiding lithium, cobalt and nickel. The chemistry trades energy density for cost, safety and fast charging.\n\nIts first market is data-centre and industrial backup, where space is less constrained than in vehicles.\n\n**Why it matters**\n\n- Prussian-blue chemistry\n\n- Sodium-ion cells\n\n- Industrial and data-centre backup",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "NATRON.PVT",
+    "name": "Natron Energy",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "NATRON.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Sodium-ion is attractive where lithium price and fire risk dominate. Data-centre backup is a large, conservative buyer.",
+  "investmentLens": "Private; the thesis is lithium-price hedging rather than vehicle performance."
+}

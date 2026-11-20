@@ -1,0 +1,29 @@
+{
+  "id": "perplexity.pvt",
+  "title": "Perplexity AI",
+  "summary": "US answer-engine company combining retrieval with its own Sonar models.",
+  "sector": "llms-models",
+  "sourceCategory": "Generative AI",
+  "sourcePath": "_stocks/perplexity.pvt.md",
+  "sourceHash": "650af5d2a87ad7c754da7f7a93180366b7c546152dfc138140d9ae9aa5d1a352",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Perplexity replaced the ten-blue-links result page with a cited answer and a follow-up conversation, and sells subscriptions plus a developer API for its Sonar models. The product depends on live web retrieval rather than training data alone, which keeps answers current and makes the search index a strategic asset. Competition from Google's AI overviews and the general assistants is the central risk, and publisher licensing has become a cost of doing business.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Sonar models and search API</li>\n<li>Consumer and enterprise subscriptions</li>\n<li>Commerce and advertising experiments</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Publisher licensing and copyright litigation</li>\n<li>Retention against free assistant answers</li>\n<li>Cost per answered query</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nPerplexity replaced the ten-blue-links result page with a cited answer and a follow-up conversation, and sells subscriptions plus a developer API for its Sonar models. The product depends on live web retrieval rather than training data alone, which keeps answers current and makes the search index a strategic asset. Competition from Google's AI overviews and the general assistants is the central risk, and publisher licensing has become a cost of doing business.\n\n## Technology Exposure\n\n- Sonar models and search API\n- Consumer and enterprise subscriptions\n- Commerce and advertising experiments\n\n## What To Watch\n\n- Publisher licensing and copyright litigation\n- Retention against free assistant answers\n- Cost per answered query\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Perplexity AI",
+    "symbol": "PERPLEXITY.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Generative AI"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "PERPLEXITY.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "If answers replace clicks, the party that owns the retrieval layer captures the question and the advertising or commerce that follows.",
+  "investmentLens": "Private and loss-making; the investment question is whether a search front end can hold pricing against bundled assistants."
+}

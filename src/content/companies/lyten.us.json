@@ -1,0 +1,27 @@
+{
+  "id": "lyten.us",
+  "title": "Lyten",
+  "summary": "San Jose company using three-dimensional graphene for lithium-sulfur batteries and composite materials.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/lyten.us.md",
+  "sourceHash": "4bd9240ce69d6c624ecc1d9c71fb3d1339e286b84b1ff32d18909c20225239ab",
+  "bodyHtml": "<p>Lyten manufactures a 3D graphene material and uses it in lithium-sulfur batteries, which avoid nickel and cobalt and can be much lighter than lithium-ion.</p>\n<p>The company also sells graphene-enhanced composites and sensors, giving it revenue beyond the battery programme.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Lithium-sulfur cells</li></ul>\n<ul><li>3D graphene manufacturing</li></ul>\n<ul><li>Composites and sensors</li></ul>",
+  "bodyMarkdown": "Lyten manufactures a 3D graphene material and uses it in lithium-sulfur batteries, which avoid nickel and cobalt and can be much lighter than lithium-ion.\n\nThe company also sells graphene-enhanced composites and sensors, giving it revenue beyond the battery programme.\n\n**Why it matters**\n\n- Lithium-sulfur cells\n\n- 3D graphene manufacturing\n\n- Composites and sensors",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "LYTEN.PVT",
+    "name": "Lyten",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "LYTEN.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Lithium-sulfur has long promised high energy density with cheap materials but suffered from cycle life. Manufacturing the graphene at scale is the differentiator.",
+  "investmentLens": "Private; a materials platform with a battery option rather than a pure battery bet."
+}

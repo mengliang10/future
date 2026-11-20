@@ -1,0 +1,29 @@
+{
+  "id": "together.ai",
+  "title": "Together AI",
+  "summary": "US cloud that hosts open-weight models for training and inference through a unified API.",
+  "sector": "llms-models",
+  "sourceCategory": "Generative AI",
+  "sourcePath": "_stocks/together.ai.md",
+  "sourceHash": "58a5f4406e284a669bf64cc5d9cd7d7bd834e2c91e85f36af59ae94185cd5d37",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Together provides GPU capacity and an inference stack for open models, letting companies run Llama, Qwen or Mistral-class weights without owning clusters. Its business is a spread between rented compute and sold tokens, so utilisation and scheduling efficiency decide profitability. The company also funds open-model research, which keeps a supply of weights its platform can serve.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>GPU clusters for training and fine-tuning</li>\n<li>Serverless inference for open models</li>\n<li>Research models and checkpoints</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Gross margin under token price deflation</li>\n<li>GPU supply and contract pricing</li>\n<li>Differentiation from hyperscaler model catalogues</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTogether provides GPU capacity and an inference stack for open models, letting companies run Llama, Qwen or Mistral-class weights without owning clusters. Its business is a spread between rented compute and sold tokens, so utilisation and scheduling efficiency decide profitability. The company also funds open-model research, which keeps a supply of weights its platform can serve.\n\n## Technology Exposure\n\n- GPU clusters for training and fine-tuning\n- Serverless inference for open models\n- Research models and checkpoints\n\n## What To Watch\n\n- Gross margin under token price deflation\n- GPU supply and contract pricing\n- Differentiation from hyperscaler model catalogues\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Together AI",
+    "symbol": "TOGETHER.AI",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Generative AI"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "TOGETHER.AI",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Most enterprises will consume open models through a managed endpoint; the provider that serves them cheapest wins the workload.",
+  "investmentLens": "Private; watch token pricing and capacity announcements as the operating metric."
+}

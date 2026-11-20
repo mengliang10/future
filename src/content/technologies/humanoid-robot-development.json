@@ -16,20 +16,25 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2033,
-    "est_year_range": "2032\u20132037",
-    "horizon": "Medium-Term (2029\u20132033)",
+    "est_year_range": "2032–2037",
+    "horizon": "Medium-Term (2029–2033)",
     "source_count": 1,
     "stocks": [],
-    "permalink": "/tech/humanoid-robot-development/"
+    "permalink": "/tech/humanoidrobotdevelopment/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2032\u20132037",
+  "estimate": "2032–2037",
   "estimateYear": 2033,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "agility-robotics.pvt",
+    "apptronik.pvt",
+    "boston-dynamics.pvt",
+    "galbot.cn"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

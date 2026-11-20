@@ -1,0 +1,25 @@
+{
+  "id": "skywater.us",
+  "title": "SkyWater Technology",
+  "summary": "US foundry specialising in defence, rad-hard and specialty process development.",
+  "sector": "semiconductors",
+  "sectors": [],
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/skywater.us.md",
+  "sourceHash": "3d08dcbf38cb7c314084e0f840fff8784fa1b297dfcc5e055be84e60dbbb504f",
+  "bodyHtml": "<p>SkyWater runs a foundry in Bloomington, Minnesota, with a business built around US government trust, radiation-hardened processes and development work for new technologies.</p>\n<p>It offers process development and low-volume production for customers who need domestic fabrication.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Trusted foundry for defence</li></ul>\n<ul><li>Rad-hard and specialty processes</li></ul>\n<ul><li>Process development services</li></ul>",
+  "bodyMarkdown": "SkyWater runs a foundry in Bloomington, Minnesota, with a business built around US government trust, radiation-hardened processes and development work for new technologies.\n\nIt offers process development and low-volume production for customers who need domestic fabrication.\n\n**Why it matters**\n\n- Trusted foundry for defence\n\n- Rad-hard and specialty processes\n\n- Process development services",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "SKY",
+    "name": "SkyWater Technology",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "SKY",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Supply-chain security is a real demand driver for domestic specialty capacity, even when the commercial volume is modest.",
+  "investmentLens": "A listed small-cap foundry with government exposure; revenue is lumpy and capital intensity is high."
+}

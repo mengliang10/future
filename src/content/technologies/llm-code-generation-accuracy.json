@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2027\u20132030)",
     "source_count": 3,
     "stocks": [],
-    "permalink": "/tech/llm-code-generation-accuracy/"
+    "permalink": "/tech/llmcodegenerationaccuracy/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,10 @@
   "estimate": "2027\u20132031",
   "estimateYear": 2028,
   "sourceCount": 3,
-  "companies": [],
+  "companies": [
+    "anysphere.pvt",
+    "cognition.pvt"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

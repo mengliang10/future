@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Adaptive Cruise Control (ACC)",
-    "subtitle": "Radar-based following distance control; standard on new vehicles globally",
+    "subtitle": "Radarbased following distance control; standard on new vehicles globally",
     "category": "Autonomous",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 21,
     "stocks": [],
-    "permalink": "/tech/adaptive-cruise-control-acc/"
+    "permalink": "/tech/adaptivecruisecontrolacc/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

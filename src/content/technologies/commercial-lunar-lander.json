@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Commercial Lunar Lander",
-    "subtitle": "Commercially developed lunar landers \u2014 Intuitive Machines IM-1 landed Feb 2024",
+    "subtitle": "Commercially developed lunar landers \u2014 Intuitive Machines IM1 landed Feb 2024",
     "category": "Space Tech",
     "stage": "early_commercial",
     "confidence_label": "Researching",
@@ -22,7 +22,7 @@
     "stocks": [
       "LUNR"
     ],
-    "permalink": "/tech/commercial-lunar-lander/"
+    "permalink": "/tech/commerciallunarlander/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

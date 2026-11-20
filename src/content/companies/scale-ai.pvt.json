@@ -1,0 +1,27 @@
+{
+  "id": "scale-ai.pvt",
+  "title": "Scale AI",
+  "summary": "Data-labelling and evaluation company that supplies much of the human feedback behind frontier models.",
+  "sector": "applied-ai",
+  "sectors": [
+    "llms-models"
+  ],
+  "sourceCategory": "Applied AI",
+  "sourcePath": "_stocks/scale-ai.pvt.md",
+  "sourceHash": "3f6a18a7a7e20845304d99df885e3f9c7650e300458e53e2567a8071ff9b4415",
+  "bodyHtml": "<p>Scale AI manages labelled data, model evaluation and reinforcement-learning environments for AI labs, enterprises and government customers.</p>\n<p>As model training shifts toward post-training and agentic evaluation, the demand for curated task environments has grown rather than shrunk, making data operations a strategic layer rather than a commodity.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Data Engine for labelling and annotation</li></ul>\n<ul><li>Evaluation and red-teaming</li></ul>\n<ul><li>Defence and government work</li></ul>",
+  "bodyMarkdown": "Scale AI manages labelled data, model evaluation and reinforcement-learning environments for AI labs, enterprises and government customers.\n\nAs model training shifts toward post-training and agentic evaluation, the demand for curated task environments has grown rather than shrunk, making data operations a strategic layer rather than a commodity.\n\n**Why it matters**\n\n- Data Engine for labelling and annotation\n\n- Evaluation and red-teaming\n\n- Defence and government work",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "SCALE.PVT",
+    "name": "Scale AI",
+    "sector": "Applied AI"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "SCALE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "The business question for any AI lab is whether data operations are core or outsourceable. Scale's position depends on staying ahead of synthetic data.",
+  "investmentLens": "Private; a picks-and-shovels bet on AI training budgets rather than on any single model."
+}

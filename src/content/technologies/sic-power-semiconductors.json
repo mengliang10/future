@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "SiC Power Semiconductors",
-    "subtitle": "SiC MOSFETs for high-voltage EV powertrains with lower switching losses",
+    "subtitle": "SiC MOSFETs for highvoltage EV powertrains with lower switching losses",
     "category": "Semiconductors",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -22,7 +22,7 @@
     "stocks": [
       "TSLA"
     ],
-    "permalink": "/tech/sic-power-semiconductors/"
+    "permalink": "/tech/sicpowersemiconductors/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

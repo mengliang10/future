@@ -1,6 +1,6 @@
 {
   "id": "industrials-01",
-  "title": "Industrials \u2014 Official Sector Briefing",
+  "title": "Industrials — How future technology reshapes the sector",
   "sector": "robotics",
   "mode": "evergreen",
   "added": "2026-11-18",
@@ -21,5 +21,525 @@
     "autonomous-lunarmars-rover-fleet",
     "sustainable-by-design-manufacturing",
     "3d-machine-vision-point-cloud"
+  ],
+  "slides": [
+    {
+      "kind": "statement",
+      "eyebrow": "01 · The thesis",
+      "title": "The technology is not the story. The cost line is.",
+      "body": "Industrials sell uptime, throughput and safety. Labour scarcity is the forcing function: automation, autonomy and digital twins improve output per worker without requiring new demand. The winners own the installed base and the service relationship; the losers sell interchangeable metal."
+    },
+    {
+      "kind": "points",
+      "eyebrow": "02 · Sector economics",
+      "title": "What this sector actually sells",
+      "body": "Revenue is project- and backlog-driven, with aftermarket service carrying much higher margins than original equipment. Working capital and execution risk decide cash conversion.",
+      "bullets": [
+        "Original equipment is cyclical and competitive; aftermarket parts and service earn the margin.",
+        "Backlog visibility matters, but book-to-bill and cancellation rates matter more.",
+        "Labour is a large share of both manufacturing and field service cost.",
+        "Project businesses carry execution and warranty risk.",
+        "Electrical equipment demand is increasingly set by grid and data-centre capex."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "03 · Impact map",
+      "title": "Where the impact lands",
+      "body": "Two axes matter: how soon the effect reaches reported numbers, and whether it lands on revenue or on cost and capital.",
+      "diagram": {
+        "kind": "impact",
+        "quadrants": [
+          {
+            "label": "New revenue, contested",
+            "items": [
+              "Autonomous inspection drones",
+              "Robotics-as-a-service",
+              "Digital twin software"
+            ]
+          },
+          {
+            "label": "New revenue, durable",
+            "items": [
+              "Aftermarket service contracts with sensors",
+              "Grid and data-centre electrical equipment",
+              "Defence autonomy and counter-drone systems"
+            ]
+          },
+          {
+            "label": "Cost takeout, fast",
+            "items": [
+              "Predictive maintenance",
+              "Remote commissioning",
+              "Automated quality inspection"
+            ]
+          },
+          {
+            "label": "Structural cost shift",
+            "items": [
+              "Factories re-tool around robotics",
+              "Field service shifts from hours to outcomes",
+              "Cyber exposure grows with connected assets"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "04 · Exposure",
+      "title": "How much of the sector is actually exposed",
+      "diagram": {
+        "kind": "bars",
+        "caption": "Directional share of each pool exposed to automation or new demand",
+        "bars": [
+          {
+            "label": "Field service labour cost",
+            "pct": 50
+          },
+          {
+            "label": "Aftermarket revenue",
+            "pct": 35
+          },
+          {
+            "label": "Project engineering hours",
+            "pct": 40
+          },
+          {
+            "label": "Cost of unplanned downtime",
+            "pct": 45
+          },
+          {
+            "label": "Inspection and QA labour",
+            "pct": 55
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "05 · Supply chain",
+      "title": "The future products in the chain",
+      "body": "Each stage is a product family that has to exist for the next one to work. This is where the spend lands.",
+      "diagram": {
+        "kind": "chain",
+        "caption": "Materials → components → machines → automation systems → service and operations",
+        "stages": [
+          {
+            "label": "Materials",
+            "products": [
+              "Specialty steel",
+              "Bearings",
+              "Power electronics",
+              "Sensors"
+            ]
+          },
+          {
+            "label": "Components",
+            "products": [
+              "Servo drives",
+              "Hydraulics",
+              "Gearboxes",
+              "Controllers"
+            ]
+          },
+          {
+            "label": "Machines",
+            "products": [
+              "Robot arms",
+              "CNC tools",
+              "Turbines",
+              "Electrical switchgear"
+            ]
+          },
+          {
+            "label": "Systems",
+            "products": [
+              "Automation cells",
+              "Digital twins",
+              "Fleet software",
+              "Safety systems"
+            ]
+          },
+          {
+            "label": "Operations",
+            "products": [
+              "Predictive maintenance",
+              "Autonomous inspection",
+              "Outcome contracts",
+              "Remote operations"
+            ]
+          }
+        ],
+        "note": "The future product is not a machine; it is a machine plus the software and service contract that guarantees uptime."
+      }
+    },
+    {
+      "kind": "columns",
+      "eyebrow": "06 · Technology clusters",
+      "title": "Three shifts to underwrite",
+      "columns": [
+        {
+          "title": "Robotics and automation",
+          "body": "Falling sensor and actuator costs move automation into high-mix, low-volume work.",
+          "items": [
+            "Collaborative robots",
+            "Vision-guided picking",
+            "Autonomous mobile robots",
+            "Humanoid pilots"
+          ]
+        },
+        {
+          "title": "Digital twins",
+          "body": "Simulation shortens commissioning and supports outcome-based service contracts.",
+          "items": [
+            "Plant simulation",
+            "Predictive maintenance",
+            "Remote commissioning",
+            "Asset performance management"
+          ]
+        },
+        {
+          "title": "Electrification",
+          "body": "Grid and data-centre build-out pulls through switchgear, transformers and cooling.",
+          "items": [
+            "Grid equipment",
+            "Data-centre cooling",
+            "Power distribution",
+            "Energy management"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "07 · The stack",
+      "title": "The stack underneath the sector",
+      "diagram": {
+        "kind": "stack",
+        "layers": [
+          {
+            "label": "Physical",
+            "note": "Machines and sites",
+            "items": [
+              "Robots",
+              "Machine tools",
+              "Turbines",
+              "Switchgear"
+            ]
+          },
+          {
+            "label": "Sensing",
+            "note": "What gets measured",
+            "items": [
+              "Vibration",
+              "Thermal",
+              "Vision",
+              "LiDAR"
+            ]
+          },
+          {
+            "label": "Software",
+            "note": "Control and prediction",
+            "items": [
+              "PLC and SCADA",
+              "Digital twins",
+              "Fleet orchestration",
+              "Maintenance models"
+            ]
+          },
+          {
+            "label": "Service",
+            "note": "Where margin sits",
+            "items": [
+              "Uptime contracts",
+              "Remote support",
+              "Parts networks",
+              "Retrofits"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "08 · Timing",
+      "title": "When it reaches the numbers",
+      "diagram": {
+        "kind": "timeline",
+        "milestones": [
+          {
+            "year": 2026,
+            "label": "Cobot cost crossover",
+            "detail": "Smaller factories automate",
+            "lane": 0
+          },
+          {
+            "year": 2027,
+            "label": "Digital twins standard",
+            "detail": "Commissioning shifts to simulation",
+            "lane": 0
+          },
+          {
+            "year": 2028,
+            "label": "Autonomous inspection",
+            "detail": "Drones and robots replace confined-space work",
+            "lane": 1
+          },
+          {
+            "year": 2030,
+            "label": "Humanoids in logistics",
+            "detail": "Limited repetitive tasks",
+            "lane": 1
+          },
+          {
+            "year": 2032,
+            "label": "Lights-out plants",
+            "detail": "High-volume lines run unattended",
+            "lane": 2
+          },
+          {
+            "year": 2035,
+            "label": "Outcome-based service",
+            "detail": "Uptime sold per unit of output",
+            "lane": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "table",
+      "eyebrow": "09 · Line by line",
+      "title": "Where the money actually moves",
+      "table": {
+        "head": [
+          "P&L line",
+          "Mechanism",
+          "Timing",
+          "Proof point"
+        ],
+        "rows": [
+          [
+            "Service revenue",
+            "Sensors convert parts sales into contracts",
+            "Now → 2029",
+            "Attach rate and recurring share"
+          ],
+          [
+            "Labour cost",
+            "Automation in production and inspection",
+            "Now → 2030",
+            "Output per employee"
+          ],
+          [
+            "Warranty cost",
+            "Prediction reduces failures",
+            "2027 → 2031",
+            "Claims per installed unit"
+          ],
+          [
+            "Backlog quality",
+            "Automation shortens project cycles",
+            "2026 → 2029",
+            "Book-to-bill and cancellations"
+          ],
+          [
+            "Capex",
+            "Reshoring and electrification",
+            "2026 → 2032",
+            "Capacity utilisation"
+          ]
+        ]
+      }
+    },
+    {
+      "kind": "points",
+      "eyebrow": "10 · Winners",
+      "title": "Who gains",
+      "bullets": [
+        "Automation OEMs with service networks and software attach.",
+        "Electrical equipment makers exposed to grid and data-centre spend.",
+        "Defence primes with autonomy, sensing and munitions capacity.",
+        "Distributors that become technical service providers.",
+        "Industrial software vendors selling simulation and maintenance."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "11 · Exposure",
+      "title": "Who is exposed",
+      "bullets": [
+        "Labour-intensive contractors without automation.",
+        "Component makers with no IP and price-only competition.",
+        "Machine builders that refuse to sell software or service.",
+        "Aerospace suppliers with single-programme concentration.",
+        "Businesses with connected assets but weak cyber controls."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "12 · Signposts",
+      "title": "What to watch next",
+      "body": "Signposts are chosen so that each one can falsify part of the thesis within four quarters.",
+      "bullets": [
+        "<strong>Aftermarket share</strong> of total revenue and its margin.",
+        "<strong>Output per employee</strong> in automated plants.",
+        "<strong>Robot orders</strong> outside automotive, the historical core.",
+        "<strong>Grid equipment lead times</strong> as a demand signal.",
+        "<strong>Autonomy certification</strong> for inspection and defence use."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "13 · The ecosystem",
+      "title": "Who has to deliver for this to work",
+      "diagram": {
+        "kind": "actors",
+        "caption": "Components → automation → machines → aerospace and defence → electrification",
+        "groups": [
+          {
+            "label": "Components",
+            "role": "Actuators, sensors, bearings",
+            "names": [
+              "Harmonic Drive",
+              "THK",
+              "Moog",
+              "Amphenol",
+              "TE Connectivity"
+            ]
+          },
+          {
+            "label": "Automation",
+            "role": "Controllers, robots, software",
+            "names": [
+              "Siemens",
+              "Rockwell",
+              "ABB",
+              "Fanuc",
+              "Symbotic"
+            ]
+          },
+          {
+            "label": "Humanoids",
+            "role": "General-purpose labour",
+            "names": [
+              "Boston Dynamics",
+              "Agility Robotics",
+              "Apptronik",
+              "Figure",
+              "Unitree"
+            ]
+          },
+          {
+            "label": "Aerospace & defence",
+            "role": "Airframes, engines, munitions",
+            "names": [
+              "Airbus",
+              "Boeing",
+              "RTX",
+              "Safran",
+              "Lockheed Martin"
+            ]
+          },
+          {
+            "label": "Electrification",
+            "role": "Grid, cooling, power equipment",
+            "names": [
+              "Schneider Electric",
+              "Eaton",
+              "Vertiv",
+              "Hitachi",
+              "GE Vernova"
+            ]
+          }
+        ],
+        "note": "Every humanoid needs actuators, bearings and sensors before it needs a foundation model."
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "14 · Where the thesis breaks",
+      "title": "Where the thesis could break",
+      "diagram": {
+        "kind": "risk",
+        "caption": "Evidence strength versus P&L impact",
+        "items": [
+          {
+            "label": "Humanoid reliability in 24/7 plants",
+            "evidence": 35,
+            "impact": 65,
+            "note": "Uptime and maintenance hours"
+          },
+          {
+            "label": "Defence budgets stay elevated",
+            "evidence": 70,
+            "impact": 75,
+            "note": "Multi-year order books"
+          },
+          {
+            "label": "Reshoring capex continues",
+            "evidence": 55,
+            "impact": 80,
+            "note": "Factory construction data"
+          },
+          {
+            "label": "Automation payback under 24 months",
+            "evidence": 45,
+            "impact": 60,
+            "note": "The adoption trigger"
+          },
+          {
+            "label": "Aircraft delivery delays persist",
+            "evidence": 65,
+            "impact": 70,
+            "note": "Supply chain and certification"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "15 · The value pool",
+      "title": "From gross spend to defensible profit",
+      "diagram": {
+        "kind": "funnel",
+        "caption": "Where the money narrows",
+        "stages": [
+          {
+            "label": "Industrial capital spending",
+            "pct": 100,
+            "note": "Gross"
+          },
+          {
+            "label": "Equipment and systems",
+            "pct": 42,
+            "note": "Machines"
+          },
+          {
+            "label": "Automation content",
+            "pct": 16,
+            "note": "Robots, controls, software"
+          },
+          {
+            "label": "Software and service",
+            "pct": 7,
+            "note": "Recurring"
+          },
+          {
+            "label": "Operating margin",
+            "pct": 4,
+            "note": "Cycle-dependent"
+          }
+        ],
+        "note": "The recurring service annuity is what makes automation vendors valuable through a capex downturn."
+      }
+    },
+    {
+      "kind": "research",
+      "eyebrow": "16 · Evidence",
+      "title": "Read the research behind this deck",
+      "body": "Linked records cover robotics, industrial software, electrification and autonomy. The commercial risk is integration cost, not component availability.",
+      "footnote": "Scenario synthesis compiled 19 November 2026. Directional shares and timelines are analytical judgements, not measured statistics or forecasts. Each technology record carries its own confidence label and source path."
+    }
   ]
 }

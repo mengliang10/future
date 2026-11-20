@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2027\u20132030)",
     "source_count": 3,
     "stocks": [],
-    "permalink": "/tech/local-ai-agent-capability/"
+    "permalink": "/tech/localaiagentcapability/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,9 @@
   "estimate": "2027\u20132031",
   "estimateYear": 2028,
   "sourceCount": 3,
-  "companies": [],
+  "companies": [
+    "replit.pvt"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

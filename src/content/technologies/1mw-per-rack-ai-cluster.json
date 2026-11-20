@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "1MW+ Per Rack AI Cluster",
-    "subtitle": "Ultra-dense AI clusters requiring new power and cooling infrastructure",
+    "subtitle": "Ultradense AI clusters requiring new power and cooling infrastructure",
     "category": "AI & Cloud",
     "stage": "prototype",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (Now\u20132026)",
     "source_count": 29,
     "stocks": [],
-    "permalink": "/tech/1mw-per-rack-ai-cluster/"
+    "permalink": "/tech/1mwperrackaicluster/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

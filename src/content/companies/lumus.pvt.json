@@ -1,0 +1,29 @@
+{
+  "id": "lumus.pvt",
+  "title": "Lumus",
+  "summary": "Israeli supplier of reflective waveguide optics for augmented-reality glasses.",
+  "sector": "spatial-computing",
+  "sourceCategory": "XR",
+  "sourcePath": "_stocks/lumus.pvt.md",
+  "sourceHash": "f445d7f0ba3167ae8e9237dc6e8aff60dd22c099a374d606a7e974cc3fe5257d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Lumus makes reflective waveguides, the optical layer that carries an image from a projector to the wearer's eye while keeping the lens transparent. Reflective designs can offer a wider field of view and better efficiency than diffractive alternatives, but manufacturing yield at large size has historically been difficult. The company licenses and supplies to glasses makers rather than selling to consumers, so its fortunes track the whole AR hardware cycle.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Reflective waveguides and optical engines</li>\n<li>Licensing to AR device makers</li>\n<li>Defence and industrial optics</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Design wins at volume manufacturers</li>\n<li>Manufacturing yield and cost per unit</li>\n<li>Competition from diffractive waveguide suppliers</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLumus makes reflective waveguides, the optical layer that carries an image from a projector to the wearer's eye while keeping the lens transparent. Reflective designs can offer a wider field of view and better efficiency than diffractive alternatives, but manufacturing yield at large size has historically been difficult. The company licenses and supplies to glasses makers rather than selling to consumers, so its fortunes track the whole AR hardware cycle.\n\n## Technology Exposure\n\n- Reflective waveguides and optical engines\n- Licensing to AR device makers\n- Defence and industrial optics\n\n## What To Watch\n\n- Design wins at volume manufacturers\n- Manufacturing yield and cost per unit\n- Competition from diffractive waveguide suppliers\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Lumus",
+    "symbol": "LUMUS.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "XR"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "LUMUS.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Every pair of AR glasses needs an optical combiner; the supplier that wins the design owns a content-per-unit annuity.",
+  "investmentLens": "Private; a pure play on AR unit growth and a useful read-across for optics suppliers."
+}

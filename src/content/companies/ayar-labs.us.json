@@ -1,0 +1,27 @@
+{
+  "id": "ayar-labs.us",
+  "title": "Ayar Labs",
+  "summary": "San Jose developer of silicon-photonic I/O chiplets for chip-to-chip connectivity.",
+  "sector": "semiconductors",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/ayar-labs.us.md",
+  "sourceHash": "f416e8aaad31213f1b90616c7f780ae5571cea703a9d8ee8bd50d9d7f72b2317",
+  "bodyHtml": "<p>Ayar Labs builds optical I/O chiplets that replace copper links between accelerators, memory and switches. Its TeraPHY chiplet is designed to be co-packaged with compute silicon.</p>\n<p>The company works with foundries and system vendors to insert optical links into standard packaging flows.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Optical I/O chiplets</li></ul>\n<ul><li>Co-packaged with compute</li></ul>\n<ul><li>Standards-based integration</li></ul>",
+  "bodyMarkdown": "Ayar Labs builds optical I/O chiplets that replace copper links between accelerators, memory and switches. Its TeraPHY chiplet is designed to be co-packaged with compute silicon.\n\nThe company works with foundries and system vendors to insert optical links into standard packaging flows.\n\n**Why it matters**\n\n- Optical I/O chiplets\n\n- Co-packaged with compute\n\n- Standards-based integration",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "AYAR.PVT",
+    "name": "Ayar Labs",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "AYAR.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "If optical I/O becomes standard, the value sits with whoever qualifies the reference design. Ayar's position depends on foundry partnerships.",
+  "investmentLens": "Private; visible through the laser and photonics supply chain."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tii.ae",
+  "title": "Technology Innovation Institute (TII)",
+  "summary": "Abu Dhabi research institute that publishes the Falcon family of open-weight models.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/tii.ae.md",
+  "sourceHash": "93dc5ab1438160524643473544921cf4ff9131adf5f8aea5c42e89a1c79e3978",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>TII is the applied-research arm of Abu Dhabi's Advanced Technology Research Council and releases Falcon models openly, using them to build a domestic AI research base and talent pipeline. State funding removes the need to monetise weights directly, so the output is measured in capability, adoption and sovereign positioning rather than revenue. Its compute access and stable funding make it an unusual competitor in open models.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Falcon open-weight models</li>\n<li>Applied research in AI and cryptography</li>\n<li>Sovereign AI capability building</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Sustained state funding</li>\n<li>Adoption of Falcon outside the UAE</li>\n<li>Talent retention against commercial labs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nTII is the applied-research arm of Abu Dhabi's Advanced Technology Research Council and releases Falcon models openly, using them to build a domestic AI research base and talent pipeline. State funding removes the need to monetise weights directly, so the output is measured in capability, adoption and sovereign positioning rather than revenue. Its compute access and stable funding make it an unusual competitor in open models.\n\n## Technology Exposure\n\n- Falcon open-weight models\n- Applied research in AI and cryptography\n- Sovereign AI capability building\n\n## What To Watch\n\n- Sustained state funding\n- Adoption of Falcon outside the UAE\n- Talent retention against commercial labs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Technology Innovation Institute (TII)",
+    "symbol": "TII.AE",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "TII.AE",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "A state that publishes competitive weights sets the floor price of capability in its region and reduces dependence on foreign APIs.",
+  "investmentLens": "Not investable; treat Falcon releases as a signal on open-weight price pressure."
+}

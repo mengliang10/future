@@ -25,5 +25,9 @@
   "exchange": "HKEX",
   "private": false,
   "businessMeaning": "Robotaxi economics hinge on safety-driver removal and vehicle cost, not on demo mileage; ask for both.",
-  "investmentLens": "The autonomy option is real but funded by a declining core; the market will re-rate on evidence of unit economics."
+  "investmentLens": "The autonomy option is real but funded by a declining core; the market will re-rate on evidence of unit economics.",
+  "sectors": [
+    "llms-models",
+    "autonomous"
+  ]
 }

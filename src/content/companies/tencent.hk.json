@@ -25,5 +25,8 @@
   "exchange": "HKEX",
   "private": false,
   "businessMeaning": "Distribution, not benchmark scores, is the moat to test: does an AI feature change a paid behaviour inside an app people already open daily?",
-  "investmentLens": "Tencent is a cash-flow compounder with an AI option attached; value the option separately from the core."
+  "investmentLens": "Tencent is a cash-flow compounder with an AI option attached; value the option separately from the core.",
+  "sectors": [
+    "llms-models"
+  ]
 }

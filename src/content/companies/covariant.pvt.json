@@ -1,0 +1,27 @@
+{
+  "id": "covariant.pvt",
+  "title": "Covariant",
+  "summary": "Emeryville robotics-AI company teaching industrial arms to pick and place arbitrary objects.",
+  "sector": "robotics",
+  "sectors": [
+    "applied-ai"
+  ],
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/covariant.pvt.md",
+  "sourceHash": "dbb3ac0b663ddc35fb86c071b2a06dd5ecaae0580d461abf1d6c1914272a86bf",
+  "bodyHtml": "<p>Covariant builds the software brain for robotic picking arms, trained on images and grasp attempts rather than hard-coded object models. Its RFM-1 model adds language and video inputs so operators can describe a task.</p>\n<p>The company's systems are deployed in logistics and e-commerce operations, where the value comes from handling the long tail of unfamiliar packages without stopping the line.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Vision-based grasping for unseen objects</li></ul>\n<ul><li>Robot foundation model with language input</li></ul>\n<ul><li>Integration with major arm and gripper vendors</li></ul>",
+  "bodyMarkdown": "Covariant builds the software brain for robotic picking arms, trained on images and grasp attempts rather than hard-coded object models. Its RFM-1 model adds language and video inputs so operators can describe a task.\n\nThe company's systems are deployed in logistics and e-commerce operations, where the value comes from handling the long tail of unfamiliar packages without stopping the line.\n\n**Why it matters**\n\n- Vision-based grasping for unseen objects\n\n- Robot foundation model with language input\n\n- Integration with major arm and gripper vendors",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "COVARIANT.PVT",
+    "name": "Covariant",
+    "sector": "Robotics"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "COVARIANT.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Picking is a good test of generalisation: the ROI depends on how many exceptions still need a human. Ask for the intervention rate, not the pick rate.",
+  "investmentLens": "Private. Value accrues to the software layer only if it stays portable across arm vendors."
+}

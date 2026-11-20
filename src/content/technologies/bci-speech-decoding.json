@@ -20,7 +20,7 @@
     "horizon": "Near-Term (Now\u20132026)",
     "source_count": 5,
     "stocks": [],
-    "permalink": "/tech/bci-speech-decoding/"
+    "permalink": "/tech/bcispeechdecoding/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,10 @@
   "estimate": "2025\u20132030",
   "estimateYear": 2025,
   "sourceCount": 5,
-  "companies": [],
+  "companies": [
+    "neuralink.pvt",
+    "paradromics.pvt"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

@@ -1,0 +1,27 @@
+{
+  "id": "fourier-intelligence.cn",
+  "title": "Fourier Intelligence",
+  "summary": "Shanghai robotics group that moved from rehabilitation exoskeletons into general-purpose humanoids.",
+  "sector": "robotics",
+  "sectors": [
+    "drugs-biotech"
+  ],
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/fourier-intelligence.cn.md",
+  "sourceHash": "df1815291f498dab356926403e865e1d03e441b0f3199419c167fa579449da04",
+  "bodyHtml": "<p>Fourier Intelligence began with rehabilitation robotics and exoskeletons, then applied its actuator and control work to the GR-1 and GR-2 humanoids.</p>\n<p>The rehabilitation heritage gives it clinical validation experience and a revenue base that most humanoid start-ups lack.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Rehabilitation exoskeletons and robotics</li></ul>\n<ul><li>GR-series humanoid platforms</li></ul>\n<ul><li>Research and hospital deployments</li></ul>",
+  "bodyMarkdown": "Fourier Intelligence began with rehabilitation robotics and exoskeletons, then applied its actuator and control work to the GR-1 and GR-2 humanoids.\n\nThe rehabilitation heritage gives it clinical validation experience and a revenue base that most humanoid start-ups lack.\n\n**Why it matters**\n\n- Rehabilitation exoskeletons and robotics\n\n- GR-series humanoid platforms\n\n- Research and hospital deployments",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "FOURIER.PVT",
+    "name": "Fourier Intelligence",
+    "sector": "Robotics"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "FOURIER.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Fourier's dual market matters: rehab robotics has buyers today, while humanoids are optionality. That is a more durable funding story than a pure demo company.",
+  "investmentLens": "Private; the medical robotics line is the part with near-term customers."
+}

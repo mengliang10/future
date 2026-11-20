@@ -6,33 +6,36 @@
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/silicon-photonics-interconnect.md",
   "sourceHash": "26b3fc6aafdfd2413d8835066fbce7f99ad3dbac2da0e77c3e369c751237d801",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Optical signaling on-chip or chip-to-chip; eliminates copper bandwidth bottleneck.</p>\n<p>Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks <strong>13 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Radio-frequency reflectometry in silicon carbide large-area transistor | rel=0.50 | uid:10971b2b805fea80</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Prototype</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.15</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2026\u20132032</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (2027\u20132028)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>13</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/watt-level-cw-lasers/\">Watt-Level-Cw-Lasers</a></li>\n</ul>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/gpu-compute-cluster/\">GPU Compute Cluster</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/mrvl/\">MRVL</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nOptical signaling on-chip or chip-to-chip; eliminates copper bandwidth bottleneck.\n\nWorking prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **13 independent sources** on this technology.\n\n> RSS:Radio-frequency reflectometry in silicon carbide large-area transistor | rel=0.50 | uid:10971b2b805fea80\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Prototype** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.15** |\n| Estimated Deployment | **2026\u20132032** |\n| Horizon | Near-Term (2027\u20132028) |\n| Independent Sources Tracked | 13 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Watt-Level-Cw-Lasers](/future/tech/watt-level-cw-lasers/)\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [GPU Compute Cluster](/future/tech/gpu-compute-cluster/)\n\n## Investment Exposure\n\n[MRVL](/future/stocks/mrvl/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Optical signaling on-chip or chip-to-chip; eliminates copper bandwidth bottleneck.</p>\n<p>Working prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks <strong>13 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:Radio-frequency reflectometry in silicon carbide large-area transistor | rel=0.50 | uid:10971b2b805fea80</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Prototype</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.15</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2026–2032</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (2027–2028)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>13</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/watt-level-cw-lasers/\">Watt-Level-Cw-Lasers</a></li>\n</ul>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/gpu-compute-cluster/\">GPU Compute Cluster</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/mrvl/\">MRVL</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nOptical signaling on-chip or chip-to-chip; eliminates copper bandwidth bottleneck.\n\nWorking prototypes demonstrated. Engineering challenges remain before commercial deployment. Our research database tracks **13 independent sources** on this technology.\n\n> RSS:Radio-frequency reflectometry in silicon carbide large-area transistor | rel=0.50 | uid:10971b2b805fea80\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Prototype** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.15** |\n| Estimated Deployment | **2026–2032** |\n| Horizon | Near-Term (2027–2028) |\n| Independent Sources Tracked | 13 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Watt-Level-Cw-Lasers](/future/tech/watt-level-cw-lasers/)\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [GPU Compute Cluster](/future/tech/gpu-compute-cluster/)\n\n## Investment Exposure\n\n[MRVL](/future/stocks/mrvl/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Silicon Photonics Interconnect",
-    "subtitle": "Optical signaling on-chip or chip-to-chip; eliminates copper bandwidth bottleneck",
+    "subtitle": "Optical signaling onchip or chiptochip; eliminates copper bandwidth bottleneck",
     "category": "Semiconductors",
     "stage": "prototype",
     "confidence_label": "Speculative",
     "est_year": 2028,
-    "est_year_range": "2026\u20132032",
-    "horizon": "Near-Term (2027\u20132028)",
+    "est_year_range": "2026–2032",
+    "horizon": "Near-Term (2027–2028)",
     "source_count": 13,
     "stocks": [
       "MRVL"
     ],
-    "permalink": "/tech/silicon-photonics-interconnect/"
+    "permalink": "/tech/siliconphotonicsinterconnect/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
   "stage": "prototype",
   "confidenceLabel": "Speculative",
-  "estimate": "2026\u20132032",
+  "estimate": "2026–2032",
   "estimateYear": 2028,
   "sourceCount": 13,
   "companies": [
-    "mrvl"
+    "mrvl",
+    "lightmatter.us",
+    "ayar-labs.us",
+    "celestial-ai.us"
   ],
   "businessMeaning": "",
   "investmentLens": ""

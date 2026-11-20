@@ -1,0 +1,29 @@
+{
+  "id": "glean.pvt",
+  "title": "Glean",
+  "summary": "US enterprise search and AI assistant company.",
+  "sector": "ai-agents-software",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/glean.pvt.md",
+  "sourceHash": "2f5656e04fc8a180b0e2238bd5778991b368962932e701ac86c5bf5c1dcdd6d7",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Glean indexes a company's documents, messages and applications, then exposes them through search and an assistant with permission-aware retrieval. That permission layer is the hard part: an assistant that leaks restricted content is unusable, and connecting dozens of SaaS tools takes real integration work. The company sells per-seat subscriptions and is expanding into agents that act on the retrieved context.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Enterprise search and assistant</li>\n<li>Connectors and permission model</li>\n<li>Agent actions across SaaS tools</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Seat growth and renewal</li>\n<li>Differentiation from Microsoft and Google assistants</li>\n<li>Cost of indexing and retrieval</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nGlean indexes a company's documents, messages and applications, then exposes them through search and an assistant with permission-aware retrieval. That permission layer is the hard part: an assistant that leaks restricted content is unusable, and connecting dozens of SaaS tools takes real integration work. The company sells per-seat subscriptions and is expanding into agents that act on the retrieved context.\n\n## Technology Exposure\n\n- Enterprise search and assistant\n- Connectors and permission model\n- Agent actions across SaaS tools\n\n## What To Watch\n\n- Seat growth and renewal\n- Differentiation from Microsoft and Google assistants\n- Cost of indexing and retrieval\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Glean",
+    "symbol": "GLEAN.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "GLEAN.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Enterprise AI value depends on access to the right internal context, and access control is the moat.",
+  "investmentLens": "Private; competes with bundled assistants that are effectively free for existing productivity suites."
+}

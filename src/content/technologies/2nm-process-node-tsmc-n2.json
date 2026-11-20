@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "2nm Process Node (TSMC N2)",
-    "subtitle": "Leading-edge silicon node; volume production 2025 \u2014 TSMC N2, Samsung SF2",
+    "subtitle": "Leadingedge silicon node; volume production 2025 \u2014 TSMC N2, Samsung SF2",
     "category": "Semiconductors",
     "stage": "early_commercial",
     "confidence_label": "Researching",
@@ -26,7 +26,7 @@
       "KLAC",
       "LRCX"
     ],
-    "permalink": "/tech/2nm-process-node-tsmc-n2/"
+    "permalink": "/tech/2nmprocessnodetsmcn2/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

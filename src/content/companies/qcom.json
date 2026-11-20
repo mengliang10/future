@@ -1,7 +1,7 @@
 {
   "id": "qcom",
   "title": "Qualcomm Incorporated",
-  "summary": "",
+  "summary": "Qualcomm dominates smartphone application processors (Snapdragon) and modems, with a royalty business model on every CDMA/LTE/5G handset shipped globally.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_stocks/qcom.md",
@@ -27,5 +27,9 @@
   "exchange": "NASDAQ",
   "private": false,
   "businessMeaning": "",
-  "investmentLens": ""
+  "investmentLens": "",
+  "sectors": [
+    "spatial-computing",
+    "autonomous"
+  ]
 }

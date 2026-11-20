@@ -1,0 +1,29 @@
+{
+  "id": "synchron.pvt",
+  "title": "Synchron",
+  "summary": "US/Australian developer of an endovascular brain-computer interface.",
+  "sector": "bci",
+  "sourceCategory": "BCI",
+  "sourcePath": "_stocks/synchron.pvt.md",
+  "sourceHash": "f960d9ed4bd102ad906f6c7b764ccf07830459f13986cafe1d7628214b029dcb",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Synchron's Stentrode is delivered through the jugular vein and expanded inside a blood vessel next to the motor cortex, avoiding open-brain surgery. That design trades channel count for procedural safety, which matters for patients with paralysis who need a reliable cursor and switching interface rather than high-resolution control. The company has run early human trials in the US and Australia and is pursuing a pivotal pathway.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Stentrode endovascular implant</li>\n<li>Cursor and device-control software</li>\n<li>Clinical trial programme</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Pivotal trial enrolment and outcomes</li>\n<li>Durability of signal over years</li>\n<li>Competition from higher-channel implants</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSynchron's Stentrode is delivered through the jugular vein and expanded inside a blood vessel next to the motor cortex, avoiding open-brain surgery. That design trades channel count for procedural safety, which matters for patients with paralysis who need a reliable cursor and switching interface rather than high-resolution control. The company has run early human trials in the US and Australia and is pursuing a pivotal pathway.\n\n## Technology Exposure\n\n- Stentrode endovascular implant\n- Cursor and device-control software\n- Clinical trial programme\n\n## What To Watch\n\n- Pivotal trial enrolment and outcomes\n- Durability of signal over years\n- Competition from higher-channel implants\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Synchron",
+    "symbol": "SYNCHRON.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "BCI"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SYNCHRON.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "If a vein can deliver a usable signal, BCI becomes a catheter-lab procedure rather than neurosurgery, which changes the addressable patient pool.",
+  "investmentLens": "Private; the strategic question is whether lower bandwidth is enough for communication and control use cases."
+}

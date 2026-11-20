@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Quadruped Robot Locomotion",
-    "subtitle": "Four-legged robots navigating unstructured terrain \u2014 Boston Dynamics Spot",
+    "subtitle": "Fourlegged robots navigating unstructured terrain \u2014 Boston Dynamics Spot",
     "category": "Robotics",
     "stage": "early_commercial",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 21,
     "stocks": [],
-    "permalink": "/tech/quadruped-robot-locomotion/"
+    "permalink": "/tech/quadrupedrobotlocomotion/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

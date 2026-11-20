@@ -1,0 +1,29 @@
+{
+  "id": "replit.pvt",
+  "title": "Replit",
+  "summary": "US browser-based development platform with an AI app-building agent.",
+  "sector": "ai-agents-software",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/replit.pvt.md",
+  "sourceHash": "9b4c3aba86a09fe98ee795474b8a93256a630843506322e20ed5235ba121c25a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Replit combines a hosted IDE, deployment and an agent that can generate and run applications from a prompt. Its audience spans students, hobbyists and small businesses that want a working app without managing infrastructure, which gives it a distribution channel outside professional engineering. Infrastructure cost and the reliability of generated code at scale are the constraints on converting usage into margin.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Browser IDE and hosting</li>\n<li>Replit Agent app generation</li>\n<li>Education and small-business plans</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Paid conversion and compute cost per user</li>\n<li>Agent output quality beyond prototypes</li>\n<li>Competition from model vendors' app builders</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nReplit combines a hosted IDE, deployment and an agent that can generate and run applications from a prompt. Its audience spans students, hobbyists and small businesses that want a working app without managing infrastructure, which gives it a distribution channel outside professional engineering. Infrastructure cost and the reliability of generated code at scale are the constraints on converting usage into margin.\n\n## Technology Exposure\n\n- Browser IDE and hosting\n- Replit Agent app generation\n- Education and small-business plans\n\n## What To Watch\n\n- Paid conversion and compute cost per user\n- Agent output quality beyond prototypes\n- Competition from model vendors' app builders\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Replit",
+    "symbol": "REPLIT.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "REPLIT.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Lowering the cost of going from idea to running software expands the market beyond people who call themselves developers.",
+  "investmentLens": "Private; a leveraged play on inference costs falling and non-developers building software."
+}

@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "FinFET Transistor (3D Gate)",
-    "subtitle": "3D fin-shaped FET enabling scaling below 22nm; used at 5\u201314nm nodes",
+    "subtitle": "3D finshaped FET enabling scaling below 22nm; used at 5\u201314nm nodes",
     "category": "Semiconductors",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 3,
     "stocks": [],
-    "permalink": "/tech/finfet-transistor-3d-gate/"
+    "permalink": "/tech/finfettransistor3dgate/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

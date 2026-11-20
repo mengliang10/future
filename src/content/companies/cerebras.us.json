@@ -1,0 +1,27 @@
+{
+  "id": "cerebras.us",
+  "title": "Cerebras Systems",
+  "summary": "Sunnyvale company building wafer-scale AI processors and an inference cloud.",
+  "sector": "semiconductors",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/cerebras.us.md",
+  "sourceHash": "7c39c9ba8953776bf8a06f1755346fa650d5b328a09dfd488b8bfb69acbf313b",
+  "bodyHtml": "<p>Cerebras makes the Wafer Scale Engine, a single wafer-sized chip designed to keep model weights on-chip and avoid the memory bottlenecks of GPU clusters.</p>\n<p>It sells systems to labs and enterprises and runs its own inference service, which has made it a visible alternative for very fast token generation.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Wafer-scale engine</li></ul>\n<ul><li>Inference-as-a-service</li></ul>\n<ul><li>Large-model training systems</li></ul>",
+  "bodyMarkdown": "Cerebras makes the Wafer Scale Engine, a single wafer-sized chip designed to keep model weights on-chip and avoid the memory bottlenecks of GPU clusters.\n\nIt sells systems to labs and enterprises and runs its own inference service, which has made it a visible alternative for very fast token generation.\n\n**Why it matters**\n\n- Wafer-scale engine\n\n- Inference-as-a-service\n\n- Large-model training systems",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "CEREBRAS.PVT",
+    "name": "Cerebras Systems",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "CEREBRAS.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Wafer-scale is a different point in the design space: enormous on-chip memory and bandwidth at the cost of yield and packaging complexity. Its cloud business tests whether customers pay for latency.",
+  "investmentLens": "Private; the public read is advanced packaging and substrate demand, plus the cloud competitors it pressures."
+}

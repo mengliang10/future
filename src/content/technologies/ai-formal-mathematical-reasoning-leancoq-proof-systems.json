@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "AI Formal Mathematical Reasoning (Lean/Coq Proof Systems)",
-    "subtitle": "AI systems capable of generating machine-verifiable formal mathematical proofs in proof assistants (Lean 4, Coq, Isab...",
+    "subtitle": "AI systems capable of generating machineverifiable formal mathematical proofs in proof assistants (Lean 4, Coq, Isab...",
     "category": "AI & Cloud",
     "stage": "prototype",
     "confidence_label": "Speculative",
@@ -24,7 +24,7 @@
     "monetizable_confidence": 56,
     "source_count": 35,
     "stocks": [],
-    "permalink": "/tech/ai-formal-mathematical-reasoning-leancoq-proof-systems/"
+    "permalink": "/tech/aiformalmathematicalreasoningleancoqproofsystems/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

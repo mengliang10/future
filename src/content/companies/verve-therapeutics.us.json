@@ -1,0 +1,27 @@
+{
+  "id": "verve-therapeutics.us",
+  "title": "Verve Therapeutics",
+  "summary": "Cambridge, Massachusetts gene-editing company developing one-time treatments for cardiovascular disease.",
+  "sector": "drugs-biotech",
+  "sectors": [
+    "bci"
+  ],
+  "sourceCategory": "Drugs & Biotech",
+  "sourcePath": "_stocks/verve-therapeutics.us.md",
+  "sourceHash": "6cfa361266321df752064081aea32ef8b57bf11b95c61b768d0afb931301a454",
+  "bodyHtml": "<p>Verve Therapeutics uses base editing to switch off genes that raise LDL cholesterol, aiming for a single treatment instead of lifelong medication.</p>\n<p>Its lead programmes target PCSK9 and ANGPTL3, and the company is running early clinical studies.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Base editing</li></ul>\n<ul><li>Cardiovascular gene therapy</li></ul>\n<ul><li>One-time dosing</li></ul>",
+  "bodyMarkdown": "Verve Therapeutics uses base editing to switch off genes that raise LDL cholesterol, aiming for a single treatment instead of lifelong medication.\n\nIts lead programmes target PCSK9 and ANGPTL3, and the company is running early clinical studies.\n\n**Why it matters**\n\n- Base editing\n\n- Cardiovascular gene therapy\n\n- One-time dosing",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "VERV",
+    "name": "Verve Therapeutics",
+    "sector": "Drugs & Biotech"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "VERV",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Cardiovascular disease is the largest chronic market, and a one-time edit would be disruptive if durability and safety hold.",
+  "investmentLens": "A listed clinical-stage company with binary trial risk and a long development runway."
+}

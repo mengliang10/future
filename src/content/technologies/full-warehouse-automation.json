@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Full Warehouse Automation",
-    "subtitle": "Fully automated pick-pack-ship with mobile robots \u2014 Symbotic, AutoStore, Ocado",
+    "subtitle": "Fully automated pickpackship with mobile robots \u2014 Symbotic, AutoStore, Ocado",
     "category": "Robotics",
     "stage": "early_commercial",
     "confidence_label": "Speculative",
@@ -22,7 +22,7 @@
     "stocks": [
       "SYM"
     ],
-    "permalink": "/tech/full-warehouse-automation/"
+    "permalink": "/tech/fullwarehouseautomation/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

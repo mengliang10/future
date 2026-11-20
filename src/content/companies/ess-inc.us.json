@@ -1,0 +1,27 @@
+{
+  "id": "ess-inc.us",
+  "title": "ESS Tech",
+  "summary": "Oregon company building iron flow batteries for long-duration commercial storage.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/ess-inc.us.md",
+  "sourceHash": "2f7b4b742d7a2b1180de9352eb5234e70143ffc33a018278e4bbda71ab97a675",
+  "bodyHtml": "<p>ESS makes iron flow batteries that store energy in tanks of iron, salt and water. The design separates power from energy capacity, so adding duration means adding electrolyte rather than cells.</p>\n<p>Its customers are utilities, data centres and industrial sites that need six to twelve hours of storage.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Iron flow chemistry</li></ul>\n<ul><li>Separate power and energy scaling</li></ul>\n<ul><li>Long-duration commercial systems</li></ul>",
+  "bodyMarkdown": "ESS makes iron flow batteries that store energy in tanks of iron, salt and water. The design separates power from energy capacity, so adding duration means adding electrolyte rather than cells.\n\nIts customers are utilities, data centres and industrial sites that need six to twelve hours of storage.\n\n**Why it matters**\n\n- Iron flow chemistry\n\n- Separate power and energy scaling\n\n- Long-duration commercial systems",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "GWH",
+    "name": "ESS Tech",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "GWH",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Flow batteries compete with lithium on lifetime and duration, not on upfront cost per kilowatt. Site constraints and electrolyte supply decide the outcome.",
+  "investmentLens": "A listed small-cap with real revenue but heavy cash needs; order backlog is the key indicator."
+}

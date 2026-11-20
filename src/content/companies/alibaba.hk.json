@@ -25,5 +25,8 @@
   "exchange": "HKEX",
   "private": false,
   "businessMeaning": "For a foreign operator, Qwen-class open weights mean a credible low-cost model option that can be self-hosted, subject to data-residency and export-control review.",
-  "investmentLens": "Watch the capex-to-cloud-revenue ratio. A capex cycle without matching inference revenue compresses returns regardless of model quality."
+  "investmentLens": "Watch the capex-to-cloud-revenue ratio. A capex cycle without matching inference revenue compresses returns regardless of model quality.",
+  "sectors": [
+    "llms-models"
+  ]
 }

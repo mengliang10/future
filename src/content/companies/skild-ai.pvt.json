@@ -1,0 +1,27 @@
+{
+  "id": "skild-ai.pvt",
+  "title": "Skild AI",
+  "summary": "Carnegie Mellon spin-out building a general robotics foundation model trained largely in simulation.",
+  "sector": "robotics",
+  "sectors": [
+    "llms-models"
+  ],
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/skild-ai.pvt.md",
+  "sourceHash": "25bf3ce364f15335fd759c9959316f06e1298bfb86558f1dd358cf458b7d1c27",
+  "bodyHtml": "<p>Skild AI was founded in 2023 by former Carnegie Mellon faculty. Its approach combines large-scale simulated experience with real-world adaptation so that one model can drive different robot bodies.</p>\n<p>The company targets industrial and warehouse tasks where a single general model can be fine-tuned cheaply, arguing that bespoke robotics software is the reason deployments stall.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Simulation-first training</li></ul>\n<ul><li>One model across multiple embodiments</li></ul>\n<ul><li>Focus on industrial manipulation</li></ul>",
+  "bodyMarkdown": "Skild AI was founded in 2023 by former Carnegie Mellon faculty. Its approach combines large-scale simulated experience with real-world adaptation so that one model can drive different robot bodies.\n\nThe company targets industrial and warehouse tasks where a single general model can be fine-tuned cheaply, arguing that bespoke robotics software is the reason deployments stall.\n\n**Why it matters**\n\n- Simulation-first training\n\n- One model across multiple embodiments\n\n- Focus on industrial manipulation",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "SKILD.PVT",
+    "name": "Skild AI",
+    "sector": "Robotics"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "SKILD.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "The practical value is lower integration cost per robot. Buyers should ask how much on-site data collection a new task still requires.",
+  "investmentLens": "Private; the thesis is a software layer that could compress robotics integration margins across many hardware vendors."
+}

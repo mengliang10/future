@@ -1,0 +1,29 @@
+{
+  "id": "xreal.pvt",
+  "title": "XREAL",
+  "summary": "Chinese maker of consumer AR glasses that project a large virtual screen from a phone or laptop.",
+  "sector": "spatial-computing",
+  "sourceCategory": "XR",
+  "sourcePath": "_stocks/xreal.pvt.md",
+  "sourceHash": "3d5129365326706d49ac7ff365b931b5b98c63199a112c50b5fa577f0137c4e6",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>XREAL sells lightweight glasses that act as an external display for phones, handheld consoles and laptops, a narrower use case than spatial computing but one consumers understand immediately. The Air and One families compete on weight, price and optical quality, and the company has shipped in volume relative to enterprise-focused rivals. It remains dependent on phone ecosystems it does not control and on component costs it cannot set.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Consumer AR glasses</li>\n<li>Display and waveguide modules</li>\n<li>Accessory and developer ecosystem</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Attachment to phone and console platforms</li>\n<li>Component cost and channel margin</li>\n<li>Competition from phone makers' own glasses</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nXREAL sells lightweight glasses that act as an external display for phones, handheld consoles and laptops, a narrower use case than spatial computing but one consumers understand immediately. The Air and One families compete on weight, price and optical quality, and the company has shipped in volume relative to enterprise-focused rivals. It remains dependent on phone ecosystems it does not control and on component costs it cannot set.\n\n## Technology Exposure\n\n- Consumer AR glasses\n- Display and waveguide modules\n- Accessory and developer ecosystem\n\n## What To Watch\n\n- Attachment to phone and console platforms\n- Component cost and channel margin\n- Competition from phone makers' own glasses\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "XREAL",
+    "symbol": "XREAL.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "XR"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "XREAL.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "A wearable display is a simpler sell than a spatial computer: it replaces a monitor, not a workflow.",
+  "investmentLens": "Private; the read-across is to microdisplay and waveguide suppliers."
+}

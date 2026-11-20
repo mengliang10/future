@@ -1,0 +1,27 @@
+{
+  "id": "quantumscape.us",
+  "title": "QuantumScape",
+  "summary": "San Jose developer of solid-state lithium-metal batteries with a ceramic separator.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/quantumscape.us.md",
+  "sourceHash": "dee0463b56d4847eebfb7ee30a30224c3dac45ac451c40961db0ecbbabbf514c",
+  "bodyHtml": "<p>QuantumScape has developed a solid-state battery that replaces the liquid electrolyte and graphite anode with a ceramic separator and a lithium-metal anode.</p>\n<p>The company licenses its technology to battery manufacturers rather than mass-producing cells itself, and has shipped sample cells to automotive partners for testing.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Ceramic separator</li></ul>\n<ul><li>Lithium-metal anode</li></ul>\n<ul><li>Licensing to cell makers</li></ul>",
+  "bodyMarkdown": "QuantumScape has developed a solid-state battery that replaces the liquid electrolyte and graphite anode with a ceramic separator and a lithium-metal anode.\n\nThe company licenses its technology to battery manufacturers rather than mass-producing cells itself, and has shipped sample cells to automotive partners for testing.\n\n**Why it matters**\n\n- Ceramic separator\n\n- Lithium-metal anode\n\n- Licensing to cell makers",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "QS",
+    "name": "QuantumScape",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "QS",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Solid-state promises more range and faster charging, but manufacturability at scale has defeated many attempts. Licensing is a way to share that risk.",
+  "investmentLens": "A listed pre-revenue technology company: the share price reflects milestone expectations, so timelines matter more than quarterly results."
+}

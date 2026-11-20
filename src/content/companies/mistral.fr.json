@@ -1,0 +1,29 @@
+{
+  "id": "mistral.fr",
+  "title": "Mistral AI",
+  "summary": "French foundation-model lab selling open-weight and commercial models with a European-sovereignty pitch.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/mistral.fr.md",
+  "sourceHash": "96164c7f23343cf7147487d36ce486e4a83c3ba223faaa31759976afe78c5669",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Mistral releases compact open-weight models alongside paid API and enterprise deployments, which lets it win developer adoption without giving away the whole product. Its positioning is explicitly European: data residency, EU AI Act familiarity and public-sector procurement are part of the offer, and governments that will not send workloads to US providers are a genuine addressable market. The constraint is compute, which is funded rather than earned.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Open-weight Mistral and Magistral models</li>\n<li>Le Chat assistant and paid API</li>\n<li>Sovereign and defence deployments</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Funding versus compute requirements</li>\n<li>European public-sector contract wins</li>\n<li>Model quality against US and Chinese labs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMistral releases compact open-weight models alongside paid API and enterprise deployments, which lets it win developer adoption without giving away the whole product. Its positioning is explicitly European: data residency, EU AI Act familiarity and public-sector procurement are part of the offer, and governments that will not send workloads to US providers are a genuine addressable market. The constraint is compute, which is funded rather than earned.\n\n## Technology Exposure\n\n- Open-weight Mistral and Magistral models\n- Le Chat assistant and paid API\n- Sovereign and defence deployments\n\n## What To Watch\n\n- Funding versus compute requirements\n- European public-sector contract wins\n- Model quality against US and Chinese labs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Mistral AI",
+    "symbol": "MISTRAL.FR",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "MISTRAL.FR",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Sovereignty is a procurement requirement, not a sentiment: a credible EU-hosted model lets regulated buyers adopt generative AI at all.",
+  "investmentLens": "Private; track enterprise contracts and EU procurement as the proof point rather than benchmark scores."
+}

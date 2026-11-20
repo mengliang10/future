@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "AI Inference at Edge",
-    "subtitle": "Running LLM/CV models on-device without cloud round-trip \u2014 phones, cars, robots",
+    "subtitle": "Running LLM/CV models ondevice without cloud roundtrip \u2014 phones, cars, robots",
     "category": "AI & Cloud",
     "stage": "early_commercial",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (Now\u20132026)",
     "source_count": 29,
     "stocks": [],
-    "permalink": "/tech/ai-inference-at-edge/"
+    "permalink": "/tech/aiinferenceatedge/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,9 @@
   "estimate": "2025\u20132028",
   "estimateYear": 2024,
   "sourceCount": 29,
-  "companies": [],
+  "companies": [
+    "sarvam.in"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

@@ -1,0 +1,25 @@
+{
+  "id": "impulse-space.us",
+  "title": "Impulse Space",
+  "summary": "California company building orbital transfer vehicles that move satellites after launch.",
+  "sector": "space",
+  "sectors": [],
+  "sourceCategory": "Space",
+  "sourcePath": "_stocks/impulse-space.us.md",
+  "sourceHash": "416cac5cd87944abf0e947e1329f3aa292add56c1f8662fa8340c3037c7e4a25",
+  "bodyHtml": "<p>Impulse Space builds small spacecraft that carry satellites from a rideshare orbit to their intended orbit, a service that launch brokers currently struggle to provide.</p>\n<p>Its Mira vehicle has flown, and the company is developing a larger platform for deep-space and high-energy missions.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Orbital transfer vehicles</li></ul>\n<ul><li>Rideshare orbit raising</li></ul>\n<ul><li>In-space propulsion</li></ul>",
+  "bodyMarkdown": "Impulse Space builds small spacecraft that carry satellites from a rideshare orbit to their intended orbit, a service that launch brokers currently struggle to provide.\n\nIts Mira vehicle has flown, and the company is developing a larger platform for deep-space and high-energy missions.\n\n**Why it matters**\n\n- Orbital transfer vehicles\n\n- Rideshare orbit raising\n\n- In-space propulsion",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "IMPULSE.PVT",
+    "name": "Impulse Space",
+    "sector": "Space"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "IMPULSE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Rideshare is cheap only if the satellite can reach its own orbit. Transfer vehicles capture that gap and make small launch economics work.",
+  "investmentLens": "Private; a services layer that grows with smallsat launch volume."
+}

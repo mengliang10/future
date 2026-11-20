@@ -1,32 +1,32 @@
 {
   "id": "commercial-fusion-power-plant",
   "title": "Commercial Fusion Power Plant",
-  "summary": "Sustained net electricity from fusion at utility scale \u2014 Commonwealth, TAE",
+  "summary": "Sustained net electricity from fusion at utility scale — Commonwealth, TAE",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/commercial-fusion-power-plant.md",
   "sourceHash": "8129790c93de3d5418ae011b9049f14d228f7fae9a3d51372e7b261bf364a6ff",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Sustained net electricity from fusion at utility scale \u2014 Commonwealth, TAE.</p>\n<p>Fundamental research phase \u2014 concept established, practical implementation remains unsolved. Our research database tracks <strong>28 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>NIF achieved scientific breakeven (more energy out than laser input) December 2022; repeated 4 times through 2024. ITER first plasma delayed to 2034. Commonwealth Fusion Systems, Helion, and TAE Technologies targeting 2030s for net-energy demonstration. No commercial plant exists; engineering breakeven (Q_eng &gt;5) not yet demonstrated.</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Basic Research</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.20</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2035\u20132065</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Long-Term (2045)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>28</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/fusion-net-energy-gain/\">Nuclear Fusion Net Energy Gain</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nSustained net electricity from fusion at utility scale \u2014 Commonwealth, TAE.\n\nFundamental research phase \u2014 concept established, practical implementation remains unsolved. Our research database tracks **28 independent sources** on this technology.\n\n> NIF achieved scientific breakeven (more energy out than laser input) December 2022; repeated 4 times through 2024. ITER first plasma delayed to 2034. Commonwealth Fusion Systems, Helion, and TAE Technologies targeting 2030s for net-energy demonstration. No commercial plant exists; engineering breakeven (Q_eng >5) not yet demonstrated.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Basic Research** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.20** |\n| Estimated Deployment | **2035\u20132065** |\n| Horizon | Long-Term (2045) |\n| Independent Sources Tracked | 28 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Nuclear Fusion Net Energy Gain](/future/tech/fusion-net-energy-gain/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Sustained net electricity from fusion at utility scale — Commonwealth, TAE.</p>\n<p>Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks <strong>28 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>NIF achieved scientific breakeven (more energy out than laser input) December 2022; repeated 4 times through 2024. ITER first plasma delayed to 2034. Commonwealth Fusion Systems, Helion, and TAE Technologies targeting 2030s for net-energy demonstration. No commercial plant exists; engineering breakeven (Q_eng &gt;5) not yet demonstrated.</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Basic Research</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.20</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2035–2065</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Long-Term (2045)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>28</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/fusion-net-energy-gain/\">Nuclear Fusion Net Energy Gain</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nSustained net electricity from fusion at utility scale — Commonwealth, TAE.\n\nFundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **28 independent sources** on this technology.\n\n> NIF achieved scientific breakeven (more energy out than laser input) December 2022; repeated 4 times through 2024. ITER first plasma delayed to 2034. Commonwealth Fusion Systems, Helion, and TAE Technologies targeting 2030s for net-energy demonstration. No commercial plant exists; engineering breakeven (Q_eng >5) not yet demonstrated.\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Basic Research** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.20** |\n| Estimated Deployment | **2035–2065** |\n| Horizon | Long-Term (2045) |\n| Independent Sources Tracked | 28 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Nuclear Fusion Net Energy Gain](/future/tech/fusion-net-energy-gain/)\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Commercial Fusion Power Plant",
-    "subtitle": "Sustained net electricity from fusion at utility scale \u2014 Commonwealth, TAE",
+    "subtitle": "Sustained net electricity from fusion at utility scale — Commonwealth, TAE",
     "category": "Energy Tech",
     "stage": "basic_research",
     "confidence_label": "Speculative",
     "est_year": 2045,
-    "est_year_range": "2035\u20132065",
+    "est_year_range": "2035–2065",
     "horizon": "Long-Term (2045)",
     "source_count": 28,
     "stocks": [],
-    "permalink": "/tech/commercial-fusion-power-plant/"
+    "permalink": "/tech/commercialfusionpowerplant/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
   "stage": "basic_research",
   "confidenceLabel": "Speculative",
-  "estimate": "2035\u20132065",
+  "estimate": "2035–2065",
   "estimateYear": 2045,
   "sourceCount": 28,
   "companies": [
@@ -36,7 +36,10 @@
     "general-fusion.ca",
     "first-light-fusion.uk",
     "marvel-fusion.de",
-    "type-one-energy.us"
+    "type-one-energy.us",
+    "proxima-fusion.de",
+    "tae.us",
+    "zap-energy.us"
   ],
   "businessMeaning": "",
   "investmentLens": ""

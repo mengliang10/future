@@ -1,17 +1,26 @@
 ---
 import {url, base} from '../../lib/base';
-import {getEntry} from 'astro:content';import {records} from '../../lib/catalogue';import Slide from '../../components/Slide.astro';import '../../styles/slides.css';
+import {getEntry} from 'astro:content';
+import {records} from '../../lib/catalogue';
+import Slide from '../../components/Slide.astro';
+import BriefingSlide from '../../components/BriefingSlide.astro';
+import PortfolioSlide from '../../components/PortfolioSlide.astro';
+import {officialVisualFor} from '../../lib/visuals';
+import '../../styles/slides.css';
 export async function getStaticPaths(){return (await records('decks')).map(deck=>({params:{id:deck.id},props:{deck}}));}
 const {deck}=Astro.props;
 const snap=deck.mode==='snapshot'?deck.snapshotData:null;
 const sector=snap?.sector||(await getEntry('sectors',deck.sector))?.data;
 const technologies=snap?.technologies||await Promise.all(deck.technologies.map(async id=>{const entry=await getEntry('technologies',id);return {...entry.data,id:entry.id};}));
 const blocks=snap?.blocks||await Promise.all(deck.blocks.map(async id=>{const entry=await getEntry('blocks',id);return {...entry.data,id:entry.id};}));
-const total=technologies.length+3;
+const custom=deck.slides?.length?deck.slides:[];
+const total=custom.length?custom.length+1:technologies.length+4;
+const accent=officialVisualFor(deck.id.replace(/-01$/,'')).color;
+const shownSector=custom.length?{...sector,title:deck.title.split('\u2014')[0].trim()}:sector;
 ---
 <!doctype html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>{deck.title} | The Future Tomorrow</title><link rel="stylesheet" href={url('/vendor/reveal.min.css')}/></head><body class="presentation" data-deck-id={deck.id} data-mode={deck.mode}>
 <nav class="deck-toolbar" aria-label="Presentation controls"><a href={url("/presentations/")}>← Library</a><span>{deck.mode==='snapshot'?'Fixed snapshot':'Shared-source briefing'}</span><div><button type="button" id="reading-mode">Reading view</button><button type="button" id="print-deck">Print / PDF</button><button type="button" id="fullscreen">Fullscreen</button></div></nav>
-<div class="reveal"><div class="slides"><Slide type="cover" title={deck.title} sector={sector} number={1} total={total}/><Slide type="block" block={blocks[0]} sector={sector} number={2} total={total}/>{technologies.map((record,i)=><Slide type="technology" record={record} sector={sector} number={i+3} total={total}/>)}<Slide type="block" block={blocks[1]} sector={sector} number={total} total={total}/></div></div>
+<div class="reveal"><div class="slides"><Slide type="cover" title={deck.title} sector={shownSector} number={1} total={total}/>{custom.length?custom.map((slide,i)=><BriefingSlide slide={slide} sector={shownSector} number={i+2} total={total} techs={technologies} accent={accent}/>):<><Slide type="block" block={blocks[0]} sector={sector} number={2} total={total}/><PortfolioSlide records={technologies} sector={sector} number={3} total={total} accent={accent}/>{technologies.map((record,i)=><Slide type="technology" record={record} sector={sector} number={i+4} total={total}/>)}<Slide type="block" block={blocks[1]} sector={sector} number={total} total={total}/></>}</div></div>
 <script is:inline src="/vendor/reveal.min.js"></script>
 <script is:inline>
 const params=new URLSearchParams(location.search),mobile=matchMedia('(max-width:760px)').matches;let reading=params.get('view')==='read'||mobile;let deck;

@@ -1,0 +1,54 @@
+---
+/** Slim stage-and-horizon signal for a technology slide. */
+const {record, accent = '#5365d9'} = Astro.props;
+
+const stageIndex = (stage: string) => {
+  const s = String(stage || '');
+  if (['basic_research', 'proof_of_concept'].includes(s)) return 0;
+  if (['prototype', 'prototyping'].includes(s)) return 1;
+  if (['pilot'].includes(s)) return 2;
+  if (['early_commercial', 'early_adoption'].includes(s)) return 3;
+  return 4;
+};
+const labels = ['Research', 'Prototype', 'Pilot', 'Commercial', 'Scale'];
+const active = stageIndex(record.stage);
+const year = Number(record.estimateYear);
+const hasYear = Number.isFinite(year) && year > 0;
+const tx = (y: number) => 880 + ((Math.min(2045, Math.max(2025, y)) - 2025) / 20) * 280;
+---
+
+<svg class="tech-signal" viewBox="0 0 1200 128" role="img" aria-label={`${record.title} sits at the ${labels[active]} stage with an estimated window of ${record.estimate}`}>
+  <line x1="60" y1="52" x2="700" y2="52" stroke="#c9d2c2"/>
+  {labels.map((label, i) => {
+    const x = 60 + i * 160;
+    return (
+      <g>
+        <circle cx={x} cy="52" r={i === active ? 9 : 5} fill={i === active ? accent : '#d4dbc9'}/>
+        {i === active && <circle cx={x} cy="52" r="16" fill="none" stroke={accent} stroke-opacity=".35"/>}
+        <text x={x} y="84" text-anchor="middle" class={i === active ? 'ts-step-on' : 'ts-step'}>{label}</text>
+      </g>
+    );
+  })}
+
+  <line x1="880" y1="52" x2="1160" y2="52" stroke="#c9d2c2"/>
+  {[2025, 2030, 2035, 2040, 2045].map((tick) => (
+    <g>
+      <line x1={tx(tick)} y1="46" x2={tx(tick)} y2="58" stroke="#c9d2c2"/>
+      <text x={tx(tick)} y="84" text-anchor="middle" class="ts-step">{tick}</text>
+    </g>
+  ))}
+  {hasYear && (
+    <g>
+      <circle cx={tx(year)} cy="52" r="7" fill={accent}/>
+      <text x={tx(year)} y="30" text-anchor="middle" class="ts-year">{record.estimate}</text>
+    </g>
+  )}
+  {!hasYear && <text x="1020" y="30" text-anchor="middle" class="ts-step">No year recorded</text>}
+</svg>
+
+<style>
+  .tech-signal { width: 100%; height: auto; margin: 4px 0 12px; }
+  .ts-step { font-size: 12px; fill: #7b8f7f; }
+  .ts-step-on { font-size: 12px; font-weight: 700; fill: #183d33; }
+  .ts-year { font-size: 12px; font-weight: 600; fill: #183d33; }
+</style>

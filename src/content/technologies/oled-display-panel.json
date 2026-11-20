@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "OLED Display Panel",
-    "subtitle": "Self-emissive OLED for high-contrast, thin displays in phones and VR headsets",
+    "subtitle": "Selfemissive OLED for highcontrast, thin displays in phones and VR headsets",
     "category": "XR",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 4,
     "stocks": [],
-    "permalink": "/tech/oled-display-panel/"
+    "permalink": "/tech/oleddisplaypanel/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -46,7 +46,9 @@
     "mitsui-chem.jp",
     "nitto-denko.jp",
     "nippon-electric-glass.jp",
-    "avanstrate.tw"
+    "avanstrate.tw",
+    "xreal.pvt",
+    "lumus.pvt"
   ],
   "businessMeaning": "",
   "investmentLens": ""

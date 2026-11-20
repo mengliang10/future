@@ -1,0 +1,24 @@
+---
+import PortfolioMap from './PortfolioMap.astro';
+const {records = [], sector, number, total, title = 'The records in this briefing', accent = '#183d33'} = Astro.props;
+const pad = (n: number) => String(n).padStart(2, '0');
+---
+<section class="slide slide-portfolio" data-slide-id="portfolio" style={`--slide-accent:${accent}`}>
+  <div class="slide-top"><span>The Future Tomorrow</span><span>{sector?.title || 'Research briefing'}</span></div>
+  <div class="portfolio-content">
+    <span class="slide-eyebrow">Reading map / {records.length} records</span>
+    <h2>{title}</h2>
+    <p class="portfolio-lede">Every row is a technology record in this deck, ordered by its imported deployment estimate. Read the chart left to right, then use the numbered records on the following slides.</p>
+    <PortfolioMap records={records} accent={accent} title="Stage and estimated deployment window" />
+  </div>
+  <div class="slide-bottom"><span>Source estimates · not a forecast</span><span>{pad(number)} / {pad(total)}</span></div>
+  <aside class="notes">This map orders the deck's technology records by estimated deployment year and groups them by source stage. Missing years are shown separately.</aside>
+</section>
+
+<style>
+  .portfolio-content { padding-top: 8px; }
+  .portfolio-content h2 { font-size: 34px; margin: 6px 0 8px; }
+  .portfolio-lede { font-size: 15px; line-height: 1.4; color: #3f5a4b; max-width: 1080px; margin: 0 0 4px; }
+  .portfolio-content :global(.portfolio-map) { margin-top: 6px; }
+  .reading .portfolio-content :global(.portfolio-map) { max-height: none; }
+</style>

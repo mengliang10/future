@@ -1,6 +1,6 @@
 {
   "id": "consumer-staples-01",
-  "title": "Consumer Staples \u2014 Official Sector Briefing",
+  "title": "Consumer Staples — How future technology reshapes the sector",
   "sector": "applied-ai",
   "mode": "evergreen",
   "added": "2026-11-18",
@@ -21,5 +21,523 @@
     "energy-water-consumption",
     "waste-heat-recovery-efficiency",
     "waste-heat-recovery"
+  ],
+  "slides": [
+    {
+      "kind": "statement",
+      "eyebrow": "01 · The thesis",
+      "title": "The technology is not the story. The cost line is.",
+      "body": "Staples are a volume business with thin margins and powerful distribution. Technology matters when it changes input cost, waste or shelf productivity. The biggest long-run shifts are biological production of ingredients, AI-driven forecasting, and retail media turning shelf space into an advertising business."
+    },
+    {
+      "kind": "points",
+      "eyebrow": "02 · Sector economics",
+      "title": "What this sector actually sells",
+      "body": "Revenue grows slowly with population and price. Gross margin depends on commodity inputs, packaging and manufacturing efficiency; distribution and trade spend absorb much of the rest.",
+      "bullets": [
+        "Volume growth is low; price/mix and market share drive reported growth.",
+        "Commodity inputs swing gross margin, often with a lag to pricing.",
+        "Trade promotion and shelf space are the main competitive currencies.",
+        "Distribution density determines cost per case.",
+        "Retail media and private label are reshaping retailer economics."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "03 · Impact map",
+      "title": "Where the impact lands",
+      "body": "Two axes matter: how soon the effect reaches reported numbers, and whether it lands on revenue or on cost and capital.",
+      "diagram": {
+        "kind": "impact",
+        "quadrants": [
+          {
+            "label": "New revenue, contested",
+            "items": [
+              "Personalised nutrition",
+              "Retail media networks",
+              "Direct subscription bundles"
+            ]
+          },
+          {
+            "label": "New revenue, durable",
+            "items": [
+              "Precision-fermented ingredients",
+              "Health-positioned reformulations",
+              "Private-label premium tiers"
+            ]
+          },
+          {
+            "label": "Cost takeout, fast",
+            "items": [
+              "Demand forecasting and waste reduction",
+              "Automated palletising and picking",
+              "Trade-spend optimisation"
+            ]
+          },
+          {
+            "label": "Structural cost shift",
+            "items": [
+              "Biological production replaces some agriculture",
+              "Packaging regulation raises cost",
+              "Distribution automation becomes necessary"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "04 · Exposure",
+      "title": "How much of the sector is actually exposed",
+      "diagram": {
+        "kind": "bars",
+        "caption": "Directional share of each pool exposed to technology-driven change",
+        "bars": [
+          {
+            "label": "Commodity input cost",
+            "pct": 50
+          },
+          {
+            "label": "Distribution and logistics",
+            "pct": 40
+          },
+          {
+            "label": "Trade promotion spend",
+            "pct": 35
+          },
+          {
+            "label": "Manufacturing waste",
+            "pct": 25
+          },
+          {
+            "label": "Retail media profit pool",
+            "pct": 20
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "05 · Supply chain",
+      "title": "The future products in the chain",
+      "body": "Each stage is a product family that has to exist for the next one to work. This is where the spend lands.",
+      "diagram": {
+        "kind": "chain",
+        "caption": "Inputs → processing → manufacturing → distribution → household",
+        "stages": [
+          {
+            "label": "Inputs",
+            "products": [
+              "Agricultural commodities",
+              "Precision fermentation",
+              "Packaging",
+              "Flavours"
+            ]
+          },
+          {
+            "label": "Processing",
+            "products": [
+              "Milling and refining",
+              "Cold chain",
+              "Sterilisation",
+              "Ingredient blends"
+            ]
+          },
+          {
+            "label": "Manufacturing",
+            "products": [
+              "Automated lines",
+              "Robotic palletising",
+              "Quality vision",
+              "Flexible batch"
+            ]
+          },
+          {
+            "label": "Distribution",
+            "products": [
+              "Route optimisation",
+              "Automated DCs",
+              "Dark stores",
+              "Returns"
+            ]
+          },
+          {
+            "label": "Household",
+            "products": [
+              "Retail media",
+              "Subscription",
+              "Personalised packs",
+              "Refill systems"
+            ]
+          }
+        ],
+        "note": "The product families to watch are ingredients made by fermentation, intelligent packaging and the data layer that connects shelf to factory."
+      }
+    },
+    {
+      "kind": "columns",
+      "eyebrow": "06 · Technology clusters",
+      "title": "Three shifts to underwrite",
+      "columns": [
+        {
+          "title": "Biological inputs",
+          "body": "Precision fermentation and cellular agriculture target the most expensive molecules, not whole foods.",
+          "items": [
+            "Precision fermentation",
+            "Enzyme engineering",
+            "Alternative proteins",
+            "Upcycled inputs"
+          ]
+        },
+        {
+          "title": "Supply-chain intelligence",
+          "body": "Forecasting and dynamic replenishment cut waste and working capital in perishable categories.",
+          "items": [
+            "Demand sensing",
+            "Automated replenishment",
+            "Cold-chain monitoring",
+            "Trade-spend optimisation"
+          ]
+        },
+        {
+          "title": "Retail media",
+          "body": "Retailers monetise first-party purchase data, changing the balance of power with brands.",
+          "items": [
+            "Sponsored search",
+            "In-store retail media",
+            "Measurement",
+            "Loyalty pricing"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "07 · The stack",
+      "title": "The stack underneath the sector",
+      "diagram": {
+        "kind": "stack",
+        "layers": [
+          {
+            "label": "Physical",
+            "note": "Farms and factories",
+            "items": [
+              "Agriculture",
+              "Fermentation",
+              "Packaging lines",
+              "Distribution"
+            ]
+          },
+          {
+            "label": "Data",
+            "note": "Shelf and supply",
+            "items": [
+              "POS data",
+              "Loyalty",
+              "Supply signals",
+              "Waste tracking"
+            ]
+          },
+          {
+            "label": "Models",
+            "note": "Forecast and price",
+            "items": [
+              "Demand forecasting",
+              "Price elasticity",
+              "Assortment",
+              "Media targeting"
+            ]
+          },
+          {
+            "label": "Products",
+            "note": "What households buy",
+            "items": [
+              "Food and beverage",
+              "Household goods",
+              "Private label",
+              "Subscriptions"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "08 · Timing",
+      "title": "When it reaches the numbers",
+      "diagram": {
+        "kind": "timeline",
+        "milestones": [
+          {
+            "year": 2026,
+            "label": "AI forecasting standard",
+            "detail": "Waste and stockouts fall in perishables",
+            "lane": 0
+          },
+          {
+            "year": 2027,
+            "label": "Fermented ingredients scale",
+            "detail": "Cost parity in selected molecules",
+            "lane": 0
+          },
+          {
+            "year": 2029,
+            "label": "Autonomous distribution",
+            "detail": "Robotic DCs in dense markets",
+            "lane": 1
+          },
+          {
+            "year": 2031,
+            "label": "Personalised nutrition",
+            "detail": "Data-driven packs at scale",
+            "lane": 1
+          },
+          {
+            "year": 2033,
+            "label": "Regenerative supply chains",
+            "detail": "Verified low-carbon inputs",
+            "lane": 2
+          },
+          {
+            "year": 2035,
+            "label": "Closed-loop packaging",
+            "detail": "Refill and reuse economics work",
+            "lane": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "table",
+      "eyebrow": "09 · Line by line",
+      "title": "Where the money actually moves",
+      "table": {
+        "head": [
+          "P&L line",
+          "Mechanism",
+          "Timing",
+          "Proof point"
+        ],
+        "rows": [
+          [
+            "COGS",
+            "Fermented inputs and yield improvement",
+            "2027 → 2032",
+            "Cost per kilogram at scale"
+          ],
+          [
+            "Waste",
+            "Forecasting and cold-chain control",
+            "Now → 2028",
+            "Shrink as share of sales"
+          ],
+          [
+            "Trade spend",
+            "Measurement and targeted promotion",
+            "Now → 2029",
+            "Promotion ROI"
+          ],
+          [
+            "Distribution",
+            "Route and DC automation",
+            "2027 → 2031",
+            "Cost per case"
+          ],
+          [
+            "Gross margin",
+            "Mix shift to health and private label",
+            "Continuous",
+            "Price/mix contribution"
+          ]
+        ]
+      }
+    },
+    {
+      "kind": "points",
+      "eyebrow": "10 · Winners",
+      "title": "Who gains",
+      "bullets": [
+        "Scale manufacturers with data-driven supply chains and strong private-label positions.",
+        "Ingredient-tech companies with cost parity and regulatory approval.",
+        "Discounters and club formats with efficient logistics.",
+        "Retailers building media networks on first-party data.",
+        "Packaging companies with recyclable or refillable formats."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "11 · Exposure",
+      "title": "Who is exposed",
+      "bullets": [
+        "Premium brands with no functional differentiation.",
+        "Small distributors without automation or density.",
+        "Sugar- and salt-heavy portfolios facing regulation and reformulation cost.",
+        "Single-ingredient suppliers exposed to fermentation substitution.",
+        "Retailers without loyalty data or media capability."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "12 · Signposts",
+      "title": "What to watch next",
+      "body": "Signposts are chosen so that each one can falsify part of the thesis within four quarters.",
+      "bullets": [
+        "<strong>Volume versus price</strong> split in reported growth.",
+        "<strong>Fermentation cost curves</strong> for the top three molecules.",
+        "<strong>Shrink and waste</strong> as a share of sales.",
+        "<strong>Private-label share</strong> by category.",
+        "<strong>Retail media revenue</strong> and its margin contribution."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "13 · The ecosystem",
+      "title": "Who has to deliver for this to work",
+      "diagram": {
+        "kind": "actors",
+        "caption": "Farm inputs → manufacturing → retail → logistics → alternative ingredients",
+        "groups": [
+          {
+            "label": "Inputs",
+            "role": "Seed, fertiliser, commodities",
+            "names": [
+              "Nutrien",
+              "Corteva",
+              "ADM",
+              "Bunge",
+              "Syngenta"
+            ]
+          },
+          {
+            "label": "Manufacturing",
+            "role": "Brands and formulation",
+            "names": [
+              "Nestlé",
+              "Unilever",
+              "Procter & Gamble",
+              "PepsiCo",
+              "Coca-Cola"
+            ]
+          },
+          {
+            "label": "Retail",
+            "role": "Shelf access and data",
+            "names": [
+              "Walmart",
+              "Costco",
+              "Tesco",
+              "Carrefour",
+              "Kroger"
+            ]
+          },
+          {
+            "label": "Logistics",
+            "role": "Cold chain and distribution",
+            "names": [
+              "C.H. Robinson",
+              "DHL",
+              "Maersk",
+              "Americold"
+            ]
+          },
+          {
+            "label": "New ingredients",
+            "role": "Fermentation and alt protein",
+            "names": [
+              "Perfect Day",
+              "Impossible Foods",
+              "Ginkgo Bioworks",
+              "Twist Bioscience"
+            ]
+          }
+        ],
+        "note": "Staples are defensive until an input shock or a health trend changes the basket."
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "14 · Where the thesis breaks",
+      "title": "Where the thesis could break",
+      "diagram": {
+        "kind": "risk",
+        "caption": "Evidence strength versus P&L impact",
+        "items": [
+          {
+            "label": "Precision fermentation reaches cost parity",
+            "evidence": 40,
+            "impact": 55,
+            "note": "Cost per kilogram at scale"
+          },
+          {
+            "label": "Climate shocks hit harvests",
+            "evidence": 60,
+            "impact": 85,
+            "note": "Input cost volatility"
+          },
+          {
+            "label": "Retailer data walls limit brand pricing",
+            "evidence": 55,
+            "impact": 65,
+            "note": "First-party data advantage"
+          },
+          {
+            "label": "Warehouse automation cuts cost",
+            "evidence": 65,
+            "impact": 55,
+            "note": "Distribution margin"
+          },
+          {
+            "label": "GLP-1 drugs shrink packaged food demand",
+            "evidence": 50,
+            "impact": 70,
+            "note": "Volume mix by category"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "15 · The value pool",
+      "title": "From gross spend to defensible profit",
+      "diagram": {
+        "kind": "funnel",
+        "caption": "Where the money narrows",
+        "stages": [
+          {
+            "label": "Consumer staples spending",
+            "pct": 100,
+            "note": "Gross"
+          },
+          {
+            "label": "Manufacturer net revenue",
+            "pct": 48,
+            "note": "After trade spend"
+          },
+          {
+            "label": "Gross profit",
+            "pct": 18,
+            "note": "Inputs and manufacturing"
+          },
+          {
+            "label": "Brand marketing",
+            "pct": 6,
+            "note": "Discretionary lever"
+          },
+          {
+            "label": "Net margin",
+            "pct": 5,
+            "note": "Defensive but capped"
+          }
+        ],
+        "note": "Brand owners defend the middle of the funnel with marketing; automation mostly protects the bottom."
+      }
+    },
+    {
+      "kind": "research",
+      "eyebrow": "16 · Evidence",
+      "title": "Read the research behind this deck",
+      "body": "Linked records cover food tech, supply chains, retail media and materials. Cost-parity claims should be checked at commercial scale, not lab scale.",
+      "footnote": "Scenario synthesis compiled 19 November 2026. Directional shares and timelines are analytical judgements, not measured statistics or forecasts. Each technology record carries its own confidence label and source path."
+    }
   ]
 }

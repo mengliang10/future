@@ -1,0 +1,27 @@
+{
+  "id": "etched.us",
+  "title": "Etched",
+  "summary": "Silicon start-up building a transformer-specific inference chip called Sohu.",
+  "sector": "semiconductors",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/etched.us.md",
+  "sourceHash": "197f5356eb19071b315e4e85598d24bd73b50c8470698cb24a3bf0b74a2472f6",
+  "bodyHtml": "<p>Etched designs an ASIC dedicated to transformer inference rather than a general-purpose GPU. The company argues that hard-wiring the attention and feed-forward patterns buys a large efficiency gain.</p>\n<p>The trade-off is flexibility: a transformer-specific chip must track model architecture changes, and the company is betting transformers remain dominant.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Transformer-only inference ASIC</li></ul>\n<ul><li>High throughput per watt target</li></ul>\n<ul><li>Server-level deployment</li></ul>",
+  "bodyMarkdown": "Etched designs an ASIC dedicated to transformer inference rather than a general-purpose GPU. The company argues that hard-wiring the attention and feed-forward patterns buys a large efficiency gain.\n\nThe trade-off is flexibility: a transformer-specific chip must track model architecture changes, and the company is betting transformers remain dominant.\n\n**Why it matters**\n\n- Transformer-only inference ASIC\n\n- High throughput per watt target\n\n- Server-level deployment",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "ETCHED.PVT",
+    "name": "Etched",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "ETCHED.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Specialised silicon wins when a workload is stable and large. The risk is architectural drift; the reward is a step-change in serving cost.",
+  "investmentLens": "Private; the read is through TSMC capacity and server OEMs that would build systems around the chip."
+}

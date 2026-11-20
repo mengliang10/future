@@ -1,40 +1,42 @@
 {
   "id": "humanoid-robot-factory-deployment",
   "title": "Humanoid Robot (Factory Deployment)",
-  "summary": "Humanoids performing real production tasks commercially \u2014 Tesla Giga 2026 target",
+  "summary": "Humanoids performing real production tasks commercially — Tesla Giga 2026 target",
   "sector": "robotics",
   "sourceCategory": "Robotics",
   "sourcePath": "_tech/humanoid-robot-factory-deployment.md",
   "sourceHash": "912a70c1ab21d06cf0b84d82dbf3aff03d5edd28f84525c25d00dc2a7feca7ad",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>Humanoids performing real production tasks commercially \u2014 Tesla Giga 2026 target.</p>\n<p>Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks <strong>18 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:The Download: China\u2019s AI drama factory and the WHO\u2019s missing health ta | rel=0.41 | uid:034c5dfe93abf656</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Pilot / Limited Deployment</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.20</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2026\u20132030</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (Now\u20132026)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>18</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/humanoid-robot-demo/\">Humanoid Robot (Lab / Controlled Demo)</a></li>\n<li><a href=\"/tech/robotics-foundation-model/\">Robotics Foundation Model</a></li>\n</ul>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/humanoid-robot-general/\">General-Purpose Humanoid Robot</a></li>\n<li><a href=\"/tech/dexterous-robot-hand/\">Dexterous Robot Hand</a></li>\n<li><a href=\"/tech/robot-learning-from-demo/\">Robot Learning from Demonstration</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/tsla/\">TSLA</a>  <a href=\"/companies/nvda/\">NVDA</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
-  "bodyMarkdown": "## What This Is\n\nHumanoids performing real production tasks commercially \u2014 Tesla Giga 2026 target.\n\nPilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **18 independent sources** on this technology.\n\n> RSS:The Download: China\u2019s AI drama factory and the WHO\u2019s missing health ta | rel=0.41 | uid:034c5dfe93abf656\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Pilot / Limited Deployment** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.20** |\n| Estimated Deployment | **2026\u20132030** |\n| Horizon | Near-Term (Now\u20132026) |\n| Independent Sources Tracked | 18 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Humanoid Robot (Lab / Controlled Demo)](/future/tech/humanoid-robot-demo/)\n- [Robotics Foundation Model](/future/tech/robotics-foundation-model/)\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [General-Purpose Humanoid Robot](/future/tech/humanoid-robot-general/)\n- [Dexterous Robot Hand](/future/tech/dexterous-robot-hand/)\n- [Robot Learning from Demonstration](/future/tech/robot-learning-from-demo/)\n\n## Investment Exposure\n\n[TSLA](/future/stocks/tsla/)  [NVDA](/future/stocks/nvda/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Humanoids performing real production tasks commercially — Tesla Giga 2026 target.</p>\n<p>Pilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks <strong>18 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:The Download: China’s AI drama factory and the WHO’s missing health ta | rel=0.41 | uid:034c5dfe93abf656</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Pilot / Limited Deployment</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.20</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>2026–2030</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Near-Term (Now–2026)</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>18</td>\n</tr>\n</tbody>\n</table>\n<h2>Prerequisites</h2>\n<p>This technology depends on or is closely linked to:</p>\n<ul>\n<li><a href=\"/tech/humanoid-robot-demo/\">Humanoid Robot (Lab / Controlled Demo)</a></li>\n<li><a href=\"/tech/robotics-foundation-model/\">Robotics Foundation Model</a></li>\n</ul>\n<h2>What This Enables</h2>\n<p>Advancement here directly benefits or unblocks:</p>\n<ul>\n<li><a href=\"/tech/humanoid-robot-general/\">General-Purpose Humanoid Robot</a></li>\n<li><a href=\"/tech/dexterous-robot-hand/\">Dexterous Robot Hand</a></li>\n<li><a href=\"/tech/robot-learning-from-demo/\">Robot Learning from Demonstration</a></li>\n</ul>\n<h2>Investment Exposure</h2>\n<p><a href=\"/companies/tsla/\">TSLA</a>  <a href=\"/companies/nvda/\">NVDA</a></p>\n<p>See each stock page for how this maps to specific revenue drivers, milestones, and risk factors.</p>\n",
+  "bodyMarkdown": "## What This Is\n\nHumanoids performing real production tasks commercially — Tesla Giga 2026 target.\n\nPilot deployments and early-stage commercial testing underway. Technology is proven at small scale. Our research database tracks **18 independent sources** on this technology.\n\n> RSS:The Download: China’s AI drama factory and the WHO’s missing health ta | rel=0.41 | uid:034c5dfe93abf656\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Pilot / Limited Deployment** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.20** |\n| Estimated Deployment | **2026–2030** |\n| Horizon | Near-Term (Now–2026) |\n| Independent Sources Tracked | 18 |\n\n## Prerequisites\n\nThis technology depends on or is closely linked to:\n\n- [Humanoid Robot (Lab / Controlled Demo)](/future/tech/humanoid-robot-demo/)\n- [Robotics Foundation Model](/future/tech/robotics-foundation-model/)\n\n## What This Enables\n\nAdvancement here directly benefits or unblocks:\n\n- [General-Purpose Humanoid Robot](/future/tech/humanoid-robot-general/)\n- [Dexterous Robot Hand](/future/tech/dexterous-robot-hand/)\n- [Robot Learning from Demonstration](/future/tech/robot-learning-from-demo/)\n\n## Investment Exposure\n\n[TSLA](/future/stocks/tsla/)  [NVDA](/future/stocks/nvda/)\n\nSee each stock page for how this maps to specific revenue drivers, milestones, and risk factors.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Humanoid Robot (Factory Deployment)",
-    "subtitle": "Humanoids performing real production tasks commercially \u2014 Tesla Giga 2026 target",
+    "subtitle": "Humanoids performing real production tasks commercially — Tesla Giga 2026 target",
     "category": "Robotics",
     "stage": "pilot",
     "confidence_label": "Speculative",
     "est_year": 2025,
-    "est_year_range": "2026\u20132030",
-    "horizon": "Near-Term (Now\u20132026)",
+    "est_year_range": "2026–2030",
+    "horizon": "Near-Term (Now–2026)",
     "source_count": 18,
     "stocks": [
       "TSLA",
       "NVDA"
     ],
-    "permalink": "/tech/humanoid-robot-factory-deployment/"
+    "permalink": "/tech/humanoidrobotfactorydeployment/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
   "stage": "pilot",
   "confidenceLabel": "Speculative",
-  "estimate": "2026\u20132030",
+  "estimate": "2026–2030",
   "estimateYear": 2025,
   "sourceCount": 18,
   "companies": [
     "tsla",
-    "nvda"
+    "nvda",
+    "agility-robotics.pvt",
+    "apptronik.pvt"
   ],
   "businessMeaning": "",
   "investmentLens": ""

@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Transformer Architecture",
-    "subtitle": "Attention-based neural network (Vaswani 2017) underlying all modern LLMs",
+    "subtitle": "Attentionbased neural network (Vaswani 2017) underlying all modern LLMs",
     "category": "AI & Cloud",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 36,
     "stocks": [],
-    "permalink": "/tech/transformer-architecture/"
+    "permalink": "/tech/transformerarchitecture/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

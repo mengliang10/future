@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Cookieless Tracking / Privacy Sandbox",
-    "subtitle": "Post-cookie measurement via cohorts, on-device ML, server-side tagging",
+    "subtitle": "Postcookie measurement via cohorts, ondevice ML, serverside tagging",
     "category": "Marketing Tech",
     "stage": "pilot",
     "confidence_label": "Speculative",
@@ -22,7 +22,7 @@
     "stocks": [
       "TTD"
     ],
-    "permalink": "/tech/cookieless-tracking-privacy-sandbox/"
+    "permalink": "/tech/cookielesstrackingprivacysandbox/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

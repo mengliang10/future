@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Circular RNA (circRNA) Therapy",
-    "subtitle": "Durable mRNA-like platforms that resist degradation for longer-lasting therapeutic effect.",
+    "subtitle": "Durable mRNAlike platforms that resist degradation for longerlasting therapeutic effect.",
     "category": "Biotech",
     "stage": "basic_research",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Long-Range (2040+)",
     "source_count": 6,
     "stocks": [],
-    "permalink": "/tech/circrna-technology/"
+    "permalink": "/tech/circrnatechnology/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

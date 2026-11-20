@@ -1,0 +1,27 @@
+{
+  "id": "black-forest-labs.de",
+  "title": "Black Forest Labs",
+  "summary": "German lab behind the FLUX image models, founded by former Stable Diffusion researchers.",
+  "sector": "llms-models",
+  "sectors": [
+    "applied-ai"
+  ],
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/black-forest-labs.de.md",
+  "sourceHash": "038e29e1d4ccb76fa6f9cc82705e3b40b571cb3691a05f8a1279556f9c127538",
+  "bodyHtml": "<p>Black Forest Labs develops the FLUX family of image-generation models and licenses them through APIs and partnerships.</p>\n<p>The team came from the original Stable Diffusion work, and the company competes on image quality, controllability and commercial licensing rather than on a consumer app.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>FLUX image models</li></ul>\n<ul><li>Licensed APIs and partnerships</li></ul>\n<ul><li>Controllable generation</li></ul>",
+  "bodyMarkdown": "Black Forest Labs develops the FLUX family of image-generation models and licenses them through APIs and partnerships.\n\nThe team came from the original Stable Diffusion work, and the company competes on image quality, controllability and commercial licensing rather than on a consumer app.\n\n**Why it matters**\n\n- FLUX image models\n\n- Licensed APIs and partnerships\n\n- Controllable generation",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "BFL.PVT",
+    "name": "Black Forest Labs",
+    "sector": "LLMs & Models"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "BFL.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Image models are converging quickly, so the durable position is either the best model or the distribution channel. BFL is betting on quality and licensing.",
+  "investmentLens": "Private; watch the platforms that embed image generation and the compute suppliers behind it."
+}

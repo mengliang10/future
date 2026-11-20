@@ -25,5 +25,8 @@
   "exchange": "TSE",
   "private": false,
   "businessMeaning": "Machine vision starts with the sensor; optical quality sets the ceiling for any perception stack.",
-  "investmentLens": "A conglomerate with a hidden monopoly; sensor margins are the part the market underrates."
+  "investmentLens": "A conglomerate with a hidden monopoly; sensor margins are the part the market underrates.",
+  "sectors": [
+    "spatial-computing"
+  ]
 }

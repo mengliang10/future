@@ -1,0 +1,27 @@
+{
+  "id": "d-matrix.us",
+  "title": "d-matrix",
+  "summary": "Santa Clara start-up building digital in-memory compute chips for AI inference.",
+  "sector": "semiconductors",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/d-matrix.us.md",
+  "sourceHash": "4c222455009cd1edcac84dea01fc3fa7d9906c05e4e53124daaa5d9d1f47f847",
+  "bodyHtml": "<p>d-matrix designs inference accelerators that place compute next to memory to reduce the energy spent moving data. Its Corsair product targets low-latency inference such as recommendation and chat.</p>\n<p>The architecture is digital rather than analog, which keeps it compatible with standard manufacturing and software tooling.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>In-memory compute for inference</li></ul>\n<ul><li>Low-latency serving</li></ul>\n<ul><li>Rack-scale deployment</li></ul>",
+  "bodyMarkdown": "d-matrix designs inference accelerators that place compute next to memory to reduce the energy spent moving data. Its Corsair product targets low-latency inference such as recommendation and chat.\n\nThe architecture is digital rather than analog, which keeps it compatible with standard manufacturing and software tooling.\n\n**Why it matters**\n\n- In-memory compute for inference\n\n- Low-latency serving\n\n- Rack-scale deployment",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "DMATRIX.PVT",
+    "name": "d-matrix",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "DMATRIX.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Inference economics are dominated by memory movement. A chip that cuts that cost can win even without peak FLOPS leadership.",
+  "investmentLens": "Private; a bet on inference becoming the larger share of AI compute spend."
+}

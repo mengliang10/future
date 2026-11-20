@@ -1,0 +1,29 @@
+{
+  "id": "nous-research.us",
+  "title": "Nous Research",
+  "summary": "US open-model collective known for the Hermes model series and decentralised training research.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/nous-research.us.md",
+  "sourceHash": "8eb211a2e84a9464cfd50d1068a2038cbc6e86bea002e806099b40abaedfb01a",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Nous Research publishes Hermes models fine-tuned from open bases, and has worked on distributed training methods intended to let contributors train across scattered hardware. Its community distribution gives it reach disproportionate to its funding, and the open weights make its work a common starting point for other fine-tunes. Monetisation runs through hosted access and subscriptions rather than enterprise contracts.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Hermes open-weight models</li>\n<li>Distributed and decentralised training research</li>\n<li>Hosted model access</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Funding versus community expectations</li>\n<li>Licensing constraints of base models</li>\n<li>Distributed training reaching competitive quality</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nNous Research publishes Hermes models fine-tuned from open bases, and has worked on distributed training methods intended to let contributors train across scattered hardware. Its community distribution gives it reach disproportionate to its funding, and the open weights make its work a common starting point for other fine-tunes. Monetisation runs through hosted access and subscriptions rather than enterprise contracts.\n\n## Technology Exposure\n\n- Hermes open-weight models\n- Distributed and decentralised training research\n- Hosted model access\n\n## What To Watch\n\n- Funding versus community expectations\n- Licensing constraints of base models\n- Distributed training reaching competitive quality\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Nous Research",
+    "symbol": "NOUS.US",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "NOUS.US",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "If training can be distributed across donated hardware, the capital barrier to a capable model falls and incumbents lose a structural advantage.",
+  "investmentLens": "Private and community-funded; relevant as a signal on open-model quality and training costs."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "solid-power.us",
+  "title": "Solid Power",
+  "summary": "Louisville, Colorado producer of sulfide solid electrolytes for solid-state batteries.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/solid-power.us.md",
+  "sourceHash": "69ea723c86c9f7f4ac2daf0534152a97833d6561a0d79e84a3f9c556e01d2c78",
+  "bodyHtml": "<p>Solid Power makes the solid electrolyte powder that replaces liquid electrolyte in solid-state cells, and has worked with BMW and Ford on cell development.</p>\n<p>Its strategy is to sell electrolyte material and licence cell designs to established battery makers rather than compete as a cell manufacturer.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Sulfide solid electrolyte</li></ul>\n<ul><li>Licensing model</li></ul>\n<ul><li>Automotive partnerships</li></ul>",
+  "bodyMarkdown": "Solid Power makes the solid electrolyte powder that replaces liquid electrolyte in solid-state cells, and has worked with BMW and Ford on cell development.\n\nIts strategy is to sell electrolyte material and licence cell designs to established battery makers rather than compete as a cell manufacturer.\n\n**Why it matters**\n\n- Sulfide solid electrolyte\n\n- Licensing model\n\n- Automotive partnerships",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "SLDP",
+    "name": "Solid Power",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "SLDP",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Materials suppliers can win even when cell makers fragment. The risk is that sulfide electrolytes remain difficult to handle at scale.",
+  "investmentLens": "A listed small-cap materials play; revenue depends on partners reaching production, not on laboratory results."
+}

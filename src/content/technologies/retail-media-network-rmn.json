@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Retail Media Network (RMN)",
-    "subtitle": "Retailer first-party data monetized as ad inventory \u2014 Amazon Ads, Walmart Connect",
+    "subtitle": "Retailer firstparty data monetized as ad inventory \u2014 Amazon Ads, Walmart Connect",
     "category": "Marketing Tech",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 13,
     "stocks": [],
-    "permalink": "/tech/retail-media-network-rmn/"
+    "permalink": "/tech/retailmedianetworkrmn/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

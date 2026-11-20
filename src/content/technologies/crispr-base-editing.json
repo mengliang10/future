@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "CRISPR Base Editing",
-    "subtitle": "Single base pair correction without double-strand breaks \u2014 David Liu, Beam Tx",
+    "subtitle": "Single base pair correction without doublestrand breaks \u2014 David Liu, Beam Tx",
     "category": "Biotech",
     "stage": "early_commercial",
     "confidence_label": "Researching",
@@ -22,7 +22,7 @@
     "stocks": [
       "BEAM"
     ],
-    "permalink": "/tech/crispr-base-editing/"
+    "permalink": "/tech/crisprbaseediting/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Small Modular Reactor (<300MWe)",
-    "subtitle": "Factory-built modular reactors \u2014 NuScale VOYGR, GEH BWRX-300, Rolls-Royce SMR",
+    "subtitle": "Factorybuilt modular reactors \u2014 NuScale VOYGR, GEH BWRX300, RollsRoyce SMR",
     "category": "Energy Tech",
     "stage": "pilot",
     "confidence_label": "Speculative",
@@ -24,7 +24,7 @@
       "GEV",
       "CCJ"
     ],
-    "permalink": "/tech/small-modular-reactor-300mwe/"
+    "permalink": "/tech/smallmodularreactor300mwe/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

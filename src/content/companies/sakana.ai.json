@@ -1,0 +1,29 @@
+{
+  "id": "sakana.ai",
+  "title": "Sakana AI",
+  "summary": "Tokyo research lab using evolutionary methods to merge and compose existing models.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/sakana.ai.md",
+  "sourceHash": "48d448f81d30d83bd0d6c583afd630b9bed7a3d573173e98c6c75857a7d3792c",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Sakana AI, founded by former Google researchers, works on model merging, evolutionary search and automated research rather than training ever-larger models from scratch. The approach assumes that combining capable open models can beat scaling a single one at a fraction of the compute. Its 'AI Scientist' work made automated paper generation a visible research topic, and commercialisation is still early.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Evolutionary model merging</li>\n<li>Automated research workflows</li>\n<li>Small efficient models for Japanese users</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Commercial path for research output</li>\n<li>Funding and compute constraints</li>\n<li>Reproducibility of published methods</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSakana AI, founded by former Google researchers, works on model merging, evolutionary search and automated research rather than training ever-larger models from scratch. The approach assumes that combining capable open models can beat scaling a single one at a fraction of the compute. Its 'AI Scientist' work made automated paper generation a visible research topic, and commercialisation is still early.\n\n## Technology Exposure\n\n- Evolutionary model merging\n- Automated research workflows\n- Small efficient models for Japanese users\n\n## What To Watch\n\n- Commercial path for research output\n- Funding and compute constraints\n- Reproducibility of published methods\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Sakana AI",
+    "symbol": "SAKANA.AI",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SAKANA.AI",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "If composition beats training, the cost of frontier capability falls to whoever can search model space cheaply.",
+  "investmentLens": "Private and research-led; a methods bet rather than a product bet."
+}

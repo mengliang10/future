@@ -1,0 +1,27 @@
+{
+  "id": "kairos-power.us",
+  "title": "Kairos Power",
+  "summary": "Alameda company building fluoride-salt-cooled nuclear reactors with a demonstration project in Tennessee.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/kairos-power.us.md",
+  "sourceHash": "23c2f40d99be54b458fb0fb46e672e5103ed7c499ecd4bbcf58715d65f35e449",
+  "bodyHtml": "<p>Kairos Power is developing a high-temperature reactor cooled by molten fluoride salt, with a design intended to be simpler and safer than conventional light-water plants.</p>\n<p>It is building a demonstration reactor in Oak Ridge, Tennessee, with support from the US Department of Energy and a power purchase agreement with Google.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Fluoride-salt cooling</li></ul>\n<ul><li>High-temperature reactor</li></ul>\n<ul><li>Demonstration build in Tennessee</li></ul>",
+  "bodyMarkdown": "Kairos Power is developing a high-temperature reactor cooled by molten fluoride salt, with a design intended to be simpler and safer than conventional light-water plants.\n\nIt is building a demonstration reactor in Oak Ridge, Tennessee, with support from the US Department of Energy and a power purchase agreement with Google.\n\n**Why it matters**\n\n- Fluoride-salt cooling\n\n- High-temperature reactor\n\n- Demonstration build in Tennessee",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "KAIROS.PVT",
+    "name": "Kairos Power",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "KAIROS.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Data-centre operators are contracting nuclear power directly, which gives advanced fission a commercial pull that it lacked for decades.",
+  "investmentLens": "Private; the read is through nuclear fuel, salt and turbine suppliers."
+}

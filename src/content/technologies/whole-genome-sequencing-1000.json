@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Whole Genome Sequencing <$1000",
-    "subtitle": "Cost threshold enabling population-scale genomics \u2014 crossed ~2023",
+    "subtitle": "Cost threshold enabling populationscale genomics \u2014 crossed ~2023",
     "category": "Biotech",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -22,7 +22,7 @@
     "stocks": [
       "ILMN"
     ],
-    "permalink": "/tech/whole-genome-sequencing-1000/"
+    "permalink": "/tech/wholegenomesequencing1000/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

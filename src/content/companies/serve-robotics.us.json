@@ -1,0 +1,27 @@
+{
+  "id": "serve-robotics.us",
+  "title": "Serve Robotics",
+  "summary": "Los Angeles sidewalk delivery robot operator spun out of Uber's Postmates acquisition.",
+  "sector": "autonomous",
+  "sectors": [
+    "robotics"
+  ],
+  "sourceCategory": "Autonomous & AV",
+  "sourcePath": "_stocks/serve-robotics.us.md",
+  "sourceHash": "0911862aabdc23dbbd379a58317b994a64b7ad7c594b8ea02c79e3e246593e5e",
+  "bodyHtml": "<p>Serve Robotics operates four-wheeled sidewalk robots for local food delivery, with Uber Eats as its anchor partner. It went public in 2024.</p>\n<p>The robots drive autonomously on pavements with remote human supervision for edge cases, and the company sells delivery as a service to merchants and platforms.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Sidewalk delivery fleet</li></ul>\n<ul><li>Uber Eats integration</li></ul>\n<ul><li>Remote supervision model</li></ul>",
+  "bodyMarkdown": "Serve Robotics operates four-wheeled sidewalk robots for local food delivery, with Uber Eats as its anchor partner. It went public in 2024.\n\nThe robots drive autonomously on pavements with remote human supervision for edge cases, and the company sells delivery as a service to merchants and platforms.\n\n**Why it matters**\n\n- Sidewalk delivery fleet\n\n- Uber Eats integration\n\n- Remote supervision model",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "SERV",
+    "name": "Serve Robotics",
+    "sector": "Autonomous & AV"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "SERV",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Sidewalk delivery has a clear niche in dense neighbourhoods, but revenue per robot per day is small. Watch fleet utilisation and the cost of remote operators.",
+  "investmentLens": "A rare listed pure-play. It is a small-cap operator, so the share price is sensitive to financing and delivery volume rather than technology milestones alone."
+}

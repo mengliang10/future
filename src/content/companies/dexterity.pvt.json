@@ -1,0 +1,27 @@
+{
+  "id": "dexterity.pvt",
+  "title": "Dexterity",
+  "summary": "Redwood City company automating truck loading and unloading with AI-guided arms.",
+  "sector": "robotics",
+  "sectors": [
+    "applied-ai"
+  ],
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/dexterity.pvt.md",
+  "sourceHash": "755a3f3ddf77e37cd98634f10a3e399c2639757b79d55acfcf174ade3161bda7",
+  "bodyHtml": "<p>Dexterity builds robots for physically difficult warehouse tasks, especially moving boxes into and out of trailers. Its DexR system combines arms, suction and vision to handle mixed cartons.</p>\n<p>Truck loading is unattractive manual work with high injury rates, which makes the labour case clearer than in general-purpose manipulation.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Trailer loading and unloading</li></ul>\n<ul><li>Mixed carton handling</li></ul>\n<ul><li>Vision and motion planning for confined spaces</li></ul>",
+  "bodyMarkdown": "Dexterity builds robots for physically difficult warehouse tasks, especially moving boxes into and out of trailers. Its DexR system combines arms, suction and vision to handle mixed cartons.\n\nTruck loading is unattractive manual work with high injury rates, which makes the labour case clearer than in general-purpose manipulation.\n\n**Why it matters**\n\n- Trailer loading and unloading\n\n- Mixed carton handling\n\n- Vision and motion planning for confined spaces",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "DEXTERITY.PVT",
+    "name": "Dexterity",
+    "sector": "Robotics"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "DEXTERITY.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "The buyer comparison is a crew of loaders against a fixed cell that must handle the messiest boxes in the network. Throughput variance matters more than average speed.",
+  "investmentLens": "Private; a narrow, defensible automation niche rather than a platform bet."
+}

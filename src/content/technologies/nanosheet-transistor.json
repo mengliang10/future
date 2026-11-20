@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Nanosheet Transistor (GAA architecture)",
-    "subtitle": "Horizontal nanosheet stacks replacing FinFET fins in gate-all-around transistors; TSMC/Samsung 3n...",
+    "subtitle": "Horizontal nanosheet stacks replacing FinFET fins in gateallaround transistors; TSMC/Samsung 3n...",
     "category": "Semiconductors",
     "stage": "early_commercial",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 6,
     "stocks": [],
-    "permalink": "/tech/nanosheet-transistor/"
+    "permalink": "/tech/nanosheettransistor/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

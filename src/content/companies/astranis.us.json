@@ -1,0 +1,25 @@
+{
+  "id": "astranis.us",
+  "title": "Astranis",
+  "summary": "San Francisco builder of small geostationary broadband satellites.",
+  "sector": "space",
+  "sectors": [],
+  "sourceCategory": "Space",
+  "sourcePath": "_stocks/astranis.us.md",
+  "sourceHash": "e6d8f7bc53951e81ae89b4389d2d9233fe16bbf40565ea813a4b1cd86ecba844",
+  "bodyHtml": "<p>Astranis builds small satellites for geostationary orbit, aiming to deliver broadband capacity at a fraction of the cost of traditional large GEO platforms.</p>\n<p>It sells dedicated capacity to telecom operators and governments, particularly in regions underserved by fibre.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Small GEO satellites</li></ul>\n<ul><li>Dedicated broadband capacity</li></ul>\n<ul><li>Telecom partnerships</li></ul>",
+  "bodyMarkdown": "Astranis builds small satellites for geostationary orbit, aiming to deliver broadband capacity at a fraction of the cost of traditional large GEO platforms.\n\nIt sells dedicated capacity to telecom operators and governments, particularly in regions underserved by fibre.\n\n**Why it matters**\n\n- Small GEO satellites\n\n- Dedicated broadband capacity\n\n- Telecom partnerships",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "ASTRANIS.PVT",
+    "name": "Astranis",
+    "sector": "Space"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "ASTRANIS.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "GEO satellites have long lives and predictable capacity, which suits infrastructure buyers. The risk is launch delays and spectrum coordination.",
+  "investmentLens": "Private; the read is through launch providers and ground-segment suppliers."
+}

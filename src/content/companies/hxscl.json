@@ -1,7 +1,7 @@
 {
   "id": "hxscl",
   "title": "SK Hynix",
-  "summary": "",
+  "summary": "SK Hynix currently leads the market in High Bandwidth Memory (HBM) required for NVIDIA's GPU clusters. They are a pure-play vector for AI hardware scaling.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_stocks/hxscl.md",
@@ -25,5 +25,8 @@
   "exchange": "OTC",
   "private": false,
   "businessMeaning": "",
-  "investmentLens": ""
+  "investmentLens": "",
+  "sectors": [
+    "memory"
+  ]
 }

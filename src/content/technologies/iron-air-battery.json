@@ -1,0 +1,39 @@
+{
+  "id": "iron-air-battery",
+  "title": "Iron-Air Batteries",
+  "summary": "Rechargeable iron-air chemistry aimed at hundred-hour grid storage using cheap, abundant materials.",
+  "sector": "energy",
+  "sourceCategory": "Energy",
+  "sourcePath": "_tech/iron-air-battery.md",
+  "sourceHash": "7b6b010b39dd9273be3bf2e8e9cb573503bf4b14bbc2d910cc7c3cffaf3b2842",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>An iron-air battery stores energy by reversibly rusting iron in the presence of oxygen and water. The materials are cheap and non-flammable, which suits stationary storage rather than vehicles.</p>\n<h2>Why Duration Matters</h2>\n<p>Lithium-ion is economic for a few hours of storage. A grid with heavy wind and solar needs multi-day cover, and that requires a chemistry where adding hours costs little. Iron-air's target is 100 hours.</p>\n<h2>Constraints</h2>\n<p>Round-trip efficiency is lower than lithium, so the battery needs cheap charging power. Site footprint is large, and the first projects must prove cycle life in real weather.</p>",
+  "bodyMarkdown": "## What This Is\n\nAn iron-air battery stores energy by reversibly rusting iron in the presence of oxygen and water. The materials are cheap and non-flammable, which suits stationary storage rather than vehicles.\n\n## Why Duration Matters\n\nLithium-ion is economic for a few hours of storage. A grid with heavy wind and solar needs multi-day cover, and that requires a chemistry where adding hours costs little. Iron-air's target is 100 hours.\n\n## Constraints\n\nRound-trip efficiency is lower than lithium, so the battery needs cheap charging power. Site footprint is large, and the first projects must prove cycle life in real weather.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Iron-Air Batteries",
+    "subtitle": "Rechargeable iron-air chemistry aimed at hundred-hour grid storage using cheap, abundant materials.",
+    "category": "Energy",
+    "stage": "pilot",
+    "confidence_label": "Confident",
+    "est_year": 2027,
+    "est_year_range": "2026-2030",
+    "horizon": "Near-Term (2026–2028)",
+    "source_count": 0,
+    "stocks": [
+      "form-energy.us"
+    ],
+    "permalink": "/tech/iron-air-battery/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "stage": "pilot",
+  "confidenceLabel": "Confident",
+  "estimate": "2026-2030",
+  "estimateYear": 2027,
+  "sourceCount": 0,
+  "companies": [
+    "form-energy.us"
+  ],
+  "businessMeaning": "Compare against gas peakers on levelised cost of storage, including land and interconnection. The buyer is a utility or a very large power user, not a household.",
+  "investmentLens": "Private today. The read is through utilities signing long-duration contracts and through iron and electrode supply chains."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "circle",
+  "title": "Circle Internet Group",
+  "summary": "US issuer of the USDC stablecoin, listed in June 2025.",
+  "sector": "blockchain",
+  "sourceCategory": "Blockchain",
+  "sourcePath": "_stocks/circle.md",
+  "sourceHash": "9dd5e226e15b0205cff664f9b374d1091500984463d83960f45d50c70e811999",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Circle earns reserve income on the cash and Treasuries backing USDC, plus fees from minting, redemption and developer services. Regulation that legitimises payment stablecoins expands its addressable market but also invites banks and payment networks to issue competing tokens. The business is therefore a spread business with a regulatory moat, not a speculative crypto protocol.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>USDC issuance and reserve income</li>\n<li>Developer APIs and cross-border payments</li>\n<li>Tokenised finance infrastructure</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Reserve yield as rates fall</li>\n<li>Bank-issued stablecoin competition</li>\n<li>Regulatory treatment of reserves and redemption</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nCircle earns reserve income on the cash and Treasuries backing USDC, plus fees from minting, redemption and developer services. Regulation that legitimises payment stablecoins expands its addressable market but also invites banks and payment networks to issue competing tokens. The business is therefore a spread business with a regulatory moat, not a speculative crypto protocol.\n\n## Technology Exposure\n\n- USDC issuance and reserve income\n- Developer APIs and cross-border payments\n- Tokenised finance infrastructure\n\n## What To Watch\n\n- Reserve yield as rates fall\n- Bank-issued stablecoin competition\n- Regulatory treatment of reserves and redemption\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Circle Internet Group",
+    "symbol": "CRCL",
+    "exchange": "NYSE",
+    "categories": [
+      "Blockchain"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "CRCL",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "A regulated dollar token is payment infrastructure; its economics resemble a narrow bank more than a crypto exchange.",
+  "investmentLens": "Listed exposure to stablecoin adoption; earnings are sensitive to interest rates and to USDC circulation."
+}

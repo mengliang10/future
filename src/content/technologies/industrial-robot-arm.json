@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Industrial Robot Arm",
-    "subtitle": "Programmable multi-axis manipulators for manufacturing \u2014 Fanuc, ABB, KUKA",
+    "subtitle": "Programmable multiaxis manipulators for manufacturing \u2014 Fanuc, ABB, KUKA",
     "category": "Robotics",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -22,7 +22,7 @@
     "stocks": [
       "ROK"
     ],
-    "permalink": "/tech/industrial-robot-arm/"
+    "permalink": "/tech/industrialrobotarm/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Topological Qubit (Majorana Fermion)",
-    "subtitle": "Error-protected qubit via non-abelian anyons; Microsoft primary approach",
+    "subtitle": "Errorprotected qubit via nonabelian anyons; Microsoft primary approach",
     "category": "Quantum",
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2029\u20132030)",
     "source_count": 13,
     "stocks": [],
-    "permalink": "/tech/topological-qubit-majorana-fermion/"
+    "permalink": "/tech/topologicalqubitmajoranafermion/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

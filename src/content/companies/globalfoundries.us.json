@@ -1,0 +1,25 @@
+{
+  "id": "globalfoundries.us",
+  "title": "GlobalFoundries",
+  "summary": "Contract chipmaker focused on mature nodes, analog, RF and specialty processes.",
+  "sector": "semiconductors",
+  "sectors": [],
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/globalfoundries.us.md",
+  "sourceHash": "0fad1631f1424500361b84b4607076fc572e10c3070e91434f2b6b34bf1dc821",
+  "bodyHtml": "<p>GlobalFoundries operates fabs in the United States, Germany and Singapore, concentrating on process nodes and specialty technologies rather than the leading edge.</p>\n<p>Its customers are in automotive, communications, industrial and power management, where reliability and long product lives matter more than density.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Mature and specialty nodes</li></ul>\n<ul><li>RF and power management</li></ul>\n<ul><li>US and European capacity</li></ul>",
+  "bodyMarkdown": "GlobalFoundries operates fabs in the United States, Germany and Singapore, concentrating on process nodes and specialty technologies rather than the leading edge.\n\nIts customers are in automotive, communications, industrial and power management, where reliability and long product lives matter more than density.\n\n**Why it matters**\n\n- Mature and specialty nodes\n\n- RF and power management\n\n- US and European capacity",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "GFS",
+    "name": "GlobalFoundries",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "GFS",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Not every chip needs 2nm. The trailing edge is where automotive and industrial demand sits, and it is being reshored for supply-security reasons.",
+  "investmentLens": "A listed foundry whose utilisation and pricing track industrial demand more than AI accelerator hype."
+}

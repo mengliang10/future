@@ -1,6 +1,6 @@
 {
   "id": "real-estate-01",
-  "title": "Real Estate \u2014 Official Sector Briefing",
+  "title": "Real Estate — How future technology reshapes the sector",
   "sector": "applied-ai",
   "mode": "evergreen",
   "added": "2026-11-18",
@@ -21,5 +21,519 @@
     "energy-water-consumption",
     "small-modular-reactor-300mwe",
     "mems-solid-state-cooling"
+  ],
+  "slides": [
+    {
+      "kind": "statement",
+      "eyebrow": "01 · The thesis",
+      "title": "The technology is not the story. The cost line is.",
+      "body": "Real estate is a lease on a use case. Technology creates one enormous new use case — data centres — and erodes another — commodity offices. The sector's return depends less on construction technology than on power access, tenant credit and the ability to re-let space to machine and logistics workloads."
+    },
+    {
+      "kind": "points",
+      "eyebrow": "02 · Sector economics",
+      "title": "What this sector actually sells",
+      "body": "Returns come from rent, occupancy and cap-rate movement. Development earns a spread over cost; asset management earns on lease spreads and retention; leverage amplifies both.",
+      "bullets": [
+        "Net operating income is rent minus operating cost; occupancy and lease spreads drive it.",
+        "Cap rates translate NOI into value and move with rates and risk appetite.",
+        "Development margin is the spread between yield on cost and exit cap rate.",
+        "Data centres earn on power density and contracted escalators.",
+        "Office and retail face obsolescence risk that shows up in leasing spreads first."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "03 · Impact map",
+      "title": "Where the impact lands",
+      "body": "Two axes matter: how soon the effect reaches reported numbers, and whether it lands on revenue or on cost and capital.",
+      "diagram": {
+        "kind": "impact",
+        "quadrants": [
+          {
+            "label": "New revenue, contested",
+            "items": [
+              "Powered land and shell leases",
+              "Flexible logistics and dark stores",
+              "Life-science conversion"
+            ]
+          },
+          {
+            "label": "New revenue, durable",
+            "items": [
+              "Hyperscale data-centre leases",
+              "Grid-connected industrial parks",
+              "Mixed-use residential"
+            ]
+          },
+          {
+            "label": "Cost takeout, fast",
+            "items": [
+              "AI leasing and underwriting",
+              "Building energy management",
+              "Automated property management"
+            ]
+          },
+          {
+            "label": "Structural cost shift",
+            "items": [
+              "Power interconnection becomes the binding constraint",
+              "Construction labour and materials stay expensive",
+              "Insurance and climate adaptation costs rise"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "04 · Exposure",
+      "title": "How much of the sector is actually exposed",
+      "diagram": {
+        "kind": "bars",
+        "caption": "Directional share of each asset pool exposed to demand change",
+        "bars": [
+          {
+            "label": "Office lease rollover",
+            "pct": 45
+          },
+          {
+            "label": "Development cost inflation",
+            "pct": 40
+          },
+          {
+            "label": "Property management operating cost",
+            "pct": 30
+          },
+          {
+            "label": "Data-centre power constraint",
+            "pct": 60
+          },
+          {
+            "label": "Retail footfall exposure",
+            "pct": 35
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "05 · Supply chain",
+      "title": "The future products in the chain",
+      "body": "Each stage is a product family that has to exist for the next one to work. This is where the spend lands.",
+      "diagram": {
+        "kind": "chain",
+        "caption": "Land and power → development → asset management → leasing → occupier",
+        "stages": [
+          {
+            "label": "Land & power",
+            "products": [
+              "Powered land",
+              "Substations",
+              "Water rights",
+              "Fibre routes"
+            ]
+          },
+          {
+            "label": "Development",
+            "products": [
+              "Modular construction",
+              "Cooling systems",
+              "Shell and core",
+              "Fit-out"
+            ]
+          },
+          {
+            "label": "Assets",
+            "products": [
+              "Data centres",
+              "Logistics sheds",
+              "Offices",
+              "Residential"
+            ]
+          },
+          {
+            "label": "Operations",
+            "products": [
+              "Smart buildings",
+              "Energy contracts",
+              "Lease management",
+              "Maintenance"
+            ]
+          },
+          {
+            "label": "Occupiers",
+            "products": [
+              "Hyperscalers",
+              "3PLs",
+              "Enterprises",
+              "Households"
+            ]
+          }
+        ],
+        "note": "Power, not floor space, is the scarce product. Land without interconnection is optionality, not an asset."
+      }
+    },
+    {
+      "kind": "columns",
+      "eyebrow": "06 · Technology clusters",
+      "title": "Three shifts to underwrite",
+      "columns": [
+        {
+          "title": "Data-centre demand",
+          "body": "AI training and inference raise power density and make pre-leasing with credit tenants the norm.",
+          "items": [
+            "Hyperscale campuses",
+            "Edge sites",
+            "Liquid cooling",
+            "Behind-the-meter power"
+          ]
+        },
+        {
+          "title": "Construction technology",
+          "body": "Modular and robotic construction addresses labour scarcity, but adoption is slow and local.",
+          "items": [
+            "Modular volumetric",
+            "3D-printed components",
+            "Robotic fit-out",
+            "Digital twins"
+          ]
+        },
+        {
+          "title": "Asset intelligence",
+          "body": "Sensors and AI leasing tools improve NOI at the margin; they do not fix a bad location.",
+          "items": [
+            "Smart building controls",
+            "Space analytics",
+            "Automated leasing",
+            "Energy optimisation"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "07 · The stack",
+      "title": "The stack underneath the sector",
+      "diagram": {
+        "kind": "stack",
+        "layers": [
+          {
+            "label": "Land",
+            "note": "Site and power",
+            "items": [
+              "Zoning",
+              "Interconnection",
+              "Water",
+              "Fibre"
+            ]
+          },
+          {
+            "label": "Building",
+            "note": "Shell and systems",
+            "items": [
+              "Structure",
+              "Cooling",
+              "Electrical",
+              "Controls"
+            ]
+          },
+          {
+            "label": "Operations",
+            "note": "NOI and leases",
+            "items": [
+              "Lease admin",
+              "Energy",
+              "Maintenance",
+              "Security"
+            ]
+          },
+          {
+            "label": "Occupiers",
+            "note": "Who pays rent",
+            "items": [
+              "Hyperscalers",
+              "Logistics",
+              "Offices",
+              "Residents"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "08 · Timing",
+      "title": "When it reaches the numbers",
+      "diagram": {
+        "kind": "timeline",
+        "milestones": [
+          {
+            "year": 2026,
+            "label": "Data-centre pre-leasing",
+            "detail": "Powered shells leased before completion",
+            "lane": 0
+          },
+          {
+            "year": 2027,
+            "label": "Power premium pricing",
+            "detail": "Interconnection value capitalised",
+            "lane": 0
+          },
+          {
+            "year": 2028,
+            "label": "Construction robotics",
+            "detail": "Modular and robotic fit-out at scale",
+            "lane": 1
+          },
+          {
+            "year": 2030,
+            "label": "Smart building baseline",
+            "detail": "Energy optimisation standard in leases",
+            "lane": 1
+          },
+          {
+            "year": 2032,
+            "label": "Office conversions",
+            "detail": "Obsolescent stock converted or written down",
+            "lane": 2
+          },
+          {
+            "year": 2035,
+            "label": "Grid-constrained growth",
+            "detail": "New supply tied to generation build",
+            "lane": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "table",
+      "eyebrow": "09 · Line by line",
+      "title": "Where the money actually moves",
+      "table": {
+        "head": [
+          "P&L line",
+          "Mechanism",
+          "Timing",
+          "Proof point"
+        ],
+        "rows": [
+          [
+            "Rent growth",
+            "Lease spreads to data and logistics tenants",
+            "Now → 2030",
+            "Signed rent versus in-place"
+          ],
+          [
+            "Occupancy",
+            "Office obsolescence versus conversions",
+            "2026 → 2032",
+            "Leasing velocity by submarket"
+          ],
+          [
+            "Development cost",
+            "Modular and robotics adoption",
+            "2028 → 2033",
+            "Cost per square metre"
+          ],
+          [
+            "Operating cost",
+            "Energy and building automation",
+            "Now → 2029",
+            "Opex per square metre"
+          ],
+          [
+            "Cap rate",
+            "Risk premium by asset type",
+            "Continuous",
+            "Transaction yields"
+          ]
+        ]
+      }
+    },
+    {
+      "kind": "points",
+      "eyebrow": "10 · Winners",
+      "title": "Who gains",
+      "bullets": [
+        "Landlords with powered, interconnected sites near demand.",
+        "Logistics owners with infill locations and modern clear heights.",
+        "Operators able to pre-lease to credit hyperscalers.",
+        "Developers with modular construction capability.",
+        "Asset managers with data and leasing technology."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "11 · Exposure",
+      "title": "Who is exposed",
+      "bullets": [
+        "Commodity offices in secondary locations with long lease rolls.",
+        "Secondary malls and retail parks losing anchor tenants.",
+        "Highly leveraged developments with rate-sensitive refinancing.",
+        "Owners without grid access competing for data-centre tenants.",
+        "Buildings with poor energy performance facing regulatory capex."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "12 · Signposts",
+      "title": "What to watch next",
+      "body": "Signposts are chosen so that each one can falsify part of the thesis within four quarters.",
+      "bullets": [
+        "<strong>Interconnection queues</strong> and MW secured, not hectares owned.",
+        "<strong>Signed lease spreads</strong> by asset type.",
+        "<strong>Office leasing velocity</strong> in core submarkets.",
+        "<strong>Construction cost per square metre</strong>.",
+        "<strong>Cap-rate divergence</strong> between data/logistics and office."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "13 · The ecosystem",
+      "title": "Who has to deliver for this to work",
+      "diagram": {
+        "kind": "actors",
+        "caption": "Land and power → construction → asset operation → tenants → building technology",
+        "groups": [
+          {
+            "label": "Data centres",
+            "role": "Power and connectivity",
+            "names": [
+              "Equinix",
+              "Digital Realty",
+              "Iron Mountain",
+              "Crusoe"
+            ]
+          },
+          {
+            "label": "Logistics",
+            "role": "Fulfilment and cold chain",
+            "names": [
+              "Prologis",
+              "Goodman",
+              "Segro",
+              "Mapletree"
+            ]
+          },
+          {
+            "label": "Offices",
+            "role": "Knowledge work",
+            "names": [
+              "Boston Properties",
+              "Brookfield",
+              "Dexus"
+            ]
+          },
+          {
+            "label": "Construction",
+            "role": "Build and retrofit",
+            "names": [
+              "Vinci",
+              "Bouygues",
+              "Skanska",
+              "Jacobs"
+            ]
+          },
+          {
+            "label": "Building tech",
+            "role": "Controls, cooling, lighting",
+            "names": [
+              "Honeywell",
+              "Johnson Controls",
+              "Schneider Electric",
+              "Signify"
+            ]
+          }
+        ],
+        "note": "Power availability, not floor area, now determines which assets can be redeveloped."
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "14 · Where the thesis breaks",
+      "title": "Where the thesis could break",
+      "diagram": {
+        "kind": "risk",
+        "caption": "Evidence strength versus P&L impact",
+        "items": [
+          {
+            "label": "Data-centre power constraints bite",
+            "evidence": 75,
+            "impact": 85,
+            "note": "Interconnection and water"
+          },
+          {
+            "label": "Office demand never fully recovers",
+            "evidence": 60,
+            "impact": 80,
+            "note": "Leasing and vacancy"
+          },
+          {
+            "label": "Automation reduces logistics space need",
+            "evidence": 40,
+            "impact": 55,
+            "note": "Density per unit of sales"
+          },
+          {
+            "label": "Building retrofit rules tighten",
+            "evidence": 55,
+            "impact": 60,
+            "note": "Compliance capex"
+          },
+          {
+            "label": "Rates stay higher for longer",
+            "evidence": 65,
+            "impact": 70,
+            "note": "Cap rates and refinancing"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "15 · The value pool",
+      "title": "From gross spend to defensible profit",
+      "diagram": {
+        "kind": "funnel",
+        "caption": "Where the money narrows",
+        "stages": [
+          {
+            "label": "Gross rent roll",
+            "pct": 100,
+            "note": "Contracted rent"
+          },
+          {
+            "label": "Net operating income",
+            "pct": 62,
+            "note": "After property costs"
+          },
+          {
+            "label": "Capex reserve",
+            "pct": 30,
+            "note": "Maintenance and retrofit"
+          },
+          {
+            "label": "Financing cost",
+            "pct": 18,
+            "note": "Debt service"
+          },
+          {
+            "label": "Equity cash flow",
+            "pct": 10,
+            "note": "The distributable part"
+          }
+        ],
+        "note": "Real estate is a spread business: the asset only works if the cap rate clears the cost of debt."
+      }
+    },
+    {
+      "kind": "research",
+      "eyebrow": "16 · Evidence",
+      "title": "Read the research behind this deck",
+      "body": "Linked records cover data centres, construction, building technology and energy. Site-level power contracts matter more than sector-level narratives.",
+      "footnote": "Scenario synthesis compiled 19 November 2026. Directional shares and timelines are analytical judgements, not measured statistics or forecasts. Each technology record carries its own confidence label and source path."
+    }
   ]
 }

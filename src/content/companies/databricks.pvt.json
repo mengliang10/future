@@ -1,0 +1,29 @@
+{
+  "id": "databricks.pvt",
+  "title": "Databricks",
+  "summary": "Data-lakehouse company that sells model training, fine-tuning and serving on top of enterprise data.",
+  "sector": "llms-models",
+  "sourceCategory": "Generative AI",
+  "sourcePath": "_stocks/databricks.pvt.md",
+  "sourceHash": "48678097674cffe62bf550fdd36978d9efcf173bd29c5761ce434d33c08c01af",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Databricks built its business on cleaning and querying enterprise data, then extended into AI with Mosaic, model serving and its own open DBRX model. The strategic argument is that proprietary data, not raw model weights, is where enterprise value settles, and that customers will pay for a governed path from warehouse to fine-tune. That places it against both the hyperscalers and the independent labs.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Lakehouse storage and query engine</li>\n<li>Mosaic model training, fine-tuning and serving</li>\n<li>Open models such as DBRX</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Inference gross margin</li>\n<li>Competition with Snowflake and the hyperscalers</li>\n<li>Path to a public listing</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nDatabricks built its business on cleaning and querying enterprise data, then extended into AI with Mosaic, model serving and its own open DBRX model. The strategic argument is that proprietary data, not raw model weights, is where enterprise value settles, and that customers will pay for a governed path from warehouse to fine-tune. That places it against both the hyperscalers and the independent labs.\n\n## Technology Exposure\n\n- Lakehouse storage and query engine\n- Mosaic model training, fine-tuning and serving\n- Open models such as DBRX\n\n## What To Watch\n\n- Inference gross margin\n- Competition with Snowflake and the hyperscalers\n- Path to a public listing\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Databricks",
+    "symbol": "DATABRICKS.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Generative AI"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "DATABRICKS.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Enterprises rarely want a model in isolation; they want a controlled pipeline from their own data to a deployed model, and that pipeline is the sticky part.",
+  "investmentLens": "Private at a very large valuation; the read-across is to data-platform and cloud spending rather than a tradable line."
+}

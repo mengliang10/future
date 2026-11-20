@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "GPU Compute Cluster",
-    "subtitle": "Large-scale GPU arrays enabling parallel matrix ops for deep learning training",
+    "subtitle": "Largescale GPU arrays enabling parallel matrix ops for deep learning training",
     "category": "AI & Cloud",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -25,7 +25,7 @@
       "MU",
       "AMD"
     ],
-    "permalink": "/tech/gpu-compute-cluster/"
+    "permalink": "/tech/gpucomputecluster/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -38,7 +38,9 @@
     "nvda",
     "avgo",
     "mu",
-    "amd"
+    "amd",
+    "sambanova.us",
+    "together.ai"
   ],
   "businessMeaning": "",
   "investmentLens": ""

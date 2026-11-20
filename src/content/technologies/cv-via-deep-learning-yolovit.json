@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "CV via Deep Learning (YOLO/ViT)",
-    "subtitle": "Real-time object detection and segmentation via neural networks",
+    "subtitle": "Realtime object detection and segmentation via neural networks",
     "category": "Robotics",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 23,
     "stocks": [],
-    "permalink": "/tech/cv-via-deep-learning-yolovit/"
+    "permalink": "/tech/cvviadeeplearningyolovit/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

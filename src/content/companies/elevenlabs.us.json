@@ -1,0 +1,27 @@
+{
+  "id": "elevenlabs.us",
+  "title": "ElevenLabs",
+  "summary": "Voice AI company whose text-to-speech and dubbing models are used across media and customer service.",
+  "sector": "llms-models",
+  "sectors": [
+    "applied-ai"
+  ],
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/elevenlabs.us.md",
+  "sourceHash": "5d2e73191d44c70423e3a6b44b8e61cfacd73138372f870b4a81d823f2b2774d",
+  "bodyHtml": "<p>ElevenLabs builds generative voice models for speech synthesis, dubbing and voice cloning, with controls for consent and provenance.</p>\n<p>Its models are used by publishers, studios and call-centre operators. The company also sells conversational agents that combine speech recognition, a language model and speech output.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Multilingual speech synthesis</li></ul>\n<ul><li>Dubbing and voice preservation</li></ul>\n<ul><li>Voice agents for service workflows</li></ul>",
+  "bodyMarkdown": "ElevenLabs builds generative voice models for speech synthesis, dubbing and voice cloning, with controls for consent and provenance.\n\nIts models are used by publishers, studios and call-centre operators. The company also sells conversational agents that combine speech recognition, a language model and speech output.\n\n**Why it matters**\n\n- Multilingual speech synthesis\n\n- Dubbing and voice preservation\n\n- Voice agents for service workflows",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "ELEVEN.PVT",
+    "name": "ElevenLabs",
+    "sector": "LLMs & Models"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "ELEVEN.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Voice is a natural interface for agents, but the moat is thin if base models converge. Distribution and trust controls (consent, watermarking) are the differentiators.",
+  "investmentLens": "Private; the listed read is through contact-centre software incumbents that may bundle voice agents."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "physical-intelligence.pvt",
+  "title": "Physical Intelligence",
+  "summary": "San Francisco lab building general-purpose robot foundation models rather than a single robot.",
+  "sector": "robotics",
+  "sectors": [
+    "llms-models"
+  ],
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/physical-intelligence.pvt.md",
+  "sourceHash": "4a3c0d899389b1da9dbd4cf1e8efb1f7f77222170079976bfebf9c4561137d23",
+  "bodyHtml": "<p>Physical Intelligence was founded in 2024 by researchers from Berkeley, Stanford and Google DeepMind. It develops vision-language-action models that are pretrained across many robot embodiments and then adapted to a specific task.</p>\n<p>Its pi0 model is trained on a mixture of robot demonstrations, teleoperation and web data, and is intended to let a new arm or humanoid learn a task from a small number of demonstrations. The company sells the model layer, not the hardware.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Cross-embodiment pretraining</li></ul>\n<ul><li>Small fine-tuning sets for new tasks</li></ul>\n<ul><li>Works with multiple robot makers</li></ul>",
+  "bodyMarkdown": "Physical Intelligence was founded in 2024 by researchers from Berkeley, Stanford and Google DeepMind. It develops vision-language-action models that are pretrained across many robot embodiments and then adapted to a specific task.\n\nIts pi0 model is trained on a mixture of robot demonstrations, teleoperation and web data, and is intended to let a new arm or humanoid learn a task from a small number of demonstrations. The company sells the model layer, not the hardware.\n\n**Why it matters**\n\n- Cross-embodiment pretraining\n\n- Small fine-tuning sets for new tasks\n\n- Works with multiple robot makers",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "PI.PVT",
+    "name": "Physical Intelligence",
+    "sector": "Robotics"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "PI.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "If robot intelligence becomes a model layer, value shifts to whoever owns the data flywheel and the deployment fleet. Manufacturers then compete on cost and reliability.",
+  "investmentLens": "Private. The closest listed exposure is the compute and sensor supply chain that every robot foundation model needs."
+}

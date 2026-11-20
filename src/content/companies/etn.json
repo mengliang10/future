@@ -1,7 +1,7 @@
 {
   "id": "etn",
   "title": "Eaton Corporation plc",
-  "summary": "",
+  "summary": "Eaton is the hidden beneficiary of the AI data centre power surge. As GPU racks scale from 15kW to 100kW+ per rack (GB200 NVL72), power distribution and management infrastructure becomes safety-critical and highly specialised.",
   "sector": "ai-infrastructure",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_stocks/etn.md",

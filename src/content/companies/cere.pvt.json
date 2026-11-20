@@ -1,7 +1,7 @@
 {
   "id": "cere.pvt",
   "title": "Cerebras",
-  "summary": "",
+  "summary": "Cerebras' Wafer-Scale Engine is the largest chip ever built, designed specifically to tackle the memory and bandwidth bottlenecks of LLM training.",
   "sector": "semiconductors",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_stocks/cere.pvt.md",
@@ -24,5 +24,8 @@
   "exchange": "PRIVATE",
   "private": true,
   "businessMeaning": "",
-  "investmentLens": ""
+  "investmentLens": "",
+  "sectors": [
+    "llms-models"
+  ]
 }

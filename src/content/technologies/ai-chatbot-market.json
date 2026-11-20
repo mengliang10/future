@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2027\u20132030)",
     "source_count": 1,
     "stocks": [],
-    "permalink": "/tech/ai-chatbot-market/"
+    "permalink": "/tech/aichatbotmarket/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,11 @@
   "estimate": "2029\u20132033",
   "estimateYear": 2030,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "perplexity.pvt",
+    "minimax.hk",
+    "kakao.kr"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

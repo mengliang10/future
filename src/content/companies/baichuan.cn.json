@@ -1,0 +1,29 @@
+{
+  "id": "baichuan.cn",
+  "title": "Baichuan AI",
+  "summary": "Chinese model developer of the Baichuan family, concentrated on enterprise and healthcare deployments.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/baichuan.cn.md",
+  "sourceHash": "76bef7455b78bac5351caa6c0f81475849ae67e5709d9cb3eda06e690e6edf35",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Baichuan trained open and commercial Chinese-language models and has focused commercial effort on healthcare and enterprise assistants. It is one of several well-funded Chinese labs competing on domestic benchmarks while selling into regulated buyers that require local hosting. The competitive pressure from Alibaba, DeepSeek and Zhipu on price and quality is the main constraint.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Baichuan foundation models</li>\n<li>Healthcare and enterprise assistants</li>\n<li>Private deployment services</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Domestic API pricing pressure</li>\n<li>Healthcare deployment conversion</li>\n<li>Funding runway</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nBaichuan trained open and commercial Chinese-language models and has focused commercial effort on healthcare and enterprise assistants. It is one of several well-funded Chinese labs competing on domestic benchmarks while selling into regulated buyers that require local hosting. The competitive pressure from Alibaba, DeepSeek and Zhipu on price and quality is the main constraint.\n\n## Technology Exposure\n\n- Baichuan foundation models\n- Healthcare and enterprise assistants\n- Private deployment services\n\n## What To Watch\n\n- Domestic API pricing pressure\n- Healthcare deployment conversion\n- Funding runway\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Baichuan AI",
+    "symbol": "BAICHUAN.CN",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "BAICHUAN.CN",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "In a market with free high-quality open weights, a lab must sell deployment and compliance rather than tokens.",
+  "investmentLens": "Private; a domestic-market story where the listed read-across is the cloud provider hosting it."
+}

@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Reconfigurable Fluid Circuit Board",
-    "subtitle": "Liquid metal on glass substrates for real-time PCB prototyping.",
+    "subtitle": "Liquid metal on glass substrates for realtime PCB prototyping.",
     "category": "Hardware",
     "stage": "basic_research",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Long-Term (2035+)",
     "source_count": 3,
     "stocks": [],
-    "permalink": "/tech/fluid-circuit-board/"
+    "permalink": "/tech/fluidcircuitboard/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

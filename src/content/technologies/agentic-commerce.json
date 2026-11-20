@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Agentic Commerce",
-    "subtitle": "AI-driven end-to-end commerce where agents discover, select, purchase and pay without human inter...",
+    "subtitle": "AIdriven endtoend commerce where agents discover, select, purchase and pay without human inter...",
     "category": "AI & Cloud",
     "stage": "proof_of_concept",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (2027\u20132028)",
     "source_count": 2,
     "stocks": [],
-    "permalink": "/tech/agentic-commerce/"
+    "permalink": "/tech/agenticcommerce/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Perovskite Solar Cell (>30% Eff.)",
-    "subtitle": "Next-gen solar absorber; tandem with silicon approaching 33% lab efficiency",
+    "subtitle": "Nextgen solar absorber; tandem with silicon approaching 33% lab efficiency",
     "category": "Energy Tech",
     "stage": "prototype",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2029\u20132030)",
     "source_count": 4,
     "stocks": [],
-    "permalink": "/tech/perovskite-solar-cell-30-eff/"
+    "permalink": "/tech/perovskitesolarcell30eff/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

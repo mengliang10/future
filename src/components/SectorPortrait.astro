@@ -1,0 +1,112 @@
+---
+/** Data portrait of a sector: stage mix, horizon spread and company depth. */
+import {stageGroup, horizonFor, horizons} from '../lib/visuals';
+
+const {technologies = [], companies = [], accent = '#5365d9'} = Astro.props;
+
+const stageBins = [
+  {id: 'research', label: 'Research', color: '#8b93a7'},
+  {id: 'development', label: 'Prototype / pilot', color: '#7a90c4'},
+  {id: 'commercial', label: 'Commercial', color: accent},
+  {id: 'other', label: 'Other / unlabelled', color: '#c9cfdb'},
+];
+
+const stageCounts = stageBins.map((bin) => ({
+  ...bin,
+  count: technologies.filter((t: any) => stageGroup(t.stage) === bin.id).length,
+}));
+const stageTotal = Math.max(1, technologies.length);
+
+const horizonOrder = ['through-2028', '2029-2030', '2031-2040', '2041-2050', 'beyond-2050', 'unspecified'];
+const horizonCounts = horizonOrder.map((id) => {
+  const meta = horizons.find((h) => h.id === id)!;
+  return {
+    id,
+    short: meta.short,
+    color: meta.color,
+    count: technologies.filter((t: any) => horizonFor(t.estimateYear) === id).length,
+  };
+});
+const horizonMax = Math.max(1, ...horizonCounts.map((h) => h.count));
+
+// Number of technology records each company is linked to inside this sector.
+const depth = companies
+  .map((company: any) => ({
+    id: company.id,
+    title: company.title,
+    links: technologies.filter((t: any) => (t.companies || []).some((id: string) => id === company.id)).length,
+  }))
+  .sort((a: any, b: any) => b.links - a.links || a.title.localeCompare(b.title))
+  .slice(0, 5);
+
+const barH = 26;
+const barGap = 16;
+---
+
+<figure class="sector-portrait" style={`--accent:${accent}`}>
+  <svg viewBox="0 0 1200 330" role="img" aria-label={`Portrait of the sector: ${technologies.length} technology records by development stage and deployment horizon, with company depth`}>
+    <text x="30" y="26" class="sp-cap">Development stage</text>
+    {stageCounts.map((bin, i) => {
+      const y = 58 + i * (barH + barGap);
+      const w = Math.max(3, (bin.count / stageTotal) * 300);
+      return (
+        <g>
+          <text x="30" y={y + 17} class="sp-label">{bin.label}</text>
+          <rect x="180" y={y} width="300" height={barH} rx="4" class="sp-track"/>
+          <rect x="180" y={y} width={w} height={barH} rx="4" fill={bin.color} fill-opacity=".82"/>
+          <text x="492" y={y + 17} class="sp-value">{bin.count}</text>
+        </g>
+      );
+    })}
+
+    <text x="560" y="26" class="sp-cap">Deployment horizon (record estimate)</text>
+    <line x1="560" y1="216" x2="880" y2="216" class="sp-axis"/>
+    {horizonCounts.map((bin, i) => {
+      const h = Math.max(3, (bin.count / horizonMax) * 140);
+      const x = 566 + i * 52;
+      return (
+        <g>
+          <rect x={x} y={216 - h} width="34" height={h} rx="3" fill={bin.color} fill-opacity=".82"/>
+          <text x={x + 17} y={210 - h} text-anchor="middle" class="sp-value">{bin.count}</text>
+          <text x={x + 17} y="238" text-anchor="middle" class="sp-axis-label">{bin.short}</text>
+        </g>
+      );
+    })}
+
+    <text x="560" y="286" class="sp-cap">Company records in sector</text>
+    <text x="770" y="287" class="sp-big">{companies.length}</text>
+
+    <text x="900" y="26" class="sp-cap">Deepest company links</text>
+    {depth.length === 0 && <text x="900" y="62" class="sp-empty">No company records</text>}
+    {depth.map((company: any, i: number) => {
+      const y = 56 + i * 40;
+      return (
+        <g>
+          <text x="900" y={y + 14} class="sp-label">{company.title.length > 28 ? company.title.slice(0, 27) + '…' : company.title}</text>
+          <rect x="900" y={y + 21} width="250" height="6" rx="3" class="sp-track"/>
+          <rect x="900" y={y + 21} width={Math.max(6, (company.links / Math.max(1, depth[0].links)) * 250)} height="6" rx="3" fill="var(--accent)" fill-opacity=".7"/>
+          <text x="1160" y={y + 28} text-anchor="end" class="sp-value">{company.links}</text>
+        </g>
+      );
+    })}
+  </svg>
+  <figcaption>Counts are derived from the imported records. Stage labels and estimated years are source-supplied, not independently verified.</figcaption>
+</figure>
+
+<style>
+  .sector-portrait { margin: 22px 0 8px; }
+  .sector-portrait svg { width: 100%; height: auto; }
+  .sp-cap { font-size: 11px; letter-spacing: .1em; text-transform: uppercase; fill: var(--muted, #767b84); font-weight: 700; }
+  .sp-label { font-size: 12px; fill: var(--ink, #191c23); }
+  .sp-track { fill: var(--soft, #f2f4f8); }
+  .sp-value { font-size: 12px; font-weight: 700; fill: var(--ink, #191c23); }
+  .sp-axis { stroke: #c9cfdb; }
+  .sp-axis-label { font-size: 9px; fill: var(--muted, #767b84); }
+  .sp-big { font-size: 30px; font-weight: 700; fill: var(--accent); }
+  .sp-empty { font-size: 12px; fill: var(--muted, #767b84); }
+  figcaption { font-size: 12px; color: var(--muted, #767b84); }
+  @media (max-width: 760px) {
+    .sector-portrait { overflow-x: auto; }
+    .sector-portrait svg { min-width: 820px; }
+  }
+</style>

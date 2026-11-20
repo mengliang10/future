@@ -1,0 +1,27 @@
+{
+  "id": "terraform-industries.us",
+  "title": "Terraform Industries",
+  "summary": "California start-up making synthetic natural gas from sunlight, water and atmospheric CO2.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/terraform-industries.us.md",
+  "sourceHash": "048b37bfdfe0c2d513afdc550e2960a71c9daaf838264a4f6bc0dca1a095d880",
+  "bodyHtml": "<p>Terraform Industries is developing a process that combines direct air capture with electrolysis to produce methane that can drop into existing gas infrastructure.</p>\n<p>The company's thesis is that cheap solar electricity makes synthetic fuel cost-competitive with fossil gas, creating a drop-in decarbonisation path.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Solar-driven synthetic methane</li></ul>\n<ul><li>Drop-in gas compatibility</li></ul>\n<ul><li>Modular production units</li></ul>",
+  "bodyMarkdown": "Terraform Industries is developing a process that combines direct air capture with electrolysis to produce methane that can drop into existing gas infrastructure.\n\nThe company's thesis is that cheap solar electricity makes synthetic fuel cost-competitive with fossil gas, creating a drop-in decarbonisation path.\n\n**Why it matters**\n\n- Solar-driven synthetic methane\n\n- Drop-in gas compatibility\n\n- Modular production units",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "TERRAFORM.PVT",
+    "name": "Terraform Industries",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "TERRAFORM.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Synthetic fuels avoid rebuilding end-use infrastructure, but they compete on cost with gas that is already cheap. Solar economics are the swing factor.",
+  "investmentLens": "Private; a high-risk bet on solar cost curves rather than on policy credits."
+}

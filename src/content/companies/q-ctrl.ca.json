@@ -1,0 +1,27 @@
+{
+  "id": "q-ctrl.ca",
+  "title": "Q-CTRL",
+  "summary": "Vancouver company selling quantum control and error-suppression software across hardware platforms.",
+  "sector": "quantum",
+  "sectors": [
+    "ai-agents-software"
+  ],
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/q-ctrl.ca.md",
+  "sourceHash": "5313cf064573231b2d8da9dd1ec6b774966aec82cc5472e5b5fb1a438048aa81",
+  "bodyHtml": "<p>Q-CTRL builds control software that improves the performance of quantum hardware by shaping the signals that drive qubits, plus tools for quantum sensing and education.</p>\n<p>Its approach is hardware-agnostic: the same control layer can run on superconducting, trapped-ion or neutral-atom machines.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Qubit control optimisation</li></ul>\n<ul><li>Error suppression</li></ul>\n<ul><li>Quantum sensing applications</li></ul>",
+  "bodyMarkdown": "Q-CTRL builds control software that improves the performance of quantum hardware by shaping the signals that drive qubits, plus tools for quantum sensing and education.\n\nIts approach is hardware-agnostic: the same control layer can run on superconducting, trapped-ion or neutral-atom machines.\n\n**Why it matters**\n\n- Qubit control optimisation\n\n- Error suppression\n\n- Quantum sensing applications",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "QCTRL.PVT",
+    "name": "Q-CTRL",
+    "sector": "Quantum"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "QCTRL.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Hardware makers would rather buy a control stack than rebuild one. That makes control software a horizontal layer across a fragmented hardware market.",
+  "investmentLens": "Private; revenue tracks quantum hardware deployments rather than hype cycles."
+}

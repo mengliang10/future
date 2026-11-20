@@ -77,7 +77,7 @@ Create `src/content/decks/my-briefing.json`:
 
 Use the actual date you add the deck. IDs must match existing records. Build to create `/presentations/my-briefing/`, with a catalogue entry automatically generated. Each briefing consists of a cover, opening framework, one slide per referenced technology, and closing evidence framework. Use the current two-block convention.
 
-The initial 85 decks are grouped by normalised sector, with up to 12 technology slides each. These are generated research briefings, not newly fact-checked investment theses or replicas of a pre-existing slide deck.
+Decks are grouped by normalised sector. Legacy decks open with a cover, framework block, a generated reading map of every referenced record, one slide per technology and a closing block. The 11 official sector decks add three diagram slides (actors, risk scatter and funnel) for 17 slides total. These are generated research briefings, not newly fact-checked investment theses or replicas of a pre-existing slide deck.
 
 ## Preserve a historical presentation
 

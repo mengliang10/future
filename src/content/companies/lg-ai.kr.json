@@ -1,0 +1,29 @@
+{
+  "id": "lg-ai.kr",
+  "title": "LG AI Research",
+  "summary": "LG group's AI research arm, developer of the Exaone model family for industrial and scientific use.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/lg-ai.kr.md",
+  "sourceHash": "5f83440fdd886c17f76caad84525447913500642cffc4886bfd7f47943112ddd",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>LG AI Research builds Exaone models with an emphasis on materials, chemistry and manufacturing applications across LG's affiliates, and has released open weights for some versions. The industrial focus is a genuine differentiator: a model that predicts material properties or diagnoses equipment has a buyer inside the group before it needs an external market. LG Corp is the listed parent.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Exaone foundation models</li>\n<li>Materials and chemistry AI</li>\n<li>Industrial and manufacturing applications</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>External adoption beyond LG affiliates</li>\n<li>Group funding through a capex cycle</li>\n<li>Talent competition in Korea</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nLG AI Research builds Exaone models with an emphasis on materials, chemistry and manufacturing applications across LG's affiliates, and has released open weights for some versions. The industrial focus is a genuine differentiator: a model that predicts material properties or diagnoses equipment has a buyer inside the group before it needs an external market. LG Corp is the listed parent.\n\n## Technology Exposure\n\n- Exaone foundation models\n- Materials and chemistry AI\n- Industrial and manufacturing applications\n\n## What To Watch\n\n- External adoption beyond LG affiliates\n- Group funding through a capex cycle\n- Talent competition in Korea\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "LG AI Research",
+    "symbol": "LGAI.KR",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "LGAI.KR",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Industrial groups can justify model research as an internal productivity programme even when no external customer pays for it.",
+  "investmentLens": "Not separately listed; LG Corp is the proxy, and the AI arm is a cost line until it sells externally."
+}

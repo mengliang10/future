@@ -1,0 +1,27 @@
+{
+  "id": "boston-dynamics.pvt",
+  "title": "Boston Dynamics",
+  "summary": "Hyundai-owned robotics company whose Spot, Stretch and Atlas platforms define the commercial state of the art.",
+  "sector": "robotics",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Robotics",
+  "sourcePath": "_stocks/boston-dynamics.pvt.md",
+  "sourceHash": "4eddd871289650e2e36bb24a5f11be06086f2fa0f594ccea7fae0d8460c4762f",
+  "bodyHtml": "<p>Boston Dynamics was founded in 1992 as an MIT spin-out and has been owned by Hyundai Motor Group since 2021. Spot is a quadruped used for industrial inspection; Stretch is a box-handling robot for warehouses; Atlas is a research humanoid now built with electric actuators.</p>\n<p>The company's advantage is controls and reliability engineering built over decades, while its commercial challenge is that each deployment still needs integration work.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Spot for inspection in hazardous sites</li></ul>\n<ul><li>Stretch for container and truck unloading</li></ul>\n<ul><li>Atlas as a research and platform programme</li></ul>",
+  "bodyMarkdown": "Boston Dynamics was founded in 1992 as an MIT spin-out and has been owned by Hyundai Motor Group since 2021. Spot is a quadruped used for industrial inspection; Stretch is a box-handling robot for warehouses; Atlas is a research humanoid now built with electric actuators.\n\nThe company's advantage is controls and reliability engineering built over decades, while its commercial challenge is that each deployment still needs integration work.\n\n**Why it matters**\n\n- Spot for inspection in hazardous sites\n\n- Stretch for container and truck unloading\n\n- Atlas as a research and platform programme",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "BD.PVT",
+    "name": "Boston Dynamics",
+    "sector": "Robotics"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "BD.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Boston Dynamics shows the gap between a compelling demonstration and a repeatable installation. The business question is service revenue per fleet, not robot unit price.",
+  "investmentLens": "Owned by Hyundai, so public exposure runs through the parent and through suppliers of actuators, sensors and batteries."
+}

@@ -1,0 +1,83 @@
+---
+/** Visual index of the technology records inside a deck, ordered by estimated deployment year. */
+import {stageGroup} from '../lib/visuals';
+import {displayTitle} from '../lib/catalogue';
+
+const {records = [], accent = '#5365d9', title = 'Records in this briefing'} = Astro.props;
+
+const colour = (stage: string) => {
+  const group = stageGroup(stage);
+  if (group === 'research') return '#8b93a7';
+  if (group === 'development') return '#7a90c4';
+  if (group === 'commercial') return accent;
+  return '#c9cfdb';
+};
+
+const rows = [...records]
+  .map((record: any) => ({...record, year: Number(record.estimateYear) || null}))
+  .sort((a: any, b: any) => (a.year ?? 9999) - (b.year ?? 9999) || a.title.localeCompare(b.title));
+
+const yearMin = 2024;
+const yearMax = 2042;
+const ax = (year: number) => 790 + ((year - yearMin) / (yearMax - yearMin)) * 340;
+const rowTop = 86;
+const rowGap = Math.min(30, 348 / Math.max(1, rows.length));
+const height = rowTop + rows.length * rowGap + 26;
+---
+
+<svg class="portfolio-map" viewBox={`0 0 1200 ${height}`} role="img" aria-label={`${title}: ${records.length} technology records placed on a shared deployment timeline`}>
+  <text x="0" y="22" class="pm-cap">{title}</text>
+  <text x="0" y="62" class="pm-col">#</text>
+  <text x="34" y="62" class="pm-col">Technology</text>
+  <text x="560" y="62" class="pm-col">Stage</text>
+  <text x="790" y="62" class="pm-col">Estimated deployment (year)</text>
+
+  {[2024, 2028, 2032, 2036, 2040].map((year) => (
+    <g>
+      <line x1={ax(year)} y1="88" x2={ax(year)} y2={height - 16} class="pm-grid"/>
+      <text x={ax(year)} y="82" text-anchor="middle" class="pm-year">{year}</text>
+    </g>
+  ))}
+
+  {rows.map((record: any, i: number) => {
+    const y = rowTop + i * rowGap;
+    const colourValue = colour(record.stage);
+    const clean = displayTitle(record.title);
+    const name = clean.length > 40 ? clean.slice(0, 39) + '…' : clean;
+    const group = stageGroup(record.stage);
+    const stageLabel = group === 'research' ? 'Research' : group === 'development' ? 'Prototype / pilot' : group === 'commercial' ? 'Commercial' : 'Unlabelled';
+    return (
+      <g>
+        <rect x="0" y={y} width="1200" height={rowGap - 4} rx="5" class={i % 2 === 0 ? 'pm-row-a' : 'pm-row-b'}/>
+        <text x="0" y={y + rowGap / 2 + 4} class="pm-num">{String(i + 1).padStart(2, '0')}</text>
+        <text x="34" y={y + rowGap / 2 + 4} class="pm-title">{name}</text>
+        <circle cx="566" cy={y + rowGap / 2} r="4.5" fill={colourValue}/>
+        <text x="580" y={y + rowGap / 2 + 4} class="pm-stage">{stageLabel}</text>
+        {record.year ? (
+          <g>
+            <line x1={ax(record.year)} y1={y + 4} x2={ax(record.year)} y2={y + rowGap - 8} stroke={colourValue} stroke-opacity=".35" stroke-width="1.5"/>
+            <circle cx={ax(record.year)} cy={y + rowGap / 2} r="6" fill={colourValue}/>
+            <text x={ax(record.year) + 11} y={y + rowGap / 2 + 4} class="pm-ynum">{record.year}</text>
+          </g>
+        ) : (
+          <text x="1130" y={y + rowGap / 2 + 4} class="pm-none">no year</text>
+        )}
+      </g>
+    );
+  })}
+</svg>
+
+<style>
+  .portfolio-map { width: 100%; height: auto; margin-top: 10px; }
+  .pm-cap { font-size: 13px; letter-spacing: .12em; text-transform: uppercase; fill: #5d6e64; font-weight: 600; }
+  .pm-col { font-size: 11px; letter-spacing: .1em; text-transform: uppercase; fill: #6b7d70; }
+  .pm-row-a { fill: #eef0e6; }
+  .pm-row-b { fill: #f7f6ee; }
+  .pm-num { font-size: 11px; fill: #7b8f7f; letter-spacing: .06em; }
+  .pm-title { font-size: 14px; fill: #183d33; }
+  .pm-stage { font-size: 11px; fill: #6b7d70; }
+  .pm-grid { stroke: #d4dbc9; stroke-dasharray: 3 5; }
+  .pm-year { font-size: 11px; fill: #6b7d70; }
+  .pm-ynum { font-size: 11px; fill: #183d33; font-weight: 600; }
+  .pm-none { font-size: 11px; fill: #8b9b8f; font-style: italic; }
+</style>

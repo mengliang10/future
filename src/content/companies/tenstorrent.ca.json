@@ -1,0 +1,27 @@
+{
+  "id": "tenstorrent.ca",
+  "title": "Tenstorrent",
+  "summary": "Toronto AI-chip company pairing RISC-V CPUs with accelerators and licensing its designs.",
+  "sector": "semiconductors",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/tenstorrent.ca.md",
+  "sourceHash": "a2c5486a2cf568ed2737530b0e11fa18eb7934c056afc6153787f9bb210c4c9d",
+  "bodyHtml": "<p>Tenstorrent designs AI accelerators and RISC-V CPU cores, led by chip architect Jim Keller. It sells chips, systems and IP licences.</p>\n<p>The strategy is to offer an open, licensable alternative to closed accelerator stacks, with a focus on inference and on customers who want to own part of the design.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>RISC-V CPU IP</li></ul>\n<ul><li>AI accelerators and systems</li></ul>\n<ul><li>Open software stack</li></ul>",
+  "bodyMarkdown": "Tenstorrent designs AI accelerators and RISC-V CPU cores, led by chip architect Jim Keller. It sells chips, systems and IP licences.\n\nThe strategy is to offer an open, licensable alternative to closed accelerator stacks, with a focus on inference and on customers who want to own part of the design.\n\n**Why it matters**\n\n- RISC-V CPU IP\n\n- AI accelerators and systems\n\n- Open software stack",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "TENSTORRENT.PVT",
+    "name": "Tenstorrent",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "TENSTORRENT.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "The accelerator market rewards software ecosystems as much as silicon. Tenstorrent's licensing model is a way to reach customers without building a full cloud business.",
+  "investmentLens": "Private; the thesis is architectural openness winning design slots, which would show up in foundry and packaging orders."
+}

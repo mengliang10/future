@@ -1,0 +1,47 @@
+{
+  "id": "photonic-computing",
+  "title": "Photonic Computing",
+  "summary": "Using light instead of electrons to perform computation, with early traction in inference and quantum systems.",
+  "sector": "semiconductors",
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_tech/photonic-computing.md",
+  "sourceHash": "5865470cb250435e552c8317c580c7532c73e0fc0b5df012ba2b89f5b87328fb",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Photonic computing encodes information in light and performs operations with interferometers, modulators and detectors. Classical photonic processors target matrix multiplication and interconnect; photonic quantum computers use photons as qubits.</p>\n<h2>The Trade-Off</h2>\n<p>Light is excellent at moving data and at certain linear operations, but it is poor at logic, memory and non-linear functions. Most realistic systems are hybrid: photonics for interconnect or specific kernels, electronics for control and storage.</p>\n<h2>Where It Lands First</h2>\n<p>Optical interconnect is already commercial. Photonic compute is likely to appear first as an accelerator for inference or as a co-processor inside a conventional system rather than as a standalone computer.</p>",
+  "bodyMarkdown": "## What This Is\n\nPhotonic computing encodes information in light and performs operations with interferometers, modulators and detectors. Classical photonic processors target matrix multiplication and interconnect; photonic quantum computers use photons as qubits.\n\n## The Trade-Off\n\nLight is excellent at moving data and at certain linear operations, but it is poor at logic, memory and non-linear functions. Most realistic systems are hybrid: photonics for interconnect or specific kernels, electronics for control and storage.\n\n## Where It Lands First\n\nOptical interconnect is already commercial. Photonic compute is likely to appear first as an accelerator for inference or as a co-processor inside a conventional system rather than as a standalone computer.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Photonic Computing",
+    "subtitle": "Using light instead of electrons to perform computation, with early traction in inference and quantum systems.",
+    "category": "Semiconductors",
+    "stage": "prototype",
+    "confidence_label": "Speculative",
+    "est_year": 2031,
+    "est_year_range": "2028-2035",
+    "horizon": "Long-Term (2031–2040)",
+    "source_count": 0,
+    "stocks": [
+      "lightmatter.us",
+      "quandela.fr",
+      "orca-computing.uk",
+      "xanadu.ca",
+      "psiquantum.us"
+    ],
+    "permalink": "/tech/photonic-computing/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "stage": "prototype",
+  "confidenceLabel": "Speculative",
+  "estimate": "2028-2035",
+  "estimateYear": 2031,
+  "sourceCount": 0,
+  "companies": [
+    "lightmatter.us",
+    "quandela.fr",
+    "orca-computing.uk",
+    "xanadu.ca",
+    "psiquantum.us"
+  ],
+  "businessMeaning": "Treat photonic compute as an accelerator decision, not a platform replacement. The near-term question is whether it reduces power per token; the long-term question is software support.",
+  "investmentLens": "The listed beneficiaries today are laser, photonics packaging and optical component suppliers. Pure photonic compute remains private and early."
+}

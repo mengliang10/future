@@ -1,0 +1,25 @@
+{
+  "id": "stoke-space.us",
+  "title": "Stoke Space",
+  "summary": "Washington company developing a fully reusable second stage, the part of a rocket most often thrown away.",
+  "sector": "space",
+  "sectors": [],
+  "sourceCategory": "Space",
+  "sourcePath": "_stocks/stoke-space.us.md",
+  "sourceHash": "1f3ae47fcf275ef47e88f5fd10b5b823651651d1b69ccb878d5925369c2a85e6",
+  "bodyHtml": "<p>Stoke Space is building a two-stage rocket whose second stage returns to Earth and lands, aiming at rapid and complete reuse rather than only booster recovery.</p>\n<p>Its engine and heat-shield designs are aimed at aircraft-like turnaround, which is the main cost lever left after booster reuse.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Reusable second stage</li></ul>\n<ul><li>Regeneratively cooled heat shield</li></ul>\n<ul><li>Rapid turnaround target</li></ul>",
+  "bodyMarkdown": "Stoke Space is building a two-stage rocket whose second stage returns to Earth and lands, aiming at rapid and complete reuse rather than only booster recovery.\n\nIts engine and heat-shield designs are aimed at aircraft-like turnaround, which is the main cost lever left after booster reuse.\n\n**Why it matters**\n\n- Reusable second stage\n\n- Regeneratively cooled heat shield\n\n- Rapid turnaround target",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "STOKE.PVT",
+    "name": "Stoke Space",
+    "sector": "Space"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "STOKE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Booster reuse reset launch costs; second-stage reuse is the next step. The engineering problem is a heat shield that survives re-entry repeatedly.",
+  "investmentLens": "Private; the read is through launch customers and materials suppliers."
+}

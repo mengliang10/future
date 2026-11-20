@@ -1,0 +1,27 @@
+{
+  "id": "sifive.us",
+  "title": "SiFive",
+  "summary": "San Francisco company selling RISC-V processor IP as an open alternative to proprietary cores.",
+  "sector": "semiconductors",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/sifive.us.md",
+  "sourceHash": "72feff46d8658c8abd2b94eeb52bbee006eb505044c8412892df791338b2b662",
+  "bodyHtml": "<p>SiFive develops RISC-V CPU cores and platform IP that chip designers license and integrate. RISC-V is an open instruction set, so customers avoid the licensing constraints of proprietary architectures.</p>\n<p>The company's growth tracks the widening use of custom silicon in AI, automotive and embedded systems.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>RISC-V CPU IP</li></ul>\n<ul><li>Custom SoC platforms</li></ul>\n<ul><li>Automotive and AI designs</li></ul>",
+  "bodyMarkdown": "SiFive develops RISC-V CPU cores and platform IP that chip designers license and integrate. RISC-V is an open instruction set, so customers avoid the licensing constraints of proprietary architectures.\n\nThe company's growth tracks the widening use of custom silicon in AI, automotive and embedded systems.\n\n**Why it matters**\n\n- RISC-V CPU IP\n\n- Custom SoC platforms\n\n- Automotive and AI designs",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "SIFIVE.PVT",
+    "name": "SiFive",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "SIFIVE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "RISC-V is becoming the default for custom chips that do not need x86 or Arm compatibility. IP vendors earn before the chip ships, which makes them an early read on design activity.",
+  "investmentLens": "Private; Arm's listed results are the closest benchmark for the IP-licensing model."
+}

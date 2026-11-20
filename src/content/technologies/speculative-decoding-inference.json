@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 1,
     "stocks": [],
-    "permalink": "/tech/speculative-decoding-inference/"
+    "permalink": "/tech/speculativedecodinginference/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,11 @@
   "estimate": "2023\u20132026",
   "estimateYear": 2025,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "together.ai",
+    "fireworks-ai.us",
+    "openrouter.ai"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

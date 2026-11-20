@@ -1,0 +1,29 @@
+{
+  "id": "stx",
+  "title": "Seagate Technology",
+  "summary": "US maker of hard disk drives and the leading proponent of heat-assisted magnetic recording.",
+  "sector": "memory",
+  "sourceCategory": "Memory",
+  "sourcePath": "_stocks/stx.md",
+  "sourceHash": "7501bdef89d368f26df25cc9d10ccfdc2c725f54be449fd25439546959b6d1ac",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Seagate sells nearline drives for cloud and enterprise storage, where cost per terabyte still beats flash for bulk data. Its Mozaic platform uses heat-assisted magnetic recording to raise areal density, and qualification of high-capacity drives at hyperscalers drives the mix. The business is duopolistic with Western Digital, cyclical in pricing, and increasingly leveraged to AI data retention rather than PCs.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Nearline HDDs for cloud and AI storage</li>\n<li>HAMR technology and media</li>\n<li>Consumer and edge drives</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>HAMR volume ramp and yields</li>\n<li>Hyperscaler qualification and pricing</li>\n<li>NAND cost competition in warm tiers</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSeagate sells nearline drives for cloud and enterprise storage, where cost per terabyte still beats flash for bulk data. Its Mozaic platform uses heat-assisted magnetic recording to raise areal density, and qualification of high-capacity drives at hyperscalers drives the mix. The business is duopolistic with Western Digital, cyclical in pricing, and increasingly leveraged to AI data retention rather than PCs.\n\n## Technology Exposure\n\n- Nearline HDDs for cloud and AI storage\n- HAMR technology and media\n- Consumer and edge drives\n\n## What To Watch\n\n- HAMR volume ramp and yields\n- Hyperscaler qualification and pricing\n- NAND cost competition in warm tiers\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Seagate Technology",
+    "symbol": "STX",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Memory"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "STX",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Every trained model leaves a trail of checkpoints and logs; cheap dense storage is the unglamorous half of the AI build-out.",
+  "investmentLens": "A duopoly with improving mix toward high-capacity nearline; watch areal-density execution rather than unit shipments."
+}

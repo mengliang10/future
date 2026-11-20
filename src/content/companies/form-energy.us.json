@@ -1,0 +1,27 @@
+{
+  "id": "form-energy.us",
+  "title": "Form Energy",
+  "summary": "Massachusetts company commercialising iron-air batteries for hundred-hour grid storage.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/form-energy.us.md",
+  "sourceHash": "ae6b297dcea7f24ec46878f8dff03a2011f350f43211501ad4247c99329266c0",
+  "bodyHtml": "<p>Form Energy's iron-air battery stores energy through reversible rusting, using iron, water and air instead of lithium. The target is multi-day storage that complements lithium-ion, which is economic for a few hours.</p>\n<p>Its first commercial project is with a utility in Minnesota, and the company is building manufacturing capacity in West Virginia.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Iron-air chemistry</li></ul>\n<ul><li>100-hour duration target</li></ul>\n<ul><li>Utility-scale projects</li></ul>",
+  "bodyMarkdown": "Form Energy's iron-air battery stores energy through reversible rusting, using iron, water and air instead of lithium. The target is multi-day storage that complements lithium-ion, which is economic for a few hours.\n\nIts first commercial project is with a utility in Minnesota, and the company is building manufacturing capacity in West Virginia.\n\n**Why it matters**\n\n- Iron-air chemistry\n\n- 100-hour duration target\n\n- Utility-scale projects",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "FORM.PVT",
+    "name": "Form Energy",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "FORM.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "The grid needs duration more than it needs more two-hour batteries. Iron is cheap and abundant, but round-trip efficiency is lower than lithium.",
+  "investmentLens": "Private; a long-duration storage bet whose success would pressure gas peakers more than lithium suppliers."
+}

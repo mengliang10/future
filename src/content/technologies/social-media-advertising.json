@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Social Media Advertising",
-    "subtitle": "Audience-targeted ads on Facebook, Instagram, TikTok, LinkedIn, X",
+    "subtitle": "Audiencetargeted ads on Facebook, Instagram, TikTok, LinkedIn, X",
     "category": "Marketing Tech",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 6,
     "stocks": [],
-    "permalink": "/tech/social-media-advertising/"
+    "permalink": "/tech/socialmediaadvertising/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Programmable Money",
-    "subtitle": "Digital money that executes automatically on predefined conditions (escrow-on-delivery, milestone...",
+    "subtitle": "Digital money that executes automatically on predefined conditions (escrowondelivery, milestone...",
     "category": "Blockchain & Crypto",
     "stage": "early_commercial",
     "confidence_label": "Confident",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (Now\u20132026)",
     "source_count": 1,
     "stocks": [],
-    "permalink": "/tech/programmable-money/"
+    "permalink": "/tech/programmablemoney/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,9 @@
   "estimate": "2025\u20132028",
   "estimateYear": 2026,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "circle"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

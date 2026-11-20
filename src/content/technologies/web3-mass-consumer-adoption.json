@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Web3 Mass Consumer Adoption",
-    "subtitle": ">1B monthly active users interacting with blockchain-based applications",
+    "subtitle": ">1B monthly active users interacting with blockchainbased applications",
     "category": "Blockchain",
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2031\u20132035)",
     "source_count": 22,
     "stocks": [],
-    "permalink": "/tech/web3-mass-consumer-adoption/"
+    "permalink": "/tech/web3massconsumeradoption/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

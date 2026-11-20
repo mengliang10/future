@@ -1,0 +1,27 @@
+{
+  "id": "lightmatter.us",
+  "title": "Lightmatter",
+  "summary": "Boston photonics company building optical interconnect and photonic computing for AI systems.",
+  "sector": "semiconductors",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/lightmatter.us.md",
+  "sourceHash": "ebb665db82f7ee20c5a434922d5698b61b51ed1c5867f21a1881c030bfddcfbb",
+  "bodyHtml": "<p>Lightmatter develops silicon-photonic interconnect (Passage) and a photonic inference engine (Envise). The interconnect uses light to move data between chips and memory, where copper links are hitting distance and power limits.</p>\n<p>Its bet is that the bottleneck in AI systems is moving data, not multiplying it, so optics enters the package before it replaces the compute.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Photonic chip-to-chip interconnect</li></ul>\n<ul><li>Optical I/O for accelerator packages</li></ul>\n<ul><li>Photonic compute research</li></ul>",
+  "bodyMarkdown": "Lightmatter develops silicon-photonic interconnect (Passage) and a photonic inference engine (Envise). The interconnect uses light to move data between chips and memory, where copper links are hitting distance and power limits.\n\nIts bet is that the bottleneck in AI systems is moving data, not multiplying it, so optics enters the package before it replaces the compute.\n\n**Why it matters**\n\n- Photonic chip-to-chip interconnect\n\n- Optical I/O for accelerator packages\n\n- Photonic compute research",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "LIGHTMATTER.PVT",
+    "name": "Lightmatter",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "LIGHTMATTER.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Co-packaged optics is becoming a packaging problem for the whole accelerator industry. A supplier that qualifies inside a major platform gets a durable socket.",
+  "investmentLens": "Private; listed read sits with laser, optical component and advanced packaging suppliers."
+}

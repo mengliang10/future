@@ -1,0 +1,29 @@
+{
+  "id": "kakao.kr",
+  "title": "Kakao",
+  "summary": "Korean messaging and internet group building Korean-language models for its own services.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/kakao.kr.md",
+  "sourceHash": "9156c2af598ac62d0ec1944eb73f8f47027b29789b07c24da39eff5bef3d0436",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Kakao owns the dominant messaging app in Korea, which gives it a distribution channel for assistants, search and commerce features built on its own language models. The AI effort is defensive as much as offensive: if conversational interfaces absorb search and messaging, the platform must own the model layer to keep the user relationship. Competition from Naver and global assistants is direct.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Korean-language foundation models</li>\n<li>KakaoTalk assistant and search features</li>\n<li>Content and commerce services</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Monetisation of AI features without user churn</li>\n<li>Competition with Naver's HyperCLOVA</li>\n<li>Content and platform regulation</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nKakao owns the dominant messaging app in Korea, which gives it a distribution channel for assistants, search and commerce features built on its own language models. The AI effort is defensive as much as offensive: if conversational interfaces absorb search and messaging, the platform must own the model layer to keep the user relationship. Competition from Naver and global assistants is direct.\n\n## Technology Exposure\n\n- Korean-language foundation models\n- KakaoTalk assistant and search features\n- Content and commerce services\n\n## What To Watch\n\n- Monetisation of AI features without user churn\n- Competition with Naver's HyperCLOVA\n- Content and platform regulation\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Kakao",
+    "symbol": "035720.KS",
+    "exchange": "KRX",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "035720.KS",
+  "exchange": "KRX",
+  "private": false,
+  "businessMeaning": "A messaging platform that owns its model can defend the interface; one that rents a model hands the relationship to a third party.",
+  "investmentLens": "Listed; the AI line is a cost centre until it lifts advertising or commerce revenue per user."
+}

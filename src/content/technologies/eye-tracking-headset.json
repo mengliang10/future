@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Eye Tracking in Headset",
-    "subtitle": "Foveated rendering and gaze-input via built-in eye tracking",
+    "subtitle": "Foveated rendering and gazeinput via builtin eye tracking",
     "category": "XR",
     "stage": "mass_production",
     "confidence_label": "Confirmed",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 1,
     "stocks": [],
-    "permalink": "/tech/eye-tracking-headset/"
+    "permalink": "/tech/eyetrackingheadset/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

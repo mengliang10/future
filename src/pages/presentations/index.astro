@@ -28,6 +28,7 @@ const officialSectors = officialSectorsOrder.map(id => {
   };
 });
 
+const slideCount = items.reduce((n,d)=> n + ((d.slides&&d.slides.length) ? d.slides.length + 1 : d.technologies.length + 4), 0);
 const officialDeckIds = new Set(officialSectors.map(s => s.deck.id));
 const otherDecks = items.filter(d => !officialDeckIds.has(d.id));
 ---
@@ -54,7 +55,7 @@ const otherDecks = items.filter(d => !officialDeckIds.has(d.id));
           <span>Briefing Decks</span>
         </div>
         <div class="studio-stat">
-          <strong>1,333</strong>
+          <strong>{slideCount.toLocaleString('en-US')}</strong>
           <span>Rendered Slides</span>
         </div>
         <div class="studio-stat">
@@ -93,13 +94,13 @@ const otherDecks = items.filter(d => !officialDeckIds.has(d.id));
               </h3>
 
               <p class="deck-card-summary">
-                Official market sector briefing reviewing technology disruptions, supply-chain bottlenecks, and capital allocation across {s.title}.
+                How future technology changes the revenue, cost and capital allocation of {s.title}: impact map, supply-chain products, adoption timeline and the signposts that would prove the thesis wrong.
               </p>
 
               <div class="deck-card-footer">
                 <div class="deck-slides-info">
                   <Icon name="slides" size={14}/>
-                  <span>{s.deck.technologies.length + 3} Slides</span>
+                  <span>{s.deck.slides && s.deck.slides.length ? s.deck.slides.length + 1 : s.deck.technologies.length + 4} Slides</span>
                 </div>
 
                 <div class="deck-actions">

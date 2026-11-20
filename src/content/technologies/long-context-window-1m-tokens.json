@@ -24,7 +24,7 @@
     "monetizable_confidence": 9,
     "source_count": 2,
     "stocks": [],
-    "permalink": "/tech/long-context-window-1m-tokens/"
+    "permalink": "/tech/longcontextwindow1mtokens/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -33,7 +33,9 @@
   "estimate": "2032\u20132040",
   "estimateYear": 2034,
   "sourceCount": 2,
-  "companies": [],
+  "companies": [
+    "ai21.il"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

@@ -1,0 +1,29 @@
+{
+  "id": "gitlab",
+  "title": "GitLab",
+  "summary": "US DevSecOps platform with AI features under its Duo brand.",
+  "sector": "ai-agents-software",
+  "sourceCategory": "Software",
+  "sourcePath": "_stocks/gitlab.md",
+  "sourceHash": "d2ad9302fa46a78d4eca531e36e02c75d16525c1cbb9c2e5a7f331bf1b3c8ff5",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>GitLab sells a single application for source control, CI/CD, security scanning and planning, which makes it the system of record for how code reaches production. Duo adds AI assistance and agents inside that workflow, and the company prices AI as an add-on to existing seats. Its challenge is competing with Microsoft's GitHub bundle on one side and point tools on the other.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>DevSecOps platform subscriptions</li>\n<li>GitLab Duo AI add-ons</li>\n<li>Security and compliance scanning</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Duo attach rate and pricing</li>\n<li>Net revenue retention against GitHub</li>\n<li>Free-to-paid conversion</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nGitLab sells a single application for source control, CI/CD, security scanning and planning, which makes it the system of record for how code reaches production. Duo adds AI assistance and agents inside that workflow, and the company prices AI as an add-on to existing seats. Its challenge is competing with Microsoft's GitHub bundle on one side and point tools on the other.\n\n## Technology Exposure\n\n- DevSecOps platform subscriptions\n- GitLab Duo AI add-ons\n- Security and compliance scanning\n\n## What To Watch\n\n- Duo attach rate and pricing\n- Net revenue retention against GitHub\n- Free-to-paid conversion\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "GitLab",
+    "symbol": "GTLB",
+    "exchange": "NASDAQ",
+    "categories": [
+      "Software"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "GTLB",
+  "exchange": "NASDAQ",
+  "private": false,
+  "businessMeaning": "Whoever owns the merge request owns the point where AI-generated code is reviewed, tested and released.",
+  "investmentLens": "Listed SaaS with a credible AI attach story; the metric to watch is paid seat growth plus Duo adoption, not model benchmarks."
+}

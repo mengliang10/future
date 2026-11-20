@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Quantum Dot Display Technology",
-    "subtitle": "Nanoscale semiconductor crystals that emit precise wavelengths of light; used in QLED/QD-OLED dis...",
+    "subtitle": "Nanoscale semiconductor crystals that emit precise wavelengths of light; used in QLED/QDOLED dis...",
     "category": "Semiconductors",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 60,
     "stocks": [],
-    "permalink": "/tech/quantum-dot-display/"
+    "permalink": "/tech/quantumdotdisplay/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

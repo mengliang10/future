@@ -1,0 +1,27 @@
+{
+  "id": "wing.pvt",
+  "title": "Wing",
+  "summary": "Alphabet's drone delivery unit, running commercial service in Texas and Australia.",
+  "sector": "autonomous",
+  "sectors": [
+    "applied-ai"
+  ],
+  "sourceCategory": "Autonomous & AV",
+  "sourcePath": "_stocks/wing.pvt.md",
+  "sourceHash": "d3f29b2456046e296d0e15727c5777c67acca779c5b87ae51b5f63b137e873c4",
+  "bodyHtml": "<p>Wing has operated commercial drone delivery since 2019 and is now part of Alphabet's Other Bets. It delivers food, groceries and pharmacy items from partner retailers in the Dallas-Fort Worth area and Canberra.</p>\n<p>Its aircraft hover, transition to fixed-wing flight and lower packages on a tether, with remote operations managed from a central control room.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Tether-based package delivery</li></ul>\n<ul><li>Retail partnerships in the US and Australia</li></ul>\n<ul><li>Remote fleet operations</li></ul>",
+  "bodyMarkdown": "Wing has operated commercial drone delivery since 2019 and is now part of Alphabet's Other Bets. It delivers food, groceries and pharmacy items from partner retailers in the Dallas-Fort Worth area and Canberra.\n\nIts aircraft hover, transition to fixed-wing flight and lower packages on a tether, with remote operations managed from a central control room.\n\n**Why it matters**\n\n- Tether-based package delivery\n\n- Retail partnerships in the US and Australia\n\n- Remote fleet operations",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "WING.PVT",
+    "name": "Wing",
+    "sector": "Autonomous & AV"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "WING.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Wing's value is proof that routine drone delivery can be operated at scale in suburbs. The constraint is regulation and the cost of each docking site.",
+  "investmentLens": "Private inside Alphabet; visible through Alphabet's Other Bets reporting and through retail partners."
+}

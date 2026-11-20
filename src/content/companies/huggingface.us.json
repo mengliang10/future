@@ -1,0 +1,29 @@
+{
+  "id": "huggingface.us",
+  "title": "Hugging Face",
+  "summary": "Host of the main open-model hub, plus the Transformers library and enterprise model tooling.",
+  "sector": "llms-models",
+  "sourceCategory": "Generative AI",
+  "sourcePath": "_stocks/huggingface.us.md",
+  "sourceHash": "e0a331226784f6089b2928e7f2e47e5448a7ea70bf6e19326f7653914c3bc4db",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Hugging Face became the default distribution point for open-weight models: labs publish there, developers download there, and the Hub's download counts are the closest thing the open ecosystem has to a usage statistic. It monetises through enterprise hosting, private model repositories and compute partnerships, while the free public Hub carries the community. Its position is strategic because it sits between model producers and the companies deploying them.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Model and dataset hub</li>\n<li>Transformers and inference libraries</li>\n<li>Enterprise Hub and hosted inference</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Monetisation of a largely free community</li>\n<li>Competition from cloud model catalogues</li>\n<li>Licensing and content moderation of hosted models</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nHugging Face became the default distribution point for open-weight models: labs publish there, developers download there, and the Hub's download counts are the closest thing the open ecosystem has to a usage statistic. It monetises through enterprise hosting, private model repositories and compute partnerships, while the free public Hub carries the community. Its position is strategic because it sits between model producers and the companies deploying them.\n\n## Technology Exposure\n\n- Model and dataset hub\n- Transformers and inference libraries\n- Enterprise Hub and hosted inference\n\n## What To Watch\n\n- Monetisation of a largely free community\n- Competition from cloud model catalogues\n- Licensing and content moderation of hosted models\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Hugging Face",
+    "symbol": "HUGGINGFACE.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Generative AI"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "HUGGINGFACE.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Distribution is the scarce asset in open AI: whoever hosts the weights shapes which models enterprises ever evaluate.",
+  "investmentLens": "Private; the closest listed read-across is the cloud compute the Hub runs on."
+}

@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2027\u20132030)",
     "source_count": 1,
     "stocks": [],
-    "permalink": "/tech/local-llm-deployment/"
+    "permalink": "/tech/localllmdeployment/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,10 @@
   "estimate": "2027\u20132031",
   "estimateYear": 2028,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "huggingface.us",
+    "replicate.com"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

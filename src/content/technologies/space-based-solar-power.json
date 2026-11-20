@@ -1,0 +1,41 @@
+{
+  "id": "space-based-solar-power",
+  "title": "Space-Based Solar Power",
+  "summary": "Collecting solar energy in orbit and beaming it to Earth as microwaves or laser light.",
+  "sector": "space",
+  "sourceCategory": "Space",
+  "sourcePath": "_tech/space-based-solar-power.md",
+  "sourceHash": "86d7176e95d87abf16f217902359977f75a746f08ea3a9040ec82d2b2c8ba099",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>A solar array in geostationary or sun-synchronous orbit generates power continuously, then transmits it to a ground rectenna using microwaves. The attraction is baseload solar without weather or night.</p>\n<h2>Why It Is Hard</h2>\n<p>The collector must be enormous, the transmission efficient at long range, and the launch cost low enough to matter. Ground rectennas also need large land areas and spectrum coordination.</p>\n<h2>What Would Change It</h2>\n<p>Falling launch cost, lightweight deployable structures and high-efficiency solid-state transmitters. Even then, terrestrial solar plus storage is a moving target.</p>",
+  "bodyMarkdown": "## What This Is\n\nA solar array in geostationary or sun-synchronous orbit generates power continuously, then transmits it to a ground rectenna using microwaves. The attraction is baseload solar without weather or night.\n\n## Why It Is Hard\n\nThe collector must be enormous, the transmission efficient at long range, and the launch cost low enough to matter. Ground rectennas also need large land areas and spectrum coordination.\n\n## What Would Change It\n\nFalling launch cost, lightweight deployable structures and high-efficiency solid-state transmitters. Even then, terrestrial solar plus storage is a moving target.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Space-Based Solar Power",
+    "subtitle": "Collecting solar energy in orbit and beaming it to Earth as microwaves or laser light.",
+    "category": "Space",
+    "stage": "basic_research",
+    "confidence_label": "Speculative",
+    "est_year": 2040,
+    "est_year_range": "2035-2050",
+    "horizon": "Long-Term (2031–2040)",
+    "source_count": 0,
+    "stocks": [
+      "spacex.us",
+      "astranis.us"
+    ],
+    "permalink": "/tech/space-based-solar-power/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "stage": "basic_research",
+  "confidenceLabel": "Speculative",
+  "estimate": "2035-2050",
+  "estimateYear": 2040,
+  "sourceCount": 0,
+  "companies": [
+    "spacex.us",
+    "astranis.us"
+  ],
+  "businessMeaning": "Not investable at commercial scale today. It is worth tracking as a long-run option for baseload power in regions with little land or sunlight.",
+  "investmentLens": "No listed pure play. Exposure is indirect through launch and space-power component suppliers."
+}

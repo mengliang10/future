@@ -1,0 +1,45 @@
+{
+  "id": "grid-forming-inverters",
+  "title": "Grid-Forming Inverters",
+  "summary": "Power electronics that let inverter-based resources stabilise a grid without spinning turbines.",
+  "sector": "energy",
+  "sourceCategory": "Energy",
+  "sourcePath": "_tech/grid-forming-inverters.md",
+  "sourceHash": "bc8290a4a2065457941811b8837b9821b0d33b8a6a6c2c2ca1ccb83140063724",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Conventional grids rely on the physical inertia of spinning generators. As wind, solar and batteries replace them, grid-forming inverters synthesise voltage and frequency to provide stability services.</p>\n<h2>Why It Matters</h2>\n<p>Without inertia and fast frequency response, a high-renewable grid becomes fragile. Grid-forming controls are the electronic substitute, and they increasingly determine how much renewable capacity can be connected.</p>\n<h2>Where It Bites</h2>\n<p>Battery projects, data-centre power systems and islanded microgrids are the first adopters. Standards and utility tests are the gating factor.</p>",
+  "bodyMarkdown": "## What This Is\n\nConventional grids rely on the physical inertia of spinning generators. As wind, solar and batteries replace them, grid-forming inverters synthesise voltage and frequency to provide stability services.\n\n## Why It Matters\n\nWithout inertia and fast frequency response, a high-renewable grid becomes fragile. Grid-forming controls are the electronic substitute, and they increasingly determine how much renewable capacity can be connected.\n\n## Where It Bites\n\nBattery projects, data-centre power systems and islanded microgrids are the first adopters. Standards and utility tests are the gating factor.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Grid-Forming Inverters",
+    "subtitle": "Power electronics that let inverter-based resources stabilise a grid without spinning turbines.",
+    "category": "Energy",
+    "stage": "early_commercial",
+    "confidence_label": "Confident",
+    "est_year": 2027,
+    "est_year_range": "2026-2030",
+    "horizon": "Near-Term (2026–2028)",
+    "source_count": 0,
+    "stocks": [
+      "vertiv",
+      "etn",
+      "siemens.de",
+      "schneider-electric.fr"
+    ],
+    "permalink": "/tech/grid-forming-inverters/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "stage": "early_commercial",
+  "confidenceLabel": "Confident",
+  "estimate": "2026-2030",
+  "estimateYear": 2027,
+  "sourceCount": 0,
+  "companies": [
+    "vertiv",
+    "etn",
+    "siemens.de",
+    "schneider-electric.fr"
+  ],
+  "businessMeaning": "For anyone building on-site generation or storage, grid-forming capability is becoming a procurement requirement rather than a bonus.",
+  "investmentLens": "Exposure is through electrical equipment majors and power-electronics suppliers rather than a single pure play."
+}

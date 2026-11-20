@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "GaN Power Semiconductors",
-    "subtitle": "Wide-bandgap GaN for efficient high-frequency power conversion in EVs and PSUs",
+    "subtitle": "Widebandgap GaN for efficient highfrequency power conversion in EVs and PSUs",
     "category": "Semiconductors",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 12,
     "stocks": [],
-    "permalink": "/tech/gan-power-semiconductors/"
+    "permalink": "/tech/ganpowersemiconductors/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

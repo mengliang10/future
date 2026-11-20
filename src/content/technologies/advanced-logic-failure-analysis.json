@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Advanced Logic Failure Analysis Workflows",
-    "subtitle": "Combined electrical fault isolation (e-beam probing, photon emission) + physical failure analysis...",
+    "subtitle": "Combined electrical fault isolation (ebeam probing, photon emission) + physical failure analysis...",
     "category": "Semiconductors",
     "stage": "early_commercial",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 18,
     "stocks": [],
-    "permalink": "/tech/advanced-logic-failure-analysis/"
+    "permalink": "/tech/advancedlogicfailureanalysis/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

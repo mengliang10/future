@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2027\u20132030)",
     "source_count": 3,
     "stocks": [],
-    "permalink": "/tech/cost-of-ai-inference/"
+    "permalink": "/tech/costofaiinference/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,13 @@
   "estimate": "2029\u20132033",
   "estimateYear": 2030,
   "sourceCount": 3,
-  "companies": [],
+  "companies": [
+    "sambanova.us",
+    "together.ai",
+    "fireworks-ai.us",
+    "replicate.com",
+    "openrouter.ai"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

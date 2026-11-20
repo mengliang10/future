@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Green Hydrogen (<$2/kg via Electrolysis)",
-    "subtitle": "Renewable-powered hydrogen reaching cost parity with grey hydrogen",
+    "subtitle": "Renewablepowered hydrogen reaching cost parity with grey hydrogen",
     "category": "Energy Tech",
     "stage": "pilot",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2031\u20132035)",
     "source_count": 5,
     "stocks": [],
-    "permalink": "/tech/green-hydrogen-2kg-via-electrolysis/"
+    "permalink": "/tech/greenhydrogen2kgviaelectrolysis/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

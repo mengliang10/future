@@ -1,7 +1,7 @@
 {
   "id": "arqq",
   "title": "Arqit Quantum",
-  "summary": "",
+  "summary": "Quantum-safe encryption-as-a-service using satellite-distributed keys; early mover in post-quantum cryptography infrastructure.",
   "sector": "quantum",
   "sourceCategory": "Quantum",
   "sourcePath": "_stocks/arqq.md",

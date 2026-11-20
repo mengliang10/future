@@ -1,0 +1,27 @@
+{
+  "id": "proxima-fusion.de",
+  "title": "Proxima Fusion",
+  "summary": "Munich company designing a stellarator fusion power plant based on Wendelstein 7-X research.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/proxima-fusion.de.md",
+  "sourceHash": "0e953080130b64395ff6ce42737d41fe1b330cbc70c11667488aefad45c03522",
+  "bodyHtml": "<p>Proxima Fusion is a spin-out of the Max Planck Institute for Plasma Physics, working on a stellarator design that uses complex twisted magnetic coils to confine plasma steadily.</p>\n<p>Stellarators are harder to build than tokamaks but are intrinsically more stable, which matters for continuous power production.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Stellarator power-plant design</li></ul>\n<ul><li>High-temperature superconducting magnets</li></ul>\n<ul><li>Public research heritage</li></ul>",
+  "bodyMarkdown": "Proxima Fusion is a spin-out of the Max Planck Institute for Plasma Physics, working on a stellarator design that uses complex twisted magnetic coils to confine plasma steadily.\n\nStellarators are harder to build than tokamaks but are intrinsically more stable, which matters for continuous power production.\n\n**Why it matters**\n\n- Stellarator power-plant design\n\n- High-temperature superconducting magnets\n\n- Public research heritage",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "PROXIMA.PVT",
+    "name": "Proxima Fusion",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "PROXIMA.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Fusion timelines are long, and the stellarator route bets on steady-state operation over tokamak experience. Magnet manufacturing is the near-term bottleneck.",
+  "investmentLens": "Private; the public read is superconducting tape and precision magnet suppliers."
+}

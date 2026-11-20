@@ -1,0 +1,29 @@
+{
+  "id": "anysphere.pvt",
+  "title": "Anysphere (Cursor)",
+  "summary": "US maker of the Cursor AI code editor.",
+  "sector": "ai-agents-software",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/anysphere.pvt.md",
+  "sourceHash": "e6bb77d66ffcb5a755f354b24d521d2469a70badc89d792479df56ecf9009627",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Anysphere's Cursor embeds model-driven editing, multi-file changes and agentic task execution directly into the developer's editor. Its growth came from developers adopting it individually before enterprises bought seats, a bottom-up motion that incumbent tooling struggles to replicate. The company depends on third-party models for capability and competes with the model labs' own coding tools, which can bundle at lower marginal cost.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Cursor editor and agent mode</li>\n<li>Team and enterprise subscriptions</li>\n<li>Model routing across providers</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Enterprise seat expansion</li>\n<li>Model cost as a share of revenue</li>\n<li>Bundling by model labs and IDEs</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAnysphere's Cursor embeds model-driven editing, multi-file changes and agentic task execution directly into the developer's editor. Its growth came from developers adopting it individually before enterprises bought seats, a bottom-up motion that incumbent tooling struggles to replicate. The company depends on third-party models for capability and competes with the model labs' own coding tools, which can bundle at lower marginal cost.\n\n## Technology Exposure\n\n- Cursor editor and agent mode\n- Team and enterprise subscriptions\n- Model routing across providers\n\n## What To Watch\n\n- Enterprise seat expansion\n- Model cost as a share of revenue\n- Bundling by model labs and IDEs\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Anysphere (Cursor)",
+    "symbol": "ANYSPHERE.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ANYSPHERE.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Coding is the first knowledge workflow where agents complete tasks end to end, so the editor becomes the place where work is bought.",
+  "investmentLens": "Private and fast-growing; the read-across is to model inference demand rather than a listed comparable."
+}

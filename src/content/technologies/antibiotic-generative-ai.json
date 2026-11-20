@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Generative AI for Antibiotics",
-    "subtitle": "Using models to discover novel antibacterial compounds against drug-resistant pathogens.",
+    "subtitle": "Using models to discover novel antibacterial compounds against drugresistant pathogens.",
     "category": "Biotech",
     "stage": "basic_research",
     "confidence_label": "Confident",
@@ -20,7 +20,7 @@
     "horizon": "Long-Range (2040+)",
     "source_count": 4,
     "stocks": [],
-    "permalink": "/tech/antibiotic-generative-ai/"
+    "permalink": "/tech/antibioticgenerativeai/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

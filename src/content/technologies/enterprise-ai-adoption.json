@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2027\u20132030)",
     "source_count": 2,
     "stocks": [],
-    "permalink": "/tech/enterprise-ai-adoption/"
+    "permalink": "/tech/enterpriseaiadoption/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,14 @@
   "estimate": "2027\u20132031",
   "estimateYear": 2028,
   "sourceCount": 2,
-  "companies": [],
+  "companies": [
+    "databricks.pvt",
+    "ai21.il",
+    "aleph-alpha.de",
+    "gitlab",
+    "sierra.pvt",
+    "glean.pvt"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

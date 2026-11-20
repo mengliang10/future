@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Programmatic Display Advertising",
-    "subtitle": "Automated real-time bidding for banner/display/video ad inventory",
+    "subtitle": "Automated realtime bidding for banner/display/video ad inventory",
     "category": "Marketing Tech",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -22,7 +22,7 @@
     "stocks": [
       "TTD"
     ],
-    "permalink": "/tech/programmatic-display-advertising/"
+    "permalink": "/tech/programmaticdisplayadvertising/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

@@ -1,7 +1,7 @@
 {
   "id": "ddog",
   "title": "Datadog",
-  "summary": "",
+  "summary": "Datadog is the observability infrastructure for cloud-native AI applications; every LLM and agent deployment in production generates monitoring demand.",
   "sector": "ai-agents-software",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_stocks/ddog.md",

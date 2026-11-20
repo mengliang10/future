@@ -1,7 +1,7 @@
 {
   "id": "byd.hk",
   "title": "BYD Company",
-  "summary": "",
+  "summary": "BYD is the world's largest EV manufacturer and a vertically integrated battery giant, leading the shift to LFP and solid-state chemistries.",
   "sector": "robotics",
   "sourceCategory": "Robotics & Auto",
   "sourcePath": "_stocks/byd.hk.md",
@@ -26,5 +26,8 @@
   "exchange": "HKEX",
   "private": false,
   "businessMeaning": "",
-  "investmentLens": ""
+  "investmentLens": "",
+  "sectors": [
+    "autonomous"
+  ]
 }

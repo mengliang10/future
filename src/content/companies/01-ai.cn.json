@@ -1,0 +1,29 @@
+{
+  "id": "01-ai.cn",
+  "title": "01.AI",
+  "summary": "Chinese lab founded by Kai-Fu Lee that built the Yi model family and later shifted toward enterprise applications.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/01-ai.cn.md",
+  "sourceHash": "f4a63be580eaf6918e582c4aec84c41bd6bd3f438976e00da40781bf59e65c0b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>01.AI released competitive open-weight Yi models, then narrowed its ambition from training frontier models to building applications and backing other AI companies. The pivot reflects the cost of staying at the frontier without hyperscaler distribution. Its remaining relevance is as a test case for whether second-tier labs can find a viable niche in China's crowded market.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Yi open-weight models</li>\n<li>Enterprise AI applications</li>\n<li>Incubation of AI startups</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Sustainability of the strategy pivot</li>\n<li>Funding and compute access</li>\n<li>Adoption of Yi outside China</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\n01.AI released competitive open-weight Yi models, then narrowed its ambition from training frontier models to building applications and backing other AI companies. The pivot reflects the cost of staying at the frontier without hyperscaler distribution. Its remaining relevance is as a test case for whether second-tier labs can find a viable niche in China's crowded market.\n\n## Technology Exposure\n\n- Yi open-weight models\n- Enterprise AI applications\n- Incubation of AI startups\n\n## What To Watch\n\n- Sustainability of the strategy pivot\n- Funding and compute access\n- Adoption of Yi outside China\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "01.AI",
+    "symbol": "01AI.CN",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "01AI.CN",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "A model that is merely competitive is hard to sell; the pivot to applications is what happens when weights stop being the differentiator.",
+  "investmentLens": "Private; watch the pivot as evidence on how many frontier labs the market can carry."
+}

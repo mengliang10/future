@@ -22,7 +22,7 @@
     "stocks": [
       "AAPL"
     ],
-    "permalink": "/tech/spatial-computing-os/"
+    "permalink": "/tech/spatialcomputingos/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -32,7 +32,11 @@
   "estimateYear": 2025,
   "sourceCount": 4,
   "companies": [
-    "aapl"
+    "aapl",
+    "vuzix.us",
+    "magic-leap.pvt",
+    "xreal.pvt",
+    "rokid.pvt"
   ],
   "businessMeaning": "",
   "investmentLens": ""

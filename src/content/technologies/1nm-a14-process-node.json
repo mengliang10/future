@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "1nm / A14 Process Node",
-    "subtitle": "Sub-2nm node requiring High-NA EUV; TSMC A14 targeting 2028",
+    "subtitle": "Sub2nm node requiring HighNA EUV; TSMC A14 targeting 2028",
     "category": "Semiconductors",
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
@@ -24,7 +24,7 @@
       "TSM",
       "KLAC"
     ],
-    "permalink": "/tech/1nm-a14-process-node/"
+    "permalink": "/tech/1nma14processnode/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

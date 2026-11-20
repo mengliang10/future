@@ -16,11 +16,11 @@ Development: `npm run dev`. The website is static and can later be hosted on Git
 
 ## What is included
 
-- 964 technology records and 455 company records, preserved from the downloaded source.
+- 972 technology records and 567 company records, including newer private future-tech companies alongside the imported source set.
 - 15 normalised sectors, with original category labels retained in each record.
 - Search/filter/pagination explorers, roadmap views, linked companies and original research pages.
-- 96 evergreen HTML briefing manifests, generating 1,333 slides, plus one example fixed snapshot.
-- A common 16:9 Reveal.js slide renderer, responsive reading mode, browser Print/PDF and shared source hooks.
+- 54 briefing manifests generating 776 slides, including 11 official sector decks at 17 slides each, plus one example fixed snapshot.
+- A common 16:9 Reveal.js slide renderer with generated SVG diagrams (actors, risk, funnel, portfolio map, technology anatomy), responsive reading mode, browser Print/PDF and shared source hooks.
 - Original repository with Git history in `source/original`, original Markdown downloads under `public/source`, and machine-readable import manifest in `qa/import-manifest.json`.
 
 The records are imported research. Claims, timelines, confidence scores, financial data and source counts have **not** been independently revalidated. The site labels this status and does not describe the market snapshot as live data. A rebuild is not a research review.

@@ -1,0 +1,29 @@
+{
+  "id": "sierra.pvt",
+  "title": "Sierra",
+  "summary": "US customer-service agent company co-founded by Bret Taylor and Clay Bavor.",
+  "sector": "ai-agents-software",
+  "sourceCategory": "AI & Cloud",
+  "sourcePath": "_stocks/sierra.pvt.md",
+  "sourceHash": "1a7e9a301a4572cb7dcf20f15e822a07c0975e104e431c7a2194a2597de748ed",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Sierra builds AI agents that handle customer conversations for large brands, and prices them against outcomes such as resolved tickets rather than per seat. That alignment matters because buyers can compare the agent's cost to the human team it replaces. The company's advantage is in evaluation, guardrails and integration with existing systems, not in owning a frontier model.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Customer-service AI agents</li>\n<li>Outcome-based pricing</li>\n<li>Enterprise integrations and guardrails</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Resolution rates and escalation cost</li>\n<li>Enterprise expansion within accounts</li>\n<li>Price competition from model providers</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nSierra builds AI agents that handle customer conversations for large brands, and prices them against outcomes such as resolved tickets rather than per seat. That alignment matters because buyers can compare the agent's cost to the human team it replaces. The company's advantage is in evaluation, guardrails and integration with existing systems, not in owning a frontier model.\n\n## Technology Exposure\n\n- Customer-service AI agents\n- Outcome-based pricing\n- Enterprise integrations and guardrails\n\n## What To Watch\n\n- Resolution rates and escalation cost\n- Enterprise expansion within accounts\n- Price competition from model providers\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Sierra",
+    "symbol": "SIERRA.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "AI & Cloud"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "SIERRA.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Pricing on resolution aligns the vendor with the buyer's cost base and makes the ROI argument concrete.",
+  "investmentLens": "Private; a direct read on whether agent outcomes can be priced and measured reliably."
+}

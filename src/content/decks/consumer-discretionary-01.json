@@ -1,6 +1,6 @@
 {
   "id": "consumer-discretionary-01",
-  "title": "Consumer Discretionary \u2014 Official Sector Briefing",
+  "title": "Consumer Discretionary — How future technology reshapes the sector",
   "sector": "spatial-computing",
   "mode": "evergreen",
   "added": "2026-11-18",
@@ -21,5 +21,525 @@
     "closed-loop-bio-feedback-wearables",
     "web3-mass-consumer-adoption",
     "elder-care-home-healthcare"
+  ],
+  "slides": [
+    {
+      "kind": "statement",
+      "eyebrow": "01 · The thesis",
+      "title": "The technology is not the story. The cost line is.",
+      "body": "Discretionary spending is a contest for attention and convenience. Agents and AR collapse the distance between intent and purchase, while robotics and autonomy attack the two biggest cost lines: labour and fulfilment. Brands keep pricing power only where taste, status or service cannot be delegated to software."
+    },
+    {
+      "kind": "points",
+      "eyebrow": "02 · Sector economics",
+      "title": "What this sector actually sells",
+      "body": "Revenue is cyclical and promotion-driven; cost is dominated by labour, rent, inventory and marketing. Small changes in markdown or fulfilment cost swing operating margin.",
+      "bullets": [
+        "Retail earns on gross margin and inventory turns, not headline sales.",
+        "Store economics depend on four-wall sales per square foot and payroll.",
+        "Autos earn on mix, financing and after-sales; capex is model-cycle driven.",
+        "Marketplaces earn take rate and advertising, with logistics as the moat.",
+        "Hospitality and travel earn on occupancy and revenue per available room."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "03 · Impact map",
+      "title": "Where the impact lands",
+      "body": "Two axes matter: how soon the effect reaches reported numbers, and whether it lands on revenue or on cost and capital.",
+      "diagram": {
+        "kind": "impact",
+        "quadrants": [
+          {
+            "label": "New revenue, contested",
+            "items": [
+              "Agent-referred traffic and commissions",
+              "AR try-on conversion uplift",
+              "In-car digital services"
+            ]
+          },
+          {
+            "label": "New revenue, durable",
+            "items": [
+              "Proprietary loyalty and first-party data",
+              "Membership and resale programmes",
+              "Experiential retail and hospitality"
+            ]
+          },
+          {
+            "label": "Cost takeout, fast",
+            "items": [
+              "Demand forecasting and markdown optimisation",
+              "Customer-service agents",
+              "Warehouse task automation"
+            ]
+          },
+          {
+            "label": "Structural cost shift",
+            "items": [
+              "Robotic fulfilment becomes table stakes",
+              "Last-mile autonomy changes delivery economics",
+              "Store estate must be re-purposed"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "04 · Exposure",
+      "title": "How much of the sector is actually exposed",
+      "diagram": {
+        "kind": "bars",
+        "caption": "Directional share of each pool exposed to technology-driven change",
+        "bars": [
+          {
+            "label": "Store labour cost",
+            "pct": 45
+          },
+          {
+            "label": "Marketing and customer acquisition",
+            "pct": 40
+          },
+          {
+            "label": "Fulfilment and last-mile cost",
+            "pct": 50
+          },
+          {
+            "label": "Inventory markdown loss",
+            "pct": 35
+          },
+          {
+            "label": "Marketplace take rate",
+            "pct": 25
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "05 · Supply chain",
+      "title": "The future products in the chain",
+      "body": "Each stage is a product family that has to exist for the next one to work. This is where the spend lands.",
+      "diagram": {
+        "kind": "chain",
+        "caption": "Inputs → manufacturing → fulfilment → marketplace → consumer interface",
+        "stages": [
+          {
+            "label": "Inputs",
+            "products": [
+              "Textiles and components",
+              "Batteries and motors",
+              "Packaging",
+              "Food ingredients"
+            ]
+          },
+          {
+            "label": "Manufacturing",
+            "products": [
+              "Contract assembly",
+              "EV platforms",
+              "Private-label production",
+              "Additive parts"
+            ]
+          },
+          {
+            "label": "Fulfilment",
+            "products": [
+              "Automated warehouses",
+              "Robotic picking",
+              "Autonomous delivery",
+              "Returns processing"
+            ]
+          },
+          {
+            "label": "Marketplace",
+            "products": [
+              "Agent product feeds",
+              "Dynamic pricing",
+              "Live commerce",
+              "Resale platforms"
+            ]
+          },
+          {
+            "label": "Interface",
+            "products": [
+              "AI shopping agents",
+              "AR try-on",
+              "In-car commerce",
+              "Social storefronts"
+            ]
+          }
+        ],
+        "note": "The product families that matter are machine-readable catalogues, AR assets and autonomous delivery capacity — not another app."
+      }
+    },
+    {
+      "kind": "columns",
+      "eyebrow": "06 · Technology clusters",
+      "title": "Three shifts to underwrite",
+      "columns": [
+        {
+          "title": "Agentic commerce",
+          "body": "If an assistant chooses the product, brands compete on structured data, availability and price transparency.",
+          "items": [
+            "Product feed standards",
+            "Agent payment mandates",
+            "Dynamic pricing",
+            "Reviews and trust signals"
+          ]
+        },
+        {
+          "title": "Physical automation",
+          "body": "Robotics moves from prototypes to unit economics in warehouses and, later, stores.",
+          "items": [
+            "Robotic picking",
+            "Autonomous forklifts",
+            "Drone and robot delivery",
+            "Store replenishment"
+          ]
+        },
+        {
+          "title": "Spatial and in-car",
+          "body": "AR try-on and vehicle software create new surfaces for discovery and transactions.",
+          "items": [
+            "AR try-on",
+            "Virtual staging",
+            "In-car app stores",
+            "Gesture interfaces"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "07 · The stack",
+      "title": "The stack underneath the sector",
+      "diagram": {
+        "kind": "stack",
+        "layers": [
+          {
+            "label": "Physical",
+            "note": "Stores, fleets, robots",
+            "items": [
+              "Store estate",
+              "Warehouses",
+              "Delivery fleet",
+              "Charging"
+            ]
+          },
+          {
+            "label": "Data",
+            "note": "Demand and identity",
+            "items": [
+              "POS data",
+              "Loyalty IDs",
+              "Inventory",
+              "Pricing signals"
+            ]
+          },
+          {
+            "label": "Models",
+            "note": "Prediction and agents",
+            "items": [
+              "Forecasting",
+              "Recommendation",
+              "Shopping agents",
+              "Pricing engines"
+            ]
+          },
+          {
+            "label": "Interfaces",
+            "note": "Where the sale happens",
+            "items": [
+              "Marketplace app",
+              "AR try-on",
+              "In-car screen",
+              "Voice assistant"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "08 · Timing",
+      "title": "When it reaches the numbers",
+      "diagram": {
+        "kind": "timeline",
+        "milestones": [
+          {
+            "year": 2026,
+            "label": "Agent shopping pilots",
+            "detail": "Assistants complete checkout with mandates",
+            "lane": 0
+          },
+          {
+            "year": 2027,
+            "label": "AR try-on at scale",
+            "detail": "Returns fall for apparel categories",
+            "lane": 0
+          },
+          {
+            "year": 2028,
+            "label": "Robotic fulfilment standard",
+            "detail": "Large DCs automate picking",
+            "lane": 1
+          },
+          {
+            "year": 2029,
+            "label": "Autonomous ride-hailing",
+            "detail": "Driverless fleets in multiple cities",
+            "lane": 1
+          },
+          {
+            "year": 2031,
+            "label": "Humanoid store labour",
+            "detail": "Limited tasks in back-of-house",
+            "lane": 2
+          },
+          {
+            "year": 2033,
+            "label": "Ambient commerce",
+            "detail": "Purchases embedded in glasses and vehicles",
+            "lane": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "table",
+      "eyebrow": "09 · Line by line",
+      "title": "Where the money actually moves",
+      "table": {
+        "head": [
+          "P&L line",
+          "Mechanism",
+          "Timing",
+          "Proof point"
+        ],
+        "rows": [
+          [
+            "Gross margin",
+            "Forecasting and markdown discipline",
+            "Now → 2028",
+            "Promotion depth and sell-through"
+          ],
+          [
+            "Payroll",
+            "Self-checkout and task automation",
+            "Now → 2029",
+            "Sales per labour hour"
+          ],
+          [
+            "Fulfilment cost",
+            "Robotics and route optimisation",
+            "2027 → 2030",
+            "Cost per order"
+          ],
+          [
+            "Marketing",
+            "Agent referrals replace paid acquisition",
+            "2027 → 2031",
+            "CAC by channel"
+          ],
+          [
+            "Capex",
+            "Autonomy and EV fleet renewal",
+            "2028 → 2033",
+            "Fleet utilisation and residual values"
+          ]
+        ]
+      }
+    },
+    {
+      "kind": "points",
+      "eyebrow": "10 · Winners",
+      "title": "Who gains",
+      "bullets": [
+        "Marketplaces with logistics density and rich product data.",
+        "Brands with genuine pricing power and direct customer relationships.",
+        "Off-price and value formats as consumers delegate routine purchases.",
+        "Autonomous fleet operators and the suppliers that equip them.",
+        "Warehouse automation vendors with proven unit economics."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "11 · Exposure",
+      "title": "Who is exposed",
+      "bullets": [
+        "Mall-based retail with high fixed rents and undifferentiated assortment.",
+        "DTC brands dependent on paid social acquisition.",
+        "Franchised auto dealers facing direct-to-consumer and agentic pricing.",
+        "Low-margin apparel exposed to returns and markdowns.",
+        "Delivery networks without automation or density."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "12 · Signposts",
+      "title": "What to watch next",
+      "body": "Signposts are chosen so that each one can falsify part of the thesis within four quarters.",
+      "bullets": [
+        "<strong>Agent-referred conversion</strong> and whether it carries a commission.",
+        "<strong>Return rates</strong> after AR try-on adoption.",
+        "<strong>Fulfilment cost per order</strong> as robotics scales.",
+        "<strong>Store closures</strong> versus conversion to fulfilment nodes.",
+        "<strong>Robotaxi utilisation</strong> and safety incident rates."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "13 · The ecosystem",
+      "title": "Who has to deliver for this to work",
+      "diagram": {
+        "kind": "actors",
+        "caption": "Brands → marketplaces → logistics → experiences → customer interface",
+        "groups": [
+          {
+            "label": "Brands",
+            "role": "Product and pricing power",
+            "names": [
+              "Nike",
+              "LVMH",
+              "Inditex",
+              "Tesla",
+              "Sony"
+            ]
+          },
+          {
+            "label": "Marketplaces",
+            "role": "Discovery and demand",
+            "names": [
+              "Amazon",
+              "Alibaba",
+              "Walmart",
+              "Shopify",
+              "MercadoLibre"
+            ]
+          },
+          {
+            "label": "Logistics",
+            "role": "Fulfilment and last mile",
+            "names": [
+              "UPS",
+              "FedEx",
+              "Zipline",
+              "Nuro",
+              "Ocado"
+            ]
+          },
+          {
+            "label": "Experiences",
+            "role": "Media, travel and leisure",
+            "names": [
+              "Netflix",
+              "Disney",
+              "Spotify",
+              "Airbnb",
+              "Booking"
+            ]
+          },
+          {
+            "label": "Interface",
+            "role": "Where the agent or app sits",
+            "names": [
+              "Uber",
+              "DoorDash",
+              "Roblox",
+              "Grab",
+              "Snap"
+            ]
+          }
+        ],
+        "note": "If an agent does the shopping, the interface captures the relationship and brands compete on product alone."
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "14 · Where the thesis breaks",
+      "title": "Where the thesis could break",
+      "diagram": {
+        "kind": "risk",
+        "caption": "Evidence strength versus P&L impact",
+        "items": [
+          {
+            "label": "Agentic shopping bypasses brand discovery",
+            "evidence": 50,
+            "impact": 70,
+            "note": "Referral share and ad efficiency"
+          },
+          {
+            "label": "Delivery robot economics improve",
+            "evidence": 35,
+            "impact": 55,
+            "note": "Cost per drop in dense areas"
+          },
+          {
+            "label": "Consumer credit stress cuts spend",
+            "evidence": 60,
+            "impact": 85,
+            "note": "Delinquencies and real wages"
+          },
+          {
+            "label": "AI content floods platforms",
+            "evidence": 65,
+            "impact": 65,
+            "note": "Ad yield and trust"
+          },
+          {
+            "label": "Recommerce takes share",
+            "evidence": 45,
+            "impact": 50,
+            "note": "New-goods volume"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "15 · The value pool",
+      "title": "From gross spend to defensible profit",
+      "diagram": {
+        "kind": "funnel",
+        "caption": "Where the money narrows",
+        "stages": [
+          {
+            "label": "Consumer spending",
+            "pct": 100,
+            "note": "Gross demand"
+          },
+          {
+            "label": "Retail gross merchandise value",
+            "pct": 60,
+            "note": "Through platforms"
+          },
+          {
+            "label": "Retailer net revenue",
+            "pct": 28,
+            "note": "After returns and fees"
+          },
+          {
+            "label": "Operating profit",
+            "pct": 8,
+            "note": "Before central costs"
+          },
+          {
+            "label": "Net margin",
+            "pct": 4,
+            "note": "Thin and cyclical"
+          }
+        ],
+        "note": "Discretionary spend is the first thing to fall in a downturn, which makes the operating leverage severe."
+      }
+    },
+    {
+      "kind": "research",
+      "eyebrow": "16 · Evidence",
+      "title": "Read the research behind this deck",
+      "body": "The linked records cover retail, autonomy, robotics and spatial interfaces. Commercial timing depends on local regulation and unit economics, not demo videos.",
+      "footnote": "Scenario synthesis compiled 19 November 2026. Directional shares and timelines are analytical judgements, not measured statistics or forecasts. Each technology record carries its own confidence label and source path."
+    }
   ]
 }

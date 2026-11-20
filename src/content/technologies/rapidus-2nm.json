@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Rapidus 2nm pilot line",
-    "subtitle": "Japan's state-backed attempt to return to leading-edge logic manufacturing.",
+    "subtitle": "Japan's statebacked attempt to return to leadingedge logic manufacturing.",
     "category": "Semiconductors",
     "stage": "pilot",
     "confidence_label": "Researching",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (through 2028)",
     "source_count": 0,
     "stocks": [],
-    "permalink": "/tech/rapidus-2nm/"
+    "permalink": "/tech/rapidus2nm/"
   },
   "evidenceStatus": "editorial-brief",
   "reviewedAt": "2026-11-18",

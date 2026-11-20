@@ -1,0 +1,29 @@
+{
+  "id": "aleph-alpha.de",
+  "title": "Aleph Alpha",
+  "summary": "German sovereign-AI company selling explainable models to European public-sector and industrial buyers.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/aleph-alpha.de.md",
+  "sourceHash": "3ce597a3e9585207d65b71c070b2ad858e3e8dd2c7043980a1e56fe22b48cd21",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Aleph Alpha positions its Pharia models around transparency and European hosting, targeting government, defence and regulated industry that cannot use US APIs. It has shifted emphasis from frontier-scale training toward applied products and partnerships, which is a more realistic path for a lab without hyperscaler compute. Public funding and German industrial customers underwrite the effort.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Pharia models and enterprise deployment</li>\n<li>Sovereign AI for public administration</li>\n<li>Explainability and audit tooling</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Public-sector procurement cycles</li>\n<li>Competition from Mistral for European mandates</li>\n<li>Funding beyond grant support</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAleph Alpha positions its Pharia models around transparency and European hosting, targeting government, defence and regulated industry that cannot use US APIs. It has shifted emphasis from frontier-scale training toward applied products and partnerships, which is a more realistic path for a lab without hyperscaler compute. Public funding and German industrial customers underwrite the effort.\n\n## Technology Exposure\n\n- Pharia models and enterprise deployment\n- Sovereign AI for public administration\n- Explainability and audit tooling\n\n## What To Watch\n\n- Public-sector procurement cycles\n- Competition from Mistral for European mandates\n- Funding beyond grant support\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Aleph Alpha",
+    "symbol": "ALEPH-ALPHA.DE",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "ALEPH-ALPHA.DE",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "When a buyer must be able to explain a model to a regulator, auditability beats a small benchmark advantage.",
+  "investmentLens": "Private and grant-supported; the signal is European procurement, not model rankings."
+}

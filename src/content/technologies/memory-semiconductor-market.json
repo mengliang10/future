@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2029\u20132033)",
     "source_count": 6,
     "stocks": [],
-    "permalink": "/tech/memory-semiconductor-market/"
+    "permalink": "/tech/memorysemiconductormarket/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,12 @@
   "estimate": "2031\u20132036",
   "estimateYear": 2032,
   "sourceCount": 6,
-  "companies": [],
+  "companies": [
+    "kioxia.jp",
+    "stx",
+    "pstg",
+    "nanya.tw"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

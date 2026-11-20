@@ -1,0 +1,27 @@
+{
+  "id": "isomorphic-labs.uk",
+  "title": "Isomorphic Labs",
+  "summary": "London company applying AlphaFold-era models to drug discovery, spun out of DeepMind.",
+  "sector": "drugs-biotech",
+  "sectors": [
+    "llms-models"
+  ],
+  "sourceCategory": "Drugs & Biotech",
+  "sourcePath": "_stocks/isomorphic-labs.uk.md",
+  "sourceHash": "d497d56ad3e5f3d8f0ad61d7b9867f59f23c8e8bb5d9af1e7e000d3a786c8f26",
+  "bodyHtml": "<p>Isomorphic Labs is building a drug-discovery engine on top of protein-structure prediction and generative chemistry, with partnerships with Eli Lilly and Novartis.</p>\n<p>The company aims to predict how a molecule will bind and behave before it is synthesised, shortening the discovery phase.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Structure prediction</li></ul>\n<ul><li>Generative chemistry</li></ul>\n<ul><li>Large pharma partnerships</li></ul>",
+  "bodyMarkdown": "Isomorphic Labs is building a drug-discovery engine on top of protein-structure prediction and generative chemistry, with partnerships with Eli Lilly and Novartis.\n\nThe company aims to predict how a molecule will bind and behave before it is synthesised, shortening the discovery phase.\n\n**Why it matters**\n\n- Structure prediction\n\n- Generative chemistry\n\n- Large pharma partnerships",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "ISOMORPHIC.PVT",
+    "name": "Isomorphic Labs",
+    "sector": "Drugs & Biotech"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "ISOMORPHIC.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "If binding prediction becomes reliable, the cost of finding a starting molecule falls sharply. The remaining risk is clinical failure, not discovery.",
+  "investmentLens": "Private inside Alphabet; the read is through pharma partners and the AI compute supply chain."
+}

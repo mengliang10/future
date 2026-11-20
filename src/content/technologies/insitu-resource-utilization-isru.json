@@ -15,14 +15,14 @@
     "category": "Space Tech",
     "status": "prototype",
     "est_year": 2029,
-    "est_year_range": "2029\u20132033",
-    "horizon": "Near-Term (2026\u20132030)"
+    "est_year_range": "2029–2033",
+    "horizon": "Near-Term (2026–2030)"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
   "stage": "prototype",
   "confidenceLabel": "Not classified",
-  "estimate": "2029\u20132033",
+  "estimate": "2029–2033",
   "estimateYear": 2029,
   "sourceCount": null,
   "companies": [],

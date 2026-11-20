@@ -1,6 +1,6 @@
 {
   "id": "information-technology-01",
-  "title": "Information Technology \u2014 Official Sector Briefing",
+  "title": "Information Technology — How future technology reshapes the sector",
   "sector": "semiconductors",
   "mode": "evergreen",
   "added": "2026-11-18",
@@ -21,5 +21,530 @@
     "local-ai-agent-capability",
     "angstrom-era-chips-10-gate-length",
     "neuromorphic-computing-chip"
+  ],
+  "slides": [
+    {
+      "kind": "statement",
+      "eyebrow": "01 · The thesis",
+      "title": "The technology is not the story. The cost line is.",
+      "body": "The sector sells compute, software and the people who wire them together. AI changes all three at once: it expands the compute bill, compresses the software seat, and automates the integration work that services firms bill by the hour. The question is not whether demand grows, but which layer captures the surplus when compute is scarce and code is cheap."
+    },
+    {
+      "kind": "points",
+      "eyebrow": "02 · Sector economics",
+      "title": "What this sector actually sells",
+      "body": "Four very different businesses sit inside one sector label: cyclical capital equipment, low-margin hardware assembly, high-gross-margin software, and people-based services.",
+      "bullets": [
+        "Semiconductors earn on unit volume and node leadership; utilisation and depreciation dominate the cycle.",
+        "Hardware assembly earns thin spreads and is valued on cash conversion, not growth.",
+        "Software earns 75–90% gross margins on seats and maintenance, with low marginal cost per user.",
+        "IT services earn on billable headcount; utilisation and pyramid leverage set the margin.",
+        "Cloud infrastructure sits between: capital-hungry, but with usage-based revenue that compounds."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "03 · Impact map",
+      "title": "Where the impact lands",
+      "body": "Two axes matter: how soon the effect reaches reported numbers, and whether it lands on revenue or on cost and capital.",
+      "diagram": {
+        "kind": "impact",
+        "quadrants": [
+          {
+            "label": "New revenue, contested",
+            "items": [
+              "Accelerators, HBM and networking sold into AI clusters",
+              "Inference capacity resold as a metered service",
+              "Custom silicon programmes for hyperscalers"
+            ]
+          },
+          {
+            "label": "New revenue, durable",
+            "items": [
+              "Agent platforms that charge per completed task",
+              "Data and evaluation layers that models cannot commoditise",
+              "Security and governance for machine identities"
+            ]
+          },
+          {
+            "label": "Cost takeout, fast",
+            "items": [
+              "Coding assistants reduce engineering hours per release",
+              "Automated support deflects tier-one tickets",
+              "AI-assisted EDA and yield analysis shorten cycles"
+            ]
+          },
+          {
+            "label": "Structural cost shift",
+            "items": [
+              "Fab and packaging capex per wafer starts to rise again",
+              "Power and cooling become a siting constraint",
+              "Depreciation schedules lengthen the payback on AI fleets"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "04 · Exposure",
+      "title": "How much of the sector is actually exposed",
+      "diagram": {
+        "kind": "bars",
+        "caption": "Directional exposure of each pool to the AI shift",
+        "bars": [
+          {
+            "label": "AI-related compute and networking spend",
+            "pct": 45
+          },
+          {
+            "label": "Software maintenance and seat revenue",
+            "pct": 35
+          },
+          {
+            "label": "Services revenue priced on headcount",
+            "pct": 60
+          },
+          {
+            "label": "Hardware assembly margin",
+            "pct": 20
+          },
+          {
+            "label": "On-premise refresh budget",
+            "pct": 30
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "05 · Supply chain",
+      "title": "The future products in the chain",
+      "body": "Each stage is a product family that has to exist for the next one to work. This is where the spend lands.",
+      "diagram": {
+        "kind": "chain",
+        "caption": "Upstream materials → fabricated silicon → systems → platforms → enterprise workflows",
+        "stages": [
+          {
+            "label": "Materials & tools",
+            "products": [
+              "EUV photoresist",
+              "300mm wafers",
+              "Advanced packaging substrate",
+              "Ultra-pure gases"
+            ]
+          },
+          {
+            "label": "Fabrication & memory",
+            "products": [
+              "2nm logic die",
+              "HBM4 stacks",
+              "CoWoS packaging",
+              "Power delivery chips"
+            ]
+          },
+          {
+            "label": "Systems",
+            "products": [
+              "GPU racks",
+              "Optical interconnect",
+              "Liquid cooling",
+              "Custom accelerators"
+            ]
+          },
+          {
+            "label": "Platforms",
+            "products": [
+              "Frontier model APIs",
+              "Open-weight models",
+              "Vector and eval services",
+              "Sovereign clouds"
+            ]
+          },
+          {
+            "label": "Workflows",
+            "products": [
+              "Coding agents",
+              "Support agents",
+              "Analyst copilots",
+              "Design and simulation"
+            ]
+          }
+        ],
+        "note": "The scarce links are packaging, memory bandwidth and power — not the model itself. That is where pricing power currently sits."
+      }
+    },
+    {
+      "kind": "columns",
+      "eyebrow": "06 · Technology clusters",
+      "title": "Three shifts to underwrite",
+      "columns": [
+        {
+          "title": "Compute and packaging",
+          "body": "Demand is moving from chips to systems: rack-scale design, memory bandwidth and thermal limits decide who can ship.",
+          "items": [
+            "2nm and gate-all-around ramps",
+            "HBM4 and hybrid bonding",
+            "Co-packaged optics",
+            "Liquid cooling at rack scale"
+          ]
+        },
+        {
+          "title": "Models and agents",
+          "body": "Capability is converging across labs, so distribution, evaluation and cost per task become the differentiators.",
+          "items": [
+            "Mixture-of-experts serving",
+            "Long-context retrieval",
+            "Agent orchestration and tool use",
+            "Open-weight commoditisation"
+          ]
+        },
+        {
+          "title": "Software economics",
+          "body": "Per-seat pricing weakens when agents do the work; vendors experiment with consumption and outcome pricing.",
+          "items": [
+            "Outcome-based pricing",
+            "Usage-based infrastructure",
+            "AI-native application rebuilds",
+            "Maintenance revenue erosion"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "07 · The stack",
+      "title": "The stack underneath the sector",
+      "diagram": {
+        "kind": "stack",
+        "layers": [
+          {
+            "label": "Physical",
+            "note": "Fabs, power, water",
+            "items": [
+              "Wafer capacity",
+              "Advanced packaging",
+              "Substations",
+              "Cooling plant"
+            ]
+          },
+          {
+            "label": "Compute",
+            "note": "Silicon and interconnect",
+            "items": [
+              "GPUs and TPUs",
+              "HBM stacks",
+              "Optical links",
+              "DPUs and NICs"
+            ]
+          },
+          {
+            "label": "Models",
+            "note": "Training and serving",
+            "items": [
+              "Frontier APIs",
+              "Open weights",
+              "Fine-tunes",
+              "Evaluation suites"
+            ]
+          },
+          {
+            "label": "Products",
+            "note": "Where users pay",
+            "items": [
+              "Coding agents",
+              "Copilots",
+              "Data platforms",
+              "Security tools"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "08 · Timing",
+      "title": "When it reaches the numbers",
+      "diagram": {
+        "kind": "timeline",
+        "milestones": [
+          {
+            "year": 2026,
+            "label": "Inference cost falls again",
+            "detail": "Serving efficiency improves faster than prices",
+            "lane": 0
+          },
+          {
+            "year": 2027,
+            "label": "Agent platforms mature",
+            "detail": "Tool use and evaluation become standard",
+            "lane": 0
+          },
+          {
+            "year": 2028,
+            "label": "2nm volume ramp",
+            "detail": "Packaging and memory remain the bottleneck",
+            "lane": 1
+          },
+          {
+            "year": 2029,
+            "label": "Co-packaged optics",
+            "detail": "Optical I/O moves inside the rack",
+            "lane": 1
+          },
+          {
+            "year": 2031,
+            "label": "Hybrid quantum pilots",
+            "detail": "Niche optimisation alongside classical HPC",
+            "lane": 2
+          },
+          {
+            "year": 2033,
+            "label": "Angstrom-era limits",
+            "detail": "New transistor and materials choices",
+            "lane": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "table",
+      "eyebrow": "09 · Line by line",
+      "title": "Where the money actually moves",
+      "table": {
+        "head": [
+          "P&L line",
+          "Mechanism",
+          "Timing",
+          "Proof point"
+        ],
+        "rows": [
+          [
+            "Cloud capex",
+            "AI clusters absorb a rising share of infrastructure spend",
+            "Now → 2028",
+            "Capex guidance vs depreciation life"
+          ],
+          [
+            "Software revenue",
+            "Seats shrink, consumption and agents grow",
+            "2026 → 2029",
+            "Net revenue retention by pricing model"
+          ],
+          [
+            "Services margin",
+            "Delivery automation cuts billable hours",
+            "Now → 2027",
+            "Utilisation and revenue per head"
+          ],
+          [
+            "Silicon content",
+            "More accelerators, memory and optics per system",
+            "Now → 2029",
+            "Content per rack, not units"
+          ],
+          [
+            "Memory pricing",
+            "HBM tightness spills into conventional DRAM",
+            "Cyclical",
+            "Contract prices and capacity adds"
+          ]
+        ]
+      }
+    },
+    {
+      "kind": "points",
+      "eyebrow": "10 · Winners",
+      "title": "Who gains",
+      "bullets": [
+        "Owners of scarce capacity: leading-edge fabs, HBM suppliers, advanced packaging and optical interconnect.",
+        "Platforms with proprietary data and distribution, because model capability alone is converging.",
+        "Software vendors that can meter work rather than seats without losing gross margin.",
+        "Services firms that productise delivery and redeploy headcount to higher-value programmes.",
+        "Power-adjacent suppliers: electrical equipment, cooling and grid interconnection."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "11 · Exposure",
+      "title": "Who is exposed",
+      "bullets": [
+        "Resellers and assemblers with no IP, squeezed between component costs and customer budgets.",
+        "Seat-based software with shallow workflow lock-in as agents absorb routine tasks.",
+        "Services firms whose revenue is a function of junior headcount.",
+        "Legacy on-premise hardware refresh cycles that lose budget to AI infrastructure.",
+        "Late followers in leading-edge logic with insufficient scale and yield learning."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "12 · Signposts",
+      "title": "What to watch next",
+      "body": "Signposts are chosen so that each one can falsify part of the thesis within four quarters.",
+      "bullets": [
+        "<strong>Memory contract pricing</strong> — the cleanest read on whether AI demand is real or pre-built.",
+        "<strong>Depreciation lives</strong> — shorter useful lives would signal an asset-heavy bubble, longer lives the opposite.",
+        "<strong>Software net revenue retention</strong> split by pricing model, not blended.",
+        "<strong>Agent completion rates</strong> in production, not benchmark scores.",
+        "<strong>Export-control scope</strong> and its effect on addressable market for accelerators."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "13 · The ecosystem",
+      "title": "Who has to deliver for this to work",
+      "diagram": {
+        "kind": "actors",
+        "caption": "Materials and tools → fabrication → systems → platforms → enterprise workflows",
+        "groups": [
+          {
+            "label": "Materials & tools",
+            "role": "Lithography, deposition, wafers, resist",
+            "names": [
+              "ASML",
+              "Applied Materials",
+              "Lam Research",
+              "KLA",
+              "Shin-Etsu",
+              "JSR"
+            ]
+          },
+          {
+            "label": "Fabrication & memory",
+            "role": "Leading-edge logic, DRAM and HBM",
+            "names": [
+              "TSMC",
+              "Samsung",
+              "SK Hynix",
+              "Micron",
+              "Intel",
+              "GlobalFoundries"
+            ]
+          },
+          {
+            "label": "Systems & optics",
+            "role": "Accelerators, networking, cooling",
+            "names": [
+              "NVIDIA",
+              "AMD",
+              "Broadcom",
+              "Astera Labs",
+              "Lumentum",
+              "Vertiv"
+            ]
+          },
+          {
+            "label": "Platforms & clouds",
+            "role": "Owns the customer relationship",
+            "names": [
+              "Microsoft",
+              "Amazon",
+              "Google",
+              "Oracle",
+              "CoreWeave",
+              "Alibaba"
+            ]
+          },
+          {
+            "label": "Software & services",
+            "role": "Where the workflow is re-engineered",
+            "names": [
+              "Salesforce",
+              "SAP",
+              "ServiceNow",
+              "Accenture",
+              "Infosys",
+              "Palantir"
+            ]
+          }
+        ],
+        "note": "Pricing power currently sits in packaging, memory bandwidth and power delivery, not in the model layer."
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "14 · Where the thesis breaks",
+      "title": "Where the thesis could break",
+      "diagram": {
+        "kind": "risk",
+        "caption": "Evidence strength versus P&L impact",
+        "items": [
+          {
+            "label": "Memory pricing stays tight",
+            "evidence": 70,
+            "impact": 85,
+            "note": "Watch contract prices and capacity adds"
+          },
+          {
+            "label": "Agent output reaches production SLA",
+            "evidence": 45,
+            "impact": 80,
+            "note": "Completion rate, not benchmark score"
+          },
+          {
+            "label": "Hyperscaler capex pauses",
+            "evidence": 55,
+            "impact": 90,
+            "note": "Capex guidance and depreciation lives"
+          },
+          {
+            "label": "Seat pricing holds",
+            "evidence": 40,
+            "impact": 65,
+            "note": "Net revenue retention by pricing model"
+          },
+          {
+            "label": "Optics yields improve",
+            "evidence": 35,
+            "impact": 55,
+            "note": "Co-packaged optics qualification"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "15 · The value pool",
+      "title": "From gross spend to defensible profit",
+      "diagram": {
+        "kind": "funnel",
+        "caption": "Where the money narrows",
+        "stages": [
+          {
+            "label": "AI infrastructure and IT spend",
+            "pct": 100,
+            "note": "Gross budget"
+          },
+          {
+            "label": "Silicon, optics and systems",
+            "pct": 55,
+            "note": "Hardware capture"
+          },
+          {
+            "label": "Cloud and platform revenue",
+            "pct": 30,
+            "note": "Usage-based"
+          },
+          {
+            "label": "Application software",
+            "pct": 18,
+            "note": "Seats and consumption"
+          },
+          {
+            "label": "Defensible operating profit",
+            "pct": 9,
+            "note": "After compute and support"
+          }
+        ],
+        "note": "The narrower the layer, the more it depends on proprietary data or a qualified socket."
+      }
+    },
+    {
+      "kind": "research",
+      "eyebrow": "16 · Evidence",
+      "title": "Read the research behind this deck",
+      "body": "This deck synthesises the technology records linked below. Each record carries its own confidence label and source path; none of the scenario language here is a forecast or a price target.",
+      "footnote": "Scenario synthesis compiled 19 November 2026. Directional shares and timelines are analytical judgements, not measured statistics or forecasts. Each technology record carries its own confidence label and source path."
+    }
   ]
 }

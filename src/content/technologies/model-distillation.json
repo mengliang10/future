@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 1,
     "stocks": [],
-    "permalink": "/tech/model-distillation/"
+    "permalink": "/tech/modeldistillation/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,12 @@
   "estimate": "2022\u20132025",
   "estimateYear": 2025,
   "sourceCount": 1,
-  "companies": [],
+  "companies": [
+    "huggingface.us",
+    "sakana.ai",
+    "nous-research.us",
+    "arcee.ai"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

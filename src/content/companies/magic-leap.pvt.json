@@ -1,0 +1,29 @@
+{
+  "id": "magic-leap.pvt",
+  "title": "Magic Leap",
+  "summary": "US developer of enterprise augmented-reality headsets and optics.",
+  "sector": "spatial-computing",
+  "sourceCategory": "XR",
+  "sourcePath": "_stocks/magic-leap.pvt.md",
+  "sourceHash": "919a64ffa1ad7a16bc56540e9975da54135755b1f1117b3811aec9d78860035b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Magic Leap raised enormous sums on a consumer promise, then repositioned around enterprise with the Magic Leap 2 headset aimed at training, surgery, industrial design and remote assistance. Its optics and display stack remain among the more advanced in the industry, and enterprise deployments value the wider field of view and dimming. The problem is a small addressable market relative to the capital invested, and competition from cheaper glasses and from Meta's subsidised headsets.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Enterprise AR headsets and software</li>\n<li>Optics and display technology</li>\n<li>Healthcare and industrial deployments</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Enterprise fleet size versus pilots</li>\n<li>Funding and strategic ownership</li>\n<li>Price pressure from subsidised competitors</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nMagic Leap raised enormous sums on a consumer promise, then repositioned around enterprise with the Magic Leap 2 headset aimed at training, surgery, industrial design and remote assistance. Its optics and display stack remain among the more advanced in the industry, and enterprise deployments value the wider field of view and dimming. The problem is a small addressable market relative to the capital invested, and competition from cheaper glasses and from Meta's subsidised headsets.\n\n## Technology Exposure\n\n- Enterprise AR headsets and software\n- Optics and display technology\n- Healthcare and industrial deployments\n\n## What To Watch\n\n- Enterprise fleet size versus pilots\n- Funding and strategic ownership\n- Price pressure from subsidised competitors\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Magic Leap",
+    "symbol": "MAGICLEAP.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "XR"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "MAGICLEAP.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "AR hardware only earns its keep where hands-free visualisation replaces an expensive physical process such as a mock-up or a cadaver lab.",
+  "investmentLens": "Private and capital-intensive; the read-across is to optical component suppliers rather than a directly investable line."
+}

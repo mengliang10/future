@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "HBM4 Memory",
-    "subtitle": "Next-gen HBM with 2x bandwidth and tighter integration; Samsung/SK Hynix 2026",
+    "subtitle": "Nextgen HBM with 2x bandwidth and tighter integration; Samsung/SK Hynix 2026",
     "category": "Semiconductors",
     "stage": "pilot",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (Now\u20132026)",
     "source_count": 5,
     "stocks": [],
-    "permalink": "/tech/hbm4-memory/"
+    "permalink": "/tech/hbm4memory/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -39,7 +39,8 @@
     "accretech.jp",
     "hanmi-semiconductor.kr",
     "camtek.il",
-    "advantest.jp"
+    "advantest.jp",
+    "kioxia.jp"
   ],
   "businessMeaning": "",
   "investmentLens": ""

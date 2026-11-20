@@ -1,0 +1,49 @@
+{
+  "id": "co-packaged-optics",
+  "title": "Co-Packaged Optics",
+  "summary": "Moving optical transceivers inside the chip package so AI racks can move data further with less power.",
+  "sector": "ai-infrastructure",
+  "sourceCategory": "AI Infrastructure",
+  "sourcePath": "_tech/co-packaged-optics.md",
+  "sourceHash": "771fe3110f39b72b3bc27b9f8f41c368844fc0b8ec984d6e8a6060f6c6b0acf1",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>Co-packaged optics places the optical engine next to the switch or accelerator die instead of at the edge of the board. Electrical traces get shorter, so signal loss and power per bit fall.</p>\n<h2>Why Now</h2>\n<p>Rack-scale AI systems are pushing copper links to their distance and power limits. Optics has already replaced copper for long-haul and data-centre links; co-packaging is the step that brings it inside the box.</p>\n<h2>What to Watch</h2>\n<p>Manufacturing yield, laser reliability and serviceability. A failed optical engine inside a package is much harder to replace than a pluggable module, which is why operators are cautious.</p>",
+  "bodyMarkdown": "## What This Is\n\nCo-packaged optics places the optical engine next to the switch or accelerator die instead of at the edge of the board. Electrical traces get shorter, so signal loss and power per bit fall.\n\n## Why Now\n\nRack-scale AI systems are pushing copper links to their distance and power limits. Optics has already replaced copper for long-haul and data-centre links; co-packaging is the step that brings it inside the box.\n\n## What to Watch\n\nManufacturing yield, laser reliability and serviceability. A failed optical engine inside a package is much harder to replace than a pluggable module, which is why operators are cautious.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Co-Packaged Optics",
+    "subtitle": "Moving optical transceivers inside the chip package so AI racks can move data further with less power.",
+    "category": "AI Infrastructure",
+    "stage": "pilot",
+    "confidence_label": "Confident",
+    "est_year": 2027,
+    "est_year_range": "2026-2029",
+    "horizon": "Near-Term (2026–2028)",
+    "source_count": 0,
+    "stocks": [
+      "lightmatter.us",
+      "ayar-labs.us",
+      "celestial-ai.us",
+      "cohr",
+      "lite",
+      "avgo"
+    ],
+    "permalink": "/tech/co-packaged-optics/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "stage": "pilot",
+  "confidenceLabel": "Confident",
+  "estimate": "2026-2029",
+  "estimateYear": 2027,
+  "sourceCount": 0,
+  "companies": [
+    "lightmatter.us",
+    "ayar-labs.us",
+    "celestial-ai.us",
+    "cohr",
+    "lite",
+    "avgo"
+  ],
+  "businessMeaning": "Any operator building dense accelerator clusters should model power per bit and failure replacement cost, not just bandwidth. For vendors, the prize is a socket on a reference platform.",
+  "investmentLens": "Exposure spans lasers, optical engines, packaging and test. The suppliers that qualify inside a hyperscaler design win the volume; component vendors without a socket remain cyclical."
+}

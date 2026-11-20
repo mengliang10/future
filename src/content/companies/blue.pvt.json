@@ -1,7 +1,7 @@
 {
   "id": "blue.pvt",
   "title": "Blue Origin",
-  "summary": "",
+  "summary": "Blue Origin is Jeff Bezos's aerospace company, focused on lowering the cost of access to space. Their primary vehicles are New Shepard (suborbital) and New Glenn (orbital heavy-lift).",
   "sector": "space",
   "sourceCategory": "Space Tech",
   "sourcePath": "_stocks/blue.pvt.md",

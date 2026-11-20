@@ -6,8 +6,8 @@
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/humanoid-robot.md",
   "sourceHash": "fe1f2ed46386f0703027adc010a98aab3a6a38be9841382c07ee5433a50ea75f",
-  "bodyHtml": "<h2>What This Is</h2>\n<p>4 sources from SemiEngineering.com.</p>\n<p>Fundamental research phase \u2014 concept established, practical implementation remains unsolved. Our research database tracks <strong>5 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:China can build humanoids at scale. The hard part is finding enough bu | rel=0.93 | uid:b5f374c57d93507c</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Basic Research</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.28</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>TBD</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Timeline TBD</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>5</td>\n</tr>\n</tbody>\n</table>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
-  "bodyMarkdown": "## What This Is\n\n4 sources from SemiEngineering.com.\n\nFundamental research phase \u2014 concept established, practical implementation remains unsolved. Our research database tracks **5 independent sources** on this technology.\n\n> RSS:China can build humanoids at scale. The hard part is finding enough bu | rel=0.93 | uid:b5f374c57d93507c\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Basic Research** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.28** |\n| Estimated Deployment | **TBD** |\n| Horizon | Timeline TBD |\n| Independent Sources Tracked | 5 |\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>4 sources from SemiEngineering.com.</p>\n<p>Fundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks <strong>5 independent sources</strong> on this technology.</p>\n<blockquote>\n<p>RSS:China can build humanoids at scale. The hard part is finding enough bu | rel=0.93 | uid:b5f374c57d93507c</p>\n</blockquote>\n<h2>Status</h2>\n<table>\n<thead>\n<tr>\n<th>Attribute</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Development Stage</td>\n<td><strong>Basic Research</strong></td>\n</tr>\n<tr>\n<td>Confidence Level</td>\n<td><span class=\"conf-badge conf-speculative\">Speculative</span></td>\n</tr>\n<tr>\n<td>Confidence Score</td>\n<td><strong>+0.28</strong></td>\n</tr>\n<tr>\n<td>Estimated Deployment</td>\n<td><strong>TBD</strong></td>\n</tr>\n<tr>\n<td>Horizon</td>\n<td>Timeline TBD</td>\n</tr>\n<tr>\n<td>Independent Sources Tracked</td>\n<td>5</td>\n</tr>\n</tbody>\n</table>\n<h2>Investment Exposure</h2>\n<p>No direct listed-stock exposure identified yet in our research database.</p>\n",
+  "bodyMarkdown": "## What This Is\n\n4 sources from SemiEngineering.com.\n\nFundamental research phase — concept established, practical implementation remains unsolved. Our research database tracks **5 independent sources** on this technology.\n\n> RSS:China can build humanoids at scale. The hard part is finding enough bu | rel=0.93 | uid:b5f374c57d93507c\n\n## Status\n\n| Attribute | Value |\n|-----------|-------|\n| Development Stage | **Basic Research** |\n| Confidence Level | <span class=\"conf-badge conf-speculative\">Speculative</span> |\n| Confidence Score | **+0.28** |\n| Estimated Deployment | **TBD** |\n| Horizon | Timeline TBD |\n| Independent Sources Tracked | 5 |\n\n## Investment Exposure\n\nNo direct listed-stock exposure identified yet in our research database.",
   "sourceMeta": {
     "layout": "tech_node",
     "title": "humanoid robot",
@@ -16,20 +16,28 @@
     "stage": "basic_research",
     "confidence_label": "Speculative",
     "est_year": 2042,
-    "est_year_range": "2040\u20132048",
+    "est_year_range": "2040–2048",
     "horizon": "Long-Term (2035+)",
     "source_count": 5,
     "stocks": [],
-    "permalink": "/tech/humanoid-robot/"
+    "permalink": "/tech/humanoidrobot/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
   "stage": "basic_research",
   "confidenceLabel": "Speculative",
-  "estimate": "2040\u20132048",
+  "estimate": "2040–2048",
   "estimateYear": 2042,
   "sourceCount": 5,
-  "companies": [],
+  "companies": [
+    "agility-robotics.pvt",
+    "apptronik.pvt",
+    "physical-intelligence.pvt",
+    "skild-ai.pvt",
+    "boston-dynamics.pvt",
+    "galbot.cn",
+    "fourier-intelligence.cn"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Partial Biological Aging Reversal",
-    "subtitle": "Demonstrated multi-year biological age reduction in human clinical trial",
+    "subtitle": "Demonstrated multiyear biological age reduction in human clinical trial",
     "category": "Biotech",
     "stage": "basic_research",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Long-Term (2040)",
     "source_count": 25,
     "stocks": [],
-    "permalink": "/tech/partial-biological-aging-reversal/"
+    "permalink": "/tech/partialbiologicalagingreversal/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

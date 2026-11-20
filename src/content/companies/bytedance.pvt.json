@@ -1,0 +1,29 @@
+{
+  "id": "bytedance.pvt",
+  "title": "ByteDance",
+  "summary": "Chinese consumer-internet group whose Doubao assistant and Seed models reach users through TikTok and Douyin.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/bytedance.pvt.md",
+  "sourceHash": "e06b59d30dc70c7f994a697429db1c3b634624b21caf06583eeafc3b3e05cea3",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>ByteDance trains the Seed family of foundation models and distributes them to consumers inside Doubao and to developers through the Volcano Engine cloud, giving it a distribution channel that most model labs have to rent. The company's scale in recommendation systems and short video also makes multimodal generation a natural product extension rather than a research project. It remains private and sits inside the US-China technology restrictions that govern access to leading-edge accelerators.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Doubao consumer assistant and enterprise API</li>\n<li>Seed foundation and multimodal models</li>\n<li>Volcano Engine model hosting and inference</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Accelerator access under export controls</li>\n<li>Monetisation of consumer AI features</li>\n<li>Regulatory pressure in the US and Europe</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nByteDance trains the Seed family of foundation models and distributes them to consumers inside Doubao and to developers through the Volcano Engine cloud, giving it a distribution channel that most model labs have to rent. The company's scale in recommendation systems and short video also makes multimodal generation a natural product extension rather than a research project. It remains private and sits inside the US-China technology restrictions that govern access to leading-edge accelerators.\n\n## Technology Exposure\n\n- Doubao consumer assistant and enterprise API\n- Seed foundation and multimodal models\n- Volcano Engine model hosting and inference\n\n## What To Watch\n\n- Accelerator access under export controls\n- Monetisation of consumer AI features\n- Regulatory pressure in the US and Europe\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "ByteDance",
+    "symbol": "BYTEDANCE.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "BYTEDANCE.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "A model owner with an owned distribution channel can convert capability into usage faster than an API-only lab, which changes the bargaining position of app developers.",
+  "investmentLens": "Private; the exposure runs through Chinese cloud and chip suppliers rather than a direct listing."
+}

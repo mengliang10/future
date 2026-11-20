@@ -1,0 +1,29 @@
+{
+  "id": "vertiv",
+  "title": "Vertiv",
+  "summary": "US supplier of data-centre power, cooling and IT infrastructure.",
+  "sector": "ai-infrastructure",
+  "sourceCategory": "Data Centre",
+  "sourcePath": "_stocks/vertiv.md",
+  "sourceHash": "49ac4fa02ed5b6947546af6f2de330bef279580f087168a9799bdf140df19c2b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Vertiv sells uninterruptible power, thermal management, racks and busway to data-centre operators, and AI racks have sharply raised the content per megawatt. Liquid cooling, higher-density power distribution and on-site commissioning are the growth lines as accelerators push rack densities beyond what air cooling can handle. The business is capacity-constrained rather than demand-constrained, and backlog converts with installation schedules.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Thermal management and liquid cooling</li>\n<li>Power distribution and UPS</li>\n<li>Rack and commissioning services</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Liquid-cooling revenue mix</li>\n<li>Backlog conversion and lead times</li>\n<li>Competition from Schneider, Eaton and Chinese suppliers</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nVertiv sells uninterruptible power, thermal management, racks and busway to data-centre operators, and AI racks have sharply raised the content per megawatt. Liquid cooling, higher-density power distribution and on-site commissioning are the growth lines as accelerators push rack densities beyond what air cooling can handle. The business is capacity-constrained rather than demand-constrained, and backlog converts with installation schedules.\n\n## Technology Exposure\n\n- Thermal management and liquid cooling\n- Power distribution and UPS\n- Rack and commissioning services\n\n## What To Watch\n\n- Liquid-cooling revenue mix\n- Backlog conversion and lead times\n- Competition from Schneider, Eaton and Chinese suppliers\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Vertiv",
+    "symbol": "VRT",
+    "exchange": "NYSE",
+    "categories": [
+      "Data Centre"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "VRT",
+  "exchange": "NYSE",
+  "private": false,
+  "businessMeaning": "Every additional kilowatt of AI compute needs power conversion and heat removal; that content is sold before a single model runs.",
+  "investmentLens": "A picks-and-shovels way to own AI capex without betting on a model vendor; watch order backlog and cooling attach."
+}

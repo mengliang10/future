@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "DeFi Decentralized Finance Ecosystem",
-    "subtitle": "On-chain lending, trading, derivatives without intermediaries \u2014 $100B+ TVL",
+    "subtitle": "Onchain lending, trading, derivatives without intermediaries \u2014 $100B+ TVL",
     "category": "Blockchain",
     "stage": "mass_production",
     "confidence_label": "Researching",
@@ -22,7 +22,7 @@
     "stocks": [
       "COIN"
     ],
-    "permalink": "/tech/defi-ecosystem/"
+    "permalink": "/tech/defiecosystem/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

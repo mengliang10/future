@@ -1,0 +1,43 @@
+{
+  "id": "long-duration-energy-storage",
+  "title": "Long-Duration Energy Storage",
+  "summary": "Storage systems designed for ten hours to several days, covering the gap lithium-ion cannot fill economically.",
+  "sector": "energy",
+  "sourceCategory": "Energy",
+  "sourcePath": "_tech/long-duration-energy-storage.md",
+  "sourceHash": "9c2f0a4f247189c08dbf5db61057731efc9c8a72d98ea64bfd7eb1b895190e54",
+  "bodyHtml": "<h2>What This Is</h2>\n<p>A category rather than one technology: iron-air, iron flow, sodium-ion, compressed air, thermal and pumped hydro all compete to cover multi-hour and multi-day gaps.</p>\n<h2>The Real Constraint</h2>\n<p>Duration is only half the problem. Projects also need grid interconnection, land, water and a revenue contract that pays for capacity rather than only energy arbitrage.</p>\n<h2>How It Wins</h2>\n<p>Long-duration storage wins when the alternative is new gas generation or transmission. That makes policy and utility planning the main demand driver.</p>",
+  "bodyMarkdown": "## What This Is\n\nA category rather than one technology: iron-air, iron flow, sodium-ion, compressed air, thermal and pumped hydro all compete to cover multi-hour and multi-day gaps.\n\n## The Real Constraint\n\nDuration is only half the problem. Projects also need grid interconnection, land, water and a revenue contract that pays for capacity rather than only energy arbitrage.\n\n## How It Wins\n\nLong-duration storage wins when the alternative is new gas generation or transmission. That makes policy and utility planning the main demand driver.",
+  "sourceMeta": {
+    "layout": "tech_node",
+    "title": "Long-Duration Energy Storage",
+    "subtitle": "Storage systems designed for ten hours to several days, covering the gap lithium-ion cannot fill economically.",
+    "category": "Energy",
+    "stage": "early_commercial",
+    "confidence_label": "Confident",
+    "est_year": 2028,
+    "est_year_range": "2026-2032",
+    "horizon": "Near-Term (2026–2028)",
+    "source_count": 0,
+    "stocks": [
+      "form-energy.us",
+      "ess-inc.us",
+      "natron-energy.us"
+    ],
+    "permalink": "/tech/long-duration-energy-storage/"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "stage": "early_commercial",
+  "confidenceLabel": "Confident",
+  "estimate": "2026-2032",
+  "estimateYear": 2028,
+  "sourceCount": 0,
+  "companies": [
+    "form-energy.us",
+    "ess-inc.us",
+    "natron-energy.us"
+  ],
+  "businessMeaning": "Frame the investment as substitution for peaking capacity. Ask for round-trip efficiency, degradation, footprint and the contract structure before comparing headline duration.",
+  "investmentLens": "A mixed public and private field. Listed flow-battery and fuel-cell names are small caps; the larger exposure is through utilities and industrial buyers."
+}

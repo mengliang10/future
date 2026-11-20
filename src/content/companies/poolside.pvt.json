@@ -1,0 +1,27 @@
+{
+  "id": "poolside.pvt",
+  "title": "Poolside",
+  "summary": "Paris and San Francisco lab training code models for enterprise software work.",
+  "sector": "llms-models",
+  "sectors": [
+    "ai-agents-software"
+  ],
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/poolside.pvt.md",
+  "sourceHash": "8819605fbce2d450bc837e0e0aa21e1a6ceb9c3a6579d28fa10e4dd7333c8044",
+  "bodyHtml": "<p>Poolside develops large code models aimed at enterprise codebases, with an emphasis on generating and modifying code inside real repositories.</p>\n<p>Its bet is that coding is the first domain where model output can be verified automatically, making it the fastest route to reliable agentic work.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Code generation and repository editing</li></ul>\n<ul><li>Enterprise deployment</li></ul>\n<ul><li>Verification-driven training</li></ul>",
+  "bodyMarkdown": "Poolside develops large code models aimed at enterprise codebases, with an emphasis on generating and modifying code inside real repositories.\n\nIts bet is that coding is the first domain where model output can be verified automatically, making it the fastest route to reliable agentic work.\n\n**Why it matters**\n\n- Code generation and repository editing\n\n- Enterprise deployment\n\n- Verification-driven training",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "POOLSIDE.PVT",
+    "name": "Poolside",
+    "sector": "LLMs & Models"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "POOLSIDE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Coding assistants are already measurable in engineering hours. The open question is whether value accrues to the model, the IDE, or the platform that owns the repo.",
+  "investmentLens": "Private; the public read is developer-tool consolidation among listed platforms."
+}

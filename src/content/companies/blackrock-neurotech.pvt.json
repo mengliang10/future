@@ -1,0 +1,29 @@
+{
+  "id": "blackrock-neurotech.pvt",
+  "title": "Blackrock Neurotech",
+  "summary": "US maker of the Utah array and clinical BCI systems.",
+  "sector": "bci",
+  "sourceCategory": "BCI",
+  "sourcePath": "_stocks/blackrock-neurotech.pvt.md",
+  "sourceHash": "82ebc5dbd3f61656e4fbb0aac0de271aec0ce1a11bf43c8dc81cac4fd9d5dc33",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Blackrock Neurotech's Utah array is the electrode used in most of the long-running human BCI research that established cursor control, robotic-arm use and speech decoding. The company sells research systems and is developing the MoveAgain platform for clinical use, with a decade of human safety data behind the array. Its challenge is that the Utah array is rigid and limited in channel count, while newer flexible arrays promise more.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Utah array electrodes and research systems</li>\n<li>MoveAgain clinical platform</li>\n<li>Neural signal processing hardware</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Clinical approval for MoveAgain</li>\n<li>Competition from flexible high-channel arrays</li>\n<li>Grant and research funding dependence</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nBlackrock Neurotech's Utah array is the electrode used in most of the long-running human BCI research that established cursor control, robotic-arm use and speech decoding. The company sells research systems and is developing the MoveAgain platform for clinical use, with a decade of human safety data behind the array. Its challenge is that the Utah array is rigid and limited in channel count, while newer flexible arrays promise more.\n\n## Technology Exposure\n\n- Utah array electrodes and research systems\n- MoveAgain clinical platform\n- Neural signal processing hardware\n\n## What To Watch\n\n- Clinical approval for MoveAgain\n- Competition from flexible high-channel arrays\n- Grant and research funding dependence\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Blackrock Neurotech",
+    "symbol": "BLACKROCK-NEURO.PVT",
+    "exchange": "PRIVATE",
+    "categories": [
+      "BCI"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "BLACKROCK-NEURO.PVT",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "The company with the longest human safety record has an evidence advantage that newer implants must spend years matching.",
+  "investmentLens": "Private; the installed research base makes it the reference platform for BCI validation."
+}

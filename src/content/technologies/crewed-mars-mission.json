@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Crewed Mars Mission",
-    "subtitle": "Human landing on Mars surface \u2014 SpaceX Starship Mars program target 2029-2031",
+    "subtitle": "Human landing on Mars surface \u2014 SpaceX Starship Mars program target 20292031",
     "category": "Space Tech",
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2031\u20132035)",
     "source_count": 21,
     "stocks": [],
-    "permalink": "/tech/crewed-mars-mission/"
+    "permalink": "/tech/crewedmarsmission/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

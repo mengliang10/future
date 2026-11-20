@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "LLM 100T+ Parameter Model",
-    "subtitle": "Next-gen dense or MoE models exceeding 100T parameters requiring new infra",
+    "subtitle": "Nextgen dense or MoE models exceeding 100T parameters requiring new infra",
     "category": "AI & Cloud",
     "stage": "prototype",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (Now\u20132026)",
     "source_count": 55,
     "stocks": [],
-    "permalink": "/tech/llm-100t-parameter-model/"
+    "permalink": "/tech/llm100tparametermodel/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

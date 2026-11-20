@@ -1,0 +1,27 @@
+{
+  "id": "celestial-ai.us",
+  "title": "Celestial AI",
+  "summary": "San Jose company using photonics to build a memory fabric for AI accelerators.",
+  "sector": "semiconductors",
+  "sectors": [
+    "ai-infrastructure"
+  ],
+  "sourceCategory": "Semiconductors",
+  "sourcePath": "_stocks/celestial-ai.us.md",
+  "sourceHash": "db4b220a27ece677bbbf401feb6772ef82f8235eb620ae4efe049894a6366e89",
+  "bodyHtml": "<p>Celestial AI's Photonic Fabric connects accelerators to memory across a rack, aiming to break the capacity wall that forces models to be split across many chips.</p>\n<p>The company targets disaggregated memory pools, where compute and memory scale independently.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Photonic memory fabric</li></ul>\n<ul><li>Rack-scale memory pooling</li></ul>\n<ul><li>Accelerator integration</li></ul>",
+  "bodyMarkdown": "Celestial AI's Photonic Fabric connects accelerators to memory across a rack, aiming to break the capacity wall that forces models to be split across many chips.\n\nThe company targets disaggregated memory pools, where compute and memory scale independently.\n\n**Why it matters**\n\n- Photonic memory fabric\n\n- Rack-scale memory pooling\n\n- Accelerator integration",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "CELESTIAL.PVT",
+    "name": "Celestial AI",
+    "sector": "Semiconductors"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "CELESTIAL.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Memory capacity and bandwidth are the binding constraints for inference at scale. A fabric that pools memory changes how systems are designed.",
+  "investmentLens": "Private; the thesis shows up in HBM and advanced packaging demand long before it shows up in a listing."
+}

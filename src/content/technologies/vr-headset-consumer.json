@@ -22,7 +22,7 @@
     "stocks": [
       "META"
     ],
-    "permalink": "/tech/vr-headset-consumer/"
+    "permalink": "/tech/vrheadsetconsumer/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -32,7 +32,8 @@
   "estimateYear": 2023,
   "sourceCount": 1,
   "companies": [
-    "meta"
+    "meta",
+    "varjo.pvt"
   ],
   "businessMeaning": "",
   "investmentLens": ""

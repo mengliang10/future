@@ -1,0 +1,27 @@
+{
+  "id": "riverlane.uk",
+  "title": "Riverlane",
+  "summary": "Cambridge company building the error-correction software stack that fault-tolerant quantum computers need.",
+  "sector": "quantum",
+  "sectors": [
+    "semiconductors"
+  ],
+  "sourceCategory": "Quantum",
+  "sourcePath": "_stocks/riverlane.uk.md",
+  "sourceHash": "7be4e17f431765cf9f96815e72e003029d271e1c123b305ef7a33d4636c4cf7c",
+  "bodyHtml": "<p>Riverlane develops quantum error-correction decoders and control software, sold as Deltaflow, that sit between quantum hardware and applications.</p>\n<p>Error correction is the difference between a noisy research machine and a useful computer, and it is a software and real-time systems problem as much as a physics one.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Real-time error-correction decoders</li></ul>\n<ul><li>Hardware-agnostic software stack</li></ul>\n<ul><li>Works with multiple qubit modalities</li></ul>",
+  "bodyMarkdown": "Riverlane develops quantum error-correction decoders and control software, sold as Deltaflow, that sit between quantum hardware and applications.\n\nError correction is the difference between a noisy research machine and a useful computer, and it is a software and real-time systems problem as much as a physics one.\n\n**Why it matters**\n\n- Real-time error-correction decoders\n\n- Hardware-agnostic software stack\n\n- Works with multiple qubit modalities",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "RIVERLANE.PVT",
+    "name": "Riverlane",
+    "sector": "Quantum"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "RIVERLANE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "If fault tolerance arrives, the decoder becomes a required layer in every quantum system. That is a picks-and-shovels position.",
+  "investmentLens": "Private; a software bet whose value grows with qubit counts rather than with any single hardware winner."
+}

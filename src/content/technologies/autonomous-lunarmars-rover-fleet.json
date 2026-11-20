@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Autonomous Lunar/Mars Rover Fleet",
-    "subtitle": "Self-directing robot fleets operating in extraterrestrial environments without Earth-based real-t...",
+    "subtitle": "Selfdirecting robot fleets operating in extraterrestrial environments without Earthbased realt...",
     "category": "Space Tech",
     "stage": "basic_research",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Long-Range (2040+)",
     "source_count": 99,
     "stocks": [],
-    "permalink": "/tech/autonomous-lunarmars-rover-fleet/"
+    "permalink": "/tech/autonomouslunarmarsroverfleet/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

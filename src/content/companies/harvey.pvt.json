@@ -1,0 +1,27 @@
+{
+  "id": "harvey.pvt",
+  "title": "Harvey",
+  "summary": "Legal AI platform built for law firms and in-house counsel on top of frontier models.",
+  "sector": "applied-ai",
+  "sectors": [
+    "llms-models"
+  ],
+  "sourceCategory": "Applied AI",
+  "sourcePath": "_stocks/harvey.pvt.md",
+  "sourceHash": "b28da85a36e0a82b495a7503ab038446018845b7db37e02e3393cc2c4145435f",
+  "bodyHtml": "<p>Harvey builds a legal research and drafting platform that combines foundation models with firm-specific knowledge, precedent and workflow controls.</p>\n<p>It is used by large law firms and corporate legal teams for contract review, due diligence and research, with a strong emphasis on citations and auditability.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Contract and diligence workflows</li></ul>\n<ul><li>Firm knowledge retrieval</li></ul>\n<ul><li>Citation and review controls</li></ul>",
+  "bodyMarkdown": "Harvey builds a legal research and drafting platform that combines foundation models with firm-specific knowledge, precedent and workflow controls.\n\nIt is used by large law firms and corporate legal teams for contract review, due diligence and research, with a strong emphasis on citations and auditability.\n\n**Why it matters**\n\n- Contract and diligence workflows\n\n- Firm knowledge retrieval\n\n- Citation and review controls",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "HARVEY.PVT",
+    "name": "Harvey",
+    "sector": "Applied AI"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "HARVEY.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Professional services are the clearest early market for AI because output is text and the billable hour is visible. The risk is that the model vendor captures the layer.",
+  "investmentLens": "Private; watch the listed legal-information and services incumbents for pricing pressure."
+}

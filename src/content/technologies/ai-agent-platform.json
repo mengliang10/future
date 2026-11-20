@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2027\u20132030)",
     "source_count": 2,
     "stocks": [],
-    "permalink": "/tech/ai-agent-platform/"
+    "permalink": "/tech/aiagentplatform/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,14 @@
   "estimate": "2028\u20132032",
   "estimateYear": 2029,
   "sourceCount": 2,
-  "companies": [],
+  "companies": [
+    "zhipu.hk",
+    "cognition.pvt",
+    "replit.pvt",
+    "gitlab",
+    "sierra.pvt",
+    "glean.pvt"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

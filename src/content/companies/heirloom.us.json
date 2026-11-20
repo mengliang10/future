@@ -1,0 +1,27 @@
+{
+  "id": "heirloom.us",
+  "title": "Heirloom",
+  "summary": "California company using limestone to capture atmospheric carbon dioxide.",
+  "sector": "energy",
+  "sectors": [
+    "materials-physics"
+  ],
+  "sourceCategory": "Energy",
+  "sourcePath": "_stocks/heirloom.us.md",
+  "sourceHash": "642f463299ea05a438bb92e4a9efab4dcc923d2035283795ffdced4b68ad2273",
+  "bodyHtml": "<p>Heirloom accelerates the natural weathering of limestone to absorb CO2, then releases it in a concentrated stream for storage. The process uses widely available material and modular contactors.</p>\n<p>The company operates pilot and commercial-scale facilities and sells removals to buyers including Microsoft.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Enhanced weathering with limestone</li></ul>\n<ul><li>Modular contactors</li></ul>\n<ul><li>Removal contracts</li></ul>",
+  "bodyMarkdown": "Heirloom accelerates the natural weathering of limestone to absorb CO2, then releases it in a concentrated stream for storage. The process uses widely available material and modular contactors.\n\nThe company operates pilot and commercial-scale facilities and sells removals to buyers including Microsoft.\n\n**Why it matters**\n\n- Enhanced weathering with limestone\n\n- Modular contactors\n\n- Removal contracts",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "HEIRLOOM.PVT",
+    "name": "Heirloom",
+    "sector": "Energy"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "HEIRLOOM.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Using cheap, abundant limestone avoids the sorbent supply constraints of other DAC designs. Energy for regeneration remains the main cost.",
+  "investmentLens": "Private; a cost-curve bet on carbon removal becoming a real market."
+}

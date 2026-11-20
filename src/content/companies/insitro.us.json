@@ -1,0 +1,27 @@
+{
+  "id": "insitro.us",
+  "title": "Insitro",
+  "summary": "South San Francisco company combining machine learning with large-scale biological experiments.",
+  "sector": "drugs-biotech",
+  "sectors": [
+    "llms-models"
+  ],
+  "sourceCategory": "Drugs & Biotech",
+  "sourcePath": "_stocks/insitro.us.md",
+  "sourceHash": "ef1b8945b3dcc98708b84849e37c1e203ef9d1c4456cf9f9d7af336b83fac1ce",
+  "bodyHtml": "<p>Insitro generates its own cellular and genetic data at scale, then trains models to predict disease biology and drug response before committing to a molecule.</p>\n<p>It has partnerships with large pharmaceutical companies and an internal pipeline in metabolic and neurological disease.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>ML-driven target discovery</li></ul>\n<ul><li>Large internal datasets</li></ul>\n<ul><li>Pharma partnerships</li></ul>",
+  "bodyMarkdown": "Insitro generates its own cellular and genetic data at scale, then trains models to predict disease biology and drug response before committing to a molecule.\n\nIt has partnerships with large pharmaceutical companies and an internal pipeline in metabolic and neurological disease.\n\n**Why it matters**\n\n- ML-driven target discovery\n\n- Large internal datasets\n\n- Pharma partnerships",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "INSITRO.PVT",
+    "name": "Insitro",
+    "sector": "Drugs & Biotech"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "INSITRO.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "The premise is that better data beats bigger models in biology. The proof is whether its predictions survive clinical trials.",
+  "investmentLens": "Private; a platform bet whose milestones are partnerships and IND filings."
+}

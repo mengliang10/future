@@ -1,0 +1,29 @@
+{
+  "id": "ai21.il",
+  "title": "AI21 Labs",
+  "summary": "Israeli lab building the Jamba family of hybrid Mamba-Transformer models for enterprise use.",
+  "sector": "llms-models",
+  "sourceCategory": "LLMs & Models",
+  "sourcePath": "_stocks/ai21.il.md",
+  "sourceHash": "3aa7376190d13489eb71e2cfa872b0239032c19b0424f0216a2f983ce371756c",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>AI21 differentiates with a hybrid architecture that mixes state-space layers with attention, aiming to hold long context at lower inference cost than pure transformer models. It sells enterprise assistants and APIs rather than consumer products, and its home market brings security and government customers. Competing against far better-funded labs on general capability is the persistent problem.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Jamba hybrid models</li>\n<li>Enterprise assistants and APIs</li>\n<li>Hebrew and multilingual models</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Enterprise traction against larger labs</li>\n<li>Cost advantage translating into contracts</li>\n<li>Funding runway</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nAI21 differentiates with a hybrid architecture that mixes state-space layers with attention, aiming to hold long context at lower inference cost than pure transformer models. It sells enterprise assistants and APIs rather than consumer products, and its home market brings security and government customers. Competing against far better-funded labs on general capability is the persistent problem.\n\n## Technology Exposure\n\n- Jamba hybrid models\n- Enterprise assistants and APIs\n- Hebrew and multilingual models\n\n## What To Watch\n\n- Enterprise traction against larger labs\n- Cost advantage translating into contracts\n- Funding runway\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "AI21 Labs",
+    "symbol": "AI21.IL",
+    "exchange": "PRIVATE",
+    "categories": [
+      "LLMs & Models"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "AI21.IL",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Architecture-level efficiency only matters commercially if it shows up in the price per token a buyer can verify.",
+  "investmentLens": "Private; a technology bet on hybrid architectures rather than a scale bet."
+}

@@ -22,7 +22,7 @@
     "stocks": [
       "MSFT"
     ],
-    "permalink": "/tech/ai-software-engineering-agent/"
+    "permalink": "/tech/aisoftwareengineeringagent/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -32,7 +32,11 @@
   "estimateYear": 2026,
   "sourceCount": 74,
   "companies": [
-    "msft"
+    "msft",
+    "anysphere.pvt",
+    "cognition.pvt",
+    "replit.pvt",
+    "gitlab"
   ],
   "businessMeaning": "",
   "investmentLens": ""

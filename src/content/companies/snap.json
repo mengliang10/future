@@ -1,13 +1,13 @@
 {
   "id": "snap",
   "title": "Snap Inc.",
-  "summary": "",
+  "summary": "- AR Developer Ecosystem: More AR experiences than any competitor; SnapKit integrates AR into third-party apps.",
   "sector": "applied-ai",
   "sourceCategory": "XR",
   "sourcePath": "_stocks/snap.md",
   "sourceHash": "92a4902738beea8fb9f7a40e940a7d49bdb1d14ee207005bf534d5894c4f99fa",
-  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Snap's long-term bet is augmented reality: they have invested $3B+ in AR hardware and software infrastructure. Spectacles AR glasses (5th generation) are the most advanced consumer AR device not made by Apple or Meta. Their AR Lens platform with 300K+ developer-created lenses is the largest AR development ecosystem. The social media app generates cash that funds the AR platform.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>Spectacles Platform:</strong> Generation 5 Spectacles are the leading consumer AR glasses: developer seed programme in 2024.</li>\n<li><strong>AR Developer Ecosystem:</strong> More AR experiences than any competitor; SnapKit integrates AR into third-party apps.</li>\n<li><strong>Gen Z Engagement:</strong> Snapchat remains the dominant messaging platform for 13\u201324 year olds in the US and Europe.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Revenue Volatility:</strong> Digital advertising revenue is highly cyclical; Apple ATT permanently impaired targeting.</li>\n<li><strong>AR Timeline Risk:</strong> Consumer AR mass adoption may be 8\u201310 years away; Snap may run out of patience.</li>\n</ul>\n",
-  "bodyMarkdown": "## Investment Thesis\nSnap's long-term bet is augmented reality: they have invested $3B+ in AR hardware and software infrastructure. Spectacles AR glasses (5th generation) are the most advanced consumer AR device not made by Apple or Meta. Their AR Lens platform with 300K+ developer-created lenses is the largest AR development ecosystem. The social media app generates cash that funds the AR platform.\n\n### Key Drivers\n- **Spectacles Platform:** Generation 5 Spectacles are the leading consumer AR glasses: developer seed programme in 2024.\n- **AR Developer Ecosystem:** More AR experiences than any competitor; SnapKit integrates AR into third-party apps.\n- **Gen Z Engagement:** Snapchat remains the dominant messaging platform for 13\u201324 year olds in the US and Europe.\n\n### Risk Factors\n- **Revenue Volatility:** Digital advertising revenue is highly cyclical; Apple ATT permanently impaired targeting.\n- **AR Timeline Risk:** Consumer AR mass adoption may be 8\u201310 years away; Snap may run out of patience.",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Snap's long-term bet is augmented reality: they have invested $3B+ in AR hardware and software infrastructure. Spectacles AR glasses (5th generation) are the most advanced consumer AR device not made by Apple or Meta. Their AR Lens platform with 300K+ developer-created lenses is the largest AR development ecosystem. The social media app generates cash that funds the AR platform.</p>\n<h3>Key Drivers</h3>\n<ul>\n<li><strong>Spectacles Platform:</strong> Generation 5 Spectacles are the leading consumer AR glasses: developer seed programme in 2024.</li>\n<li><strong>AR Developer Ecosystem:</strong> More AR experiences than any competitor; SnapKit integrates AR into third-party apps.</li>\n<li><strong>Gen Z Engagement:</strong> Snapchat remains the dominant messaging platform for 13–24 year olds in the US and Europe.</li>\n</ul>\n<h3>Risk Factors</h3>\n<ul>\n<li><strong>Revenue Volatility:</strong> Digital advertising revenue is highly cyclical; Apple ATT permanently impaired targeting.</li>\n<li><strong>AR Timeline Risk:</strong> Consumer AR mass adoption may be 8–10 years away; Snap may run out of patience.</li>\n</ul>\n",
+  "bodyMarkdown": "## Investment Thesis\nSnap's long-term bet is augmented reality: they have invested $3B+ in AR hardware and software infrastructure. Spectacles AR glasses (5th generation) are the most advanced consumer AR device not made by Apple or Meta. Their AR Lens platform with 300K+ developer-created lenses is the largest AR development ecosystem. The social media app generates cash that funds the AR platform.\n\n### Key Drivers\n- **Spectacles Platform:** Generation 5 Spectacles are the leading consumer AR glasses: developer seed programme in 2024.\n- **AR Developer Ecosystem:** More AR experiences than any competitor; SnapKit integrates AR into third-party apps.\n- **Gen Z Engagement:** Snapchat remains the dominant messaging platform for 13–24 year olds in the US and Europe.\n\n### Risk Factors\n- **Revenue Volatility:** Digital advertising revenue is highly cyclical; Apple ATT permanently impaired targeting.\n- **AR Timeline Risk:** Consumer AR mass adoption may be 8–10 years away; Snap may run out of patience.",
   "sourceMeta": {
     "layout": "stock",
     "name": "Snap Inc.",
@@ -27,5 +27,8 @@
   "exchange": "NYSE",
   "private": false,
   "businessMeaning": "",
-  "investmentLens": ""
+  "investmentLens": "",
+  "sectors": [
+    "spatial-computing"
+  ]
 }

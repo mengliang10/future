@@ -1,0 +1,29 @@
+{
+  "id": "kioxia.jp",
+  "title": "Kioxia",
+  "summary": "Japanese NAND flash maker spun out of Toshiba, listed in December 2024.",
+  "sector": "memory",
+  "sourceCategory": "Memory",
+  "sourcePath": "_stocks/kioxia.jp.md",
+  "sourceHash": "f99e9be54d53e39183500f64252ec616a1ddff3add128f4f38d9acc7c9eb2b3b",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Kioxia is one of the largest NAND flash producers, with its BiCS vertical stacking technology and joint fabs with Western Digital in Yokkaichi and Kitakami. NAND pricing is cyclical and capital-intensive, and the company's margins swing with bit demand from smartphones, servers and AI storage tiers. Its listing gave it direct access to capital for the next layer-count transition, but it competes against Samsung, SK Hynix/Solidigm and Micron.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>BiCS 3D NAND flash</li>\n<li>Data-centre and enterprise SSDs</li>\n<li>Joint fabrication with Western Digital</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>NAND bit pricing and inventory</li>\n<li>Layer-count transition capex</li>\n<li>AI storage demand versus consumer weakness</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nKioxia is one of the largest NAND flash producers, with its BiCS vertical stacking technology and joint fabs with Western Digital in Yokkaichi and Kitakami. NAND pricing is cyclical and capital-intensive, and the company's margins swing with bit demand from smartphones, servers and AI storage tiers. Its listing gave it direct access to capital for the next layer-count transition, but it competes against Samsung, SK Hynix/Solidigm and Micron.\n\n## Technology Exposure\n\n- BiCS 3D NAND flash\n- Data-centre and enterprise SSDs\n- Joint fabrication with Western Digital\n\n## What To Watch\n\n- NAND bit pricing and inventory\n- Layer-count transition capex\n- AI storage demand versus consumer weakness\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Kioxia",
+    "symbol": "285A.T",
+    "exchange": "TSE",
+    "categories": [
+      "Memory"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "285A.T",
+  "exchange": "TSE",
+  "private": false,
+  "businessMeaning": "AI clusters need fast local storage as well as HBM; NAND is the tier that holds datasets and checkpoints.",
+  "investmentLens": "A cyclical memory producer; the investment case turns on industry bit supply discipline rather than a single product."
+}

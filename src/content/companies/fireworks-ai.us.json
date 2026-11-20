@@ -1,0 +1,29 @@
+{
+  "id": "fireworks-ai.us",
+  "title": "Fireworks AI",
+  "summary": "US inference platform specialising in fast serving and fine-tuning of open models.",
+  "sector": "llms-models",
+  "sourceCategory": "Generative AI",
+  "sourcePath": "_stocks/fireworks-ai.us.md",
+  "sourceHash": "22020ca5df2ca80931a05a3a4ff98608e32ff85436324d3e93c03f2f7a780d8d",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>Fireworks sells a serving layer tuned for latency and throughput, with fine-tuning and deployment on open weights. Its pitch is that most production workloads need a small, adapted model served cheaply rather than a frontier API, and that the platform should hide the infrastructure. Competition from GPU clouds and model providers bundling inference is intense.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Serverless and dedicated inference</li>\n<li>Fine-tuning and model adaptation</li>\n<li>Enterprise deployment tooling</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Price competition in inference</li>\n<li>Customer concentration among AI-native startups</li>\n<li>Margin on third-party GPU capacity</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nFireworks sells a serving layer tuned for latency and throughput, with fine-tuning and deployment on open weights. Its pitch is that most production workloads need a small, adapted model served cheaply rather than a frontier API, and that the platform should hide the infrastructure. Competition from GPU clouds and model providers bundling inference is intense.\n\n## Technology Exposure\n\n- Serverless and dedicated inference\n- Fine-tuning and model adaptation\n- Enterprise deployment tooling\n\n## What To Watch\n\n- Price competition in inference\n- Customer concentration among AI-native startups\n- Margin on third-party GPU capacity\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "Fireworks AI",
+    "symbol": "FIREWORKS.AI",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Generative AI"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "FIREWORKS.AI",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "The durable workload is the tuned small model in production, not the demo on a frontier endpoint.",
+  "investmentLens": "Private; a picks-and-shovels bet on inference volume rather than model quality."
+}

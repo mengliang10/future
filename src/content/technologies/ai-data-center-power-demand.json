@@ -20,7 +20,7 @@
     "horizon": "Long-Term (2030\u20132040)",
     "source_count": 4,
     "stocks": [],
-    "permalink": "/tech/ai-data-center-power-demand/"
+    "permalink": "/tech/aidatacenterpowerdemand/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,10 @@
   "estimate": "2031\u20132038",
   "estimateYear": 2033,
   "sourceCount": 4,
-  "companies": [],
+  "companies": [
+    "vertiv",
+    "eqix"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

@@ -1,6 +1,6 @@
 {
   "id": "materials-01",
-  "title": "Materials \u2014 Official Sector Briefing",
+  "title": "Materials — How future technology reshapes the sector",
   "sector": "materials-physics",
   "mode": "evergreen",
   "added": "2026-11-18",
@@ -21,5 +21,523 @@
     "bio-inspired-structural-materials",
     "low-temperature-cu-polymer-hybrid-bonding",
     "asteroid-mining-demonstration"
+  ],
+  "slides": [
+    {
+      "kind": "statement",
+      "eyebrow": "01 · The thesis",
+      "title": "The technology is not the story. The cost line is.",
+      "body": "Materials companies turn energy, ore and chemistry into specified inputs. Future demand is concentrated in a handful of new product families — battery materials, semiconductor-grade chemicals, rare earths and recycled feedstock — where qualification cycles are long and purity is the moat. Technology changes both the demand mix and the cost of producing it."
+    },
+    {
+      "kind": "points",
+      "eyebrow": "02 · Sector economics",
+      "title": "What this sector actually sells",
+      "body": "Revenue is volume times spread over raw material. Utilisation, energy cost and feedstock access decide margin, and qualification locks in customers for years.",
+      "bullets": [
+        "Commodity producers are price takers; specialty producers earn on specification and qualification.",
+        "Energy is a large and volatile cost line in refining and smelting.",
+        "Ore grade decline raises unit costs over time.",
+        "Of take agreements and vertical integration secure demand for new materials.",
+        "Permitting and environmental compliance set the pace of capacity additions."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "03 · Impact map",
+      "title": "Where the impact lands",
+      "body": "Two axes matter: how soon the effect reaches reported numbers, and whether it lands on revenue or on cost and capital.",
+      "diagram": {
+        "kind": "impact",
+        "quadrants": [
+          {
+            "label": "New revenue, contested",
+            "items": [
+              "Battery-grade lithium and nickel",
+              "Rare earth magnets",
+              "Semiconductor precursors"
+            ]
+          },
+          {
+            "label": "New revenue, durable",
+            "items": [
+              "Qualified specialty chemicals",
+              "Recycled feedstock with traceability",
+              "Low-carbon steel and aluminium"
+            ]
+          },
+          {
+            "label": "Cost takeout, fast",
+            "items": [
+              "AI process control",
+              "Predictive maintenance",
+              "Automated assay and sorting"
+            ]
+          },
+          {
+            "label": "Structural cost shift",
+            "items": [
+              "Energy contracts decide competitiveness",
+              "Water and tailings liabilities rise",
+              "Circularity regulation changes feedstock"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "04 · Exposure",
+      "title": "How much of the sector is actually exposed",
+      "diagram": {
+        "kind": "bars",
+        "caption": "Directional share of each pool exposed to demand or cost disruption",
+        "bars": [
+          {
+            "label": "Refining and smelting energy cost",
+            "pct": 35
+          },
+          {
+            "label": "Mining grade and dilution exposure",
+            "pct": 40
+          },
+          {
+            "label": "Battery material demand pool",
+            "pct": 50
+          },
+          {
+            "label": "Recycled feedstock share",
+            "pct": 20
+          },
+          {
+            "label": "Semiconductor materials purity premium",
+            "pct": 30
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "05 · Supply chain",
+      "title": "The future products in the chain",
+      "body": "Each stage is a product family that has to exist for the next one to work. This is where the spend lands.",
+      "diagram": {
+        "kind": "chain",
+        "caption": "Ore and feedstock → refining → precursor and specialty chemicals → components → OEM",
+        "stages": [
+          {
+            "label": "Mining",
+            "products": [
+              "Lithium concentrate",
+              "Nickel matte",
+              "Rare earth ore",
+              "Copper concentrate"
+            ]
+          },
+          {
+            "label": "Refining",
+            "products": [
+              "Battery-grade salts",
+              "Separated rare earths",
+              "Electronic-grade gases",
+              "Alumina"
+            ]
+          },
+          {
+            "label": "Precursors",
+            "products": [
+              "Cathode active material",
+              "Magnets",
+              "Photoresist",
+              "Silicon wafers"
+            ]
+          },
+          {
+            "label": "Components",
+            "products": [
+              "Battery cells",
+              "Motors",
+              "Chips",
+              "Structural parts"
+            ]
+          },
+          {
+            "label": "OEM",
+            "products": [
+              "EVs",
+              "Turbines",
+              "Data centres",
+              "Consumer devices"
+            ]
+          }
+        ],
+        "note": "The products with pricing power are the qualified intermediates, not the ore. That is where new capacity is being built."
+      }
+    },
+    {
+      "kind": "columns",
+      "eyebrow": "06 · Technology clusters",
+      "title": "Three shifts to underwrite",
+      "columns": [
+        {
+          "title": "Battery materials",
+          "body": "Chemistry shifts between LFP, high-nickel and sodium-ion change which intermediates matter.",
+          "items": [
+            "Lithium refining",
+            "Cathode active material",
+            "Sodium-ion",
+            "Recycling"
+          ]
+        },
+        {
+          "title": "Semiconductor materials",
+          "body": "Node transitions raise purity requirements and consume more specialty gases and photoresists.",
+          "items": [
+            "Electronic-grade gases",
+            "Photoresist",
+            "CMP slurries",
+            "Ultra-pure metals"
+          ]
+        },
+        {
+          "title": "Circularity",
+          "body": "Recycling becomes a feedstock strategy as much as an environmental one.",
+          "items": [
+            "Battery recycling",
+            "Scrap sorting",
+            "Traceability",
+            "Low-carbon smelting"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "07 · The stack",
+      "title": "The stack underneath the sector",
+      "diagram": {
+        "kind": "stack",
+        "layers": [
+          {
+            "label": "Resources",
+            "note": "Ore and energy",
+            "items": [
+              "Mines",
+              "Power contracts",
+              "Water",
+              "Gas supply"
+            ]
+          },
+          {
+            "label": "Processing",
+            "note": "Refining and purity",
+            "items": [
+              "Hydrometallurgy",
+              "Separation",
+              "Distillation",
+              "Smelting"
+            ]
+          },
+          {
+            "label": "Specification",
+            "note": "Qualification",
+            "items": [
+              "Battery grade",
+              "Electronic grade",
+              "Aerospace grade",
+              "Medical grade"
+            ]
+          },
+          {
+            "label": "Products",
+            "note": "Sold into OEMs",
+            "items": [
+              "CAM",
+              "Magnets",
+              "Wafers",
+              "Structural alloys"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "08 · Timing",
+      "title": "When it reaches the numbers",
+      "diagram": {
+        "kind": "timeline",
+        "milestones": [
+          {
+            "year": 2026,
+            "label": "Rare-earth diversification",
+            "detail": "New separation capacity outside China",
+            "lane": 0
+          },
+          {
+            "year": 2027,
+            "label": "Battery recycling scales",
+            "detail": "Closed-loop feedstock for cell makers",
+            "lane": 0
+          },
+          {
+            "year": 2028,
+            "label": "Sodium-ion commercial",
+            "detail": "Cost-sensitive storage and entry vehicles",
+            "lane": 1
+          },
+          {
+            "year": 2030,
+            "label": "Green steel premiums",
+            "detail": "Low-carbon steel in automotive supply",
+            "lane": 1
+          },
+          {
+            "year": 2032,
+            "label": "Deep-sea and tailings recovery",
+            "detail": "New supply with higher scrutiny",
+            "lane": 2
+          },
+          {
+            "year": 2035,
+            "label": "Molecular recycling",
+            "detail": "Plastic feedstock loops at scale",
+            "lane": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "table",
+      "eyebrow": "09 · Line by line",
+      "title": "Where the money actually moves",
+      "table": {
+        "head": [
+          "P&L line",
+          "Mechanism",
+          "Timing",
+          "Proof point"
+        ],
+        "rows": [
+          [
+            "Realised price",
+            "Product mix shifts to qualified grades",
+            "2026 → 2032",
+            "Spread over benchmark"
+          ],
+          [
+            "Energy cost",
+            "Process electrification and PPAs",
+            "Now → 2030",
+            "Cost per tonne"
+          ],
+          [
+            "Yield",
+            "AI process control and sorting",
+            "Now → 2028",
+            "Recovery rate"
+          ],
+          [
+            "Feedstock cost",
+            "Recycling and offtake",
+            "2027 → 2033",
+            "Share of recycled input"
+          ],
+          [
+            "Compliance cost",
+            "Water, tailings and carbon",
+            "Continuous",
+            "Provision per tonne"
+          ]
+        ]
+      }
+    },
+    {
+      "kind": "points",
+      "eyebrow": "10 · Winners",
+      "title": "Who gains",
+      "bullets": [
+        "Diversified miners with permits and low-cost ore bodies.",
+        "Refiners with cheap power and qualified battery or electronic grades.",
+        "Specialty chemical makers with long qualification locks.",
+        "Recyclers with traceable feedstock and OEM contracts.",
+        "Low-carbon steel and aluminium producers with premium offtake."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "11 · Exposure",
+      "title": "Who is exposed",
+      "bullets": [
+        "Single-asset miners with high costs and short reserve life.",
+        "Commodity chemical producers without specification advantage.",
+        "High-cost aluminium smelters reliant on expensive power.",
+        "Processors with water or tailings liabilities.",
+        "Suppliers that fail qualification for new node or cell chemistries."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "12 · Signposts",
+      "title": "What to watch next",
+      "body": "Signposts are chosen so that each one can falsify part of the thesis within four quarters.",
+      "bullets": [
+        "<strong>Battery-grade price spreads</strong> versus benchmark carbonate.",
+        "<strong>Qualification announcements</strong> with tier-one OEMs.",
+        "<strong>Energy contracts</strong> and their duration.",
+        "<strong>Recycled input share</strong> in new cathode contracts.",
+        "<strong>Permit timelines</strong> for new refining capacity."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "13 · The ecosystem",
+      "title": "Who has to deliver for this to work",
+      "diagram": {
+        "kind": "actors",
+        "caption": "Mining → refining → chemicals → advanced materials → recycling",
+        "groups": [
+          {
+            "label": "Mining",
+            "role": "Ore and concentrates",
+            "names": [
+              "BHP",
+              "Rio Tinto",
+              "Freeport-McMoRan",
+              "Albemarle",
+              "Lynas"
+            ]
+          },
+          {
+            "label": "Refining",
+            "role": "Metals and battery chemicals",
+            "names": [
+              "Umicore",
+              "POSCO",
+              "JX Metals",
+              "Sumitomo Metal Mining"
+            ]
+          },
+          {
+            "label": "Chemicals",
+            "role": "Polymers, gases, photoresists",
+            "names": [
+              "BASF",
+              "Dow",
+              "DuPont",
+              "Shin-Etsu",
+              "Linde"
+            ]
+          },
+          {
+            "label": "Advanced materials",
+            "role": "Specialty and qualified grades",
+            "names": [
+              "Corning",
+              "Hexcel",
+              "Toray",
+              "Materion",
+              "Entegris"
+            ]
+          },
+          {
+            "label": "Recycling",
+            "role": "Recovered feedstock",
+            "names": [
+              "Redwood Materials",
+              "Umicore",
+              "Li-Cycle",
+              "Cirba Solutions"
+            ]
+          }
+        ],
+        "note": "Qualification is the moat: a material that is designed into a process is hard to replace."
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "14 · Where the thesis breaks",
+      "title": "Where the thesis could break",
+      "diagram": {
+        "kind": "risk",
+        "caption": "Evidence strength versus P&L impact",
+        "items": [
+          {
+            "label": "Rare-earth supply diversifies",
+            "evidence": 45,
+            "impact": 80,
+            "note": "New mines and processing"
+          },
+          {
+            "label": "Recycling yields improve",
+            "evidence": 50,
+            "impact": 60,
+            "note": "Closed-loop feedstock"
+          },
+          {
+            "label": "Substitution reduces demand",
+            "evidence": 35,
+            "impact": 65,
+            "note": "Chemistry changes"
+          },
+          {
+            "label": "Mining permitting delays persist",
+            "evidence": 70,
+            "impact": 80,
+            "note": "Years, not quarters"
+          },
+          {
+            "label": "Battery chemistry shifts away from cobalt",
+            "evidence": 55,
+            "impact": 70,
+            "note": "LFP and sodium-ion"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "15 · The value pool",
+      "title": "From gross spend to defensible profit",
+      "diagram": {
+        "kind": "funnel",
+        "caption": "Where the money narrows",
+        "stages": [
+          {
+            "label": "Materials spending",
+            "pct": 100,
+            "note": "Gross"
+          },
+          {
+            "label": "Processed material",
+            "pct": 52,
+            "note": "Refining and chemicals"
+          },
+          {
+            "label": "Specialty or qualified grade",
+            "pct": 24,
+            "note": "Specification premium"
+          },
+          {
+            "label": "Approved supplier revenue",
+            "pct": 10,
+            "note": "Design win"
+          },
+          {
+            "label": "Operating margin",
+            "pct": 6,
+            "note": "Cycle-dependent"
+          }
+        ],
+        "note": "Commodity volume is not a moat; specification and qualification are."
+      }
+    },
+    {
+      "kind": "research",
+      "eyebrow": "16 · Evidence",
+      "title": "Read the research behind this deck",
+      "body": "Linked records cover battery materials, rare earths, semiconductor chemicals and recycling. Qualification, not resource size, is the commercial gate.",
+      "footnote": "Scenario synthesis compiled 19 November 2026. Directional shares and timelines are analytical judgements, not measured statistics or forecasts. Each technology record carries its own confidence label and source path."
+    }
   ]
 }

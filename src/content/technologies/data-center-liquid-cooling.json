@@ -20,7 +20,7 @@
     "horizon": "Deployed",
     "source_count": 12,
     "stocks": [],
-    "permalink": "/tech/data-center-liquid-cooling/"
+    "permalink": "/tech/datacenterliquidcooling/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -29,7 +29,10 @@
   "estimate": "2019\u20132023",
   "estimateYear": 2021,
   "sourceCount": 12,
-  "companies": [],
+  "companies": [
+    "pstg",
+    "vertiv"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

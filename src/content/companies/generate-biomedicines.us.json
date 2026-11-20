@@ -1,0 +1,27 @@
+{
+  "id": "generate-biomedicines.us",
+  "title": "Generate Biomedicines",
+  "summary": "Massachusetts company using generative models to design proteins and antibodies.",
+  "sector": "drugs-biotech",
+  "sectors": [
+    "llms-models"
+  ],
+  "sourceCategory": "Drugs & Biotech",
+  "sourcePath": "_stocks/generate-biomedicines.us.md",
+  "sourceHash": "7893c897da261c87c4d8e1011e19bdfe63b1e5dc1c529c7479742c988658f10f",
+  "bodyHtml": "<p>Generate Biomedicines applies generative AI to protein design, proposing new sequences that fold into useful shapes and then testing them experimentally.</p>\n<p>Its programmes span antibodies, enzymes and other biologics, with partnerships funding part of the pipeline.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>Generative protein design</li></ul>\n<ul><li>Experimental validation loop</li></ul>\n<ul><li>Biologics pipeline</li></ul>",
+  "bodyMarkdown": "Generate Biomedicines applies generative AI to protein design, proposing new sequences that fold into useful shapes and then testing them experimentally.\n\nIts programmes span antibodies, enzymes and other biologics, with partnerships funding part of the pipeline.\n\n**Why it matters**\n\n- Generative protein design\n\n- Experimental validation loop\n\n- Biologics pipeline",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "GENERATE.PVT",
+    "name": "Generate Biomedicines",
+    "sector": "Drugs & Biotech"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "GENERATE.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "Protein design is a faster test of generative models than small molecules because the output can be synthesised and measured quickly.",
+  "investmentLens": "Private; value depends on moving designs into the clinic."
+}

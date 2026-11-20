@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "MicroLED Display",
-    "subtitle": "Self-emissive display using arrays of microscale (1-100 \u00b5m) LEDs; offers OLED-level contrast with...",
+    "subtitle": "Selfemissive display using arrays of microscale (1100 \u00b5m) LEDs; offers OLEDlevel contrast with...",
     "category": "Semiconductors",
     "stage": "pilot",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (2027\u20132028)",
     "source_count": 9,
     "stocks": [],
-    "permalink": "/tech/microled-display/"
+    "permalink": "/tech/microleddisplay/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

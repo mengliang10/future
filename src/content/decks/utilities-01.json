@@ -1,6 +1,6 @@
 {
   "id": "utilities-01",
-  "title": "Utilities \u2014 Official Sector Briefing",
+  "title": "Utilities — How future technology reshapes the sector",
   "sector": "energy",
   "mode": "evergreen",
   "added": "2026-11-18",
@@ -21,5 +21,521 @@
     "nuclear-reactor-deployment-speed",
     "nuclear-power-deployment-rate",
     "energy-water-consumption"
+  ],
+  "slides": [
+    {
+      "kind": "statement",
+      "eyebrow": "01 · The thesis",
+      "title": "The technology is not the story. The cost line is.",
+      "body": "Utilities earn a regulated return on capital. The technology story is a demand story: data centres and electrification turn a low-growth sector into a capacity-build sector. Whoever can add firm, clean generation and interconnect it fastest earns a growing rate base; whoever cannot faces cost inflation and stranded assets."
+    },
+    {
+      "kind": "points",
+      "eyebrow": "02 · Sector economics",
+      "title": "What this sector actually sells",
+      "body": "Revenue is rate base times allowed return, plus pass-through fuel cost. Load growth, capex and allowed ROE drive earnings; weather and outages drive variance.",
+      "bullets": [
+        "Regulated returns are set on rate base, so capex growth is earnings growth if allowed.",
+        "Load growth has been near zero for a decade; data centres change that.",
+        "Fuel and purchased power are largely pass-through, but lag and hedging create risk.",
+        "Grid capex is rising faster than sales, pressuring customer bills.",
+        "Merchant generators earn on spark spreads and capacity prices."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "03 · Impact map",
+      "title": "Where the impact lands",
+      "body": "Two axes matter: how soon the effect reaches reported numbers, and whether it lands on revenue or on cost and capital.",
+      "diagram": {
+        "kind": "impact",
+        "quadrants": [
+          {
+            "label": "New revenue, contested",
+            "items": [
+              "Large-load tariffs for data centres",
+              "Behind-the-meter generation deals",
+              "Green tariffs and RECs"
+            ]
+          },
+          {
+            "label": "New revenue, durable",
+            "items": [
+              "Rate-base growth from grid and storage",
+              "Regulated transmission investment",
+              "Nuclear life extensions"
+            ]
+          },
+          {
+            "label": "Cost takeout, fast",
+            "items": [
+              "AI grid optimisation",
+              "Predictive maintenance",
+              "Automated field service"
+            ]
+          },
+          {
+            "label": "Structural cost shift",
+            "items": [
+              "Interconnection and transmission queues lengthen",
+              "Storm and wildfire hardening capex rises",
+              "Customer bills become political"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "04 · Exposure",
+      "title": "How much of the sector is actually exposed",
+      "diagram": {
+        "kind": "bars",
+        "caption": "Directional share of each pool exposed to the demand and technology shift",
+        "bars": [
+          {
+            "label": "Load growth from data centres",
+            "pct": 55
+          },
+          {
+            "label": "Grid and transmission capex",
+            "pct": 50
+          },
+          {
+            "label": "Operations and maintenance cost",
+            "pct": 30
+          },
+          {
+            "label": "Peak capacity margin",
+            "pct": 40
+          },
+          {
+            "label": "Interconnection queue delay",
+            "pct": 45
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "05 · Supply chain",
+      "title": "The future products in the chain",
+      "body": "Each stage is a product family that has to exist for the next one to work. This is where the spend lands.",
+      "diagram": {
+        "kind": "chain",
+        "caption": "Fuel and resource → generation → transmission → distribution → customer and DER",
+        "stages": [
+          {
+            "label": "Fuel",
+            "products": [
+              "Gas supply",
+              "Uranium",
+              "Solar and wind",
+              "Hydro"
+            ]
+          },
+          {
+            "label": "Generation",
+            "products": [
+              "Gas turbines",
+              "SMRs",
+              "Storage",
+              "Nuclear uprates"
+            ]
+          },
+          {
+            "label": "Transmission",
+            "products": [
+              "HV lines",
+              "Substations",
+              "Transformers",
+              "HVDC"
+            ]
+          },
+          {
+            "label": "Distribution",
+            "products": [
+              "Feeders",
+              "Smart meters",
+              "DER orchestration",
+              "EV charging"
+            ]
+          },
+          {
+            "label": "Customers",
+            "products": [
+              "Data centres",
+              "Industry",
+              "Households",
+              "Aggregators"
+            ]
+          }
+        ],
+        "note": "Firm capacity and interconnection rights are the products in shortest supply. Storage and SMRs are the option value on top."
+      }
+    },
+    {
+      "kind": "columns",
+      "eyebrow": "06 · Technology clusters",
+      "title": "Three shifts to underwrite",
+      "columns": [
+        {
+          "title": "Firm clean capacity",
+          "body": "Nuclear uprates, SMRs and gas with carbon capture compete for the same data-centre contracts.",
+          "items": [
+            "SMRs",
+            "Nuclear uprates",
+            "Gas turbines",
+            "Geothermal"
+          ]
+        },
+        {
+          "title": "Grid and storage",
+          "body": "Storage shifts from energy arbitrage to capacity and reliability services.",
+          "items": [
+            "Grid-scale batteries",
+            "Transmission",
+            "Transformers",
+            "DER aggregation"
+          ]
+        },
+        {
+          "title": "Grid intelligence",
+          "body": "AI forecasting and automation reduce outage time and defer capex.",
+          "items": [
+            "Load forecasting",
+            "Predictive maintenance",
+            "Outage automation",
+            "Virtual power plants"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "07 · The stack",
+      "title": "The stack underneath the sector",
+      "diagram": {
+        "kind": "stack",
+        "layers": [
+          {
+            "label": "Assets",
+            "note": "Physical system",
+            "items": [
+              "Generation",
+              "Substations",
+              "Poles and wires",
+              "Meters"
+            ]
+          },
+          {
+            "label": "Control",
+            "note": "Grid operations",
+            "items": [
+              "SCADA",
+              "EMS and DMS",
+              "Protection",
+              "Markets"
+            ]
+          },
+          {
+            "label": "Data",
+            "note": "Forecast and price",
+            "items": [
+              "Load data",
+              "Weather",
+              "DER telemetry",
+              "Market prices"
+            ]
+          },
+          {
+            "label": "Customers",
+            "note": "Load and flexibility",
+            "items": [
+              "Data centres",
+              "EVs",
+              "Heat pumps",
+              "Storage"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "08 · Timing",
+      "title": "When it reaches the numbers",
+      "diagram": {
+        "kind": "timeline",
+        "milestones": [
+          {
+            "year": 2026,
+            "label": "Large-load tariffs",
+            "detail": "Data-centre connection rules formalised",
+            "lane": 0
+          },
+          {
+            "year": 2027,
+            "label": "Storage build-out",
+            "detail": "Capacity contracts replace arbitrage",
+            "lane": 0
+          },
+          {
+            "year": 2028,
+            "label": "AI grid operations",
+            "detail": "Forecasting and outage automation at scale",
+            "lane": 1
+          },
+          {
+            "year": 2030,
+            "label": "First SMRs online",
+            "detail": "FOAK costs and schedules tested",
+            "lane": 1
+          },
+          {
+            "year": 2032,
+            "label": "DER markets mature",
+            "detail": "Aggregated flexibility priced",
+            "lane": 2
+          },
+          {
+            "year": 2035,
+            "label": "Transmission build-out",
+            "detail": "New corridors relieve queues",
+            "lane": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "table",
+      "eyebrow": "09 · Line by line",
+      "title": "Where the money actually moves",
+      "table": {
+        "head": [
+          "P&L line",
+          "Mechanism",
+          "Timing",
+          "Proof point"
+        ],
+        "rows": [
+          [
+            "Rate base",
+            "Data-centre and grid capex",
+            "Now → 2032",
+            "Capex approved in rate cases"
+          ],
+          [
+            "Allowed ROE",
+            "Regulatory outcomes",
+            "Each rate case",
+            "Settled returns"
+          ],
+          [
+            "O&M cost",
+            "Automation and predictive maintenance",
+            "Now → 2029",
+            "O&M per customer"
+          ],
+          [
+            "Capacity revenue",
+            "Tight margins and storage",
+            "2027 → 2033",
+            "Capacity prices"
+          ],
+          [
+            "Bad debt",
+            "Customer bill affordability",
+            "2026 → 2030",
+            "Arrears and disconnections"
+          ]
+        ]
+      }
+    },
+    {
+      "kind": "points",
+      "eyebrow": "10 · Winners",
+      "title": "Who gains",
+      "bullets": [
+        "Regulated utilities in data-centre corridors with constructive regulators.",
+        "Independent power producers with firm gas or nuclear capacity.",
+        "Grid equipment makers and transmission developers.",
+        "Storage operators with capacity contracts.",
+        "Nuclear operators with licences and sites."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "11 · Exposure",
+      "title": "Who is exposed",
+      "bullets": [
+        "Merchant renewable generators without storage or contracts.",
+        "Utilities in shrinking load regions with rising fixed costs.",
+        "Coal-heavy fleets facing retirement capex.",
+        "Developers stuck behind interconnection queues.",
+        "Utilities with wildfire or storm liability exposure."
+      ]
+    },
+    {
+      "kind": "points",
+      "eyebrow": "12 · Signposts",
+      "title": "What to watch next",
+      "body": "Signposts are chosen so that each one can falsify part of the thesis within four quarters.",
+      "bullets": [
+        "<strong>Approved rate-base growth</strong> in each jurisdiction.",
+        "<strong>Interconnection queue duration</strong> and withdrawal rates.",
+        "<strong>Data-centre contracts</strong> with creditworthy counterparties.",
+        "<strong>Capacity prices</strong> in tight markets.",
+        "<strong>Customer arrears</strong> as bills rise."
+      ]
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "13 · The ecosystem",
+      "title": "Who has to deliver for this to work",
+      "diagram": {
+        "kind": "actors",
+        "caption": "Generation → transmission → distribution → retail → large-load customers",
+        "groups": [
+          {
+            "label": "Regulated utilities",
+            "role": "Wires and retail service",
+            "names": [
+              "Duke Energy",
+              "Southern Company",
+              "NextEra",
+              "AEP",
+              "National Grid"
+            ]
+          },
+          {
+            "label": "Independent power",
+            "role": "Merchant generation",
+            "names": [
+              "Constellation",
+              "Vistra",
+              "NRG",
+              "Calpine"
+            ]
+          },
+          {
+            "label": "Equipment",
+            "role": "Turbines, transformers, cooling",
+            "names": [
+              "GE Vernova",
+              "Siemens Energy",
+              "Hitachi Energy",
+              "Mitsubishi Power"
+            ]
+          },
+          {
+            "label": "Grid & storage",
+            "role": "Build and balance",
+            "names": [
+              "Quanta Services",
+              "Fluence",
+              "Eaton",
+              "Schneider Electric"
+            ]
+          },
+          {
+            "label": "Nuclear",
+            "role": "Firm clean capacity",
+            "names": [
+              "Cameco",
+              "Westinghouse",
+              "NuScale",
+              "Oklo"
+            ]
+          }
+        ],
+        "note": "Load growth from data centres is turning a defensive sector into a capital-allocation story."
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "14 · Where the thesis breaks",
+      "title": "Where the thesis could break",
+      "diagram": {
+        "kind": "risk",
+        "caption": "Evidence strength versus P&L impact",
+        "items": [
+          {
+            "label": "Data-centre load growth is approved",
+            "evidence": 70,
+            "impact": 85,
+            "note": "Interconnection agreements"
+          },
+          {
+            "label": "SMR construction stays on schedule",
+            "evidence": 30,
+            "impact": 75,
+            "note": "First-of-a-kind risk"
+          },
+          {
+            "label": "Transmission buildout accelerates",
+            "evidence": 45,
+            "impact": 80,
+            "note": "Permitting and supply chain"
+          },
+          {
+            "label": "Power prices stay elevated",
+            "evidence": 60,
+            "impact": 70,
+            "note": "Merchant exposure"
+          },
+          {
+            "label": "Wildfire liability expands",
+            "evidence": 50,
+            "impact": 85,
+            "note": "Balance-sheet risk"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "diagram",
+      "eyebrow": "15 · The value pool",
+      "title": "From gross spend to defensible profit",
+      "diagram": {
+        "kind": "funnel",
+        "caption": "Where the money narrows",
+        "stages": [
+          {
+            "label": "Utility revenue",
+            "pct": 100,
+            "note": "Regulated and merchant"
+          },
+          {
+            "label": "Generation and fuel cost",
+            "pct": 55,
+            "note": "Pass-through"
+          },
+          {
+            "label": "Network and operating cost",
+            "pct": 30,
+            "note": "Wires and people"
+          },
+          {
+            "label": "Allowed return",
+            "pct": 14,
+            "note": "Rate base"
+          },
+          {
+            "label": "Equity earnings",
+            "pct": 8,
+            "note": "After interest"
+          }
+        ],
+        "note": "Regulated returns are set by rate base, so capex growth is good only if regulators allow it."
+      }
+    },
+    {
+      "kind": "research",
+      "eyebrow": "16 · Evidence",
+      "title": "Read the research behind this deck",
+      "body": "Linked records cover nuclear, storage, grid software and demand. Regulatory treatment of data-centre cost allocation is the single largest variable.",
+      "footnote": "Scenario synthesis compiled 19 November 2026. Directional shares and timelines are analytical judgements, not measured statistics or forecasts. Each technology record carries its own confidence label and source path."
+    }
   ]
 }

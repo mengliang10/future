@@ -16,20 +16,23 @@
     "stage": "proof_of_concept",
     "confidence_label": "Speculative",
     "est_year": 2029,
-    "est_year_range": "2028\u20132032",
-    "horizon": "Medium-Term (2027\u20132030)",
+    "est_year_range": "2028–2032",
+    "horizon": "Medium-Term (2027–2030)",
     "source_count": 3,
     "stocks": [],
-    "permalink": "/tech/ai-code-generation-efficiency/"
+    "permalink": "/tech/aicodegenerationefficiency/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
   "stage": "proof_of_concept",
   "confidenceLabel": "Speculative",
-  "estimate": "2028\u20132032",
+  "estimate": "2028–2032",
   "estimateYear": 2029,
   "sourceCount": 3,
-  "companies": [],
+  "companies": [
+    "anysphere.pvt",
+    "poolside.pvt"
+  ],
   "businessMeaning": "",
   "investmentLens": ""
 }

@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Neuromorphic Computing Chip",
-    "subtitle": "Brain-inspired spike-based processing for ultra-low-power AI at edge",
+    "subtitle": "Braininspired spikebased processing for ultralowpower AI at edge",
     "category": "Semiconductors",
     "stage": "prototype",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Medium-Term (2029\u20132030)",
     "source_count": 18,
     "stocks": [],
-    "permalink": "/tech/neuromorphic-computing-chip/"
+    "permalink": "/tech/neuromorphiccomputingchip/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

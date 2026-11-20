@@ -2,7 +2,9 @@
 import {url, base} from '../lib/base';
 import {visualFor,horizonFor} from '../lib/visuals';
 import Site from '../layouts/Site.astro';
-import {records,label,provenanceLabel} from '../lib/catalogue';
+import TechAnatomy from './TechAnatomy.astro';
+import TechSignal from './TechSignal.astro';
+import {records,label,provenanceLabel,displayTitle} from '../lib/catalogue';
 import {sourceLinks} from '../lib/source-links';
 
 const {record,kind}=Astro.props;
@@ -14,14 +16,90 @@ const same=(a,b)=>a===b||norm(a)===norm(b);
 const related=isTech?record.companies.map(id=>companies.find(c=>same(c.id,id))).filter(Boolean):tech.filter(t=>t.companies.some(id=>same(id,record.id)));
 
 const body = await sourceLinks(record.bodyHtml);
+
+const linksIn = (heading: string) => {
+  const match = body.match(new RegExp(`<h2[^>]*>${heading}</h2>([\\s\\S]*?)(?=<h2|$)`, 'i'));
+  if (!match) return [];
+  return [...match[1].matchAll(/<a href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g)]
+    .map((m) => ({href: m[1], title: m[2].replace(/<[^>]+>/g, '').trim()}))
+    .filter((l) => l.title);
+};
+
+const prereqs = isTech ? linksIn('Prerequisites') : [];
+const enables = isTech ? linksIn('What This Enables') : [];
+const accent = visualFor(record.sector).color;
+
+let sIdx = 0;
+const sections = body
+  .split(/(?=<h2)/)
+  .filter((chunk) => chunk.trim())
+  .map((html) => {
+    const id = `note-${++sIdx}`;
+    const title = (html.match(/<h2[^>]*>([\s\S]*?)<\/h2>/) || [])[1]?.replace(/<[^>]+>/g, '').trim() || '';
+    return {id, title, html: html.replace(/<h2[^>]*>/, `<h2 id="${id}">`)};
+  });
+const showToc = sections.length > 2;
+
+const sectorTechCount = isTech ? 0 : tech.filter(t => t.sector === record.sector).length;
 ---
-<Site title={record.title} active={isTech?'Explore':'Companies'}><article class="container record" style={`--sector:${visualFor(record.sector).color}`} data-record-id={record.id} data-collection={isTech?'technologies':'companies'}>
+<Site title={record.title} active={isTech?'Explore':'Companies'}><article class="container record" style={`--sector:${accent}`} data-record-id={record.id} data-collection={isTech?'technologies':'companies'}>
 <nav class="breadcrumb" aria-label="Breadcrumb"><a href={url(isTech?'/explore/':'/companies/')}>{isTech?'Explore':'Companies'}</a><span>/</span>{sector&&<a href={url(`/sectors/${sector.id}/`)}>{sector.title}</a>}</nav>
-<header class="record-heading"><span class="eyebrow">{isTech?'Technology record':record.private?'Private company':'Listed company'}</span><h1 data-field="title">{record.title}</h1>{record.summary&&<p class="record-summary" data-field="summary">{record.summary}</p>}<div class="record-badges"><span class="badge">{provenanceLabel(record.evidenceStatus)}</span>{isTech?<><span data-field="stage">{label(record.stage)}</span><span data-field="estimate">Estimated window: {record.estimate}</span></>:<><span>{record.symbol}</span><span>{record.exchange}</span></>}</div></header>
+<header class="record-heading"><span class="eyebrow">{isTech?'Technology record':record.private?'Private company':'Listed company'}</span><h1 data-field="title">{displayTitle(record.title)}</h1>{record.summary&&<p class="record-summary" data-field="summary">{record.summary}</p>}<div class="record-badges"><span class="badge">{provenanceLabel(record.evidenceStatus)}</span>{isTech?<><span data-field="stage">{label(record.stage)}</span><span data-field="estimate">Estimated window: {record.estimate}</span></>:<><span>{record.symbol}</span><span>{record.exchange}</span></>}{!isTech&&(record.sectors||[]).length>0&&<span>Also in {record.sectors.map((id,i)=>{const s=sectors.find(x=>x.id===id);return s?<>{i>0?', ':''}<a href={url(`/sectors/${s.id}/`)}>{s.title}</a></>:null;})}</span>}</div></header>
+
+<div class="record-stats">
+  {isTech ? <>
+    <div><span>Stage</span><strong>{label(record.stage)}</strong></div>
+    <div><span>Window</span><strong>{record.estimate||'Not recorded'}</strong></div>
+    <div><span>Confidence</span><strong>{record.confidenceLabel}</strong></div>
+    <div><span>Linked companies</span><strong>{related.length}</strong></div>
+  </> : <>
+    <div><span>Listing</span><strong>{record.private?'Private':record.exchange}</strong></div>
+    <div><span>Ticker</span><strong>{record.symbol}</strong></div>
+    <div><span>Sector</span><strong>{sector?.title||record.sector}</strong></div>
+    <div><span>Linked technologies</span><strong>{related.length}</strong></div>
+  </>}
+</div>
+
+{isTech && (prereqs.length > 0 || enables.length > 0) && <TechAnatomy record={record} prereqs={prereqs} enables={enables} companies={related} accent={accent}/>}
+{isTech && prereqs.length === 0 && enables.length === 0 && <section class="record-signal"><span class="eyebrow">Development signal</span><TechSignal record={record} accent={accent}/><p>This source record does not list explicit prerequisites or downstream links. The stage and window below come from the imported metadata.</p></section>}
+
 <div class="record-columns"><div><div class="lens-notes"><section><span class="eyebrow">For business</span><h2>What to ask.</h2><p data-field="businessMeaning">{record.businessMeaning||sector?.businessQuestion||'What practical constraint could this address, and what must change before adoption?'}</p></section><section><span class="eyebrow">For investors</span><h2>What to question.</h2><p data-field="investmentLens">{record.investmentLens||sector?.investorQuestion||'Where could value accrue, and what evidence would weaken the thesis?'}</p></section></div>
-<section class="source-reading"><div class="section-heading"><h2>Research notes.</h2><a href={url(`/source/${record.sourcePath}`)} download>Original Markdown ↓</a></div><div class="prose" set:html={body}/></section>
-</div><aside class="record-side"><h2>{isTech?'Company connections':'Technology exposure'}</h2>{related.length?<ul>{related.slice(0,30).map(r=><li><a href={url(isTech?`/companies/${r.id}/`:`/tech/${r.id}/`)}>{r.title} →</a></li>)}</ul>:<p>No linked records in this source.</p>}{related.length>30&&<a href={url(`/explore/?q=${record.symbol}`)}>Explore all connections →</a>}
+<section class="source-reading"><div class="section-heading"><h2>Research notes.</h2><a href={url(`/source/${record.sourcePath}`)} download>Original Markdown ↓</a></div>
+{showToc&&<nav class="note-toc" aria-label="On this page"><span>On this page</span><ol>{sections.map(s=><li><a href={`#${s.id}`}>{s.title}</a></li>)}</ol></nav>}
+<div class="prose note-sections">{sections.map(s=><section class="note-block" set:html={s.html}/>)}</div></section>
+</div><aside class="record-side">
+<h2>{isTech?'Company connections':'Technology exposure'}</h2>
+{related.length?<ul class="record-link-list">{related.slice(0,12).map(r=><li><a href={url(isTech?`/companies/${r.id}/`:`/tech/${r.id}/`)}><strong>{r.title}</strong><span>{isTech?(r.private?'Private company':r.exchange):(r.summary||label(r.stage||''))}</span></a></li>)}</ul>:<p>No linked records in this source.</p>}
+{related.length>12&&<a class="record-more" href={url(`/explore/?q=${record.symbol||record.id}`)}>Explore all connections →</a>}
 {isTech&&<><h2>Read the confidence carefully.</h2><p>{record.confidenceLabel}. This is a source-supplied label, not an independently verified probability.</p><a href={url(`/presentations/?sector=${record.sector}`)}>Sector presentations →</a></>}
+{!isTech&&<><h2>Sector context</h2>{sector&&<p>{sectorTechCount} technology records sit in {sector.title}. <a href={url(`/sectors/${sector.id}/`)}>See the sector map →</a></p>}</>}
 {isTech&&<a class="record-timeline-link" href={url(`/roadmaps/?sector=${record.sector}&horizon=${horizonFor(record.estimateYear)}`)}>Explore this sector’s timeline ↗</a>}
 <details><summary>Source metadata</summary><pre>{JSON.stringify(record.sourceMeta,null,2)}</pre></details></aside></div>
 </article></Site>
+
+<style>
+.record-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:8px;overflow:hidden;margin:0 0 26px}
+.record-stats>div{background:var(--white);padding:14px 16px;display:flex;flex-direction:column;gap:4px}
+.record-stats span{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.record-stats strong{font-size:14px;font-weight:600;color:var(--ink);text-transform:capitalize}
+.record-signal{background:var(--white);border:1px solid var(--line);border-radius:6px;padding:16px 20px 10px;margin-bottom:24px}
+.record-signal p{font-size:12px;color:var(--muted);margin:0}
+.record-signal .tech-signal{margin:6px 0 2px}
+.note-toc{background:var(--soft);border:1px solid var(--line);border-radius:6px;padding:14px 16px;margin:0 0 18px}
+.note-toc>span{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.note-toc ol{margin:8px 0 0;padding-left:18px;columns:2;column-gap:26px}
+.note-toc li{font-size:13px;margin-bottom:4px;break-inside:avoid}
+.note-toc a{color:var(--text);text-decoration:none}
+.note-toc a:hover{color:var(--accent);text-decoration:underline}
+.note-sections{display:grid;gap:14px;max-width:none}
+.note-block{border:1px solid var(--line);border-radius:6px;padding:18px 20px;background:var(--white);max-width:78ch}
+.note-block h2{font-size:19px;margin:0 0 10px;scroll-margin-top:80px}
+.note-block p{font-size:15px;line-height:1.7;margin:0 0 10px}
+.note-block p:last-child{margin-bottom:0}
+.record-link-list{display:grid!important;grid-template-columns:1fr!important;gap:8px!important;padding:0;list-style:none;margin:0 0 12px}
+.record-link-list li a{display:flex;flex-direction:column;gap:3px;padding:10px 12px;border:1px solid var(--line);border-radius:6px;background:var(--soft);text-decoration:none}
+.record-link-list strong{font-size:13px;font-weight:600;color:var(--ink)}
+.record-link-list span{font-size:11px;color:var(--muted);line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.record-more{display:inline-block;font-size:12px;margin-bottom:8px}
+@media(max-width:760px){.record-stats{grid-template-columns:1fr 1fr}.note-toc ol{columns:1}.note-block{padding:15px}}
+</style>

@@ -1,0 +1,27 @@
+{
+  "id": "varda-space.us",
+  "title": "Varda Space Industries",
+  "summary": "California company manufacturing pharmaceuticals in orbit and returning them to Earth.",
+  "sector": "space",
+  "sectors": [
+    "drugs-biotech"
+  ],
+  "sourceCategory": "Space",
+  "sourcePath": "_stocks/varda-space.us.md",
+  "sourceHash": "7500d80182f7204cf9485dff96e0ed16e253aff733c942c05e1bcacae7eb311d",
+  "bodyHtml": "<p>Varda operates small re-entry capsules that host pharmaceutical experiments in microgravity, then brings the products back for analysis and sale.</p>\n<p>Microgravity can change crystal formation and protein behaviour, which may improve formulation for some drugs.</p>\n<p><strong>Why it matters</strong></p>\n<ul><li>In-space manufacturing</li></ul>\n<ul><li>Re-entry capsules</li></ul>\n<ul><li>Pharmaceutical crystallisation</li></ul>",
+  "bodyMarkdown": "Varda operates small re-entry capsules that host pharmaceutical experiments in microgravity, then brings the products back for analysis and sale.\n\nMicrogravity can change crystal formation and protein behaviour, which may improve formulation for some drugs.\n\n**Why it matters**\n\n- In-space manufacturing\n\n- Re-entry capsules\n\n- Pharmaceutical crystallisation",
+  "sourceMeta": {
+    "layout": "stock",
+    "ticker": "VARDA.PVT",
+    "name": "Varda Space Industries",
+    "sector": "Space"
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-20",
+  "symbol": "VARDA.PVT",
+  "exchange": "Private",
+  "private": true,
+  "businessMeaning": "The business is not launch; it is proving that space-made materials have a price premium. Re-entry cadence is the constraint.",
+  "investmentLens": "Private; a niche that could justify a new class of returnable spacecraft."
+}

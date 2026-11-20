@@ -23,7 +23,7 @@
       "META",
       "AAPL"
     ],
-    "permalink": "/tech/ar-smart-glasses-consumer-daily/"
+    "permalink": "/tech/arsmartglassesconsumerdaily/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
@@ -34,7 +34,10 @@
   "sourceCount": 5,
   "companies": [
     "meta",
-    "aapl"
+    "aapl",
+    "xreal.pvt",
+    "rokid.pvt",
+    "lumus.pvt"
   ],
   "businessMeaning": "",
   "investmentLens": ""

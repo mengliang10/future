@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Biology Foundation Model",
-    "subtitle": "LLM-scale model trained on genomic, proteomic, and clinical data",
+    "subtitle": "LLMscale model trained on genomic, proteomic, and clinical data",
     "category": "AI & Cloud",
     "stage": "prototype",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (Now\u20132026)",
     "source_count": 27,
     "stocks": [],
-    "permalink": "/tech/biology-foundation-model/"
+    "permalink": "/tech/biologyfoundationmodel/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,

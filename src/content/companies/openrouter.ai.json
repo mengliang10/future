@@ -1,0 +1,29 @@
+{
+  "id": "openrouter.ai",
+  "title": "OpenRouter",
+  "summary": "US model-routing service that exposes many providers and models through a single API.",
+  "sector": "llms-models",
+  "sourceCategory": "Generative AI",
+  "sourcePath": "_stocks/openrouter.ai.md",
+  "sourceHash": "a304958d400caf56276e096c6bbe0bebb1b2932ba5810230e8af725425e81371",
+  "bodyHtml": "<h2>Investment Thesis</h2>\n<p>OpenRouter aggregates model endpoints and routes requests by price, latency or availability, taking a margin on usage. For developers it solves the switching problem: one key, many vendors, and fallbacks when a provider degrades. The risk is that labs and clouds can disintermediate a router by offering the same convenience directly.</p>\n<h2>Technology Exposure</h2>\n<ul>\n<li>Unified API across model providers</li>\n<li>Routing, fallback and price comparison</li>\n<li>Usage analytics and controls</li>\n</ul>\n<h2>What To Watch</h2>\n<ul>\n<li>Take rate under price competition</li>\n<li>Disintermediation by model providers</li>\n<li>Reliability of upstream endpoints</li>\n</ul>\n<h2>Record Notes</h2>\n<p>Editorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.</p>\n",
+  "bodyMarkdown": "## Investment Thesis\n\nOpenRouter aggregates model endpoints and routes requests by price, latency or availability, taking a margin on usage. For developers it solves the switching problem: one key, many vendors, and fallbacks when a provider degrades. The risk is that labs and clouds can disintermediate a router by offering the same convenience directly.\n\n## Technology Exposure\n\n- Unified API across model providers\n- Routing, fallback and price comparison\n- Usage analytics and controls\n\n## What To Watch\n\n- Take rate under price competition\n- Disintermediation by model providers\n- Reliability of upstream endpoints\n\n## Record Notes\n\nEditorial brief compiled 19 November 2026 from company disclosures, agency publications and press reporting. Figures are as reported by those sources and have not been independently audited; no live market data is used.",
+  "sourceMeta": {
+    "layout": "stock",
+    "name": "OpenRouter",
+    "symbol": "OPENROUTER.AI",
+    "exchange": "PRIVATE",
+    "categories": [
+      "Generative AI"
+    ],
+    "node_count": 0,
+    "bottleneck_count": 0
+  },
+  "evidenceStatus": "editorial-brief",
+  "reviewedAt": "2026-11-19",
+  "symbol": "OPENROUTER.AI",
+  "exchange": "PRIVATE",
+  "private": true,
+  "businessMeaning": "Abstraction layers earn their keep when supply is fragmented; a router makes model choice a runtime decision rather than a rewrite.",
+  "investmentLens": "Private; the read-across is to inference price dispersion across providers."
+}

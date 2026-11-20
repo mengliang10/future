@@ -11,7 +11,7 @@
   "sourceMeta": {
     "layout": "tech_node",
     "title": "Confidential Computing (TEE)",
-    "subtitle": "Trusted Execution Environments \u2014 Intel SGX, AMD SEV, Arm CCA for data-in-use",
+    "subtitle": "Trusted Execution Environments \u2014 Intel SGX, AMD SEV, Arm CCA for datainuse",
     "category": "Cybersecurity",
     "stage": "early_commercial",
     "confidence_label": "Speculative",
@@ -20,7 +20,7 @@
     "horizon": "Near-Term (Now\u20132026)",
     "source_count": 19,
     "stocks": [],
-    "permalink": "/tech/confidential-computing-tee/"
+    "permalink": "/tech/confidentialcomputingtee/"
   },
   "evidenceStatus": "imported-unreviewed",
   "reviewedAt": null,
