@@ -1,7 +1,7 @@
 {
   "id": "simulation-acceleration",
   "title": "Simulation-Acceleration",
-  "summary": "It builds on Qugstep-Algorithm; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Qugstep-Algorithm; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/simulation-acceleration.md",

@@ -1,7 +1,7 @@
 {
   "id": "test-plan-quality",
   "title": "Test Plan Quality",
-  "summary": "It builds on Design Understanding; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Design Understanding; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/test-plan-quality.md",

@@ -1,7 +1,7 @@
 {
   "id": "reuse-across-compute-generations",
   "title": "Reuse-Across-Compute-Generations",
-  "summary": "It builds on Chiplet-I-O-Dies, Chiplet-Io-Dies; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Chiplet-I-O-Dies, Chiplet-Io-Dies; proof of concept record tracked across 2 sources.",
   "sector": "ai-infrastructure",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/reuse-across-compute-generations.md",

@@ -1,7 +1,7 @@
 {
   "id": "inference-time-compute-scaling",
   "title": "Inference-Time-Compute-Scaling",
-  "summary": "It is cited as an enabler for Beyond-Parameter-Scaling; Proof of concept record tracked across 124 sources.",
+  "summary": "It is cited as an enabler for Beyond-Parameter-Scaling; proof of concept record tracked across 124 sources.",
   "sector": "ai-infrastructure",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/inference-time-compute-scaling.md",

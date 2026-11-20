@@ -1,7 +1,7 @@
 {
   "id": "grid-energy-storage",
   "title": "Grid Energy Storage",
-  "summary": "It builds on Sodium-Ion Batteries; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Sodium-Ion Batteries; proof of concept record tracked across 2 sources.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/grid-energy-storage.md",

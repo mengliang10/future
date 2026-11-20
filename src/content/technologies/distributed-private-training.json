@@ -1,7 +1,7 @@
 {
   "id": "distributed-private-training",
   "title": "Distributed-Private-Training",
-  "summary": "It builds on Federated-Learning-Privacy; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Federated-Learning-Privacy; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/distributed-private-training.md",

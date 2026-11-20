@@ -1,7 +1,7 @@
 {
   "id": "point-of-care-diagnostics",
   "title": "Point-Of-Care-Diagnostics",
-  "summary": "It builds on Cmos-Compatible-Biosensing; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Cmos-Compatible-Biosensing; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/point-of-care-diagnostics.md",

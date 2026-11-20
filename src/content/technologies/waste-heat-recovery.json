@@ -1,7 +1,7 @@
 {
   "id": "waste-heat-recovery",
   "title": "Waste-Heat-Recovery",
-  "summary": "It builds on Thermoelectric-Materials; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Thermoelectric-Materials; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/waste-heat-recovery.md",

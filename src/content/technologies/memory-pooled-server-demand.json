@@ -1,7 +1,7 @@
 {
   "id": "memory-pooled-server-demand",
   "title": "Memory-Pooled-Server-Demand",
-  "summary": "It builds on Ai Adoption Rate; Proof of concept record tracked across 3 sources.",
+  "summary": "It builds on Ai Adoption Rate; proof of concept record tracked across 3 sources.",
   "sector": "memory",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/memory-pooled-server-demand.md",

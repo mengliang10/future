@@ -1,7 +1,7 @@
 {
   "id": "nuclear-reactor-deployment-speed",
   "title": "Nuclear Reactor Deployment Speed",
-  "summary": "It builds on Next-Gen Nuclear Reactors; Proof of concept record tracked across 12 sources.",
+  "summary": "It builds on Next-Gen Nuclear Reactors; proof of concept record tracked across 12 sources.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/nuclear-reactor-deployment-speed.md",

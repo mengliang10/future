@@ -1,7 +1,7 @@
 {
   "id": "quantum-computer-error-correction",
   "title": "Quantum Computer Error Correction",
-  "summary": "It builds on Nvidia Ising Models; Proof of concept record tracked across 8 sources.",
+  "summary": "It builds on Nvidia Ising Models; proof of concept record tracked across 8 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-computer-error-correction.md",

@@ -1,7 +1,7 @@
 {
   "id": "data-center-power-demand",
   "title": "Data Center Power Demand",
-  "summary": "It builds on Hyperscale Ai Data Centers; Proof of concept record tracked across 7 sources.",
+  "summary": "It builds on Hyperscale Ai Data Centers; proof of concept record tracked across 7 sources.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/data-center-power-demand.md",

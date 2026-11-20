@@ -1,7 +1,7 @@
 {
   "id": "energy-water-consumption",
   "title": "Energy Water Consumption",
-  "summary": "It builds on Ai Data Centers; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Ai Data Centers; proof of concept record tracked across 2 sources.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/energy-water-consumption.md",

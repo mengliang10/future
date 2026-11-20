@@ -1,7 +1,7 @@
 {
   "id": "stablecoin-payments",
   "title": "Stablecoin-Payments",
-  "summary": "It builds on EU MiCA Stablecoin Regulation, US GENIUS Act and is cited as an enabler for Programmable Money; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on EU MiCA Stablecoin Regulation, US GENIUS Act and is cited as an enabler for Programmable Money; proof of concept record tracked across 1 source.",
   "sector": "blockchain",
   "sourceCategory": "Blockchain & Crypto",
   "sourcePath": "_tech/stablecoin-payments.md",

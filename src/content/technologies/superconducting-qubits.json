@@ -1,7 +1,7 @@
 {
   "id": "superconducting-qubits",
   "title": "Superconducting-Qubits",
-  "summary": "It builds on Flux-Crosstalk-Mitigation; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Flux-Crosstalk-Mitigation; proof of concept record tracked across 2 sources.",
   "sector": "quantum",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/superconducting-qubits.md",

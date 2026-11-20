@@ -1,7 +1,7 @@
 {
   "id": "dram-and-hbm-demand",
   "title": "Dram And Hbm Demand",
-  "summary": "It builds on Ai Demand For Llms; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Ai Demand For Llms; proof of concept record tracked across 1 source.",
   "sector": "memory",
   "sourceCategory": "Semiconductors",
   "sourcePath": "_tech/dram-and-hbm-demand.md",

@@ -1,7 +1,7 @@
 {
   "id": "fault-tolerant-error-correction",
   "title": "Fault-Tolerant-Error-Correction",
-  "summary": "It builds on Topological-Qubits; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Topological-Qubits; proof of concept record tracked across 2 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/fault-tolerant-error-correction.md",

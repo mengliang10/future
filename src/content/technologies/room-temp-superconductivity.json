@@ -1,7 +1,7 @@
 {
   "id": "room-temp-superconductivity",
   "title": "Room-Temp-Superconductivity",
-  "summary": "It builds on Ml-Superconductor-Prediction and is cited as an enabler for Ml-Accelerated-Prediction; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Ml-Superconductor-Prediction and is cited as an enabler for Ml-Accelerated-Prediction; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/room-temp-superconductivity.md",

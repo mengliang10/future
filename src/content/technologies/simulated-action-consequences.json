@@ -1,7 +1,7 @@
 {
   "id": "simulated-action-consequences",
   "title": "Simulated-Action-Consequences",
-  "summary": "It builds on Causal-World-Model-Agents; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Causal-World-Model-Agents; proof of concept record tracked across 2 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/simulated-action-consequences.md",

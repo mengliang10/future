@@ -1,7 +1,7 @@
 {
   "id": "chatbot-market-share",
   "title": "Chatbot Market Share",
-  "summary": "It builds on Claude Chatbot Adoption; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Claude Chatbot Adoption; proof of concept record tracked across 1 source.",
   "sector": "llms-models",
   "sourceCategory": "Financial Markets",
   "sourcePath": "_tech/chatbot-market-share.md",

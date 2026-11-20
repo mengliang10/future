@@ -1,7 +1,7 @@
 {
   "id": "materials-characterization",
   "title": "Materials-Characterization",
-  "summary": "It builds on Particle-Scattering; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Particle-Scattering; proof of concept record tracked across 2 sources.",
   "sector": "materials-physics",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/materials-characterization.md",

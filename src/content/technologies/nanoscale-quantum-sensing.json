@@ -1,7 +1,7 @@
 {
   "id": "nanoscale-quantum-sensing",
   "title": "Nanoscale-Quantum-Sensing",
-  "summary": "It builds on Nv-Center-Nanoantennas; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Nv-Center-Nanoantennas; proof of concept record tracked across 2 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/nanoscale-quantum-sensing.md",

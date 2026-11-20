@@ -1,7 +1,7 @@
 {
   "id": "real-time-deformation-tracking",
   "title": "Real-Time-Deformation-Tracking",
-  "summary": "It builds on Digital-Image-Correlation; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Digital-Image-Correlation; proof of concept record tracked across 2 sources.",
   "sector": "ai-infrastructure",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/real-time-deformation-tracking.md",

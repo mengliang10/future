@@ -1,7 +1,7 @@
 {
   "id": "autonomous-process-control",
   "title": "Autonomous-Process-Control",
-  "summary": "It builds on Reinforcement-Learning-Optimization; Proof of concept record tracked across 3 sources.",
+  "summary": "It builds on Reinforcement-Learning-Optimization; proof of concept record tracked across 3 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/autonomous-process-control.md",

@@ -1,7 +1,7 @@
 {
   "id": "organ-specific-delivery",
   "title": "Organ-Specific-Delivery",
-  "summary": "It builds on Tissue-Targeted-Mrna-Lnp; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Tissue-Targeted-Mrna-Lnp; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/organ-specific-delivery.md",

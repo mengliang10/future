@@ -1,7 +1,7 @@
 {
   "id": "computing-in-memory-architecture",
   "title": "Computing In Memory Architecture",
-  "summary": "It builds on Moores Law Slowdown and is cited as an enabler for Chip Design; Proof of concept record tracked across 3 sources.",
+  "summary": "It builds on Moores Law Slowdown and is cited as an enabler for Chip Design; proof of concept record tracked across 3 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/computing-in-memory-architecture.md",

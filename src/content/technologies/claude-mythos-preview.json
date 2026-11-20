@@ -1,7 +1,7 @@
 {
   "id": "claude-mythos-preview",
   "title": "Claude Mythos Preview",
-  "summary": "It is cited as an enabler for Cybersecurity Vulnerability Discovery; Proof of concept record tracked across 1 source.",
+  "summary": "It is cited as an enabler for Cybersecurity Vulnerability Discovery; proof of concept record tracked across 1 source.",
   "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/claude-mythos-preview.md",

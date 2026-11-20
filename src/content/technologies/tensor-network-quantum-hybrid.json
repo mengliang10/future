@@ -1,7 +1,7 @@
 {
   "id": "tensor-network-quantum-hybrid",
   "title": "Tensor-Network-Quantum-Hybrid",
-  "summary": "It is cited as an enabler for Material-Simulation; Proof of concept record tracked across 2 sources.",
+  "summary": "It is cited as an enabler for Material-Simulation; proof of concept record tracked across 2 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/tensor-network-quantum-hybrid.md",

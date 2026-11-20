@@ -1,7 +1,7 @@
 {
   "id": "real-time-3d-reconstruction",
   "title": "Real-Time-3D-Reconstruction",
-  "summary": "It builds on Neural-Radiance-Fields-3Dgs; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Neural-Radiance-Fields-3Dgs; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/real-time-3d-reconstruction.md",

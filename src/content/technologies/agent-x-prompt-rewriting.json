@@ -1,7 +1,7 @@
 {
   "id": "agent-x-prompt-rewriting",
   "title": "Agent-X-Prompt-Rewriting",
-  "summary": "It is cited as an enabler for Prefix-Caching, Prefix-Caching-Leverage; Proof of concept record tracked across 2 sources.",
+  "summary": "It is cited as an enabler for Prefix-Caching, Prefix-Caching-Leverage; proof of concept record tracked across 2 sources.",
   "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/agent-x-prompt-rewriting.md",

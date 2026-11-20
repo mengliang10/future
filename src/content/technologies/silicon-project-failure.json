@@ -1,7 +1,7 @@
 {
   "id": "silicon-project-failure",
   "title": "Silicon Project Failure",
-  "summary": "It builds on Memory Design Risk; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Memory Design Risk; proof of concept record tracked across 2 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/silicon-project-failure.md",

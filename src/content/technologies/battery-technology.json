@@ -1,7 +1,7 @@
 {
   "id": "battery-technology",
   "title": "Battery-Technology",
-  "summary": "It builds on Energy-Storage; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Energy-Storage; proof of concept record tracked across 2 sources.",
   "sector": "energy",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/battery-technology.md",

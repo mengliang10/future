@@ -1,7 +1,7 @@
 {
   "id": "quantum-materials",
   "title": "Quantum-Materials",
-  "summary": "It builds on Condensed-Matter; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Condensed-Matter; proof of concept record tracked across 2 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-materials.md",

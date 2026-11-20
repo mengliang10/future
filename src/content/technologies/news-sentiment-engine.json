@@ -1,7 +1,7 @@
 {
   "id": "news-sentiment-engine",
   "title": "News Sentiment Engine",
-  "summary": "It builds on Cpu Only Inference; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Cpu Only Inference; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/news-sentiment-engine.md",

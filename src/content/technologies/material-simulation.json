@@ -1,7 +1,7 @@
 {
   "id": "material-simulation",
   "title": "Material-Simulation",
-  "summary": "It builds on Tensor-Network-Quantum-Hybrid; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Tensor-Network-Quantum-Hybrid; proof of concept record tracked across 1 source.",
   "sector": "materials-physics",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/material-simulation.md",

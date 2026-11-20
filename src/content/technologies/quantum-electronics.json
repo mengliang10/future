@@ -1,7 +1,7 @@
 {
   "id": "quantum-electronics",
   "title": "Quantum-Electronics",
-  "summary": "It builds on Quantum-Geometry-Condensed-Matter; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Quantum-Geometry-Condensed-Matter; proof of concept record tracked across 1 source.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-electronics.md",

@@ -1,7 +1,7 @@
 {
   "id": "brain-computer-interface",
   "title": "Brain-Computer-Interface",
-  "summary": "It builds on Neural-Network-Dynamics; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Neural-Network-Dynamics; proof of concept record tracked across 1 source.",
   "sector": "bci",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/brain-computer-interface.md",

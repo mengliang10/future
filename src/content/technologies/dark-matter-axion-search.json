@@ -1,7 +1,7 @@
 {
   "id": "dark-matter-axion-search",
   "title": "Dark-Matter-Axion-Search",
-  "summary": "It builds on Cryogenic-Detector-Calibration; Proof of concept record tracked across 3 sources.",
+  "summary": "It builds on Cryogenic-Detector-Calibration; proof of concept record tracked across 3 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/dark-matter-axion-search.md",

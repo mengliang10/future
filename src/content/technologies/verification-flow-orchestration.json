@@ -1,7 +1,7 @@
 {
   "id": "verification-flow-orchestration",
   "title": "Verification Flow Orchestration",
-  "summary": "It builds on Agentic Verification; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Agentic Verification; proof of concept record tracked across 2 sources.",
   "sector": "ai-agents-software",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/verification-flow-orchestration.md",

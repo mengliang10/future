@@ -1,7 +1,7 @@
 {
   "id": "autonomous-vehicle-perception",
   "title": "Autonomous-Vehicle-Perception",
-  "summary": "It builds on Lidar-On-Chip-Fmcw; Proof of concept record tracked across 8 sources.",
+  "summary": "It builds on Lidar-On-Chip-Fmcw; proof of concept record tracked across 8 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/autonomous-vehicle-perception.md",

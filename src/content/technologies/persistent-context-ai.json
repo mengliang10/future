@@ -1,7 +1,7 @@
 {
   "id": "persistent-context-ai",
   "title": "Persistent-Context-Ai",
-  "summary": "It builds on Long-Term-Memory-Agents; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Long-Term-Memory-Agents; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/persistent-context-ai.md",

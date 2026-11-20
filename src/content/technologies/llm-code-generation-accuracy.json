@@ -1,7 +1,7 @@
 {
   "id": "llm-code-generation-accuracy",
   "title": "Llm Code Generation Accuracy",
-  "summary": "It builds on Boundary-Aware Intervention; Proof of concept record tracked across 3 sources.",
+  "summary": "It builds on Boundary-Aware Intervention; proof of concept record tracked across 3 sources.",
   "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/llm-code-generation-accuracy.md",

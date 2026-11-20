@@ -1,7 +1,7 @@
 {
   "id": "google-search-market-share",
   "title": "Google Search Market Share",
-  "summary": "It builds on Alphabet Gemini Llms, Gemini-Large-Language-Model; Proof of concept record tracked across 11 sources.",
+  "summary": "It builds on Alphabet Gemini Llms, Gemini-Large-Language-Model; proof of concept record tracked across 11 sources.",
   "sector": "applied-ai",
   "sourceCategory": "Financial Markets",
   "sourcePath": "_tech/google-search-market-share.md",

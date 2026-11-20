@@ -1,7 +1,7 @@
 {
   "id": "autonomous-research-agent",
   "title": "Autonomous-Research-Agent",
-  "summary": "It builds on Large-Language-Model; Proof of concept record tracked across 16 sources.",
+  "summary": "It builds on Large-Language-Model; proof of concept record tracked across 16 sources.",
   "sector": "ai-agents-software",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/autonomous-research-agent.md",

@@ -1,7 +1,7 @@
 {
   "id": "fault-tolerant-quantum-computing",
   "title": "Fault-Tolerant-Quantum-Computing",
-  "summary": "It builds on Topological-Qubits-Majorana; Proof of concept record tracked across 5 sources.",
+  "summary": "It builds on Topological-Qubits-Majorana; proof of concept record tracked across 5 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/fault-tolerant-quantum-computing.md",

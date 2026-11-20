@@ -1,7 +1,7 @@
 {
   "id": "quantum-communication-networks",
   "title": "Quantum-Communication-Networks",
-  "summary": "It builds on On-Chip-Quantum-Dot-Sources; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on On-Chip-Quantum-Dot-Sources; proof of concept record tracked across 2 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-communication-networks.md",

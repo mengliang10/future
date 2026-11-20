@@ -1,7 +1,7 @@
 {
   "id": "llm-computational-cost",
   "title": "Llm Computational Cost",
-  "summary": "It builds on Slm Efficiency; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Slm Efficiency; proof of concept record tracked across 1 source.",
   "sector": "llms-models",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/llm-computational-cost.md",

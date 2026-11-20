@@ -1,7 +1,7 @@
 {
   "id": "real-time-tumor-evolution-monitoring",
   "title": "Real-Time-Tumor-Evolution-Monitoring",
-  "summary": "It builds on Multi-Omic-Liquid-Biopsy; Proof of concept record tracked across 2 sources.",
+  "summary": "It builds on Multi-Omic-Liquid-Biopsy; proof of concept record tracked across 2 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/real-time-tumor-evolution-monitoring.md",

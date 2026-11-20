@@ -1,7 +1,7 @@
 {
   "id": "quantum-hardware-architecture",
   "title": "Quantum-Hardware-Architecture",
-  "summary": "It builds on Moire-Spintronics; Proof of concept record tracked across 5 sources.",
+  "summary": "It builds on Moire-Spintronics; proof of concept record tracked across 5 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/quantum-hardware-architecture.md",

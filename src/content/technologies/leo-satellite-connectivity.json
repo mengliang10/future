@@ -1,7 +1,7 @@
 {
   "id": "leo-satellite-connectivity",
   "title": "Leo-Satellite-Connectivity",
-  "summary": "It builds on Free-Space-Optics-Drone; Proof of concept record tracked across 3 sources.",
+  "summary": "It builds on Free-Space-Optics-Drone; proof of concept record tracked across 3 sources.",
   "sector": "space",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/leo-satellite-connectivity.md",

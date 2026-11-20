@@ -1,7 +1,7 @@
 {
   "id": "global-cyber-threat-level",
   "title": "Global Cyber Threat Level",
-  "summary": "It builds on Cyber Incident Count; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Cyber Incident Count; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/global-cyber-threat-level.md",

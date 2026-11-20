@@ -1,7 +1,7 @@
 {
   "id": "ai-infrastructure-demand",
   "title": "Ai Infrastructure Demand",
-  "summary": "It builds on Global Token Consumption; Proof of concept record tracked across 4 sources.",
+  "summary": "It builds on Global Token Consumption; proof of concept record tracked across 4 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/ai-infrastructure-demand.md",

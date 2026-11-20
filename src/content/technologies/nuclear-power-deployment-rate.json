@@ -1,7 +1,7 @@
 {
   "id": "nuclear-power-deployment-rate",
   "title": "Nuclear Power Deployment Rate",
-  "summary": "It builds on Next-Gen-Nuclear-Design; Proof of concept record tracked across 20 sources.",
+  "summary": "It builds on Next-Gen-Nuclear-Design; proof of concept record tracked across 20 sources.",
   "sector": "energy",
   "sourceCategory": "Energy Tech",
   "sourcePath": "_tech/nuclear-power-deployment-rate.md",

@@ -1,7 +1,7 @@
 {
   "id": "sensitive-data-risk",
   "title": "Sensitive Data Risk",
-  "summary": "It builds on Online Ai Model Data Leak; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Online Ai Model Data Leak; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/sensitive-data-risk.md",

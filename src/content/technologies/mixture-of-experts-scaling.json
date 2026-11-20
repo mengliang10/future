@@ -1,7 +1,7 @@
 {
   "id": "mixture-of-experts-scaling",
   "title": "Mixture-Of-Experts-Scaling",
-  "summary": "It is cited as an enabler for Conditional-Compute-Efficiency; Proof of concept record tracked across 3 sources.",
+  "summary": "It is cited as an enabler for Conditional-Compute-Efficiency; proof of concept record tracked across 3 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/mixture-of-experts-scaling.md",

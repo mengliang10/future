@@ -1,7 +1,7 @@
 {
   "id": "multi-step-problem-solving",
   "title": "Multi-Step-Problem-Solving",
-  "summary": "It builds on Chain-Of-Thought-Reasoning; Proof of concept record tracked across 8 sources.",
+  "summary": "It builds on Chain-Of-Thought-Reasoning; proof of concept record tracked across 8 sources.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/multi-step-problem-solving.md",

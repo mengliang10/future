@@ -1,7 +1,7 @@
 {
   "id": "tunable-quantum-phases",
   "title": "Tunable-Quantum-Phases",
-  "summary": "It builds on Moire-Materials; Proof of concept record tracked across 3 sources.",
+  "summary": "It builds on Moire-Materials; proof of concept record tracked across 3 sources.",
   "sector": "quantum",
   "sourceCategory": "Quantum Computing",
   "sourcePath": "_tech/tunable-quantum-phases.md",

@@ -1,7 +1,7 @@
 {
   "id": "human-oversight-requirement",
   "title": "Human Oversight Requirement",
-  "summary": "It builds on Ai Hallucination, Ai Hallucination Risk; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Ai Hallucination, Ai Hallucination Risk; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/human-oversight-requirement.md",

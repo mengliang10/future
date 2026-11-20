@@ -1,7 +1,7 @@
 {
   "id": "grounded-knowledge-access",
   "title": "Grounded-Knowledge-Access",
-  "summary": "It builds on Retrieval-Augmented-Generation; Proof of concept record tracked across 1 source.",
+  "summary": "It builds on Retrieval-Augmented-Generation; proof of concept record tracked across 1 source.",
   "sector": "applied-ai",
   "sourceCategory": "AI & Cloud",
   "sourcePath": "_tech/grounded-knowledge-access.md",
