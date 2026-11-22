@@ -49,28 +49,6 @@ for p in root.rglob('*.html'):
             target = html if html.exists() else index
         if not target.is_file():
             broken[raw] += 1
-    for a in []:
-        u = urlsplit(a['href'])
-        if u.scheme or u.netloc or not u.path or not u.path.startswith('/'):
-            continue
-        rel = u.path
-        if rel.startswith(base):
-            rel = rel[len(base):]
-        if not rel.startswith('/'):
-            rel = '/' + rel
-
-        # check target
-        target = root / unquote(rel).lstrip('/')
-        if target.is_dir():
-            target = target / 'index.html'
-        elif not target.suffix and (root / (unquote(rel).lstrip('/') + '.html')).exists():
-            target = root / (unquote(rel).lstrip('/') + '.html')
-        elif not target.suffix and (root / unquote(rel).lstrip('/') / 'index.html').exists():
-            target = root / unquote(rel).lstrip('/') / 'index.html'
-
-        if not target.exists():
-            broken[u.path] += 1
-
 manifest = json.loads(Path('qa/import-manifest.json').read_text())
 for entry in manifest['records']:
     if not entry.get('source'):
