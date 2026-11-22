@@ -1,65 +1,81 @@
 # The Future Tomorrow
 
-A local Astro research site for technology, business and investment readers, migrated from `mengliang10/future`.
+**Technology intelligence for business, strategy and investment.**
 
-## Local preview
+Explore emerging technologies, their commercial implications, company exposure and source-labelled research. Browse the interactive atlas or open executive-ready slide briefings.
 
-```sh
+### [Open the live website → https://mengliang10.github.io/future/](https://mengliang10.github.io/future/)
+
+| Explore | Direct link |
+| --- | --- |
+| **Presentation Studio** — sector briefings and slide decks | [Open presentations](https://mengliang10.github.io/future/presentations/) |
+| **Technology Explorer** — search and filter emerging technology records | [Explore technologies](https://mengliang10.github.io/future/explore/) |
+| **Future Tech Sectors** — research organised by engineering domain | [Browse sectors](https://mengliang10.github.io/future/sectors/) |
+| **Technology Roadmaps** — explore source-estimated horizons | [View roadmaps](https://mengliang10.github.io/future/roadmaps/) |
+| **Company Atlas** — listed and private company research | [Explore companies](https://mengliang10.github.io/future/companies/) |
+| **Research & Methodology** — evidence, provenance and limitations | [Read methodology](https://mengliang10.github.io/future/research/) |
+
+> **Research caveat:** Most records are migrated research snapshots, **not** live market intelligence or independently verified forecasts. Timing, confidence, valuation and financial observations must be checked against current primary sources before use. This is not investment advice.
+
+## Inside the platform
+
+- **972 technology records** and **567 company records** in the imported/current content set.
+- **17 technology categories** for discovery, plus source-stage and horizon filters.
+- **11 official market-sector briefings** within **54 deck manifests** (776 rendered slides in the documented build).
+- Responsive 16:9 presentations with reading, fullscreen and print/PDF modes.
+- Shared content records underpinning multiple pages and evergreen presentations. Fixed snapshots preserve historical versions where configured.
+
+Numbers describe the documented repository build, not live-refreshing datasets.
+
+## Run locally
+
+Requires Node.js **22.12+**.
+
+```bash
+git clone https://github.com/mengliang10/future.git
+cd future
 npm ci
+npm run dev
+```
+
+Local development: `http://127.0.0.1:4330/` (**local only; not the public site**).
+
+Production build:
+
+```bash
 npm run build
 npm run preview
 ```
 
-Default address: http://127.0.0.1:4330/
+## Quality checks
 
-Development: `npm run dev`. The website is static and can later be hosted on GitHub Pages. Nothing in this project automatically publishes or changes the live source repository.
-
-## What is included
-
-- 972 technology records and 567 company records, including newer private future-tech companies alongside the imported source set.
-- 15 normalised sectors, with original category labels retained in each record.
-- Search/filter/pagination explorers, roadmap views, linked companies and original research pages.
-- 54 briefing manifests generating 776 slides, including 11 official sector decks at 17 slides each, plus one example fixed snapshot.
-- A common 16:9 Reveal.js slide renderer with generated SVG diagrams (actors, risk, funnel, portfolio map, technology anatomy), responsive reading mode, browser Print/PDF and shared source hooks.
-- Original repository with Git history in `source/original`, original Markdown downloads under `public/source`, and machine-readable import manifest in `qa/import-manifest.json`.
-
-The records are imported research. Claims, timelines, confidence scores, financial data and source counts have **not** been independently revalidated. The site labels this status and does not describe the market snapshot as live data. A rebuild is not a research review.
-
-## File structure
-
-```text
-src/content/technologies/    canonical structured technology data + preserved notes
-src/content/companies/      company records
-src/content/sectors/        consistent aliases and business/investor questions
-src/content/blocks/         reusable slide framework text
-src/content/decks/          ordered references to records and blocks
-src/content/articles/       preserved original narrative pages
-src/components/Slide.astro  one slide template shared by every briefing
-src/styles/slides.css       shared slide theme
-src/styles/site.css         shared website theme
-scripts/update-record.mjs   targeted changes + dependency impact + backups
-scripts/snapshot-deck.mjs   fixed historical deck data
-scripts/dependencies.mjs    machine-readable dependency map
-```
-
-See [AUTHORING.md](AUTHORING.md) for mass updates and [MIGRATION.md](MIGRATION.md) for provenance and limitations.
-
-## Checks
-
-```sh
+```bash
 npm run build
+npm run audit
 npm run qa
-node scripts/dependencies.mjs
 ```
 
-Browser QA covers desktop/tablet/mobile layouts, filters, navigation, no-JavaScript fallback and every generated slide for content/footer overlap. The update propagation test makes a temporary edit, checks all evergreen consumers, verifies snapshot stability, restores the original record and rebuilds:
+The build validates structured data. The static audit checks generated internal URLs, assets and original-source downloads; browser QA covers layout and interaction. External websites may change or block automated requests, so external links require separate checking.
 
-```sh
-node scripts/verify-shared-update.mjs
-```
+## Publishing
 
-The preview uses no analytics or live contact submission. Original contact details remain in the preserved source pages. Existing market-fetch scripts remain archived in `source/original/scripts`; no scheduled tasks were installed.
+GitHub Actions deploys the static Astro build from `main` to **https://mengliang10.github.io/future/**. Configuration is in [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml); the Astro base path is `/future`.
 
-## Current visual design
+## Repository guide
 
-The research website now follows the supplied Chirping Astro reference: fixed left sidebar, a compact search/location top bar, a white article-card stream on grey, a right supporting-links panel, Source Sans typography and restrained blue links. Mobile uses an overlay sidebar. Dark mode persists locally, and `/` focuses search. See [DESIGN.md](DESIGN.md) for reference evidence and implementation details. Existing content IDs, deck manifests and batch-update hooks are unchanged. Original before-redesign files are in `source/design-backups/before-chirping`.
+| Path | Purpose |
+| --- | --- |
+| [`src/content/`](src/content/) | Structured research, sector records, articles and decks |
+| [`src/pages/`](src/pages/) | Page routes and presentation pages |
+| [`src/components/`](src/components/) | Reusable research and slide visuals |
+| [`src/styles/`](src/styles/) | Website and briefing design |
+| [`scripts/`](scripts/) | Validation, QA, updates and import utilities |
+| [`AUTHORING.md`](AUTHORING.md) | Content authoring and bulk updates |
+| [`MIGRATION.md`](MIGRATION.md) | Source provenance and migration constraints |
+| [`DESIGN.md`](DESIGN.md) | Design decisions and reference attribution |
+
+The source import and original Markdown are preserved for provenance. No server-side database, paid API, or runtime backend is required for the published static research experience.
+
+---
+
+**[Visit the website](https://mengliang10.github.io/future/)** · **[Presentation Studio](https://mengliang10.github.io/future/presentations/)** · **[Explore the research](https://mengliang10.github.io/future/explore/)**
