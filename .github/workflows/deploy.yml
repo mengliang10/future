@@ -33,6 +33,12 @@ jobs:
       - name: Validate data & Build
         run: npm run build
 
+      - name: Install link-audit dependency
+        run: python3 -m pip install beautifulsoup4
+
+      - name: Check generated internal links and assets
+        run: npm run audit
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
