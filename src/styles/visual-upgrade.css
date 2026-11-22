@@ -16,3 +16,9 @@ body.chirping-site .browse-item{border-left:3px solid var(--sector,var(--line))}
 :root[data-theme=dark] .theme-slider-icon.sun{color:var(--muted);opacity:.5}
 :root[data-theme=dark] .theme-slider-icon.moon{color:#adbaff;opacity:1}
 
+
+/* Clear secondary route into the presentation studio. */
+.discovery-secondary{display:inline-flex;align-items:center;margin:12px 0 0 14px;font-size:12px;font-weight:650;color:#394e9e;text-decoration:underline;text-underline-offset:3px}
+.discovery-secondary:focus-visible,.discovery-button:focus-visible{outline:3px solid #394e9e;outline-offset:3px}
+[data-theme=dark] .discovery-secondary{color:#c2cdff}
+@media(max-width:480px){.discovery-secondary{display:flex;margin:14px 0 0}}
