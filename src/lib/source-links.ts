@@ -45,6 +45,12 @@ export async function sourceLinks(html: string): Promise<string> {
     .replace(/<form\b[^>]*action="[^"]*REPLACE_WITH_YOUR_FORM_ID"[\s\S]*?<\/form>/gi, '<p><a href="mailto:mengliang.online@gmail.com">Email the author ↗</a></p>')
     .replace(/<div class="callout callout-info"[^>]*>[\s\S]*?Powered by[\s\S]*?<\/div>/g, '');
 
+  // Resolve legacy root-relative images against the GitHub Pages /future/ base.
+  html = html.replace(/src="(\/[^"]*)"/g, (_whole, src) => {
+    const clean = src.replace(/^\/future(?=\/)/, '');
+    return `src="${url(clean).replaceAll('&', '&amp;')}"`;
+  });
+
   return html.replace(/href="(\/[^"]*)"/g, (whole, href) => {
     let dest = href.replace(/^\/future\//, '/');
 
