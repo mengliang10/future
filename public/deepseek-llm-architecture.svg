@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+<title id="title">Illustrative DeepSeek-style language model architecture</title>
+<desc id="desc">A simplified conceptual diagram of input tokens, attention, expert routing, mixture-of-experts processing and output. Not a verified implementation diagram.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b39"/><stop offset="1" stop-color="#222c55"/></linearGradient>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#91b7f0"/></marker>
+</defs>
+<rect width="960" height="440" rx="20" fill="url(#bg)"/>
+<text x="44" y="58" fill="#fff" font-family="Arial,sans-serif" font-size="26" font-weight="700">LLM architecture: conceptual overview</text>
+<text x="44" y="88" fill="#b7c8e8" font-family="Arial,sans-serif" font-size="15">Illustration only • Not a verified DeepSeek implementation diagram</text>
+<g font-family="Arial,sans-serif" font-weight="600" font-size="17" text-anchor="middle">
+<rect x="42" y="165" width="146" height="95" rx="12" fill="#334e86" stroke="#668bca"/><text x="115" y="205" fill="#fff">Input tokens</text><text x="115" y="230" fill="#d2e2ff" font-size="13">Embedding</text>
+<rect x="232" y="165" width="161" height="95" rx="12" fill="#2c6187" stroke="#65b5d1"/><text x="312" y="205" fill="#fff">Attention</text><text x="312" y="230" fill="#d2edff" font-size="13">Context modelling</text>
+<rect x="438" y="165" width="153" height="95" rx="12" fill="#584d8f" stroke="#a79aee"/><text x="514" y="205" fill="#fff">Expert routing</text><text x="514" y="230" fill="#e4dcff" font-size="13">Token selection</text>
+<rect x="632" y="128" width="148" height="55" rx="10" fill="#426f76" stroke="#75c3ba"/><text x="706" y="161" fill="#fff">Expert A</text>
+<rect x="632" y="201" width="148" height="55" rx="10" fill="#426f76" stroke="#75c3ba"/><text x="706" y="234" fill="#fff">Expert B</text>
+<rect x="632" y="274" width="148" height="55" rx="10" fill="#426f76" stroke="#75c3ba"/><text x="706" y="307" fill="#fff">Expert N</text>
+<rect x="826" y="165" width="100" height="95" rx="12" fill="#375d77" stroke="#87b7d7"/><text x="876" y="205" fill="#fff">Output</text><text x="876" y="230" fill="#d2edff" font-size="13">Tokens</text>
+</g>
+<g fill="none" stroke="#91b7f0" stroke-width="3" marker-end="url(#arr)">
+<path d="M188 212H230"/><path d="M393 212H436"/><path d="M591 212H611V155H629"/><path d="M591 212H629"/><path d="M591 212H611V301H629"/>
+<path d="M780 155H805V212H824"/><path d="M780 228H824"/><path d="M780 301H805V212H824"/>
+</g>
+<text x="44" y="395" fill="#bacbe6" font-family="Arial,sans-serif" font-size="14">High-level schematic • Layers and routing simplified for readability</text>
+</svg>
