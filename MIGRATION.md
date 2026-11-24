@@ -21,3 +21,5 @@ Market data is a static imported JSON snapshot with its source timestamp. It is 
 This is a structural/UX migration and reusable presentation implementation. It is not a complete current-facts audit of technology, companies, price data or investment claims. The initial commercial/investment panels provide questions to investigate. Record-specific editorial fields can be filled after evidence review.
 
 Legacy source slugs are handled through local aliases. The original GitHub Pages URL remains untouched. A future production deployment will require a domain/base-path decision and a separate deployment configuration.
+
+The counts in this file describe the import-time snapshot of 16 November 2026. Current counts are in `README.md` and `qa/validation.json`, which `npm run build` regenerates.
