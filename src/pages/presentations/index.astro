@@ -45,6 +45,8 @@ const otherDecks = items.filter(d => !officialDeckIds.has(d.id));
         Present live in full-screen Reveal.js mode, switch to Reading Document mode, or query each slide with the built-in AI assistant.
       </p>
 
+      <div class="data-note">Sector weights and change figures are static, indicative values, not live market data. Verify against current index data before use.</div>
+
       <div class="studio-meta-grid">
         <div class="studio-stat">
           <strong>11</strong>
@@ -82,8 +84,8 @@ const otherDecks = items.filter(d => !officialDeckIds.has(d.id));
               <div class="deck-card-top">
                 <span class="sector-symbol" aria-hidden="true">{s.icon}</span>
                 <div class="deck-weight-pills">
-                  <span class="pill-weight">{s.weight} Weight</span>
-                  <span class="pill-change">{s.change}</span>
+                  <span class="pill-weight" title="Static indicative figure, not live">{s.weight} Weight</span>
+                  <span class="pill-change" title="Static indicative figure, not live">{s.change}</span>
                 </div>
               </div>
 
