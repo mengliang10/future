@@ -1,4 +1,5 @@
 ---
+import {sectorLenses} from '../../lib/research-lenses';
 import {url, base} from '../../lib/base';
 import {sourceLinks} from '../../lib/source-links';
 import Site from '../../layouts/Site.astro';
@@ -75,7 +76,7 @@ const sectorCompanies = companies.filter(c=>c.sector===sector.id || (c.sectors||
     {sector.overview && (
       <section class="sector-overview" style={`--sector-accent: ${v.color};`} aria-label={`Editorial overview of ${sector.title}`}>
         <span class="lens-label">Editorial overview</span>
-        <p>{sector.overview}</p>
+        <p>{sector.overview}</p>{sectorLenses[sector.id] && <p>{sectorLenses[sector.id]} <a href="https://www.damnang.com/archive?sort=new">Research inspiration</a> (questions for further verification).</p>}
       </section>
     )}
 

@@ -1,4 +1,5 @@
 ---
+import {recordLenses} from '../lib/research-lenses';
 import {url, base} from '../lib/base';
 import {visualFor,horizonFor} from '../lib/visuals';
 import Site from '../layouts/Site.astro';
@@ -69,7 +70,7 @@ const signalSectors = new Set(
 {isTech && (prereqs.length > 0 || enables.length > 0) && <TechAnatomy record={record} prereqs={prereqs} enables={enables} companies={related} accent={accent}/>}
 {isTech && prereqs.length === 0 && enables.length === 0 && <section class="record-signal"><span class="eyebrow">Development signal</span><TechSignal record={record} accent={accent}/><p>This source record does not list explicit prerequisites or downstream links. The stage and window below come from the imported metadata.</p></section>}
 
-<div class="record-columns"><div><div class="lens-notes"><section><span class="eyebrow">For business</span><h2>What to ask.</h2><p data-field="businessMeaning">{record.businessMeaning||sector?.businessQuestion||'What practical constraint could this address, and what must change before adoption?'}</p></section><section><span class="eyebrow">For investors</span><h2>What to question.</h2><p data-field="investmentLens">{record.investmentLens||sector?.investorQuestion||'Where could value accrue, and what evidence would weaken the thesis?'}</p></section></div>
+<div class="record-columns"><div><div class="lens-notes"><section><span class="eyebrow">For business</span><h2>What to ask.</h2><p data-field="businessMeaning">{record.businessMeaning||sector?.businessQuestion||'What practical constraint could this address, and what must change before adoption?'}</p></section><section><span class="eyebrow">For investors</span><h2>What to question.</h2><p data-field="investmentLens">{record.investmentLens||sector?.investorQuestion||'Where could value accrue, and what evidence would weaken the thesis?'}</p>{recordLenses[record.id] && <p>{recordLenses[record.id]} <a href="https://www.damnang.com/archive?sort=new">Research inspiration</a> (questions for further verification).</p>}</section></div>
 <section class="source-reading"><div class="section-heading"><h2>Research notes.</h2><a href={url(`/source/${record.sourcePath}`)} download>Original Markdown ↓</a></div>
 {showToc&&<nav class="note-toc" aria-label="On this page"><span>On this page</span><ol>{sections.map(s=><li><a href={`#${s.id}`}>{s.title}</a></li>)}</ol></nav>}
 <div class="prose note-sections">{sections.map(s=><section class="note-block" set:html={s.html}/>)}</div></section>
