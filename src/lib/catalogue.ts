@@ -13,11 +13,14 @@ const TITLE_ACRONYMS: Record<string, string> = {
 /** Splits compact imported titles such as "NeutralAtomQuantum" for display only. */
 export const displayTitle = (value: unknown): string => {
   const raw = String(value || '');
-  // Imported titles sometimes use hyphens as word separators, rather than punctuation.
-  // Preserve established short compounds and identifiers (Wi-Fi, COVID-19, GPT-4, etc.).
-  const parts = raw.split('-');
-  const slugLike = !/\s/.test(raw) && parts.length >= 2 && parts.every(p => /^[A-Z][A-Za-z0-9]*$/.test(p)) && !/^(?:Wi-Fi|Li-Fi|X-Ray|X-Rays|T-Cell|B-Cell|E-Commerce|E-SIM|E-Ink|P-Type|N-Type)$/i.test(raw);
-  const text = slugLike ? parts.join(' ') : raw;
+  // Normalize imported word-separated titles, including mixed case and numeric tokens.
+  // Keep established technical compounds and model identifiers intact.
+  const protectedTerms = /\b(?:Wi-Fi|Li-Fi|X-Rays?|T-Cells?|B-Cells?|E-Commerce|E-SIM|E-Ink|P-Type|N-Type|COVID-19|GPT-\d+(?:\.\d+)?|[A-Z]{2,}-\d+[A-Za-z0-9]*|\d+-bit|\d+-nm)\b/gi;
+  const saved: string[] = [];
+  const masked = raw.replace(protectedTerms, term => `\uE000${saved.push(term)-1}\uE001`);
+  const text = masked.replace(/(?<=[\p{L}\p{N}])-+(?=[\p{L}\p{N}])/gu,' ')
+    .replace(/\uE000(\d+)\uE001/g, (_, i) => saved[Number(i)])
+    .replace(/\s+/g,' ').trim();
   if (!text || text.includes(' ') || text.length < 14) return text;
   return text
     .replace(/([a-z0-9])([A-Z])/g, '$1 $2')
