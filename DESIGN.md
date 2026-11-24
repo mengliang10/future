@@ -15,7 +15,7 @@ Inspected the live HTML, stylesheet, theme layout source, Firecrawl branding out
 
 ## Implementation
 
-`Site.astro` now provides the left sidebar, top bar, centre content column and right reading panel. `chirping.css` applies the reference's structure and typographic hierarchy to the existing research pages, collection tools and detail pages. The homepage is a post-card feed. The previous large marketing headline, count strip and green feature panels are removed from the homepage.
+`Site.astro` now provides the left sidebar, top bar, centre content column and right reading panel. `chirping.css` applies the reference's structure and typographic hierarchy to the existing research pages, collection tools and detail pages. In this first pass the homepage became a post-card feed and the earlier marketing headline, count strip and green feature panels were removed. That layout was later superseded by the discovery homepage described under "Visual discovery layer" below, which does include a cover and a count strip.
 
 Self-hosted Source Sans 3 regular/semibold/bold files were retrieved from the supplied reference; its OFL licence is retained. The logo/avatar is a new simple FT orbital mark, not the theme mascot. Brand text, research data and briefing content remain this project's own.
 
