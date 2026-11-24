@@ -22,3 +22,9 @@ body.chirping-site .browse-item{border-left:3px solid var(--sector,var(--line))}
 .discovery-secondary:focus-visible,.discovery-button:focus-visible{outline:3px solid #394e9e;outline-offset:3px}
 [data-theme=dark] .discovery-secondary{color:#c2cdff}
 @media(max-width:480px){.discovery-secondary{display:flex;margin:14px 0 0}}
+
+/* Homepage dossier card (replaces an empty header-only section) */
+.dossier-card{display:block;border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:1.25rem 1.4rem;margin:1.5rem 0;text-decoration:none;color:inherit}
+.dossier-card h2{margin:.35rem 0}.dossier-card p{margin:.4rem 0 .8rem;line-height:1.55}
+.dossier-card b{font-size:.9rem}.dossier-card:hover,.dossier-card:focus-visible{border-color:currentColor}
+.panel-more{display:inline-block;margin-top:.5rem;font-size:.85rem}
